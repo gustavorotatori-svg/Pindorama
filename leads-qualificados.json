@@ -2000,7 +2000,10 @@
     "template": "consultivo",
     "website": "imigrantesbebidas.com.br",
     "email1": true,
-    "date1": "2026-08-02"
+    "date1": "2026-08-02",
+    "askedCadastro": true,
+    "responded": true,
+    "responseDate": "2026-08-04"
   },
   {
     "name": "Kanguru Supermercado (Mega Adega)",
@@ -7020,7 +7023,10 @@
     "template": "pergunta",
     "website": "",
     "email1": true,
-    "date1": "2026-08-02"
+    "date1": "2026-08-02",
+    "askedCadastro": true,
+    "responded": true,
+    "responseDate": "2026-08-04"
   },
   {
     "name": "CASA GODINHO",
