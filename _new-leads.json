@@ -1,0 +1,17 @@
+[
+  {"name":"00 Sao Paulo","email":"reserva@00saopaulo.com.br","neighborhood":"Cerqueira Cesar","type":"balada","website":"https://00saopaulo.com.br","context":"filial carioca nos Jardins, lounge bar e balada"},
+  {"name":"Havana Club","email":"havana.club@renaissancehotels.com","neighborhood":"Cerqueira Cesar","type":"balada","website":"","context":"balada no Hotel Renaissance com pista de danca"},
+  {"name":"Nation Club","email":"nationdisco@gmail.com","neighborhood":"Cerqueira Cesar","type":"balada","website":"","context":"casa noturna dos anos 80 nos Jardins"},
+  {"name":"Nostro Mondo","email":"contatonostromondo@gmail.com","neighborhood":"Cerqueira Cesar","type":"balada","website":"","context":"casa noturna na Consolacao com pistas e lounge"},
+  {"name":"Clube Outs","email":"info@clubeouts.com","neighborhood":"Consolacao","type":"balada","website":"https://clubeouts.com.br","context":"balada rock n roll na Rua Augusta"},
+  {"name":"Valhala Dance House","email":"valhala@valhala.com.br","neighborhood":"Consolacao","type":"balada","website":"","context":"casa fetichista com supremacia feminina"},
+  {"name":"Casa 92","email":"casa92@casa92.com.br","neighborhood":"Pinheiros","type":"balada","website":"https://casa92.com.br","context":"bar e casa noturna no Largo da Batata"},
+  {"name":"Koo Club","email":"contato@kooclub.com.br","neighborhood":"Pinheiros","type":"balada","website":"https://kooclub.com.br","context":"balada para publico universitario na Cardeal Arcoverde"},
+  {"name":"Bar Secreto","email":"infos@barsecreto.com.br","neighborhood":"Pinheiros","type":"balada","website":"https://barsecreto.com.br","context":"casa noturna estilo clube prive em Pinheiros"},
+  {"name":"OFFSET","email":"marketing@espacooffset.com.br","neighborhood":"Pinheiros","type":"balada","website":"","context":"balada com 250m2 em Pinheiros, lounge e pista"},
+  {"name":"Sampa Vinho","email":"contato@sampavinho.com.br","neighborhood":"Pinheiros","type":"adega","website":"https://sampavinho.com.br","context":"adega especializada em vinhos brasileiros selecionados"},
+  {"name":"New Love","email":"gacarvalho.nl@gmail.com","neighborhood":"Campo Belo","type":"balada","website":"","context":"casa liberal discreta com apresentacoes eroticas"},
+  {"name":"Chess Club","email":"listachess@yahoo.com.br","neighborhood":"Campo Belo","type":"balada","website":"","context":"casa noturna no Campo Belo com pista de danca"},
+  {"name":"Estacao Campo Belo","email":"contato@estacaocampobelo.com.br","neighborhood":"Campo Belo","type":"balada","website":"","context":"bar em dois andares com telao para esportes"},
+  {"name":"Tropical Dance","email":"contato@tropicaldancepinheiros.com.br","neighborhood":"Pinheiros","type":"balada","website":"","context":"casa de shows na Rua Butanta com bandas ao vivo"}
+]

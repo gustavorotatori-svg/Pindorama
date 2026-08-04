@@ -1,0 +1,272 @@
+2026-08-04 09:31:39 - === INICIO RUN DIARIO ===
+2026-08-04 09:31:40 - PASSO 1: esvaziar pendentes (sem email1)
+2026-08-04 09:31:44 - PASSO 2: gerar lote de 100
+2026-08-04 09:31:45 - Lote gerado: 100 -> lote-planilha.json
+2026-08-04 09:31:45 - Prioridade: {"restaurante":100}
+2026-08-04 09:31:45 - Restantes p/ pr+¶ximos dias: 1353
+2026-08-04 09:31:45 - PASSO 3: enviar lote
+2026-08-04 09:31:45 - ADD OK: Sevillano Bistro & Tapas <sevillanobistro@hotmail.com> [restaurante/prova_social]
+2026-08-04 09:31:45 - ADD OK: Nathan+Û-«-÷s Famous Brasil <sac@nathans.com.br> [restaurante/consultivo]
+2026-08-04 09:31:46 - ADD OK: cafe+Ó-¸zinn <contato@cafezinn.com> [restaurante/pergunta]
+2026-08-04 09:31:46 - ADD OK: Crime Pastry Shop <crime@crimepastryshop.com> [restaurante/consultivo]
+2026-08-04 09:31:46 - ADD OK: Burguesia <burguesiahamburguer@gmail.com> [restaurante/prova_social]
+2026-08-04 09:31:46 - ADD OK: Sallvattore <sallvattore@sallvattore.com.br> [restaurante/pergunta]
+2026-08-04 09:31:46 - FAIL DNS: BBC Container <juliana@bbcburger.com.br>
+2026-08-04 09:31:46 - ADD OK: IZAKAYA KURODA BY LITTLE TOKYO <ltitaimbibi@gmail.com> [restaurante/prova_social]
+2026-08-04 09:31:46 - ADD OK: BOTTEGA BERNACCA <gerencia@bottegabernacca.com.br> [restaurante/consultivo]
+2026-08-04 09:31:46 - FAIL DNS: AE! Cozinha <contato@aecozinha.com.br>
+2026-08-04 09:31:46 - ADD OK: O TRADICIONAL+‚-ÏSSIMO <otradicionalissimo@gmail.com> [restaurante/pergunta]
+2026-08-04 09:31:46 - ADD OK: BREAK LAB BURGER <breaklab@outlook.com> [restaurante/prova_social]
+2026-08-04 09:31:46 - ADD OK: JUANITO`S EMPANADAS ARTESANALES <juan@juanitos.com.br> [restaurante/prova_social]
+2026-08-04 09:31:46 - ADD OK: CABANA BURGUER <social@cabanaburger.com.br> [restaurante/prova_social]
+2026-08-04 09:31:46 - ADD OK: DR BOTECO <dr.botecomarajoara@gmail.com> [restaurante/pergunta]
+2026-08-04 09:31:46 - ADD OK: Mexican+‚-°ssimo <atendimento@mexicanissimo.com.br> [restaurante/consultivo]
+2026-08-04 09:31:46 - ADD OK: A+‚-ÁA+‚-Ï BEACH BAR <acaibeachbar@gmail.com> [restaurante/pergunta]
+2026-08-04 09:31:46 - ADD OK: CAJUEIRO CULINA+Ó-¸RIA NORDESTINA <restaurantecajueiro@hotmail.com> [restaurante/pergunta]
+2026-08-04 09:31:46 - ADD OK: Tubar+‚-˙o do A+‚-∫a+‚-° <atendimento@tubaraodoacai.com.br> [restaurante/consultivo]
+2026-08-04 09:31:46 - ADD OK: Kinki Zushi <kinkizushi@gmail.com> [restaurante/consultivo]
+2026-08-04 09:31:46 - ADD OK: JAM - JAPANESE FOOD, ARTS & MUSIC <contato@jam.com.br> [restaurante/prova_social]
+2026-08-04 09:31:46 - ADD OK: Smokedeli <smokedeli@outlook.com> [restaurante/pergunta]
+2026-08-04 09:31:46 - ADD OK: Croasonho Campo Belo <saopaulo.campobelo@croasonho.com.br> [restaurante/consultivo]
+2026-08-04 09:31:46 - ADD OK: HEL+‚-ˆ DOCES <helo@helodoces.com.br> [restaurante/consultivo]
+2026-08-04 09:31:46 - ADD OK: Padaria Florestal <contato@padariaflorestal.com.br> [restaurante/pergunta]
+2026-08-04 09:31:46 - FAIL DNS: TGI Fridays Brasil <marketing@tgifridaysbrasil.com.br>
+2026-08-04 09:31:47 - ADD OK: Caspita Pizza <luccianar2020@gmail.com> [restaurante/pergunta]
+2026-08-04 09:31:47 - ADD OK: STUPPENDO <stuppendo.vilaleopoldina@gmail.com> [restaurante/consultivo]
+2026-08-04 09:31:47 - ADD OK: BADEJO <badejosp@badejosp.com.br> [restaurante/prova_social]
+2026-08-04 09:31:47 - ADD OK: Doceria F+‚-Ûni <contato@doceriafani.com.br> [restaurante/consultivo]
+2026-08-04 09:31:47 - ADD OK: Hong Bin <ivanwang141414@hotmail.com> [restaurante/pergunta]
+2026-08-04 09:31:47 - ADD OK: DONA FIRMINA <adm@donafirminapizzaria.com.br> [restaurante/pergunta]
+2026-08-04 09:31:47 - FAIL DNS: Chef Koji Yokomizo <bykoji@bykojimorumbi.com.br>
+2026-08-04 09:31:47 - ADD OK: KINOSHITA <aline.messias@gastronomiamf.com.br> [restaurante/consultivo]
+2026-08-04 09:31:47 - ADD OK: Nahoe Sushi <contato@nahoe.com.br> [restaurante/prova_social]
+2026-08-04 09:31:47 - ADD OK: Restaurante OHKA <contato@ohka.com.br> [restaurante/prova_social]
+2026-08-04 09:31:47 - ADD OK: Sushi Hiroshi <sushihiroshi@terra.com.br> [restaurante/pergunta]
+2026-08-04 09:31:47 - ADD OK: Mr Brugi <mrbrugi@hotmail.com> [restaurante/pergunta]
+2026-08-04 09:31:47 - ADD OK: A+‚-∫a+‚-° Villa Saud+‚-Ìvel <acaifruit@outlook.com> [restaurante/prova_social]
+2026-08-04 09:31:47 - ADD OK: Tanka Asian Kitchen <compras@tankarestaurante.com.br> [restaurante/consultivo]
+2026-08-04 09:31:47 - FAIL DNS: +¶-ÿ-‹-È+¶-ÿ-‹-ÿ+¶-ÿ-‹-¯+¶-ÿ-‹-ˇ+¶-ÿ-‹-…+¶-ÿ-‹-ˇ+¶-ÿ-‹-˘+¶-ÿ-‹-ˇ+¶-ÿ-‹-≈+¶-ÿ-‹-≈ +¶-ÿ-‹-Ï+¶-ÿ-‹-Ë +¶-ÿ-‹-‡+¶-ÿ-‹... <restaurante@strogonoffdavaleria.com>
+2026-08-04 09:31:47 - ADD OK: IZAKAYA MATSU <izakayamatsu@gmail.com> [restaurante/consultivo]
+2026-08-04 09:31:47 - ADD OK: Macaxeira Itaim <macaxeira@macaxeirarestaurante.com.br> [restaurante/prova_social]
+2026-08-04 09:31:47 - ADD OK: BRACIA PARRILLA <contato@braciaparrilla.com.br> [restaurante/prova_social]
+2026-08-04 09:31:47 - ADD OK: Le Ble+Ó-¸ Casa de pa+Ó-‚es <atendimento@leblecasadepaes.com.br> [restaurante/prova_social]
+2026-08-04 09:31:47 - ADD OK: Grace Burgers <graceburgers.bygrace@gmail.com> [restaurante/consultivo]
+2026-08-04 09:31:47 - ADD OK: Burger Company <contato@brgrco.com.br> [restaurante/consultivo]
+2026-08-04 09:31:47 - ADD OK: Restaurante Su <contato@kitchin.com.br> [restaurante/pergunta]
+2026-08-04 09:31:47 - ADD OK: KITCHIN <cida@kitchin.com.br> [restaurante/pergunta]
+2026-08-04 09:31:47 - ADD OK: CANTINA ROMA <cantinaroma.cristina@gmail.com> [restaurante/consultivo]
+2026-08-04 09:31:47 - ADD OK: FIREWOOD BURGERS <firewoodburguer@gmail.com> [restaurante/pergunta]
+2026-08-04 09:31:47 - ADD OK: WINNERBURGER <contato@winnerburger.com.br> [restaurante/consultivo]
+2026-08-04 09:31:47 - ADD OK: Raro Burger & Friends <rodolfo@rarocdr.com.br> [restaurante/consultivo]
+2026-08-04 09:31:47 - ADD OK: Por um Punhado de Do+Ó-¸lares <contato@ppdcafe.com.br> [restaurante/prova_social]
+2026-08-04 09:31:47 - ADD OK: New's Lanchonete <contato@newslanchonete.com.br> [restaurante/consultivo]
+2026-08-04 09:31:47 - ADD OK: Mr.Poke Hawaiian Food <misterpokeemcasa@gmail.com> [restaurante/pergunta]
+2026-08-04 09:31:47 - ADD OK: Kotay Sushi <arnaldoferreiramacedo2015@gmail.com> [restaurante/consultivo]
+2026-08-04 09:31:48 - ADD OK: Pasta Way <itaimsp@pastaway.com.br> [restaurante/prova_social]
+2026-08-04 09:31:48 - ADD OK: Vica Pota Pizzaria e Forneria <contato@vicapota.com.br> [restaurante/pergunta]
+2026-08-04 09:31:48 - FAIL DNS: Espa+‚-∫o Arimb+‚-Ì <contato@arimbarestaurante.com.br>
+2026-08-04 09:31:48 - ADD OK: Olivia Saladas <contato@oliviasaladas.com.br> [restaurante/prova_social]
+2026-08-04 09:31:48 - ADD OK: Friendship Burguer <friendshipburguer@gmail.com> [restaurante/pergunta]
+2026-08-04 09:31:48 - FAIL DNS: Nanako <restaurante@nanako.com.br>
+2026-08-04 09:31:48 - ADD OK: Empanadas Catedral <empanadascatedral@gmail.com> [restaurante/consultivo]
+2026-08-04 09:31:48 - ADD OK: Restaurante Japone+Ó-Ès Sushi Ie+Ó-È <sakay.sushi@gmail.com> [restaurante/pergunta]
+2026-08-04 09:31:48 - ADD OK: SAKEUMI Restaurante <contato.sakeumi@gmail.com> [restaurante/pergunta]
+2026-08-04 09:31:48 - ADD OK: TIME+È-¶S BURGER <brooklintimesburger@gmail.com> [restaurante/consultivo]
+2026-08-04 09:31:48 - ADD OK: Cantina 1020 <cantina1020@gmail.com> [restaurante/prova_social]
+2026-08-04 09:31:48 - ADD OK: BOTECO DO GOIS <contato@botecogois.com.br> [restaurante/consultivo]
+2026-08-04 09:31:48 - ADD OK: HM FOOD CAF+‚-Î <hesli@hmfoodservice.com> [restaurante/pergunta]
+2026-08-04 09:31:48 - ADD OK: Caverna do Drag+‚-˙o Doce <cavernadodragaodoce@gmail.com> [restaurante/consultivo]
+2026-08-04 09:31:48 - ADD OK: DON PANCHO <contato@donpancho.com.br> [restaurante/consultivo]
+2026-08-04 09:31:48 - ADD OK: BAR DO BIU <bardobiu@gmail.com> [restaurante/pergunta]
+2026-08-04 09:31:48 - ADD OK: IRON BURGUER <ironhamburgueria@gmail.com> [restaurante/pergunta]
+2026-08-04 09:31:48 - ADD OK: Zain Restaurante <zaintatuape@gmail.com> [restaurante/pergunta]
+2026-08-04 09:31:48 - ADD OK: Lolla's Confeitaria e Cafe+Ó-¸ <contato@lollasconfeitaria.com.br> [restaurante/consultivo]
+2026-08-04 09:31:48 - ADD OK: Burger Makers <marcello@burgermakers.com.br> [restaurante/consultivo]
+2026-08-04 09:31:48 - ADD OK: URBE CAFE+Ó-¸ <urbe@urbecafe.com.br> [restaurante/consultivo]
+2026-08-04 09:31:48 - FAIL DNS: Burger 700 <contato@burger700.com.br>
+2026-08-04 09:31:48 - ADD OK: PINOCCHIO CUCINA <adm@grupoflorence.com.br> [restaurante/consultivo]
+2026-08-04 09:31:48 - ADD OK: Hinode <sekaisekiguchi@hotmail.com> [restaurante/pergunta]
+2026-08-04 09:31:48 - ADD OK: BUBBELEH <jamespossi75@gmail.com> [restaurante/consultivo]
+2026-08-04 09:31:48 - ADD OK: Mapu Restaurante <mapurestaurante@gmail.com> [restaurante/pergunta]
+2026-08-04 09:31:48 - ADD OK: DDonuts <marcelo.ying@gmail.com> [restaurante/consultivo]
+2026-08-04 09:31:48 - ADD OK: AROMA BISTR+‚-ˆ E CAF+‚-Î <aromabistrotcafe@hotmail.com> [restaurante/pergunta]
+2026-08-04 09:31:48 - ADD OK: Janela Bar <janelabar.tatuape@gmail.com> [restaurante/consultivo]
+2026-08-04 09:31:48 - ADD OK: Frutaria Pitaya <contato@frutariapitaya.com.br> [restaurante/prova_social]
+2026-08-04 09:31:48 - ADD OK: Mr. Mill's Burger <mrmillshamburgueria@gmail.com> [restaurante/consultivo]
+2026-08-04 09:31:49 - FAIL DNS: MUNDIBAR <luciano@mundibar.com.br>
+2026-08-04 09:31:49 - ADD OK: Restaurante Kame Kami <adm@umeboshi.com.br> [restaurante/consultivo]
+2026-08-04 09:31:49 - ADD OK: REPUBLIQUE DU CAFE+Ó-¸ <republiqueducafe@gmail.com> [restaurante/pergunta]
+2026-08-04 09:31:49 - ADD OK: Brascatta Pizzaria <brascatta@brascatta.com.br> [restaurante/consultivo]
+2026-08-04 09:31:49 - ADD OK: Kyodo Temaki House <sushikyodo@gmail.com> [restaurante/consultivo]
+2026-08-04 09:31:49 - ADD OK: Covil Game Bar <covilgb@gmail.com> [restaurante/pergunta]
+2026-08-04 09:31:49 - ADD OK: Kadalora Pizzaria <faleconosco@kadalora.com.br> [restaurante/prova_social]
+2026-08-04 09:31:49 - ADD OK: Bo+Ó-¸sforo <bosforoesfiha@gmail.com> [restaurante/pergunta]
+2026-08-04 09:31:49 - ADD OK: Toshiro Sushi Vila Romana <toshirosushivilaromana@gmail.com> [restaurante/prova_social]
+2026-08-04 09:31:49 - ADD OK: Rancho Empyreo Restaurante <ranchoempyreo@hotmail.com> [restaurante/pergunta]
+2026-08-04 09:31:49 - ADD OK: HUEVOS DE ORO <wagnerazevedo@globo.com> [restaurante/pergunta]
+2026-08-04 09:31:49 - ADD OK: Benza Restaurante <benzarestaurante@gmail.com> [restaurante/prova_social]
+2026-08-04 09:31:49 - Added 91 leads
+2026-08-04 09:31:52 - EMAIL1 OK: Sevillano Bistro & Tapas <sevillanobistro@hotmail.com>
+2026-08-04 09:31:58 - EMAIL1 OK: Nathan+Û-«-÷s Famous Brasil <sac@nathans.com.br>
+2026-08-04 09:32:04 - EMAIL1 OK: cafe+Ó-¸zinn <contato@cafezinn.com>
+2026-08-04 09:32:10 - EMAIL1 OK: Crime Pastry Shop <crime@crimepastryshop.com>
+2026-08-04 09:32:15 - EMAIL1 OK: Burguesia <burguesiahamburguer@gmail.com>
+2026-08-04 09:32:21 - EMAIL1 OK: Sallvattore <sallvattore@sallvattore.com.br>
+2026-08-04 09:32:27 - EMAIL1 OK: IZAKAYA KURODA BY LITTLE TOKYO <ltitaimbibi@gmail.com>
+2026-08-04 09:32:33 - EMAIL1 OK: BOTTEGA BERNACCA <gerencia@bottegabernacca.com.br>
+2026-08-04 09:32:35 - QUOTA GUARD: 480/480 emails na janela 24h ‘«ˆ parando p/ nao bloquear o Gmail.
+2026-08-04 09:32:35 - PASSO 4: follow-ups vencidos
+2026-08-04 09:32:36 - QUOTA GUARD: 480/480 emails na janela 24h ‘«ˆ parando p/ nao bloquear o Gmail.
+2026-08-04 09:32:36 - Follow-ups sent: 0
+2026-08-04 09:32:36 - PASSO 5: WhatsApp (max 4/dia, guardado p/ seg-sab 8h-21h)
+2026-08-04 09:32:41 - {"level":30,"time":"2026-08-04T12:32:41.709Z","pid":26908,"hostname":"Gustavo","class":"baileys","browser":["Pindorama","Chrome","1.0"],"helloMsg":{"clientHello":{"ephemeral":"waW7meHMrI2F28L4/d87pJ12HZ7QU0Es/ah8ktFp1zY="}},"msg":"connected to WA"}
+2026-08-04 09:32:42 - {"level":30,"time":"2026-08-04T12:32:42.005Z","pid":26908,"hostname":"Gustavo","class":"baileys","node":{"username":"5511913577900","passive":true,"userAgent":{"platform":"WEB","appVersion":{"primary":2,"secondary":3000,"tertiary":1043857760},"mcc":"000","mnc":"000","osVersion":"0.1","device":"Desktop","osBuildNumber":"0.1","releaseChannel":"RELEASE","localeLanguageIso6391":"en","localeCountryIso31661Alpha2":"US"},"webInfo":{"webSubPlatform":"WEB_BROWSER"},"connectType":"WIFI_UNKNOWN","connectReason":"USER_ACTIVATED","device":11,"pull":true,"lidDbMigrated":false},"msg":"logging in..."}
+2026-08-04 09:32:43 - {"level":30,"time":"2026-08-04T12:32:43.341Z","pid":26908,"hostname":"Gustavo","class":"baileys","trace":"Error: Connection Failure\n    at WebSocketClient.<anonymous> (file:///C:/Users/rotat/OneDrive/%C3%81rea%20de%20Trabalho/Pindorama/pindorama-prospecting/node_modules/@whiskeysockets/baileys/lib/Socket/socket.js:800:18)\n    at WebSocketClient.emit (node:events:509:28)\n    at file:///C:/Users/rotat/OneDrive/%C3%81rea%20de%20Trabalho/Pindorama/pindorama-prospecting/node_modules/@whiskeysockets/baileys/lib/Socket/socket.js:465:35\n    at processData (file:///C:/Users/rotat/OneDrive/%C3%81rea%20de%20Trabalho/Pindorama/pindorama-prospecting/node_modules/@whiskeysockets/baileys/lib/Utils/noise-handler.js:126:13)\n    at process.processTicksAndRejections (node:internal/process/task_queues:104:5)\n    at async Object.decodeFrame (file:///C:/Users/rotat/OneDrive/%C3%81rea%20de%20Trabalho/Pindorama/pindorama-prospecting/node_modules/@whiskeysockets/baileys/lib/Utils/noise-handler.js:197:13)\n    at async WebSocketClient.onMessageReceived (file:///C:/Users/rotat/OneDrive/%C3%81rea%20de%20Trabalho/Pindorama/pindorama-prospecting/node_modules/@whiskeysockets/baileys/lib/Socket/socket.js:442:9)","msg":"connection errored"}
+2026-08-04 09:34:11 - Aguardando pareamento (escaneie o QR no navegador)...
+2026-08-04 09:39:12 - FALHA: tempo esgotado sem conexao
+2026-08-04 09:39:13 - PASSO 6: dashboard
+2026-08-04 09:39:17 - 
+2026-08-04 09:39:17 - ‘Úˆ‘Ú…‘Ú…‘Ú…‘Ú…‘Ú…‘Ú…‘Ú…‘Ú…‘Ú…‘Ú…‘Ú…‘Ú…‘Ú…‘Ú…‘Ú…‘Ú…‘Ú…‘Ú…‘Ú…‘Ú…‘Ú…‘Ú…‘Ú…‘Ú…‘Ú…‘Ú…‘Ú…‘Ú…‘Ú…‘Ú…‘Ú…‘Ú…‘Ú…‘Ú…‘Ú…‘Ú…‘Ú…‘Ú…‘Ú…‘Ú…‘Ú…‘Ú…‘Ú…‘Ú…‘Ú…‘Ú…‘Ú…‘Ú…‘Ú…‘Ú…‘Ú…‘Ú…‘Ú…‘Ú…‘Ú…‘Ú…‘Ú…‘Ú…‘Ú˘
+2026-08-04 09:39:17 - ‘ÚÊ         ≠ÉÙË DASHBOARD DE PROSPEC+Á+‚O ‘«ˆ PINDORAMA          ‘ÚÊ
+2026-08-04 09:39:17 - ‘Ú‹‘Ú…‘Ú…‘Ú…‘Ú…‘Ú…‘Ú…‘Ú…‘Ú…‘Ú…‘Ú…‘Ú…‘Ú…‘Ú…‘Ú…‘Ú…‘Ú…‘Ú…‘Ú…‘Ú…‘Ú…‘Ú…‘Ú…‘Ú…‘Ú…‘Ú…‘Ú…‘Ú…‘Ú…‘Ú…‘Ú…‘Ú…‘Ú…‘Ú…‘Ú…‘Ú…‘Ú…‘Ú…‘Ú…‘Ú…‘Ú…‘Ú…‘Ú…‘Ú…‘Ú…‘Ú…‘Ú…‘Ú…‘Ú…‘Ú…‘Ú…‘Ú…‘Ú…‘Ú…‘Ú…‘Ú…‘Ú…‘Ú…‘Ú…‘Úÿ
+2026-08-04 09:39:17 -   
+2026-08-04 09:39:17 - ≠ÉÙº VOLUME DE ENVIOS
+2026-08-04 09:39:17 -   Total leads cadastrados:  1131
+2026-08-04 09:39:17 -   Email1 enviados:          1047
+2026-08-04 09:39:17 -   Email2 enviados:          119
+2026-08-04 09:39:17 -   Email3 enviados:          64
+2026-08-04 09:39:17 -   Total envios:             1230
+2026-08-04 09:39:17 - 
+2026-08-04 09:39:17 - ‘£‡ QUALIDADE DA LISTA
+2026-08-04 09:39:17 -   Leads com email verificado: 1035
+2026-08-04 09:39:17 -   Leads com contato real:     1
+2026-08-04 09:39:17 -   Leads no sistema antigo:    12
+2026-08-04 09:39:17 -   Leads no sistema novo:      1119
+2026-08-04 09:39:17 - 
+2026-08-04 09:39:17 - ≠É∆º RESPOSTAS
+2026-08-04 09:39:17 -   Total respostas recebidas:  2
+2026-08-04 09:39:17 -   ‘£‡ Mir+¶ Gastronomia ‘Â∆ Recebemos e j+Ì guardei seu contato (27/07)
+2026-08-04 09:39:17 -   ‘£‡ Degusti Vinhos ‘Â∆ Pediu tabela de pre+∫os e condi+∫+¡es comerciais - enviei resposta com tabela + condi+∫+¡es (31/07)
+2026-08-04 09:39:18 -   Taxa de resposta:           0.2%
+2026-08-04 09:39:18 - 
+2026-08-04 09:39:18 - ≠Éƒø DISTRIBUI+Á+‚O A/B
+2026-08-04 09:39:18 -   consultivo: 433 leads
+2026-08-04 09:39:18 -   prova_social: 318 leads
+2026-08-04 09:39:18 -   pergunta: 361 leads
+2026-08-04 09:39:18 -   auto: 7 leads
+2026-08-04 09:39:18 - 
+2026-08-04 09:39:18 - ‘‹÷¥©≈  STATUS OPERACIONAL
+2026-08-04 09:39:18 -   Pendentes p/ email1:       83
+2026-08-04 09:39:18 -   Sem email cadastrado:      1
+2026-08-04 09:39:29 -   Enviados hoje (registrados): 96
+2026-08-04 09:39:29 -   Limite Gmail (~500):         janela deslizante 24h
+2026-08-04 09:39:30 -   Planilha:                  1100/2453 processados (1353 restantes)
+2026-08-04 09:39:30 -   WhatsApp hoje:             0/4 (m+Ìx di+Ìrio)
+2026-08-04 09:39:30 -   WhatsApp total:            54
+2026-08-04 09:39:30 - 
+2026-08-04 09:39:31 - ≠É≈¿¥©≈  SEGMENTOS
+2026-08-04 09:39:31 -   bar: 347/347 enviados
+2026-08-04 09:39:31 -   restaurante: 556/639 enviados
+2026-08-04 09:39:31 -   adega: 96/96 enviados
+2026-08-04 09:39:31 -   hotel: 2/2 enviados
+2026-08-04 09:39:31 -   balada: 10/10 enviados
+2026-08-04 09:39:31 -   distribuidora: 21/21 enviados
+2026-08-04 09:39:31 -   outro: 1/2 enviados
+2026-08-04 09:39:31 -   atacadista: 1/1 enviados
+2026-08-04 09:39:31 -   distribuidor: 1/1 enviados
+2026-08-04 09:39:31 - 
+2026-08-04 09:39:31 - ≠ÉÙÏ BAIRROS
+2026-08-04 09:39:31 -   N/I: 969
+2026-08-04 09:39:31 -   Moema: 12
+2026-08-04 09:39:31 -   Jardins: 10
+2026-08-04 09:39:31 -   Itaim Bibi: 7
+2026-08-04 09:39:31 -   Vila Ol+°mpia: 7
+2026-08-04 09:39:31 -   Perdizes: 7
+2026-08-04 09:39:31 -   Pinheiros: 6
+2026-08-04 09:39:31 -   Ipiranga: 5
+2026-08-04 09:39:31 -   Tatuap+Æ: 5
+2026-08-04 09:39:31 -   Mooca: 5
+2026-08-04 09:39:31 -   Jardim Europa: 4
+2026-08-04 09:39:31 -   Campo Belo: 4
+2026-08-04 09:39:31 -   Vila Madalena: 4
+2026-08-04 09:39:31 -   Brooklin: 3
+2026-08-04 09:39:31 -   Vila Mariana: 3
+2026-08-04 09:39:31 -   Santo Amaro: 3
+2026-08-04 09:39:31 -   Vila Carr+˙o: 3
+2026-08-04 09:39:31 -   Bela Vista: 2
+2026-08-04 09:39:31 -   Alto de Pinheiros: 2
+2026-08-04 09:39:31 -   Consolacao: 2
+2026-08-04 09:39:31 -   Cidade Jardim: 2
+2026-08-04 09:39:31 -   Cerqueira Cesar: 2
+2026-08-04 09:39:31 -   Aclima+∫+˙o: 2
+2026-08-04 09:39:31 -   Vila Clementino: 2
+2026-08-04 09:39:31 -   S+˙o Paulo: 2
+2026-08-04 09:39:31 -   Lapa: 2
+2026-08-04 09:39:31 -   Santana: 2
+2026-08-04 09:39:31 -   Br+Ìs: 2
+2026-08-04 09:39:31 -   Mau+Ì: 2
+2026-08-04 09:39:31 -   Rep+¶blica: 1
+2026-08-04 09:39:31 -   Jardim Paulista: 1
+2026-08-04 09:39:31 -   Jardim Paulistano: 1
+2026-08-04 09:39:31 -   Higien+¶polis: 1
+2026-08-04 09:39:31 -   Jardim S+˙o Bento: 1
+2026-08-04 09:39:31 -   Morumbi: 1
+2026-08-04 09:39:31 -   Mogi das Cruzes: 1
+2026-08-04 09:39:31 -   Jardim Malia II: 1
+2026-08-04 09:39:31 -   Tucuruvi: 1
+2026-08-04 09:39:31 -   Vila Silva Teles: 1
+2026-08-04 09:39:31 -   Parque do Lago: 1
+2026-08-04 09:39:32 -   Bel+Æm: 1
+2026-08-04 09:39:32 -   Vila Guilherme: 1
+2026-08-04 09:39:32 -   Vila Antonieta: 1
+2026-08-04 09:39:32 -   Jardim Santa Teresinha: 1
+2026-08-04 09:39:32 -   Planalto Paulista: 1
+2026-08-04 09:39:32 -   Barra Funda: 1
+2026-08-04 09:39:32 -   Indian+¶polis: 1
+2026-08-04 09:39:32 -   Parada Inglesa: 1
+2026-08-04 09:39:32 -   Serra da Cantareira: 1
+2026-08-04 09:39:32 -   Vila Matilde: 1
+2026-08-04 09:39:32 -   Para+°so: 1
+2026-08-04 09:39:32 -   Parelheiros: 1
+2026-08-04 09:39:32 -   Vila Leopoldina: 1
+2026-08-04 09:39:32 -   S+˙o Mateus: 1
+2026-08-04 09:39:32 -   Liberdade: 1
+2026-08-04 09:39:32 -   Casa Verde: 1
+2026-08-04 09:39:32 -   Vila Maria: 1
+2026-08-04 09:39:32 -   Jardim Bartira: 1
+2026-08-04 09:39:32 -   Jardim Santo Elias: 1
+2026-08-04 09:39:32 -   Jardim Guarani: 1
+2026-08-04 09:39:32 -   Pirituba: 1
+2026-08-04 09:39:32 -   Jabaquara: 1
+2026-08-04 09:39:32 -   Jardim Maringa: 1
+2026-08-04 09:39:32 -   Jardim Keralux: 1
+2026-08-04 09:39:32 -   Vila Londrina: 1
+2026-08-04 09:39:32 -   Vila Irm+˙os Arnoni: 1
+2026-08-04 09:39:32 -   Jardim Arpoador: 1
+2026-08-04 09:39:32 -   Vila Ponte Rasa: 1
+2026-08-04 09:39:32 -   Sumar+Æ: 1
+2026-08-04 09:39:32 -   Jardim Elisa Maria: 1
+2026-08-04 09:39:32 -   Jardim Myrna II: 1
+2026-08-04 09:39:32 -   Lapa de Baixo: 1
+2026-08-04 09:39:32 -   Santana de Parna+°ba: 1
+2026-08-04 09:39:32 -   +¸gua Funda: 1
+2026-08-04 09:39:32 -   Mau+Ì - Jardim Zaira: 1
+2026-08-04 09:39:32 -   Ibi+¶na - Ressaca: 1
+2026-08-04 09:39:32 -   Caieiras - Vera Tereza: 1
+2026-08-04 09:39:32 -   Cotia - Jardim Central: 1
+2026-08-04 09:39:32 -   Ibi+¶na - Centro: 1
+2026-08-04 09:39:32 - 
+2026-08-04 09:39:32 - ≠ÉÙ‡ TIMELINE
+2026-08-04 09:39:32 -   2026-07-25: 12 envios, 0 follow-ups
+2026-08-04 09:39:32 -   2026-07-27: 15 envios, 12 follow-ups, 1 respostas
+2026-08-04 09:39:32 -   2026-07-29: 37 envios, 15 follow-ups
+2026-08-04 09:39:32 -   2026-07-30: 7 envios, 37 follow-ups, 1 respostas
+2026-08-04 09:39:32 -   2026-07-31: 21 envios, 0 follow-ups
+2026-08-04 09:39:32 -   2026-08-01: 28 envios, 6 follow-ups
+2026-08-04 09:39:32 -   2026-08-02: 512 envios, 21 follow-ups
+2026-08-04 09:39:32 -   2026-08-03: 319 envios, 28 follow-ups
+2026-08-04 09:39:32 -   2026-08-04: 96 envios, 0 follow-ups
+2026-08-04 09:39:32 - 
+2026-08-04 09:39:32 - ‘Ú…‘Ú…‘Ú…‘Ú…‘Ú…‘Ú…‘Ú…‘Ú…‘Ú…‘Ú…‘Ú…‘Ú…‘Ú…‘Ú…‘Ú…‘Ú…‘Ú…‘Ú…‘Ú…‘Ú…‘Ú…‘Ú…‘Ú…‘Ú…‘Ú…‘Ú…‘Ú…‘Ú…‘Ú…‘Ú…‘Ú…‘Ú…‘Ú…‘Ú…‘Ú…‘Ú…‘Ú…‘Ú…‘Ú…‘Ú…‘Ú…‘Ú…‘Ú…‘Ú…‘Ú…‘Ú…‘Ú…‘Ú…‘Ú…‘Ú…‘Ú…‘Ú…‘Ú…‘Ú…
+2026-08-04 09:39:32 - 
+2026-08-04 09:39:32 - === FIM RUN DIARIO ===

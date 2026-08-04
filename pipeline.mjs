@@ -1,0 +1,301 @@
+import nodemailer from 'nodemailer';
+import { readFileSync, writeFileSync } from 'fs';
+import dns from 'dns';
+
+const MAIL_USER = 'cachaca011pindorama@gmail.com';
+const MAIL_PASS = 'wnau jrrr rjpc zuuv';
+const LEADS_FILE = 'leads-qualificados.json';
+const OLD_FILE = 'leads.json';
+const GIF_TAG = '<br><br><img src="https://iili.io/CkQ8gFR.gif" style="display:block;margin-top:12px;max-width:400px" />';
+const DELAY_MS = 2500;
+const SIGNATURE = '\n\nAbra\u00e7o,\nGustavo\nPindorama \u2014 Cacha\u00e7a Artesanal\n(11) 91357-7900';
+
+// --- Quota guard Gmail (janela deslizante 24h) ---
+const SEND_LOG = 'send-log.json';
+const GMAIL_SAFE_LIMIT = 480;
+
+function loadSendLog() {
+  try { return JSON.parse(readFileSync(SEND_LOG, 'utf-8')); }
+  catch { return []; }
+}
+function saveSendLog(log) { save(SEND_LOG, log); }
+function recent24hCount() {
+  const cutoff = Date.now() - 24 * 60 * 60 * 1000;
+  return loadSendLog().filter(t => typeof t === 'number' && t >= cutoff).length;
+}
+function recordSend() {
+  const log = loadSendLog();
+  const cutoff = Date.now() - 24 * 60 * 60 * 1000;
+  log.push(Date.now());
+  saveSendLog(log.filter(t => typeof t === 'number' && t >= cutoff));
+}
+function quotaGuardOk() {
+  const used = recent24hCount();
+  if (used >= GMAIL_SAFE_LIMIT) {
+    console.log(`QUOTA GUARD: ${used}/${GMAIL_SAFE_LIMIT} emails na janela 24h — parando p/ nao bloquear o Gmail.`);
+    return false;
+  }
+  return true;
+}
+
+const transporter = nodemailer.createTransport({service:'gmail',auth:{user:MAIL_USER,pass:MAIL_PASS}});
+
+function load(file) { return JSON.parse(readFileSync(file, 'utf-8')); }
+function save(file, data) { writeFileSync(file, JSON.stringify(data, null, 2)); }
+
+function today() { const d = new Date(); d.setMinutes(d.getMinutes() - d.getTimezoneOffset()); return d.toISOString().split('T')[0]; }
+function daysAgo(dateStr, days) { const d = new Date(dateStr); d.setDate(d.getDate() + days); return d.toISOString().split('T')[0]; }
+
+function validateDNS(email) {
+  return new Promise(resolve => {
+    const domain = email.split('@')[1];
+    if (!domain) return resolve(false);
+    dns.resolveMx(domain, (err, mx) => resolve(!err && mx && mx.length > 0));
+  });
+}
+
+const TEMPLATES = {
+  email1_consultivo: `Ol\u00e1 {nome},
+
+Vi que {contexto} e pensei que a Pindorama faria sentido para voc\u00eas.
+
+Somos uma cacha\u00e7a artesanal premium produzida em fazenda pr\u00f3pria no Vale do Caf\u00e9 (RJ). Al\u00e9m de atender hot\u00e9is como Fasano, Hilton e Rosewood, oferecemos um pacote completo para bares e restaurantes:
+
+\u2022 Amostra gr\u00e1tis para conhecer a linha
+\u2022 Degustadoras para fazer a\u00e7\u00f5es no seu estabelecimento
+\u2022 Treinamento para sua equipe sobre o produto
+\u2022 Bonifica\u00e7\u00e3o no primeiro pedido teste
+
+Gostaria de saber se voc\u00eas trabalham com cacha\u00e7a no card\u00e1pio e se estariam abertos a conhecer nosso modelo.
+
+Posso passar mais detalhes ou agendar uma visita?`,
+  email1_prova_social: `Ol\u00e1 {nome},
+
+Vi que {contexto} e gostaria de apresentar a Pindorama.
+
+J\u00e1 estamos em contato com grupos como Fasano, Hilton e Rosewood, e a aceita\u00e7\u00e3o tem sido excelente. Produzimos cacha\u00e7a artesanal premium em fazenda pr\u00f3pria no Vale do Caf\u00e9 (RJ).
+
+Nosso diferencial \u00e9 o suporte completo ao parceiro:
+
+\u2022 Amostra gr\u00e1tis para avalia\u00e7\u00e3o
+\u2022 Degustadoras para a\u00e7\u00f5es no sal\u00e3o
+\u2022 Treinamento da equipe
+\u2022 Bonifica\u00e7\u00e3o no pedido teste
+
+Voc\u00eas teriam interesse em conhecer nossa linha e o que oferecemos?`,
+  email1_pergunta: `Ol\u00e1 {nome},
+
+Vi que {contexto} e fiquei curioso \u2014 voc\u00eas trabalham com cacha\u00e7a no card\u00e1pio atual?
+
+Sou o Gustavo, da Pindorama. Produzimos cacha\u00e7a artesanal premium no Vale do Caf\u00e9 (RJ) e oferecemos um suporte completo para bares e restaurantes:
+
+\u2022 Amostra gr\u00e1tis para testar a linha
+\u2022 Degustadoras para a\u00e7\u00f5es com seus clientes
+\u2022 Treinamento para gar\u00e7ons e equipe
+\u2022 Bonifica\u00e7\u00e3o no primeiro pedido
+
+Faz sentido para voc\u00eas conhecer?
+
+Vale uma troca de ideia r\u00e1pida?`,
+  email2: `Ol\u00e1 {nome},
+
+Tudo bem? Semana passada entrei em contato apresentando a Pindorama.
+
+Al\u00e9m da cacha\u00e7a artesanal premium, queria refor\u00e7ar o que oferecemos para parceiros:
+
+\u2022 Amostra gr\u00e1tis para conhecer a linha
+\u2022 Degustadoras para a\u00e7\u00f5es no estabelecimento
+\u2022 Treinamento completo para equipe
+\u2022 Bonifica\u00e7\u00e3o no primeiro pedido teste
+
+Gostaria de saber se faz sentido para o card\u00e1pio de voc\u00eas. Posso passar os detalhes ou agendar uma visita para conversarmos.`,
+  email3: `Ol\u00e1 {nome},
+
+Esse \u00e9 meu \u00faltimo contato \u2014 n\u00e3o quero perder a chance de voc\u00eas conhecerem a Pindorama.
+
+Nosso pacote completo para parceiros:
+
+\u2022 Amostra gr\u00e1tis para avalia\u00e7\u00e3o
+\u2022 Degustadoras para a\u00e7\u00f5es no sal\u00e3o
+\u2022 Treinamento da equipe
+\u2022 Bonifica\u00e7\u00e3o no primeiro pedido
+\u2022 Frete CIF e pagamento em 21 dias
+
+Se quiser testar, \u00e9 s\u00f3 me enviar os dados cadastrais que emito a NF de Amostra Gr\u00e1tis.
+
+Pode responder esse email ou me ligar.`
+};
+
+Object.keys(TEMPLATES).forEach(k => { TEMPLATES[k] += SIGNATURE; });
+
+const SUBJECTS = {
+  bar: 'Cacha\u00e7a artesanal premium para seu bar',
+  restaurante: 'Cacha\u00e7a artesanal premium para seu restaurante',
+  adega: 'Cacha\u00e7a artesanal premium para sua adega',
+  hotel: 'Cacha\u00e7a artesanal premium para seu hotel',
+  balada: 'Cacha\u00e7a Pindorama para sua balada'
+};
+
+function pickTemplate(lead, step) {
+  if (step === 'email1') {
+    const t = lead.template || 'consultivo';
+    return TEMPLATES['email1_' + t];
+  }
+  return TEMPLATES[step];
+}
+
+function getSubject(lead, step) {
+  if (step === 'email1') {
+    return SUBJECTS[lead.type] || 'Cacha\u00e7a artesanal premium Pindorama';
+  }
+  if (step === 'email2') return 'Sobre a Pindorama';
+  return '\u00daltimo contato \u2014 oferta especial de lan\u00e7amento Pindorama';
+}
+
+async function sendEmail(lead, step) {
+  const text = pickTemplate(lead, step).replace(/{nome}/g, lead.name.split(' ')[0]).replace(/{contexto}/g, lead.context || '');
+  const html = text.replace(/\n/g, '<br>') + GIF_TAG;
+  const info = await transporter.sendMail({
+    from: '"Gustavo - Pindorama" <cachaca011pindorama@gmail.com>',
+    to: lead.email,
+    subject: getSubject(lead, step),
+    text, html
+  });
+  const todayStr = today();
+  lead[step] = true;
+  lead['date' + step.slice(-1)] = todayStr;
+  return info;
+}
+
+function daysDiff(dateStr) {
+  const d = new Date(dateStr);
+  const n = new Date();
+  return Math.floor((n - d) / (1000 * 60 * 60 * 24));
+}
+
+// --- Add new leads (CLI) ---
+async function addLeads(jsonStr) {
+  let newLeads;
+  try { newLeads = JSON.parse(jsonStr); } catch(e) { console.error('Invalid JSON'); process.exit(1); }
+  if (!Array.isArray(newLeads)) newLeads = [newLeads];
+
+  const master = load(LEADS_FILE);
+  const templates = ['consultivo', 'prova_social', 'pergunta'];
+
+  for (const l of newLeads) {
+    if (!l.email || !l.name) { console.log('SKIP (missing name/email): ' + (l.name || '?')); continue; }
+    if (master.find(x => x.email === l.email)) { console.log('SKIP (duplicate): ' + l.name); continue; }
+
+    const valid = await validateDNS(l.email);
+    if (!valid) { console.log('FAIL DNS: ' + l.name + ' <' + l.email + '>'); continue; }
+
+    l.neighborhood = l.neighborhood || '';
+    l.type = l.type || 'bar';
+    l.context = l.context || '';
+    l.template = l.template || (l.type === 'balada' ? 'pergunta' : l.type === 'adega' ? 'consultivo' : templates[Math.floor(Math.random() * 3)]);
+    l.website = l.website || '';
+    master.push(l);
+    console.log('ADD OK: ' + l.name + ' <' + l.email + '> [' + l.type + '/' + l.template + ']');
+  }
+
+  save(LEADS_FILE, master);
+  console.log('Added ' + newLeads.filter(l => master.find(x => x.email === l.email)).length + ' leads');
+}
+
+// --- Send email1 for new leads ---
+async function sendEmail1() {
+  let sent = 0;
+  const failed = new Set();
+  for (;;) {
+    const leads = load(LEADS_FILE);
+    const pending = leads.filter(x => !x.email1 && !failed.has(x.email) && x.email);
+    if (!pending.length) break;
+    if (!quotaGuardOk()) break;
+    const l = pending[0];
+    try {
+      await sendEmail(l, 'email1');
+      recordSend();
+      // Force-persist: reload, find by email, set fields, save
+      const reloaded = load(LEADS_FILE);
+      const idx = reloaded.findIndex(x => x.email === l.email);
+      if (idx !== -1) {
+        const todayStr = today();
+        reloaded[idx].email1 = true;
+        reloaded[idx].date1 = todayStr;
+        save(LEADS_FILE, reloaded);
+      }
+      console.log('EMAIL1 OK: ' + l.name + ' <' + l.email + '>');
+      sent++;
+      await new Promise(r => setTimeout(r, DELAY_MS));
+    } catch(e) { failed.add(l.email); console.log('EMAIL1 ERR ' + l.name + ': ' + e.message); }
+  }
+  return sent;
+}
+
+// --- Send follow-ups ---
+async function sendFollowups() {
+  let sent = 0;
+  const failed = new Set();
+  for (;;) {
+    const leads = load(LEADS_FILE);
+    let target = null;
+    for (const l of leads) {
+      if (l.responded) continue;
+      if (l.email1 && !l.email2 && l.date1 && daysDiff(l.date1) >= 2 && !failed.has(l.email + ':email2')) { target = {lead:l,step:'email2'}; break; }
+      if (l.email2 && !l.email3 && l.date2 && daysDiff(l.date2) >= 4 && !failed.has(l.email + ':email3')) { target = {lead:l,step:'email3'}; break; }
+    }
+    if (!target) break;
+    if (!quotaGuardOk()) break;
+    const {lead:l, step} = target;
+    try {
+      await sendEmail(l, step);
+      recordSend();
+      // Force-persist
+      const reloaded = load(LEADS_FILE);
+      const idx = reloaded.findIndex(x => x.email === l.email);
+      if (idx !== -1) {
+        const todayStr = today();
+        reloaded[idx][step] = true;
+        reloaded[idx]['date' + step.slice(-1)] = todayStr;
+        save(LEADS_FILE, reloaded);
+      }
+      console.log((step === 'email2' ? 'EMAIL2' : 'EMAIL3') + ' OK: ' + l.name + ' <' + l.email + '>');
+      sent++;
+      await new Promise(r => setTimeout(r, DELAY_MS));
+    } catch(e) {
+      failed.add(l.email + ':' + step);
+      console.log((step === 'email2' ? 'EMAIL2' : 'EMAIL3') + ' ERR ' + l.name + ': ' + e.message);
+    }
+  }
+  return sent;
+}
+
+// --- Main ---
+const args = process.argv.slice(2);
+if (args[0] === '--add') {
+  await addLeads(args[1]);
+  await sendEmail1();
+} else if (args[0] === '--add-only') {
+  await addLeads(args[1]);
+} else if (args[0] === '--add-file') {
+  const content = readFileSync(args[1], 'utf-8');
+  await addLeads(content);
+  if (args[2] === '--send') await sendEmail1();
+} else if (args[0] === '--send') {
+  await sendEmail1();
+} else if (args[0] === '--followup') {
+  const s = await sendFollowups();
+  console.log('Follow-ups sent: ' + s);
+} else if (args[0] === '--all') {
+  const s1 = await sendEmail1();
+  const s2 = await sendFollowups();
+  console.log('Email1: ' + s1 + ', Follow-ups: ' + s2);
+} else {
+  console.log('Usage:');
+  console.log('  --add \'[...]\'       Add new leads (JSON string) + send');
+  console.log('  --add-file <file>    Add leads from JSON file');
+  console.log('  --add-file <file> --send  Add + send');
+  console.log('  --send              Send email1 to pending leads');
+  console.log('  --followup          Send email2/email3 due follow-ups');
+  console.log('  --all               Send all pending (email1 + follow-ups)');
+}

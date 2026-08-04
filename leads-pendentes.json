@@ -1,0 +1,12 @@
+[
+  {"name": "Bar do Mané", "neighborhood": "Moema", "type": "bar"},
+  {"name": "Adega do Seu Joaquim", "neighborhood": "Pinheiros", "type": "adega"},
+  {"name": "Restaurante A Casa do Porco", "neighborhood": "República", "type": "restaurante"},
+  {"name": "Bar Mangue Seco", "neighborhood": "Vila Madalena", "type": "bar"},
+  {"name": "Habib's Paulista", "neighborhood": "Bela Vista", "type": "restaurante"},
+  {"name": "Outback Steakhouse", "neighborhood": "Itaim Bibi", "type": "restaurante"},
+  {"name": "Fogo de Chão", "neighborhood": "Jardins", "type": "restaurante"},
+  {"name": "Casa de Francisca", "neighborhood": "Vila Madalena", "type": "bar"},
+  {"name": "Bar Secreto", "neighborhood": "Consolação", "type": "bar"},
+  {"name": "Astor", "neighborhood": "Vila Madalena", "type": "bar"}
+]
