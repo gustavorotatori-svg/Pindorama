@@ -240,6 +240,19 @@ This version has breaking changes — APIs, conventions, and file structure may 
 - Usuário decidiu (04/08): por enquanto SÓ o backup no GitHub; migração para VM GCP fica para depois.
 - ⚠️ empacotar.ps1 quebrado (0MB): `dir /x` pega [-1]=nome longo em vez do 8.3; caminho 8.3 correto do projeto = `C:\Users\rotat\OneDrive\READET~1\PINDOR~1\PINDOR~1`. Corrigir na próxima necessidade de tar.
 
+## 04/08 (noite) — NUVEM GRÁTIS ATIVADA: GitHub Actions (CI 24/7)
+- Solução escolhida pelo usuário: usar o próprio GitHub como nuvem (sem VM GCP, sem cartão). gh logado com a conta certa (gustavorotatori-svg, escopos repo/workflow). Só há 1 conta no CLI; as "2 contas" que o usuário via eram do navegador.
+- Workflows criados em `.github/workflows/`:
+  - `email-pipeline.yml`: cron `0 10,22 * * *` (07:00/19:00 BRT) → `node pipeline.mjs --all` + `node metrics.mjs`
+  - `auto-reply.yml`: cron `15 * * * *` (a cada hora) → `node auto-reply.mjs`
+  - Ambos: checkout, Node20, cache node_modules (key=package-lock), npm ci, rodam, e COMMIT DE VOLTA (git push com GITHUB_TOKEN, user "pindorama-bot").
+- Teste real OK (run 30936632250): checkout+npm ci+IMAP+push em 58s. Auto-reply respondeu a Imigrantes Bebidas e commitou leads-qualificados.json de volta.
+- ✅ Isso substitui a VM GCP p/ EMAIL. O PC pode desligar — email 24/7 roda no Actions (2000 min/mês grátis; estimativa ~1300/mês, folga).
+- ⚠️ NÃO MEXER no WhatsApp na CI por ora (Baileys precisa sessão persistente; creds .baileys_auth compartilhados com o PC local → dessincroniza). WhatsApp continua LOCAL, 4/dia seg-sáb.
+- ⚠️ Limite 2000 min/mês: não adicionar jobs frequentes sem calcular. auto-reply 1x/h já consome ~1000/mês.
+- FIX auto-reply.mjs: adicionadas variações de "sem interesse" (não temos interesse, sem interesse, não quero, dispenso, não precisa, por enquanto não) — antes "No momento não temos interesse" não era reconhecido (Adega Bianchi).
+- Atualização do backup: sempre `git pull --rebase` ANTES de trabalhar (a CI commita de volta) e `git push` depois.
+
 ## Regras de envio (mandatory)
 - EMAIL: 24h por dia, 7 dias por semana — sem restrição de dia/horário
 - WHATSAPP: apenas de SEGUNDA a SÁBADO, das 8h às 21h; **MÁXIMO 3-4/dia** (trava a conta se passar)
