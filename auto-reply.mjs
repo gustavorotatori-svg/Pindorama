@@ -130,7 +130,9 @@ Gustavo${signature}`;
   }
 
   // Não tem interesse
-  if (text.includes('não tenho interesse') || text.includes('não nos interessa') || text.includes('não faremos') || text.includes('obrigado mas')) {
+  if (text.includes('não tenho interesse') || text.includes('não nos interessa') || text.includes('não faremos') || text.includes('obrigado mas')
+      || text.includes('não temos interesse') || text.includes('sem interesse') || text.includes('não quero') || text.includes('dispenso')
+      || text.includes('não precisa') || text.includes('não é para nós') || text.includes('por enquanto não')) {
     return `Olá,
 
 Entendo perfeitamente! Obrigado pela atenção.
