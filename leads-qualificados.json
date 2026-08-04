@@ -1624,7 +1624,9 @@
     "website": "vinea.com.br",
     "template": "consultivo",
     "email1": true,
-    "date1": "2026-08-02"
+    "date1": "2026-08-02",
+    "email2": true,
+    "date2": "2026-08-04"
   },
   {
     "name": "Multbev Distribuidora",
@@ -1635,7 +1637,9 @@
     "website": "multbev.com.br",
     "template": "prova_social",
     "email1": true,
-    "date1": "2026-08-02"
+    "date1": "2026-08-02",
+    "email2": true,
+    "date2": "2026-08-04"
   },
   {
     "name": "PMG Atacadista",
@@ -1646,7 +1650,9 @@
     "website": "pmg.com.br",
     "template": "prova_social",
     "email1": true,
-    "date1": "2026-08-02"
+    "date1": "2026-08-02",
+    "email2": true,
+    "date2": "2026-08-04"
   },
   {
     "name": "Adega Barubars",
@@ -1657,7 +1663,9 @@
     "website": "",
     "template": "consultivo",
     "email1": true,
-    "date1": "2026-08-02"
+    "date1": "2026-08-02",
+    "email2": true,
+    "date2": "2026-08-04"
   },
   {
     "name": "Espaço Armazém",
@@ -1668,7 +1676,9 @@
     "website": "espacoarmazem.com.br",
     "template": "consultivo",
     "email1": true,
-    "date1": "2026-08-02"
+    "date1": "2026-08-02",
+    "email2": true,
+    "date2": "2026-08-04"
   },
   {
     "name": "Adega Barão Cerveja Gelada",
@@ -1679,7 +1689,9 @@
     "website": "",
     "template": "consultivo",
     "email1": true,
-    "date1": "2026-08-02"
+    "date1": "2026-08-02",
+    "email2": true,
+    "date2": "2026-08-04"
   },
   {
     "name": "Adega de Sake",
@@ -1690,7 +1702,9 @@
     "website": "adegadesake.com.br",
     "template": "consultivo",
     "email1": true,
-    "date1": "2026-08-02"
+    "date1": "2026-08-02",
+    "email2": true,
+    "date2": "2026-08-04"
   },
   {
     "name": "Adega Dois G",
@@ -1701,7 +1715,9 @@
     "website": "",
     "template": "consultivo",
     "email1": true,
-    "date1": "2026-08-02"
+    "date1": "2026-08-02",
+    "email2": true,
+    "date2": "2026-08-04"
   },
   {
     "name": "Empório e Adega Leste Drinks",
@@ -1712,7 +1728,9 @@
     "website": "",
     "template": "consultivo",
     "email1": true,
-    "date1": "2026-08-02"
+    "date1": "2026-08-02",
+    "email2": true,
+    "date2": "2026-08-04"
   },
   {
     "name": "Mendes Distribuidora de Bebidas",
@@ -1724,7 +1742,9 @@
     "template": "consultivo",
     "website": "",
     "email1": true,
-    "date1": "2026-08-02"
+    "date1": "2026-08-02",
+    "email2": true,
+    "date2": "2026-08-04"
   },
   {
     "name": "Adega JJ",
@@ -1736,7 +1756,9 @@
     "template": "consultivo",
     "website": "",
     "email1": true,
-    "date1": "2026-08-02"
+    "date1": "2026-08-02",
+    "email2": true,
+    "date2": "2026-08-04"
   },
   {
     "name": "Empório Domínio Adega",
@@ -1748,7 +1770,9 @@
     "template": "consultivo",
     "website": "",
     "email1": true,
-    "date1": "2026-08-02"
+    "date1": "2026-08-02",
+    "email2": true,
+    "date2": "2026-08-04"
   },
   {
     "name": "Adega Correia Comércio de Bebidas",
@@ -1760,7 +1784,9 @@
     "template": "consultivo",
     "website": "",
     "email1": true,
-    "date1": "2026-08-02"
+    "date1": "2026-08-02",
+    "email2": true,
+    "date2": "2026-08-04"
   },
   {
     "name": "Distribuidora de Bebidas Pirituba",
@@ -1772,7 +1798,9 @@
     "template": "consultivo",
     "website": "bebidaspirituba.com.br",
     "email1": true,
-    "date1": "2026-08-02"
+    "date1": "2026-08-02",
+    "email2": true,
+    "date2": "2026-08-04"
   },
   {
     "name": "Distribuidora Hideal",
@@ -1784,7 +1812,9 @@
     "template": "consultivo",
     "website": "distribuidorahideal.com.br",
     "email1": true,
-    "date1": "2026-08-02"
+    "date1": "2026-08-02",
+    "email2": true,
+    "date2": "2026-08-04"
   },
   {
     "name": "Pirâmides Distribuidora de Águas e Bebidas",
@@ -1796,7 +1826,9 @@
     "template": "consultivo",
     "website": "piramidesdistribuidora.com.br",
     "email1": true,
-    "date1": "2026-08-02"
+    "date1": "2026-08-02",
+    "email2": true,
+    "date2": "2026-08-04"
   },
   {
     "name": "Big Point Adega de Bebidas",
@@ -1808,7 +1840,9 @@
     "template": "consultivo",
     "website": "",
     "email1": true,
-    "date1": "2026-08-02"
+    "date1": "2026-08-02",
+    "email2": true,
+    "date2": "2026-08-04"
   },
   {
     "name": "Adega & Varejista de Bebidas Sorriso",
@@ -1820,7 +1854,9 @@
     "template": "consultivo",
     "website": "",
     "email1": true,
-    "date1": "2026-08-02"
+    "date1": "2026-08-02",
+    "email2": true,
+    "date2": "2026-08-04"
   },
   {
     "name": "Adega J.G",
@@ -1832,7 +1868,9 @@
     "template": "consultivo",
     "website": "",
     "email1": true,
-    "date1": "2026-08-02"
+    "date1": "2026-08-02",
+    "email2": true,
+    "date2": "2026-08-04"
   },
   {
     "name": "Percas Comercial",
@@ -1844,7 +1882,9 @@
     "template": "consultivo",
     "website": "",
     "email1": true,
-    "date1": "2026-08-02"
+    "date1": "2026-08-02",
+    "email2": true,
+    "date2": "2026-08-04"
   },
   {
     "name": "Liquor Distribuidora de Bebidas",
@@ -1856,7 +1896,9 @@
     "template": "consultivo",
     "website": "",
     "email1": true,
-    "date1": "2026-08-02"
+    "date1": "2026-08-02",
+    "email2": true,
+    "date2": "2026-08-04"
   },
   {
     "name": "Heishop Hkn Brasil",
@@ -1868,7 +1910,9 @@
     "template": "consultivo",
     "website": "",
     "email1": true,
-    "date1": "2026-08-02"
+    "date1": "2026-08-02",
+    "email2": true,
+    "date2": "2026-08-04"
   },
   {
     "name": "DC Distribuidora de Bebidas e Alimentos",
@@ -1880,7 +1924,9 @@
     "template": "consultivo",
     "website": "",
     "email1": true,
-    "date1": "2026-08-02"
+    "date1": "2026-08-02",
+    "email2": true,
+    "date2": "2026-08-04"
   },
   {
     "name": "Nze Distribuidora de Bebidas",
@@ -1892,7 +1938,9 @@
     "template": "consultivo",
     "website": "",
     "email1": true,
-    "date1": "2026-08-02"
+    "date1": "2026-08-02",
+    "email2": true,
+    "date2": "2026-08-04"
   },
   {
     "name": "Central Alimentos Comércio Atacadista",
@@ -1904,7 +1952,9 @@
     "template": "consultivo",
     "website": "",
     "email1": true,
-    "date1": "2026-08-02"
+    "date1": "2026-08-02",
+    "email2": true,
+    "date2": "2026-08-04"
   },
   {
     "name": "Cia do Whisky",
@@ -1916,7 +1966,9 @@
     "template": "consultivo",
     "website": "ciawhisky.com.br",
     "email1": true,
-    "date1": "2026-08-02"
+    "date1": "2026-08-02",
+    "email2": true,
+    "date2": "2026-08-04"
   },
   {
     "name": "Forte Distribuidora de Bebidas",
@@ -1928,7 +1980,9 @@
     "template": "consultivo",
     "website": "distribuidoraforte.com.br",
     "email1": true,
-    "date1": "2026-08-02"
+    "date1": "2026-08-02",
+    "email2": true,
+    "date2": "2026-08-04"
   },
   {
     "name": "Adega Ponto Final Drinks",
@@ -1940,7 +1994,9 @@
     "template": "consultivo",
     "website": "",
     "email1": true,
-    "date1": "2026-08-02"
+    "date1": "2026-08-02",
+    "email2": true,
+    "date2": "2026-08-04"
   },
   {
     "name": "Adega Marques",
@@ -1952,7 +2008,9 @@
     "template": "consultivo",
     "website": "",
     "email1": true,
-    "date1": "2026-08-02"
+    "date1": "2026-08-02",
+    "email2": true,
+    "date2": "2026-08-04"
   },
   {
     "name": "Liquor Adega",
@@ -1964,7 +2022,9 @@
     "template": "consultivo",
     "website": "",
     "email1": true,
-    "date1": "2026-08-02"
+    "date1": "2026-08-02",
+    "email2": true,
+    "date2": "2026-08-04"
   },
   {
     "name": "Gran Liquor Distribuidora (Empório Miquelina)",
@@ -1976,7 +2036,9 @@
     "template": "consultivo",
     "website": "",
     "email1": true,
-    "date1": "2026-08-02"
+    "date1": "2026-08-02",
+    "email2": true,
+    "date2": "2026-08-04"
   },
   {
     "name": "Belmiro Bebidas & Tabacaria",
@@ -1988,7 +2050,9 @@
     "template": "consultivo",
     "website": "belmirobebidas.com.br",
     "email1": true,
-    "date1": "2026-08-02"
+    "date1": "2026-08-02",
+    "email2": true,
+    "date2": "2026-08-04"
   },
   {
     "name": "Imigrantes Bebidas",
@@ -2015,7 +2079,9 @@
     "template": "consultivo",
     "website": "kangurusupermercado.com.br",
     "email1": true,
-    "date1": "2026-08-02"
+    "date1": "2026-08-02",
+    "email2": true,
+    "date2": "2026-08-04"
   },
   {
     "name": "Adega à Jato",
@@ -2030,7 +2096,9 @@
     "email1": true,
     "date1": "2026-08-02",
     "whatsappSent": true,
-    "whatsappDate": "2026-08-03"
+    "whatsappDate": "2026-08-03",
+    "email2": true,
+    "date2": "2026-08-04"
   },
   {
     "name": "DEEP BAR 611",
@@ -2043,7 +2111,9 @@
     "template": "consultivo",
     "website": "",
     "email1": true,
-    "date1": "2026-08-02"
+    "date1": "2026-08-02",
+    "email2": true,
+    "date2": "2026-08-04"
   },
   {
     "name": "DiBaco Carnes e Vinhos",
@@ -2056,7 +2126,9 @@
     "template": "consultivo",
     "website": "",
     "email1": true,
-    "date1": "2026-08-02"
+    "date1": "2026-08-02",
+    "email2": true,
+    "date2": "2026-08-04"
   },
   {
     "name": "Viana Bar Grill",
@@ -2069,7 +2141,9 @@
     "template": "consultivo",
     "website": "",
     "email1": true,
-    "date1": "2026-08-02"
+    "date1": "2026-08-02",
+    "email2": true,
+    "date2": "2026-08-04"
   },
   {
     "name": "Divino Chopp",
@@ -2082,7 +2156,9 @@
     "template": "consultivo",
     "website": "",
     "email1": true,
-    "date1": "2026-08-02"
+    "date1": "2026-08-02",
+    "email2": true,
+    "date2": "2026-08-04"
   },
   {
     "name": "Zur Alten MuÌhle",
@@ -2095,7 +2171,9 @@
     "template": "consultivo",
     "website": "",
     "email1": true,
-    "date1": "2026-08-02"
+    "date1": "2026-08-02",
+    "email2": true,
+    "date2": "2026-08-04"
   },
   {
     "name": "CERVEJARIA TARANTINO",
@@ -2108,7 +2186,9 @@
     "template": "consultivo",
     "website": "",
     "email1": true,
-    "date1": "2026-08-02"
+    "date1": "2026-08-02",
+    "email2": true,
+    "date2": "2026-08-04"
   },
   {
     "name": "BEVERINO",
@@ -2121,7 +2201,9 @@
     "template": "consultivo",
     "website": "",
     "email1": true,
-    "date1": "2026-08-02"
+    "date1": "2026-08-02",
+    "email2": true,
+    "date2": "2026-08-04"
   },
   {
     "name": "CERVEJARIA CENTRAL",
@@ -2134,7 +2216,9 @@
     "template": "consultivo",
     "website": "",
     "email1": true,
-    "date1": "2026-08-02"
+    "date1": "2026-08-02",
+    "email2": true,
+    "date2": "2026-08-04"
   },
   {
     "name": "BAR BALCÃO",
@@ -2149,7 +2233,9 @@
     "email1": true,
     "date1": "2026-08-02",
     "whatsappSent": true,
-    "whatsappDate": "2026-08-03"
+    "whatsappDate": "2026-08-03",
+    "email2": true,
+    "date2": "2026-08-04"
   },
   {
     "name": "CERVEJARIA NACIONAL",
@@ -2162,7 +2248,9 @@
     "template": "consultivo",
     "website": "",
     "email1": true,
-    "date1": "2026-08-02"
+    "date1": "2026-08-02",
+    "email2": true,
+    "date2": "2026-08-04"
   },
   {
     "name": "GINGER SPIRITS & DRINKS",
@@ -2175,7 +2263,9 @@
     "template": "consultivo",
     "website": "",
     "email1": true,
-    "date1": "2026-08-02"
+    "date1": "2026-08-02",
+    "email2": true,
+    "date2": "2026-08-04"
   },
   {
     "name": "SÃO PAULO TAP HOUSE",
@@ -2190,7 +2280,9 @@
     "email1": true,
     "date1": "2026-08-02",
     "whatsappSent": true,
-    "whatsappDate": "2026-08-03"
+    "whatsappDate": "2026-08-03",
+    "email2": true,
+    "date2": "2026-08-04"
   },
   {
     "name": "Ambar Cervejas Artesanais",
@@ -2203,7 +2295,9 @@
     "template": "consultivo",
     "website": "",
     "email1": true,
-    "date1": "2026-08-02"
+    "date1": "2026-08-02",
+    "email2": true,
+    "date2": "2026-08-04"
   },
   {
     "name": "ADEGA ORIGINAL",
@@ -2216,7 +2310,9 @@
     "template": "consultivo",
     "website": "",
     "email1": true,
-    "date1": "2026-08-02"
+    "date1": "2026-08-02",
+    "email2": true,
+    "date2": "2026-08-04"
   },
   {
     "name": "CROMA BEER",
@@ -2229,7 +2325,9 @@
     "template": "consultivo",
     "website": "",
     "email1": true,
-    "date1": "2026-08-02"
+    "date1": "2026-08-02",
+    "email2": true,
+    "date2": "2026-08-04"
   },
   {
     "name": "DOGMA",
@@ -2242,7 +2340,9 @@
     "template": "consultivo",
     "website": "",
     "email1": true,
-    "date1": "2026-08-02"
+    "date1": "2026-08-02",
+    "email2": true,
+    "date2": "2026-08-04"
   },
   {
     "name": "TRILHA",
@@ -2257,7 +2357,9 @@
     "email1": true,
     "date1": "2026-08-02",
     "whatsappSent": true,
-    "whatsappDate": "2026-08-03"
+    "whatsappDate": "2026-08-03",
+    "email2": true,
+    "date2": "2026-08-04"
   },
   {
     "name": "Casa Lisboa Bebidas",
@@ -2270,7 +2372,9 @@
     "template": "consultivo",
     "website": "",
     "email1": true,
-    "date1": "2026-08-02"
+    "date1": "2026-08-02",
+    "email2": true,
+    "date2": "2026-08-04"
   },
   {
     "name": "LÂ´Adega",
@@ -2283,7 +2387,9 @@
     "template": "consultivo",
     "website": "",
     "email1": true,
-    "date1": "2026-08-02"
+    "date1": "2026-08-02",
+    "email2": true,
+    "date2": "2026-08-04"
   },
   {
     "name": "ORIGINAL",
@@ -2296,7 +2402,9 @@
     "template": "consultivo",
     "website": "",
     "email1": true,
-    "date1": "2026-08-02"
+    "date1": "2026-08-02",
+    "email2": true,
+    "date2": "2026-08-04"
   },
   {
     "name": "Miya Wine Bar",
@@ -2309,7 +2417,9 @@
     "template": "consultivo",
     "website": "",
     "email1": true,
-    "date1": "2026-08-02"
+    "date1": "2026-08-02",
+    "email2": true,
+    "date2": "2026-08-04"
   },
   {
     "name": "TANK BREWPUB",
@@ -2322,7 +2432,9 @@
     "template": "consultivo",
     "website": "",
     "email1": true,
-    "date1": "2026-08-02"
+    "date1": "2026-08-02",
+    "email2": true,
+    "date2": "2026-08-04"
   },
   {
     "name": "ELEVADO BAR",
@@ -2335,7 +2447,9 @@
     "template": "consultivo",
     "website": "",
     "email1": true,
-    "date1": "2026-08-02"
+    "date1": "2026-08-02",
+    "email2": true,
+    "date2": "2026-08-04"
   },
   {
     "name": "Soma Cervejaria",
@@ -2348,7 +2462,9 @@
     "template": "consultivo",
     "website": "",
     "email1": true,
-    "date1": "2026-08-02"
+    "date1": "2026-08-02",
+    "email2": true,
+    "date2": "2026-08-04"
   },
   {
     "name": "VINO! WINE BAR",
@@ -2361,7 +2477,9 @@
     "template": "consultivo",
     "website": "",
     "email1": true,
-    "date1": "2026-08-02"
+    "date1": "2026-08-02",
+    "email2": true,
+    "date2": "2026-08-04"
   },
   {
     "name": "ChuletÃ£o Grill e Pizza",
@@ -2374,7 +2492,9 @@
     "template": "consultivo",
     "website": "",
     "email1": true,
-    "date1": "2026-08-02"
+    "date1": "2026-08-02",
+    "email2": true,
+    "date2": "2026-08-04"
   },
   {
     "name": "FRANGÃ",
@@ -2387,7 +2507,9 @@
     "template": "consultivo",
     "website": "",
     "email1": true,
-    "date1": "2026-08-02"
+    "date1": "2026-08-02",
+    "email2": true,
+    "date2": "2026-08-04"
   },
   {
     "name": "Califa Brewpub",
@@ -2400,7 +2522,9 @@
     "template": "consultivo",
     "website": "",
     "email1": true,
-    "date1": "2026-08-02"
+    "date1": "2026-08-02",
+    "email2": true,
+    "date2": "2026-08-04"
   },
   {
     "name": "The Joy",
@@ -2413,7 +2537,9 @@
     "template": "consultivo",
     "website": "",
     "email1": true,
-    "date1": "2026-08-02"
+    "date1": "2026-08-02",
+    "email2": true,
+    "date2": "2026-08-04"
   },
   {
     "name": "Brass Brew",
@@ -2426,7 +2552,9 @@
     "template": "consultivo",
     "website": "",
     "email1": true,
-    "date1": "2026-08-02"
+    "date1": "2026-08-02",
+    "email2": true,
+    "date2": "2026-08-04"
   },
   {
     "name": "Cervejaria Holy Water",
@@ -2439,7 +2567,9 @@
     "template": "consultivo",
     "website": "",
     "email1": true,
-    "date1": "2026-08-02"
+    "date1": "2026-08-02",
+    "email2": true,
+    "date2": "2026-08-04"
   },
   {
     "name": "Vino Jardim Paulista",
@@ -2452,7 +2582,9 @@
     "template": "consultivo",
     "website": "",
     "email1": true,
-    "date1": "2026-08-02"
+    "date1": "2026-08-02",
+    "email2": true,
+    "date2": "2026-08-04"
   },
   {
     "name": "Goose Island Brewhouse",
@@ -2465,7 +2597,9 @@
     "template": "consultivo",
     "website": "",
     "email1": true,
-    "date1": "2026-08-02"
+    "date1": "2026-08-02",
+    "email2": true,
+    "date2": "2026-08-04"
   },
   {
     "name": "TRILHA Fermentaria",
@@ -2480,7 +2614,9 @@
     "email1": true,
     "date1": "2026-08-02",
     "whatsappSent": true,
-    "whatsappDate": "2026-08-03"
+    "whatsappDate": "2026-08-03",
+    "email2": true,
+    "date2": "2026-08-04"
   },
   {
     "name": "ANDOVINO",
@@ -2493,7 +2629,9 @@
     "template": "consultivo",
     "website": "",
     "email1": true,
-    "date1": "2026-08-02"
+    "date1": "2026-08-02",
+    "email2": true,
+    "date2": "2026-08-04"
   },
   {
     "name": "CLEMENTINA",
@@ -2506,7 +2644,9 @@
     "template": "consultivo",
     "website": "",
     "email1": true,
-    "date1": "2026-08-02"
+    "date1": "2026-08-02",
+    "email2": true,
+    "date2": "2026-08-04"
   },
   {
     "name": "VINO! Vila Leopoldina",
@@ -2521,7 +2661,9 @@
     "email1": true,
     "date1": "2026-08-02",
     "whatsappSent": true,
-    "whatsappDate": "2026-08-03"
+    "whatsappDate": "2026-08-03",
+    "email2": true,
+    "date2": "2026-08-04"
   },
   {
     "name": "Los Forajidos Brewing Co.",
@@ -2536,7 +2678,9 @@
     "email1": true,
     "date1": "2026-08-02",
     "whatsappSent": true,
-    "whatsappDate": "2026-08-03"
+    "whatsappDate": "2026-08-03",
+    "email2": true,
+    "date2": "2026-08-04"
   },
   {
     "name": "Cerveja Madalena",
@@ -2549,7 +2693,9 @@
     "template": "consultivo",
     "website": "",
     "email1": true,
-    "date1": "2026-08-02"
+    "date1": "2026-08-02",
+    "email2": true,
+    "date2": "2026-08-04"
   },
   {
     "name": "Pub 45 Scs",
@@ -2562,7 +2708,9 @@
     "template": "consultivo",
     "website": "",
     "email1": true,
-    "date1": "2026-08-02"
+    "date1": "2026-08-02",
+    "email2": true,
+    "date2": "2026-08-04"
   },
   {
     "name": "Choperia Gela Guela",
@@ -2577,7 +2725,9 @@
     "email1": true,
     "date1": "2026-08-02",
     "whatsappSent": true,
-    "whatsappDate": "2026-08-03"
+    "whatsappDate": "2026-08-03",
+    "email2": true,
+    "date2": "2026-08-04"
   },
   {
     "name": "Brass Brew",
@@ -2590,7 +2740,9 @@
     "template": "consultivo",
     "website": "",
     "email1": true,
-    "date1": "2026-08-02"
+    "date1": "2026-08-02",
+    "email2": true,
+    "date2": "2026-08-04"
   },
   {
     "name": "DO NADA!",
@@ -2603,7 +2755,9 @@
     "template": "consultivo",
     "website": "",
     "email1": true,
-    "date1": "2026-08-02"
+    "date1": "2026-08-02",
+    "email2": true,
+    "date2": "2026-08-04"
   },
   {
     "name": "The Steak Factory",
@@ -2616,7 +2770,9 @@
     "template": "consultivo",
     "website": "",
     "email1": true,
-    "date1": "2026-08-02"
+    "date1": "2026-08-02",
+    "email2": true,
+    "date2": "2026-08-04"
   },
   {
     "name": "ÃCONE GASTROROCK",
@@ -2629,7 +2785,9 @@
     "template": "consultivo",
     "website": "",
     "email1": true,
-    "date1": "2026-08-02"
+    "date1": "2026-08-02",
+    "email2": true,
+    "date2": "2026-08-04"
   },
   {
     "name": "B, de Bar",
@@ -2642,7 +2800,9 @@
     "template": "pergunta",
     "website": "",
     "email1": true,
-    "date1": "2026-08-02"
+    "date1": "2026-08-02",
+    "email2": true,
+    "date2": "2026-08-04"
   },
   {
     "name": "Fortunato Bar",
@@ -2655,7 +2815,9 @@
     "template": "consultivo",
     "website": "",
     "email1": true,
-    "date1": "2026-08-02"
+    "date1": "2026-08-02",
+    "email2": true,
+    "date2": "2026-08-04"
   },
   {
     "name": "BLEND BAR",
@@ -2668,7 +2830,9 @@
     "template": "prova_social",
     "website": "",
     "email1": true,
-    "date1": "2026-08-02"
+    "date1": "2026-08-02",
+    "email2": true,
+    "date2": "2026-08-04"
   },
   {
     "name": "Botiquinho Cozinha e Bar",
@@ -2681,7 +2845,9 @@
     "template": "pergunta",
     "website": "",
     "email1": true,
-    "date1": "2026-08-02"
+    "date1": "2026-08-02",
+    "email2": true,
+    "date2": "2026-08-04"
   },
   {
     "name": "BALCÃO 304",
@@ -2694,7 +2860,9 @@
     "template": "consultivo",
     "website": "",
     "email1": true,
-    "date1": "2026-08-02"
+    "date1": "2026-08-02",
+    "email2": true,
+    "date2": "2026-08-04"
   },
   {
     "name": "RincÃ£o Bar",
@@ -2707,7 +2875,9 @@
     "template": "pergunta",
     "website": "",
     "email1": true,
-    "date1": "2026-08-02"
+    "date1": "2026-08-02",
+    "email2": true,
+    "date2": "2026-08-04"
   },
   {
     "name": "JAGUAR BAR",
@@ -2720,7 +2890,9 @@
     "template": "pergunta",
     "website": "",
     "email1": true,
-    "date1": "2026-08-02"
+    "date1": "2026-08-02",
+    "email2": true,
+    "date2": "2026-08-04"
   },
   {
     "name": "VILA SEU JUSTINO",
@@ -2733,7 +2905,9 @@
     "template": "prova_social",
     "website": "",
     "email1": true,
-    "date1": "2026-08-02"
+    "date1": "2026-08-02",
+    "email2": true,
+    "date2": "2026-08-04"
   },
   {
     "name": "Do SertÃ£o Bar e Restaurante",
@@ -2748,7 +2922,9 @@
     "email1": true,
     "date1": "2026-08-02",
     "whatsappSent": true,
-    "whatsappDate": "2026-08-03"
+    "whatsappDate": "2026-08-03",
+    "email2": true,
+    "date2": "2026-08-04"
   },
   {
     "name": "DALI DAQUI",
@@ -2761,7 +2937,9 @@
     "template": "prova_social",
     "website": "",
     "email1": true,
-    "date1": "2026-08-02"
+    "date1": "2026-08-02",
+    "email2": true,
+    "date2": "2026-08-04"
   },
   {
     "name": "ACADEMIA DA GULA",
@@ -2774,7 +2952,9 @@
     "template": "pergunta",
     "website": "",
     "email1": true,
-    "date1": "2026-08-02"
+    "date1": "2026-08-02",
+    "email2": true,
+    "date2": "2026-08-04"
   },
   {
     "name": "Athenas",
@@ -2787,7 +2967,9 @@
     "template": "pergunta",
     "website": "",
     "email1": true,
-    "date1": "2026-08-02"
+    "date1": "2026-08-02",
+    "email2": true,
+    "date2": "2026-08-04"
   },
   {
     "name": "BAR SALVE JORGE",
@@ -2800,7 +2982,9 @@
     "template": "prova_social",
     "website": "",
     "email1": true,
-    "date1": "2026-08-02"
+    "date1": "2026-08-02",
+    "email2": true,
+    "date2": "2026-08-04"
   },
   {
     "name": "VALADARES",
@@ -2815,7 +2999,9 @@
     "email1": true,
     "date1": "2026-08-02",
     "whatsappSent": true,
-    "whatsappDate": "2026-08-03"
+    "whatsappDate": "2026-08-03",
+    "email2": true,
+    "date2": "2026-08-04"
   },
   {
     "name": "BALAIADA BAR & RESTÃ",
@@ -2828,7 +3014,9 @@
     "template": "pergunta",
     "website": "",
     "email1": true,
-    "date1": "2026-08-02"
+    "date1": "2026-08-02",
+    "email2": true,
+    "date2": "2026-08-04"
   },
   {
     "name": "PRAÃA SÃO LOURENÃO",
@@ -2841,7 +3029,9 @@
     "template": "prova_social",
     "website": "",
     "email1": true,
-    "date1": "2026-08-02"
+    "date1": "2026-08-02",
+    "email2": true,
+    "date2": "2026-08-04"
   },
   {
     "name": "Villa Caetano's Bar",
@@ -2854,7 +3044,9 @@
     "template": "prova_social",
     "website": "",
     "email1": true,
-    "date1": "2026-08-02"
+    "date1": "2026-08-02",
+    "email2": true,
+    "date2": "2026-08-04"
   },
   {
     "name": "CARACOL",
@@ -2867,7 +3059,9 @@
     "template": "consultivo",
     "website": "",
     "email1": true,
-    "date1": "2026-08-02"
+    "date1": "2026-08-02",
+    "email2": true,
+    "date2": "2026-08-04"
   },
   {
     "name": "Sala Da Sogra",
@@ -2880,7 +3074,9 @@
     "template": "prova_social",
     "website": "",
     "email1": true,
-    "date1": "2026-08-02"
+    "date1": "2026-08-02",
+    "email2": true,
+    "date2": "2026-08-04"
   },
   {
     "name": "Dona Felicidade",
@@ -2893,7 +3089,9 @@
     "template": "consultivo",
     "website": "",
     "email1": true,
-    "date1": "2026-08-02"
+    "date1": "2026-08-02",
+    "email2": true,
+    "date2": "2026-08-04"
   },
   {
     "name": "TchÃª CafÃ©",
@@ -2906,7 +3104,9 @@
     "template": "prova_social",
     "website": "",
     "email1": true,
-    "date1": "2026-08-02"
+    "date1": "2026-08-02",
+    "email2": true,
+    "date2": "2026-08-04"
   },
   {
     "name": "PONTO CHIC",
@@ -2919,7 +3119,9 @@
     "template": "consultivo",
     "website": "",
     "email1": true,
-    "date1": "2026-08-02"
+    "date1": "2026-08-02",
+    "email2": true,
+    "date2": "2026-08-04"
   },
   {
     "name": "CACHAÃARIA OURO VERDE",
@@ -2934,7 +3136,9 @@
     "email1": true,
     "date1": "2026-08-02",
     "whatsappSent": true,
-    "whatsappDate": "2026-08-03"
+    "whatsappDate": "2026-08-03",
+    "email2": true,
+    "date2": "2026-08-04"
   },
   {
     "name": "ATOL BAR",
@@ -2947,7 +3151,9 @@
     "template": "pergunta",
     "website": "",
     "email1": true,
-    "date1": "2026-08-02"
+    "date1": "2026-08-02",
+    "email2": true,
+    "date2": "2026-08-04"
   },
   {
     "name": "Delluccio Pizza Bar",
@@ -2960,7 +3166,9 @@
     "template": "prova_social",
     "website": "",
     "email1": true,
-    "date1": "2026-08-02"
+    "date1": "2026-08-02",
+    "email2": true,
+    "date2": "2026-08-04"
   },
   {
     "name": "Koya88",
@@ -2973,7 +3181,9 @@
     "template": "pergunta",
     "website": "",
     "email1": true,
-    "date1": "2026-08-02"
+    "date1": "2026-08-02",
+    "email2": true,
+    "date2": "2026-08-04"
   },
   {
     "name": "Vinoteca Paulistana",
@@ -2986,7 +3196,9 @@
     "template": "consultivo",
     "website": "",
     "email1": true,
-    "date1": "2026-08-02"
+    "date1": "2026-08-02",
+    "email2": true,
+    "date2": "2026-08-04"
   },
   {
     "name": "POMPÃIA BAR",
@@ -2999,7 +3211,9 @@
     "template": "prova_social",
     "website": "",
     "email1": true,
-    "date1": "2026-08-02"
+    "date1": "2026-08-02",
+    "email2": true,
+    "date2": "2026-08-04"
   },
   {
     "name": "Bar Tiquim",
@@ -3012,7 +3226,9 @@
     "template": "consultivo",
     "website": "",
     "email1": true,
-    "date1": "2026-08-02"
+    "date1": "2026-08-02",
+    "email2": true,
+    "date2": "2026-08-04"
   },
   {
     "name": "NONAME BOTECO",
@@ -3025,7 +3241,9 @@
     "template": "pergunta",
     "website": "",
     "email1": true,
-    "date1": "2026-08-02"
+    "date1": "2026-08-02",
+    "email2": true,
+    "date2": "2026-08-04"
   },
   {
     "name": "PARIBAR",
@@ -3038,7 +3256,9 @@
     "template": "consultivo",
     "website": "",
     "email1": true,
-    "date1": "2026-08-02"
+    "date1": "2026-08-02",
+    "email2": true,
+    "date2": "2026-08-04"
   },
   {
     "name": "ELIDIO BAR",
@@ -3051,7 +3271,9 @@
     "template": "prova_social",
     "website": "",
     "email1": true,
-    "date1": "2026-08-02"
+    "date1": "2026-08-02",
+    "email2": true,
+    "date2": "2026-08-04"
   },
   {
     "name": "Balsa",
@@ -3066,7 +3288,9 @@
     "email1": true,
     "date1": "2026-08-02",
     "whatsappSent": true,
-    "whatsappDate": "2026-08-03"
+    "whatsappDate": "2026-08-03",
+    "email2": true,
+    "date2": "2026-08-04"
   },
   {
     "name": "ESPÃRITO SANTO",
@@ -3079,7 +3303,9 @@
     "template": "pergunta",
     "website": "",
     "email1": true,
-    "date1": "2026-08-02"
+    "date1": "2026-08-02",
+    "email2": true,
+    "date2": "2026-08-04"
   },
   {
     "name": "Viela Bar & Pizza",
@@ -3092,7 +3318,9 @@
     "template": "consultivo",
     "website": "",
     "email1": true,
-    "date1": "2026-08-02"
+    "date1": "2026-08-02",
+    "email2": true,
+    "date2": "2026-08-04"
   },
   {
     "name": "SANTA JULIA Bar & Restaurante",
@@ -3105,7 +3333,9 @@
     "template": "pergunta",
     "website": "",
     "email1": true,
-    "date1": "2026-08-02"
+    "date1": "2026-08-02",
+    "email2": true,
+    "date2": "2026-08-04"
   },
   {
     "name": "ARLETE BAR E MERCEARIA",
@@ -3118,7 +3348,9 @@
     "template": "pergunta",
     "website": "",
     "email1": true,
-    "date1": "2026-08-02"
+    "date1": "2026-08-02",
+    "email2": true,
+    "date2": "2026-08-04"
   },
   {
     "name": "Benjamim Botequim",
@@ -3131,7 +3363,9 @@
     "template": "prova_social",
     "website": "",
     "email1": true,
-    "date1": "2026-08-02"
+    "date1": "2026-08-02",
+    "email2": true,
+    "date2": "2026-08-04"
   },
   {
     "name": "FILEÌ RESTAURANTE & BAR",
@@ -3144,7 +3378,9 @@
     "template": "prova_social",
     "website": "",
     "email1": true,
-    "date1": "2026-08-02"
+    "date1": "2026-08-02",
+    "email2": true,
+    "date2": "2026-08-04"
   },
   {
     "name": "Beefbar",
@@ -3157,7 +3393,9 @@
     "template": "consultivo",
     "website": "",
     "email1": true,
-    "date1": "2026-08-02"
+    "date1": "2026-08-02",
+    "email2": true,
+    "date2": "2026-08-04"
   },
   {
     "name": "Republic Pub",
@@ -3170,7 +3408,9 @@
     "template": "pergunta",
     "website": "",
     "email1": true,
-    "date1": "2026-08-02"
+    "date1": "2026-08-02",
+    "email2": true,
+    "date2": "2026-08-04"
   },
   {
     "name": "BAR PÃ PRA FORA",
@@ -3183,7 +3423,9 @@
     "template": "consultivo",
     "website": "",
     "email1": true,
-    "date1": "2026-08-02"
+    "date1": "2026-08-02",
+    "email2": true,
+    "date2": "2026-08-04"
   },
   {
     "name": "TETTO ROOFTOP LOUNGE",
@@ -3196,7 +3438,9 @@
     "template": "consultivo",
     "website": "",
     "email1": true,
-    "date1": "2026-08-02"
+    "date1": "2026-08-02",
+    "email2": true,
+    "date2": "2026-08-04"
   },
   {
     "name": "SÃSHOTS & GIN CLUB",
@@ -3209,7 +3453,9 @@
     "template": "prova_social",
     "website": "",
     "email1": true,
-    "date1": "2026-08-02"
+    "date1": "2026-08-02",
+    "email2": true,
+    "date2": "2026-08-04"
   },
   {
     "name": "DEGRAUBAR",
@@ -3222,7 +3468,9 @@
     "template": "pergunta",
     "website": "",
     "email1": true,
-    "date1": "2026-08-02"
+    "date1": "2026-08-02",
+    "email2": true,
+    "date2": "2026-08-04"
   },
   {
     "name": "Veloso Bar",
@@ -3235,7 +3483,9 @@
     "template": "consultivo",
     "website": "",
     "email1": true,
-    "date1": "2026-08-02"
+    "date1": "2026-08-02",
+    "email2": true,
+    "date2": "2026-08-04"
   },
   {
     "name": "BAR SÃO JORGE",
@@ -3248,7 +3498,9 @@
     "template": "pergunta",
     "website": "",
     "email1": true,
-    "date1": "2026-08-02"
+    "date1": "2026-08-02",
+    "email2": true,
+    "date2": "2026-08-04"
   },
   {
     "name": "BAR DO GIBA",
@@ -3261,7 +3513,9 @@
     "template": "prova_social",
     "website": "",
     "email1": true,
-    "date1": "2026-08-02"
+    "date1": "2026-08-02",
+    "email2": true,
+    "date2": "2026-08-04"
   },
   {
     "name": "A JURITI",
@@ -3274,7 +3528,9 @@
     "template": "consultivo",
     "website": "",
     "email1": true,
-    "date1": "2026-08-02"
+    "date1": "2026-08-02",
+    "email2": true,
+    "date2": "2026-08-04"
   },
   {
     "name": "O MirandeÌs",
@@ -3287,7 +3543,9 @@
     "template": "pergunta",
     "website": "",
     "email1": true,
-    "date1": "2026-08-02"
+    "date1": "2026-08-02",
+    "email2": true,
+    "date2": "2026-08-04"
   },
   {
     "name": "Bar Das SP",
@@ -3300,7 +3558,9 @@
     "template": "consultivo",
     "website": "",
     "email1": true,
-    "date1": "2026-08-02"
+    "date1": "2026-08-02",
+    "email2": true,
+    "date2": "2026-08-04"
   },
   {
     "name": "IPO BAR",
@@ -3313,7 +3573,9 @@
     "template": "pergunta",
     "website": "",
     "email1": true,
-    "date1": "2026-08-02"
+    "date1": "2026-08-02",
+    "email2": true,
+    "date2": "2026-08-04"
   },
   {
     "name": "WANDERLUST BAR E COZINHA",
@@ -3326,7 +3588,9 @@
     "template": "prova_social",
     "website": "",
     "email1": true,
-    "date1": "2026-08-02"
+    "date1": "2026-08-02",
+    "email2": true,
+    "date2": "2026-08-04"
   },
   {
     "name": "Casa Galliano",
@@ -3339,7 +3603,9 @@
     "template": "pergunta",
     "website": "",
     "email1": true,
-    "date1": "2026-08-02"
+    "date1": "2026-08-02",
+    "email2": true,
+    "date2": "2026-08-04"
   },
   {
     "name": "O'MALLEY'S BAR",
@@ -3352,7 +3618,9 @@
     "template": "consultivo",
     "website": "",
     "email1": true,
-    "date1": "2026-08-02"
+    "date1": "2026-08-02",
+    "email2": true,
+    "date2": "2026-08-04"
   },
   {
     "name": "BAR DO PLINIO",
@@ -3365,7 +3633,9 @@
     "template": "pergunta",
     "website": "",
     "email1": true,
-    "date1": "2026-08-02"
+    "date1": "2026-08-02",
+    "email2": true,
+    "date2": "2026-08-04"
   },
   {
     "name": "Bar DuJuZeÌ",
@@ -3378,7 +3648,9 @@
     "template": "prova_social",
     "website": "",
     "email1": true,
-    "date1": "2026-08-02"
+    "date1": "2026-08-02",
+    "email2": true,
+    "date2": "2026-08-04"
   },
   {
     "name": "BAR DO LOPES",
@@ -3391,7 +3663,9 @@
     "template": "pergunta",
     "website": "",
     "email1": true,
-    "date1": "2026-08-02"
+    "date1": "2026-08-02",
+    "email2": true,
+    "date2": "2026-08-04"
   },
   {
     "name": "Bar do Luiz Fernandes",
@@ -3404,7 +3678,9 @@
     "template": "consultivo",
     "website": "",
     "email1": true,
-    "date1": "2026-08-02"
+    "date1": "2026-08-02",
+    "email2": true,
+    "date2": "2026-08-04"
   },
   {
     "name": "CafeÌ Hotel",
@@ -3419,7 +3695,9 @@
     "email1": true,
     "date1": "2026-08-02",
     "whatsappSent": true,
-    "whatsappDate": "2026-08-03"
+    "whatsappDate": "2026-08-03",
+    "email2": true,
+    "date2": "2026-08-04"
   },
   {
     "name": "BAR CASA NA PRAIA",
@@ -3432,7 +3710,9 @@
     "template": "prova_social",
     "website": "",
     "email1": true,
-    "date1": "2026-08-02"
+    "date1": "2026-08-02",
+    "email2": true,
+    "date2": "2026-08-04"
   },
   {
     "name": "OLD BAR E GASTRONOMIA",
@@ -3445,7 +3725,9 @@
     "template": "pergunta",
     "website": "",
     "email1": true,
-    "date1": "2026-08-02"
+    "date1": "2026-08-02",
+    "email2": true,
+    "date2": "2026-08-04"
   },
   {
     "name": "BAR SEU DOMINGOS",
@@ -3458,7 +3740,9 @@
     "template": "prova_social",
     "website": "",
     "email1": true,
-    "date1": "2026-08-02"
+    "date1": "2026-08-02",
+    "email2": true,
+    "date2": "2026-08-04"
   },
   {
     "name": "REGOÌ",
@@ -3473,7 +3757,9 @@
     "email1": true,
     "date1": "2026-08-02",
     "whatsappSent": true,
-    "whatsappDate": "2026-08-03"
+    "whatsappDate": "2026-08-03",
+    "email2": true,
+    "date2": "2026-08-04"
   },
   {
     "name": "BAR VILLA",
@@ -3486,7 +3772,9 @@
     "template": "consultivo",
     "website": "",
     "email1": true,
-    "date1": "2026-08-02"
+    "date1": "2026-08-02",
+    "email2": true,
+    "date2": "2026-08-04"
   },
   {
     "name": "BOTECO MOEMA",
@@ -3499,7 +3787,9 @@
     "template": "prova_social",
     "website": "",
     "email1": true,
-    "date1": "2026-08-02"
+    "date1": "2026-08-02",
+    "email2": true,
+    "date2": "2026-08-04"
   },
   {
     "name": "JequitibaÌ Espetaria",
@@ -3512,7 +3802,9 @@
     "template": "pergunta",
     "website": "",
     "email1": true,
-    "date1": "2026-08-02"
+    "date1": "2026-08-02",
+    "email2": true,
+    "date2": "2026-08-04"
   },
   {
     "name": "Tangerina Gastro Bar",
@@ -3525,7 +3817,9 @@
     "template": "prova_social",
     "website": "",
     "email1": true,
-    "date1": "2026-08-02"
+    "date1": "2026-08-02",
+    "email2": true,
+    "date2": "2026-08-04"
   },
   {
     "name": "NIT BAR DE TAPAS",
@@ -3538,7 +3832,9 @@
     "template": "prova_social",
     "website": "",
     "email1": true,
-    "date1": "2026-08-02"
+    "date1": "2026-08-02",
+    "email2": true,
+    "date2": "2026-08-04"
   },
   {
     "name": "BAR DO LUIZ NOZOIE",
@@ -3551,7 +3847,9 @@
     "template": "pergunta",
     "website": "",
     "email1": true,
-    "date1": "2026-08-02"
+    "date1": "2026-08-02",
+    "email2": true,
+    "date2": "2026-08-04"
   },
   {
     "name": "PLATZ",
@@ -3564,7 +3862,9 @@
     "template": "pergunta",
     "website": "",
     "email1": true,
-    "date1": "2026-08-02"
+    "date1": "2026-08-02",
+    "email2": true,
+    "date2": "2026-08-04"
   },
   {
     "name": "Tribunal Bar e Restaurante",
@@ -3577,7 +3877,9 @@
     "template": "consultivo",
     "website": "",
     "email1": true,
-    "date1": "2026-08-02"
+    "date1": "2026-08-02",
+    "email2": true,
+    "date2": "2026-08-04"
   },
   {
     "name": "BOTECO DO ZOUTROS",
@@ -3590,7 +3892,9 @@
     "template": "prova_social",
     "website": "",
     "email1": true,
-    "date1": "2026-08-02"
+    "date1": "2026-08-02",
+    "email2": true,
+    "date2": "2026-08-04"
   },
   {
     "name": "ESTEPE",
@@ -3603,7 +3907,9 @@
     "template": "pergunta",
     "website": "",
     "email1": true,
-    "date1": "2026-08-02"
+    "date1": "2026-08-02",
+    "email2": true,
+    "date2": "2026-08-04"
   },
   {
     "name": "Bar da PracÌ§a",
@@ -3618,7 +3924,9 @@
     "email1": true,
     "date1": "2026-08-02",
     "whatsappSent": true,
-    "whatsappDate": "2026-08-03"
+    "whatsappDate": "2026-08-03",
+    "email2": true,
+    "date2": "2026-08-04"
   },
   {
     "name": "LAZY PARK",
@@ -3631,7 +3939,9 @@
     "template": "prova_social",
     "website": "",
     "email1": true,
-    "date1": "2026-08-02"
+    "date1": "2026-08-02",
+    "email2": true,
+    "date2": "2026-08-04"
   },
   {
     "name": "TRAGO",
@@ -3644,7 +3954,9 @@
     "template": "consultivo",
     "website": "",
     "email1": true,
-    "date1": "2026-08-02"
+    "date1": "2026-08-02",
+    "email2": true,
+    "date2": "2026-08-04"
   },
   {
     "name": "Petiskin do Bob",
@@ -3657,7 +3969,9 @@
     "template": "prova_social",
     "website": "",
     "email1": true,
-    "date1": "2026-08-02"
+    "date1": "2026-08-02",
+    "email2": true,
+    "date2": "2026-08-04"
   },
   {
     "name": "FLORA",
@@ -3670,7 +3984,9 @@
     "template": "pergunta",
     "website": "",
     "email1": true,
-    "date1": "2026-08-02"
+    "date1": "2026-08-02",
+    "email2": true,
+    "date2": "2026-08-04"
   },
   {
     "name": "QT Pizza Bar",
@@ -3683,7 +3999,9 @@
     "template": "pergunta",
     "website": "",
     "email1": true,
-    "date1": "2026-08-02"
+    "date1": "2026-08-02",
+    "email2": true,
+    "date2": "2026-08-04"
   },
   {
     "name": "Â¿Que Pasa?",
@@ -3696,7 +4014,9 @@
     "template": "prova_social",
     "website": "",
     "email1": true,
-    "date1": "2026-08-02"
+    "date1": "2026-08-02",
+    "email2": true,
+    "date2": "2026-08-04"
   },
   {
     "name": "SaÌo Conrado Bar",
@@ -3709,7 +4029,9 @@
     "template": "prova_social",
     "website": "",
     "email1": true,
-    "date1": "2026-08-02"
+    "date1": "2026-08-02",
+    "email2": true,
+    "date2": "2026-08-04"
   },
   {
     "name": "Bar do Celso",
@@ -3722,7 +4044,9 @@
     "template": "prova_social",
     "website": "",
     "email1": true,
-    "date1": "2026-08-02"
+    "date1": "2026-08-02",
+    "email2": true,
+    "date2": "2026-08-04"
   },
   {
     "name": "JORDÃO BAR",
@@ -3735,7 +4059,9 @@
     "template": "prova_social",
     "website": "",
     "email1": true,
-    "date1": "2026-08-02"
+    "date1": "2026-08-02",
+    "email2": true,
+    "date2": "2026-08-04"
   },
   {
     "name": "BAZE",
@@ -3748,7 +4074,9 @@
     "template": "consultivo",
     "website": "",
     "email1": true,
-    "date1": "2026-08-02"
+    "date1": "2026-08-02",
+    "email2": true,
+    "date2": "2026-08-04"
   },
   {
     "name": "Vianna Bar",
@@ -3761,7 +4089,9 @@
     "template": "pergunta",
     "website": "",
     "email1": true,
-    "date1": "2026-08-02"
+    "date1": "2026-08-02",
+    "email2": true,
+    "date2": "2026-08-04"
   },
   {
     "name": "Perobah Espetaria",
@@ -3774,7 +4104,9 @@
     "template": "pergunta",
     "website": "",
     "email1": true,
-    "date1": "2026-08-02"
+    "date1": "2026-08-02",
+    "email2": true,
+    "date2": "2026-08-04"
   },
   {
     "name": "Bar do Beco",
@@ -3787,7 +4119,9 @@
     "template": "consultivo",
     "website": "",
     "email1": true,
-    "date1": "2026-08-02"
+    "date1": "2026-08-02",
+    "email2": true,
+    "date2": "2026-08-04"
   },
   {
     "name": "CERVEJA AVÃS",
@@ -3800,7 +4134,9 @@
     "template": "consultivo",
     "website": "",
     "email1": true,
-    "date1": "2026-08-02"
+    "date1": "2026-08-02",
+    "email2": true,
+    "date2": "2026-08-04"
   },
   {
     "name": "ASSEMBLÃIA BAR",
@@ -3813,7 +4149,9 @@
     "template": "pergunta",
     "website": "",
     "email1": true,
-    "date1": "2026-08-02"
+    "date1": "2026-08-02",
+    "email2": true,
+    "date2": "2026-08-04"
   },
   {
     "name": "PIER 1327",
@@ -3826,7 +4164,9 @@
     "template": "consultivo",
     "website": "",
     "email1": true,
-    "date1": "2026-08-02"
+    "date1": "2026-08-02",
+    "email2": true,
+    "date2": "2026-08-04"
   },
   {
     "name": "BOTECO CENTRAL",
@@ -3839,7 +4179,9 @@
     "template": "pergunta",
     "website": "",
     "email1": true,
-    "date1": "2026-08-02"
+    "date1": "2026-08-02",
+    "email2": true,
+    "date2": "2026-08-04"
   },
   {
     "name": "THE BOWL",
@@ -3852,7 +4194,9 @@
     "template": "consultivo",
     "website": "",
     "email1": true,
-    "date1": "2026-08-02"
+    "date1": "2026-08-02",
+    "email2": true,
+    "date2": "2026-08-04"
   },
   {
     "name": "Augusta 472 Rock Bar",
@@ -3867,7 +4211,9 @@
     "email1": true,
     "date1": "2026-08-02",
     "whatsappSent": true,
-    "whatsappDate": "2026-08-03"
+    "whatsappDate": "2026-08-03",
+    "email2": true,
+    "date2": "2026-08-04"
   },
   {
     "name": "Esquina Do Souza",
@@ -3880,7 +4226,9 @@
     "template": "consultivo",
     "website": "",
     "email1": true,
-    "date1": "2026-08-02"
+    "date1": "2026-08-02",
+    "email2": true,
+    "date2": "2026-08-04"
   },
   {
     "name": "BOTECO MANO DO CÃU",
@@ -3893,7 +4241,9 @@
     "template": "prova_social",
     "website": "",
     "email1": true,
-    "date1": "2026-08-02"
+    "date1": "2026-08-02",
+    "email2": true,
+    "date2": "2026-08-04"
   },
   {
     "name": "Me VÃ¡",
@@ -3906,7 +4256,9 @@
     "template": "prova_social",
     "website": "",
     "email1": true,
-    "date1": "2026-08-02"
+    "date1": "2026-08-02",
+    "email2": true,
+    "date2": "2026-08-04"
   },
   {
     "name": "Buteco de Minas",
@@ -3919,7 +4271,9 @@
     "template": "pergunta",
     "website": "",
     "email1": true,
-    "date1": "2026-08-02"
+    "date1": "2026-08-02",
+    "email2": true,
+    "date2": "2026-08-04"
   },
   {
     "name": "Bagaceira",
@@ -3932,7 +4286,9 @@
     "template": "pergunta",
     "website": "",
     "email1": true,
-    "date1": "2026-08-02"
+    "date1": "2026-08-02",
+    "email2": true,
+    "date2": "2026-08-04"
   },
   {
     "name": "SÃ£o CristÃ³vÃ£o Bar",
@@ -3945,7 +4301,9 @@
     "template": "consultivo",
     "website": "",
     "email1": true,
-    "date1": "2026-08-02"
+    "date1": "2026-08-02",
+    "email2": true,
+    "date2": "2026-08-04"
   },
   {
     "name": "KRAUT BAR",
@@ -3960,7 +4318,9 @@
     "email1": true,
     "date1": "2026-08-02",
     "whatsappSent": true,
-    "whatsappDate": "2026-08-03"
+    "whatsappDate": "2026-08-03",
+    "email2": true,
+    "date2": "2026-08-04"
   },
   {
     "name": "Vamo Toma Uma Tap House",
@@ -3973,7 +4333,9 @@
     "template": "prova_social",
     "website": "",
     "email1": true,
-    "date1": "2026-08-02"
+    "date1": "2026-08-02",
+    "email2": true,
+    "date2": "2026-08-04"
   },
   {
     "name": "Food Park da Villa",
@@ -3986,7 +4348,9 @@
     "template": "prova_social",
     "website": "",
     "email1": true,
-    "date1": "2026-08-02"
+    "date1": "2026-08-02",
+    "email2": true,
+    "date2": "2026-08-04"
   },
   {
     "name": "TATU BOLA",
@@ -3999,7 +4363,9 @@
     "template": "pergunta",
     "website": "",
     "email1": true,
-    "date1": "2026-08-02"
+    "date1": "2026-08-02",
+    "email2": true,
+    "date2": "2026-08-04"
   },
   {
     "name": "Vero! Coquetelaria e Cozinha",
@@ -4012,7 +4378,9 @@
     "template": "pergunta",
     "website": "",
     "email1": true,
-    "date1": "2026-08-02"
+    "date1": "2026-08-02",
+    "email2": true,
+    "date2": "2026-08-04"
   },
   {
     "name": "BAR DO JUAREZ",
@@ -4025,7 +4393,9 @@
     "template": "prova_social",
     "website": "",
     "email1": true,
-    "date1": "2026-08-02"
+    "date1": "2026-08-02",
+    "email2": true,
+    "date2": "2026-08-04"
   },
   {
     "name": "A Dama E Os Vagabundos Bar",
@@ -4038,7 +4408,9 @@
     "template": "consultivo",
     "website": "",
     "email1": true,
-    "date1": "2026-08-02"
+    "date1": "2026-08-02",
+    "email2": true,
+    "date2": "2026-08-04"
   },
   {
     "name": "ALEGRIA DO GALO",
@@ -4051,7 +4423,9 @@
     "template": "prova_social",
     "website": "",
     "email1": true,
-    "date1": "2026-08-02"
+    "date1": "2026-08-02",
+    "email2": true,
+    "date2": "2026-08-04"
   },
   {
     "name": "PINA DRINQUES",
@@ -4064,7 +4438,9 @@
     "template": "prova_social",
     "website": "",
     "email1": true,
-    "date1": "2026-08-02"
+    "date1": "2026-08-02",
+    "email2": true,
+    "date2": "2026-08-04"
   },
   {
     "name": "LIBAR",
@@ -4077,7 +4453,9 @@
     "template": "consultivo",
     "website": "",
     "email1": true,
-    "date1": "2026-08-02"
+    "date1": "2026-08-02",
+    "email2": true,
+    "date2": "2026-08-04"
   },
   {
     "name": "PROSA E VINHO",
@@ -4090,7 +4468,9 @@
     "template": "consultivo",
     "website": "",
     "email1": true,
-    "date1": "2026-08-02"
+    "date1": "2026-08-02",
+    "email2": true,
+    "date2": "2026-08-04"
   },
   {
     "name": "Ã DO BOROGODÃ",
@@ -4103,7 +4483,9 @@
     "template": "prova_social",
     "website": "",
     "email1": true,
-    "date1": "2026-08-02"
+    "date1": "2026-08-02",
+    "email2": true,
+    "date2": "2026-08-04"
   },
   {
     "name": "JazzB",
@@ -4116,7 +4498,9 @@
     "template": "consultivo",
     "website": "",
     "email1": true,
-    "date1": "2026-08-02"
+    "date1": "2026-08-02",
+    "email2": true,
+    "date2": "2026-08-04"
   },
   {
     "name": "CAMA DE GATO",
@@ -4129,7 +4513,9 @@
     "template": "pergunta",
     "website": "",
     "email1": true,
-    "date1": "2026-08-02"
+    "date1": "2026-08-02",
+    "email2": true,
+    "date2": "2026-08-04"
   },
   {
     "name": "MERCEARIA SÃO PEDRO",
@@ -4142,7 +4528,9 @@
     "template": "prova_social",
     "website": "",
     "email1": true,
-    "date1": "2026-08-02"
+    "date1": "2026-08-02",
+    "email2": true,
+    "date2": "2026-08-04"
   },
   {
     "name": "BONA",
@@ -4155,7 +4543,9 @@
     "template": "pergunta",
     "website": "",
     "email1": true,
-    "date1": "2026-08-02"
+    "date1": "2026-08-02",
+    "email2": true,
+    "date2": "2026-08-04"
   },
   {
     "name": "BOTECO FLORESTA - ESPERIA",
@@ -4168,7 +4558,9 @@
     "template": "pergunta",
     "website": "",
     "email1": true,
-    "date1": "2026-08-02"
+    "date1": "2026-08-02",
+    "email2": true,
+    "date2": "2026-08-04"
   },
   {
     "name": "BOTECO TODOS OS SANTOS",
@@ -4181,7 +4573,9 @@
     "template": "prova_social",
     "website": "",
     "email1": true,
-    "date1": "2026-08-02"
+    "date1": "2026-08-02",
+    "email2": true,
+    "date2": "2026-08-04"
   },
   {
     "name": "BOURBON STREET",
@@ -4194,7 +4588,9 @@
     "template": "consultivo",
     "website": "",
     "email1": true,
-    "date1": "2026-08-02"
+    "date1": "2026-08-02",
+    "email2": true,
+    "date2": "2026-08-04"
   },
   {
     "name": "Finneganâs",
@@ -4207,7 +4603,9 @@
     "template": "pergunta",
     "website": "",
     "email1": true,
-    "date1": "2026-08-02"
+    "date1": "2026-08-02",
+    "email2": true,
+    "date2": "2026-08-04"
   },
   {
     "name": "MAAVAH BAR",
@@ -4220,7 +4618,9 @@
     "template": "prova_social",
     "website": "",
     "email1": true,
-    "date1": "2026-08-02"
+    "date1": "2026-08-02",
+    "email2": true,
+    "date2": "2026-08-04"
   },
   {
     "name": "IGREJINHA",
@@ -4233,7 +4633,9 @@
     "template": "consultivo",
     "website": "",
     "email1": true,
-    "date1": "2026-08-02"
+    "date1": "2026-08-02",
+    "email2": true,
+    "date2": "2026-08-04"
   },
   {
     "name": "CINECLUBE CORTINA",
@@ -4246,7 +4648,9 @@
     "template": "pergunta",
     "website": "",
     "email1": true,
-    "date1": "2026-08-02"
+    "date1": "2026-08-02",
+    "email2": true,
+    "date2": "2026-08-04"
   },
   {
     "name": "Vila Vinttage",
@@ -4261,7 +4665,9 @@
     "email1": true,
     "date1": "2026-08-02",
     "whatsappSent": true,
-    "whatsappDate": "2026-08-03"
+    "whatsappDate": "2026-08-03",
+    "email2": true,
+    "date2": "2026-08-04"
   },
   {
     "name": "Ice Bar Torquay",
@@ -4274,7 +4680,9 @@
     "template": "prova_social",
     "website": "",
     "email1": true,
-    "date1": "2026-08-02"
+    "date1": "2026-08-02",
+    "email2": true,
+    "date2": "2026-08-04"
   },
   {
     "name": "Love Cabaret",
@@ -4287,7 +4695,9 @@
     "template": "pergunta",
     "website": "",
     "email1": true,
-    "date1": "2026-08-02"
+    "date1": "2026-08-02",
+    "email2": true,
+    "date2": "2026-08-04"
   },
   {
     "name": "KIA ORA",
@@ -4300,7 +4710,9 @@
     "template": "pergunta",
     "website": "",
     "email1": true,
-    "date1": "2026-08-02"
+    "date1": "2026-08-02",
+    "email2": true,
+    "date2": "2026-08-04"
   },
   {
     "name": "BAR SAMBA",
@@ -4313,7 +4725,9 @@
     "template": "prova_social",
     "website": "",
     "email1": true,
-    "date1": "2026-08-02"
+    "date1": "2026-08-02",
+    "email2": true,
+    "date2": "2026-08-04"
   },
   {
     "name": "Orfeu",
@@ -4326,7 +4740,9 @@
     "template": "pergunta",
     "website": "",
     "email1": true,
-    "date1": "2026-08-02"
+    "date1": "2026-08-02",
+    "email2": true,
+    "date2": "2026-08-04"
   },
   {
     "name": "BAR LÃO",
@@ -4339,7 +4755,9 @@
     "template": "pergunta",
     "website": "",
     "email1": true,
-    "date1": "2026-08-02"
+    "date1": "2026-08-02",
+    "email2": true,
+    "date2": "2026-08-04"
   },
   {
     "name": "JACARÃ GRILL",
@@ -4352,7 +4770,9 @@
     "template": "consultivo",
     "website": "",
     "email1": true,
-    "date1": "2026-08-02"
+    "date1": "2026-08-02",
+    "email2": true,
+    "date2": "2026-08-04"
   },
   {
     "name": "Bar Brahma",
@@ -4365,7 +4785,9 @@
     "template": "consultivo",
     "website": "",
     "email1": true,
-    "date1": "2026-08-02"
+    "date1": "2026-08-02",
+    "email2": true,
+    "date2": "2026-08-04"
   },
   {
     "name": "FEIRINHA BAR",
@@ -4380,7 +4802,9 @@
     "email1": true,
     "date1": "2026-08-02",
     "whatsappSent": true,
-    "whatsappDate": "2026-08-03"
+    "whatsappDate": "2026-08-03",
+    "email2": true,
+    "date2": "2026-08-04"
   },
   {
     "name": "ARMAZÃM PIOLA",
@@ -4393,7 +4817,9 @@
     "template": "consultivo",
     "website": "",
     "email1": true,
-    "date1": "2026-08-02"
+    "date1": "2026-08-02",
+    "email2": true,
+    "date2": "2026-08-04"
   },
   {
     "name": "BAR DO BAIRRO",
@@ -4406,7 +4832,9 @@
     "template": "consultivo",
     "website": "",
     "email1": true,
-    "date1": "2026-08-02"
+    "date1": "2026-08-02",
+    "email2": true,
+    "date2": "2026-08-04"
   },
   {
     "name": "Dois IrmÃ£os",
@@ -4419,7 +4847,9 @@
     "template": "consultivo",
     "website": "",
     "email1": true,
-    "date1": "2026-08-02"
+    "date1": "2026-08-02",
+    "email2": true,
+    "date2": "2026-08-04"
   },
   {
     "name": "100% Burger Cajamar",
@@ -4434,7 +4864,9 @@
     "email1": true,
     "date1": "2026-08-02",
     "whatsappSent": true,
-    "whatsappDate": "2026-08-03"
+    "whatsappDate": "2026-08-03",
+    "email2": true,
+    "date2": "2026-08-04"
   },
   {
     "name": "B.A.R.SP",
@@ -4447,7 +4879,9 @@
     "template": "pergunta",
     "website": "",
     "email1": true,
-    "date1": "2026-08-02"
+    "date1": "2026-08-02",
+    "email2": true,
+    "date2": "2026-08-04"
   },
   {
     "name": "SUBASTOR",
@@ -4460,7 +4894,9 @@
     "template": "consultivo",
     "website": "",
     "email1": true,
-    "date1": "2026-08-02"
+    "date1": "2026-08-02",
+    "email2": true,
+    "date2": "2026-08-04"
   },
   {
     "name": "PIRAJÃ",
@@ -4473,7 +4909,9 @@
     "template": "prova_social",
     "website": "",
     "email1": true,
-    "date1": "2026-08-02"
+    "date1": "2026-08-02",
+    "email2": true,
+    "date2": "2026-08-04"
   },
   {
     "name": "BRÃZ",
@@ -4486,7 +4924,9 @@
     "template": "pergunta",
     "website": "",
     "email1": true,
-    "date1": "2026-08-02"
+    "date1": "2026-08-02",
+    "email2": true,
+    "date2": "2026-08-04"
   },
   {
     "name": "BRAZ ELETRICA",
@@ -4499,7 +4939,9 @@
     "template": "prova_social",
     "website": "",
     "email1": true,
-    "date1": "2026-08-02"
+    "date1": "2026-08-02",
+    "email2": true,
+    "date2": "2026-08-04"
   },
   {
     "name": "ICI BRASSERIE",
@@ -4512,7 +4954,9 @@
     "template": "prova_social",
     "website": "",
     "email1": true,
-    "date1": "2026-08-02"
+    "date1": "2026-08-02",
+    "email2": true,
+    "date2": "2026-08-04"
   },
   {
     "name": "MEAT BAR",
@@ -4527,7 +4971,9 @@
     "email1": true,
     "date1": "2026-08-02",
     "whatsappSent": true,
-    "whatsappDate": "2026-08-03"
+    "whatsappDate": "2026-08-03",
+    "email2": true,
+    "date2": "2026-08-04"
   },
   {
     "name": "CASA FLUIDA",
@@ -4540,7 +4986,9 @@
     "template": "prova_social",
     "website": "",
     "email1": true,
-    "date1": "2026-08-02"
+    "date1": "2026-08-02",
+    "email2": true,
+    "date2": "2026-08-04"
   },
   {
     "name": "RANCHO JERI",
@@ -4553,7 +5001,9 @@
     "template": "consultivo",
     "website": "",
     "email1": true,
-    "date1": "2026-08-02"
+    "date1": "2026-08-02",
+    "email2": true,
+    "date2": "2026-08-04"
   },
   {
     "name": "Wooza",
@@ -4566,7 +5016,9 @@
     "template": "pergunta",
     "website": "",
     "email1": true,
-    "date1": "2026-08-02"
+    "date1": "2026-08-02",
+    "email2": true,
+    "date2": "2026-08-04"
   },
   {
     "name": "SAMAMBAIA BAR E LANCHES",
@@ -4581,7 +5033,9 @@
     "email1": true,
     "date1": "2026-08-02",
     "whatsappSent": true,
-    "whatsappDate": "2026-08-03"
+    "whatsappDate": "2026-08-03",
+    "email2": true,
+    "date2": "2026-08-04"
   },
   {
     "name": "Cruzeiro's Bar",
@@ -4594,7 +5048,9 @@
     "template": "pergunta",
     "website": "",
     "email1": true,
-    "date1": "2026-08-02"
+    "date1": "2026-08-02",
+    "email2": true,
+    "date2": "2026-08-04"
   },
   {
     "name": "Los Perros - Vinho no Boteco",
@@ -4609,7 +5065,9 @@
     "email1": true,
     "date1": "2026-08-02",
     "whatsappSent": true,
-    "whatsappDate": "2026-08-03"
+    "whatsappDate": "2026-08-03",
+    "email2": true,
+    "date2": "2026-08-04"
   },
   {
     "name": "PensaÌo Bar",
@@ -4622,7 +5080,9 @@
     "template": "prova_social",
     "website": "",
     "email1": true,
-    "date1": "2026-08-02"
+    "date1": "2026-08-02",
+    "email2": true,
+    "date2": "2026-08-04"
   },
   {
     "name": "ðð¬ð¬ðð§ð¡ððð±ð¬ ðð«ð¨ð­...",
@@ -4637,7 +5097,9 @@
     "email1": true,
     "date1": "2026-08-02",
     "whatsappSent": true,
-    "whatsappDate": "2026-08-03"
+    "whatsappDate": "2026-08-03",
+    "email2": true,
+    "date2": "2026-08-04"
   },
   {
     "name": "TANTIN",
@@ -4650,7 +5112,9 @@
     "template": "consultivo",
     "website": "",
     "email1": true,
-    "date1": "2026-08-02"
+    "date1": "2026-08-02",
+    "email2": true,
+    "date2": "2026-08-04"
   },
   {
     "name": "Maria Augusta RestoBar",
@@ -4663,7 +5127,9 @@
     "template": "prova_social",
     "website": "",
     "email1": true,
-    "date1": "2026-08-02"
+    "date1": "2026-08-02",
+    "email2": true,
+    "date2": "2026-08-04"
   },
   {
     "name": "Chateau Lounge",
@@ -4676,7 +5142,9 @@
     "template": "consultivo",
     "website": "",
     "email1": true,
-    "date1": "2026-08-02"
+    "date1": "2026-08-02",
+    "email2": true,
+    "date2": "2026-08-04"
   },
   {
     "name": "ððð¦ððð¥ðð¡ð ðð¢ð¨ðð¢...",
@@ -4689,7 +5157,9 @@
     "template": "pergunta",
     "website": "",
     "email1": true,
-    "date1": "2026-08-02"
+    "date1": "2026-08-02",
+    "email2": true,
+    "date2": "2026-08-04"
   },
   {
     "name": "GATTOFIGA",
@@ -4702,7 +5172,9 @@
     "template": "pergunta",
     "website": "",
     "email1": true,
-    "date1": "2026-08-02"
+    "date1": "2026-08-02",
+    "email2": true,
+    "date2": "2026-08-04"
   },
   {
     "name": "PierÃª Bar",
@@ -4717,7 +5189,9 @@
     "email1": true,
     "date1": "2026-08-02",
     "whatsappSent": true,
-    "whatsappDate": "2026-08-03"
+    "whatsappDate": "2026-08-03",
+    "email2": true,
+    "date2": "2026-08-04"
   },
   {
     "name": "Porks Augusta",
@@ -4730,7 +5204,9 @@
     "template": "pergunta",
     "website": "",
     "email1": true,
-    "date1": "2026-08-02"
+    "date1": "2026-08-02",
+    "email2": true,
+    "date2": "2026-08-04"
   },
   {
     "name": "ROUND2",
@@ -4745,7 +5221,9 @@
     "email1": true,
     "date1": "2026-08-02",
     "whatsappSent": true,
-    "whatsappDate": "2026-08-03"
+    "whatsappDate": "2026-08-03",
+    "email2": true,
+    "date2": "2026-08-04"
   },
   {
     "name": "Boteco SÃ£o Lorenzo",
@@ -4760,7 +5238,9 @@
     "email1": true,
     "date1": "2026-08-02",
     "whatsappSent": true,
-    "whatsappDate": "2026-08-03"
+    "whatsappDate": "2026-08-03",
+    "email2": true,
+    "date2": "2026-08-04"
   },
   {
     "name": "Boteco Boa Vista",
@@ -4773,7 +5253,9 @@
     "template": "prova_social",
     "website": "",
     "email1": true,
-    "date1": "2026-08-02"
+    "date1": "2026-08-02",
+    "email2": true,
+    "date2": "2026-08-04"
   },
   {
     "name": "DECK PORTAL",
@@ -4786,7 +5268,9 @@
     "template": "prova_social",
     "website": "",
     "email1": true,
-    "date1": "2026-08-02"
+    "date1": "2026-08-02",
+    "email2": true,
+    "date2": "2026-08-04"
   },
   {
     "name": "3 CANECO",
@@ -4801,7 +5285,9 @@
     "email1": true,
     "date1": "2026-08-02",
     "whatsappSent": true,
-    "whatsappDate": "2026-08-03"
+    "whatsappDate": "2026-08-03",
+    "email2": true,
+    "date2": "2026-08-04"
   },
   {
     "name": "RUAZINHA",
@@ -13703,7 +14189,9 @@
     "context": "TEMATICA DONUTS; responsável: LUIS; instagram: https://www.instagram.com/otradicionalissimo/",
     "phone": "",
     "template": "pergunta",
-    "website": ""
+    "website": "",
+    "email1": true,
+    "date1": "2026-08-04"
   },
   {
     "name": "BREAK LAB BURGER",
@@ -13714,7 +14202,9 @@
     "context": "HAMBURGUERIA; responsável: TAINA; instagram: https://www.instagram.com/breaklabsp/",
     "phone": "(11) 3804-5304",
     "template": "prova_social",
-    "website": ""
+    "website": "",
+    "email1": true,
+    "date1": "2026-08-04"
   },
   {
     "name": "JUANITO`S EMPANADAS ARTESANALES",
@@ -13725,7 +14215,9 @@
     "context": "SALGADOS; responsável: JUAN; instagram: https://www.instagram.com/juanitosempanadas/",
     "phone": "11 2679 2333 / 2879 2332 / 1197333-0292 ROGERIO ASSESSORIA",
     "template": "prova_social",
-    "website": ""
+    "website": "",
+    "email1": true,
+    "date1": "2026-08-04"
   },
   {
     "name": "CABANA BURGUER",
@@ -13736,7 +14228,9 @@
     "context": "HAMBURGUERIA; responsável: CINDY / LETICIA; instagram: https://www.instagram.com/cabana.burger/",
     "phone": "11 23913939 /  97212-9290 LETICIA",
     "template": "prova_social",
-    "website": ""
+    "website": "",
+    "email1": true,
+    "date1": "2026-08-04"
   },
   {
     "name": "DR BOTECO",
@@ -13747,7 +14241,9 @@
     "context": "TEMATICO DIREITO; responsável: CLAUDETE; instagram: https://www.instagram.com/dr.boteco/",
     "phone": "11 97366-2959 / 1156865300",
     "template": "pergunta",
-    "website": ""
+    "website": "",
+    "email1": true,
+    "date1": "2026-08-04"
   },
   {
     "name": "MexicanÃ­ssimo",
@@ -13758,7 +14254,9 @@
     "context": "MEXICANO; responsável: ANDRE; instagram: https://www.instagram.com/restaurantemexicanissimo/",
     "phone": "(11) 3045-1512/ 5042-0792 / 11 94024-6355",
     "template": "consultivo",
-    "website": ""
+    "website": "",
+    "email1": true,
+    "date1": "2026-08-04"
   },
   {
     "name": "AÃAÃ BEACH BAR",
@@ -13769,7 +14267,9 @@
     "context": "AÃAI; responsável: PAULO E MANOEL; instagram: https://www.instagram.com/acaibeachbar/",
     "phone": "11 3062 9404 / 11 965937739 MANOEL",
     "template": "pergunta",
-    "website": ""
+    "website": "",
+    "email1": true,
+    "date1": "2026-08-04"
   },
   {
     "name": "CAJUEIRO CULINAÌRIA NORDESTINA",
@@ -13780,7 +14280,9 @@
     "context": "RESTAURANTE; responsável: THAIS; instagram: https://www.instagram.com/restaurantecajueiro/",
     "phone": "11 33602829",
     "template": "pergunta",
-    "website": ""
+    "website": "",
+    "email1": true,
+    "date1": "2026-08-04"
   },
   {
     "name": "TubarÃ£o do AÃ§aÃ­",
@@ -13791,7 +14293,9 @@
     "context": "AÃAI; responsável: RENATO; instagram: https://www.instagram.com/tubaraodoacairede/",
     "phone": "11 2574-8107 /11 26514155 / 96083-2228 /  96083-2244 RENATO",
     "template": "consultivo",
-    "website": ""
+    "website": "",
+    "email1": true,
+    "date1": "2026-08-04"
   },
   {
     "name": "Kinki Zushi",
@@ -13802,7 +14306,9 @@
     "context": "JAPONESES; instagram: https://www.instagram.com/kinkizushi/",
     "phone": "1198342-2533",
     "template": "consultivo",
-    "website": ""
+    "website": "",
+    "email1": true,
+    "date1": "2026-08-04"
   },
   {
     "name": "JAM - JAPANESE FOOD, ARTS & MUSIC",
@@ -13813,7 +14319,9 @@
     "context": "JAPONÃS; responsável: MARIANE; instagram: https://www.instagram.com/jamrestauranteoficial/",
     "phone": "11 3473 3273",
     "template": "prova_social",
-    "website": ""
+    "website": "",
+    "email1": true,
+    "date1": "2026-08-04"
   },
   {
     "name": "Smokedeli",
@@ -13824,7 +14332,9 @@
     "context": "HAMBURGUERIA; responsável: GABRIEL; instagram: https://www.instagram.com/smokedeli/",
     "phone": "1136686500 / 1197699-0686",
     "template": "pergunta",
-    "website": ""
+    "website": "",
+    "email1": true,
+    "date1": "2026-08-04"
   },
   {
     "name": "Croasonho Campo Belo",
@@ -13835,7 +14345,9 @@
     "context": "CROASAN; responsável: VANESSA; instagram: https://www.instagram.com/croasonhocampobelo/",
     "phone": "11 2679-6001 / (11) 94220-2679 da loja",
     "template": "consultivo",
-    "website": ""
+    "website": "",
+    "email1": true,
+    "date1": "2026-08-04"
   },
   {
     "name": "HELÃ DOCES",
@@ -13846,7 +14358,9 @@
     "context": "DOCES; responsável: LUCAS; instagram: https://www.instagram.com/helo_doces/",
     "phone": "11 3814 4854 / 11 98149-3255  / Luna: 11984383432",
     "template": "consultivo",
-    "website": ""
+    "website": "",
+    "email1": true,
+    "date1": "2026-08-04"
   },
   {
     "name": "Padaria Florestal",
@@ -13857,7 +14371,9 @@
     "context": "PADARIA; responsável: IGOR; instagram: https://www.instagram.com/padariaflorestal/",
     "phone": "11 2204-7297 / 2615-0836 / 1193405-0555",
     "template": "pergunta",
-    "website": ""
+    "website": "",
+    "email1": true,
+    "date1": "2026-08-04"
   },
   {
     "name": "Caspita Pizza",
@@ -13868,7 +14384,9 @@
     "context": "PIZZA; responsável: ERICK / LUCCI; instagram: https://www.instagram.com/caspitapizza/",
     "phone": "(11) 2675-9513 / 11947071466 ERICK",
     "template": "pergunta",
-    "website": ""
+    "website": "",
+    "email1": true,
+    "date1": "2026-08-04"
   },
   {
     "name": "STUPPENDO",
@@ -13879,7 +14397,9 @@
     "context": "SORVETERIA; responsável: FERNANDA; instagram: https://www.instagram.com/stuppendo/?hl=pt-br",
     "phone": "(11) 3645-2672 / (11) 5093-2967",
     "template": "consultivo",
-    "website": ""
+    "website": "",
+    "email1": true,
+    "date1": "2026-08-04"
   },
   {
     "name": "BADEJO",
@@ -13890,7 +14410,9 @@
     "context": "FRUTOS DO MAR; responsável: LEONARDO; instagram: https://www.instagram.com/restaurantebadejosp/",
     "phone": "115055-0238",
     "template": "prova_social",
-    "website": ""
+    "website": "",
+    "email1": true,
+    "date1": "2026-08-04"
   },
   {
     "name": "Doceria FÃ¢ni",
@@ -13901,7 +14423,9 @@
     "context": "DOCES; responsável: NILCE ou FABIO; instagram: https://www.instagram.com/fanidoceria/",
     "phone": "11 3539-7785 / (11)2684-5919/ 2023-3687 / 11 984784077 NILCE",
     "template": "consultivo",
-    "website": ""
+    "website": "",
+    "email1": true,
+    "date1": "2026-08-04"
   },
   {
     "name": "Hong Bin",
@@ -13912,7 +14436,9 @@
     "context": "CHINES; responsável: IVAN; instagram: https://www.instagram.com/hongbinrestaurante/",
     "phone": "11 5073-3732/ 5073-3993 / 1199636-7428",
     "template": "pergunta",
-    "website": ""
+    "website": "",
+    "email1": true,
+    "date1": "2026-08-04"
   },
   {
     "name": "DONA FIRMINA",
@@ -13923,7 +14449,9 @@
     "context": "PIZZARIA; responsável: BRUNO; instagram: https://www.instagram.com/donafirmina/",
     "phone": "11 50930302 / 11 50961298 / 11 50492346 / 11 959101555 BRUNO",
     "template": "pergunta",
-    "website": ""
+    "website": "",
+    "email1": true,
+    "date1": "2026-08-04"
   },
   {
     "name": "KINOSHITA",
@@ -13934,7 +14462,9 @@
     "context": "JAPONES; responsável: ALINE MESSIAS E BÃRBARA; instagram: https://www.instagram.com/kinoshitarestaurante/",
     "phone": "11 3849 6940 / 11 3045-2154 escritorio / 11 959087040 ALINE MESSIAS DIRETORA GERAL",
     "template": "consultivo",
-    "website": ""
+    "website": "",
+    "email1": true,
+    "date1": "2026-08-04"
   },
   {
     "name": "Nahoe Sushi",
@@ -13945,7 +14475,9 @@
     "context": "JAPONÃS; responsável: ORLANDO (DONO) e KELY; instagram: https://www.instagram.com/nahoesushi/",
     "phone": "11 2643-4040 / 11 2094-4242 / 11 96085-9944 mariana /  11 93955-8950 Kelly rh",
     "template": "prova_social",
-    "website": ""
+    "website": "",
+    "email1": true,
+    "date1": "2026-08-04"
   },
   {
     "name": "Restaurante OHKA",
@@ -13956,7 +14488,9 @@
     "context": "JAPONÃS; responsável: FELIPE; instagram: https://www.instagram.com/ohkasushi/?hl=pt-br",
     "phone": "Itaim 113078-3979 / 113031-8272 Jd Europa",
     "template": "prova_social",
-    "website": ""
+    "website": "",
+    "email1": true,
+    "date1": "2026-08-04"
   },
   {
     "name": "Sushi Hiroshi",
@@ -13967,7 +14501,9 @@
     "context": "JAPONÃS; responsável: Francisco; instagram: https://www.instagram.com/sushihiroshioficial/",
     "phone": "11 29787128 / 112979-6677",
     "template": "pergunta",
-    "website": ""
+    "website": "",
+    "email1": true,
+    "date1": "2026-08-04"
   },
   {
     "name": "Mr Brugi",
@@ -13978,7 +14514,9 @@
     "context": "HAMBURGUERIA; responsável: LEANDRO; instagram: https://www.instagram.com/brugibr/",
     "phone": "(11) 2619-0087 / 97410-8886 delivery/ 1194751-1277 LEANDRO (n tem whats)",
     "template": "pergunta",
-    "website": ""
+    "website": "",
+    "email1": true,
+    "date1": "2026-08-04"
   },
   {
     "name": "AÃ§aÃ­ Villa SaudÃ¡vel",
@@ -13989,7 +14527,9 @@
     "context": "AÃAI; responsável: JASON; instagram: https://www.instagram.com/acaivillasaudavel/",
     "phone": "11 3459-4995",
     "template": "prova_social",
-    "website": ""
+    "website": "",
+    "email1": true,
+    "date1": "2026-08-04"
   },
   {
     "name": "Tanka Asian Kitchen",
@@ -14000,7 +14540,9 @@
     "context": "JAPONES; responsável: CESAR; instagram: https://www.instagram.com/tankarestaurante/",
     "phone": "11 3272-8978",
     "template": "consultivo",
-    "website": ""
+    "website": "",
+    "email1": true,
+    "date1": "2026-08-04"
   },
   {
     "name": "IZAKAYA MATSU",
@@ -14011,7 +14553,9 @@
     "context": "IZAKAYAS; instagram: https://www.instagram.com/izakayamatsu/",
     "phone": "11 3812 9439",
     "template": "consultivo",
-    "website": ""
+    "website": "",
+    "email1": true,
+    "date1": "2026-08-04"
   },
   {
     "name": "Macaxeira Itaim",
@@ -14022,7 +14566,9 @@
     "context": "COMIDA NORDESTINA; responsável: NELSON; instagram: https://www.instagram.com/macaxeiraitaim/",
     "phone": "11948619830 NELSON  / 11 98315-5014 RODRIGO",
     "template": "prova_social",
-    "website": ""
+    "website": "",
+    "email1": true,
+    "date1": "2026-08-04"
   },
   {
     "name": "BRACIA PARRILLA",
@@ -14033,7 +14579,9 @@
     "context": "CARNES; responsável: NALDO; instagram: https://www.instagram.com/braciaparrilla/",
     "phone": "11 2227-5510",
     "template": "prova_social",
-    "website": ""
+    "website": "",
+    "email1": true,
+    "date1": "2026-08-04"
   },
   {
     "name": "Le BleÌ Casa de paÌes",
@@ -14044,7 +14592,9 @@
     "context": "PADARIA; responsável: FABIO / SAULO; instagram: https://www.instagram.com/leblecasadepaes/",
     "phone": "HIGIENOPOLIS: 11 3663-4626 WPP / JARDINS: 11 26454456 / 11968637510 SAULO n tem whats / 11 964056367 SAULO",
     "template": "prova_social",
-    "website": ""
+    "website": "",
+    "email1": true,
+    "date1": "2026-08-04"
   },
   {
     "name": "Grace Burgers",
@@ -14055,7 +14605,9 @@
     "context": "HAMBURGUERIA; responsável: LORRAN; instagram: https://www.instagram.com/graceburgers/",
     "phone": "11991235323 / 1198316-8536 LORRAN WPP",
     "template": "consultivo",
-    "website": ""
+    "website": "",
+    "email1": true,
+    "date1": "2026-08-04"
   },
   {
     "name": "Burger Company",
@@ -14066,7 +14618,9 @@
     "context": "HAMBURGUERIA; responsável: ERNESTO; instagram: https://www.instagram.com/burgercompany_hamburgueria/",
     "phone": "11 2372-0408",
     "template": "consultivo",
-    "website": ""
+    "website": "",
+    "email1": true,
+    "date1": "2026-08-04"
   },
   {
     "name": "Restaurante Su",
@@ -14077,7 +14631,9 @@
     "context": "Restaurante japonÃªs; responsável: jennifer mkt; instagram: https://www.instagram.com/restaurante.su/",
     "phone": "11 933445892 / 11 3823-2950 / 11 974415078 ESCRITORIO / 11 993552939 ESCRITORIO / 11 994666044  jeniffer MKT /  11 95571-1399",
     "template": "pergunta",
-    "website": ""
+    "website": "",
+    "email1": true,
+    "date1": "2026-08-04"
   },
   {
     "name": "KITCHIN",
@@ -14088,7 +14644,9 @@
     "context": "Restaurante japonÃªs; responsável: GABRIEL; instagram: https://www.instagram.com/restaurantekitchin/",
     "phone": "11 2339 2072 / 11 974415078 ESCRITORIO / 11 99466-6044 JENIFFER",
     "template": "pergunta",
-    "website": ""
+    "website": "",
+    "email1": true,
+    "date1": "2026-08-04"
   },
   {
     "name": "CANTINA ROMA",
@@ -14099,7 +14657,9 @@
     "context": "RESTAURANTE; responsável: CRISTINA; instagram: https://www.instagram.com/cantinaroma/",
     "phone": "113660-0800  / 11 989494985 LOJA / 11 996027261 CRISTINA",
     "template": "consultivo",
-    "website": ""
+    "website": "",
+    "email1": true,
+    "date1": "2026-08-04"
   },
   {
     "name": "FIREWOOD BURGERS",
@@ -14110,7 +14670,9 @@
     "context": "HAMBURGUERIA; responsável: FELIPE; instagram: https://www.instagram.com/firewood_burguer/",
     "phone": "113895-3410 // 11 976423841 N TEM WHATS /1197079-9376",
     "template": "pergunta",
-    "website": ""
+    "website": "",
+    "email1": true,
+    "date1": "2026-08-04"
   },
   {
     "name": "WINNERBURGER",
@@ -14121,7 +14683,9 @@
     "context": "HAMBURGUERIA; responsável: LUANA e FRED; instagram: https://www.instagram.com/winnerburger/",
     "phone": "11 99515-1725 LUANA /  (11) 5565-3017",
     "template": "consultivo",
-    "website": ""
+    "website": "",
+    "email1": true,
+    "date1": "2026-08-04"
   },
   {
     "name": "Raro Burger & Friends",
@@ -14132,7 +14696,9 @@
     "context": "HAMBURGUERIA; responsável: RODOLFO; instagram: https://www.instagram.com/raroburger/",
     "phone": "11 99340-0889",
     "template": "consultivo",
-    "website": ""
+    "website": "",
+    "email1": true,
+    "date1": "2026-08-04"
   },
   {
     "name": "Por um Punhado de DoÌlares",
@@ -14143,7 +14709,9 @@
     "context": "CAFETERIA; responsável: Felipe; instagram: https://www.instagram.com/porumpunhadodedolares/",
     "phone": "11 937313954 N TEM WHATS",
     "template": "prova_social",
-    "website": ""
+    "website": "",
+    "email1": true,
+    "date1": "2026-08-04"
   },
   {
     "name": "New's Lanchonete",
@@ -14154,7 +14722,9 @@
     "context": "LANCHONETE; responsável: GUILHERME; instagram: https://www.instagram.com/newslanchonete/",
     "phone": "11 38842138",
     "template": "consultivo",
-    "website": ""
+    "website": "",
+    "email1": true,
+    "date1": "2026-08-04"
   },
   {
     "name": "Mr.Poke Hawaiian Food",
@@ -14165,7 +14735,9 @@
     "context": "RESTAURANTE; responsável: NÃDIA; instagram: https://www.instagram.com/mrpokebr/",
     "phone": "11 30317848  / 11 989531836 NADIA",
     "template": "pergunta",
-    "website": ""
+    "website": "",
+    "email1": true,
+    "date1": "2026-08-04"
   },
   {
     "name": "Kotay Sushi",
@@ -14176,7 +14748,9 @@
     "context": "JAPONÃS; responsável: MANOEL; instagram: https://www.instagram.com/kotaysushi/",
     "phone": "11 2385-2062 UNIDADE VILA MARIANA / 115542-2634 UNIDADE MOEMA / 11 990217168  ARNALDO GERENTE  / 11 969231343 MANOEL",
     "template": "consultivo",
-    "website": ""
+    "website": "",
+    "email1": true,
+    "date1": "2026-08-04"
   },
   {
     "name": "Pasta Way",
@@ -14187,7 +14761,9 @@
     "context": "ITALIANO; responsável: ISABELA; instagram: https://www.instagram.com/pastaway.brooklin/",
     "phone": "11 5506-2931 / 11 930087222 ISABELA",
     "template": "prova_social",
-    "website": ""
+    "website": "",
+    "email1": true,
+    "date1": "2026-08-04"
   },
   {
     "name": "Vica Pota Pizzaria e Forneria",
@@ -14198,7 +14774,9 @@
     "context": "PIZZARIA; responsável: MOISES; instagram: https://www.instagram.com/vicapotapizza/?hl=pt-br",
     "phone": "11 3825-5512",
     "template": "pergunta",
-    "website": ""
+    "website": "",
+    "email1": true,
+    "date1": "2026-08-04"
   },
   {
     "name": "Olivia Saladas",
@@ -14209,7 +14787,9 @@
     "context": "RESTAURANTE; responsável: LETÃCIA; instagram: https://www.instagram.com/oliviasaladas/",
     "phone": "21 31791949 / 2196766-1077",
     "template": "prova_social",
-    "website": ""
+    "website": "",
+    "email1": true,
+    "date1": "2026-08-04"
   },
   {
     "name": "Friendship Burguer",
@@ -14220,7 +14800,9 @@
     "context": "HAMBURGUERIA; responsável: ERICK; instagram: https://www.instagram.com/friendship.burger/",
     "phone": "1196330-8806 / 11998940881 ERIK",
     "template": "pergunta",
-    "website": ""
+    "website": "",
+    "email1": true,
+    "date1": "2026-08-04"
   },
   {
     "name": "Empanadas Catedral",
@@ -14231,7 +14813,9 @@
     "context": "EMPANADAS; responsável: RAFAEL; instagram: https://www.instagram.com/empanadas_catedral/",
     "phone": "1194778-1134 / 1195896-5339 RAFAEL",
     "template": "consultivo",
-    "website": ""
+    "website": "",
+    "email1": true,
+    "date1": "2026-08-04"
   },
   {
     "name": "Restaurante JaponeÌs Sushi IeÌ",
@@ -14242,7 +14826,9 @@
     "context": "JAPONÃS; responsável: TATIANA E VANESSA; instagram: https://www.instagram.com/sushiie_oficial/",
     "phone": "3714-2688 / 3852-7575",
     "template": "pergunta",
-    "website": ""
+    "website": "",
+    "email1": true,
+    "date1": "2026-08-04"
   },
   {
     "name": "SAKEUMI Restaurante",
@@ -14253,7 +14839,9 @@
     "context": "JAPONÃS; responsável: NEI; instagram: https://www.instagram.com/sakeumi.restaurante/",
     "phone": "11 2667-4954 / 11 981315948 NEI",
     "template": "pergunta",
-    "website": ""
+    "website": "",
+    "email1": true,
+    "date1": "2026-08-04"
   },
   {
     "name": "TIMEÂ´S BURGER",
@@ -14264,7 +14852,9 @@
     "context": "HAMBURGUERIA; responsável: VITOR; instagram: https://www.instagram.com/timesburger/",
     "phone": "11 5505-2596 WPP",
     "template": "consultivo",
-    "website": ""
+    "website": "",
+    "email1": true,
+    "date1": "2026-08-04"
   },
   {
     "name": "Cantina 1020",
@@ -14275,7 +14865,9 @@
     "context": "ITALIANO; responsável: OSWALDO; instagram: https://www.instagram.com/cantina1020/",
     "phone": "11 3208-9199 / 11983337069 OSWALDO",
     "template": "prova_social",
-    "website": ""
+    "website": "",
+    "email1": true,
+    "date1": "2026-08-04"
   },
   {
     "name": "BOTECO DO GOIS",
@@ -14286,7 +14878,9 @@
     "context": "RESTAURANTE; responsável: GUILHERME; instagram: https://www.instagram.com/botecogois/",
     "phone": "11 23374421 / (11) 3661-7469 / 1193019-4013",
     "template": "consultivo",
-    "website": ""
+    "website": "",
+    "email1": true,
+    "date1": "2026-08-04"
   },
   {
     "name": "HM FOOD CAFÃ",
@@ -14297,7 +14891,9 @@
     "context": "CAFETERIA; responsável: HESLI; instagram: https://www.instagram.com/hmfoodcafe/",
     "phone": "11 35088841 / 1193711-8841",
     "template": "pergunta",
-    "website": ""
+    "website": "",
+    "email1": true,
+    "date1": "2026-08-04"
   },
   {
     "name": "Caverna do DragÃ£o Doce",
@@ -14308,7 +14904,9 @@
     "context": "DOCES; responsável: DAGOBERTO; instagram: https://www.instagram.com/cavernadodragaodoce/",
     "phone": "11 98418-5678 WHATS EMPRESA / 11 961400106 ALEXANDRE PROPRIETARIO",
     "template": "consultivo",
-    "website": ""
+    "website": "",
+    "email1": true,
+    "date1": "2026-08-04"
   },
   {
     "name": "DON PANCHO",
@@ -14319,7 +14917,9 @@
     "context": "MEXICANO; responsável: JAVIER; instagram: https://www.instagram.com/donpanchomexicano/",
     "phone": "11 2538-7494",
     "template": "consultivo",
-    "website": ""
+    "website": "",
+    "email1": true,
+    "date1": "2026-08-04"
   },
   {
     "name": "BAR DO BIU",
@@ -14330,7 +14930,9 @@
     "context": "REGIONAL; responsável: ROGERIO; instagram: https://www.instagram.com/bardobiu/",
     "phone": "11 30816739 / 11 996129195 ROGERIO",
     "template": "pergunta",
-    "website": ""
+    "website": "",
+    "email1": true,
+    "date1": "2026-08-04"
   },
   {
     "name": "IRON BURGUER",
@@ -14341,7 +14943,9 @@
     "context": "HAMBURGUERIA; responsável: SANDRA; instagram: https://www.instagram.com/ironburguerebeer/?hl=pt-br",
     "phone": "11 2092-9733 / 11 95275-1054 / (11) 953232283",
     "template": "pergunta",
-    "website": ""
+    "website": "",
+    "email1": true,
+    "date1": "2026-08-04"
   },
   {
     "name": "Zain Restaurante",
@@ -14352,7 +14956,9 @@
     "context": "Restaurante; responsável: LUCCIANA; instagram: https://www.instagram.com/zainrestaurante/",
     "phone": "11-26759513 / 11 97028-4946 Luciana",
     "template": "pergunta",
-    "website": ""
+    "website": "",
+    "email1": true,
+    "date1": "2026-08-04"
   },
   {
     "name": "Lolla's Confeitaria e CafeÌ",
@@ -14363,7 +14969,9 @@
     "context": "DOCERIA; responsável: FERNANDA; instagram: https://www.instagram.com/lollasconfeitariaecafe/",
     "phone": "11 2769-7348  / 1198911-6830 LOJA",
     "template": "consultivo",
-    "website": ""
+    "website": "",
+    "email1": true,
+    "date1": "2026-08-04"
   },
   {
     "name": "Burger Makers",
@@ -14374,7 +14982,9 @@
     "context": "HAMBURGUERIA; responsável: MARCELLO; instagram: https://www.instagram.com/burgermakers/",
     "phone": "11 22290790 WPP/ 1195657-2113 Marcelo",
     "template": "consultivo",
-    "website": ""
+    "website": "",
+    "email1": true,
+    "date1": "2026-08-04"
   },
   {
     "name": "URBE CAFEÌ",
@@ -14385,7 +14995,9 @@
     "context": "CAFETERIA; responsável: FABIO e Rogerio; instagram: https://www.instagram.com/urbecafebar/",
     "phone": "(11) 99344-8165 / 11 989075715 Rogerio / 11 966026310 Fabio",
     "template": "consultivo",
-    "website": ""
+    "website": "",
+    "email1": true,
+    "date1": "2026-08-04"
   },
   {
     "name": "PINOCCHIO CUCINA",
@@ -14396,7 +15008,9 @@
     "context": "RESTAURANTE; responsável: BRUNO; instagram: https://www.instagram.com/pinocchiocucina/",
     "phone": "11 970833552  / 11 99766-9222 GISA",
     "template": "consultivo",
-    "website": ""
+    "website": "",
+    "email1": true,
+    "date1": "2026-08-04"
   },
   {
     "name": "Hinode",
@@ -14407,7 +15021,9 @@
     "context": "Restaurante LÃ¡men; responsável: SEKAI; instagram: https://www.instagram.com/hinoderestaurante/",
     "phone": "11 3208-6633 / 11 993329453 Sekai",
     "template": "pergunta",
-    "website": ""
+    "website": "",
+    "email1": true,
+    "date1": "2026-08-04"
   },
   {
     "name": "BUBBELEH",
@@ -14418,7 +15034,9 @@
     "context": "LANCHONETE; responsável: JAMES POSSI; instagram: https://www.instagram.com/bubbeleh_delishop/",
     "phone": "11 939450543",
     "template": "consultivo",
-    "website": ""
+    "website": "",
+    "email1": true,
+    "date1": "2026-08-04"
   },
   {
     "name": "Mapu Restaurante",
@@ -14429,7 +15047,9 @@
     "context": "Restaurante TaiwaneÌs; instagram: https://www.instagram.com/mapurestaurante/",
     "phone": "11 50834778",
     "template": "pergunta",
-    "website": ""
+    "website": "",
+    "email1": true,
+    "date1": "2026-08-04"
   },
   {
     "name": "DDonuts",
@@ -14440,7 +15060,9 @@
     "context": "DOCERIA; responsável: ENOQUE; instagram: https://www.instagram.com/ddonutsbr/",
     "phone": "11972276903 MARCELO // 11963747788 ENOQUE",
     "template": "consultivo",
-    "website": ""
+    "website": "",
+    "email1": true,
+    "date1": "2026-08-04"
   },
   {
     "name": "AROMA BISTRÃ E CAFÃ",
@@ -14451,7 +15073,9 @@
     "context": "CAFÃ; responsável: PAULA; instagram: https://www.instagram.com/aromabistrosp/",
     "phone": "11 3159 1829 /11 97575-1342 / 11 97355-0874",
     "template": "pergunta",
-    "website": ""
+    "website": "",
+    "email1": true,
+    "date1": "2026-08-04"
   },
   {
     "name": "Janela Bar",
@@ -14462,7 +15086,9 @@
     "context": "HAMBURGUER; responsável: MARIA EDUARDA; instagram: https://www.instagram.com/janelabar.tatuape/",
     "phone": "(11) 93905-7722 / 041 95776917 Maria Eduarda",
     "template": "consultivo",
-    "website": ""
+    "website": "",
+    "email1": true,
+    "date1": "2026-08-04"
   },
   {
     "name": "Frutaria Pitaya",
@@ -14473,7 +15099,9 @@
     "context": "RESTAURANTE; responsável: DANIEL; instagram: https://www.instagram.com/frutariapitaya/",
     "phone": "11 27764100 / 11 26742445 DELIVERY",
     "template": "prova_social",
-    "website": ""
+    "website": "",
+    "email1": true,
+    "date1": "2026-08-04"
   },
   {
     "name": "Mr. Mill's Burger",
@@ -14484,7 +15112,9 @@
     "context": "HAMBURGUERIA; responsável: Carlos; instagram: https://www.instagram.com/mrmillshamburgueria/",
     "phone": "11 2615-4271 wpp  / 11 3052-1333 / 11 3052-1390",
     "template": "consultivo",
-    "website": ""
+    "website": "",
+    "email1": true,
+    "date1": "2026-08-04"
   },
   {
     "name": "Restaurante Kame Kami",
@@ -14495,7 +15125,9 @@
     "context": "JAPONES; responsável: KARINA e ADRIANA; instagram: https://www.instagram.com/restaurantekamekami/",
     "phone": "11 3598-9622/ 11 5555-9458 ESCRITORIO / 11 913076559 Karina  /  11 98050-5157 ADRIANA / 11 50491503 ME",
     "template": "consultivo",
-    "website": ""
+    "website": "",
+    "email1": true,
+    "date1": "2026-08-04"
   },
   {
     "name": "REPUBLIQUE DU CAFEÌ",
@@ -14506,7 +15138,9 @@
     "context": "CONFEITARIA; instagram: https://www.instagram.com/republiqueducafe/",
     "phone": "11 95868-6000",
     "template": "pergunta",
-    "website": ""
+    "website": "",
+    "email1": true,
+    "date1": "2026-08-04"
   },
   {
     "name": "Brascatta Pizzaria",
@@ -14517,7 +15151,9 @@
     "context": "PIZZARIA; responsável: LETICIA; instagram: https://www.instagram.com/brascatta/",
     "phone": "11 3648-5898 / 11 3647-9797 do mkt / 1198393-0102 passa da patria / 1196430-0118 alto da lapa /",
     "template": "consultivo",
-    "website": ""
+    "website": "",
+    "email1": true,
+    "date1": "2026-08-04"
   },
   {
     "name": "Kyodo Temaki House",
@@ -14528,7 +15164,9 @@
     "context": "RODIZIO DE TEMAKI; responsável: LUIGI; instagram: https://www.instagram.com/kyodotemaki/",
     "phone": "(11) 93049-9175",
     "template": "consultivo",
-    "website": ""
+    "website": "",
+    "email1": true,
+    "date1": "2026-08-04"
   },
   {
     "name": "Covil Game Bar",
@@ -14539,7 +15177,9 @@
     "context": "HAMBURGUERIA; responsável: PEDRO; instagram: https://www.instagram.com/covilgb/",
     "phone": "11 95021-1461 PEDRO",
     "template": "pergunta",
-    "website": ""
+    "website": "",
+    "email1": true,
+    "date1": "2026-08-04"
   },
   {
     "name": "Kadalora Pizzaria",
@@ -14550,7 +15190,9 @@
     "context": "PIZZA; instagram: https://www.instagram.com/kadalorapizzaria/",
     "phone": "11 3726-7403",
     "template": "prova_social",
-    "website": ""
+    "website": "",
+    "email1": true,
+    "date1": "2026-08-04"
   },
   {
     "name": "BoÌsforo",
@@ -14561,7 +15203,9 @@
     "context": "CULINÃRIA TURCA; responsável: LEONARDO; instagram: https://www.instagram.com/bosforosp/",
     "phone": "1193247-0794",
     "template": "pergunta",
-    "website": ""
+    "website": "",
+    "email1": true,
+    "date1": "2026-08-04"
   },
   {
     "name": "Toshiro Sushi Vila Romana",
@@ -14572,7 +15216,9 @@
     "context": "JAPONÃS; responsável: RENATO; instagram: https://www.instagram.com/toshirosushivilaromana/",
     "phone": "(11)3637-9005",
     "template": "prova_social",
-    "website": ""
+    "website": "",
+    "email1": true,
+    "date1": "2026-08-04"
   },
   {
     "name": "Rancho Empyreo Restaurante",
@@ -14583,7 +15229,9 @@
     "context": "RESTAURANTE; responsável: CRISTINA; instagram: https://www.instagram.com/ranchoempyreoltda/",
     "phone": "(19) 3572-2133",
     "template": "pergunta",
-    "website": ""
+    "website": "",
+    "email1": true,
+    "date1": "2026-08-04"
   },
   {
     "name": "HUEVOS DE ORO",
@@ -14594,7 +15242,9 @@
     "context": "ESPANHÃIS; responsável: WAGNER; instagram: https://www.instagram.com/huevosdeorobar/",
     "phone": "(11) 3035-6268 /  (11) 98691-0215 / 1194507-3118",
     "template": "pergunta",
-    "website": ""
+    "website": "",
+    "email1": true,
+    "date1": "2026-08-04"
   },
   {
     "name": "Benza Restaurante",
@@ -14605,7 +15255,9 @@
     "context": "CHEF CAMPEAO MASTER CHEF; responsável: KAREN; instagram: https://www.instagram.com/benza.restaurante/",
     "phone": "11 93962-0679 / 32 98821-3988 Pablo",
     "template": "prova_social",
-    "website": ""
+    "website": "",
+    "email1": true,
+    "date1": "2026-08-04"
   },
   {
     "name": "Adega Industrial",
@@ -14615,7 +15267,9 @@
     "city": "Sao Bernardo do Campo",
     "context": "atacadista de bebidas, CNPJ 57.444.022/0001-68",
     "source": "guiapj",
-    "template": "consultivo"
+    "template": "consultivo",
+    "email1": true,
+    "date1": "2026-08-04"
   },
   {
     "name": "Adega Do Laura",
@@ -14625,7 +15279,9 @@
     "city": "Sao Bernardo do Campo",
     "context": "distribuidora de bebidas, CNPJ 20.644.786/0001-97",
     "source": "guiapj",
-    "template": "consultivo"
+    "template": "consultivo",
+    "email1": true,
+    "date1": "2026-08-04"
   },
   {
     "name": "ADEGACA Distribuidora de Bebidas",
@@ -14635,7 +15291,9 @@
     "city": "Santo Andre",
     "context": "distribuidora de bebidas, CNPJ 41.741.336/0001-92",
     "source": "guiapj",
-    "template": "consultivo"
+    "template": "consultivo",
+    "email1": true,
+    "date1": "2026-08-04"
   },
   {
     "name": "Adega Arariba",
@@ -14645,7 +15303,9 @@
     "city": "Santo Andre",
     "context": "atacado e varejo de bebidas, CNPJ 44.930.207/0001-30",
     "source": "guiapj",
-    "template": "consultivo"
+    "template": "consultivo",
+    "email1": true,
+    "date1": "2026-08-04"
   },
   {
     "name": "WebBar",
@@ -14656,7 +15316,9 @@
     "phone": "(11) 98916-1358",
     "context": "distribuidora online de bebidas e utensilios de bar desde 2014, CNPJ 40.114.252/0001-66",
     "source": "site",
-    "template": "consultivo"
+    "template": "consultivo",
+    "email1": true,
+    "date1": "2026-08-04"
   },
   {
     "name": "G2 Especialista em Bebidas",
@@ -14667,7 +15329,9 @@
     "phone": "(11) 2010-8819",
     "context": "atacado/varejo, 6 unidades (Santo Andre, Penha, Diadema, Sao Mateus, Sapopemba, Zona Norte) + CD Ragueb Chohfi, +30 anos mercado",
     "source": "site",
-    "template": "consultivo"
+    "template": "consultivo",
+    "email1": true,
+    "date1": "2026-08-04"
   },
   {
     "name": "Adega Mineiro SP",
@@ -14678,7 +15342,9 @@
     "phone": "(11) 4345-5779",
     "context": "comercio varejista de bebidas, CNPJ 20.693.934/0001-63",
     "source": "mestregeo",
-    "template": "consultivo"
+    "template": "consultivo",
+    "email1": true,
+    "date1": "2026-08-04"
   },
   {
     "name": "Adega do Terrinha",
@@ -14689,7 +15355,9 @@
     "phone": "(11) 4995-7574",
     "context": "comercio varejista de bebidas, CNPJ 27.228.339/0001-04",
     "source": "diariocidade",
-    "template": "consultivo"
+    "template": "consultivo",
+    "email1": true,
+    "date1": "2026-08-04"
   },
   {
     "name": "Adega Samcro Beer",
@@ -14700,7 +15368,9 @@
     "phone": "(11) 3147-6621",
     "context": "atacadista de bebidas, CNPJ 46.327.899/0001-52, email do proprietario Caique Felix",
     "source": "guiapj",
-    "template": "consultivo"
+    "template": "consultivo",
+    "email1": true,
+    "date1": "2026-08-04"
   },
   {
     "name": "Outlet Wine Comercio de Bebidas",
@@ -14711,7 +15381,9 @@
     "phone": "(11) 4453-3433",
     "context": "atacadista de bebidas, Av. Santos Dumont 371, CNPJ 39.542.322/0001-06",
     "source": "guiapj",
-    "template": "consultivo"
+    "template": "consultivo",
+    "email1": true,
+    "date1": "2026-08-04"
   },
   {
     "name": "Adega e Distribuidora Venha Ver",
@@ -14722,7 +15394,9 @@
     "phone": "(11) 4141-3112",
     "context": "comercio varejista de bebidas, Av. Nova Iorque 154, CNPJ 49.933.455/0001-59",
     "source": "consultasplus",
-    "template": "consultivo"
+    "template": "consultivo",
+    "email1": true,
+    "date1": "2026-08-04"
   },
   {
     "name": "Adega e Distribuidora de Bebidas Silva",
@@ -14733,6 +15407,8 @@
     "phone": "(11) 7151-5078",
     "context": "comercio varejista de bebidas, Al. Marques de Barbacena 188, CNPJ 55.549.030/0001-43, email possivel de contador/proprietario",
     "source": "consultasplus",
-    "template": "consultivo"
+    "template": "consultivo",
+    "email1": true,
+    "date1": "2026-08-04"
   }
 ]
