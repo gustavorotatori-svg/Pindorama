@@ -232,6 +232,14 @@ This version has breaking changes — APIs, conventions, and file structure may 
 - SEM EMAIL ENCONTRADO: Infinite Distribuidora de Bebidas (São Bernardo, infinitebebidas.com.br — site inacessível, LinkedIn universobebidas, 27 funcionários, atacadista) → p/ nova varredura.
 - Dashboard 04/08 (tarde): 1143 leads, 1047 email1, 119 email2, 64 email3, 1230 envios, 2 respostas (0,2%). Pendentes email1: 95 (83 lote + 12 novos de municípios). Janela Gmail 480/480, primeiro envio expira 04/08 16:10.
 
+## 04/08 (tarde) — BACKUP GITHUB PRIVADO CONCLUÍDO
+- Projeto 100% versionado e PUSHADO em repo PRIVADO: `https://github.com/gustavorotatori-svg/Pindorama` (gh autenticado como gustavorotatori-svg, escopo repo). Branch master.
+- Inclui: leads-qualificados.json (1143), send-log.json, .baileys_auth, deploy/, AGENTS.md, todos os .mjs.
+- ATENÇÃO: credenciais hardcoded (App Password Gmail) + .baileys_auth estão NO REPO PRIVADO. NUNCA tornar público.
+- git local: identidade GusRotatori/gusrotartori@icloud.com. Para atualizar backup: `git add -A && git commit -m "..." && git push`.
+- Usuário decidiu (04/08): por enquanto SÓ o backup no GitHub; migração para VM GCP fica para depois.
+- ⚠️ empacotar.ps1 quebrado (0MB): `dir /x` pega [-1]=nome longo em vez do 8.3; caminho 8.3 correto do projeto = `C:\Users\rotat\OneDrive\READET~1\PINDOR~1\PINDOR~1`. Corrigir na próxima necessidade de tar.
+
 ## Regras de envio (mandatory)
 - EMAIL: 24h por dia, 7 dias por semana — sem restrição de dia/horário
 - WHATSAPP: apenas de SEGUNDA a SÁBADO, das 8h às 21h; **MÁXIMO 3-4/dia** (trava a conta se passar)
