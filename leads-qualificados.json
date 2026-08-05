@@ -791,7 +791,9 @@
     "email1": true,
     "date1": "2026-07-30",
     "email2": true,
-    "date2": "2026-08-01"
+    "date2": "2026-08-01",
+    "email3": true,
+    "date3": "2026-08-05"
   },
   {
     "name": "Empório Santa Joana Jardim São Bento",
@@ -804,7 +806,9 @@
     "email1": true,
     "date1": "2026-07-30",
     "email2": true,
-    "date2": "2026-08-01"
+    "date2": "2026-08-01",
+    "email3": true,
+    "date3": "2026-08-05"
   },
   {
     "name": "Adega da Villa",
@@ -819,7 +823,9 @@
     "email1": true,
     "date1": "2026-07-30",
     "email2": true,
-    "date2": "2026-08-01"
+    "date2": "2026-08-01",
+    "email3": true,
+    "date3": "2026-08-05"
   },
   {
     "name": "Adega da Vila Mariana",
@@ -834,7 +840,9 @@
     "email1": true,
     "date1": "2026-07-30",
     "email2": true,
-    "date2": "2026-08-01"
+    "date2": "2026-08-01",
+    "email3": true,
+    "date3": "2026-08-05"
   },
   {
     "name": "Degusti Vinhos",
@@ -873,7 +881,9 @@
     "email2": true,
     "date2": "2026-08-01",
     "whatsappSent": true,
-    "whatsappDate": "2026-08-03"
+    "whatsappDate": "2026-08-03",
+    "email3": true,
+    "date3": "2026-08-05"
   },
   {
     "name": "WinePRO",
@@ -890,7 +900,9 @@
     "email2": true,
     "date2": "2026-08-01",
     "whatsappSent": true,
-    "whatsappDate": "2026-08-03"
+    "whatsappDate": "2026-08-03",
+    "email3": true,
+    "date3": "2026-08-05"
   },
   {
     "name": "Benedetto Adega Boutique",
@@ -1602,7 +1614,9 @@
     "source": "prabarbebidas.com.br (sem MX)",
     "website": "prabarbebidas.com.br",
     "email1": true,
-    "date1": "2026-08-03"
+    "date1": "2026-08-03",
+    "email2": true,
+    "date2": "2026-08-05"
   },
   {
     "name": "Point das Bebidas",
@@ -5302,7 +5316,9 @@
     "email1": true,
     "date1": "2026-08-02",
     "whatsappSent": true,
-    "whatsappDate": "2026-08-03"
+    "whatsappDate": "2026-08-03",
+    "email2": true,
+    "date2": "2026-08-05"
   },
   {
     "name": "Mezza",
@@ -5315,7 +5331,9 @@
     "template": "prova_social",
     "website": "",
     "email1": true,
-    "date1": "2026-08-02"
+    "date1": "2026-08-02",
+    "email2": true,
+    "date2": "2026-08-05"
   },
   {
     "name": "Bario Bar",
@@ -5330,7 +5348,9 @@
     "email1": true,
     "date1": "2026-08-02",
     "whatsappSent": true,
-    "whatsappDate": "2026-08-03"
+    "whatsappDate": "2026-08-03",
+    "email2": true,
+    "date2": "2026-08-05"
   },
   {
     "name": "Botequim Grill House",
@@ -5343,7 +5363,9 @@
     "template": "pergunta",
     "website": "",
     "email1": true,
-    "date1": "2026-08-02"
+    "date1": "2026-08-02",
+    "email2": true,
+    "date2": "2026-08-05"
   },
   {
     "name": "Cruzeiro's Bar",
@@ -5356,7 +5378,9 @@
     "template": "pergunta",
     "website": "",
     "email1": true,
-    "date1": "2026-08-02"
+    "date1": "2026-08-02",
+    "email2": true,
+    "date2": "2026-08-05"
   },
   {
     "name": "BKIN",
@@ -5369,7 +5393,9 @@
     "template": "prova_social",
     "website": "",
     "email1": true,
-    "date1": "2026-08-02"
+    "date1": "2026-08-02",
+    "email2": true,
+    "date2": "2026-08-05"
   },
   {
     "name": "O varal",
@@ -5384,7 +5410,9 @@
     "email1": true,
     "date1": "2026-08-02",
     "whatsappSent": true,
-    "whatsappDate": "2026-08-03"
+    "whatsappDate": "2026-08-03",
+    "email2": true,
+    "date2": "2026-08-05"
   },
   {
     "name": "PRAIA DO LAGO",
@@ -5399,7 +5427,9 @@
     "email1": true,
     "date1": "2026-08-02",
     "whatsappSent": true,
-    "whatsappDate": "2026-08-03"
+    "whatsappDate": "2026-08-03",
+    "email2": true,
+    "date2": "2026-08-05"
   },
   {
     "name": "PANVINO",
@@ -5414,7 +5444,9 @@
     "email1": true,
     "date1": "2026-08-02",
     "whatsappSent": true,
-    "whatsappDate": "2026-08-03"
+    "whatsappDate": "2026-08-03",
+    "email2": true,
+    "date2": "2026-08-05"
   },
   {
     "name": "Tulum Bar & Club",
@@ -5427,7 +5459,9 @@
     "template": "pergunta",
     "website": "",
     "email1": true,
-    "date1": "2026-08-02"
+    "date1": "2026-08-02",
+    "email2": true,
+    "date2": "2026-08-05"
   },
   {
     "name": "Amargot Bar",
@@ -5440,7 +5474,9 @@
     "template": "consultivo",
     "website": "",
     "email1": true,
-    "date1": "2026-08-02"
+    "date1": "2026-08-02",
+    "email2": true,
+    "date2": "2026-08-05"
   },
   {
     "name": "ADA MAKAN",
@@ -5453,7 +5489,9 @@
     "template": "consultivo",
     "website": "",
     "email1": true,
-    "date1": "2026-08-02"
+    "date1": "2026-08-02",
+    "email2": true,
+    "date2": "2026-08-05"
   },
   {
     "name": "KAKUREGA IZAKAYA",
@@ -5466,7 +5504,9 @@
     "template": "consultivo",
     "website": "",
     "email1": true,
-    "date1": "2026-08-02"
+    "date1": "2026-08-02",
+    "email2": true,
+    "date2": "2026-08-05"
   },
   {
     "name": "Gula Bar",
@@ -5479,7 +5519,9 @@
     "template": "consultivo",
     "website": "",
     "email1": true,
-    "date1": "2026-08-02"
+    "date1": "2026-08-02",
+    "email2": true,
+    "date2": "2026-08-05"
   },
   {
     "name": "ESTACÌ§AÌO CHOPPERIA",
@@ -5492,7 +5534,9 @@
     "template": "consultivo",
     "website": "",
     "email1": true,
-    "date1": "2026-08-02"
+    "date1": "2026-08-02",
+    "email2": true,
+    "date2": "2026-08-05"
   },
   {
     "name": "Paradiso Bar TatuapÃ©",
@@ -5505,7 +5549,9 @@
     "template": "prova_social",
     "website": "",
     "email1": true,
-    "date1": "2026-08-02"
+    "date1": "2026-08-02",
+    "email2": true,
+    "date2": "2026-08-05"
   },
   {
     "name": "Madalena Growler Station",
@@ -5520,7 +5566,9 @@
     "email1": true,
     "date1": "2026-08-02",
     "whatsappSent": true,
-    "whatsappDate": "2026-08-03"
+    "whatsappDate": "2026-08-03",
+    "email2": true,
+    "date2": "2026-08-05"
   },
   {
     "name": "Mileto Bar",
@@ -5535,7 +5583,9 @@
     "email1": true,
     "date1": "2026-08-02",
     "whatsappSent": true,
-    "whatsappDate": "2026-08-03"
+    "whatsappDate": "2026-08-03",
+    "email2": true,
+    "date2": "2026-08-05"
   },
   {
     "name": "Alma SÃ£o Paulo",
@@ -5550,7 +5600,9 @@
     "email1": true,
     "date1": "2026-08-02",
     "whatsappSent": true,
-    "whatsappDate": "2026-08-03"
+    "whatsappDate": "2026-08-03",
+    "email2": true,
+    "date2": "2026-08-05"
   },
   {
     "name": "DR. ESPETO",
@@ -5563,7 +5615,9 @@
     "template": "pergunta",
     "website": "",
     "email1": true,
-    "date1": "2026-08-02"
+    "date1": "2026-08-02",
+    "email2": true,
+    "date2": "2026-08-05"
   },
   {
     "name": "BAR DO PINU",
@@ -5576,7 +5630,9 @@
     "template": "pergunta",
     "website": "",
     "email1": true,
-    "date1": "2026-08-02"
+    "date1": "2026-08-02",
+    "email2": true,
+    "date2": "2026-08-05"
   },
   {
     "name": "BOTECO SEO JOAQUIM",
@@ -5591,7 +5647,9 @@
     "email1": true,
     "date1": "2026-08-02",
     "whatsappSent": true,
-    "whatsappDate": "2026-08-03"
+    "whatsappDate": "2026-08-03",
+    "email2": true,
+    "date2": "2026-08-05"
   },
   {
     "name": "Taberna Maia Grill",
@@ -5604,7 +5662,9 @@
     "template": "prova_social",
     "website": "",
     "email1": true,
-    "date1": "2026-08-02"
+    "date1": "2026-08-02",
+    "email2": true,
+    "date2": "2026-08-05"
   },
   {
     "name": "VINI BAR",
@@ -5619,7 +5679,9 @@
     "email1": true,
     "date1": "2026-08-02",
     "whatsappSent": true,
-    "whatsappDate": "2026-08-03"
+    "whatsappDate": "2026-08-03",
+    "email2": true,
+    "date2": "2026-08-05"
   },
   {
     "name": "Bar do Berinjela",
@@ -5632,7 +5694,9 @@
     "template": "consultivo",
     "website": "",
     "email1": true,
-    "date1": "2026-08-02"
+    "date1": "2026-08-02",
+    "email2": true,
+    "date2": "2026-08-05"
   },
   {
     "name": "BAR DO MILTON",
@@ -5645,7 +5709,9 @@
     "template": "pergunta",
     "website": "",
     "email1": true,
-    "date1": "2026-08-02"
+    "date1": "2026-08-02",
+    "email2": true,
+    "date2": "2026-08-05"
   },
   {
     "name": "Copanzinho",
@@ -5660,7 +5726,9 @@
     "email1": true,
     "date1": "2026-08-02",
     "whatsappSent": true,
-    "whatsappDate": "2026-08-03"
+    "whatsappDate": "2026-08-03",
+    "email2": true,
+    "date2": "2026-08-05"
   },
   {
     "name": "Bia Hoi SP",
@@ -5673,7 +5741,9 @@
     "template": "prova_social",
     "website": "",
     "email1": true,
-    "date1": "2026-08-02"
+    "date1": "2026-08-02",
+    "email2": true,
+    "date2": "2026-08-05"
   },
   {
     "name": "BAR DO VARDEMA",
@@ -5686,7 +5756,9 @@
     "template": "pergunta",
     "website": "",
     "email1": true,
-    "date1": "2026-08-02"
+    "date1": "2026-08-02",
+    "email2": true,
+    "date2": "2026-08-05"
   },
   {
     "name": "BOTECO DO RONY",
@@ -5699,7 +5771,9 @@
     "template": "consultivo",
     "website": "",
     "email1": true,
-    "date1": "2026-08-02"
+    "date1": "2026-08-02",
+    "email2": true,
+    "date2": "2026-08-05"
   },
   {
     "name": "BELLâS Drinkeria & Adega",
@@ -5714,7 +5788,9 @@
     "email1": true,
     "date1": "2026-08-02",
     "whatsappSent": true,
-    "whatsappDate": "2026-08-03"
+    "whatsappDate": "2026-08-03",
+    "email2": true,
+    "date2": "2026-08-05"
   },
   {
     "name": "Chacrinha",
@@ -5729,7 +5805,9 @@
     "email1": true,
     "date1": "2026-08-02",
     "whatsappSent": true,
-    "whatsappDate": "2026-08-03"
+    "whatsappDate": "2026-08-03",
+    "email2": true,
+    "date2": "2026-08-05"
   },
   {
     "name": "Arte Brasil Bar",
@@ -5742,7 +5820,9 @@
     "template": "prova_social",
     "website": "",
     "email1": true,
-    "date1": "2026-08-02"
+    "date1": "2026-08-02",
+    "email2": true,
+    "date2": "2026-08-05"
   },
   {
     "name": "ATTRIO PIZZA BAR",
@@ -5755,7 +5835,9 @@
     "template": "pergunta",
     "website": "",
     "email1": true,
-    "date1": "2026-08-02"
+    "date1": "2026-08-02",
+    "email2": true,
+    "date2": "2026-08-05"
   },
   {
     "name": "Boteco Das Artes",
@@ -5770,7 +5852,9 @@
     "email1": true,
     "date1": "2026-08-02",
     "whatsappSent": true,
-    "whatsappDate": "2026-08-03"
+    "whatsappDate": "2026-08-03",
+    "email2": true,
+    "date2": "2026-08-05"
   },
   {
     "name": "Aldeia Bar & Restaurante",
@@ -5783,7 +5867,9 @@
     "template": "prova_social",
     "website": "",
     "email1": true,
-    "date1": "2026-08-02"
+    "date1": "2026-08-02",
+    "email2": true,
+    "date2": "2026-08-05"
   },
   {
     "name": "BAR ZERO GRAU",
@@ -5796,7 +5882,9 @@
     "template": "pergunta",
     "website": "",
     "email1": true,
-    "date1": "2026-08-02"
+    "date1": "2026-08-02",
+    "email2": true,
+    "date2": "2026-08-05"
   },
   {
     "name": "ACARAJE BOTEQUIM",
@@ -5811,7 +5899,9 @@
     "email1": true,
     "date1": "2026-08-02",
     "whatsappSent": true,
-    "whatsappDate": "2026-08-03"
+    "whatsappDate": "2026-08-03",
+    "email2": true,
+    "date2": "2026-08-05"
   },
   {
     "name": "Oh FregueÌs",
@@ -5826,7 +5916,9 @@
     "email1": true,
     "date1": "2026-08-02",
     "whatsappSent": true,
-    "whatsappDate": "2026-08-03"
+    "whatsappDate": "2026-08-03",
+    "email2": true,
+    "date2": "2026-08-05"
   },
   {
     "name": "PARADA 373 Bar e Cozinha",
@@ -5841,7 +5933,9 @@
     "email1": true,
     "date1": "2026-08-02",
     "whatsappSent": true,
-    "whatsappDate": "2026-08-03"
+    "whatsappDate": "2026-08-03",
+    "email2": true,
+    "date2": "2026-08-05"
   },
   {
     "name": "PRAIA DA RAIAL",
@@ -5854,7 +5948,9 @@
     "template": "pergunta",
     "website": "",
     "email1": true,
-    "date1": "2026-08-02"
+    "date1": "2026-08-02",
+    "email2": true,
+    "date2": "2026-08-05"
   },
   {
     "name": "Bar 34",
@@ -5867,7 +5963,9 @@
     "template": "prova_social",
     "website": "",
     "email1": true,
-    "date1": "2026-08-02"
+    "date1": "2026-08-02",
+    "email2": true,
+    "date2": "2026-08-05"
   },
   {
     "name": "CB BEER HOUSE",
@@ -5880,7 +5978,9 @@
     "template": "pergunta",
     "website": "",
     "email1": true,
-    "date1": "2026-08-02"
+    "date1": "2026-08-02",
+    "email2": true,
+    "date2": "2026-08-05"
   },
   {
     "name": "BarxareÌu",
@@ -5893,7 +5993,9 @@
     "template": "consultivo",
     "website": "",
     "email1": true,
-    "date1": "2026-08-02"
+    "date1": "2026-08-02",
+    "email2": true,
+    "date2": "2026-08-05"
   },
   {
     "name": "Bar da Adelaide",
@@ -5906,7 +6008,9 @@
     "template": "pergunta",
     "website": "",
     "email1": true,
-    "date1": "2026-08-02"
+    "date1": "2026-08-02",
+    "email2": true,
+    "date2": "2026-08-05"
   },
   {
     "name": "Brotas Beer",
@@ -5919,7 +6023,9 @@
     "template": "prova_social",
     "website": "",
     "email1": true,
-    "date1": "2026-08-02"
+    "date1": "2026-08-02",
+    "email2": true,
+    "date2": "2026-08-05"
   },
   {
     "name": "CAMILLO",
@@ -5934,7 +6040,9 @@
     "email1": true,
     "date1": "2026-08-02",
     "whatsappSent": true,
-    "whatsappDate": "2026-08-03"
+    "whatsappDate": "2026-08-03",
+    "email2": true,
+    "date2": "2026-08-05"
   },
   {
     "name": "Vila PaulistÃ¢nia",
@@ -5947,7 +6055,9 @@
     "template": "prova_social",
     "website": "",
     "email1": true,
-    "date1": "2026-08-02"
+    "date1": "2026-08-02",
+    "email2": true,
+    "date2": "2026-08-05"
   },
   {
     "name": "SANTA CANA BAR",
@@ -5960,7 +6070,9 @@
     "template": "consultivo",
     "website": "",
     "email1": true,
-    "date1": "2026-08-02"
+    "date1": "2026-08-02",
+    "email2": true,
+    "date2": "2026-08-05"
   },
   {
     "name": "LA POÃLE",
@@ -5975,7 +6087,9 @@
     "email1": true,
     "date1": "2026-08-02",
     "whatsappSent": true,
-    "whatsappDate": "2026-08-03"
+    "whatsappDate": "2026-08-03",
+    "email2": true,
+    "date2": "2026-08-05"
   },
   {
     "name": "Sororoca",
@@ -5988,7 +6102,9 @@
     "template": "consultivo",
     "website": "",
     "email1": true,
-    "date1": "2026-08-02"
+    "date1": "2026-08-02",
+    "email2": true,
+    "date2": "2026-08-05"
   },
   {
     "name": "DÅmo Bar",
@@ -6001,7 +6117,9 @@
     "template": "pergunta",
     "website": "",
     "email1": true,
-    "date1": "2026-08-02"
+    "date1": "2026-08-02",
+    "email2": true,
+    "date2": "2026-08-05"
   },
   {
     "name": "UNA ROOFTOP BAR",
@@ -6014,7 +6132,9 @@
     "template": "consultivo",
     "website": "",
     "email1": true,
-    "date1": "2026-08-02"
+    "date1": "2026-08-02",
+    "email2": true,
+    "date2": "2026-08-05"
   },
   {
     "name": "ðð®ð­ð¢ðªð®ð¢ð¦ ðð ðð¢ðð...",
@@ -6027,7 +6147,9 @@
     "template": "pergunta",
     "website": "",
     "email1": true,
-    "date1": "2026-08-02"
+    "date1": "2026-08-02",
+    "email2": true,
+    "date2": "2026-08-05"
   },
   {
     "name": "DORA BAR & GRILL",
@@ -6040,7 +6162,9 @@
     "template": "consultivo",
     "website": "",
     "email1": true,
-    "date1": "2026-08-02"
+    "date1": "2026-08-02",
+    "email2": true,
+    "date2": "2026-08-05"
   },
   {
     "name": "CAJU BAR",
@@ -6053,7 +6177,9 @@
     "template": "pergunta",
     "website": "",
     "email1": true,
-    "date1": "2026-08-02"
+    "date1": "2026-08-02",
+    "email2": true,
+    "date2": "2026-08-05"
   },
   {
     "name": "BAR ALTO",
@@ -6066,7 +6192,9 @@
     "template": "consultivo",
     "website": "",
     "email1": true,
-    "date1": "2026-08-02"
+    "date1": "2026-08-02",
+    "email2": true,
+    "date2": "2026-08-05"
   },
   {
     "name": "TerraÃ§o Urbano",
@@ -6079,7 +6207,9 @@
     "template": "pergunta",
     "website": "",
     "email1": true,
-    "date1": "2026-08-02"
+    "date1": "2026-08-02",
+    "email2": true,
+    "date2": "2026-08-05"
   },
   {
     "name": "MANDA FORA DA CASINHA",
@@ -6092,7 +6222,9 @@
     "template": "pergunta",
     "website": "",
     "email1": true,
-    "date1": "2026-08-02"
+    "date1": "2026-08-02",
+    "email2": true,
+    "date2": "2026-08-05"
   },
   {
     "name": "Boteco da PraÃ§a",
@@ -6105,7 +6237,9 @@
     "template": "consultivo",
     "website": "",
     "email1": true,
-    "date1": "2026-08-02"
+    "date1": "2026-08-02",
+    "email2": true,
+    "date2": "2026-08-05"
   },
   {
     "name": "Cerveja Madalena",
@@ -6118,7 +6252,9 @@
     "template": "prova_social",
     "website": "",
     "email1": true,
-    "date1": "2026-08-02"
+    "date1": "2026-08-02",
+    "email2": true,
+    "date2": "2026-08-05"
   },
   {
     "name": "Hop & Malt Moema",
@@ -6131,7 +6267,9 @@
     "template": "pergunta",
     "website": "",
     "email1": true,
-    "date1": "2026-08-02"
+    "date1": "2026-08-02",
+    "email2": true,
+    "date2": "2026-08-05"
   },
   {
     "name": "Salt ZN",
@@ -6144,7 +6282,9 @@
     "template": "consultivo",
     "website": "",
     "email1": true,
-    "date1": "2026-08-02"
+    "date1": "2026-08-02",
+    "email2": true,
+    "date2": "2026-08-05"
   },
   {
     "name": "Casa de Francisca",
@@ -6157,7 +6297,9 @@
     "template": "prova_social",
     "website": "",
     "email1": true,
-    "date1": "2026-08-02"
+    "date1": "2026-08-02",
+    "email2": true,
+    "date2": "2026-08-05"
   },
   {
     "name": "Boteco Donna VitoÌria",
@@ -6170,7 +6312,9 @@
     "template": "prova_social",
     "website": "",
     "email1": true,
-    "date1": "2026-08-02"
+    "date1": "2026-08-02",
+    "email2": true,
+    "date2": "2026-08-05"
   },
   {
     "name": "Villas Joaquina",
@@ -6183,7 +6327,9 @@
     "template": "consultivo",
     "website": "",
     "email1": true,
-    "date1": "2026-08-02"
+    "date1": "2026-08-02",
+    "email2": true,
+    "date2": "2026-08-05"
   },
   {
     "name": "Embaixada Mineira Bela Vista",
@@ -6196,7 +6342,9 @@
     "template": "prova_social",
     "website": "",
     "email1": true,
-    "date1": "2026-08-02"
+    "date1": "2026-08-02",
+    "email2": true,
+    "date2": "2026-08-05"
   },
   {
     "name": "BraganÃ§a Beer Gastrobar",
@@ -6209,7 +6357,9 @@
     "template": "pergunta",
     "website": "",
     "email1": true,
-    "date1": "2026-08-02"
+    "date1": "2026-08-02",
+    "email2": true,
+    "date2": "2026-08-05"
   },
   {
     "name": "Japi GastroBar",
@@ -6222,7 +6372,9 @@
     "template": "consultivo",
     "website": "",
     "email1": true,
-    "date1": "2026-08-02"
+    "date1": "2026-08-02",
+    "email2": true,
+    "date2": "2026-08-05"
   },
   {
     "name": "Buteco Presidente",
@@ -6235,7 +6387,9 @@
     "template": "pergunta",
     "website": "",
     "email1": true,
-    "date1": "2026-08-02"
+    "date1": "2026-08-02",
+    "email2": true,
+    "date2": "2026-08-05"
   },
   {
     "name": "Astros Steakhouse",
@@ -6248,7 +6402,9 @@
     "template": "consultivo",
     "website": "",
     "email1": true,
-    "date1": "2026-08-02"
+    "date1": "2026-08-02",
+    "email2": true,
+    "date2": "2026-08-05"
   },
   {
     "name": "SÃO LUIS 84",
@@ -6261,7 +6417,9 @@
     "template": "consultivo",
     "website": "",
     "email1": true,
-    "date1": "2026-08-02"
+    "date1": "2026-08-02",
+    "email2": true,
+    "date2": "2026-08-05"
   },
   {
     "name": "Quintal dos Arcos SteakBar",
@@ -6274,7 +6432,9 @@
     "template": "consultivo",
     "website": "",
     "email1": true,
-    "date1": "2026-08-02"
+    "date1": "2026-08-02",
+    "email2": true,
+    "date2": "2026-08-05"
   },
   {
     "name": "LADEIRA BAR",
@@ -6287,7 +6447,9 @@
     "template": "prova_social",
     "website": "",
     "email1": true,
-    "date1": "2026-08-02"
+    "date1": "2026-08-02",
+    "email2": true,
+    "date2": "2026-08-05"
   },
   {
     "name": "C A N A cachaÃ§aria",
@@ -6300,7 +6462,9 @@
     "template": "prova_social",
     "website": "",
     "email1": true,
-    "date1": "2026-08-02"
+    "date1": "2026-08-02",
+    "email2": true,
+    "date2": "2026-08-05"
   },
   {
     "name": "Bar dos Cravos",
@@ -6313,7 +6477,9 @@
     "template": "prova_social",
     "website": "",
     "email1": true,
-    "date1": "2026-08-02"
+    "date1": "2026-08-02",
+    "email2": true,
+    "date2": "2026-08-05"
   },
   {
     "name": "Vitrine Bar Augusta",
@@ -6326,7 +6492,9 @@
     "template": "prova_social",
     "website": "",
     "email1": true,
-    "date1": "2026-08-02"
+    "date1": "2026-08-02",
+    "email2": true,
+    "date2": "2026-08-05"
   },
   {
     "name": "Terapeuta Bar",
@@ -6339,7 +6507,9 @@
     "template": "consultivo",
     "website": "",
     "email1": true,
-    "date1": "2026-08-02"
+    "date1": "2026-08-02",
+    "email2": true,
+    "date2": "2026-08-05"
   },
   {
     "name": "Imperatriz Villa Bar",
@@ -6352,7 +6522,9 @@
     "template": "consultivo",
     "website": "",
     "email1": true,
-    "date1": "2026-08-02"
+    "date1": "2026-08-02",
+    "email2": true,
+    "date2": "2026-08-05"
   },
   {
     "name": "HIGH LINE",
@@ -6365,7 +6537,9 @@
     "template": "consultivo",
     "website": "",
     "email1": true,
-    "date1": "2026-08-02"
+    "date1": "2026-08-02",
+    "email2": true,
+    "date2": "2026-08-05"
   },
   {
     "name": "THE VIEW",
@@ -6378,7 +6552,9 @@
     "template": "prova_social",
     "website": "",
     "email1": true,
-    "date1": "2026-08-02"
+    "date1": "2026-08-02",
+    "email2": true,
+    "date2": "2026-08-05"
   },
   {
     "name": "Bar do Bolinho",
@@ -6391,7 +6567,9 @@
     "template": "consultivo",
     "website": "",
     "email1": true,
-    "date1": "2026-08-02"
+    "date1": "2026-08-02",
+    "email2": true,
+    "date2": "2026-08-05"
   },
   {
     "name": "ImpÃ©rio Lucena Grill ll",
@@ -6404,7 +6582,9 @@
     "template": "consultivo",
     "website": "",
     "email1": true,
-    "date1": "2026-08-02"
+    "date1": "2026-08-02",
+    "email2": true,
+    "date2": "2026-08-05"
   },
   {
     "name": "PRA TI FARIA",
@@ -6417,7 +6597,9 @@
     "template": "prova_social",
     "website": "",
     "email1": true,
-    "date1": "2026-08-02"
+    "date1": "2026-08-02",
+    "email2": true,
+    "date2": "2026-08-05"
   },
   {
     "name": "O Alquimista Bar",
@@ -6430,7 +6612,9 @@
     "template": "prova_social",
     "website": "",
     "email1": true,
-    "date1": "2026-08-02"
+    "date1": "2026-08-02",
+    "email2": true,
+    "date2": "2026-08-05"
   },
   {
     "name": "Bar Charles Edward",
@@ -6443,7 +6627,9 @@
     "template": "prova_social",
     "website": "",
     "email1": true,
-    "date1": "2026-08-02"
+    "date1": "2026-08-02",
+    "email2": true,
+    "date2": "2026-08-05"
   },
   {
     "name": "Kanoas Bar Brotas",
@@ -6456,7 +6642,9 @@
     "template": "pergunta",
     "website": "",
     "email1": true,
-    "date1": "2026-08-02"
+    "date1": "2026-08-02",
+    "email2": true,
+    "date2": "2026-08-05"
   },
   {
     "name": "Bar Posto 6",
@@ -6469,7 +6657,9 @@
     "template": "consultivo",
     "website": "",
     "email1": true,
-    "date1": "2026-08-02"
+    "date1": "2026-08-02",
+    "email2": true,
+    "date2": "2026-08-05"
   },
   {
     "name": "INFINI",
@@ -6482,7 +6672,9 @@
     "template": "prova_social",
     "website": "",
     "email1": true,
-    "date1": "2026-08-02"
+    "date1": "2026-08-02",
+    "email2": true,
+    "date2": "2026-08-05"
   },
   {
     "name": "Bar Choperia OpÃ§Ã£o",
@@ -6495,7 +6687,9 @@
     "template": "pergunta",
     "website": "",
     "email1": true,
-    "date1": "2026-08-02"
+    "date1": "2026-08-02",
+    "email2": true,
+    "date2": "2026-08-05"
   },
   {
     "name": "PROZARIA",
@@ -6508,7 +6702,9 @@
     "template": "consultivo",
     "website": "",
     "email1": true,
-    "date1": "2026-08-02"
+    "date1": "2026-08-02",
+    "email2": true,
+    "date2": "2026-08-05"
   },
   {
     "name": "Murruga Pizza Bar",
@@ -6521,7 +6717,9 @@
     "template": "consultivo",
     "website": "",
     "email1": true,
-    "date1": "2026-08-02"
+    "date1": "2026-08-02",
+    "email2": true,
+    "date2": "2026-08-05"
   },
   {
     "name": "GAROTA DA CHÃCARA",
@@ -6534,7 +6732,9 @@
     "template": "prova_social",
     "website": "",
     "email1": true,
-    "date1": "2026-08-02"
+    "date1": "2026-08-02",
+    "email2": true,
+    "date2": "2026-08-05"
   },
   {
     "name": "Profissional Boteco",
@@ -6547,7 +6747,9 @@
     "template": "prova_social",
     "website": "",
     "email1": true,
-    "date1": "2026-08-02"
+    "date1": "2026-08-02",
+    "email2": true,
+    "date2": "2026-08-05"
   },
   {
     "name": "PÃ DE MANGA",
@@ -6560,7 +6762,9 @@
     "template": "pergunta",
     "website": "",
     "email1": true,
-    "date1": "2026-08-02"
+    "date1": "2026-08-02",
+    "email2": true,
+    "date2": "2026-08-05"
   },
   {
     "name": "Croco Gastrobar",
@@ -6573,7 +6777,9 @@
     "template": "prova_social",
     "website": "",
     "email1": true,
-    "date1": "2026-08-02"
+    "date1": "2026-08-02",
+    "email2": true,
+    "date2": "2026-08-05"
   },
   {
     "name": "XEPA!",
@@ -6586,7 +6792,9 @@
     "template": "prova_social",
     "website": "",
     "email1": true,
-    "date1": "2026-08-02"
+    "date1": "2026-08-02",
+    "email2": true,
+    "date2": "2026-08-05"
   },
   {
     "name": "SURURU",
@@ -6599,7 +6807,9 @@
     "template": "pergunta",
     "website": "",
     "email1": true,
-    "date1": "2026-08-02"
+    "date1": "2026-08-02",
+    "email2": true,
+    "date2": "2026-08-05"
   },
   {
     "name": "SAMPA GRILL",
@@ -6612,7 +6822,9 @@
     "template": "consultivo",
     "website": "",
     "email1": true,
-    "date1": "2026-08-02"
+    "date1": "2026-08-02",
+    "email2": true,
+    "date2": "2026-08-05"
   },
   {
     "name": "BOTECO DE MANU",
@@ -6625,7 +6837,9 @@
     "template": "consultivo",
     "website": "",
     "email1": true,
-    "date1": "2026-08-02"
+    "date1": "2026-08-02",
+    "email2": true,
+    "date2": "2026-08-05"
   },
   {
     "name": "Bar Cheia de Manias",
@@ -6638,7 +6852,9 @@
     "template": "consultivo",
     "website": "",
     "email1": true,
-    "date1": "2026-08-02"
+    "date1": "2026-08-02",
+    "email2": true,
+    "date2": "2026-08-05"
   },
   {
     "name": "Sala Bar",
@@ -6651,7 +6867,9 @@
     "template": "pergunta",
     "website": "",
     "email1": true,
-    "date1": "2026-08-02"
+    "date1": "2026-08-02",
+    "email2": true,
+    "date2": "2026-08-05"
   },
   {
     "name": "Bar CambarÃ¡",
@@ -6664,7 +6882,9 @@
     "template": "prova_social",
     "website": "",
     "email1": true,
-    "date1": "2026-08-02"
+    "date1": "2026-08-02",
+    "email2": true,
+    "date2": "2026-08-05"
   },
   {
     "name": "GOOD GAME E-SPORTS BAR",
@@ -6677,7 +6897,9 @@
     "template": "consultivo",
     "website": "",
     "email1": true,
-    "date1": "2026-08-02"
+    "date1": "2026-08-02",
+    "email2": true,
+    "date2": "2026-08-05"
   },
   {
     "name": "DUNAS BAR",
@@ -6690,7 +6912,9 @@
     "template": "prova_social",
     "website": "",
     "email1": true,
-    "date1": "2026-08-02"
+    "date1": "2026-08-02",
+    "email2": true,
+    "date2": "2026-08-05"
   },
   {
     "name": "Dom House Bar",
@@ -6703,7 +6927,9 @@
     "template": "consultivo",
     "website": "",
     "email1": true,
-    "date1": "2026-08-02"
+    "date1": "2026-08-02",
+    "email2": true,
+    "date2": "2026-08-05"
   },
   {
     "name": "TerracÌ§o Gastrobar",
@@ -6716,7 +6942,9 @@
     "template": "prova_social",
     "website": "",
     "email1": true,
-    "date1": "2026-08-02"
+    "date1": "2026-08-02",
+    "email2": true,
+    "date2": "2026-08-05"
   },
   {
     "name": "Sport Music Bar Burguer ABC",
@@ -6729,7 +6957,9 @@
     "template": "prova_social",
     "website": "",
     "email1": true,
-    "date1": "2026-08-02"
+    "date1": "2026-08-02",
+    "email2": true,
+    "date2": "2026-08-05"
   },
   {
     "name": "Boteco do Porco",
@@ -6742,7 +6972,9 @@
     "template": "prova_social",
     "website": "",
     "email1": true,
-    "date1": "2026-08-02"
+    "date1": "2026-08-02",
+    "email2": true,
+    "date2": "2026-08-05"
   },
   {
     "name": "EUROPA BAR OFICIAL",
@@ -6755,7 +6987,9 @@
     "template": "prova_social",
     "website": "",
     "email1": true,
-    "date1": "2026-08-02"
+    "date1": "2026-08-02",
+    "email2": true,
+    "date2": "2026-08-05"
   },
   {
     "name": "Boteco Maria",
@@ -6768,7 +7002,9 @@
     "template": "pergunta",
     "website": "",
     "email1": true,
-    "date1": "2026-08-02"
+    "date1": "2026-08-02",
+    "email2": true,
+    "date2": "2026-08-05"
   },
   {
     "name": "ZangaÌo Bar e Restaurante",
