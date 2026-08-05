@@ -18,7 +18,7 @@ const hour = now.getHours();
 const ALLOWED = (day >= 1 && day <= 6) && hour >= 8 && hour < 21;
 if (!ALLOWED) {
   console.log('FORA DA JANELA WhatsApp (seg-sab 8h-21h, nunca domingo) — abortando envio.');
-  process.exit(1);
+  process.exit(0);
 }
 
 const EXTRA_LEADS = [
@@ -35,7 +35,7 @@ const MAX_PER_DAY = 4;
 const alreadySentToday = leads.filter(x => x.whatsappSent && x.whatsappDate === today).length;
 if (alreadySentToday >= MAX_PER_DAY) {
   console.log('LIMITE DIARIO WhatsApp atingido (' + alreadySentToday + '/' + MAX_PER_DAY + ' hoje) — abortando para nao travar a conta.');
-  process.exit(1);
+  process.exit(0);
 }
 
 const sock = await connect();
