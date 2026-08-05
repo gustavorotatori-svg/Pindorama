@@ -2,14 +2,14 @@ name: Email Pipeline Pindorama
 
 on:
   schedule:
-    - cron: '0 10,22 * * *'
+    - cron: '0 10,16,22 * * *'
   workflow_dispatch:
 
 permissions:
   contents: write
 
 concurrency:
-  group: pindorama-email
+  group: pindorama
   cancel-in-progress: false
 
 jobs:
