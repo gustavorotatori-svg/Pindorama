@@ -253,17 +253,6 @@ This version has breaking changes — APIs, conventions, and file structure may 
 - ⚠️ WHATSAPP NA CI: sessão .baileys_auth commitada no repo. Se a sessão expirar, o run falha e é preciso re-parear (scannear QR) — usar `deploy/whatsapp-parear.mjs` ou local + push. Não duplicar envio PC+CI ao mesmo tempo (dessincroniza sessão).
 - Regra do usuário: NUNCA mais rodar pipeline localmente; sempre via GitHub Actions. Backup local só p/ edição de código + push.
 - Para ver os runs: `gh run list -R gustavorotatori-svg/Pindorama`.
-- Solução escolhida pelo usuário: usar o próprio GitHub como nuvem (sem VM GCP, sem cartão). gh logado com a conta certa (gustavorotatori-svg, escopos repo/workflow). Só há 1 conta no CLI; as "2 contas" que o usuário via eram do navegador.
-- Workflows criados em `.github/workflows/`:
-  - `email-pipeline.yml`: cron `0 10,22 * * *` (07:00/19:00 BRT) → `node pipeline.mjs --all` + `node metrics.mjs`
-  - `auto-reply.yml`: cron `15 * * * *` (a cada hora) → `node auto-reply.mjs`
-  - Ambos: checkout, Node20, cache node_modules (key=package-lock), npm ci, rodam, e COMMIT DE VOLTA (git push com GITHUB_TOKEN, user "pindorama-bot").
-- Teste real OK (run 30936632250): checkout+npm ci+IMAP+push em 58s. Auto-reply respondeu a Imigrantes Bebidas e commitou leads-qualificados.json de volta.
-- ✅ Isso substitui a VM GCP p/ EMAIL. O PC pode desligar — email 24/7 roda no Actions (2000 min/mês grátis; estimativa ~1300/mês, folga).
-- ⚠️ NÃO MEXER no WhatsApp na CI por ora (Baileys precisa sessão persistente; creds .baileys_auth compartilhados com o PC local → dessincroniza). WhatsApp continua LOCAL, 4/dia seg-sáb.
-- ⚠️ Limite 2000 min/mês: não adicionar jobs frequentes sem calcular. auto-reply 1x/h já consome ~1000/mês.
-- FIX auto-reply.mjs: adicionadas variações de "sem interesse" (não temos interesse, sem interesse, não quero, dispenso, não precisa, por enquanto não) — antes "No momento não temos interesse" não era reconhecido (Adega Bianchi).
-- Atualização do backup: sempre `git pull --rebase` ANTES de trabalhar (a CI commita de volta) e `git push` depois.
 
 ## Regras de envio (mandatory)
 - EMAIL: 24h por dia, 7 dias por semana — sem restrição de dia/horário
