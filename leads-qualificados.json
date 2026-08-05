@@ -7377,7 +7377,9 @@
     "template": "pergunta",
     "website": "",
     "email1": true,
-    "date1": "2026-08-02"
+    "date1": "2026-08-02",
+    "email2": true,
+    "date2": "2026-08-05"
   },
   {
     "name": "Bar da Dona OnÃ§a",
@@ -7390,7 +7392,9 @@
     "template": "pergunta",
     "website": "",
     "email1": true,
-    "date1": "2026-08-02"
+    "date1": "2026-08-02",
+    "email2": true,
+    "date2": "2026-08-05"
   },
   {
     "name": "The Blue Pub",
@@ -7403,7 +7407,9 @@
     "template": "pergunta",
     "website": "",
     "email1": true,
-    "date1": "2026-08-02"
+    "date1": "2026-08-02",
+    "email2": true,
+    "date2": "2026-08-05"
   },
   {
     "name": "Soffio Pizzeria",
@@ -7416,7 +7422,9 @@
     "template": "consultivo",
     "website": "",
     "email1": true,
-    "date1": "2026-08-02"
+    "date1": "2026-08-02",
+    "email2": true,
+    "date2": "2026-08-05"
   },
   {
     "name": "cafenojardim53",
@@ -7429,7 +7437,9 @@
     "template": "pergunta",
     "website": "",
     "email1": true,
-    "date1": "2026-08-02"
+    "date1": "2026-08-02",
+    "email2": true,
+    "date2": "2026-08-05"
   },
   {
     "name": "Sebo Pura Poesia",
@@ -7442,7 +7452,9 @@
     "template": "prova_social",
     "website": "",
     "email1": true,
-    "date1": "2026-08-02"
+    "date1": "2026-08-02",
+    "email2": true,
+    "date2": "2026-08-05"
   },
   {
     "name": "Canelle Healthy & Co.",
@@ -7455,7 +7467,9 @@
     "template": "prova_social",
     "website": "",
     "email1": true,
-    "date1": "2026-08-02"
+    "date1": "2026-08-02",
+    "email2": true,
+    "date2": "2026-08-05"
   },
   {
     "name": "IKEMEN RAMEN",
@@ -7468,7 +7482,9 @@
     "template": "pergunta",
     "website": "",
     "email1": true,
-    "date1": "2026-08-02"
+    "date1": "2026-08-02",
+    "email2": true,
+    "date2": "2026-08-05"
   },
   {
     "name": "Restaurante America",
@@ -15694,5 +15710,18 @@
     "template": "consultivo",
     "email1": true,
     "date1": "2026-08-04"
+  },
+  {
+    "name": "North Beer",
+    "email": "contato@northbeer.com.br",
+    "type": "bar",
+    "neighborhood": "",
+    "address": "",
+    "context": "RESTAURANTE E BAR; responsável: SERGIO E DANIEL; instagram: https://www.instagram.com/northbeeroficial/",
+    "phone": "11 2950-0304 / 11 994455414 SERGIO / 11 999986906 DANIEL",
+    "template": "pergunta",
+    "website": "",
+    "email1": true,
+    "date1": "2026-08-05"
   }
 ]
