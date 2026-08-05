@@ -1,6 +1,6 @@
 import fs from 'fs';
 
-const buf = fs.readFileSync('C:/Users/rotat/AppData/Local/Temp/opencode/planilha-paralela.csv');
+const buf = fs.readFileSync('data/planilha-paralela.csv');
 const txt = buf.toString('latin1');
 const lines = txt.split(/\r?\n/);
 const rows = lines.map(parseCSVLine);
