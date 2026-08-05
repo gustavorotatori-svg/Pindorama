@@ -240,7 +240,19 @@ This version has breaking changes — APIs, conventions, and file structure may 
 - Usuário decidiu (04/08): por enquanto SÓ o backup no GitHub; migração para VM GCP fica para depois.
 - ⚠️ empacotar.ps1 quebrado (0MB): `dir /x` pega [-1]=nome longo em vez do 8.3; caminho 8.3 correto do projeto = `C:\Users\rotat\OneDrive\READET~1\PINDOR~1\PINDOR~1`. Corrigir na próxima necessidade de tar.
 
-## 04/08 (noite) — NUVEM GRÁTIS ATIVADA: GitHub Actions (CI 24/7)
+## 04/08 (noite) — 100% NUVEM: PC DESLIGADO DE TUDO (ordem do usuário)
+- USUÁRIO ORDENOU: parar de usar o computador, rodar TUDO no GitHub. PC estava quase inutilizável.
+- AÇÃO: TODAS as tarefas agendadas do Windows DESABILITADAS (schtasks /DISABLE): "Pindorama Dashboard", "Pindorama Dashboard 18h", "Pindorama Relatorio PDF", "Pindorama Run 0408", "Pindorama WhatsApp Reminder". NADA roda local agora.
+- Workflows ativos no GitHub Actions (todos com concurrency group `pindorama` p/ serializar escrita do repo):
+  - `email-pipeline.yml`: cron `0 10,16,22 * * *` (07/13/19 BRT) → `node pipeline.mjs --all` + `node metrics.mjs`
+  - `auto-reply.yml`: cron `15 * * * *` (1x/h) → `node auto-reply.mjs`
+  - `whatsapp.yml`: cron `0 17 * * 1-6` (14h BRT seg-sáb) → `node send-whatsapp-batch.mjs` (guard MAX_PER_DAY=4 + janela 8-21h)
+- TESTADO: auto-reply respondeu Imigrantes Bebidas (run 30936632250). Email-pipeline rodou mas QUOTA GUARD 480/480 (teto seguro, NÃO bloqueio). WhatsApp abortou por hora fora da janela (21h) — guard correto.
+- FIX send-whatsapp-batch.mjs: fora da janela/limite agora exit(0) (não marca falha no Actions).
+- ⚠️ GMAIL: 480/24h é o MÁXIMO SEGURO (Gmail bloqueia em ~500/dia). O guard NUNCA deixa bloquear. A CI esvazia pendentes automaticamente quando a janela deslizante abre. Não tentar passar de 480.
+- ⚠️ WHATSAPP NA CI: sessão .baileys_auth commitada no repo. Se a sessão expirar, o run falha e é preciso re-parear (scannear QR) — usar `deploy/whatsapp-parear.mjs` ou local + push. Não duplicar envio PC+CI ao mesmo tempo (dessincroniza sessão).
+- Regra do usuário: NUNCA mais rodar pipeline localmente; sempre via GitHub Actions. Backup local só p/ edição de código + push.
+- Para ver os runs: `gh run list -R gustavorotatori-svg/Pindorama`.
 - Solução escolhida pelo usuário: usar o próprio GitHub como nuvem (sem VM GCP, sem cartão). gh logado com a conta certa (gustavorotatori-svg, escopos repo/workflow). Só há 1 conta no CLI; as "2 contas" que o usuário via eram do navegador.
 - Workflows criados em `.github/workflows/`:
   - `email-pipeline.yml`: cron `0 10,22 * * *` (07:00/19:00 BRT) → `node pipeline.mjs --all` + `node metrics.mjs`
