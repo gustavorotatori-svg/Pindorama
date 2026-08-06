@@ -143,17 +143,6 @@
     "website": ""
   },
   {
-    "name": "North Beer",
-    "email": "contato@northbeer.com.br",
-    "type": "bar",
-    "neighborhood": "",
-    "address": "",
-    "context": "RESTAURANTE E BAR; responsável: SERGIO E DANIEL; instagram: https://www.instagram.com/northbeeroficial/",
-    "phone": "11 2950-0304 / 11 994455414 SERGIO / 11 999986906 DANIEL",
-    "template": "",
-    "website": ""
-  },
-  {
     "name": "BOTECO VIRIATO",
     "email": "adm@botecoviriato.com.br",
     "type": "bar",
@@ -1096,6 +1085,17 @@
     "address": "",
     "context": "PADARIA; responsável: ELIETE; instagram: https://www.instagram.com/panificadoravilamonumento/",
     "phone": "11 2273-0552 / 11 94513-3087 LEANDRO/ 99501-3460 ELIETE",
+    "template": "",
+    "website": ""
+  },
+  {
+    "name": "Boteco Coutinho",
+    "email": "contato@botecocoutinho.com.br",
+    "type": "restaurante",
+    "neighborhood": "",
+    "address": "",
+    "context": "N/I; responsável: WILSON; instagram: https://www.instagram.com/botecocoutinho/",
+    "phone": "11 3031-6586/11 3032-6068",
     "template": "",
     "website": ""
   }

@@ -524,7 +524,8 @@
     "address": "",
     "context": "N/I; responsável: WILSON; instagram: https://www.instagram.com/botecocoutinho/",
     "phone": "11 3031-6586/11 3032-6068",
-    "template": ""
+    "template": "",
+    "processed": true
   },
   {
     "name": "MoDi Gastronomia",
@@ -903,17 +904,6 @@
     "context": "RESTAURANTE; instagram: https://www.instagram.com/strogonoff_da_valeria/",
     "phone": "(11)91000-3366",
     "template": ""
-  },
-  {
-    "name": "North Beer",
-    "email": "contato@northbeer.com.br",
-    "type": "bar",
-    "neighborhood": "",
-    "address": "",
-    "context": "RESTAURANTE E BAR; responsável: SERGIO E DANIEL; instagram: https://www.instagram.com/northbeeroficial/",
-    "phone": "11 2950-0304 / 11 994455414 SERGIO / 11 999986906 DANIEL",
-    "template": "",
-    "processed": true
   },
   {
     "name": "EspaÃ§o ArimbÃ¡",
