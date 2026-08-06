@@ -39,3 +39,7 @@ yarn-error.log*
 # typescript
 *.tsbuildinfo
 next-env.d.ts
+
+# whatsapp session (private creds — NEVER make public)
+.baileys_auth/
+.baileys_auth_invalida/

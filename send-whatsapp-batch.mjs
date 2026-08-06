@@ -15,9 +15,9 @@ function normalize(phone) {
 const now = new Date();
 const day = now.getDay();
 const hour = now.getHours();
-const ALLOWED = (day >= 1 && day <= 6) && hour >= 8 && hour < 21;
+const ALLOWED = (day >= 1 && day <= 6) && hour >= 9 && hour < 20;
 if (!ALLOWED) {
-  console.log('FORA DA JANELA WhatsApp (seg-sab 8h-21h, nunca domingo) — abortando envio.');
+  console.log('FORA DA JANELA WhatsApp (seg-sab 9h-20h, nunca domingo) — abortando envio.');
   process.exit(0);
 }
 

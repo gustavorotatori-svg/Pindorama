@@ -256,6 +256,6 @@ This version has breaking changes — APIs, conventions, and file structure may 
 
 ## Regras de envio (mandatory)
 - EMAIL: 24h por dia, 7 dias por semana — sem restrição de dia/horário
-- WHATSAPP: apenas de SEGUNDA a SÁBADO, das 8h às 21h; **MÁXIMO 3-4/dia** (trava a conta se passar)
+- WHATSAPP: apenas de SEGUNDA a SÁBADO, das **9h às 20h**; **MÁXIMO 3-4/dia** (trava a conta se passar)
 - Domingo: NUNCA enviar WhatsApp (email pode)
 - Apenas primeira mensagem automática — usuário assume o contato depois
