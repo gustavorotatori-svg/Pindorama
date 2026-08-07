@@ -39,7 +39,7 @@ Fonte de verdade atualizada pelo usuário em 07/08/2026. Esta política prevalec
 
 | Produto | Preço por caixa | Conteúdo da caixa |
 |---|---:|---|
-| Clássica | R$ 84,00 | 6 unidades de 750 ml |
+| Clássica (Pindorama) | R$ 84,00 | 6 unidades de 750 ml |
 | Ouro | R$ 120,00 | 6 unidades de 700 ml |
 | Cobra Coral | R$ 42,00 | 12 unidades de 600 ml |
 
@@ -51,3 +51,9 @@ Fonte de verdade atualizada pelo usuário em 07/08/2026. Esta política prevalec
 | Ouro 200 ml | R$ 35,00 | não informado - confirmar antes de prometer quantidade |
 | Cobra Coral 200 ml | R$ 20,00 | não informado - confirmar antes de prometer quantidade |
 
+## Especificações verificadas no catálogo 2025
+
+- Clássica/Pindorama: 750 ml, 40% vol., repouso em aço inoxidável por pelo menos 1 ano.
+- Pindorama Ouro: 700 ml, 42% vol., armazenada em barris de Amburana.
+- O catálogo comprova apresentações especiais de 200 ml, mas não informa a quantidade de garrafinhas por caixa.
+- Materiais oficiais recebidos: catálogo `Cachaça Pindorama 2025.pdf`, logotipo Pindorama e fotografias das linhas Clássica, Ouro, Cobra Coral e garrafinhas de 200 ml.
