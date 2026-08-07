@@ -1,0 +1,55 @@
+name: Weekly Report Pindorama
+
+on:
+  schedule:
+    - cron: '0 14 * * 4'
+  workflow_dispatch:
+
+permissions:
+  contents: write
+
+concurrency:
+  group: pindorama
+  cancel-in-progress: false
+
+jobs:
+  run-report:
+    runs-on: ubuntu-latest
+    timeout-minutes: 15
+    env:
+      TZ: America/Sao_Paulo
+    steps:
+      - name: Checkout
+        uses: actions/checkout@v4
+
+      - name: Setup Node 20
+        uses: actions/setup-node@v4
+        with:
+          node-version: 20
+
+      - name: Install deps
+        run: npm ci --no-audit --no-fund
+
+      - name: Gerar relatorio semanal
+        run: node weekly-report.mjs
+
+      - name: Enviar por email
+        run: node enviar-relatorio.mjs
+
+      - name: Upload PDF como artefato
+        uses: actions/upload-artifact@v4
+        with:
+          name: relatorio-pdf
+          path: reports/relatorio-*.pdf
+
+      - name: Commit and push updates
+        run: |
+          git config user.name "pindorama-bot"
+          git config user.email "pindorama-bot@users.noreply.github.com"
+          git add -A
+          if ! git diff --cached --quiet; then
+            git commit -m "relatorio: pdf gerado $(date -u +%Y-%m-%dT%H:%MZ)"
+            git push
+          else
+            echo "Sem alteracoes para commitar"
+          fi

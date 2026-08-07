@@ -1,0 +1,9 @@
+{"level":30,"time":"2026-08-06T02:22:17.087Z","pid":21408,"hostname":"Gustavo","class":"baileys","browser":["Pindorama","Chrome","1.0"],"helloMsg":{"clientHello":{"ephemeral":"HI4WMiS17zOEjXZ71FV1NlQZSUiAwOBWXg6D+DeOfTo="}},"msg":"connected to WA"}
+{"level":30,"time":"2026-08-06T02:22:17.335Z","pid":21408,"hostname":"Gustavo","class":"baileys","node":{"passive":false,"userAgent":{"platform":"WEB","appVersion":{"primary":2,"secondary":3000,"tertiary":1043857760},"mcc":"000","mnc":"000","osVersion":"0.1","device":"Desktop","osBuildNumber":"0.1","releaseChannel":"RELEASE","localeLanguageIso6391":"en","localeCountryIso31661Alpha2":"US"},"webInfo":{"webSubPlatform":"WEB_BROWSER"},"connectType":"WIFI_UNKNOWN","connectReason":"USER_ACTIVATED","devicePairingData":{"eRegid":"AAAAmg==","eKeytype":"BQ==","eIdent":"mdniDRvfY6nsnEldxZ3UAS437H36EJZCs39surXS8m8=","eSkeyId":"AAAB","eSkeyVal":"t6pg1LCGO5dwpZeLPsUBlmP62blWgZREHFouAmLookA=","eSkeySig":"bthjvOV/6bZTAINGz0ea1Cwzn6snB40RyPT1dsed159oul1g0cNysj2YfW7MdO5GdyGvq3y/wSmSVDLhyp53gA==","buildHash":"9vZcBgehzf/YdSsFH8le3w==","deviceProps":"CglQaW5kb3JhbWESBggKEA8YBxgBIAEqFxiAUCABMAA4AUABSAFQAVgBYAFwAXgA"},"pull":false},"msg":"not logged in, attempting registration..."}
+[QR] gerado - 2026-08-06T02:22:17.755Z
+[QR] gerado - 2026-08-06T02:23:17.794Z
+[QR] gerado - 2026-08-06T02:23:37.794Z
+[QR] gerado - 2026-08-06T02:23:57.820Z
+[QR] gerado - 2026-08-06T02:24:17.878Z
+[QR] gerado - 2026-08-06T02:24:37.917Z
+{"level":30,"time":"2026-08-06T02:24:57.884Z","pid":21408,"hostname":"Gustavo","class":"baileys","trace":"Error: QR refs attempts ended\n    at Timeout.genPairQR [as _onTimeout] (file:///C:/Users/rotat/OneDrive/%C3%81rea%20de%20Trabalho/Pindorama/pindorama-prospecting/node_modules/@whiskeysockets/baileys/lib/Socket/socket.js:716:26)\n    at listOnTimeout (node:internal/timers:605:17)\n    at process.processTimers (node:internal/timers:541:7)","msg":"connection errored"}

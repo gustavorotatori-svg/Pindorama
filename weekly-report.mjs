@@ -6,14 +6,20 @@
 import { readFileSync, writeFileSync, existsSync, mkdirSync } from 'fs';
 import { execFileSync, spawnSync } from 'child_process';
 import { exec } from 'child_process';
+import { join } from 'path';
+
+const isWin = process.platform === 'win32';
 
 function killChrome() {
   return new Promise(resolve => {
+    if (!isWin) return resolve();
     exec('taskkill /F /IM chrome.exe /T', () => resolve());
   });
 }
 
-const CHROME = 'C:\\Program Files\\Google\\Chrome\\Application\\chrome.exe';
+const CHROME_CANDIDATES = isWin
+  ? ['C:\\Program Files\\Google\\Chrome\\Application\\chrome.exe']
+  : ['/usr/bin/google-chrome', '/usr/bin/chromium-browser', '/usr/bin/chromium'];
 const LEADS_FILE = 'leads-qualificados.json';
 const OLD_FILE = 'leads.json';
 const PLAN_FILE = 'leads-planilha.json';
@@ -167,10 +173,10 @@ const html = `<!DOCTYPE html>
 if (!existsSync('reports')) mkdirSync('reports');
 writeFileSync('reports/relatorio.html', html);
 const outPdf = `reports/relatorio-${todayStr}.pdf`;
-const absOut = `${process.cwd()}\\${outPdf}`;
-if (existsSync(absOut)) { try { execSync(`del "${absOut}"`); } catch {} }
+const absOut = join(process.cwd(), outPdf);
+if (existsSync(absOut)) { try { execSync(isWin ? `del "${absOut}"` : `rm -f "${absOut}"`); } catch {} }
 
-function tryPrint(profileDir) {
+function tryPrint(profileDir, chrome) {
   const args = [
     '--headless', '--disable-gpu', '--no-sandbox', '--no-first-run', '--no-default-browser-check',
     `--user-data-dir=${profileDir}`,
@@ -178,14 +184,16 @@ function tryPrint(profileDir) {
     '--print-to-pdf-no-header',
     `file:///` + process.cwd().replace(/\\/g, '/').split('/').map(encodeURIComponent).join('/') + `/reports/relatorio.html`
   ];
-  try { execFileSync(CHROME, args, { timeout: 20000 }); } catch (e) {}
+  try { execFileSync(chrome, args, { timeout: 20000 }); return true; } catch (e) { return false; }
 }
 
 // Chrome imprime o PDF mas as vezes nao sai; testa com perfil novo ate o arquivo nascer
+const chromeBin = CHROME_CANDIDATES.find(c => existsSync(c));
+if (!chromeBin) { console.error('Chrome nao encontrado (CI sem browser). Enviando apenas HTML.'); }
 for (let attempt = 0; attempt < 3 && !existsSync(absOut); attempt++) {
   await killChrome();
   const tmpProfile = 'C:\\Users\\rotat\\AppData\\Local\\Temp\\opencode\\chrome-pdf-' + Date.now() + '-' + attempt;
-  tryPrint(tmpProfile);
+  tryPrint(tmpProfile, chromeBin);
   await killChrome();
 }
 if (existsSync(absOut)) console.log('PDF gerado: ' + outPdf);
