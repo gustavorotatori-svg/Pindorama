@@ -919,7 +919,9 @@
     "whatsappSent": true,
     "whatsappDate": "2026-08-03",
     "email2": true,
-    "date2": "2026-08-02"
+    "date2": "2026-08-02",
+    "email3": true,
+    "date3": "2026-08-06"
   },
   {
     "name": "Ômadá Bar",
@@ -934,7 +936,9 @@
     "email1": true,
     "date1": "2026-07-31",
     "email2": true,
-    "date2": "2026-08-02"
+    "date2": "2026-08-02",
+    "email3": true,
+    "date3": "2026-08-06"
   },
   {
     "name": "Adega Corradini",
@@ -949,7 +953,9 @@
     "email1": true,
     "date1": "2026-07-31",
     "email2": true,
-    "date2": "2026-08-02"
+    "date2": "2026-08-02",
+    "email3": true,
+    "date3": "2026-08-06"
   },
   {
     "name": "Empório & Adega Morumbi",
@@ -966,7 +972,9 @@
     "whatsappSent": true,
     "whatsappDate": "2026-08-03",
     "email2": true,
-    "date2": "2026-08-02"
+    "date2": "2026-08-02",
+    "email3": true,
+    "date3": "2026-08-06"
   },
   {
     "name": "Emporium São Paulo",
@@ -981,7 +989,9 @@
     "email1": true,
     "date1": "2026-07-31",
     "email2": true,
-    "date2": "2026-08-02"
+    "date2": "2026-08-02",
+    "email3": true,
+    "date3": "2026-08-06"
   },
   {
     "name": "Boss Confidence Bebidas",
@@ -996,7 +1006,9 @@
     "email1": true,
     "date1": "2026-07-31",
     "email2": true,
-    "date2": "2026-08-02"
+    "date2": "2026-08-02",
+    "email3": true,
+    "date3": "2026-08-06"
   },
   {
     "name": "Gouveia Bebidas",
@@ -1011,7 +1023,9 @@
     "email1": true,
     "date1": "2026-07-31",
     "email2": true,
-    "date2": "2026-08-02"
+    "date2": "2026-08-02",
+    "email3": true,
+    "date3": "2026-08-06"
   },
   {
     "name": "Empório Santos Adega",
@@ -1026,7 +1040,9 @@
     "email1": true,
     "date1": "2026-07-31",
     "email2": true,
-    "date2": "2026-08-02"
+    "date2": "2026-08-02",
+    "email3": true,
+    "date3": "2026-08-06"
   },
   {
     "name": "Freitas Distribuidora de Bebidas",
@@ -1041,7 +1057,9 @@
     "email1": true,
     "date1": "2026-07-31",
     "email2": true,
-    "date2": "2026-08-02"
+    "date2": "2026-08-02",
+    "email3": true,
+    "date3": "2026-08-06"
   },
   {
     "name": "JG Bebidas",
@@ -1055,7 +1073,9 @@
     "email1": true,
     "date1": "2026-07-31",
     "email2": true,
-    "date2": "2026-08-02"
+    "date2": "2026-08-02",
+    "email3": true,
+    "date3": "2026-08-06"
   },
   {
     "name": "Fera Bebidas Atacadista",
@@ -1072,7 +1092,9 @@
     "whatsappSent": true,
     "whatsappDate": "2026-08-03",
     "email2": true,
-    "date2": "2026-08-02"
+    "date2": "2026-08-02",
+    "email3": true,
+    "date3": "2026-08-06"
   },
   {
     "name": "Adega Flash",
@@ -1087,7 +1109,9 @@
     "email1": true,
     "date1": "2026-07-31",
     "email2": true,
-    "date2": "2026-08-02"
+    "date2": "2026-08-02",
+    "email3": true,
+    "date3": "2026-08-06"
   },
   {
     "name": "Becosa (Natique Osborne)",
@@ -1102,7 +1126,9 @@
     "email1": true,
     "date1": "2026-07-31",
     "email2": true,
-    "date2": "2026-08-02"
+    "date2": "2026-08-02",
+    "email3": true,
+    "date3": "2026-08-06"
   },
   {
     "name": "Adega Empório Mais Bebidas",
@@ -1117,7 +1143,9 @@
     "email1": true,
     "date1": "2026-07-31",
     "email2": true,
-    "date2": "2026-08-02"
+    "date2": "2026-08-02",
+    "email3": true,
+    "date3": "2026-08-06"
   },
   {
     "name": "Cachaçaria Maria Eunice",
@@ -1130,7 +1158,9 @@
     "email1": true,
     "date1": "2026-07-31",
     "email2": true,
-    "date2": "2026-08-02"
+    "date2": "2026-08-02",
+    "email3": true,
+    "date3": "2026-08-06"
   },
   {
     "name": "Adega Zaidan",
@@ -1143,7 +1173,9 @@
     "email1": true,
     "date1": "2026-07-31",
     "email2": true,
-    "date2": "2026-08-02"
+    "date2": "2026-08-02",
+    "email3": true,
+    "date3": "2026-08-06"
   },
   {
     "name": "Bar Quintal da Mooca",
@@ -1156,7 +1188,9 @@
     "email1": true,
     "date1": "2026-07-31",
     "email2": true,
-    "date2": "2026-08-02"
+    "date2": "2026-08-02",
+    "email3": true,
+    "date3": "2026-08-06"
   },
   {
     "name": "Adega Brothers",
@@ -1169,7 +1203,9 @@
     "email1": true,
     "date1": "2026-07-31",
     "email2": true,
-    "date2": "2026-08-02"
+    "date2": "2026-08-02",
+    "email3": true,
+    "date3": "2026-08-06"
   },
   {
     "name": "Adega do Guga",
@@ -1182,7 +1218,9 @@
     "email1": true,
     "date1": "2026-07-31",
     "email2": true,
-    "date2": "2026-08-02"
+    "date2": "2026-08-02",
+    "email3": true,
+    "date3": "2026-08-06"
   },
   {
     "name": "Brica Bar",
@@ -1195,7 +1233,9 @@
     "email1": true,
     "date1": "2026-07-31",
     "email2": true,
-    "date2": "2026-08-02"
+    "date2": "2026-08-02",
+    "email3": true,
+    "date3": "2026-08-06"
   },
   {
     "name": "Goela Bar",
@@ -1208,7 +1248,9 @@
     "email1": true,
     "date1": "2026-07-31",
     "email2": true,
-    "date2": "2026-08-02"
+    "date2": "2026-08-02",
+    "email3": true,
+    "date3": "2026-08-06"
   },
   {
     "name": "Aureliano's Bar",
@@ -1222,7 +1264,9 @@
     "email1": true,
     "date1": "2026-08-01",
     "email2": true,
-    "date2": "2026-08-03"
+    "date2": "2026-08-03",
+    "email3": true,
+    "date3": "2026-08-06"
   },
   {
     "name": "Santa Parada",
@@ -1236,7 +1280,9 @@
     "email1": true,
     "date1": "2026-08-01",
     "email2": true,
-    "date2": "2026-08-03"
+    "date2": "2026-08-03",
+    "email3": true,
+    "date3": "2026-08-06"
   },
   {
     "name": "Bar Penha Lapa",
@@ -1250,7 +1296,9 @@
     "email1": true,
     "date1": "2026-08-01",
     "email2": true,
-    "date2": "2026-08-03"
+    "date2": "2026-08-03",
+    "email3": true,
+    "date3": "2026-08-06"
   },
   {
     "name": "Bar Coronel Barão",
@@ -1264,7 +1312,9 @@
     "email1": true,
     "date1": "2026-08-01",
     "email2": true,
-    "date2": "2026-08-03"
+    "date2": "2026-08-03",
+    "email3": true,
+    "date3": "2026-08-06"
   },
   {
     "name": "Boteco Madá",
@@ -1278,7 +1328,9 @@
     "email1": true,
     "date1": "2026-08-01",
     "email2": true,
-    "date2": "2026-08-03"
+    "date2": "2026-08-03",
+    "email3": true,
+    "date3": "2026-08-06"
   },
   {
     "name": "Itapura Bar",
@@ -1292,7 +1344,9 @@
     "email1": true,
     "date1": "2026-08-01",
     "email2": true,
-    "date2": "2026-08-03"
+    "date2": "2026-08-03",
+    "email3": true,
+    "date3": "2026-08-06"
   },
   {
     "name": "Gorilas Bar",
@@ -1306,7 +1360,9 @@
     "email1": true,
     "date1": "2026-08-01",
     "email2": true,
-    "date2": "2026-08-03"
+    "date2": "2026-08-03",
+    "email3": true,
+    "date3": "2026-08-06"
   },
   {
     "name": "Boteco do Parque",
@@ -1320,7 +1376,9 @@
     "email1": true,
     "date1": "2026-08-01",
     "email2": true,
-    "date2": "2026-08-03"
+    "date2": "2026-08-03",
+    "email3": true,
+    "date3": "2026-08-06"
   },
   {
     "name": "Espaço Ferrovia",
@@ -1334,7 +1392,9 @@
     "email1": true,
     "date1": "2026-08-01",
     "email2": true,
-    "date2": "2026-08-03"
+    "date2": "2026-08-03",
+    "email3": true,
+    "date3": "2026-08-06"
   },
   {
     "name": "Point 46",
@@ -1348,7 +1408,9 @@
     "email1": true,
     "date1": "2026-08-01",
     "email2": true,
-    "date2": "2026-08-03"
+    "date2": "2026-08-03",
+    "email3": true,
+    "date3": "2026-08-06"
   },
   {
     "name": "Hangar Mooca Karaokê",
@@ -1362,7 +1424,9 @@
     "email1": true,
     "date1": "2026-08-01",
     "email2": true,
-    "date2": "2026-08-03"
+    "date2": "2026-08-03",
+    "email3": true,
+    "date3": "2026-08-06"
   },
   {
     "name": "Utopia Gastrobar",
@@ -1376,7 +1440,9 @@
     "email1": true,
     "date1": "2026-08-01",
     "email2": true,
-    "date2": "2026-08-03"
+    "date2": "2026-08-03",
+    "email3": true,
+    "date3": "2026-08-06"
   },
   {
     "name": "Olga 17",
@@ -1390,7 +1456,9 @@
     "email1": true,
     "date1": "2026-08-01",
     "email2": true,
-    "date2": "2026-08-03"
+    "date2": "2026-08-03",
+    "email3": true,
+    "date3": "2026-08-06"
   },
   {
     "name": "Bar Botânico Pinheiros",
@@ -1404,7 +1472,9 @@
     "email1": true,
     "date1": "2026-08-01",
     "email2": true,
-    "date2": "2026-08-03"
+    "date2": "2026-08-03",
+    "email3": true,
+    "date3": "2026-08-06"
   },
   {
     "name": "Cervejaria 366",
@@ -1418,7 +1488,9 @@
     "email1": true,
     "date1": "2026-08-01",
     "email2": true,
-    "date2": "2026-08-03"
+    "date2": "2026-08-03",
+    "email3": true,
+    "date3": "2026-08-06"
   },
   {
     "name": "Meninas Bar",
@@ -1432,7 +1504,9 @@
     "email1": true,
     "date1": "2026-08-01",
     "email2": true,
-    "date2": "2026-08-03"
+    "date2": "2026-08-03",
+    "email3": true,
+    "date3": "2026-08-06"
   },
   {
     "name": "Balzac Bar",
@@ -1446,7 +1520,9 @@
     "email1": true,
     "date1": "2026-08-01",
     "email2": true,
-    "date2": "2026-08-03"
+    "date2": "2026-08-03",
+    "email3": true,
+    "date3": "2026-08-06"
   },
   {
     "name": "Bar do Dodô",
@@ -1460,7 +1536,9 @@
     "email1": true,
     "date1": "2026-08-01",
     "email2": true,
-    "date2": "2026-08-03"
+    "date2": "2026-08-03",
+    "email3": true,
+    "date3": "2026-08-06"
   },
   {
     "name": "Meu Bhar",
@@ -1474,7 +1552,9 @@
     "email1": true,
     "date1": "2026-08-01",
     "email2": true,
-    "date2": "2026-08-03"
+    "date2": "2026-08-03",
+    "email3": true,
+    "date3": "2026-08-06"
   },
   {
     "name": "Boteco 647",
@@ -1488,7 +1568,9 @@
     "email1": true,
     "date1": "2026-08-01",
     "email2": true,
-    "date2": "2026-08-03"
+    "date2": "2026-08-03",
+    "email3": true,
+    "date3": "2026-08-06"
   },
   {
     "name": "Espetaria Cantinho Bar",
@@ -1502,7 +1584,9 @@
     "email1": true,
     "date1": "2026-08-01",
     "email2": true,
-    "date2": "2026-08-03"
+    "date2": "2026-08-03",
+    "email3": true,
+    "date3": "2026-08-06"
   },
   {
     "name": "Bar do Carlão Moema",
@@ -1516,7 +1600,9 @@
     "email1": true,
     "date1": "2026-08-01",
     "email2": true,
-    "date2": "2026-08-03"
+    "date2": "2026-08-03",
+    "email3": true,
+    "date3": "2026-08-06"
   },
   {
     "name": "Brett Bierhaus Moema",
@@ -1530,7 +1616,9 @@
     "email1": true,
     "date1": "2026-08-01",
     "email2": true,
-    "date2": "2026-08-03"
+    "date2": "2026-08-03",
+    "email3": true,
+    "date3": "2026-08-06"
   },
   {
     "name": "Deck Bar Itaim",
@@ -1544,7 +1632,9 @@
     "email1": true,
     "date1": "2026-08-01",
     "email2": true,
-    "date2": "2026-08-03"
+    "date2": "2026-08-03",
+    "email3": true,
+    "date3": "2026-08-06"
   },
   {
     "name": "Virô Bar",
@@ -1558,7 +1648,9 @@
     "email1": true,
     "date1": "2026-08-01",
     "email2": true,
-    "date2": "2026-08-03"
+    "date2": "2026-08-03",
+    "email3": true,
+    "date3": "2026-08-06"
   },
   {
     "name": "Empório Serra da Cantareira",
@@ -1572,7 +1664,9 @@
     "email1": true,
     "date1": "2026-08-01",
     "email2": true,
-    "date2": "2026-08-03"
+    "date2": "2026-08-03",
+    "email3": true,
+    "date3": "2026-08-06"
   },
   {
     "name": "O Barricão",
@@ -1586,7 +1680,9 @@
     "email1": true,
     "date1": "2026-08-01",
     "email2": true,
-    "date2": "2026-08-03"
+    "date2": "2026-08-03",
+    "email3": true,
+    "date3": "2026-08-06"
   },
   {
     "name": "Pedágio da Vila",
@@ -1600,7 +1696,9 @@
     "email1": true,
     "date1": "2026-08-01",
     "email2": true,
-    "date2": "2026-08-03"
+    "date2": "2026-08-03",
+    "email3": true,
+    "date3": "2026-08-06"
   },
   {
     "name": "Prabar Bebidas",
@@ -7497,7 +7595,9 @@
     "template": "prova_social",
     "website": "",
     "email1": true,
-    "date1": "2026-08-02"
+    "date1": "2026-08-02",
+    "email2": true,
+    "date2": "2026-08-06"
   },
   {
     "name": "HANDZ BURGER",
@@ -7510,7 +7610,9 @@
     "template": "consultivo",
     "website": "",
     "email1": true,
-    "date1": "2026-08-02"
+    "date1": "2026-08-02",
+    "email2": true,
+    "date2": "2026-08-06"
   },
   {
     "name": "BEEF Burger & Beer",
@@ -7523,7 +7625,9 @@
     "template": "pergunta",
     "website": "",
     "email1": true,
-    "date1": "2026-08-02"
+    "date1": "2026-08-02",
+    "email2": true,
+    "date2": "2026-08-06"
   },
   {
     "name": "THE BURGERY",
@@ -7536,7 +7640,9 @@
     "template": "consultivo",
     "website": "",
     "email1": true,
-    "date1": "2026-08-02"
+    "date1": "2026-08-02",
+    "email2": true,
+    "date2": "2026-08-06"
   },
   {
     "name": "TORO BURGER BRASIL",
@@ -7549,7 +7655,9 @@
     "template": "prova_social",
     "website": "",
     "email1": true,
-    "date1": "2026-08-02"
+    "date1": "2026-08-02",
+    "email2": true,
+    "date2": "2026-08-06"
   },
   {
     "name": "Butter Carnes",
@@ -7562,7 +7670,9 @@
     "template": "pergunta",
     "website": "",
     "email1": true,
-    "date1": "2026-08-02"
+    "date1": "2026-08-02",
+    "email2": true,
+    "date2": "2026-08-06"
   },
   {
     "name": "LA PIZZA BURGER",
@@ -7575,7 +7685,9 @@
     "template": "consultivo",
     "website": "",
     "email1": true,
-    "date1": "2026-08-02"
+    "date1": "2026-08-02",
+    "email2": true,
+    "date2": "2026-08-06"
   },
   {
     "name": "Fast Frango Original",
@@ -7588,7 +7700,9 @@
     "template": "pergunta",
     "website": "",
     "email1": true,
-    "date1": "2026-08-02"
+    "date1": "2026-08-02",
+    "email2": true,
+    "date2": "2026-08-06"
   },
   {
     "name": "BlackRock Burger & Beer",
@@ -7601,7 +7715,9 @@
     "template": "pergunta",
     "website": "",
     "email1": true,
-    "date1": "2026-08-02"
+    "date1": "2026-08-02",
+    "email2": true,
+    "date2": "2026-08-06"
   },
   {
     "name": "Hamburgueria Point Sem SaÃ­da",
@@ -7614,7 +7730,9 @@
     "template": "consultivo",
     "website": "",
     "email1": true,
-    "date1": "2026-08-02"
+    "date1": "2026-08-02",
+    "email2": true,
+    "date2": "2026-08-06"
   },
   {
     "name": "PAULISTA BURGER",
@@ -7627,7 +7745,9 @@
     "template": "pergunta",
     "website": "",
     "email1": true,
-    "date1": "2026-08-02"
+    "date1": "2026-08-02",
+    "email2": true,
+    "date2": "2026-08-06"
   },
   {
     "name": "Panificadora Ceci",
@@ -7640,7 +7760,9 @@
     "template": "prova_social",
     "website": "",
     "email1": true,
-    "date1": "2026-08-02"
+    "date1": "2026-08-02",
+    "email2": true,
+    "date2": "2026-08-06"
   },
   {
     "name": "Doceira Nevada",
@@ -7653,7 +7775,9 @@
     "template": "prova_social",
     "website": "",
     "email1": true,
-    "date1": "2026-08-02"
+    "date1": "2026-08-02",
+    "email2": true,
+    "date2": "2026-08-06"
   },
   {
     "name": "TABULEIRO DO ACARAJÃ",
@@ -7666,7 +7790,9 @@
     "template": "pergunta",
     "website": "",
     "email1": true,
-    "date1": "2026-08-02"
+    "date1": "2026-08-02",
+    "email2": true,
+    "date2": "2026-08-06"
   },
   {
     "name": "A BELA SINTRA",
@@ -7679,7 +7805,9 @@
     "template": "consultivo",
     "website": "",
     "email1": true,
-    "date1": "2026-08-02"
+    "date1": "2026-08-02",
+    "email2": true,
+    "date2": "2026-08-06"
   },
   {
     "name": "CHIADO",
@@ -7692,7 +7820,9 @@
     "template": "consultivo",
     "website": "",
     "email1": true,
-    "date1": "2026-08-02"
+    "date1": "2026-08-02",
+    "email2": true,
+    "date2": "2026-08-06"
   },
   {
     "name": "A Galeteria Assados",
@@ -7705,7 +7835,9 @@
     "template": "pergunta",
     "website": "",
     "email1": true,
-    "date1": "2026-08-02"
+    "date1": "2026-08-02",
+    "email2": true,
+    "date2": "2026-08-06"
   },
   {
     "name": "AMADEUS",
@@ -7718,7 +7850,9 @@
     "template": "prova_social",
     "website": "",
     "email1": true,
-    "date1": "2026-08-02"
+    "date1": "2026-08-02",
+    "email2": true,
+    "date2": "2026-08-06"
   },
   {
     "name": "AngÃ©lica Grill",
@@ -7731,7 +7865,9 @@
     "template": "pergunta",
     "website": "",
     "email1": true,
-    "date1": "2026-08-02"
+    "date1": "2026-08-02",
+    "email2": true,
+    "date2": "2026-08-06"
   },
   {
     "name": "BALAIO IMS",
@@ -7744,7 +7880,9 @@
     "template": "consultivo",
     "website": "",
     "email1": true,
-    "date1": "2026-08-02"
+    "date1": "2026-08-02",
+    "email2": true,
+    "date2": "2026-08-06"
   },
   {
     "name": "MOCOTÃ CAFÃ",
@@ -7757,7 +7895,9 @@
     "template": "pergunta",
     "website": "",
     "email1": true,
-    "date1": "2026-08-02"
+    "date1": "2026-08-02",
+    "email2": true,
+    "date2": "2026-08-06"
   },
   {
     "name": "MOCOTÃ AQUI",
@@ -7770,7 +7910,9 @@
     "template": "pergunta",
     "website": "",
     "email1": true,
-    "date1": "2026-08-02"
+    "date1": "2026-08-02",
+    "email2": true,
+    "date2": "2026-08-06"
   },
   {
     "name": "BRIGADEIRO DOCERIA & CAFÃ",
@@ -7783,7 +7925,9 @@
     "template": "pergunta",
     "website": "",
     "email1": true,
-    "date1": "2026-08-02"
+    "date1": "2026-08-02",
+    "email2": true,
+    "date2": "2026-08-06"
   },
   {
     "name": "CA`D`ORO",
@@ -7796,7 +7940,9 @@
     "template": "prova_social",
     "website": "",
     "email1": true,
-    "date1": "2026-08-02"
+    "date1": "2026-08-02",
+    "email2": true,
+    "date2": "2026-08-06"
   },
   {
     "name": "TEMPLO DA CARNE MARCOS BASSI",
@@ -7825,7 +7971,9 @@
     "template": "consultivo",
     "website": "",
     "email1": true,
-    "date1": "2026-08-02"
+    "date1": "2026-08-02",
+    "email2": true,
+    "date2": "2026-08-06"
   },
   {
     "name": "Cheesecakeria",
@@ -7838,7 +7986,9 @@
     "template": "pergunta",
     "website": "",
     "email1": true,
-    "date1": "2026-08-02"
+    "date1": "2026-08-02",
+    "email2": true,
+    "date2": "2026-08-06"
   },
   {
     "name": "Confeitaria da Luana Davidsohn",
@@ -7851,7 +8001,9 @@
     "template": "prova_social",
     "website": "",
     "email1": true,
-    "date1": "2026-08-02"
+    "date1": "2026-08-02",
+    "email2": true,
+    "date2": "2026-08-06"
   },
   {
     "name": "CONFEITARIA DAMA",
@@ -7864,7 +8016,9 @@
     "template": "pergunta",
     "website": "",
     "email1": true,
-    "date1": "2026-08-02"
+    "date1": "2026-08-02",
+    "email2": true,
+    "date2": "2026-08-06"
   },
   {
     "name": "COZINHA 212",
@@ -7877,7 +8031,9 @@
     "template": "prova_social",
     "website": "",
     "email1": true,
-    "date1": "2026-08-02"
+    "date1": "2026-08-02",
+    "email2": true,
+    "date2": "2026-08-06"
   },
   {
     "name": "Cucina Si Italianissimo",
@@ -7890,7 +8046,9 @@
     "template": "pergunta",
     "website": "",
     "email1": true,
-    "date1": "2026-08-02"
+    "date1": "2026-08-02",
+    "email2": true,
+    "date2": "2026-08-06"
   },
   {
     "name": "D`MACARONS",
@@ -7903,7 +8061,9 @@
     "template": "prova_social",
     "website": "",
     "email1": true,
-    "date1": "2026-08-02"
+    "date1": "2026-08-02",
+    "email2": true,
+    "date2": "2026-08-06"
   },
   {
     "name": "DALMO BÃRBARO",
@@ -7916,7 +8076,9 @@
     "template": "pergunta",
     "website": "",
     "email1": true,
-    "date1": "2026-08-02"
+    "date1": "2026-08-02",
+    "email2": true,
+    "date2": "2026-08-06"
   },
   {
     "name": "Desfrutti",
@@ -7929,7 +8091,9 @@
     "template": "pergunta",
     "website": "",
     "email1": true,
-    "date1": "2026-08-02"
+    "date1": "2026-08-02",
+    "email2": true,
+    "date2": "2026-08-06"
   },
   {
     "name": "Dona Vitamina",
@@ -7942,7 +8106,9 @@
     "template": "pergunta",
     "website": "",
     "email1": true,
-    "date1": "2026-08-02"
+    "date1": "2026-08-02",
+    "email2": true,
+    "date2": "2026-08-06"
   },
   {
     "name": "DUAS TEREZAS",
@@ -7955,7 +8121,9 @@
     "template": "prova_social",
     "website": "",
     "email1": true,
-    "date1": "2026-08-02"
+    "date1": "2026-08-02",
+    "email2": true,
+    "date2": "2026-08-06"
   },
   {
     "name": "DUE CUOCHI CUCINA",
@@ -7968,7 +8136,9 @@
     "template": "consultivo",
     "website": "",
     "email1": true,
-    "date1": "2026-08-02"
+    "date1": "2026-08-02",
+    "email2": true,
+    "date2": "2026-08-06"
   },
   {
     "name": "Danielle Andrade Sweet & Cake",
@@ -7981,7 +8151,9 @@
     "template": "consultivo",
     "website": "",
     "email1": true,
-    "date1": "2026-08-02"
+    "date1": "2026-08-02",
+    "email2": true,
+    "date2": "2026-08-06"
   },
   {
     "name": "Fleur de Sucre PÃ¢tisserie",
@@ -7994,7 +8166,9 @@
     "template": "consultivo",
     "website": "",
     "email1": true,
-    "date1": "2026-08-02"
+    "date1": "2026-08-02",
+    "email2": true,
+    "date2": "2026-08-06"
   },
   {
     "name": "IL BARISTA CAFÃS ESPECIAIS",
@@ -8007,7 +8181,9 @@
     "template": "prova_social",
     "website": "",
     "email1": true,
-    "date1": "2026-08-02"
+    "date1": "2026-08-02",
+    "email2": true,
+    "date2": "2026-08-06"
   },
   {
     "name": "INSALATA",
@@ -8020,7 +8196,9 @@
     "template": "prova_social",
     "website": "",
     "email1": true,
-    "date1": "2026-08-02"
+    "date1": "2026-08-02",
+    "email2": true,
+    "date2": "2026-08-06"
   },
   {
     "name": "L'amitiÃ© Bistrot Parisiense",
@@ -8033,7 +8211,9 @@
     "template": "pergunta",
     "website": "",
     "email1": true,
-    "date1": "2026-08-02"
+    "date1": "2026-08-02",
+    "email2": true,
+    "date2": "2026-08-06"
   },
   {
     "name": "La Piadina Cucina Italiana",
@@ -8046,7 +8226,9 @@
     "template": "consultivo",
     "website": "",
     "email1": true,
-    "date1": "2026-08-02"
+    "date1": "2026-08-02",
+    "email2": true,
+    "date2": "2026-08-06"
   },
   {
     "name": "MARIA BAUNILHA",
@@ -8059,7 +8241,9 @@
     "template": "consultivo",
     "website": "",
     "email1": true,
-    "date1": "2026-08-02"
+    "date1": "2026-08-02",
+    "email2": true,
+    "date2": "2026-08-06"
   },
   {
     "name": "MAULI BOWLS",
@@ -8072,7 +8256,9 @@
     "template": "prova_social",
     "website": "",
     "email1": true,
-    "date1": "2026-08-02"
+    "date1": "2026-08-02",
+    "email2": true,
+    "date2": "2026-08-06"
   },
   {
     "name": "NOSU",
@@ -8085,7 +8271,9 @@
     "template": "pergunta",
     "website": "",
     "email1": true,
-    "date1": "2026-08-02"
+    "date1": "2026-08-02",
+    "email2": true,
+    "date2": "2026-08-06"
   },
   {
     "name": "PÃTISSERIE DOUCE FRANCE",
@@ -8098,7 +8286,9 @@
     "template": "prova_social",
     "website": "",
     "email1": true,
-    "date1": "2026-08-02"
+    "date1": "2026-08-02",
+    "email2": true,
+    "date2": "2026-08-06"
   },
   {
     "name": "PINATI",
@@ -8111,7 +8301,9 @@
     "template": "pergunta",
     "website": "",
     "email1": true,
-    "date1": "2026-08-02"
+    "date1": "2026-08-02",
+    "email2": true,
+    "date2": "2026-08-06"
   },
   {
     "name": "QUATTRINO",
@@ -8124,7 +8316,9 @@
     "template": "prova_social",
     "website": "",
     "email1": true,
-    "date1": "2026-08-02"
+    "date1": "2026-08-02",
+    "email2": true,
+    "date2": "2026-08-06"
   },
   {
     "name": "Quintal do Espeto",
@@ -8137,7 +8331,9 @@
     "template": "consultivo",
     "website": "",
     "email1": true,
-    "date1": "2026-08-02"
+    "date1": "2026-08-02",
+    "email2": true,
+    "date2": "2026-08-06"
   },
   {
     "name": "RENDEZ-VOUS",
@@ -8150,7 +8346,9 @@
     "template": "consultivo",
     "website": "",
     "email1": true,
-    "date1": "2026-08-02"
+    "date1": "2026-08-02",
+    "email2": true,
+    "date2": "2026-08-06"
   },
   {
     "name": "Tartuferia San Paolo",
@@ -8163,7 +8361,9 @@
     "template": "consultivo",
     "website": "",
     "email1": true,
-    "date1": "2026-08-02"
+    "date1": "2026-08-02",
+    "email2": true,
+    "date2": "2026-08-06"
   },
   {
     "name": "Torra Clara",
@@ -8176,7 +8376,9 @@
     "template": "consultivo",
     "website": "",
     "email1": true,
-    "date1": "2026-08-02"
+    "date1": "2026-08-02",
+    "email2": true,
+    "date2": "2026-08-06"
   },
   {
     "name": "Varanda Grill",
@@ -8189,7 +8391,9 @@
     "template": "prova_social",
     "website": "",
     "email1": true,
-    "date1": "2026-08-02"
+    "date1": "2026-08-02",
+    "email2": true,
+    "date2": "2026-08-06"
   },
   {
     "name": "Mangai SÃ£o Paulo",
@@ -8202,7 +8406,9 @@
     "template": "pergunta",
     "website": "",
     "email1": true,
-    "date1": "2026-08-02"
+    "date1": "2026-08-02",
+    "email2": true,
+    "date2": "2026-08-06"
   },
   {
     "name": "Confeitaria La Bassani",
@@ -8215,7 +8421,9 @@
     "template": "consultivo",
     "website": "",
     "email1": true,
-    "date1": "2026-08-02"
+    "date1": "2026-08-02",
+    "email2": true,
+    "date2": "2026-08-06"
   },
   {
     "name": "Bar e Lanches EstadÃ£o",
@@ -8228,7 +8436,9 @@
     "template": "prova_social",
     "website": "",
     "email1": true,
-    "date1": "2026-08-02"
+    "date1": "2026-08-02",
+    "email2": true,
+    "date2": "2026-08-06"
   },
   {
     "name": "CARLO'S BAKERY",
@@ -8241,7 +8451,9 @@
     "template": "prova_social",
     "website": "",
     "email1": true,
-    "date1": "2026-08-02"
+    "date1": "2026-08-02",
+    "email2": true,
+    "date2": "2026-08-06"
   },
   {
     "name": "Vivano Steak",
@@ -8254,7 +8466,9 @@
     "template": "consultivo",
     "website": "",
     "email1": true,
-    "date1": "2026-08-02"
+    "date1": "2026-08-02",
+    "email2": true,
+    "date2": "2026-08-06"
   },
   {
     "name": "BadauÃª",
@@ -8267,7 +8481,9 @@
     "template": "prova_social",
     "website": "",
     "email1": true,
-    "date1": "2026-08-02"
+    "date1": "2026-08-02",
+    "email2": true,
+    "date2": "2026-08-06"
   },
   {
     "name": "A Casa do Cheesecake",
@@ -8280,7 +8496,9 @@
     "template": "pergunta",
     "website": "",
     "email1": true,
-    "date1": "2026-08-02"
+    "date1": "2026-08-02",
+    "email2": true,
+    "date2": "2026-08-06"
   },
   {
     "name": "CHOCOLATES LIVERPOOL",
@@ -8293,7 +8511,9 @@
     "template": "consultivo",
     "website": "",
     "email1": true,
-    "date1": "2026-08-02"
+    "date1": "2026-08-02",
+    "email2": true,
+    "date2": "2026-08-06"
   },
   {
     "name": "BANANEIRA MORUMBI",
@@ -8306,7 +8526,9 @@
     "template": "consultivo",
     "website": "",
     "email1": true,
-    "date1": "2026-08-02"
+    "date1": "2026-08-02",
+    "email2": true,
+    "date2": "2026-08-06"
   },
   {
     "name": "Bar do Paco",
@@ -8319,7 +8541,9 @@
     "template": "pergunta",
     "website": "",
     "email1": true,
-    "date1": "2026-08-02"
+    "date1": "2026-08-02",
+    "email2": true,
+    "date2": "2026-08-06"
   },
   {
     "name": "BarbirÃ´",
@@ -8332,7 +8556,9 @@
     "template": "pergunta",
     "website": "",
     "email1": true,
-    "date1": "2026-08-02"
+    "date1": "2026-08-02",
+    "email2": true,
+    "date2": "2026-08-06"
   },
   {
     "name": "Bem Brasil Costelaria",
@@ -8345,7 +8571,9 @@
     "template": "pergunta",
     "website": "",
     "email1": true,
-    "date1": "2026-08-02"
+    "date1": "2026-08-02",
+    "email2": true,
+    "date2": "2026-08-06"
   },
   {
     "name": "Biyou - Z",
@@ -8358,7 +8586,9 @@
     "template": "pergunta",
     "website": "",
     "email1": true,
-    "date1": "2026-08-02"
+    "date1": "2026-08-02",
+    "email2": true,
+    "date2": "2026-08-06"
   },
   {
     "name": "BOIZÃO GRILL",
@@ -8371,7 +8601,9 @@
     "template": "consultivo",
     "website": "",
     "email1": true,
-    "date1": "2026-08-02"
+    "date1": "2026-08-02",
+    "email2": true,
+    "date2": "2026-08-06"
   },
   {
     "name": "BOIZÃO GRILL",
@@ -8384,7 +8616,9 @@
     "template": "pergunta",
     "website": "",
     "email1": true,
-    "date1": "2026-08-02"
+    "date1": "2026-08-02",
+    "email2": true,
+    "date2": "2026-08-06"
   },
   {
     "name": "Bondbico Galeteria",
@@ -8397,7 +8631,9 @@
     "template": "prova_social",
     "website": "",
     "email1": true,
-    "date1": "2026-08-02"
+    "date1": "2026-08-02",
+    "email2": true,
+    "date2": "2026-08-06"
   },
   {
     "name": "BRASSERIE VICTÃRIA",
@@ -8410,7 +8646,9 @@
     "template": "pergunta",
     "website": "",
     "email1": true,
-    "date1": "2026-08-02"
+    "date1": "2026-08-02",
+    "email2": true,
+    "date2": "2026-08-06"
   },
   {
     "name": "Caetano's Bar - Lugar de amigos",
@@ -8423,7 +8661,9 @@
     "template": "pergunta",
     "website": "",
     "email1": true,
-    "date1": "2026-08-02"
+    "date1": "2026-08-02",
+    "email2": true,
+    "date2": "2026-08-06"
   },
   {
     "name": "CafÃ© Impresso",
@@ -8436,7 +8676,9 @@
     "template": "prova_social",
     "website": "",
     "email1": true,
-    "date1": "2026-08-02"
+    "date1": "2026-08-02",
+    "email2": true,
+    "date2": "2026-08-06"
   },
   {
     "name": "CafÃ© Marokita",
@@ -8449,7 +8691,9 @@
     "template": "pergunta",
     "website": "",
     "email1": true,
-    "date1": "2026-08-02"
+    "date1": "2026-08-02",
+    "email2": true,
+    "date2": "2026-08-06"
   },
   {
     "name": "Caffe Latte Cafeteria",
@@ -8462,7 +8706,9 @@
     "template": "consultivo",
     "website": "",
     "email1": true,
-    "date1": "2026-08-02"
+    "date1": "2026-08-02",
+    "email2": true,
+    "date2": "2026-08-06"
   },
   {
     "name": "Cantina Biaggio",
@@ -8475,7 +8721,9 @@
     "template": "prova_social",
     "website": "",
     "email1": true,
-    "date1": "2026-08-02"
+    "date1": "2026-08-02",
+    "email2": true,
+    "date2": "2026-08-06"
   },
   {
     "name": "Cantina da Conchetta",
@@ -8488,7 +8736,9 @@
     "template": "consultivo",
     "website": "",
     "email1": true,
-    "date1": "2026-08-02"
+    "date1": "2026-08-02",
+    "email2": true,
+    "date2": "2026-08-06"
   },
   {
     "name": "Cantina Lo Spaghetto",
@@ -8501,7 +8751,9 @@
     "template": "pergunta",
     "website": "",
     "email1": true,
-    "date1": "2026-08-02"
+    "date1": "2026-08-02",
+    "email2": true,
+    "date2": "2026-08-06"
   },
   {
     "name": "Cena Restaurante",
@@ -8514,7 +8766,9 @@
     "template": "prova_social",
     "website": "",
     "email1": true,
-    "date1": "2026-08-02"
+    "date1": "2026-08-02",
+    "email2": true,
+    "date2": "2026-08-06"
   },
   {
     "name": "Charles Dog",
@@ -8527,7 +8781,9 @@
     "template": "prova_social",
     "website": "",
     "email1": true,
-    "date1": "2026-08-02"
+    "date1": "2026-08-02",
+    "email2": true,
+    "date2": "2026-08-06"
   },
   {
     "name": "CHEF BENON",
@@ -8540,7 +8796,9 @@
     "template": "prova_social",
     "website": "",
     "email1": true,
-    "date1": "2026-08-02"
+    "date1": "2026-08-02",
+    "email2": true,
+    "date2": "2026-08-06"
   },
   {
     "name": "Chico Restaurante",
@@ -8553,7 +8811,9 @@
     "template": "prova_social",
     "website": "",
     "email1": true,
-    "date1": "2026-08-02"
+    "date1": "2026-08-02",
+    "email2": true,
+    "date2": "2026-08-06"
   },
   {
     "name": "Churrascaria & Pizzaria Nonnas Paola",
@@ -8566,7 +8826,9 @@
     "template": "consultivo",
     "website": "",
     "email1": true,
-    "date1": "2026-08-02"
+    "date1": "2026-08-02",
+    "email2": true,
+    "date2": "2026-08-06"
   },
   {
     "name": "Haraganos Beef",
@@ -8579,7 +8841,9 @@
     "template": "consultivo",
     "website": "",
     "email1": true,
-    "date1": "2026-08-02"
+    "date1": "2026-08-02",
+    "email2": true,
+    "date2": "2026-08-06"
   },
   {
     "name": "Costela da Vila",
@@ -8592,7 +8856,9 @@
     "template": "prova_social",
     "website": "",
     "email1": true,
-    "date1": "2026-08-02"
+    "date1": "2026-08-02",
+    "email2": true,
+    "date2": "2026-08-06"
   },
   {
     "name": "Creme de La Creme Doceria",
@@ -8605,7 +8871,9 @@
     "template": "consultivo",
     "website": "",
     "email1": true,
-    "date1": "2026-08-02"
+    "date1": "2026-08-02",
+    "email2": true,
+    "date2": "2026-08-06"
   },
   {
     "name": "Delicious Doceria",
@@ -8618,7 +8886,9 @@
     "template": "pergunta",
     "website": "",
     "email1": true,
-    "date1": "2026-08-02"
+    "date1": "2026-08-02",
+    "email2": true,
+    "date2": "2026-08-06"
   },
   {
     "name": "Strudel CafÃ© Oma Hedy",
@@ -8631,7 +8901,9 @@
     "template": "prova_social",
     "website": "",
     "email1": true,
-    "date1": "2026-08-02"
+    "date1": "2026-08-02",
+    "email2": true,
+    "date2": "2026-08-06"
   },
   {
     "name": "DES CUCINA",
@@ -8644,7 +8916,9 @@
     "template": "prova_social",
     "website": "",
     "email1": true,
-    "date1": "2026-08-02"
+    "date1": "2026-08-02",
+    "email2": true,
+    "date2": "2026-08-06"
   },
   {
     "name": "DESEMBARGADOR BAR",
@@ -8657,7 +8931,9 @@
     "template": "prova_social",
     "website": "",
     "email1": true,
-    "date1": "2026-08-02"
+    "date1": "2026-08-02",
+    "email2": true,
+    "date2": "2026-08-06"
   },
   {
     "name": "CHOCOLATES DI SIENA",
@@ -8670,7 +8946,9 @@
     "template": "prova_social",
     "website": "",
     "email1": true,
-    "date1": "2026-08-02"
+    "date1": "2026-08-02",
+    "email2": true,
+    "date2": "2026-08-06"
   },
   {
     "name": "Dinho's",
@@ -8683,7 +8961,9 @@
     "template": "consultivo",
     "website": "",
     "email1": true,
-    "date1": "2026-08-02"
+    "date1": "2026-08-02",
+    "email2": true,
+    "date2": "2026-08-06"
   },
   {
     "name": "Doce de Laura",
@@ -8696,7 +8976,9 @@
     "template": "consultivo",
     "website": "",
     "email1": true,
-    "date1": "2026-08-02"
+    "date1": "2026-08-02",
+    "email2": true,
+    "date2": "2026-08-06"
   },
   {
     "name": "Doce Pecado",
@@ -8709,7 +8991,9 @@
     "template": "prova_social",
     "website": "",
     "email1": true,
-    "date1": "2026-08-02"
+    "date1": "2026-08-02",
+    "email2": true,
+    "date2": "2026-08-06"
   },
   {
     "name": "Doceria DelÃ­cia",
@@ -8722,7 +9006,9 @@
     "template": "prova_social",
     "website": "",
     "email1": true,
-    "date1": "2026-08-02"
+    "date1": "2026-08-02",
+    "email2": true,
+    "date2": "2026-08-06"
   },
   {
     "name": "DogÃ£o de MaringÃ¡ - Hot Dog's Prensados",
@@ -8735,7 +9021,9 @@
     "template": "consultivo",
     "website": "",
     "email1": true,
-    "date1": "2026-08-02"
+    "date1": "2026-08-02",
+    "email2": true,
+    "date2": "2026-08-06"
   },
   {
     "name": "Dona Augusta",
@@ -8748,7 +9036,9 @@
     "template": "pergunta",
     "website": "",
     "email1": true,
-    "date1": "2026-08-02"
+    "date1": "2026-08-02",
+    "email2": true,
+    "date2": "2026-08-06"
   },
   {
     "name": "DONA FLORINDA",
@@ -8761,7 +9051,9 @@
     "template": "consultivo",
     "website": "",
     "email1": true,
-    "date1": "2026-08-02"
+    "date1": "2026-08-02",
+    "email2": true,
+    "date2": "2026-08-06"
   },
   {
     "name": "Espetto Carioca",
@@ -8774,7 +9066,9 @@
     "template": "consultivo",
     "website": "",
     "email1": true,
-    "date1": "2026-08-02"
+    "date1": "2026-08-02",
+    "email2": true,
+    "date2": "2026-08-06"
   },
   {
     "name": "Empanadas Bar",
@@ -8787,7 +9081,9 @@
     "template": "pergunta",
     "website": "",
     "email1": true,
-    "date1": "2026-08-02"
+    "date1": "2026-08-02",
+    "email2": true,
+    "date2": "2026-08-06"
   },
   {
     "name": "Fioretta Doceria",
@@ -8800,7 +9096,9 @@
     "template": "prova_social",
     "website": "",
     "email1": true,
-    "date1": "2026-08-02"
+    "date1": "2026-08-02",
+    "email2": true,
+    "date2": "2026-08-06"
   },
   {
     "name": "GAMELA",
@@ -8813,7 +9111,9 @@
     "template": "consultivo",
     "website": "",
     "email1": true,
-    "date1": "2026-08-02"
+    "date1": "2026-08-02",
+    "email2": true,
+    "date2": "2026-08-06"
   },
   {
     "name": "GIARDINI BUFFETS",
@@ -8826,7 +9126,9 @@
     "template": "prova_social",
     "website": "",
     "email1": true,
-    "date1": "2026-08-02"
+    "date1": "2026-08-02",
+    "email2": true,
+    "date2": "2026-08-06"
   },
   {
     "name": "GOLDEN PLAZA CHINESE RESTAURANTE",
@@ -8839,7 +9141,9 @@
     "template": "prova_social",
     "website": "",
     "email1": true,
-    "date1": "2026-08-02"
+    "date1": "2026-08-02",
+    "email2": true,
+    "date2": "2026-08-06"
   },
   {
     "name": "Hou CulinÃ¡ria Chinesa",
@@ -8852,7 +9156,9 @@
     "template": "pergunta",
     "website": "",
     "email1": true,
-    "date1": "2026-08-02"
+    "date1": "2026-08-02",
+    "email2": true,
+    "date2": "2026-08-06"
   },
   {
     "name": "La Paella Express",
@@ -8865,7 +9171,9 @@
     "template": "prova_social",
     "website": "",
     "email1": true,
-    "date1": "2026-08-02"
+    "date1": "2026-08-02",
+    "email2": true,
+    "date2": "2026-08-06"
   },
   {
     "name": "Lagoa Tropical",
@@ -8878,7 +9186,9 @@
     "template": "pergunta",
     "website": "",
     "email1": true,
-    "date1": "2026-08-02"
+    "date1": "2026-08-02",
+    "email2": true,
+    "date2": "2026-08-06"
   },
   {
     "name": "NandemoyÃ¡",
@@ -8891,7 +9201,9 @@
     "template": "pergunta",
     "website": "",
     "email1": true,
-    "date1": "2026-08-02"
+    "date1": "2026-08-02",
+    "email2": true,
+    "date2": "2026-08-06"
   },
   {
     "name": "O Compadre",
@@ -8904,7 +9216,9 @@
     "template": "pergunta",
     "website": "",
     "email1": true,
-    "date1": "2026-08-02"
+    "date1": "2026-08-02",
+    "email2": true,
+    "date2": "2026-08-06"
   },
   {
     "name": "O Gato Que Ri",
@@ -8917,7 +9231,9 @@
     "template": "prova_social",
     "website": "",
     "email1": true,
-    "date1": "2026-08-02"
+    "date1": "2026-08-02",
+    "email2": true,
+    "date2": "2026-08-06"
   },
   {
     "name": "PARRILLA ARGENTINA",
@@ -8930,7 +9246,9 @@
     "template": "pergunta",
     "website": "",
     "email1": true,
-    "date1": "2026-08-02"
+    "date1": "2026-08-02",
+    "email2": true,
+    "date2": "2026-08-06"
   },
   {
     "name": "Porto Fino Cucina Italiana",
@@ -8943,7 +9261,9 @@
     "template": "prova_social",
     "website": "",
     "email1": true,
-    "date1": "2026-08-02"
+    "date1": "2026-08-02",
+    "email2": true,
+    "date2": "2026-08-06"
   },
   {
     "name": "RepÃºblica GastronÃ´mica",
@@ -8956,7 +9276,9 @@
     "template": "pergunta",
     "website": "",
     "email1": true,
-    "date1": "2026-08-02"
+    "date1": "2026-08-02",
+    "email2": true,
+    "date2": "2026-08-06"
   },
   {
     "name": "Reserva Pinheiros",
@@ -8969,7 +9291,9 @@
     "template": "prova_social",
     "website": "",
     "email1": true,
-    "date1": "2026-08-02"
+    "date1": "2026-08-02",
+    "email2": true,
+    "date2": "2026-08-06"
   },
   {
     "name": "Restaurante Die Meister Stube",
@@ -8982,7 +9306,9 @@
     "template": "consultivo",
     "website": "",
     "email1": true,
-    "date1": "2026-08-02"
+    "date1": "2026-08-02",
+    "email2": true,
+    "date2": "2026-08-06"
   },
   {
     "name": "SEOK JOUNG",
@@ -8995,7 +9321,9 @@
     "template": "consultivo",
     "website": "",
     "email1": true,
-    "date1": "2026-08-02"
+    "date1": "2026-08-02",
+    "email2": true,
+    "date2": "2026-08-06"
   },
   {
     "name": "South's Place Churrascaria",
@@ -9008,7 +9336,9 @@
     "template": "prova_social",
     "website": "",
     "email1": true,
-    "date1": "2026-08-02"
+    "date1": "2026-08-02",
+    "email2": true,
+    "date2": "2026-08-06"
   },
   {
     "name": "Strike Grill",
@@ -9021,7 +9351,9 @@
     "template": "prova_social",
     "website": "",
     "email1": true,
-    "date1": "2026-08-02"
+    "date1": "2026-08-02",
+    "email2": true,
+    "date2": "2026-08-06"
   },
   {
     "name": "Tokunfome Costelaria",
@@ -9034,7 +9366,9 @@
     "template": "pergunta",
     "website": "",
     "email1": true,
-    "date1": "2026-08-02"
+    "date1": "2026-08-02",
+    "email2": true,
+    "date2": "2026-08-06"
   },
   {
     "name": "Vai de Gosto",
@@ -9047,7 +9381,9 @@
     "template": "pergunta",
     "website": "",
     "email1": true,
-    "date1": "2026-08-02"
+    "date1": "2026-08-02",
+    "email2": true,
+    "date2": "2026-08-06"
   },
   {
     "name": "Vila das Meninas",
@@ -9060,7 +9396,9 @@
     "template": "prova_social",
     "website": "",
     "email1": true,
-    "date1": "2026-08-02"
+    "date1": "2026-08-02",
+    "email2": true,
+    "date2": "2026-08-06"
   },
   {
     "name": "NB Steak",
@@ -9073,7 +9411,9 @@
     "template": "consultivo",
     "website": "",
     "email1": true,
-    "date1": "2026-08-02"
+    "date1": "2026-08-02",
+    "email2": true,
+    "date2": "2026-08-06"
   },
   {
     "name": "TAQUERÃA LA SABROSA",
@@ -9086,7 +9426,9 @@
     "template": "prova_social",
     "website": "",
     "email1": true,
-    "date1": "2026-08-02"
+    "date1": "2026-08-02",
+    "email2": true,
+    "date2": "2026-08-06"
   },
   {
     "name": "FUTURO REFEITÃRIO",
@@ -9099,7 +9441,9 @@
     "template": "consultivo",
     "website": "",
     "email1": true,
-    "date1": "2026-08-02"
+    "date1": "2026-08-02",
+    "email2": true,
+    "date2": "2026-08-06"
   },
   {
     "name": "MESTRE QUEIJEIRO",
@@ -9112,7 +9456,9 @@
     "template": "prova_social",
     "website": "",
     "email1": true,
-    "date1": "2026-08-02"
+    "date1": "2026-08-02",
+    "email2": true,
+    "date2": "2026-08-06"
   },
   {
     "name": "ENOSTERIA VINO E CUCINA",
@@ -9125,7 +9471,9 @@
     "template": "prova_social",
     "website": "",
     "email1": true,
-    "date1": "2026-08-03"
+    "date1": "2026-08-03",
+    "email2": true,
+    "date2": "2026-08-06"
   },
   {
     "name": "VECCHIO TORINO",
@@ -9138,7 +9486,9 @@
     "template": "prova_social",
     "website": "",
     "email1": true,
-    "date1": "2026-08-03"
+    "date1": "2026-08-03",
+    "email2": true,
+    "date2": "2026-08-06"
   },
   {
     "name": "FITÃ",
@@ -9151,7 +9501,9 @@
     "template": "consultivo",
     "website": "",
     "email1": true,
-    "date1": "2026-08-03"
+    "date1": "2026-08-03",
+    "email2": true,
+    "date2": "2026-08-06"
   },
   {
     "name": "KEZ BAGEL & CAFÃ",
@@ -9164,7 +9516,9 @@
     "template": "pergunta",
     "website": "",
     "email1": true,
-    "date1": "2026-08-03"
+    "date1": "2026-08-03",
+    "email2": true,
+    "date2": "2026-08-06"
   },
   {
     "name": "MARIA CRISTINA DOCES",
@@ -9177,7 +9531,9 @@
     "template": "consultivo",
     "website": "",
     "email1": true,
-    "date1": "2026-08-03"
+    "date1": "2026-08-03",
+    "email2": true,
+    "date2": "2026-08-06"
   },
   {
     "name": "MADUREIRA SUCOS",
@@ -9190,7 +9546,9 @@
     "template": "prova_social",
     "website": "",
     "email1": true,
-    "date1": "2026-08-03"
+    "date1": "2026-08-03",
+    "email2": true,
+    "date2": "2026-08-06"
   },
   {
     "name": "VARAL 87",
@@ -9203,7 +9561,9 @@
     "template": "consultivo",
     "website": "",
     "email1": true,
-    "date1": "2026-08-03"
+    "date1": "2026-08-03",
+    "email2": true,
+    "date2": "2026-08-06"
   },
   {
     "name": "BOTANIKAFÃ",
@@ -9216,7 +9576,9 @@
     "template": "prova_social",
     "website": "",
     "email1": true,
-    "date1": "2026-08-03"
+    "date1": "2026-08-03",
+    "email2": true,
+    "date2": "2026-08-06"
   },
   {
     "name": "Gallette Chocolates",
@@ -9229,7 +9591,9 @@
     "template": "consultivo",
     "website": "",
     "email1": true,
-    "date1": "2026-08-03"
+    "date1": "2026-08-03",
+    "email2": true,
+    "date2": "2026-08-06"
   },
   {
     "name": "PISSANI",
@@ -9242,7 +9606,9 @@
     "template": "prova_social",
     "website": "",
     "email1": true,
-    "date1": "2026-08-03"
+    "date1": "2026-08-03",
+    "email2": true,
+    "date2": "2026-08-06"
   },
   {
     "name": "PETÃ GASTRONOMIA",
@@ -9255,7 +9621,9 @@
     "template": "consultivo",
     "website": "",
     "email1": true,
-    "date1": "2026-08-03"
+    "date1": "2026-08-03",
+    "email2": true,
+    "date2": "2026-08-06"
   },
   {
     "name": "PHO.366",
@@ -9268,7 +9636,9 @@
     "template": "prova_social",
     "website": "",
     "email1": true,
-    "date1": "2026-08-03"
+    "date1": "2026-08-03",
+    "email2": true,
+    "date2": "2026-08-06"
   },
   {
     "name": "Tandoor",
@@ -9281,7 +9651,9 @@
     "template": "consultivo",
     "website": "",
     "email1": true,
-    "date1": "2026-08-03"
+    "date1": "2026-08-03",
+    "email2": true,
+    "date2": "2026-08-06"
   },
   {
     "name": "Pasquale",
@@ -9294,7 +9666,9 @@
     "template": "prova_social",
     "website": "",
     "email1": true,
-    "date1": "2026-08-03"
+    "date1": "2026-08-03",
+    "email2": true,
+    "date2": "2026-08-06"
   },
   {
     "name": "FOTIÃ",
@@ -9307,7 +9681,9 @@
     "template": "prova_social",
     "website": "",
     "email1": true,
-    "date1": "2026-08-03"
+    "date1": "2026-08-03",
+    "email2": true,
+    "date2": "2026-08-06"
   },
   {
     "name": "MYK",
@@ -9320,7 +9696,9 @@
     "template": "prova_social",
     "website": "",
     "email1": true,
-    "date1": "2026-08-03"
+    "date1": "2026-08-03",
+    "email2": true,
+    "date2": "2026-08-06"
   },
   {
     "name": "KOUZINA",
@@ -9333,7 +9711,9 @@
     "template": "prova_social",
     "website": "",
     "email1": true,
-    "date1": "2026-08-03"
+    "date1": "2026-08-03",
+    "email2": true,
+    "date2": "2026-08-06"
   },
   {
     "name": "MERCEARIA DO CONDE",
@@ -9346,7 +9726,9 @@
     "template": "pergunta",
     "website": "",
     "email1": true,
-    "date1": "2026-08-03"
+    "date1": "2026-08-03",
+    "email2": true,
+    "date2": "2026-08-06"
   },
   {
     "name": "PICCOLO",
@@ -9359,7 +9741,9 @@
     "template": "prova_social",
     "website": "",
     "email1": true,
-    "date1": "2026-08-03"
+    "date1": "2026-08-03",
+    "email2": true,
+    "date2": "2026-08-06"
   },
   {
     "name": "PIÃ",
@@ -9372,7 +9756,9 @@
     "template": "prova_social",
     "website": "",
     "email1": true,
-    "date1": "2026-08-03"
+    "date1": "2026-08-03",
+    "email2": true,
+    "date2": "2026-08-06"
   },
   {
     "name": "AMAZO COZINHA PERUANA",
@@ -9385,7 +9771,9 @@
     "template": "pergunta",
     "website": "",
     "email1": true,
-    "date1": "2026-08-03"
+    "date1": "2026-08-03",
+    "email2": true,
+    "date2": "2026-08-06"
   },
   {
     "name": "BENEDITA",
@@ -9398,7 +9786,9 @@
     "template": "prova_social",
     "website": "",
     "email1": true,
-    "date1": "2026-08-03"
+    "date1": "2026-08-03",
+    "email2": true,
+    "date2": "2026-08-06"
   },
   {
     "name": "MARTÃN FIERRO",
@@ -9411,7 +9801,9 @@
     "template": "prova_social",
     "website": "",
     "email1": true,
-    "date1": "2026-08-03"
+    "date1": "2026-08-03",
+    "email2": true,
+    "date2": "2026-08-06"
   },
   {
     "name": "CASIMIRO",
@@ -9424,7 +9816,9 @@
     "template": "consultivo",
     "website": "",
     "email1": true,
-    "date1": "2026-08-03"
+    "date1": "2026-08-03",
+    "email2": true,
+    "date2": "2026-08-06"
   },
   {
     "name": "PISELLI",
@@ -9437,7 +9831,9 @@
     "template": "pergunta",
     "website": "",
     "email1": true,
-    "date1": "2026-08-03"
+    "date1": "2026-08-03",
+    "email2": true,
+    "date2": "2026-08-06"
   },
   {
     "name": "MESTIÃO CHOCOLATES",
@@ -9450,7 +9846,9 @@
     "template": "consultivo",
     "website": "",
     "email1": true,
-    "date1": "2026-08-03"
+    "date1": "2026-08-03",
+    "email2": true,
+    "date2": "2026-08-06"
   },
   {
     "name": "PASTIFÃCIO PRIMO",
@@ -9463,7 +9861,9 @@
     "template": "consultivo",
     "website": "",
     "email1": true,
-    "date1": "2026-08-03"
+    "date1": "2026-08-03",
+    "email2": true,
+    "date2": "2026-08-06"
   },
   {
     "name": "CAFÃ HABITUAL",
@@ -9476,7 +9876,9 @@
     "template": "prova_social",
     "website": "",
     "email1": true,
-    "date1": "2026-08-03"
+    "date1": "2026-08-03",
+    "email2": true,
+    "date2": "2026-08-06"
   },
   {
     "name": "Ruella",
@@ -9489,7 +9891,9 @@
     "template": "pergunta",
     "website": "",
     "email1": true,
-    "date1": "2026-08-03"
+    "date1": "2026-08-03",
+    "email2": true,
+    "date2": "2026-08-06"
   },
   {
     "name": "PURANA.CO",
@@ -9502,7 +9906,9 @@
     "template": "consultivo",
     "website": "",
     "email1": true,
-    "date1": "2026-08-03"
+    "date1": "2026-08-03",
+    "email2": true,
+    "date2": "2026-08-06"
   },
   {
     "name": "LA PERGOLETTA",
@@ -9515,7 +9921,9 @@
     "template": "pergunta",
     "website": "",
     "email1": true,
-    "date1": "2026-08-03"
+    "date1": "2026-08-03",
+    "email2": true,
+    "date2": "2026-08-06"
   },
   {
     "name": "TASCA DA ESQUINA",
@@ -9528,7 +9936,9 @@
     "template": "consultivo",
     "website": "",
     "email1": true,
-    "date1": "2026-08-03"
+    "date1": "2026-08-03",
+    "email2": true,
+    "date2": "2026-08-06"
   },
   {
     "name": "LE CHEF BOUCHER",
@@ -9541,7 +9951,9 @@
     "template": "pergunta",
     "website": "",
     "email1": true,
-    "date1": "2026-08-03"
+    "date1": "2026-08-03",
+    "email2": true,
+    "date2": "2026-08-06"
   },
   {
     "name": "LOJA DE FÃBRICA DA MESA III",
@@ -9554,7 +9966,9 @@
     "template": "consultivo",
     "website": "",
     "email1": true,
-    "date1": "2026-08-03"
+    "date1": "2026-08-03",
+    "email2": true,
+    "date2": "2026-08-06"
   },
   {
     "name": "EMPÃRIO NORDESTINO",
@@ -9567,7 +9981,9 @@
     "template": "prova_social",
     "website": "",
     "email1": true,
-    "date1": "2026-08-03"
+    "date1": "2026-08-03",
+    "email2": true,
+    "date2": "2026-08-06"
   },
   {
     "name": "TAHIN",
@@ -9580,7 +9996,9 @@
     "template": "prova_social",
     "website": "",
     "email1": true,
-    "date1": "2026-08-03"
+    "date1": "2026-08-03",
+    "email2": true,
+    "date2": "2026-08-06"
   },
   {
     "name": "Prazeres Da Gula",
@@ -9593,7 +10011,9 @@
     "template": "prova_social",
     "website": "",
     "email1": true,
-    "date1": "2026-08-03"
+    "date1": "2026-08-03",
+    "email2": true,
+    "date2": "2026-08-06"
   },
   {
     "name": "VINHERIA PERCUSSI",
@@ -9606,7 +10026,9 @@
     "template": "prova_social",
     "website": "",
     "email1": true,
-    "date1": "2026-08-03"
+    "date1": "2026-08-03",
+    "email2": true,
+    "date2": "2026-08-06"
   },
   {
     "name": "QUINTA DE SANTA MARIA",
@@ -9619,7 +10041,9 @@
     "template": "prova_social",
     "website": "",
     "email1": true,
-    "date1": "2026-08-03"
+    "date1": "2026-08-03",
+    "email2": true,
+    "date2": "2026-08-06"
   },
   {
     "name": "FLORINA",
@@ -9632,7 +10056,9 @@
     "template": "pergunta",
     "website": "",
     "email1": true,
-    "date1": "2026-08-03"
+    "date1": "2026-08-03",
+    "email2": true,
+    "date2": "2026-08-06"
   },
   {
     "name": "ROPERTO",
@@ -9645,7 +10071,9 @@
     "template": "prova_social",
     "website": "",
     "email1": true,
-    "date1": "2026-08-03"
+    "date1": "2026-08-03",
+    "email2": true,
+    "date2": "2026-08-06"
   },
   {
     "name": "GALETO DI PAOLO",
@@ -9658,7 +10086,9 @@
     "template": "consultivo",
     "website": "",
     "email1": true,
-    "date1": "2026-08-03"
+    "date1": "2026-08-03",
+    "email2": true,
+    "date2": "2026-08-06"
   },
   {
     "name": "YOKA",
@@ -9671,7 +10101,9 @@
     "template": "consultivo",
     "website": "",
     "email1": true,
-    "date1": "2026-08-03"
+    "date1": "2026-08-03",
+    "email2": true,
+    "date2": "2026-08-06"
   },
   {
     "name": "PIPO",
@@ -9684,7 +10116,9 @@
     "template": "prova_social",
     "website": "",
     "email1": true,
-    "date1": "2026-08-03"
+    "date1": "2026-08-03",
+    "email2": true,
+    "date2": "2026-08-06"
   },
   {
     "name": "CafÃ© MestiÃ§o",
@@ -9697,7 +10131,9 @@
     "template": "consultivo",
     "website": "",
     "email1": true,
-    "date1": "2026-08-03"
+    "date1": "2026-08-03",
+    "email2": true,
+    "date2": "2026-08-06"
   },
   {
     "name": "SOZAI JAPANESE DELI",
@@ -9710,7 +10146,9 @@
     "template": "pergunta",
     "website": "",
     "email1": true,
-    "date1": "2026-08-03"
+    "date1": "2026-08-03",
+    "email2": true,
+    "date2": "2026-08-06"
   },
   {
     "name": "RENATA ARASSIRO CHOCOLATES",
@@ -9723,7 +10161,9 @@
     "template": "prova_social",
     "website": "",
     "email1": true,
-    "date1": "2026-08-03"
+    "date1": "2026-08-03",
+    "email2": true,
+    "date2": "2026-08-06"
   },
   {
     "name": "TENDA DO NILO",
@@ -9736,7 +10176,9 @@
     "template": "pergunta",
     "website": "",
     "email1": true,
-    "date1": "2026-08-03"
+    "date1": "2026-08-03",
+    "email2": true,
+    "date2": "2026-08-06"
   },
   {
     "name": "MARCHA E SAI",
@@ -9749,7 +10191,9 @@
     "template": "pergunta",
     "website": "",
     "email1": true,
-    "date1": "2026-08-03"
+    "date1": "2026-08-03",
+    "email2": true,
+    "date2": "2026-08-06"
   },
   {
     "name": "TAMMY MONTAGNA",
@@ -9762,7 +10206,9 @@
     "template": "pergunta",
     "website": "",
     "email1": true,
-    "date1": "2026-08-03"
+    "date1": "2026-08-03",
+    "email2": true,
+    "date2": "2026-08-06"
   },
   {
     "name": "FIOCA CONFEITARIA SAUDÃVEL",
@@ -9775,7 +10221,9 @@
     "template": "prova_social",
     "website": "",
     "email1": true,
-    "date1": "2026-08-03"
+    "date1": "2026-08-03",
+    "email2": true,
+    "date2": "2026-08-06"
   },
   {
     "name": "FOGO DE CHÃO",
@@ -9788,7 +10236,9 @@
     "template": "consultivo",
     "website": "",
     "email1": true,
-    "date1": "2026-08-03"
+    "date1": "2026-08-03",
+    "email2": true,
+    "date2": "2026-08-06"
   },
   {
     "name": "FEED",
@@ -9801,7 +10251,9 @@
     "template": "pergunta",
     "website": "",
     "email1": true,
-    "date1": "2026-08-03"
+    "date1": "2026-08-03",
+    "email2": true,
+    "date2": "2026-08-06"
   },
   {
     "name": "MIOLO",
@@ -9814,7 +10266,9 @@
     "template": "consultivo",
     "website": "",
     "email1": true,
-    "date1": "2026-08-03"
+    "date1": "2026-08-03",
+    "email2": true,
+    "date2": "2026-08-06"
   },
   {
     "name": "TORDESILHAS",
@@ -9827,7 +10281,9 @@
     "template": "consultivo",
     "website": "",
     "email1": true,
-    "date1": "2026-08-03"
+    "date1": "2026-08-03",
+    "email2": true,
+    "date2": "2026-08-06"
   },
   {
     "name": "NICE TO MEAT U",
@@ -9840,7 +10296,9 @@
     "template": "pergunta",
     "website": "",
     "email1": true,
-    "date1": "2026-08-03"
+    "date1": "2026-08-03",
+    "email2": true,
+    "date2": "2026-08-06"
   },
   {
     "name": "TAPIOCA DA DINDA",
@@ -9853,7 +10311,9 @@
     "template": "prova_social",
     "website": "",
     "email1": true,
-    "date1": "2026-08-03"
+    "date1": "2026-08-03",
+    "email2": true,
+    "date2": "2026-08-06"
   },
   {
     "name": "NELLO`S",
@@ -9866,7 +10326,9 @@
     "template": "prova_social",
     "website": "",
     "email1": true,
-    "date1": "2026-08-03"
+    "date1": "2026-08-03",
+    "email2": true,
+    "date2": "2026-08-06"
   },
   {
     "name": "FOGO STEAKHOUSE WINE & BAR",
@@ -9879,7 +10341,9 @@
     "template": "pergunta",
     "website": "",
     "email1": true,
-    "date1": "2026-08-03"
+    "date1": "2026-08-03",
+    "email2": true,
+    "date2": "2026-08-06"
   },
   {
     "name": "Olga Ri",
@@ -9892,7 +10356,9 @@
     "template": "consultivo",
     "website": "",
     "email1": true,
-    "date1": "2026-08-03"
+    "date1": "2026-08-03",
+    "email2": true,
+    "date2": "2026-08-06"
   },
   {
     "name": "MARIA BRIGADEIRO",
@@ -9905,7 +10371,9 @@
     "template": "pergunta",
     "website": "",
     "email1": true,
-    "date1": "2026-08-03"
+    "date1": "2026-08-03",
+    "email2": true,
+    "date2": "2026-08-06"
   },
   {
     "name": "COSTA NOVA",
@@ -9918,7 +10386,9 @@
     "template": "consultivo",
     "website": "",
     "email1": true,
-    "date1": "2026-08-03"
+    "date1": "2026-08-03",
+    "email2": true,
+    "date2": "2026-08-06"
   },
   {
     "name": "Kiyota Sushi Bar",
@@ -9931,7 +10401,9 @@
     "template": "prova_social",
     "website": "",
     "email1": true,
-    "date1": "2026-08-03"
+    "date1": "2026-08-03",
+    "email2": true,
+    "date2": "2026-08-06"
   },
   {
     "name": "LA EMPANÃ",
@@ -9944,7 +10416,9 @@
     "template": "pergunta",
     "website": "",
     "email1": true,
-    "date1": "2026-08-03"
+    "date1": "2026-08-03",
+    "email2": true,
+    "date2": "2026-08-06"
   },
   {
     "name": "CARRITO ORGANIC",
@@ -9957,7 +10431,9 @@
     "template": "consultivo",
     "website": "",
     "email1": true,
-    "date1": "2026-08-03"
+    "date1": "2026-08-03",
+    "email2": true,
+    "date2": "2026-08-06"
   },
   {
     "name": "TAN TAN",
@@ -9970,7 +10446,9 @@
     "template": "prova_social",
     "website": "",
     "email1": true,
-    "date1": "2026-08-03"
+    "date1": "2026-08-03",
+    "email2": true,
+    "date2": "2026-08-06"
   },
   {
     "name": "Dona Zelda",
@@ -9983,7 +10461,9 @@
     "template": "consultivo",
     "website": "",
     "email1": true,
-    "date1": "2026-08-03"
+    "date1": "2026-08-03",
+    "email2": true,
+    "date2": "2026-08-06"
   },
   {
     "name": "BÃRBARO",
@@ -9996,7 +10476,9 @@
     "template": "prova_social",
     "website": "",
     "email1": true,
-    "date1": "2026-08-03"
+    "date1": "2026-08-03",
+    "email2": true,
+    "date2": "2026-08-06"
   },
   {
     "name": "BÃRBARO",
@@ -10009,7 +10491,9 @@
     "template": "prova_social",
     "website": "",
     "email1": true,
-    "date1": "2026-08-03"
+    "date1": "2026-08-03",
+    "email2": true,
+    "date2": "2026-08-06"
   },
   {
     "name": "FoÌrma de Pudim",
@@ -10022,7 +10506,9 @@
     "template": "prova_social",
     "website": "",
     "email1": true,
-    "date1": "2026-08-03"
+    "date1": "2026-08-03",
+    "email2": true,
+    "date2": "2026-08-06"
   },
   {
     "name": "NOU",
@@ -10035,7 +10521,9 @@
     "template": "consultivo",
     "website": "",
     "email1": true,
-    "date1": "2026-08-03"
+    "date1": "2026-08-03",
+    "email2": true,
+    "date2": "2026-08-06"
   },
   {
     "name": "UM COFFE CO.",
@@ -10048,7 +10536,9 @@
     "template": "consultivo",
     "website": "",
     "email1": true,
-    "date1": "2026-08-03"
+    "date1": "2026-08-03",
+    "email2": true,
+    "date2": "2026-08-06"
   },
   {
     "name": "DAVVERO",
@@ -10061,7 +10551,9 @@
     "template": "pergunta",
     "website": "",
     "email1": true,
-    "date1": "2026-08-03"
+    "date1": "2026-08-03",
+    "email2": true,
+    "date2": "2026-08-06"
   },
   {
     "name": "LOW BBQ",
@@ -10074,7 +10566,9 @@
     "template": "prova_social",
     "website": "",
     "email1": true,
-    "date1": "2026-08-03"
+    "date1": "2026-08-03",
+    "email2": true,
+    "date2": "2026-08-06"
   },
   {
     "name": "Albero dei Gelati Brasil",
@@ -10087,7 +10581,9 @@
     "template": "consultivo",
     "website": "",
     "email1": true,
-    "date1": "2026-08-03"
+    "date1": "2026-08-03",
+    "email2": true,
+    "date2": "2026-08-06"
   },
   {
     "name": "Doce Arte",
@@ -10100,7 +10596,9 @@
     "template": "pergunta",
     "website": "",
     "email1": true,
-    "date1": "2026-08-03"
+    "date1": "2026-08-03",
+    "email2": true,
+    "date2": "2026-08-06"
   },
   {
     "name": "Condimento",
@@ -10113,7 +10611,9 @@
     "template": "consultivo",
     "website": "",
     "email1": true,
-    "date1": "2026-08-03"
+    "date1": "2026-08-03",
+    "email2": true,
+    "date2": "2026-08-06"
   },
   {
     "name": "CafÃ© Journal",
@@ -10126,7 +10626,9 @@
     "template": "prova_social",
     "website": "",
     "email1": true,
-    "date1": "2026-08-03"
+    "date1": "2026-08-03",
+    "email2": true,
+    "date2": "2026-08-06"
   },
   {
     "name": "A Bolaria",
@@ -10139,7 +10641,9 @@
     "template": "prova_social",
     "website": "",
     "email1": true,
-    "date1": "2026-08-03"
+    "date1": "2026-08-03",
+    "email2": true,
+    "date2": "2026-08-06"
   },
   {
     "name": "SUSHI VAZ",
@@ -10152,7 +10656,9 @@
     "template": "pergunta",
     "website": "",
     "email1": true,
-    "date1": "2026-08-03"
+    "date1": "2026-08-03",
+    "email2": true,
+    "date2": "2026-08-06"
   },
   {
     "name": "Santana Bar",
@@ -10165,7 +10671,9 @@
     "template": "prova_social",
     "website": "",
     "email1": true,
-    "date1": "2026-08-03"
+    "date1": "2026-08-03",
+    "email2": true,
+    "date2": "2026-08-06"
   },
   {
     "name": "Dedo de la Chica",
@@ -10178,7 +10686,9 @@
     "template": "pergunta",
     "website": "",
     "email1": true,
-    "date1": "2026-08-03"
+    "date1": "2026-08-03",
+    "email2": true,
+    "date2": "2026-08-06"
   },
   {
     "name": "TOTÃ",
@@ -10191,7 +10701,9 @@
     "template": "prova_social",
     "website": "",
     "email1": true,
-    "date1": "2026-08-03"
+    "date1": "2026-08-03",
+    "email2": true,
+    "date2": "2026-08-06"
   },
   {
     "name": "MESCLA",
@@ -10204,7 +10716,9 @@
     "template": "pergunta",
     "website": "",
     "email1": true,
-    "date1": "2026-08-03"
+    "date1": "2026-08-03",
+    "email2": true,
+    "date2": "2026-08-06"
   },
   {
     "name": "AÃAÃ MOOCA",
@@ -10217,7 +10731,9 @@
     "template": "prova_social",
     "website": "",
     "email1": true,
-    "date1": "2026-08-03"
+    "date1": "2026-08-03",
+    "email2": true,
+    "date2": "2026-08-06"
   },
   {
     "name": "KEN ZUSHI",
@@ -10230,7 +10746,9 @@
     "template": "pergunta",
     "website": "",
     "email1": true,
-    "date1": "2026-08-03"
+    "date1": "2026-08-03",
+    "email2": true,
+    "date2": "2026-08-06"
   },
   {
     "name": "AÃAI 46",
@@ -10243,7 +10761,9 @@
     "template": "consultivo",
     "website": "",
     "email1": true,
-    "date1": "2026-08-03"
+    "date1": "2026-08-03",
+    "email2": true,
+    "date2": "2026-08-06"
   },
   {
     "name": "Deveras Pizza",
@@ -10256,7 +10776,9 @@
     "template": "pergunta",
     "website": "",
     "email1": true,
-    "date1": "2026-08-03"
+    "date1": "2026-08-03",
+    "email2": true,
+    "date2": "2026-08-06"
   },
   {
     "name": "DAMP SORVETES",
@@ -10269,7 +10791,9 @@
     "template": "pergunta",
     "website": "",
     "email1": true,
-    "date1": "2026-08-03"
+    "date1": "2026-08-03",
+    "email2": true,
+    "date2": "2026-08-06"
   },
   {
     "name": "Le Pain Quotidien Brasil",
@@ -10282,7 +10806,9 @@
     "template": "pergunta",
     "website": "",
     "email1": true,
-    "date1": "2026-08-03"
+    "date1": "2026-08-03",
+    "email2": true,
+    "date2": "2026-08-06"
   },
   {
     "name": "FABRIQUE",
@@ -10295,7 +10821,9 @@
     "template": "pergunta",
     "website": "",
     "email1": true,
-    "date1": "2026-08-03"
+    "date1": "2026-08-03",
+    "email2": true,
+    "date2": "2026-08-06"
   },
   {
     "name": "ZAN PAN",
@@ -10308,7 +10836,9 @@
     "template": "pergunta",
     "website": "",
     "email1": true,
-    "date1": "2026-08-03"
+    "date1": "2026-08-03",
+    "email2": true,
+    "date2": "2026-08-06"
   },
   {
     "name": "FAZEMOS PÃO",
@@ -10321,7 +10851,9 @@
     "template": "pergunta",
     "website": "",
     "email1": true,
-    "date1": "2026-08-03"
+    "date1": "2026-08-03",
+    "email2": true,
+    "date2": "2026-08-06"
   },
   {
     "name": "Boston Bakery",
@@ -10334,7 +10866,9 @@
     "template": "prova_social",
     "website": "",
     "email1": true,
-    "date1": "2026-08-03"
+    "date1": "2026-08-03",
+    "email2": true,
+    "date2": "2026-08-06"
   },
   {
     "name": "MARCO POLO GELATERIA",
@@ -10347,7 +10881,9 @@
     "template": "consultivo",
     "website": "",
     "email1": true,
-    "date1": "2026-08-03"
+    "date1": "2026-08-03",
+    "email2": true,
+    "date2": "2026-08-06"
   },
   {
     "name": "Walnuts",
@@ -10360,7 +10896,9 @@
     "template": "consultivo",
     "website": "",
     "email1": true,
-    "date1": "2026-08-03"
+    "date1": "2026-08-03",
+    "email2": true,
+    "date2": "2026-08-06"
   },
   {
     "name": "Creme Americano",
@@ -10373,7 +10911,9 @@
     "template": "pergunta",
     "website": "",
     "email1": true,
-    "date1": "2026-08-03"
+    "date1": "2026-08-03",
+    "email2": true,
+    "date2": "2026-08-06"
   },
   {
     "name": "AÃAÃ MAGNIFÃCO",
@@ -10386,7 +10926,9 @@
     "template": "consultivo",
     "website": "",
     "email1": true,
-    "date1": "2026-08-03"
+    "date1": "2026-08-03",
+    "email2": true,
+    "date2": "2026-08-06"
   },
   {
     "name": "DE LÃ DO PÃO",
@@ -10399,7 +10941,9 @@
     "template": "pergunta",
     "website": "",
     "email1": true,
-    "date1": "2026-08-03"
+    "date1": "2026-08-03",
+    "email2": true,
+    "date2": "2026-08-06"
   },
   {
     "name": "Hecho en Mexico Y en Brasil",
@@ -10412,7 +10956,9 @@
     "template": "consultivo",
     "website": "",
     "email1": true,
-    "date1": "2026-08-03"
+    "date1": "2026-08-03",
+    "email2": true,
+    "date2": "2026-08-06"
   },
   {
     "name": "Cristal Pizza Bar & Grill",
@@ -10425,7 +10971,9 @@
     "template": "pergunta",
     "website": "",
     "email1": true,
-    "date1": "2026-08-03"
+    "date1": "2026-08-03",
+    "email2": true,
+    "date2": "2026-08-06"
   },
   {
     "name": "Lenharetto Forno e Brasa",
@@ -10438,7 +10986,9 @@
     "template": "pergunta",
     "website": "",
     "email1": true,
-    "date1": "2026-08-03"
+    "date1": "2026-08-03",
+    "email2": true,
+    "date2": "2026-08-06"
   },
   {
     "name": "BRIGADERIA",
@@ -10451,7 +11001,9 @@
     "template": "prova_social",
     "website": "",
     "email1": true,
-    "date1": "2026-08-03"
+    "date1": "2026-08-03",
+    "email2": true,
+    "date2": "2026-08-06"
   },
   {
     "name": "Biopadaria Wheat",
@@ -10464,7 +11016,9 @@
     "template": "prova_social",
     "website": "",
     "email1": true,
-    "date1": "2026-08-03"
+    "date1": "2026-08-03",
+    "email2": true,
+    "date2": "2026-08-06"
   },
   {
     "name": "A LA CARTE MINEIRO",
@@ -10477,7 +11031,9 @@
     "template": "consultivo",
     "website": "",
     "email1": true,
-    "date1": "2026-08-03"
+    "date1": "2026-08-03",
+    "email2": true,
+    "date2": "2026-08-06"
   },
   {
     "name": "Teus Restaurante Bar",
@@ -10490,7 +11046,9 @@
     "template": "consultivo",
     "website": "",
     "email1": true,
-    "date1": "2026-08-03"
+    "date1": "2026-08-03",
+    "email2": true,
+    "date2": "2026-08-06"
   },
   {
     "name": "Restaurante La Casserole",
@@ -10503,7 +11061,9 @@
     "template": "consultivo",
     "website": "",
     "email1": true,
-    "date1": "2026-08-03"
+    "date1": "2026-08-03",
+    "email2": true,
+    "date2": "2026-08-06"
   },
   {
     "name": "BOLO Ã TOA",
@@ -10516,7 +11076,9 @@
     "template": "prova_social",
     "website": "",
     "email1": true,
-    "date1": "2026-08-03"
+    "date1": "2026-08-03",
+    "email2": true,
+    "date2": "2026-08-06"
   },
   {
     "name": "TerraÃ§o ItÃ¡lia",
@@ -10529,7 +11091,9 @@
     "template": "consultivo",
     "website": "",
     "email1": true,
-    "date1": "2026-08-03"
+    "date1": "2026-08-03",
+    "email2": true,
+    "date2": "2026-08-06"
   },
   {
     "name": "Chez Mom Cafe Bistro",
@@ -10542,7 +11106,9 @@
     "template": "prova_social",
     "website": "",
     "email1": true,
-    "date1": "2026-08-03"
+    "date1": "2026-08-03",
+    "email2": true,
+    "date2": "2026-08-06"
   },
   {
     "name": "Unica Pizzeria",
@@ -10555,7 +11121,9 @@
     "template": "pergunta",
     "website": "",
     "email1": true,
-    "date1": "2026-08-03"
+    "date1": "2026-08-03",
+    "email2": true,
+    "date2": "2026-08-06"
   },
   {
     "name": "Cantina C...Que Sabe!",
@@ -10568,7 +11136,9 @@
     "template": "pergunta",
     "website": "",
     "email1": true,
-    "date1": "2026-08-03"
+    "date1": "2026-08-03",
+    "email2": true,
+    "date2": "2026-08-06"
   },
   {
     "name": "El GuatÃ³n",
@@ -10581,7 +11151,9 @@
     "template": "consultivo",
     "website": "",
     "email1": true,
-    "date1": "2026-08-03"
+    "date1": "2026-08-03",
+    "email2": true,
+    "date2": "2026-08-06"
   },
   {
     "name": "MARIA FAROFA",
@@ -10594,7 +11166,9 @@
     "template": "pergunta",
     "website": "",
     "email1": true,
-    "date1": "2026-08-03"
+    "date1": "2026-08-03",
+    "email2": true,
+    "date2": "2026-08-06"
   },
   {
     "name": "GÃMEOS ESFIHA",
@@ -10607,7 +11181,9 @@
     "template": "pergunta",
     "website": "",
     "email1": true,
-    "date1": "2026-08-03"
+    "date1": "2026-08-03",
+    "email2": true,
+    "date2": "2026-08-06"
   },
   {
     "name": "Alternativa Casa do Natural",
@@ -10620,7 +11196,9 @@
     "template": "pergunta",
     "website": "",
     "email1": true,
-    "date1": "2026-08-03"
+    "date1": "2026-08-03",
+    "email2": true,
+    "date2": "2026-08-06"
   },
   {
     "name": "PASTEL DA MARIA",
@@ -10633,7 +11211,9 @@
     "template": "prova_social",
     "website": "",
     "email1": true,
-    "date1": "2026-08-03"
+    "date1": "2026-08-03",
+    "email2": true,
+    "date2": "2026-08-06"
   },
   {
     "name": "DARE",
@@ -10646,7 +11226,9 @@
     "template": "consultivo",
     "website": "",
     "email1": true,
-    "date1": "2026-08-03"
+    "date1": "2026-08-03",
+    "email2": true,
+    "date2": "2026-08-06"
   },
   {
     "name": "L `ENTRECÃTE DE PARIS",
@@ -10659,7 +11241,9 @@
     "template": "pergunta",
     "website": "",
     "email1": true,
-    "date1": "2026-08-03"
+    "date1": "2026-08-03",
+    "email2": true,
+    "date2": "2026-08-06"
   },
   {
     "name": "TAORMINA",
@@ -10672,7 +11256,9 @@
     "template": "prova_social",
     "website": "",
     "email1": true,
-    "date1": "2026-08-03"
+    "date1": "2026-08-03",
+    "email2": true,
+    "date2": "2026-08-06"
   },
   {
     "name": "Vinarium Antica Trattoria",
@@ -10685,7 +11271,9 @@
     "template": "pergunta",
     "website": "",
     "email1": true,
-    "date1": "2026-08-03"
+    "date1": "2026-08-03",
+    "email2": true,
+    "date2": "2026-08-06"
   },
   {
     "name": "BARNABÃ RESTAURANTE E CACHAÃARIA",
@@ -10698,7 +11286,9 @@
     "template": "prova_social",
     "website": "",
     "email1": true,
-    "date1": "2026-08-03"
+    "date1": "2026-08-03",
+    "email2": true,
+    "date2": "2026-08-06"
   },
   {
     "name": "Dialetto Ristorante",
@@ -10711,7 +11301,9 @@
     "template": "pergunta",
     "website": "",
     "email1": true,
-    "date1": "2026-08-03"
+    "date1": "2026-08-03",
+    "email2": true,
+    "date2": "2026-08-06"
   },
   {
     "name": "HOT ROD DOG",
@@ -10724,7 +11316,9 @@
     "template": "consultivo",
     "website": "",
     "email1": true,
-    "date1": "2026-08-03"
+    "date1": "2026-08-03",
+    "email2": true,
+    "date2": "2026-08-06"
   },
   {
     "name": "DOMO Sushi Bar",
@@ -10737,7 +11331,9 @@
     "template": "prova_social",
     "website": "",
     "email1": true,
-    "date1": "2026-08-03"
+    "date1": "2026-08-03",
+    "email2": true,
+    "date2": "2026-08-06"
   },
   {
     "name": "GUINZA SUSHI",
@@ -10750,7 +11346,9 @@
     "template": "consultivo",
     "website": "",
     "email1": true,
-    "date1": "2026-08-03"
+    "date1": "2026-08-03",
+    "email2": true,
+    "date2": "2026-08-06"
   },
   {
     "name": "Don Miguel Mexican Bar",
@@ -10763,7 +11361,9 @@
     "template": "pergunta",
     "website": "",
     "email1": true,
-    "date1": "2026-08-03"
+    "date1": "2026-08-03",
+    "email2": true,
+    "date2": "2026-08-06"
   },
   {
     "name": "Quintal do Izi",
@@ -10776,7 +11376,9 @@
     "template": "pergunta",
     "website": "",
     "email1": true,
-    "date1": "2026-08-03"
+    "date1": "2026-08-03",
+    "email2": true,
+    "date2": "2026-08-06"
   },
   {
     "name": "Chicken Chic",
@@ -10789,7 +11391,9 @@
     "template": "consultivo",
     "website": "",
     "email1": true,
-    "date1": "2026-08-03"
+    "date1": "2026-08-03",
+    "email2": true,
+    "date2": "2026-08-06"
   },
   {
     "name": "Padaria Lisboa",
@@ -10802,7 +11406,9 @@
     "template": "prova_social",
     "website": "",
     "email1": true,
-    "date1": "2026-08-03"
+    "date1": "2026-08-03",
+    "email2": true,
+    "date2": "2026-08-06"
   },
   {
     "name": "Padaria Monte Libano",
@@ -10815,7 +11421,9 @@
     "template": "consultivo",
     "website": "",
     "email1": true,
-    "date1": "2026-08-03"
+    "date1": "2026-08-03",
+    "email2": true,
+    "date2": "2026-08-06"
   },
   {
     "name": "Padaria GraÌo do Ipiranga",
@@ -10828,7 +11436,9 @@
     "template": "prova_social",
     "website": "",
     "email1": true,
-    "date1": "2026-08-03"
+    "date1": "2026-08-03",
+    "email2": true,
+    "date2": "2026-08-06"
   },
   {
     "name": "GRÃO FINO",
@@ -10841,7 +11451,9 @@
     "template": "consultivo",
     "website": "",
     "email1": true,
-    "date1": "2026-08-03"
+    "date1": "2026-08-03",
+    "email2": true,
+    "date2": "2026-08-06"
   },
   {
     "name": "PADARIA VILA NOVA",
@@ -10854,7 +11466,9 @@
     "template": "consultivo",
     "website": "",
     "email1": true,
-    "date1": "2026-08-03"
+    "date1": "2026-08-03",
+    "email2": true,
+    "date2": "2026-08-06"
   },
   {
     "name": "MEDITERRAIN PADARIA ARTESANAL",
@@ -10867,7 +11481,9 @@
     "template": "prova_social",
     "website": "",
     "email1": true,
-    "date1": "2026-08-03"
+    "date1": "2026-08-03",
+    "email2": true,
+    "date2": "2026-08-06"
   },
   {
     "name": "KOSUSHI",
@@ -10880,7 +11496,9 @@
     "template": "consultivo",
     "website": "",
     "email1": true,
-    "date1": "2026-08-03"
+    "date1": "2026-08-03",
+    "email2": true,
+    "date2": "2026-08-06"
   },
   {
     "name": "PAÌO - Padaria OrgaÌnica",
@@ -10893,7 +11511,9 @@
     "template": "pergunta",
     "website": "",
     "email1": true,
-    "date1": "2026-08-03"
+    "date1": "2026-08-03",
+    "email2": true,
+    "date2": "2026-08-06"
   },
   {
     "name": "Big Bread Ipiranga",
@@ -10906,7 +11526,9 @@
     "template": "pergunta",
     "website": "",
     "email1": true,
-    "date1": "2026-08-03"
+    "date1": "2026-08-03",
+    "email2": true,
+    "date2": "2026-08-06"
   },
   {
     "name": "NAGAYAMA",
@@ -10919,7 +11541,9 @@
     "template": "pergunta",
     "website": "",
     "email1": true,
-    "date1": "2026-08-03"
+    "date1": "2026-08-03",
+    "email2": true,
+    "date2": "2026-08-06"
   },
   {
     "name": "BANANA CAFE",
@@ -10932,7 +11556,9 @@
     "template": "pergunta",
     "website": "",
     "email1": true,
-    "date1": "2026-08-03"
+    "date1": "2026-08-03",
+    "email2": true,
+    "date2": "2026-08-06"
   },
   {
     "name": "Restaurante Nakka",
@@ -10945,7 +11571,9 @@
     "template": "prova_social",
     "website": "",
     "email1": true,
-    "date1": "2026-08-03"
+    "date1": "2026-08-03",
+    "email2": true,
+    "date2": "2026-08-06"
   },
   {
     "name": "EmpÃ³rio Saint Germain",
@@ -10958,7 +11586,9 @@
     "template": "prova_social",
     "website": "",
     "email1": true,
-    "date1": "2026-08-03"
+    "date1": "2026-08-03",
+    "email2": true,
+    "date2": "2026-08-06"
   },
   {
     "name": "SHIN - ZUSHI",
@@ -10971,7 +11601,9 @@
     "template": "prova_social",
     "website": "",
     "email1": true,
-    "date1": "2026-08-03"
+    "date1": "2026-08-03",
+    "email2": true,
+    "date2": "2026-08-06"
   },
   {
     "name": "Yubi BentoÌ Box",
@@ -10984,7 +11616,9 @@
     "template": "pergunta",
     "website": "",
     "email1": true,
-    "date1": "2026-08-03"
+    "date1": "2026-08-03",
+    "email2": true,
+    "date2": "2026-08-06"
   },
   {
     "name": "Toro Sushi",
@@ -10997,7 +11631,9 @@
     "template": "pergunta",
     "website": "",
     "email1": true,
-    "date1": "2026-08-03"
+    "date1": "2026-08-03",
+    "email2": true,
+    "date2": "2026-08-06"
   },
   {
     "name": "Marie Marie Bakery",
@@ -11010,7 +11646,9 @@
     "template": "consultivo",
     "website": "",
     "email1": true,
-    "date1": "2026-08-03"
+    "date1": "2026-08-03",
+    "email2": true,
+    "date2": "2026-08-06"
   },
   {
     "name": "Q'Chicha",
@@ -11023,7 +11661,9 @@
     "template": "pergunta",
     "website": "",
     "email1": true,
-    "date1": "2026-08-03"
+    "date1": "2026-08-03",
+    "email2": true,
+    "date2": "2026-08-06"
   },
   {
     "name": "PRIMÃCIA DOS PÃES",
@@ -11036,7 +11676,9 @@
     "template": "pergunta",
     "website": "",
     "email1": true,
-    "date1": "2026-08-03"
+    "date1": "2026-08-03",
+    "email2": true,
+    "date2": "2026-08-06"
   },
   {
     "name": "Piazza Zini",
@@ -11049,7 +11691,9 @@
     "template": "pergunta",
     "website": "",
     "email1": true,
-    "date1": "2026-08-03"
+    "date1": "2026-08-03",
+    "email2": true,
+    "date2": "2026-08-06"
   },
   {
     "name": "Pizzaria Dei Cugini",
@@ -11062,7 +11706,9 @@
     "template": "consultivo",
     "website": "",
     "email1": true,
-    "date1": "2026-08-03"
+    "date1": "2026-08-03",
+    "email2": true,
+    "date2": "2026-08-06"
   },
   {
     "name": "Pizzaria Marco Luccio",
@@ -11075,7 +11721,9 @@
     "template": "prova_social",
     "website": "",
     "email1": true,
-    "date1": "2026-08-03"
+    "date1": "2026-08-03",
+    "email2": true,
+    "date2": "2026-08-06"
   },
   {
     "name": "AizomeÌ Restaurante",
@@ -11088,7 +11736,9 @@
     "template": "consultivo",
     "website": "",
     "email1": true,
-    "date1": "2026-08-03"
+    "date1": "2026-08-03",
+    "email2": true,
+    "date2": "2026-08-06"
   },
   {
     "name": "Sushi Bar Hamatyo",
@@ -11101,7 +11751,9 @@
     "template": "pergunta",
     "website": "",
     "email1": true,
-    "date1": "2026-08-03"
+    "date1": "2026-08-03",
+    "email2": true,
+    "date2": "2026-08-06"
   },
   {
     "name": "PAPILA DELI",
@@ -11114,7 +11766,9 @@
     "template": "consultivo",
     "website": "",
     "email1": true,
-    "date1": "2026-08-03"
+    "date1": "2026-08-03",
+    "email2": true,
+    "date2": "2026-08-06"
   },
   {
     "name": "Sapore & Art Pizzaria",
@@ -11127,7 +11781,9 @@
     "template": "consultivo",
     "website": "",
     "email1": true,
-    "date1": "2026-08-03"
+    "date1": "2026-08-03",
+    "email2": true,
+    "date2": "2026-08-06"
   },
   {
     "name": "Jullia Pizza Bar",
@@ -11140,7 +11796,9 @@
     "template": "prova_social",
     "website": "",
     "email1": true,
-    "date1": "2026-08-03"
+    "date1": "2026-08-03",
+    "email2": true,
+    "date2": "2026-08-06"
   },
   {
     "name": "ð»ð´ð¶ð¶ð´ðð° ð¿ð¸ððð° ð½ð...",
@@ -11153,7 +11811,9 @@
     "template": "consultivo",
     "website": "",
     "email1": true,
-    "date1": "2026-08-03"
+    "date1": "2026-08-03",
+    "email2": true,
+    "date2": "2026-08-06"
   },
   {
     "name": "MEIME PIZZARIA",
@@ -11166,7 +11826,9 @@
     "template": "pergunta",
     "website": "",
     "email1": true,
-    "date1": "2026-08-03"
+    "date1": "2026-08-03",
+    "email2": true,
+    "date2": "2026-08-06"
   },
   {
     "name": "Veridiana Pizzaria",
@@ -11179,7 +11841,9 @@
     "template": "pergunta",
     "website": "",
     "email1": true,
-    "date1": "2026-08-03"
+    "date1": "2026-08-03",
+    "email2": true,
+    "date2": "2026-08-06"
   },
   {
     "name": "Moinho Pizzaria",
@@ -11192,7 +11856,9 @@
     "template": "pergunta",
     "website": "",
     "email1": true,
-    "date1": "2026-08-03"
+    "date1": "2026-08-03",
+    "email2": true,
+    "date2": "2026-08-06"
   },
   {
     "name": "Toshiro Sushi",
@@ -11205,7 +11871,9 @@
     "template": "consultivo",
     "website": "",
     "email1": true,
-    "date1": "2026-08-03"
+    "date1": "2026-08-03",
+    "email2": true,
+    "date2": "2026-08-06"
   },
   {
     "name": "Panificadora SÃ£o Paulo da Cruz",
@@ -11218,7 +11886,9 @@
     "template": "consultivo",
     "website": "",
     "email1": true,
-    "date1": "2026-08-03"
+    "date1": "2026-08-03",
+    "email2": true,
+    "date2": "2026-08-06"
   },
   {
     "name": "Styllos Panificadora",
@@ -11231,7 +11901,9 @@
     "template": "pergunta",
     "website": "",
     "email1": true,
-    "date1": "2026-08-03"
+    "date1": "2026-08-03",
+    "email2": true,
+    "date2": "2026-08-06"
   },
   {
     "name": "Padaria Flor Da Tiburcio",
@@ -11244,7 +11916,9 @@
     "template": "pergunta",
     "website": "",
     "email1": true,
-    "date1": "2026-08-03"
+    "date1": "2026-08-03",
+    "email2": true,
+    "date2": "2026-08-06"
   },
   {
     "name": "Padaria OrquÃ­dea PÃ©rola",
@@ -11257,7 +11931,9 @@
     "template": "consultivo",
     "website": "",
     "email1": true,
-    "date1": "2026-08-03"
+    "date1": "2026-08-03",
+    "email2": true,
+    "date2": "2026-08-06"
   },
   {
     "name": "Sorvetes Copa De Prata",
@@ -11270,7 +11946,9 @@
     "template": "consultivo",
     "website": "",
     "email1": true,
-    "date1": "2026-08-03"
+    "date1": "2026-08-03",
+    "email2": true,
+    "date2": "2026-08-06"
   },
   {
     "name": "Tanti Gusti",
@@ -11283,7 +11961,9 @@
     "template": "consultivo",
     "website": "",
     "email1": true,
-    "date1": "2026-08-03"
+    "date1": "2026-08-03",
+    "email2": true,
+    "date2": "2026-08-06"
   },
   {
     "name": "LE BOTTEGHE DI LEONARDO",
@@ -11296,7 +11976,9 @@
     "template": "consultivo",
     "website": "",
     "email1": true,
-    "date1": "2026-08-03"
+    "date1": "2026-08-03",
+    "email2": true,
+    "date2": "2026-08-06"
   },
   {
     "name": "Padaria Bandeirantes V",
@@ -11309,7 +11991,9 @@
     "template": "pergunta",
     "website": "",
     "email1": true,
-    "date1": "2026-08-03"
+    "date1": "2026-08-03",
+    "email2": true,
+    "date2": "2026-08-06"
   },
   {
     "name": "PÃ£o do Parque",
@@ -11322,7 +12006,9 @@
     "template": "pergunta",
     "website": "",
     "email1": true,
-    "date1": "2026-08-03"
+    "date1": "2026-08-03",
+    "email2": true,
+    "date2": "2026-08-06"
   },
   {
     "name": "ARABIAN MIX FOOD",
@@ -11335,7 +12021,9 @@
     "template": "prova_social",
     "website": "",
     "email1": true,
-    "date1": "2026-08-03"
+    "date1": "2026-08-03",
+    "email2": true,
+    "date2": "2026-08-06"
   },
   {
     "name": "A PADEIRA",
@@ -11348,7 +12036,9 @@
     "template": "pergunta",
     "website": "",
     "email1": true,
-    "date1": "2026-08-03"
+    "date1": "2026-08-03",
+    "email2": true,
+    "date2": "2026-08-06"
   },
   {
     "name": "A BAIANEIRA",
@@ -11361,7 +12051,9 @@
     "template": "pergunta",
     "website": "",
     "email1": true,
-    "date1": "2026-08-03"
+    "date1": "2026-08-03",
+    "email2": true,
+    "date2": "2026-08-06"
   },
   {
     "name": "Julice BoulangeÌre",
@@ -11374,7 +12066,9 @@
     "template": "pergunta",
     "website": "",
     "email1": true,
-    "date1": "2026-08-03"
+    "date1": "2026-08-03",
+    "email2": true,
+    "date2": "2026-08-06"
   },
   {
     "name": "Dona Carmela",
@@ -11387,7 +12081,9 @@
     "template": "pergunta",
     "website": "",
     "email1": true,
-    "date1": "2026-08-03"
+    "date1": "2026-08-03",
+    "email2": true,
+    "date2": "2026-08-06"
   },
   {
     "name": "CongolinÃ¡ria",
@@ -11400,7 +12096,9 @@
     "template": "prova_social",
     "website": "",
     "email1": true,
-    "date1": "2026-08-03"
+    "date1": "2026-08-03",
+    "email2": true,
+    "date2": "2026-08-06"
   },
   {
     "name": "DULCA CONFEITARIA",
@@ -11413,7 +12111,9 @@
     "template": "consultivo",
     "website": "",
     "email1": true,
-    "date1": "2026-08-03"
+    "date1": "2026-08-03",
+    "email2": true,
+    "date2": "2026-08-06"
   },
   {
     "name": "Pizzaria Camelo",
@@ -11426,7 +12126,9 @@
     "template": "pergunta",
     "website": "",
     "email1": true,
-    "date1": "2026-08-03"
+    "date1": "2026-08-03",
+    "email2": true,
+    "date2": "2026-08-06"
   },
   {
     "name": "Beyti Restaurante",
@@ -11439,7 +12141,9 @@
     "template": "prova_social",
     "website": "",
     "email1": true,
-    "date1": "2026-08-03"
+    "date1": "2026-08-03",
+    "email2": true,
+    "date2": "2026-08-06"
   },
   {
     "name": "Calhandra - Chopperia e Restaurante",
@@ -11452,7 +12156,9 @@
     "template": "pergunta",
     "website": "",
     "email1": true,
-    "date1": "2026-08-03"
+    "date1": "2026-08-03",
+    "email2": true,
+    "date2": "2026-08-06"
   },
   {
     "name": "CAFÃ CREME",
@@ -11465,7 +12171,9 @@
     "template": "consultivo",
     "website": "",
     "email1": true,
-    "date1": "2026-08-03"
+    "date1": "2026-08-03",
+    "email2": true,
+    "date2": "2026-08-06"
   },
   {
     "name": "Cantina Luna di Capri",
@@ -11478,7 +12186,9 @@
     "template": "prova_social",
     "website": "",
     "email1": true,
-    "date1": "2026-08-03"
+    "date1": "2026-08-03",
+    "email2": true,
+    "date2": "2026-08-06"
   },
   {
     "name": "DONA LUCINHA",
@@ -11491,7 +12201,9 @@
     "template": "consultivo",
     "website": "",
     "email1": true,
-    "date1": "2026-08-03"
+    "date1": "2026-08-03",
+    "email2": true,
+    "date2": "2026-08-06"
   },
   {
     "name": "CANAILLE BAR",
@@ -11504,7 +12216,9 @@
     "template": "prova_social",
     "website": "",
     "email1": true,
-    "date1": "2026-08-03"
+    "date1": "2026-08-03",
+    "email2": true,
+    "date2": "2026-08-06"
   },
   {
     "name": "FAMIGLIA MANCINI",
@@ -11517,7 +12231,9 @@
     "template": "prova_social",
     "website": "",
     "email1": true,
-    "date1": "2026-08-03"
+    "date1": "2026-08-03",
+    "email2": true,
+    "date2": "2026-08-06"
   },
   {
     "name": "Via Castelli Restaurante",
@@ -11530,7 +12246,9 @@
     "template": "consultivo",
     "website": "",
     "email1": true,
-    "date1": "2026-08-03"
+    "date1": "2026-08-03",
+    "email2": true,
+    "date2": "2026-08-06"
   },
   {
     "name": "O Rei na Barriga",
@@ -11543,7 +12261,9 @@
     "template": "prova_social",
     "website": "",
     "email1": true,
-    "date1": "2026-08-03"
+    "date1": "2026-08-03",
+    "email2": true,
+    "date2": "2026-08-06"
   },
   {
     "name": "Picanharia do GaÃºcho",
@@ -11556,7 +12276,9 @@
     "template": "prova_social",
     "website": "",
     "email1": true,
-    "date1": "2026-08-03"
+    "date1": "2026-08-03",
+    "email2": true,
+    "date2": "2026-08-06"
   },
   {
     "name": "OCTAVIO CAFÃ",
@@ -11569,7 +12291,9 @@
     "template": "prova_social",
     "website": "",
     "email1": true,
-    "date1": "2026-08-03"
+    "date1": "2026-08-03",
+    "email2": true,
+    "date2": "2026-08-06"
   },
   {
     "name": "Zena CaffÃ©",
@@ -11582,7 +12306,9 @@
     "template": "pergunta",
     "website": "",
     "email1": true,
-    "date1": "2026-08-03"
+    "date1": "2026-08-03",
+    "email2": true,
+    "date2": "2026-08-06"
   },
   {
     "name": "RANCHO PORTUGUÃS",
@@ -11595,7 +12321,9 @@
     "template": "consultivo",
     "website": "",
     "email1": true,
-    "date1": "2026-08-03"
+    "date1": "2026-08-03",
+    "email2": true,
+    "date2": "2026-08-06"
   },
   {
     "name": "RITZ",
@@ -11608,7 +12336,9 @@
     "template": "prova_social",
     "website": "",
     "email1": true,
-    "date1": "2026-08-03"
+    "date1": "2026-08-03",
+    "email2": true,
+    "date2": "2026-08-06"
   },
   {
     "name": "ÃCLAIR MOI",
@@ -11621,7 +12351,9 @@
     "template": "consultivo",
     "website": "",
     "email1": true,
-    "date1": "2026-08-03"
+    "date1": "2026-08-03",
+    "email2": true,
+    "date2": "2026-08-06"
   },
   {
     "name": "Bonde Paulista Pizzas",
@@ -11634,7 +12366,9 @@
     "template": "pergunta",
     "website": "",
     "email1": true,
-    "date1": "2026-08-03"
+    "date1": "2026-08-03",
+    "email2": true,
+    "date2": "2026-08-06"
   },
   {
     "name": "JARDIM DE NAPOLI",
@@ -11647,7 +12381,9 @@
     "template": "prova_social",
     "website": "",
     "email1": true,
-    "date1": "2026-08-03"
+    "date1": "2026-08-03",
+    "email2": true,
+    "date2": "2026-08-06"
   },
   {
     "name": "Barakah",
@@ -11660,7 +12396,9 @@
     "template": "pergunta",
     "website": "",
     "email1": true,
-    "date1": "2026-08-03"
+    "date1": "2026-08-03",
+    "email2": true,
+    "date2": "2026-08-06"
   },
   {
     "name": "Doce Fatia Delicatessen",
@@ -11673,7 +12411,9 @@
     "template": "consultivo",
     "website": "",
     "email1": true,
-    "date1": "2026-08-03"
+    "date1": "2026-08-03",
+    "email2": true,
+    "date2": "2026-08-06"
   },
   {
     "name": "Canto da Mata Forneria",
@@ -11686,7 +12426,9 @@
     "template": "pergunta",
     "website": "",
     "email1": true,
-    "date1": "2026-08-03"
+    "date1": "2026-08-03",
+    "email2": true,
+    "date2": "2026-08-06"
   },
   {
     "name": "VITUCCIO PIZZERIA",
@@ -11699,7 +12441,9 @@
     "template": "prova_social",
     "website": "",
     "email1": true,
-    "date1": "2026-08-03"
+    "date1": "2026-08-03",
+    "email2": true,
+    "date2": "2026-08-06"
   },
   {
     "name": "JET PIZZAS",
@@ -11712,7 +12456,9 @@
     "template": "pergunta",
     "website": "",
     "email1": true,
-    "date1": "2026-08-03"
+    "date1": "2026-08-03",
+    "email2": true,
+    "date2": "2026-08-06"
   },
   {
     "name": "HIDEKI RESTAURANTE",
@@ -11725,7 +12471,9 @@
     "template": "pergunta",
     "website": "",
     "email1": true,
-    "date1": "2026-08-03"
+    "date1": "2026-08-03",
+    "email2": true,
+    "date2": "2026-08-06"
   },
   {
     "name": "Ambrosio Cozinha Afetiva",
@@ -11738,7 +12486,9 @@
     "template": "consultivo",
     "website": "",
     "email1": true,
-    "date1": "2026-08-03"
+    "date1": "2026-08-03",
+    "email2": true,
+    "date2": "2026-08-06"
   },
   {
     "name": "Restaurante e Pizzaria Chaplin",
@@ -11751,7 +12501,9 @@
     "template": "prova_social",
     "website": "",
     "email1": true,
-    "date1": "2026-08-03"
+    "date1": "2026-08-03",
+    "email2": true,
+    "date2": "2026-08-06"
   },
   {
     "name": "AOYAMA",
@@ -11764,7 +12516,9 @@
     "template": "consultivo",
     "website": "",
     "email1": true,
-    "date1": "2026-08-03"
+    "date1": "2026-08-03",
+    "email2": true,
+    "date2": "2026-08-06"
   },
   {
     "name": "Charles Pizzaria",
@@ -11777,7 +12531,9 @@
     "template": "consultivo",
     "website": "",
     "email1": true,
-    "date1": "2026-08-03"
+    "date1": "2026-08-03",
+    "email2": true,
+    "date2": "2026-08-06"
   },
   {
     "name": "MESTRE MAKI SUSHIS",
@@ -11790,7 +12546,9 @@
     "template": "pergunta",
     "website": "",
     "email1": true,
-    "date1": "2026-08-03"
+    "date1": "2026-08-03",
+    "email2": true,
+    "date2": "2026-08-06"
   },
   {
     "name": "Uokatsu Sushi Bar",
@@ -11803,7 +12561,9 @@
     "template": "prova_social",
     "website": "",
     "email1": true,
-    "date1": "2026-08-03"
+    "date1": "2026-08-03",
+    "email2": true,
+    "date2": "2026-08-06"
   },
   {
     "name": "BAR DO ALEMÃO",
@@ -11816,7 +12576,9 @@
     "template": "consultivo",
     "website": "",
     "email1": true,
-    "date1": "2026-08-03"
+    "date1": "2026-08-03",
+    "email2": true,
+    "date2": "2026-08-06"
   },
   {
     "name": "SassÃ¡ Sushi",
@@ -11829,7 +12591,9 @@
     "template": "pergunta",
     "website": "",
     "email1": true,
-    "date1": "2026-08-03"
+    "date1": "2026-08-03",
+    "email2": true,
+    "date2": "2026-08-06"
   },
   {
     "name": "Diavola",
@@ -11842,7 +12606,9 @@
     "template": "pergunta",
     "website": "",
     "email1": true,
-    "date1": "2026-08-03"
+    "date1": "2026-08-03",
+    "email2": true,
+    "date2": "2026-08-06"
   },
   {
     "name": "Niwa Sushi",
@@ -11855,7 +12621,9 @@
     "template": "prova_social",
     "website": "",
     "email1": true,
-    "date1": "2026-08-03"
+    "date1": "2026-08-03",
+    "email2": true,
+    "date2": "2026-08-06"
   },
   {
     "name": "Sweet Cake",
@@ -11868,7 +12636,9 @@
     "template": "prova_social",
     "website": "",
     "email1": true,
-    "date1": "2026-08-03"
+    "date1": "2026-08-03",
+    "email2": true,
+    "date2": "2026-08-06"
   },
   {
     "name": "HAMBURGOOOL",
@@ -11881,7 +12651,9 @@
     "template": "pergunta",
     "website": "",
     "email1": true,
-    "date1": "2026-08-03"
+    "date1": "2026-08-03",
+    "email2": true,
+    "date2": "2026-08-06"
   },
   {
     "name": "EL TRANVÃA",
@@ -11894,7 +12666,9 @@
     "template": "consultivo",
     "website": "",
     "email1": true,
-    "date1": "2026-08-03"
+    "date1": "2026-08-03",
+    "email2": true,
+    "date2": "2026-08-06"
   },
   {
     "name": "YAKITORI",
@@ -11907,7 +12681,9 @@
     "template": "prova_social",
     "website": "",
     "email1": true,
-    "date1": "2026-08-03"
+    "date1": "2026-08-03",
+    "email2": true,
+    "date2": "2026-08-06"
   },
   {
     "name": "ZENSEI SUSHI SBC",
@@ -11920,7 +12696,9 @@
     "template": "pergunta",
     "website": "",
     "email1": true,
-    "date1": "2026-08-03"
+    "date1": "2026-08-03",
+    "email2": true,
+    "date2": "2026-08-06"
   },
   {
     "name": "Mei Mei CulinaÌria AsiaÌtica",
@@ -11933,7 +12711,9 @@
     "template": "pergunta",
     "website": "",
     "email1": true,
-    "date1": "2026-08-03"
+    "date1": "2026-08-03",
+    "email2": true,
+    "date2": "2026-08-06"
   },
   {
     "name": "HABAÃERO BAR E RESTAURANTE DAS AMÃRICAS",
@@ -11946,7 +12726,9 @@
     "template": "prova_social",
     "website": "",
     "email1": true,
-    "date1": "2026-08-03"
+    "date1": "2026-08-03",
+    "email2": true,
+    "date2": "2026-08-06"
   },
   {
     "name": "RYO GASTRONOMIA",
@@ -11959,7 +12741,9 @@
     "template": "pergunta",
     "website": "",
     "email1": true,
-    "date1": "2026-08-03"
+    "date1": "2026-08-03",
+    "email2": true,
+    "date2": "2026-08-06"
   },
   {
     "name": "FARABBUD",
@@ -11972,7 +12756,9 @@
     "template": "pergunta",
     "website": "",
     "email1": true,
-    "date1": "2026-08-03"
+    "date1": "2026-08-03",
+    "email2": true,
+    "date2": "2026-08-06"
   },
   {
     "name": "Nossa Casa Padaria",
@@ -11985,7 +12771,9 @@
     "template": "pergunta",
     "website": "",
     "email1": true,
-    "date1": "2026-08-03"
+    "date1": "2026-08-03",
+    "email2": true,
+    "date2": "2026-08-06"
   },
   {
     "name": "Padaria Baronesa",
@@ -11998,7 +12786,9 @@
     "template": "consultivo",
     "website": "",
     "email1": true,
-    "date1": "2026-08-03"
+    "date1": "2026-08-03",
+    "email2": true,
+    "date2": "2026-08-06"
   },
   {
     "name": "Corrientes 348",
@@ -12011,7 +12801,9 @@
     "template": "pergunta",
     "website": "",
     "email1": true,
-    "date1": "2026-08-03"
+    "date1": "2026-08-03",
+    "email2": true,
+    "date2": "2026-08-06"
   },
   {
     "name": "MANTEIGARIA LISBOA",
@@ -12024,7 +12816,9 @@
     "template": "pergunta",
     "website": "",
     "email1": true,
-    "date1": "2026-08-03"
+    "date1": "2026-08-03",
+    "email2": true,
+    "date2": "2026-08-06"
   },
   {
     "name": "TENDALL GRILL",
@@ -12037,7 +12831,9 @@
     "template": "consultivo",
     "website": "",
     "email1": true,
-    "date1": "2026-08-03"
+    "date1": "2026-08-03",
+    "email2": true,
+    "date2": "2026-08-06"
   },
   {
     "name": "Consulado da Bahia",
@@ -12050,7 +12846,9 @@
     "template": "pergunta",
     "website": "",
     "email1": true,
-    "date1": "2026-08-03"
+    "date1": "2026-08-03",
+    "email2": true,
+    "date2": "2026-08-06"
   },
   {
     "name": "CRISTALLO",
@@ -12063,7 +12861,9 @@
     "template": "pergunta",
     "website": "",
     "email1": true,
-    "date1": "2026-08-03"
+    "date1": "2026-08-03",
+    "email2": true,
+    "date2": "2026-08-06"
   },
   {
     "name": "Cervejaria Patriarca",
@@ -12076,7 +12876,9 @@
     "template": "pergunta",
     "website": "",
     "email1": true,
-    "date1": "2026-08-03"
+    "date1": "2026-08-03",
+    "email2": true,
+    "date2": "2026-08-06"
   },
   {
     "name": "COCO BAMBU",
@@ -12089,7 +12891,9 @@
     "template": "consultivo",
     "website": "",
     "email1": true,
-    "date1": "2026-08-03"
+    "date1": "2026-08-03",
+    "email2": true,
+    "date2": "2026-08-06"
   },
   {
     "name": "Padaria do Mosteiro SaÌo Bento",
@@ -12102,7 +12906,9 @@
     "template": "consultivo",
     "website": "",
     "email1": true,
-    "date1": "2026-08-03"
+    "date1": "2026-08-03",
+    "email2": true,
+    "date2": "2026-08-06"
   },
   {
     "name": "PADARIA DA ESQUINA",
@@ -12115,7 +12921,9 @@
     "template": "pergunta",
     "website": "",
     "email1": true,
-    "date1": "2026-08-03"
+    "date1": "2026-08-03",
+    "email2": true,
+    "date2": "2026-08-06"
   },
   {
     "name": "Pizzeria Piarello Perdizes SP",
@@ -12128,7 +12936,9 @@
     "template": "pergunta",
     "website": "",
     "email1": true,
-    "date1": "2026-08-03"
+    "date1": "2026-08-03",
+    "email2": true,
+    "date2": "2026-08-06"
   },
   {
     "name": "MAGIC CHICKEN",
@@ -12141,7 +12951,9 @@
     "template": "prova_social",
     "website": "",
     "email1": true,
-    "date1": "2026-08-03"
+    "date1": "2026-08-03",
+    "email2": true,
+    "date2": "2026-08-06"
   },
   {
     "name": "Espaco Tambiu",
@@ -12154,7 +12966,9 @@
     "template": "pergunta",
     "website": "",
     "email1": true,
-    "date1": "2026-08-03"
+    "date1": "2026-08-03",
+    "email2": true,
+    "date2": "2026-08-06"
   },
   {
     "name": "Salada Grill Comida Brasileira",
@@ -12167,7 +12981,9 @@
     "template": "consultivo",
     "website": "",
     "email1": true,
-    "date1": "2026-08-03"
+    "date1": "2026-08-03",
+    "email2": true,
+    "date2": "2026-08-06"
   },
   {
     "name": "Bolinha Restaurante",
@@ -12180,7 +12996,9 @@
     "template": "consultivo",
     "website": "",
     "email1": true,
-    "date1": "2026-08-03"
+    "date1": "2026-08-03",
+    "email2": true,
+    "date2": "2026-08-06"
   },
   {
     "name": "TARTELIER",
@@ -12193,7 +13011,9 @@
     "template": "prova_social",
     "website": "",
     "email1": true,
-    "date1": "2026-08-03"
+    "date1": "2026-08-03",
+    "email2": true,
+    "date2": "2026-08-06"
   },
   {
     "name": "LANCHONETE SALSICHÃO",
@@ -12206,7 +13026,9 @@
     "template": "prova_social",
     "website": "",
     "email1": true,
-    "date1": "2026-08-03"
+    "date1": "2026-08-03",
+    "email2": true,
+    "date2": "2026-08-06"
   },
   {
     "name": "TATINI",
@@ -12219,7 +13041,9 @@
     "template": "pergunta",
     "website": "",
     "email1": true,
-    "date1": "2026-08-03"
+    "date1": "2026-08-03",
+    "email2": true,
+    "date2": "2026-08-06"
   },
   {
     "name": "LOUP",
@@ -12232,7 +13056,9 @@
     "template": "pergunta",
     "website": "",
     "email1": true,
-    "date1": "2026-08-03"
+    "date1": "2026-08-03",
+    "email2": true,
+    "date2": "2026-08-06"
   },
   {
     "name": "IKKOUSHA",
@@ -12245,7 +13071,9 @@
     "template": "prova_social",
     "website": "",
     "email1": true,
-    "date1": "2026-08-03"
+    "date1": "2026-08-03",
+    "email2": true,
+    "date2": "2026-08-06"
   },
   {
     "name": "SURI CEVICHE BAR",
@@ -12258,7 +13086,9 @@
     "template": "consultivo",
     "website": "",
     "email1": true,
-    "date1": "2026-08-03"
+    "date1": "2026-08-03",
+    "email2": true,
+    "date2": "2026-08-06"
   },
   {
     "name": "SUSHI ISAO",
@@ -12271,7 +13101,9 @@
     "template": "prova_social",
     "website": "",
     "email1": true,
-    "date1": "2026-08-03"
+    "date1": "2026-08-03",
+    "email2": true,
+    "date2": "2026-08-06"
   },
   {
     "name": "Joy Sushi",
@@ -12284,7 +13116,9 @@
     "template": "prova_social",
     "website": "",
     "email1": true,
-    "date1": "2026-08-03"
+    "date1": "2026-08-03",
+    "email2": true,
+    "date2": "2026-08-06"
   },
   {
     "name": "Buonissimo Pizza italiana",
@@ -12297,7 +13131,9 @@
     "template": "prova_social",
     "website": "",
     "email1": true,
-    "date1": "2026-08-03"
+    "date1": "2026-08-03",
+    "email2": true,
+    "date2": "2026-08-06"
   },
   {
     "name": "ITOKO CULINÃRIA JAPONESA",
@@ -12310,7 +13146,9 @@
     "template": "consultivo",
     "website": "",
     "email1": true,
-    "date1": "2026-08-03"
+    "date1": "2026-08-03",
+    "email2": true,
+    "date2": "2026-08-06"
   },
   {
     "name": "ZENI SUSHI",
@@ -12323,7 +13161,9 @@
     "template": "prova_social",
     "website": "",
     "email1": true,
-    "date1": "2026-08-03"
+    "date1": "2026-08-03",
+    "email2": true,
+    "date2": "2026-08-06"
   },
   {
     "name": "Le Jazz Brasserie",
@@ -12336,7 +13176,9 @@
     "template": "pergunta",
     "website": "",
     "email1": true,
-    "date1": "2026-08-03"
+    "date1": "2026-08-03",
+    "email2": true,
+    "date2": "2026-08-06"
   },
   {
     "name": "Vila Tupiniquim",
@@ -12349,7 +13191,9 @@
     "template": "pergunta",
     "website": "",
     "email1": true,
-    "date1": "2026-08-03"
+    "date1": "2026-08-03",
+    "email2": true,
+    "date2": "2026-08-06"
   },
   {
     "name": "SERTÃ",
@@ -12362,7 +13206,9 @@
     "template": "consultivo",
     "website": "",
     "email1": true,
-    "date1": "2026-08-03"
+    "date1": "2026-08-03",
+    "email2": true,
+    "date2": "2026-08-06"
   },
   {
     "name": "DA FEIRA AO BAILE",
@@ -12375,7 +13221,9 @@
     "template": "prova_social",
     "website": "",
     "email1": true,
-    "date1": "2026-08-03"
+    "date1": "2026-08-03",
+    "email2": true,
+    "date2": "2026-08-06"
   },
   {
     "name": "Banqueta Coquetelaria",
@@ -12388,7 +13236,9 @@
     "template": "prova_social",
     "website": "",
     "email1": true,
-    "date1": "2026-08-03"
+    "date1": "2026-08-03",
+    "email2": true,
+    "date2": "2026-08-06"
   },
   {
     "name": "QUITO QUITO IZAKAYA",
@@ -12401,7 +13251,9 @@
     "template": "prova_social",
     "website": "",
     "email1": true,
-    "date1": "2026-08-03"
+    "date1": "2026-08-03",
+    "email2": true,
+    "date2": "2026-08-06"
   },
   {
     "name": "YOSHI IZAKAYA",
@@ -12414,7 +13266,9 @@
     "template": "consultivo",
     "website": "",
     "email1": true,
-    "date1": "2026-08-03"
+    "date1": "2026-08-03",
+    "email2": true,
+    "date2": "2026-08-06"
   },
   {
     "name": "Yorimichi Izakaya",
@@ -12427,7 +13281,9 @@
     "template": "pergunta",
     "website": "",
     "email1": true,
-    "date1": "2026-08-03"
+    "date1": "2026-08-03",
+    "email2": true,
+    "date2": "2026-08-06"
   },
   {
     "name": "BistrÃ´ Faria Lima",
@@ -12440,7 +13296,9 @@
     "template": "consultivo",
     "website": "",
     "email1": true,
-    "date1": "2026-08-03"
+    "date1": "2026-08-03",
+    "email2": true,
+    "date2": "2026-08-06"
   },
   {
     "name": "Paellas Pepe",
@@ -12453,7 +13311,9 @@
     "template": "pergunta",
     "website": "",
     "email1": true,
-    "date1": "2026-08-03"
+    "date1": "2026-08-03",
+    "email2": true,
+    "date2": "2026-08-06"
   },
   {
     "name": "DONA DOCEIRA",
@@ -12466,7 +13326,9 @@
     "template": "consultivo",
     "website": "",
     "email1": true,
-    "date1": "2026-08-03"
+    "date1": "2026-08-03",
+    "email2": true,
+    "date2": "2026-08-06"
   },
   {
     "name": "PANRICO",
@@ -12479,7 +13341,9 @@
     "template": "consultivo",
     "website": "",
     "email1": true,
-    "date1": "2026-08-03"
+    "date1": "2026-08-03",
+    "email2": true,
+    "date2": "2026-08-06"
   },
   {
     "name": "Cantina Gigio",
@@ -12492,7 +13356,9 @@
     "template": "prova_social",
     "website": "",
     "email1": true,
-    "date1": "2026-08-03"
+    "date1": "2026-08-03",
+    "email2": true,
+    "date2": "2026-08-06"
   },
   {
     "name": "Doceria Rosa de Saron",
@@ -12505,7 +13371,9 @@
     "template": "prova_social",
     "website": "",
     "email1": true,
-    "date1": "2026-08-03"
+    "date1": "2026-08-03",
+    "email2": true,
+    "date2": "2026-08-06"
   },
   {
     "name": "BASSANO RESTAURANTE",
@@ -12518,7 +13386,9 @@
     "template": "consultivo",
     "website": "",
     "email1": true,
-    "date1": "2026-08-03"
+    "date1": "2026-08-03",
+    "email2": true,
+    "date2": "2026-08-06"
   },
   {
     "name": "La Caballeriza",
@@ -12531,7 +13401,9 @@
     "template": "prova_social",
     "website": "",
     "email1": true,
-    "date1": "2026-08-03"
+    "date1": "2026-08-03",
+    "email2": true,
+    "date2": "2026-08-06"
   },
   {
     "name": "La Nouba Bistro",
@@ -12544,7 +13416,9 @@
     "template": "consultivo",
     "website": "",
     "email1": true,
-    "date1": "2026-08-03"
+    "date1": "2026-08-03",
+    "email2": true,
+    "date2": "2026-08-06"
   },
   {
     "name": "Dib Especialidades Ãrabes",
@@ -12557,7 +13431,9 @@
     "template": "pergunta",
     "website": "",
     "email1": true,
-    "date1": "2026-08-03"
+    "date1": "2026-08-03",
+    "email2": true,
+    "date2": "2026-08-06"
   },
   {
     "name": "BLACK ROCK BURGER & BEER",
@@ -12570,7 +13446,9 @@
     "template": "prova_social",
     "website": "",
     "email1": true,
-    "date1": "2026-08-03"
+    "date1": "2026-08-03",
+    "email2": true,
+    "date2": "2026-08-06"
   },
   {
     "name": "BRUTTUS BURGER",
@@ -12583,7 +13461,9 @@
     "template": "consultivo",
     "website": "",
     "email1": true,
-    "date1": "2026-08-03"
+    "date1": "2026-08-03",
+    "email2": true,
+    "date2": "2026-08-06"
   },
   {
     "name": "BRUTTUS BURGER",
@@ -12596,7 +13476,9 @@
     "template": "pergunta",
     "website": "",
     "email1": true,
-    "date1": "2026-08-03"
+    "date1": "2026-08-03",
+    "email2": true,
+    "date2": "2026-08-06"
   },
   {
     "name": "CALL OF BURGER",
@@ -12609,7 +13491,9 @@
     "template": "pergunta",
     "website": "",
     "email1": true,
-    "date1": "2026-08-03"
+    "date1": "2026-08-03",
+    "email2": true,
+    "date2": "2026-08-06"
   },
   {
     "name": "LUZ, CÃMERA, BURGER!",
@@ -12622,7 +13506,9 @@
     "template": "prova_social",
     "website": "",
     "email1": true,
-    "date1": "2026-08-03"
+    "date1": "2026-08-03",
+    "email2": true,
+    "date2": "2026-08-06"
   },
   {
     "name": "BUZINA BURGERS",
@@ -12635,7 +13521,9 @@
     "template": "prova_social",
     "website": "",
     "email1": true,
-    "date1": "2026-08-03"
+    "date1": "2026-08-03",
+    "email2": true,
+    "date2": "2026-08-06"
   },
   {
     "name": "TUNEZ BURGER",
@@ -12648,7 +13536,9 @@
     "template": "pergunta",
     "website": "",
     "email1": true,
-    "date1": "2026-08-03"
+    "date1": "2026-08-03",
+    "email2": true,
+    "date2": "2026-08-06"
   },
   {
     "name": "It Burger",
@@ -12661,7 +13551,9 @@
     "template": "pergunta",
     "website": "",
     "email1": true,
-    "date1": "2026-08-03"
+    "date1": "2026-08-03",
+    "email2": true,
+    "date2": "2026-08-06"
   },
   {
     "name": "A CHAPA HAMBURGERS",
@@ -12674,7 +13566,9 @@
     "template": "consultivo",
     "website": "",
     "email1": true,
-    "date1": "2026-08-03"
+    "date1": "2026-08-03",
+    "email2": true,
+    "date2": "2026-08-06"
   },
   {
     "name": "GENERAL PRIME BURGER",
@@ -12687,7 +13581,9 @@
     "template": "consultivo",
     "website": "",
     "email1": true,
-    "date1": "2026-08-03"
+    "date1": "2026-08-03",
+    "email2": true,
+    "date2": "2026-08-06"
   },
   {
     "name": "I LOVE BURGER",
@@ -12700,7 +13596,9 @@
     "template": "consultivo",
     "website": "",
     "email1": true,
-    "date1": "2026-08-03"
+    "date1": "2026-08-03",
+    "email2": true,
+    "date2": "2026-08-06"
   },
   {
     "name": "James' Burger Mate e Fritas",
@@ -12713,7 +13611,9 @@
     "template": "consultivo",
     "website": "",
     "email1": true,
-    "date1": "2026-08-03"
+    "date1": "2026-08-03",
+    "email2": true,
+    "date2": "2026-08-06"
   },
   {
     "name": "Five Burguer",
@@ -12726,7 +13626,9 @@
     "template": "consultivo",
     "website": "",
     "email1": true,
-    "date1": "2026-08-03"
+    "date1": "2026-08-03",
+    "email2": true,
+    "date2": "2026-08-06"
   },
   {
     "name": "DCK BURGER",
@@ -12739,7 +13641,9 @@
     "template": "prova_social",
     "website": "",
     "email1": true,
-    "date1": "2026-08-03"
+    "date1": "2026-08-03",
+    "email2": true,
+    "date2": "2026-08-06"
   },
   {
     "name": "TAVERNA MEDIEVAL",
@@ -12752,7 +13656,9 @@
     "template": "consultivo",
     "website": "",
     "email1": true,
-    "date1": "2026-08-03"
+    "date1": "2026-08-03",
+    "email2": true,
+    "date2": "2026-08-06"
   },
   {
     "name": "SOUK BURGER",
@@ -12765,7 +13671,9 @@
     "template": "prova_social",
     "website": "",
     "email1": true,
-    "date1": "2026-08-03"
+    "date1": "2026-08-03",
+    "email2": true,
+    "date2": "2026-08-06"
   },
   {
     "name": "Metropolitan Gourmet",
@@ -12778,7 +13686,9 @@
     "template": "consultivo",
     "website": "",
     "email1": true,
-    "date1": "2026-08-03"
+    "date1": "2026-08-03",
+    "email2": true,
+    "date2": "2026-08-06"
   },
   {
     "name": "Criminal burguer",
@@ -12791,7 +13701,9 @@
     "template": "consultivo",
     "website": "",
     "email1": true,
-    "date1": "2026-08-03"
+    "date1": "2026-08-03",
+    "email2": true,
+    "date2": "2026-08-06"
   },
   {
     "name": "Basic Burger",
@@ -12804,7 +13716,9 @@
     "template": "pergunta",
     "website": "",
     "email1": true,
-    "date1": "2026-08-03"
+    "date1": "2026-08-03",
+    "email2": true,
+    "date2": "2026-08-06"
   },
   {
     "name": "REC BURGER TATUAPÃ",
@@ -12817,7 +13731,9 @@
     "template": "prova_social",
     "website": "",
     "email1": true,
-    "date1": "2026-08-03"
+    "date1": "2026-08-03",
+    "email2": true,
+    "date2": "2026-08-06"
   },
   {
     "name": "Eita Coisa Boa Hamburgueria",
@@ -12830,7 +13746,9 @@
     "template": "consultivo",
     "website": "",
     "email1": true,
-    "date1": "2026-08-03"
+    "date1": "2026-08-03",
+    "email2": true,
+    "date2": "2026-08-06"
   },
   {
     "name": "HAMBURGUERIA DO SUJINHO",
@@ -12843,7 +13761,9 @@
     "template": "prova_social",
     "website": "",
     "email1": true,
-    "date1": "2026-08-03"
+    "date1": "2026-08-03",
+    "email2": true,
+    "date2": "2026-08-06"
   },
   {
     "name": "Casa do HambÃºrguer",
@@ -12856,7 +13776,9 @@
     "template": "pergunta",
     "website": "",
     "email1": true,
-    "date1": "2026-08-03"
+    "date1": "2026-08-03",
+    "email2": true,
+    "date2": "2026-08-06"
   },
   {
     "name": "HIDAS BURGER",
@@ -12869,7 +13791,9 @@
     "template": "consultivo",
     "website": "",
     "email1": true,
-    "date1": "2026-08-03"
+    "date1": "2026-08-03",
+    "email2": true,
+    "date2": "2026-08-06"
   },
   {
     "name": "Jhow Burguer's",
@@ -12882,7 +13806,9 @@
     "template": "pergunta",
     "website": "",
     "email1": true,
-    "date1": "2026-08-03"
+    "date1": "2026-08-03",
+    "email2": true,
+    "date2": "2026-08-06"
   },
   {
     "name": "Pibus Hamburguer - Itaim Bibi",
@@ -12895,7 +13821,9 @@
     "template": "pergunta",
     "website": "",
     "email1": true,
-    "date1": "2026-08-03"
+    "date1": "2026-08-03",
+    "email2": true,
+    "date2": "2026-08-06"
   },
   {
     "name": "Number One - The Finest Burger",
@@ -12908,7 +13836,9 @@
     "template": "prova_social",
     "website": "",
     "email1": true,
-    "date1": "2026-08-03"
+    "date1": "2026-08-03",
+    "email2": true,
+    "date2": "2026-08-06"
   },
   {
     "name": "Burger & Mortadela",
@@ -12921,7 +13851,9 @@
     "template": "prova_social",
     "website": "",
     "email1": true,
-    "date1": "2026-08-03"
+    "date1": "2026-08-03",
+    "email2": true,
+    "date2": "2026-08-06"
   },
   {
     "name": "Letâs Burger",
@@ -12934,7 +13866,9 @@
     "template": "consultivo",
     "website": "",
     "email1": true,
-    "date1": "2026-08-03"
+    "date1": "2026-08-03",
+    "email2": true,
+    "date2": "2026-08-06"
   },
   {
     "name": "ZÃ© do Hamburger",
@@ -12947,7 +13881,9 @@
     "template": "pergunta",
     "website": "",
     "email1": true,
-    "date1": "2026-08-03"
+    "date1": "2026-08-03",
+    "email2": true,
+    "date2": "2026-08-06"
   },
   {
     "name": "12 BURGER AND BEER",
@@ -12960,7 +13896,9 @@
     "template": "pergunta",
     "website": "",
     "email1": true,
-    "date1": "2026-08-03"
+    "date1": "2026-08-03",
+    "email2": true,
+    "date2": "2026-08-06"
   },
   {
     "name": "BICHÃO BURGERS",
@@ -12973,7 +13911,9 @@
     "template": "prova_social",
     "website": "",
     "email1": true,
-    "date1": "2026-08-03"
+    "date1": "2026-08-03",
+    "email2": true,
+    "date2": "2026-08-06"
   },
   {
     "name": "BURDOG",
@@ -12986,7 +13926,9 @@
     "template": "consultivo",
     "website": "",
     "email1": true,
-    "date1": "2026-08-03"
+    "date1": "2026-08-03",
+    "email2": true,
+    "date2": "2026-08-06"
   },
   {
     "name": "25K Burger",
@@ -12999,7 +13941,9 @@
     "template": "pergunta",
     "website": "",
     "email1": true,
-    "date1": "2026-08-03"
+    "date1": "2026-08-03",
+    "email2": true,
+    "date2": "2026-08-06"
   },
   {
     "name": "BULLGUER",
@@ -13012,7 +13956,9 @@
     "template": "pergunta",
     "website": "",
     "email1": true,
-    "date1": "2026-08-03"
+    "date1": "2026-08-03",
+    "email2": true,
+    "date2": "2026-08-06"
   },
   {
     "name": "UNDERGROUND HAMBURGERS",
@@ -13025,7 +13971,9 @@
     "template": "pergunta",
     "website": "",
     "email1": true,
-    "date1": "2026-08-03"
+    "date1": "2026-08-03",
+    "email2": true,
+    "date2": "2026-08-06"
   },
   {
     "name": "FAbiÂ´s Burger",
@@ -13038,7 +13986,9 @@
     "template": "prova_social",
     "website": "",
     "email1": true,
-    "date1": "2026-08-03"
+    "date1": "2026-08-03",
+    "email2": true,
+    "date2": "2026-08-06"
   },
   {
     "name": "Los Pepes Hamburguesas",
@@ -13051,7 +14001,9 @@
     "template": "pergunta",
     "website": "",
     "email1": true,
-    "date1": "2026-08-03"
+    "date1": "2026-08-03",
+    "email2": true,
+    "date2": "2026-08-06"
   },
   {
     "name": "BARRIGA CHEIA",
@@ -13064,7 +14016,9 @@
     "template": "prova_social",
     "website": "",
     "email1": true,
-    "date1": "2026-08-03"
+    "date1": "2026-08-03",
+    "email2": true,
+    "date2": "2026-08-06"
   },
   {
     "name": "CASA DOS BRUXOS HAMBURGUERIA",
@@ -13077,7 +14031,9 @@
     "template": "consultivo",
     "website": "",
     "email1": true,
-    "date1": "2026-08-03"
+    "date1": "2026-08-03",
+    "email2": true,
+    "date2": "2026-08-06"
   },
   {
     "name": "STUNT BURGER",
@@ -13090,7 +14046,9 @@
     "template": "consultivo",
     "website": "",
     "email1": true,
-    "date1": "2026-08-03"
+    "date1": "2026-08-03",
+    "email2": true,
+    "date2": "2026-08-06"
   },
   {
     "name": "Marq's Burger - Hamburgueria",
@@ -13103,7 +14061,9 @@
     "template": "prova_social",
     "website": "",
     "email1": true,
-    "date1": "2026-08-03"
+    "date1": "2026-08-03",
+    "email2": true,
+    "date2": "2026-08-06"
   },
   {
     "name": "Santana Burger HambÃºrguer Artesanal De Costela.",
