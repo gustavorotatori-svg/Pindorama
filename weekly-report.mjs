@@ -1,10 +1,10 @@
 /**
  * RELATÓRIO SEMANAL PDF — Pindorama (toda quinta)
  * Uso: node weekly-report.mjs
- * Gera: reports/relatorio-YYYY-MM-DD.pdf (dashboard + resumo do que foi feito)
+ * Gera: reports/relatorio-YYYY-MM-DD.pdf (dashboard + resumo da semana)
  */
 import { readFileSync, writeFileSync, existsSync, mkdirSync } from 'fs';
-import { execFileSync, spawnSync } from 'child_process';
+import { execFileSync } from 'child_process';
 import { exec } from 'child_process';
 import { join } from 'path';
 
@@ -20,6 +20,7 @@ function killChrome() {
 const CHROME_CANDIDATES = isWin
   ? ['C:\\Program Files\\Google\\Chrome\\Application\\chrome.exe']
   : ['/usr/bin/google-chrome', '/usr/bin/chromium-browser', '/usr/bin/chromium'];
+
 const LEADS_FILE = 'leads-qualificados.json';
 const OLD_FILE = 'leads.json';
 const PLAN_FILE = 'leads-planilha.json';
@@ -32,9 +33,11 @@ const all = [...oldLeads, ...qualified];
 
 const today = new Date();
 const todayStr = today.toLocaleDateString('en-CA');
-const wkStart = new Date(); wkStart.setDate(wkStart.getDate() - 6); wkStart.setHours(0,0,0,0);
+const wkStart = new Date(); wkStart.setDate(wkStart.getDate() - 6); wkStart.setHours(0, 0, 0, 0);
 const wkStartStr = wkStart.toLocaleDateString('en-CA');
-const days = ['Dom','Seg','Ter','Qua','Qui','Sex','Sáb'];
+const days = ['Dom', 'Seg', 'Ter', 'Qua', 'Qui', 'Sex', 'Sáb'];
+
+const inWeek = d => d && d >= wkStartStr && d <= todayStr;
 
 const e1 = all.filter(x => x.email1);
 const e2 = all.filter(x => x.email2);
@@ -42,16 +45,25 @@ const e3 = all.filter(x => x.email3);
 const responses = all.filter(x => x.response);
 const rate = e1.length ? ((responses.length / e1.length) * 100).toFixed(2) : '0.00';
 
-// Últimos 7 dias
+// Métricas da semana
+const weekNewLeads = qualified.filter(x => x.email1 && inWeek(x.date1)).length;
+const weekE1 = qualified.filter(x => x.email1 && inWeek(x.date1)).length;
+const weekE2 = qualified.filter(x => x.email2 && inWeek(x.date2)).length;
+const weekE3 = qualified.filter(x => x.email3 && inWeek(x.date3)).length;
+const weekWa = qualified.filter(x => x.whatsappSent && inWeek(x.whatsappDate)).length;
+const weekResponses = all.filter(x => x.response && inWeek(x.responseDate));
+
+// Últimos 7 dias (diário)
 const daily = [];
 for (let i = 6; i >= 0; i--) {
   const d = new Date(); d.setDate(d.getDate() - i);
   const s = d.toLocaleDateString('en-CA');
   const dd = new Date(d);
-  const label = days[dd.getDay()] + ' ' + dd.getDate() + '/' + (dd.getMonth()+1);
-  const total = all.filter(x => (x.email1 && x.date1 === s) || (x.email2 && x.date2 === s) || (x.email3 && x.date3 === s)).length;
-  const newLeads = all.filter(x => x.email1 && x.date1 === s).length;
-  daily.push({ label, total, newLeads });
+  const label = days[dd.getDay()] + ' ' + dd.getDate() + '/' + (dd.getMonth() + 1);
+  const enviados = all.filter(x => (x.email1 && x.date1 === s) || (x.email2 && x.date2 === s) || (x.email3 && x.date3 === s)).length;
+  const novos = all.filter(x => x.email1 && x.date1 === s).length;
+  const whats = qualified.filter(x => x.whatsappSent && x.whatsappDate === s).length;
+  daily.push({ label, enviados, novos, whats });
 }
 
 // Segmentos
@@ -65,37 +77,39 @@ qualified.forEach(l => {
 
 // Status operacional
 const pending = qualified.filter(x => x.email && !x.email1).length;
-const waTotal = qualified.filter(x => x.whatsappSent).length;
 const waToday = qualified.filter(x => x.whatsappSent && x.whatsappDate === todayStr).length;
 const plan = load(PLAN_FILE);
 const planProc = plan.filter(x => x.processed).length;
+const planLeft = plan.filter(x => !x.processed).length;
 
-// Resumo semanal (markdown do AGENTS.md?)
-let weeklyNotes = '';
-if (existsSync('AGENTS.md')) {
-  const md = readFileSync('AGENTS.md', 'utf-8');
-  const lines = md.split('\n').filter(l => /^\d{2}\/\d{2}/.test(l));
-  weeklyNotes = lines.slice(0, 12).join('\n');
-}
+const weeklySummary = [
+  `${weekNewLeads} novos leads foram contatados por email.`,
+  `${weekE2 + weekE3} follow-ups foram enviados automaticamente.`,
+  `${weekWa} primeiras abordagens foram feitas por WhatsApp.`,
+  weekResponses.length
+    ? `${weekResponses.length} resposta(s) recebida(s) na semana.`
+    : 'Nenhuma nova resposta foi recebida na semana.',
+  `${planLeft} contatos da base complementar ainda aguardam processamento.`
+];
 
 const segHtml = Object.entries(segs).map(([t, d]) => `
   <div class="seg">
     <div class="seg-nome">${t}</div>
     <div class="seg-num">${d.sent}/${d.total}</div>
-    <div class="bar"><div class="bar-fill" style="width:${d.total ? Math.round(d.sent/d.total*100) : 0}%"></div></div>
+    <div class="bar"><div class="bar-fill" style="width:${d.total ? Math.round(d.sent / d.total * 100) : 0}%"></div></div>
   </div>`).join('');
 
 const dailyHtml = daily.map(d => `
   <div class="day">
     <div class="day-label">${d.label}</div>
-    <div class="day-total">${d.total}</div>
-    <div class="day-sub">${d.newLeads} novos</div>
-    <div class="bar"><div class="bar-fill" style="width:${d.total ? Math.min(100, d.total/120*100) : 0}%"></div></div>
+    <div class="day-total">${d.enviados}</div>
+    <div class="day-sub">${d.novos} novos${d.whats ? ' · ' + d.whats + ' WA' : ''}</div>
+    <div class="bar"><div class="bar-fill" style="width:${d.enviados ? Math.min(100, d.enviados / 120 * 100) : 0}%"></div></div>
   </div>`).join('');
 
-const respHtml = responses.length
-  ? responses.map(r => `<li>${r.name} — ${r.response}</li>`).join('')
-  : '<li>Nenhuma resposta esta semana</li>';
+const respHtml = weekResponses.length
+  ? weekResponses.map(r => `<li><b>${r.name}</b> (${r.responseDate}) — ${r.response || r.interestNote || ''}</li>`).join('')
+  : '<li>Nenhuma resposta na semana</li>';
 
 const html = `<!DOCTYPE html>
 <html lang="pt-BR"><head><meta charset="UTF-8">
@@ -110,6 +124,7 @@ const html = `<!DOCTYPE html>
   .card { flex: 1; min-width: 150px; background: #f7f8fb; border-radius: 10px; padding: 14px; border-left: 4px solid #f0c040; }
   .card .n { font-size: 26px; font-weight: 700; }
   .card .l { font-size: 11px; color: #666; margin-top: 3px; }
+  .card.week { border-left-color: #27ae60; background: #f0faf3; }
   .grid { display: flex; gap: 12px; }
   .panel { flex: 1; background: #f7f8fb; border-radius: 10px; padding: 14px; }
   .row { display: flex; justify-content: space-between; padding: 5px 0; font-size: 13px; border-bottom: 1px solid #eee; }
@@ -126,46 +141,57 @@ const html = `<!DOCTYPE html>
   .day-sub { font-size: 10px; color: #999; }
   ul { padding-left: 18px; font-size: 13px; line-height: 1.6; }
   .foot { margin-top: 26px; font-size: 11px; color: #aaa; text-align: center; }
-  .warn { color: #c0392b; font-weight: 600; }
-  pre { white-space: pre-wrap; font-size: 10px; background: #f7f8fb; border-radius: 8px; padding: 10px; color: #555; max-height: 300px; overflow: hidden; }
+  .summary { font-size: 13px; line-height: 1.55; }
+  .segments-section { break-before: page; page-break-before: always; }
 </style></head><body>
 
-<h1>📊 Relatório Semanal — Pindorama Prospecção</h1>
+<h1>Relatório Semanal — Pindorama Prospecção</h1>
 <div class="sub">Gerado em ${today.toLocaleDateString('pt-BR')} · Período ${wkStart.toLocaleDateString('pt-BR')} a ${today.toLocaleDateString('pt-BR')}</div>
 
-<h2>Números gerais</h2>
+<h2>Números gerais (acumulado)</h2>
 <div class="cards">
   <div class="card"><div class="n">${all.length}</div><div class="l">Leads cadastrados</div></div>
   <div class="card"><div class="n">${e1.length}</div><div class="l">Email1 enviados</div></div>
-  <div class="card"><div class="n">${e2.length}</div><div class="l">Email2 (follow-up)</div></div>
-  <div class="card"><div class="n">${e3.length}</div><div class="l">Email3 (último contato)</div></div>
-  <div class="card"><div class="n">${e1.length + e2.length + e3.length}</div><div class="l">Total envios</div></div>
+  <div class="card"><div class="n">${e2.length + e3.length}</div><div class="l">Follow-ups (email2+3)</div></div>
   <div class="card"><div class="n">${responses.length}</div><div class="l">Respostas (${rate}%)</div></div>
 </div>
+
+<h2>Nesta semana (${wkStart.toLocaleDateString('pt-BR')} a ${today.toLocaleDateString('pt-BR')})</h2>
+<div class="cards">
+  <div class="card week"><div class="n">${weekNewLeads}</div><div class="l">Leads novos</div></div>
+  <div class="card week"><div class="n">${weekE1}</div><div class="l">Email1 enviados</div></div>
+  <div class="card week"><div class="n">${weekE2}</div><div class="l">Email2 (follow-up)</div></div>
+  <div class="card week"><div class="n">${weekE3}</div><div class="l">Email3 (último contato)</div></div>
+  <div class="card week"><div class="n">${weekWa}</div><div class="l">WhatsApp enviados</div></div>
+  <div class="card week"><div class="n">${weekResponses.length}</div><div class="l">Respostas na semana</div></div>
+</div>
+
+<h2>Atividade dos últimos 7 dias</h2>
+<div class="days">${dailyHtml}</div>
+
+<div class="segments-section">
+  <h2>Segmentos (enviados/total)</h2>
+  <div class="grid">
+    <div class="panel">${segHtml}</div>
+  </div>
+</div>
+
+<h2>Respostas da semana</h2>
+<ul>${respHtml}</ul>
 
 <h2>Status operacional</h2>
 <div class="grid">
   <div class="panel">
     <div class="row"><span>Pendentes p/ email1</span><span>${pending}</span></div>
     <div class="row"><span>Planilha processada</span><span>${planProc}/${plan.length || '-'}</span></div>
-    <div class="row"><span>WhatsApp total</span><span>${waTotal}</span></div>
+    <div class="row"><span>Planilha restante</span><span>${planLeft}</span></div>
     <div class="row"><span>WhatsApp hoje</span><span>${waToday}/4</span></div>
-    <div class="row"><span>Limite Gmail</span><span>~500/24h (janela deslizante)</span></div>
-  </div>
-  <div class="panel">
-    <div class="seg-nome">Segmentos (enviados/total)</div>
-    ${segHtml}
+    <div class="row"><span>Limite de email</span><span>490/24h (janela móvel)</span></div>
   </div>
 </div>
 
-<h2>Atividade dos últimos 7 dias</h2>
-<div class="days">${dailyHtml}</div>
-
-<h2>Respostas</h2>
-<ul>${respHtml}</ul>
-
-<h2>Resumo do que foi feito</h2>
-<pre>${weeklyNotes}</pre>
+<h2>O que foi feito na semana</h2>
+<ul class="summary">${weeklySummary.map(item => `<li>${item}</li>`).join('')}</ul>
 
 <div class="foot">Pindorama — Cachaça Artesanal · Relatório automático semanal · gerado por weekly-report.mjs</div>
 </body></html>`;
@@ -174,7 +200,7 @@ if (!existsSync('reports')) mkdirSync('reports');
 writeFileSync('reports/relatorio.html', html);
 const outPdf = `reports/relatorio-${todayStr}.pdf`;
 const absOut = join(process.cwd(), outPdf);
-if (existsSync(absOut)) { try { execSync(isWin ? `del "${absOut}"` : `rm -f "${absOut}"`); } catch {} }
+if (existsSync(absOut)) { try { execFileSync(isWin ? 'del' : 'rm', [absOut], { shell: true }); } catch {} }
 
 function tryPrint(profileDir, chrome) {
   const args = [
@@ -187,12 +213,11 @@ function tryPrint(profileDir, chrome) {
   try { execFileSync(chrome, args, { timeout: 20000 }); return true; } catch (e) { return false; }
 }
 
-// Chrome imprime o PDF mas as vezes nao sai; testa com perfil novo ate o arquivo nascer
 const chromeBin = CHROME_CANDIDATES.find(c => existsSync(c));
-if (!chromeBin) { console.error('Chrome nao encontrado (CI sem browser). Enviando apenas HTML.'); }
+if (!chromeBin) console.error('Chrome nao encontrado (CI sem browser). Enviando apenas HTML.');
 for (let attempt = 0; attempt < 3 && !existsSync(absOut); attempt++) {
   await killChrome();
-  const tmpProfile = 'C:\\Users\\rotat\\AppData\\Local\\Temp\\opencode\\chrome-pdf-' + Date.now() + '-' + attempt;
+  const tmpProfile = join(process.env.TEMP || '/tmp', 'chrome-pdf-' + Date.now() + '-' + attempt);
   tryPrint(tmpProfile, chromeBin);
   await killChrome();
 }

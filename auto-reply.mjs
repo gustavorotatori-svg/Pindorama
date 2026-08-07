@@ -1,6 +1,7 @@
 import Imap from 'imap';
 import { simpleParser } from 'mailparser';
 import nodemailer from 'nodemailer';
+import { sendWithinEmailQuota } from './email-quota.mjs';
 import { readFileSync, writeFileSync } from 'fs';
 import { join } from 'path';
 
@@ -255,12 +256,18 @@ function checkEmails() {
 
                 // Enviar resposta (usar email do remetente, não o cadastrado)
               try {
-                await transporter.sendMail({
-                  from: '"Gustavo - Pindorama" <cachaca011pindorama@gmail.com>',
-                  to: fromAddr || lead.email,
-                  subject: `Re: ${subject}`,
-                  text: response,
-                });
+                const quotaResult = await sendWithinEmailQuota(() => transporter.sendMail({
+                    from: '"Gustavo - Pindorama" <cachaca011pindorama@gmail.com>',
+                    to: fromAddr || lead.email,
+                    subject: `Re: ${subject}`,
+                    text: response,
+                  }));
+                if (!quotaResult.sent) {
+                  console.log(`Quota global atingida; resposta para ${lead.name} ficou pendente.`);
+                  processedCount++;
+                  if (processedCount >= results.length) imap.end();
+                  return;
+                }
                 console.log(`✅ Resposta automática enviada para ${lead.name}`);
 
                 // Atualizar lead no arquivo correto

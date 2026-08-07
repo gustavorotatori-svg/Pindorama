@@ -6,6 +6,18 @@ This version has breaking changes — APIs, conventions, and file structure may 
 
 # Pindorama Prospecting Rules
 
+## Diretriz vigente - 07/08/2026 (prioridade sobre o histórico abaixo)
+- EMAIL: pode operar em qualquer horário e qualquer dia, quando a automação estiver disponível.
+- TETO CONFIRMADO: máximo global de 490 saídas por conta em qualquer janela móvel de 24 horas, incluindo campanhas, follow-ups, respostas automáticas e demais mensagens enviadas pela conta.
+- O guard histórico de 480/24h abaixo é apenas registro; a regra vigente é 490/24h pelo módulo compartilhado `email-quota.mjs`.
+- WHATSAPP: máximo exato de 4 mensagens por dia neste projeto, somente segunda a sábado, das 09:00 às 20:00 em America/Sao_Paulo; nunca aos domingos ou fora da janela.
+- SEGMENTOS VÁLIDOS: supermercados, padarias, mercadinhos de bairro, lojas de conveniência, bares e restaurantes.
+- AMOSTRAS: Pindorama pode oferecer envio de amostras. A restrição da frente Xandô não se aplica a este projeto.
+- INFORMAÇÃO COMERCIAL: usar somente condições verificadas nos arquivos. Se preço ou condição não estiver documentado, ou houver conflito, perguntar ao usuário.
+- CONDIÇÕES CONFIRMADAS: pagamento em 21 dias, pedido mínimo de 1 caixa, lead time D+2 e frete CIF. Pode oferecer degustadora, treinamento e bonificação no primeiro pedido.
+- PREÇOS CONFIRMADOS POR CAIXA: Clássica R$ 84,00 (6 x 750 ml); Ouro R$ 120,00 (6 x 700 ml); Cobra Coral R$ 42,00 (12 x 600 ml); Prata 200 ml R$ 30,00; Ouro 200 ml R$ 35,00; Cobra Coral 200 ml R$ 20,00. A quantidade por caixa das garrafinhas de 200 ml não está informada e deve ser confirmada antes de prometer.
+- NÃO generalizar preços ou condições comerciais de Bamba, Repeat ou Xandô para Pindorama.
+
 ## Dashboard auto-update (mandatory)
 - Dashboard (metrics.mjs) MUST be updated every 12h minimum
 - Scheduled tasks: "Pindorama Dashboard" (06:00) and "Pindorama Dashboard 18h" run dash-update.ps1

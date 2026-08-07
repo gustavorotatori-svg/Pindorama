@@ -1,6 +1,7 @@
 import nodemailer from 'nodemailer';
 import { readFileSync, writeFileSync } from 'fs';
 import dns from 'dns';
+import { emailQuotaAvailable, recordEmailOutput } from './email-quota.mjs';
 
 const MAIL_USER = 'cachaca011pindorama@gmail.com';
 const MAIL_PASS = 'wnau jrrr rjpc zuuv';
@@ -9,34 +10,6 @@ const OLD_FILE = 'leads.json';
 const GIF_TAG = '<br><br><img src="https://iili.io/CkQ8gFR.gif" style="display:block;margin-top:12px;max-width:400px" />';
 const DELAY_MS = 2500;
 const SIGNATURE = '\n\nAbra\u00e7o,\nGustavo\nPindorama \u2014 Cacha\u00e7a Artesanal\n(11) 91357-7900';
-
-// --- Quota guard Gmail (janela deslizante 24h) ---
-const SEND_LOG = 'send-log.json';
-const GMAIL_SAFE_LIMIT = 480;
-
-function loadSendLog() {
-  try { return JSON.parse(readFileSync(SEND_LOG, 'utf-8')); }
-  catch { return []; }
-}
-function saveSendLog(log) { save(SEND_LOG, log); }
-function recent24hCount() {
-  const cutoff = Date.now() - 24 * 60 * 60 * 1000;
-  return loadSendLog().filter(t => typeof t === 'number' && t >= cutoff).length;
-}
-function recordSend() {
-  const log = loadSendLog();
-  const cutoff = Date.now() - 24 * 60 * 60 * 1000;
-  log.push(Date.now());
-  saveSendLog(log.filter(t => typeof t === 'number' && t >= cutoff));
-}
-function quotaGuardOk() {
-  const used = recent24hCount();
-  if (used >= GMAIL_SAFE_LIMIT) {
-    console.log(`QUOTA GUARD: ${used}/${GMAIL_SAFE_LIMIT} emails na janela 24h — parando p/ nao bloquear o Gmail.`);
-    return false;
-  }
-  return true;
-}
 
 const transporter = nodemailer.createTransport({service:'gmail',auth:{user:MAIL_USER,pass:MAIL_PASS}});
 
@@ -210,11 +183,11 @@ async function sendEmail1() {
     const leads = load(LEADS_FILE);
     const pending = leads.filter(x => !x.email1 && !failed.has(x.email) && x.email);
     if (!pending.length) break;
-    if (!quotaGuardOk()) break;
+    if (!emailQuotaAvailable()) break;
     const l = pending[0];
     try {
       await sendEmail(l, 'email1');
-      recordSend();
+      recordEmailOutput();
       // Force-persist: reload, find by email, set fields, save
       const reloaded = load(LEADS_FILE);
       const idx = reloaded.findIndex(x => x.email === l.email);
@@ -245,11 +218,11 @@ async function sendFollowups() {
       if (l.email2 && !l.email3 && l.date2 && daysDiff(l.date2) >= 4 && !failed.has(l.email + ':email3')) { target = {lead:l,step:'email3'}; break; }
     }
     if (!target) break;
-    if (!quotaGuardOk()) break;
+    if (!emailQuotaAvailable()) break;
     const {lead:l, step} = target;
     try {
       await sendEmail(l, step);
-      recordSend();
+      recordEmailOutput();
       // Force-persist
       const reloaded = load(LEADS_FILE);
       const idx = reloaded.findIndex(x => x.email === l.email);

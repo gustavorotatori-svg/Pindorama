@@ -92,7 +92,7 @@ function analyze() {
   });
   const GMAIL_DAILY_LIMIT = 500;
   console.log(`  Enviados hoje (registrados): ${sentToday}`);
-  console.log(`  Limite Gmail (~500):         janela deslizante 24h`);
+  console.log(`  Limite global de email:      490 por janela móvel de 24h`);
 
   if (existsSync('leads-planilha.json')) {
     const plan = JSON.parse(readFileSync('leads-planilha.json', 'utf-8'));
