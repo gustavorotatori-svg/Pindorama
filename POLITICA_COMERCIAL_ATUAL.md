@@ -9,6 +9,7 @@ Fonte de verdade atualizada pelo usuário em 07/08/2026. Esta política prevalec
 - WhatsApp: máximo de 4 mensagens por dia neste projeto.
 - WhatsApp somente de segunda a sábado, das 09:00 às 20:00, fuso `America/Sao_Paulo`.
 - Nunca enviar WhatsApp aos domingos ou fora da janela permitida.
+- Relatório semanal: enviar para o e-mail do projeto Pindorama, com cópia para `gusrotatori@icloud.com`.
 
 ## Público-alvo
 
