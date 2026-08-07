@@ -14076,7 +14076,9 @@
     "template": "consultivo",
     "website": "",
     "email1": true,
-    "date1": "2026-08-03"
+    "date1": "2026-08-03",
+    "email2": true,
+    "date2": "2026-08-07"
   },
   {
     "name": "BRO BURGER",
@@ -14089,7 +14091,9 @@
     "template": "pergunta",
     "website": "",
     "email1": true,
-    "date1": "2026-08-03"
+    "date1": "2026-08-03",
+    "email2": true,
+    "date2": "2026-08-07"
   },
   {
     "name": "Gordinho Burguer",
@@ -14102,7 +14106,9 @@
     "template": "consultivo",
     "website": "",
     "email1": true,
-    "date1": "2026-08-03"
+    "date1": "2026-08-03",
+    "email2": true,
+    "date2": "2026-08-07"
   },
   {
     "name": "JOHNNYÂ´S BURGER PRICELESS",
@@ -14115,7 +14121,9 @@
     "template": "prova_social",
     "website": "",
     "email1": true,
-    "date1": "2026-08-03"
+    "date1": "2026-08-03",
+    "email2": true,
+    "date2": "2026-08-07"
   },
   {
     "name": "Bario",
@@ -14126,7 +14134,9 @@
     "context": "contato de compras",
     "template": "pergunta",
     "email1": true,
-    "date1": "2026-08-03"
+    "date1": "2026-08-03",
+    "email2": true,
+    "date2": "2026-08-07"
   },
   {
     "name": "Distribuidora Lacerda",
@@ -14137,7 +14147,9 @@
     "context": "distribuidora de bebidas atacado e varejo em Mauá (CNPJ 45.686.398/0001-08), email da Receita",
     "template": "prova_social",
     "email1": true,
-    "date1": "2026-08-03"
+    "date1": "2026-08-03",
+    "email2": true,
+    "date2": "2026-08-07"
   },
   {
     "name": "Adega e Distribuidora do Marley",
@@ -14148,7 +14160,9 @@
     "context": "adega e distribuidora de bebidas em Mauá, fundada 2022 (CNPJ 47.975.186/0001-68), Av Presidente Castelo Branco",
     "template": "consultivo",
     "email1": true,
-    "date1": "2026-08-03"
+    "date1": "2026-08-03",
+    "email2": true,
+    "date2": "2026-08-07"
   },
   {
     "name": "Adega da Pracinha",
@@ -14159,7 +14173,9 @@
     "context": "adega de bebidas em Mauá (CNPJ 36.244.584/0001-98), fundada 2020",
     "template": "pergunta",
     "email1": true,
-    "date1": "2026-08-03"
+    "date1": "2026-08-03",
+    "email2": true,
+    "date2": "2026-08-07"
   },
   {
     "name": "Adega Dressaca",
@@ -14170,7 +14186,9 @@
     "context": "adega e distribuidora de bebidas em Ibiúna (CNPJ 41.680.722/0001-11), Rua Ceará 283",
     "template": "consultivo",
     "email1": true,
-    "date1": "2026-08-03"
+    "date1": "2026-08-03",
+    "email2": true,
+    "date2": "2026-08-07"
   },
   {
     "name": "Adega Dias (Distribuidora de Bebidas Dias)",
