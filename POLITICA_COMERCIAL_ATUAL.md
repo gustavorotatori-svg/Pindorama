@@ -9,6 +9,7 @@ Fonte de verdade atualizada pelo usuário em 07/08/2026. Esta política prevalec
 - WhatsApp: máximo de 4 mensagens por dia neste projeto.
 - WhatsApp somente de segunda a sábado, das 09:00 às 20:00, fuso `America/Sao_Paulo`.
 - Nunca enviar WhatsApp aos domingos ou fora da janela permitida.
+- Enquanto houver pendências elegíveis, a automação deve aproveitar continuamente a capacidade liberada pelos limites e horários, sem ultrapassar os guards.
 - Relatório semanal: enviar para o e-mail do projeto Pindorama, com cópia para `gusrotatori@icloud.com`.
 
 ## Público-alvo
@@ -40,21 +41,14 @@ Fonte de verdade atualizada pelo usuário em 07/08/2026. Esta política prevalec
 
 | Produto | Preço por caixa | Conteúdo da caixa |
 |---|---:|---|
-| Clássica (Pindorama) | R$ 84,00 | 6 unidades de 750 ml |
+| Clássica | R$ 84,00 | 6 unidades de 750 ml |
 | Ouro | R$ 120,00 | 6 unidades de 700 ml |
 | Cobra Coral | R$ 42,00 | 12 unidades de 600 ml |
 
-### Linha garrafinhas 200 ml
+### Linha garrafinhas 200 ml - preços unitários
 
-| Produto | Preço por caixa | Unidades por caixa |
-|---|---:|---|
-| Prata 200 ml | R$ 30,00 | não informado - confirmar antes de prometer quantidade |
-| Ouro 200 ml | R$ 35,00 | não informado - confirmar antes de prometer quantidade |
-| Cobra Coral 200 ml | R$ 20,00 | não informado - confirmar antes de prometer quantidade |
-
-## Especificações verificadas no catálogo 2025
-
-- Clássica/Pindorama: 750 ml, 40% vol., repouso em aço inoxidável por pelo menos 1 ano.
-- Pindorama Ouro: 700 ml, 42% vol., armazenada em barris de Amburana.
-- O catálogo comprova apresentações especiais de 200 ml, mas não informa a quantidade de garrafinhas por caixa.
-- Materiais oficiais recebidos: catálogo `Cachaça Pindorama 2025.pdf`, logotipo Pindorama e fotografias das linhas Clássica, Ouro, Cobra Coral e garrafinhas de 200 ml.
+| Produto | Preço unitário |
+|---|---:|
+| Prata 200 ml | R$ 30,00 |
+| Ouro 200 ml | R$ 35,00 |
+| Cobra Coral 200 ml | R$ 20,00 |

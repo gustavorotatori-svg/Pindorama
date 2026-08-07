@@ -3,7 +3,7 @@ name: Email Pipeline Pindorama
 on:
   schedule:
     - cron: '0 10 * * *'
-    - cron: '0 16,22 * * *'
+    - cron: '15,45 * * * *'
   workflow_dispatch:
 
 permissions:
