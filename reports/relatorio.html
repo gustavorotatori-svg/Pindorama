@@ -1,6 +1,6 @@
 <!DOCTYPE html>
 <html lang="pt-BR"><head><meta charset="UTF-8">
-<title>Relatório Semanal Pindorama — 2026-08-06</title>
+<title>Relatório Semanal Pindorama — 2026-08-07</title>
 <style>
   * { box-sizing: border-box; margin: 0; padding: 0; }
   body { font-family: 'Segoe UI', Arial, sans-serif; color: #1a1a2e; background: #fff; padding: 28px; }
@@ -11,6 +11,7 @@
   .card { flex: 1; min-width: 150px; background: #f7f8fb; border-radius: 10px; padding: 14px; border-left: 4px solid #f0c040; }
   .card .n { font-size: 26px; font-weight: 700; }
   .card .l { font-size: 11px; color: #666; margin-top: 3px; }
+  .card.week { border-left-color: #27ae60; background: #f0faf3; }
   .grid { display: flex; gap: 12px; }
   .panel { flex: 1; background: #f7f8fb; border-radius: 10px; padding: 14px; }
   .row { display: flex; justify-content: space-between; padding: 5px 0; font-size: 13px; border-bottom: 1px solid #eee; }
@@ -27,35 +28,80 @@
   .day-sub { font-size: 10px; color: #999; }
   ul { padding-left: 18px; font-size: 13px; line-height: 1.6; }
   .foot { margin-top: 26px; font-size: 11px; color: #aaa; text-align: center; }
-  .warn { color: #c0392b; font-weight: 600; }
-  pre { white-space: pre-wrap; font-size: 10px; background: #f7f8fb; border-radius: 8px; padding: 10px; color: #555; max-height: 300px; overflow: hidden; }
+  .summary { font-size: 13px; line-height: 1.55; }
+  .segments-section { break-before: page; page-break-before: always; }
 </style></head><body>
 
-<h1>📊 Relatório Semanal — Pindorama Prospecção</h1>
-<div class="sub">Gerado em 06/08/2026 · Período 31/07/2026 a 06/08/2026</div>
+<h1>Relatório Semanal — Pindorama Prospecção</h1>
+<div class="sub">Gerado em 07/08/2026 · Período 01/08/2026 a 07/08/2026</div>
 
-<h2>Números gerais</h2>
+<h2>Números gerais (acumulado)</h2>
 <div class="cards">
   <div class="card"><div class="n">1144</div><div class="l">Leads cadastrados</div></div>
   <div class="card"><div class="n">1143</div><div class="l">Email1 enviados</div></div>
-  <div class="card"><div class="n">937</div><div class="l">Email2 (follow-up)</div></div>
-  <div class="card"><div class="n">119</div><div class="l">Email3 (último contato)</div></div>
-  <div class="card"><div class="n">2199</div><div class="l">Total envios</div></div>
+  <div class="card"><div class="n">1056</div><div class="l">Follow-ups (email2+3)</div></div>
   <div class="card"><div class="n">2</div><div class="l">Respostas (0.17%)</div></div>
 </div>
 
-<h2>Status operacional</h2>
-<div class="grid">
-  <div class="panel">
-    <div class="row"><span>Pendentes p/ email1</span><span>0</span></div>
-    <div class="row"><span>Planilha processada</span><span>100/1486</span></div>
-    <div class="row"><span>WhatsApp total</span><span>54</span></div>
-    <div class="row"><span>WhatsApp hoje</span><span>0/4</span></div>
-    <div class="row"><span>Limite Gmail</span><span>~500/24h (janela deslizante)</span></div>
+<h2>Nesta semana (01/08/2026 a 07/08/2026)</h2>
+<div class="cards">
+  <div class="card week"><div class="n">1051</div><div class="l">Leads novos</div></div>
+  <div class="card week"><div class="n">1051</div><div class="l">Email1 enviados</div></div>
+  <div class="card week"><div class="n">873</div><div class="l">Email2 (follow-up)</div></div>
+  <div class="card week"><div class="n">107</div><div class="l">Email3 (último contato)</div></div>
+  <div class="card week"><div class="n">54</div><div class="l">WhatsApp enviados</div></div>
+  <div class="card week"><div class="n">0</div><div class="l">Respostas na semana</div></div>
+</div>
+
+<h2>Atividade dos últimos 7 dias</h2>
+<div class="days">
+  <div class="day">
+    <div class="day-label">Sáb 1/8</div>
+    <div class="day-total">34</div>
+    <div class="day-sub">28 novos</div>
+    <div class="bar"><div class="bar-fill" style="width:28.333333333333332%"></div></div>
   </div>
-  <div class="panel">
-    <div class="seg-nome">Segmentos (enviados/total)</div>
-    
+  <div class="day">
+    <div class="day-label">Dom 2/8</div>
+    <div class="day-total">548</div>
+    <div class="day-sub">512 novos</div>
+    <div class="bar"><div class="bar-fill" style="width:100%"></div></div>
+  </div>
+  <div class="day">
+    <div class="day-label">Seg 3/8</div>
+    <div class="day-total">384</div>
+    <div class="day-sub">319 novos · 54 WA</div>
+    <div class="bar"><div class="bar-fill" style="width:100%"></div></div>
+  </div>
+  <div class="day">
+    <div class="day-label">Ter 4/8</div>
+    <div class="day-total">434</div>
+    <div class="day-sub">191 novos</div>
+    <div class="bar"><div class="bar-fill" style="width:100%"></div></div>
+  </div>
+  <div class="day">
+    <div class="day-label">Qua 5/8</div>
+    <div class="day-total">151</div>
+    <div class="day-sub">1 novos</div>
+    <div class="bar"><div class="bar-fill" style="width:100%"></div></div>
+  </div>
+  <div class="day">
+    <div class="day-label">Qui 6/8</div>
+    <div class="day-total">480</div>
+    <div class="day-sub">0 novos</div>
+    <div class="bar"><div class="bar-fill" style="width:100%"></div></div>
+  </div>
+  <div class="day">
+    <div class="day-label">Sex 7/8</div>
+    <div class="day-total">0</div>
+    <div class="day-sub">0 novos</div>
+    <div class="bar"><div class="bar-fill" style="width:0%"></div></div>
+  </div></div>
+
+<div class="segments-section">
+  <h2>Segmentos (enviados/total)</h2>
+  <div class="grid">
+    <div class="panel">
   <div class="seg">
     <div class="seg-nome">bar</div>
     <div class="seg-num">348/348</div>
@@ -100,60 +146,26 @@
     <div class="seg-nome">distribuidor</div>
     <div class="seg-num">1/1</div>
     <div class="bar"><div class="bar-fill" style="width:100%"></div></div>
-  </div>
+  </div></div>
   </div>
 </div>
 
-<h2>Atividade dos últimos 7 dias</h2>
-<div class="days">
-  <div class="day">
-    <div class="day-label">Sex 31/7</div>
-    <div class="day-total">21</div>
-    <div class="day-sub">21 novos</div>
-    <div class="bar"><div class="bar-fill" style="width:17.5%"></div></div>
-  </div>
-  <div class="day">
-    <div class="day-label">Sáb 1/8</div>
-    <div class="day-total">34</div>
-    <div class="day-sub">28 novos</div>
-    <div class="bar"><div class="bar-fill" style="width:28.333333333333332%"></div></div>
-  </div>
-  <div class="day">
-    <div class="day-label">Dom 2/8</div>
-    <div class="day-total">548</div>
-    <div class="day-sub">512 novos</div>
-    <div class="bar"><div class="bar-fill" style="width:100%"></div></div>
-  </div>
-  <div class="day">
-    <div class="day-label">Seg 3/8</div>
-    <div class="day-total">384</div>
-    <div class="day-sub">319 novos</div>
-    <div class="bar"><div class="bar-fill" style="width:100%"></div></div>
-  </div>
-  <div class="day">
-    <div class="day-label">Ter 4/8</div>
-    <div class="day-total">434</div>
-    <div class="day-sub">191 novos</div>
-    <div class="bar"><div class="bar-fill" style="width:100%"></div></div>
-  </div>
-  <div class="day">
-    <div class="day-label">Qua 5/8</div>
-    <div class="day-total">151</div>
-    <div class="day-sub">1 novos</div>
-    <div class="bar"><div class="bar-fill" style="width:100%"></div></div>
-  </div>
-  <div class="day">
-    <div class="day-label">Qui 6/8</div>
-    <div class="day-total">480</div>
-    <div class="day-sub">0 novos</div>
-    <div class="bar"><div class="bar-fill" style="width:100%"></div></div>
-  </div></div>
+<h2>Respostas da semana</h2>
+<ul><li>Nenhuma resposta na semana</li></ul>
 
-<h2>Respostas</h2>
-<ul><li>Miró Gastronomia — Recebemos e já guardei seu contato (27/07)</li><li>Degusti Vinhos — Pediu tabela de preços e condições comerciais - enviei resposta com tabela + condições (31/07)</li></ul>
+<h2>Status operacional</h2>
+<div class="grid">
+  <div class="panel">
+    <div class="row"><span>Pendentes p/ email1</span><span>0</span></div>
+    <div class="row"><span>Planilha processada</span><span>100/1486</span></div>
+    <div class="row"><span>Planilha restante</span><span>1386</span></div>
+    <div class="row"><span>WhatsApp hoje</span><span>0/4</span></div>
+    <div class="row"><span>Limite de email</span><span>490/24h (janela móvel)</span></div>
+  </div>
+</div>
 
-<h2>Resumo do que foi feito</h2>
-<pre></pre>
+<h2>O que foi feito na semana</h2>
+<ul class="summary"><li>1051 novos leads foram contatados por email.</li><li>980 follow-ups foram enviados automaticamente.</li><li>54 primeiras abordagens foram feitas por WhatsApp.</li><li>Nenhuma nova resposta foi recebida na semana.</li><li>1386 contatos da base complementar ainda aguardam processamento.</li></ul>
 
 <div class="foot">Pindorama — Cachaça Artesanal · Relatório automático semanal · gerado por weekly-report.mjs</div>
 </body></html>
