@@ -2,8 +2,7 @@ name: Email Pipeline Pindorama
 
 on:
   schedule:
-    - cron: '0 10 * * *'
-    - cron: '15,45 * * * *'
+    - cron: '*/15 * * * *'
   workflow_dispatch:
 
 permissions:
@@ -40,11 +39,14 @@ jobs:
         run: npm ci --no-audit --no-fund
 
       - name: Extract planilha (lote 100/dia - apenas 07h BRT ou manual)
-        if: ${{ github.event_name == 'workflow_dispatch' || github.event.schedule == '0 10 * * *' }}
         run: |
-          node extract-planilha.mjs
-          node fazer-lote.mjs 100
-          node pipeline.mjs --add-file lote-planilha.json --send
+          if [ "${{ github.event_name }}" = "workflow_dispatch" ] || [ "$(date +%H:%M)" = "07:00" ]; then
+            node extract-planilha.mjs
+            node fazer-lote.mjs 100
+            node pipeline.mjs --add-file lote-planilha.json --send
+          else
+            echo "Fora do lote diario; seguindo apenas com pendencias e follow-ups."
+          fi
 
       - name: Pipeline (pendentes + followups)
         run: node pipeline.mjs --all
