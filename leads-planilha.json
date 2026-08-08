@@ -2420,39 +2420,6 @@
     "processed": true
   },
   {
-    "name": "LA VILLA MEXICANA",
-    "email": "lavillamexicana@gmail.com",
-    "type": "restaurante",
-    "neighborhood": "",
-    "address": "",
-    "context": "TEMATICO CHAVES MEXICANO; instagram: https://www.instagram.com/lavillamexicana/",
-    "phone": "115641-0531",
-    "template": "",
-    "processed": true
-  },
-  {
-    "name": "The Circus Bar e Kitchen",
-    "email": "contato@thecircus.com.br",
-    "type": "restaurante",
-    "neighborhood": "",
-    "address": "",
-    "context": "TEMÃTICO CIRCU; responsável: MARIANA; instagram: https://www.instagram.com/thecircusbarekitchen/",
-    "phone": "3213-4826 / 11 993573636 MARIANA",
-    "template": "",
-    "processed": true
-  },
-  {
-    "name": "Restaurante Bello Mar",
-    "email": "bellomarrestaurante@gmail.com",
-    "type": "restaurante",
-    "neighborhood": "",
-    "address": "",
-    "context": "RESTAURANTE; responsável: FABIO; instagram: https://www.instagram.com/restaurantebellomar/",
-    "phone": "11 41214389 / 11 922130533 / 11 942130533 FABIO",
-    "template": "",
-    "processed": true
-  },
-  {
     "name": "Croco Gastrobar",
     "email": "contato@crocobar.com.br",
     "type": "restaurante",
@@ -2460,39 +2427,6 @@
     "address": "",
     "context": "RESTAURANTE; responsável: BRUNO OU FELIPE; instagram: https://www.instagram.com/croco.gastrobar/",
     "phone": "11 45094279 / 11 94906-0868",
-    "template": "",
-    "processed": true
-  },
-  {
-    "name": "Pizzaria Las Vegas",
-    "email": "laissafcastro@gmail.com",
-    "type": "restaurante",
-    "neighborhood": "",
-    "address": "",
-    "context": "PIZZARIA; responsável: Laissa; instagram: https://www.instagram.com/pizzarialasvegassa/",
-    "phone": "11 49025122 /  (11) 98878-0030 / 11 977645319 Laissa",
-    "template": "",
-    "processed": true
-  },
-  {
-    "name": "Don Cappone Pizza Bar",
-    "email": "contato@doncappone.com.br",
-    "type": "restaurante",
-    "neighborhood": "",
-    "address": "",
-    "context": "PIZZARIA; instagram: https://www.instagram.com/doncappone/",
-    "phone": "11 44321222",
-    "template": "",
-    "processed": true
-  },
-  {
-    "name": "LAPORTES",
-    "email": "restaurante@laportes.com.br",
-    "type": "restaurante",
-    "neighborhood": "",
-    "address": "",
-    "context": "RESTAURANTE; responsável: SIMONE; instagram: https://www.instagram.com/laportescompany/",
-    "phone": "11 42267607 / 11 997894836",
     "template": "",
     "processed": true
   },
@@ -2508,17 +2442,6 @@
     "processed": true
   },
   {
-    "name": "V8 Burger",
-    "email": "contato@v8burger.com.br",
-    "type": "restaurante",
-    "neighborhood": "",
-    "address": "",
-    "context": "HAMBURGUERIA; instagram: https://www.instagram.com/v8burger/",
-    "phone": "11 42296100",
-    "template": "",
-    "processed": true
-  },
-  {
     "name": "Beerwings Pub",
     "email": "beerwings@beerwings.com.br",
     "type": "bar",
@@ -2526,17 +2449,6 @@
     "address": "",
     "context": "BAR E RESTAURANTE; instagram: https://www.instagram.com/beerwingspub/",
     "phone": "(11) 98129-8782 / 11 97110-3553 Stephano",
-    "template": "",
-    "processed": true
-  },
-  {
-    "name": "Kalua Hawaii",
-    "email": "cibrabodesign@gmail.com",
-    "type": "restaurante",
-    "neighborhood": "",
-    "address": "",
-    "context": "RESTAURANTE; responsável: DANIEL; instagram: https://www.instagram.com/kaluahawaiian_food/",
-    "phone": "4438-9309 / 11 99652-2329",
     "template": "",
     "processed": true
   },
@@ -2552,39 +2464,6 @@
     "processed": true
   },
   {
-    "name": "PilaÌo Mineiro",
-    "email": "pilaomineiro@pilaomineiro.com.br",
-    "type": "restaurante",
-    "neighborhood": "",
-    "address": "",
-    "context": "RESTAURANTE; responsável: REGIANE e FRANCISCO; instagram: https://www.instagram.com/pilao.mineiro/",
-    "phone": "(11) 4436-2779 / 11 996199651",
-    "template": "",
-    "processed": true
-  },
-  {
-    "name": "Alameda 7 Restaurante & Evento",
-    "email": "contato@alameda7.com.br",
-    "type": "restaurante",
-    "neighborhood": "",
-    "address": "",
-    "context": "RESTAURANTE; responsável: MAIRA; instagram: https://www.instagram.com/alameda7br/",
-    "phone": "(11) 4224-4609 / 11 945520305 LAURA OU MARCELA",
-    "template": "",
-    "processed": true
-  },
-  {
-    "name": "Restaurante 7 Mares",
-    "email": "falecom@restaurante7mares.com.br",
-    "type": "restaurante",
-    "neighborhood": "",
-    "address": "",
-    "context": "FRUTOS DO MAR; instagram: https://www.instagram.com/restaurante7mares/",
-    "phone": "11 42384622",
-    "template": "",
-    "processed": true
-  },
-  {
     "name": "FRITZÂ® - Santo AndreÌ",
     "email": "contato@fritzsantoandre.com.br",
     "type": "bar",
@@ -2592,28 +2471,6 @@
     "address": "",
     "context": "BAR E RESTAURANTE; responsável: TATIANI; instagram: https://www.instagram.com/fritz.santoandre/",
     "phone": "11 27745322",
-    "template": "",
-    "processed": true
-  },
-  {
-    "name": "Cheirin BÃ£o SBC",
-    "email": "aaron@dnbb.com.br",
-    "type": "restaurante",
-    "neighborhood": "",
-    "address": "",
-    "context": "CAFETERIA; responsável: ARON; instagram: https://www.instagram.com/cheirinbao.SBC/",
-    "phone": "11 944723373   / 11 99898-6677 Natalia / 966591247 ARON",
-    "template": "",
-    "processed": true
-  },
-  {
-    "name": "Die Oma Santo AndreÌ",
-    "email": "dieomajardim@gmail.com",
-    "type": "restaurante",
-    "neighborhood": "",
-    "address": "",
-    "context": "PADARIA; responsável: RAFAEL; instagram: https://www.instagram.com/dieomasantoandre/",
-    "phone": "11 968464467",
     "template": "",
     "processed": true
   },
@@ -2629,61 +2486,6 @@
     "processed": true
   },
   {
-    "name": "CHURRASCO EÌ O NOME",
-    "email": "contato@churrascoeonome.com.br",
-    "type": "restaurante",
-    "neighborhood": "",
-    "address": "",
-    "context": "RESTAURANTE; responsável: ARMANDO; instagram: https://www.instagram.com/churrascoeonomeoficial/",
-    "phone": "11 940590019",
-    "template": "",
-    "processed": true
-  },
-  {
-    "name": "Duckbill Cookies & Coffee",
-    "email": "saocaetanodosul-sp@duckbillcookies.com.br",
-    "type": "restaurante",
-    "neighborhood": "",
-    "address": "",
-    "context": "CAFETERIA; instagram: https://www.instagram.com/duckbill.saocaetanodosul/",
-    "phone": "11 937099813",
-    "template": "",
-    "processed": true
-  },
-  {
-    "name": "IKIZAKI SUSHI",
-    "email": "sushiikisaki21@gmail.com",
-    "type": "restaurante",
-    "neighborhood": "",
-    "address": "",
-    "context": "JAPONES; instagram: https://www.instagram.com/ikizaki_sushi/",
-    "phone": "11 91016-0148",
-    "template": "",
-    "processed": true
-  },
-  {
-    "name": "Alfarre Restaurante e Forneria",
-    "email": "alfarree@gmail.com",
-    "type": "restaurante",
-    "neighborhood": "",
-    "address": "",
-    "context": "RESTAURANTE; responsável: ELENICE; instagram: https://www.instagram.com/alfarrerestaurante/",
-    "phone": "11 4436-1595 / 11 997515392 ELENICE",
-    "template": "",
-    "processed": true
-  },
-  {
-    "name": "MAKE PIZZAS",
-    "email": "makepizzas2021@gmail.com",
-    "type": "restaurante",
-    "neighborhood": "",
-    "address": "",
-    "context": "PIZZARIA; instagram: https://www.instagram.com/make_pizzas/",
-    "phone": "11 971595995",
-    "template": "",
-    "processed": true
-  },
-  {
     "name": "Tanoshimi",
     "email": "henrique@duboie.com.br",
     "type": "restaurante",
@@ -2691,204 +2493,6 @@
     "address": "",
     "context": "JAPONES; responsável: HENRIQUE; instagram: https://www.instagram.com/tanoshimi_scs/",
     "phone": "11 911090110",
-    "template": "",
-    "processed": true
-  },
-  {
-    "name": "Petit Donuts | Loja de Donuts",
-    "email": "petitdonuts@yahoo.com",
-    "type": "restaurante",
-    "neighborhood": "",
-    "address": "",
-    "context": "DONUTS; responsável: JULIANE; instagram: https://www.instagram.com/_petitdonuts_/",
-    "phone": "11 99326-0593",
-    "template": "",
-    "processed": true
-  },
-  {
-    "name": "Padaria karina",
-    "email": "padariakarina@padariakarina.com.br",
-    "type": "restaurante",
-    "neighborhood": "",
-    "address": "",
-    "context": "PADARIA E RESTAURANTE; responsável: Manoel Felisberto; instagram: https://www.instagram.com/padariakarina/",
-    "phone": "11 99606-6826",
-    "template": "",
-    "processed": true
-  },
-  {
-    "name": "DÃ¶ner Shawarma",
-    "email": "falecomdoneshawarma@gmail.com",
-    "type": "restaurante",
-    "neighborhood": "",
-    "address": "",
-    "context": "ARABE; instagram: https://www.instagram.com/donershawarmabr/",
-    "phone": "11 978972915",
-    "template": "",
-    "processed": true
-  },
-  {
-    "name": "302 Burger",
-    "email": "302burger@gmail.com",
-    "type": "restaurante",
-    "neighborhood": "",
-    "address": "",
-    "context": "HAMBURGUERIA; instagram: https://www.instagram.com/302burger/",
-    "phone": "11 954295952",
-    "template": "",
-    "processed": true
-  },
-  {
-    "name": "O Xapero Hamburgueria",
-    "email": "ev.pereira@yahoo.com.br",
-    "type": "restaurante",
-    "neighborhood": "",
-    "address": "",
-    "context": "HAMBURGUERIA; responsável: PATRICIA; instagram: https://www.instagram.com/oxaperofficial/",
-    "phone": "(11) 95398-6605 /  (11) 4317-3999 / 11 947670209 PATRICIA",
-    "template": "",
-    "processed": true
-  },
-  {
-    "name": "Tatu Bola SaÌo Bernardo",
-    "email": "reservas.sb@tatubolabar.com.br",
-    "type": "restaurante",
-    "neighborhood": "",
-    "address": "",
-    "context": "RESTAURANTE; responsável: FERNANDA; instagram: https://www.instagram.com/tatubola.saobernardo/",
-    "phone": "11 43174727 / alifegroup (11) 5594-8505",
-    "template": "",
-    "processed": true
-  },
-  {
-    "name": "Pub Fiction Rock Burger",
-    "email": "pubfictionsbc@gmail.com",
-    "type": "restaurante",
-    "neighborhood": "",
-    "address": "",
-    "context": "HAMBURGUERIA; instagram: https://www.instagram.com/pubfictionsbc/",
-    "phone": "11 949179960",
-    "template": "",
-    "processed": true
-  },
-  {
-    "name": "Donna MocÌ§a Brigaderia",
-    "email": "donnamocabrigaderiasbc@gmail.com",
-    "type": "restaurante",
-    "neighborhood": "",
-    "address": "",
-    "context": "DOCERIA; responsável: Fernanda; instagram: https://www.instagram.com/donnamocabrigaderiasbc/",
-    "phone": "11 961855555",
-    "template": "",
-    "processed": true
-  },
-  {
-    "name": "Quinta do Portuga",
-    "email": "contato@quintadoportuga.com.br",
-    "type": "restaurante",
-    "neighborhood": "",
-    "address": "",
-    "context": "RESTAURANTE; instagram: https://www.instagram.com/quintadoportuga/",
-    "phone": "11 45092422",
-    "template": "",
-    "processed": true
-  },
-  {
-    "name": "Meiroca Coxinharia Bar",
-    "email": "meirocacoxinhariabar@gmail.com",
-    "type": "restaurante",
-    "neighborhood": "",
-    "address": "",
-    "context": "COXINHA; instagram: https://www.instagram.com/meirocacoxinhariabar/",
-    "phone": "N TEM TEL",
-    "template": "",
-    "processed": true
-  },
-  {
-    "name": "Dona Esfiha",
-    "email": "donaesfihasbc@outlook.com",
-    "type": "restaurante",
-    "neighborhood": "",
-    "address": "",
-    "context": "ESFIHARIA; responsável: RODRIGO; instagram: https://www.instagram.com/donaesfihasbc/",
-    "phone": "11 43396999 /  4335-9588 / 11 981552429 WHATS  / 11 989921259 RODRIGO",
-    "template": "",
-    "processed": true
-  },
-  {
-    "name": "ð¦ðð¡ðð¨ððððð¥ðð ð£ð...",
-    "email": "sanduicheriapetropolis2009@gmail.com",
-    "type": "restaurante",
-    "neighborhood": "",
-    "address": "",
-    "context": "LANCHE; responsável: FAUSTO; instagram: https://www.instagram.com/sanduicheriapetropolis/",
-    "phone": "11 982569109",
-    "template": "",
-    "processed": true
-  },
-  {
-    "name": "TORAÌ SUSHI & ROBATA",
-    "email": "tora@restaurantetora.com.br",
-    "type": "restaurante",
-    "neighborhood": "",
-    "address": "",
-    "context": "JAPONES; responsável: ERIKA; instagram: https://www.instagram.com/toragastronomia/",
-    "phone": "11 41213262 TEM WHATS",
-    "template": "",
-    "processed": true
-  },
-  {
-    "name": "Pizzaria Ãrtico",
-    "email": "sac@pizzariaartico.com.br",
-    "type": "restaurante",
-    "neighborhood": "",
-    "address": "",
-    "context": "PIZZARIA; instagram: https://www.instagram.com/pizzariaartico/",
-    "phone": "11 40912004",
-    "template": "",
-    "processed": true
-  },
-  {
-    "name": "R.U.A BURGER",
-    "email": "ruahamburgueria@gmail.com",
-    "type": "restaurante",
-    "neighborhood": "",
-    "address": "",
-    "context": "HAMBURGUERIA; responsável: PAULO; instagram: https://www.instagram.com/rua.burger/",
-    "phone": "11 985381249 / +5511959865313 Paulo",
-    "template": "",
-    "processed": true
-  },
-  {
-    "name": "Esfiha Faisal",
-    "email": "faisalesfiha@gmail.com",
-    "type": "restaurante",
-    "neighborhood": "",
-    "address": "",
-    "context": "ESFIHARIA; instagram: https://www.instagram.com/esfihafaisal/",
-    "phone": "11 43165797",
-    "template": "",
-    "processed": true
-  },
-  {
-    "name": "Manza Sushi - SÃ£o Bernardo",
-    "email": "manzasushi@hotmail.com",
-    "type": "restaurante",
-    "neighborhood": "",
-    "address": "",
-    "context": "JAPONES; instagram: https://www.instagram.com/manzasushibar/",
-    "phone": "11 39961503",
-    "template": "",
-    "processed": true
-  },
-  {
-    "name": "MESTRE NA BRASA",
-    "email": "debora_bsb2010@hotmail.com",
-    "type": "restaurante",
-    "neighborhood": "",
-    "address": "",
-    "context": "HAMBURGUERIA; responsável: DEBORA; instagram: https://www.instagram.com/mestremaua/",
-    "phone": "11 961901046",
     "template": "",
     "processed": true
   },
@@ -2904,61 +2508,6 @@
     "processed": true
   },
   {
-    "name": "Hollywood Burger House",
-    "email": "hollywoodburgerhouse@gmail.com",
-    "type": "restaurante",
-    "neighborhood": "",
-    "address": "",
-    "context": "HAMBURGUERIA; responsável: LARIELI; instagram: https://www.instagram.com/hollywoodburgerhouse/",
-    "phone": "(11)96358-7901",
-    "template": "",
-    "processed": true
-  },
-  {
-    "name": "CoffeeHolic Cafes Especiais",
-    "email": "contato.coffeeholic@gmail.com",
-    "type": "restaurante",
-    "neighborhood": "",
-    "address": "",
-    "context": "CAFETERIA; responsável: JOSÃ; instagram: https://www.instagram.com/coffeeholic128/",
-    "phone": "(11)4427â1172",
-    "template": "",
-    "processed": true
-  },
-  {
-    "name": "Blackseed",
-    "email": "brunovarjao23@gmail.com",
-    "type": "restaurante",
-    "neighborhood": "",
-    "address": "",
-    "context": "CAFETERIA; responsável: BRUNO; instagram: https://www.instagram.com/blackseed_coffee/",
-    "phone": "11 959094431",
-    "template": "",
-    "processed": true
-  },
-  {
-    "name": "pizzaria dom Gaspar",
-    "email": "domgaspar@hotmail.com",
-    "type": "restaurante",
-    "neighborhood": "",
-    "address": "",
-    "context": "PIZZARIA; instagram: https://www.instagram.com/domgasparpizzaria/",
-    "phone": "11 997281103 / 45550131",
-    "template": "",
-    "processed": true
-  },
-  {
-    "name": "Panda Burger Smash",
-    "email": "pandaburgerhouse@gmail.com",
-    "type": "restaurante",
-    "neighborhood": "",
-    "address": "",
-    "context": "HAMBURGUERIA; instagram: https://www.instagram.com/pandaburgersmash/",
-    "phone": "11 962593794",
-    "template": "",
-    "processed": true
-  },
-  {
     "name": "EdoÌ Sushi Bar",
     "email": "contato@edoushibar.com.br",
     "type": "restaurante",
@@ -2966,83 +2515,6 @@
     "address": "",
     "context": "JAPONES; responsável: LUIZ; instagram: https://www.instagram.com/edosushibar_abc/",
     "phone": "11 49022400 / 11 996352918",
-    "template": "",
-    "processed": true
-  },
-  {
-    "name": "OLD GUY",
-    "email": "oldguyrestaurante@hotmail.com",
-    "type": "restaurante",
-    "neighborhood": "",
-    "address": "",
-    "context": "RESTAURANTE E PIZZARIA; responsável: JUHAN; instagram: https://www.instagram.com/oldguy_sa/",
-    "phone": "11 930697214 / 2896-0065",
-    "template": "",
-    "processed": true
-  },
-  {
-    "name": "PIZZARIA DONNA PINA",
-    "email": "r.massoni36@gmail.com",
-    "type": "restaurante",
-    "neighborhood": "",
-    "address": "",
-    "context": "PIZZARIA; responsável: RogÃ©rio Masson; instagram: https://www.instagram.com/pizzariadonnapina/",
-    "phone": "11 42384822  /  11 99304.9020",
-    "template": "",
-    "processed": true
-  },
-  {
-    "name": "Parrilla Del Carmem",
-    "email": "delcarmem@outlook.com",
-    "type": "restaurante",
-    "neighborhood": "",
-    "address": "",
-    "context": "RESTAURANTE ARGENTINO; responsável: VICTOR ou LEO; instagram: https://www.instagram.com/parrilladelcarmem/",
-    "phone": "11 27594146  / 11 44321717 / 11 997490322 DEPOIS DAS 16H / 11 988981394 EMPORIO JARDIM DEL CARMEN",
-    "template": "",
-    "processed": true
-  },
-  {
-    "name": "Confeitaria Regiane Canuto",
-    "email": "qualidade@regianecanuto.com.br",
-    "type": "restaurante",
-    "neighborhood": "",
-    "address": "",
-    "context": "CONFEITARIA; responsável: LEANDRO; instagram: https://www.instagram.com/regianecanutoconfeitaria/",
-    "phone": "2988-1371 / 1193927-4383",
-    "template": "",
-    "processed": true
-  },
-  {
-    "name": "Brota na Base",
-    "email": "brotanabase@gmail.com",
-    "type": "restaurante",
-    "neighborhood": "",
-    "address": "",
-    "context": "HAMBURGUERIA; instagram: https://www.instagram.com/brotanabaseoficial/",
-    "phone": "11 987988939",
-    "template": "",
-    "processed": true
-  },
-  {
-    "name": "Padaria Bella VitÃ³ria",
-    "email": "bellavitoria@bellavitoria.com.br",
-    "type": "restaurante",
-    "neighborhood": "",
-    "address": "",
-    "context": "PADARIA E RESTAURANTE; responsável: MARIA QUEIROS; instagram: https://www.instagram.com/padariabellavitoria/",
-    "phone": "11 991326920 / 11 44688770 / 11 44320748 | 944679833 / 44351100",
-    "template": "",
-    "processed": true
-  },
-  {
-    "name": "KONERIA",
-    "email": "koneriaabc@outlook.com",
-    "type": "restaurante",
-    "neighborhood": "",
-    "address": "",
-    "context": "JAPONES; responsável: MATHEUS; instagram: https://www.instagram.com/koneria/",
-    "phone": "11 43174003 / 11 984596097 ELIANE GERENTE  /  11 94738-7886 Mateus",
     "template": "",
     "processed": true
   },
@@ -3058,39 +2530,6 @@
     "processed": true
   },
   {
-    "name": "PADARIA ARCOIRIS",
-    "email": "arcoirispadaria97@gmail.com",
-    "type": "restaurante",
-    "neighborhood": "",
-    "address": "",
-    "context": "PADARIA E DOCERIA; responsável: EVERTON; instagram: https://www.instagram.com/arcoirispadaria/",
-    "phone": "11 45556023",
-    "template": "",
-    "processed": true
-  },
-  {
-    "name": "KHARINA",
-    "email": "leticiaoliveira8840@gmail.com",
-    "type": "restaurante",
-    "neighborhood": "",
-    "address": "",
-    "context": "HAMBURGUERIA E RESTAURANTE; responsável: EDUARDO; instagram: https://www.instagram.com/kharinaoficial/",
-    "phone": "(11) 4227-3534 scs  / 11 946842597 LETICIA",
-    "template": "",
-    "processed": true
-  },
-  {
-    "name": "Canoa Quebrada Pizza Bar",
-    "email": "canoaquebradabar@uol.com.br",
-    "type": "restaurante",
-    "neighborhood": "",
-    "address": "",
-    "context": "RESTAURANTE E PIZZARIA; responsável: CESAR; instagram: https://www.instagram.com/canoaquebradapizzabar/",
-    "phone": "11 48286745 / 11 99623-2000",
-    "template": "",
-    "processed": true
-  },
-  {
     "name": "SAN MARCO",
     "email": "contato@sanmarconepizzaria.com.br",
     "type": "restaurante",
@@ -3098,17 +2537,6 @@
     "address": "",
     "context": "PIZZARIA; instagram: https://www.instagram.com/sanmarcopizzaria/",
     "phone": "11 49907900",
-    "template": "",
-    "processed": true
-  },
-  {
-    "name": "Manah Burger",
-    "email": "manahburger@gmail.com",
-    "type": "restaurante",
-    "neighborhood": "",
-    "address": "",
-    "context": "HAMBURGUERIA; instagram: https://www.instagram.com/manahburger/",
-    "phone": "11 4352-2689",
     "template": "",
     "processed": true
   },
@@ -3124,28 +2552,6 @@
     "processed": true
   },
   {
-    "name": "Burger For You",
-    "email": "hamburgueria.b4u@gmail.com",
-    "type": "restaurante",
-    "neighborhood": "",
-    "address": "",
-    "context": "HAMBURGUERIA; responsável: FRANCISCO e FERNANDO; instagram: https://www.instagram.com/burgerforyou/",
-    "phone": "11 23241114",
-    "template": "",
-    "processed": true
-  },
-  {
-    "name": "AmiÌ BistroÌ - SBC",
-    "email": "adm@bistrodaenoteca.com.br",
-    "type": "restaurante",
-    "neighborhood": "",
-    "address": "",
-    "context": "RESTAURANTE; responsável: MARCELO ROSA; instagram: https://www.instagram.com/amibistro.sbc/",
-    "phone": "11 28332883",
-    "template": "",
-    "processed": true
-  },
-  {
     "name": "Kensei Sushi Bar",
     "email": "social@kenseisushibar.com.br",
     "type": "restaurante",
@@ -3153,116 +2559,6 @@
     "address": "",
     "context": "JAPONES; instagram: https://www.instagram.com/kenseisushibar/",
     "phone": "11 34387787",
-    "template": "",
-    "processed": true
-  },
-  {
-    "name": "Franâs CafeÌ SaÌo Caetano",
-    "email": "franscafegoiaisscs@gmail.com",
-    "type": "restaurante",
-    "neighborhood": "",
-    "address": "",
-    "context": "CAFETERIA; instagram: https://www.instagram.com/franscafesaocaetano/",
-    "phone": "11 42331119",
-    "template": "",
-    "processed": true
-  },
-  {
-    "name": "Gordo Lanches",
-    "email": "suporte.gordolanches@gmail.com",
-    "type": "restaurante",
-    "neighborhood": "",
-    "address": "",
-    "context": "HAMBURGUERIA E TEMAKERIA; instagram: https://www.instagram.com/gordolanchesetemakeria/",
-    "phone": "11 966058241",
-    "template": "",
-    "processed": true
-  },
-  {
-    "name": "Grazie Napoli",
-    "email": "ola@grazienapoli.com.br",
-    "type": "restaurante",
-    "neighborhood": "",
-    "address": "",
-    "context": "PIZZARIA; instagram: https://www.instagram.com/grazienapoli/",
-    "phone": "11 44322308",
-    "template": "",
-    "processed": true
-  },
-  {
-    "name": "La Candelaria !",
-    "email": "lacanderiasp@gmail.com",
-    "type": "restaurante",
-    "neighborhood": "",
-    "address": "",
-    "context": "VEGANO; instagram: https://www.instagram.com/lacandelaria_becobatman/",
-    "phone": "11 98691-1609",
-    "template": "",
-    "processed": true
-  },
-  {
-    "name": "Casa Portena",
-    "email": "contato@casaportena.com.br",
-    "type": "restaurante",
-    "neighborhood": "",
-    "address": "",
-    "context": "RESTAURANTE; responsável: RAFAEL; instagram: https://www.instagram.com/casa.portena/",
-    "phone": "(11) 4234-2240 / (11) 4234-2491 SCS | (11) 3823-2725 PÃ¡tio HigienÃ³polis / 38497029 ESCRITORIO /",
-    "template": "",
-    "processed": true
-  },
-  {
-    "name": "Hamburgueria RR",
-    "email": "hamburgueriarr@hotmail.com",
-    "type": "restaurante",
-    "neighborhood": "",
-    "address": "",
-    "context": "HAMBURGUERIA; instagram: https://www.instagram.com/hamburgueriarr_/",
-    "phone": "11 983483987",
-    "template": "",
-    "processed": true
-  },
-  {
-    "name": "Pizzaria AndirÃ¡",
-    "email": "pizzariaandira20@hotmail.com",
-    "type": "restaurante",
-    "neighborhood": "",
-    "address": "",
-    "context": "PIZZARIA; instagram: https://www.instagram.com/pizzariaandira/",
-    "phone": "11 933965149 / 11 53440690",
-    "template": "",
-    "processed": true
-  },
-  {
-    "name": "NA BRASA BURGER",
-    "email": "ktbelo@hotmail.com",
-    "type": "restaurante",
-    "neighborhood": "",
-    "address": "",
-    "context": "HAMBURGUERIA; responsável: KAIKE; instagram: https://www.instagram.com/nabrasaburgeer/",
-    "phone": "11 943083870 / 11 34214087 / 11998964166 KAIKE",
-    "template": "",
-    "processed": true
-  },
-  {
-    "name": "DENAMI'S BURGUERS",
-    "email": "denamisburguers@gmail.com",
-    "type": "restaurante",
-    "neighborhood": "",
-    "address": "",
-    "context": "HAMBURGUERIA; instagram: https://www.instagram.com/denamisburguers/",
-    "phone": "11 949568371",
-    "template": "",
-    "processed": true
-  },
-  {
-    "name": "O'AHU Hawaiian Food",
-    "email": "sdserika@hotmail.com",
-    "type": "restaurante",
-    "neighborhood": "",
-    "address": "",
-    "context": "RESTAURANTE HAWAIANO; responsável: ERIKA E ERIK; instagram: https://www.instagram.com/oahu_hawaiianfood/",
-    "phone": "11997887767 / 11971061223 ERIC",
     "template": "",
     "processed": true
   },
@@ -3278,28 +2574,6 @@
     "processed": true
   },
   {
-    "name": "Confraria Burger & Beer",
-    "email": "chefmarcelodomingues@gmail.com",
-    "type": "restaurante",
-    "neighborhood": "",
-    "address": "",
-    "context": "HAMBURGUERIA; responsável: MARCELO; instagram: https://www.instagram.com/confrariaburgerbeer/",
-    "phone": "11 4509-8921 / 11 950294920",
-    "template": "",
-    "processed": true
-  },
-  {
-    "name": "SNACK SHACK",
-    "email": "snackshackhamburgueria@gmail.com",
-    "type": "restaurante",
-    "neighborhood": "",
-    "address": "",
-    "context": "HAMBURGUERIA; responsável: FÃ©rs; instagram: https://www.instagram.com/snackshackbestsmashburgers/",
-    "phone": "11 960782308 FÃRS / 95618-4320",
-    "template": "",
-    "processed": true
-  },
-  {
     "name": "Tamagochi Sushi Garden",
     "email": "carlos@tamagochi.com.br",
     "type": "restaurante",
@@ -3311,83 +2585,6 @@
     "processed": true
   },
   {
-    "name": "The Burger Map",
-    "email": "ola@theburgermap.com.br",
-    "type": "restaurante",
-    "neighborhood": "",
-    "address": "",
-    "context": "HAMBURGUERIA; instagram: https://www.instagram.com/theburgermap/",
-    "phone": "11 25340747 WPP",
-    "template": "",
-    "processed": true
-  },
-  {
-    "name": "Burger In House",
-    "email": "allandemarco10@gmail.com",
-    "type": "restaurante",
-    "neighborhood": "",
-    "address": "",
-    "context": "HAMBURGUERIA; instagram: https://www.instagram.com/burger_in_house/",
-    "phone": "11 44792049 / 11931356891",
-    "template": "",
-    "processed": true
-  },
-  {
-    "name": "BAR DO PEIXE",
-    "email": "bardopeixeresponde@outlook.com",
-    "type": "restaurante",
-    "neighborhood": "",
-    "address": "",
-    "context": "FRUTOS DO MAR; responsável: ALEXANDRA e SERGIO; instagram: https://www.instagram.com/bardopeixescs/",
-    "phone": "11 4238-2122 / 11 958122308",
-    "template": "",
-    "processed": true
-  },
-  {
-    "name": "CHILEÂ´S BURGUER",
-    "email": "chilesburguer@gmail.com",
-    "type": "restaurante",
-    "neighborhood": "",
-    "address": "",
-    "context": "HAMBURGUERIA; responsável: Gustavo ou Carlos; instagram: https://www.instagram.com/chilesburguer/",
-    "phone": "11947348001 / 11 96921-0370",
-    "template": "",
-    "processed": true
-  },
-  {
-    "name": "JB Prime Steak",
-    "email": "jbprime154@hotmail.com",
-    "type": "restaurante",
-    "neighborhood": "",
-    "address": "",
-    "context": "RESTAURANTE; responsável: JOEL; instagram: https://www.instagram.com/jbprimesteak/",
-    "phone": "11 963507712",
-    "template": "",
-    "processed": true
-  },
-  {
-    "name": "BoleÌ",
-    "email": "alessandra.favarosales@gmail.com",
-    "type": "restaurante",
-    "neighborhood": "",
-    "address": "",
-    "context": "CONFEITARIA E CAFETERIA; responsável: ALESSANDRA; instagram: https://www.instagram.com/bole_bolosedoces/",
-    "phone": "11 950490923",
-    "template": "",
-    "processed": true
-  },
-  {
-    "name": "Paella Daniel",
-    "email": "danielcaldeira2@hotmail.com",
-    "type": "restaurante",
-    "neighborhood": "",
-    "address": "",
-    "context": "RESTAURANTE; responsável: ANDERSON; instagram: https://www.instagram.com/paelladaniel/",
-    "phone": "11 997600220",
-    "template": "",
-    "processed": true
-  },
-  {
     "name": "La Revolucion Bar",
     "email": "contato@larevolucionbar.com.br",
     "type": "bar",
@@ -3395,61 +2592,6 @@
     "address": "",
     "context": "BAR E RESTAURANTE; responsável: ARTHUR; instagram: https://www.instagram.com/larevolucionbar/",
     "phone": "11 984055489",
-    "template": "",
-    "processed": true
-  },
-  {
-    "name": "Maktub CulinaÌria AÌrabe",
-    "email": "tiagoabdul@hotmail.com",
-    "type": "restaurante",
-    "neighborhood": "",
-    "address": "",
-    "context": "ARABE; responsável: TIAGO; instagram: https://www.instagram.com/maktub.arabe/",
-    "phone": "11 43171206 wpp / 11 98433-4463 thiago",
-    "template": "",
-    "processed": true
-  },
-  {
-    "name": "La Brasa Burger SaÌo Bernardo",
-    "email": "saobernardo@labrasaburger.com.br",
-    "type": "restaurante",
-    "neighborhood": "",
-    "address": "",
-    "context": "HAMBURGUERIA; responsável: SARA; instagram: https://www.instagram.com/labrasaburgersaobernardo/",
-    "phone": "11 43170592 / 11 945702671 SARA / 11 98783-8702 sara",
-    "template": "",
-    "processed": true
-  },
-  {
-    "name": "Becco 7 Burguer",
-    "email": "lrmktdigital@gmail.com",
-    "type": "restaurante",
-    "neighborhood": "",
-    "address": "",
-    "context": "HAMBURGUERIA; responsável: MURILO; instagram: https://www.instagram.com/becco7burguer/",
-    "phone": "11 45095539",
-    "template": "",
-    "processed": true
-  },
-  {
-    "name": "Villare Pizzaria",
-    "email": "contato@villarepizzaria.com.br",
-    "type": "restaurante",
-    "neighborhood": "",
-    "address": "",
-    "context": "PIZZARIA; responsável: GUSTAVO; instagram: https://www.instagram.com/villarepizzaria/",
-    "phone": "11 49975557 SA |  3380-1100 SBC  / 11 961615557 LOJA",
-    "template": "",
-    "processed": true
-  },
-  {
-    "name": "Pizzaria Vero Verde",
-    "email": "veroverde@veroverde.com.br",
-    "type": "restaurante",
-    "neighborhood": "",
-    "address": "",
-    "context": "PIZZARIA; responsável: BRUNA e JUNIOR 999653935 BRUNA; instagram: https://www.instagram.com/pizzariaveroverde/",
-    "phone": "11 44330888 /  999653935 BRUNA",
     "template": "",
     "processed": true
   },
@@ -3476,50 +2618,6 @@
     "processed": true
   },
   {
-    "name": "DOGH HANDMADE",
-    "email": "doghifood@gmail.com",
-    "type": "restaurante",
-    "neighborhood": "",
-    "address": "",
-    "context": "HOT DOG; instagram: https://www.instagram.com/dogh.hm/",
-    "phone": "11 997923688",
-    "template": "",
-    "processed": true
-  },
-  {
-    "name": "La Mordidita",
-    "email": "contato.lamordita@gmail.com",
-    "type": "restaurante",
-    "neighborhood": "",
-    "address": "",
-    "context": "EMPANADAS; responsável: SOLEDAD; instagram: https://www.instagram.com/lamordiditaempanadas/",
-    "phone": "11 42285222 / 11 953590729 SOLEDAD",
-    "template": "",
-    "processed": true
-  },
-  {
-    "name": "PracÌ§a 31",
-    "email": "contato@praca31.com.br",
-    "type": "restaurante",
-    "neighborhood": "",
-    "address": "",
-    "context": "RESTAURANTE; responsável: SIMONE OU DENISE; instagram: https://www.instagram.com/praca31/",
-    "phone": "11 940533330",
-    "template": "",
-    "processed": true
-  },
-  {
-    "name": "Sushi Arte",
-    "email": "claudio.sushiman@hotmail.com",
-    "type": "restaurante",
-    "neighborhood": "",
-    "address": "",
-    "context": "JAPONES; responsável: LUANA; instagram: https://www.instagram.com/sushi.arte/",
-    "phone": "(11) 4318-2324 / (11) 97212-6437 SCS |  (11) 98560-9943 SP | (11) 2324-4752 / (11) 99182-0856 SA /  11 981834977 LUANA",
-    "template": "",
-    "processed": true
-  },
-  {
     "name": "Sr. Temaki CulinÃ¡ria Japonesa",
     "email": "adm@senhortemaki.com.br",
     "type": "restaurante",
@@ -3527,72 +2625,6 @@
     "address": "",
     "context": "JAPONES; responsável: FERANDO OU JESSICA; instagram: https://www.instagram.com/srtemaki/",
     "phone": "11 49412251 / 11 937480970",
-    "template": "",
-    "processed": true
-  },
-  {
-    "name": "CafeliÃª Four B",
-    "email": "cafeliefourb@gmail.com",
-    "type": "restaurante",
-    "neighborhood": "",
-    "address": "",
-    "context": "CAFETERIA E DOCERIA; responsável: BEATRIZ; instagram: https://www.instagram.com/cafelie.fourb/",
-    "phone": "(11) 97758-3444 / 942421575 BEATRIZ",
-    "template": "",
-    "processed": true
-  },
-  {
-    "name": "Croasonho Shopping Grand Plaza",
-    "email": "santoandre@croasonho.com.br",
-    "type": "restaurante",
-    "neighborhood": "",
-    "address": "",
-    "context": "VARIADOS; responsável: GLAU / FABIO; instagram: https://www.instagram.com/croasonhosantoandre/",
-    "phone": "11 23251650 / 11 959929856",
-    "template": "",
-    "processed": true
-  },
-  {
-    "name": "Fonte Leone",
-    "email": "fonteleone@fonteleonebar.com.br",
-    "type": "restaurante",
-    "neighborhood": "",
-    "address": "",
-    "context": "RESTAURANTE; responsável: RICHARD; instagram: https://www.instagram.com/fonteleone/",
-    "phone": "11 44276917",
-    "template": "",
-    "processed": true
-  },
-  {
-    "name": "Haus CafeÌ",
-    "email": "oi@hauscafe.com.br",
-    "type": "restaurante",
-    "neighborhood": "",
-    "address": "",
-    "context": "CAFETERIA; responsável: SILVIA; instagram: https://www.instagram.com/hauscafescs/",
-    "phone": "11 42321648 / 11 996896347 SILVIA",
-    "template": "",
-    "processed": true
-  },
-  {
-    "name": "PalÃ¡cio do PÃ£o",
-    "email": "palacio@palaciodopao.com.br",
-    "type": "restaurante",
-    "neighborhood": "",
-    "address": "",
-    "context": "PADARIA E RESTAURANTE; instagram: https://www.instagram.com/palaciodopao/",
-    "phone": "1144793574 / 11 4479-3606",
-    "template": "",
-    "processed": true
-  },
-  {
-    "name": "IB PATISSERIE",
-    "email": "contato@isabellabrendler.com",
-    "type": "restaurante",
-    "neighborhood": "",
-    "address": "",
-    "context": "DOCERIA; responsável: ISABELA; instagram: https://www.instagram.com/ibpatisserie/",
-    "phone": "11 23794180 / 11 993584761",
     "template": "",
     "processed": true
   },
@@ -3605,7 +2637,7 @@
     "context": "RESTAURANTE E PIZZARIA; responsável: ERIK; instagram: https://www.instagram.com/fornalenha_pizzaria/",
     "phone": "11 45557664 / 11 940231281 ERIK",
     "template": "",
-    "processed": false
+    "processed": true
   },
   {
     "name": "Restaurante America",
@@ -3616,7 +2648,7 @@
     "context": "RESTAURANTE; responsável: JOANA; instagram: https://www.instagram.com/americaburger/",
     "phone": "11 56442222 / 5644-6870 JOANA GELPI",
     "template": "",
-    "processed": false
+    "processed": true
   },
   {
     "name": "Confeitaria Marrom Glace",
@@ -3627,7 +2659,7 @@
     "context": "DOCERIA; responsável: GUSTAVO OU THAIS; instagram: https://www.instagram.com/oficialmarromglace/",
     "phone": "11 961850072 / 11 993972734 GUSTAVO",
     "template": "",
-    "processed": false
+    "processed": true
   },
   {
     "name": "Restaurante NordestÃ£o",
@@ -3638,7 +2670,7 @@
     "context": "NORDESTINO; responsável: KELLY; instagram: https://www.instagram.com/restaurantenordestaosbc/",
     "phone": "11 950312773 / 11 91300-7802 Loja",
     "template": "",
-    "processed": false
+    "processed": true
   },
   {
     "name": "Restaurante Confraria Vegana",
@@ -3649,7 +2681,7 @@
     "context": "RESTAURANTE; responsável: JEAN; instagram: https://www.instagram.com/confraria.vegana/",
     "phone": "12 997334335 JEAN",
     "template": "",
-    "processed": false
+    "processed": true
   },
   {
     "name": "The Shape Burguer",
@@ -3660,7 +2692,7 @@
     "context": "HAMBURGUERIA; responsável: LUIZ; instagram: https://www.instagram.com/theshapeburguer/",
     "phone": "11 994830982",
     "template": "",
-    "processed": false
+    "processed": true
   },
   {
     "name": "Esfiharia Jardim",
@@ -3671,7 +2703,7 @@
     "context": "ESFIHARIA; responsável: FABIO; instagram: https://www.instagram.com/esfihariajardim/",
     "phone": "(11) 96060-3216 FABIO  /  11 999914673",
     "template": "",
-    "processed": false
+    "processed": true
   },
   {
     "name": "Underground Gastro Bar",
@@ -3682,7 +2714,7 @@
     "context": "VARIADOS; instagram: https://www.instagram.com/undergastrobar/",
     "phone": "11 44570387",
     "template": "",
-    "processed": false
+    "processed": true
   },
   {
     "name": "Bar do FregueÌs",
@@ -3693,7 +2725,7 @@
     "context": "RESTAURANTE; responsável: MARCO; instagram: https://www.instagram.com/bardofregues/",
     "phone": "2669-7747 / 1195955-0527 WHATS",
     "template": "",
-    "processed": false
+    "processed": true
   },
   {
     "name": "Yoake Sushi Bar",
@@ -3704,7 +2736,7 @@
     "context": "JAPONES; responsável: LUCAS; instagram: https://www.instagram.com/yoakesushibar/",
     "phone": "11 42280639 / 11 95282-2681 LUCAS",
     "template": "",
-    "processed": false
+    "processed": true
   },
   {
     "name": "Fifty CafeÌ",
@@ -3715,7 +2747,7 @@
     "context": "CAFETERIA E RESTAURANTE; responsável: RENATO  E RONALDO; instagram: https://www.instagram.com/fiftycafescs/",
     "phone": "11 992329328",
     "template": "",
-    "processed": false
+    "processed": true
   },
   {
     "name": "Ruster's - Frango Frito",
@@ -3726,7 +2758,7 @@
     "context": "FRANGO FRITO; responsável: LEONARDO; instagram: https://www.instagram.com/rusters_fc/",
     "phone": "97880-2929 / 114339-2173/ 11 992577891 / 11954814492 Leonardo",
     "template": "",
-    "processed": false
+    "processed": true
   },
   {
     "name": "Okazaki Sushi",
@@ -3737,7 +2769,7 @@
     "context": "JAPONES; responsável: SILVIO / JADER; instagram: https://www.instagram.com/okazaki.sushi/",
     "phone": "1144595752 / 11 987702812 / 11 954476963",
     "template": "",
-    "processed": false
+    "processed": true
   },
   {
     "name": "Grassie Restaurante",
@@ -3748,7 +2780,7 @@
     "context": "RESTAURANTE; responsável: ISABELA e Fabio; instagram: https://www.instagram.com/grassierestaurante/",
     "phone": "11 972923701 DELIVERY / 11 98524-0222 Fabio /",
     "template": "",
-    "processed": false
+    "processed": true
   },
   {
     "name": "XÃ´k's - Diadema, SP",
@@ -3759,7 +2791,7 @@
     "context": "CAFETERIA; responsável: OSVALDO; instagram: https://www.instagram.com/xoksdiadema/",
     "phone": "(11) 97458-0732 / (11) 99907-7822 OSWALDO /  11 97458-0732",
     "template": "",
-    "processed": false
+    "processed": true
   },
   {
     "name": "Take Barbecue",
@@ -3770,7 +2802,7 @@
     "context": "RESTAURANTE; responsável: JOÃO; instagram: https://www.instagram.com/take_barbecue/",
     "phone": "11 974989898",
     "template": "",
-    "processed": false
+    "processed": true
   },
   {
     "name": "EstaÃ§Ã£o Parrilla",
@@ -3781,7 +2813,7 @@
     "context": "RESTAURANTE; responsável: FELIPE; instagram: https://www.instagram.com/estacaoparrilla/",
     "phone": "11 39964418  / 11975113040  Felipe",
     "template": "",
-    "processed": false
+    "processed": true
   },
   {
     "name": "Restaurante e Enoteca Permont",
@@ -3792,7 +2824,7 @@
     "context": "RESTAURANTE; responsável: ANDRE; instagram: https://www.instagram.com/enotecapermont/",
     "phone": "11 996583399 / 11 911916565 ANDRE PROPRIETARIO",
     "template": "",
-    "processed": false
+    "processed": true
   },
   {
     "name": "Bilu Coffee",
@@ -3803,7 +2835,7 @@
     "context": "CAFETERIA; responsável: PATRICIA; instagram: https://www.instagram.com/bilucoffeeandcake/",
     "phone": "11 999085871",
     "template": "",
-    "processed": false
+    "processed": true
   },
   {
     "name": "Bros. CafeÌ e BistroÌ",
@@ -3814,7 +2846,7 @@
     "context": "CAFE E RESTAURANTE; responsável: FELIPE; instagram: https://www.instagram.com/bros.cafeebistro/",
     "phone": "11 37051009",
     "template": "",
-    "processed": false
+    "processed": true
   },
   {
     "name": "Los Pibes Empanadas",
@@ -3825,7 +2857,7 @@
     "context": "EMAPANADAS; instagram: https://www.instagram.com/lospibes.empanadas/",
     "phone": "11 934721161",
     "template": "",
-    "processed": false
+    "processed": true
   },
   {
     "name": "Quintal das Figueiras",
@@ -3847,7 +2879,7 @@
     "context": "PANQUECAS; responsável: JULIANE; instagram: https://www.instagram.com/lasquecas.santoandre/",
     "phone": "11 949432192",
     "template": "",
-    "processed": false
+    "processed": true
   },
   {
     "name": "GALETERIA METRÃPOLIS",
@@ -3858,7 +2890,7 @@
     "context": "RESTAURANTE; responsável: SUZANA; instagram: https://www.instagram.com/galeteria_metropolis/",
     "phone": "11 43306980  / 1197048-5325 SUZANA",
     "template": "",
-    "processed": false
+    "processed": true
   },
   {
     "name": "THE ORIENTAL IZAKAYA",
@@ -3869,7 +2901,7 @@
     "context": "ASIATICO; responsável: VINICIUS; instagram: https://www.instagram.com/theoriental.izakaya/",
     "phone": "11 971121022",
     "template": "",
-    "processed": false
+    "processed": true
   },
   {
     "name": "Manduu Restaurante",
@@ -3880,7 +2912,7 @@
     "context": "RESTAURANTE; responsável: MAIARA / GLEISON OU MARCEL; instagram: https://www.instagram.com/espaco_manduu/",
     "phone": "11 44321938  / 11 961613315 MARCEL",
     "template": "",
-    "processed": false
+    "processed": true
   },
   {
     "name": "A CASA GOURMET",
@@ -3891,7 +2923,7 @@
     "context": "CAFETERIA; responsável: LUCIANA; instagram: https://www.instagram.com/acasa_gourmet/",
     "phone": "(11) 4853-2534 | (11) 98266-2552",
     "template": "",
-    "processed": false
+    "processed": true
   },
   {
     "name": "Trailler do MarcaÌo",
@@ -3902,7 +2934,7 @@
     "context": "PASTELARIA E HAMBURGUERIA; responsável: MAIRA GERENTE; instagram: https://www.instagram.com/traillerdomarcao/",
     "phone": "(11)99723-6730",
     "template": "",
-    "processed": false
+    "processed": true
   },
   {
     "name": "Santo Deus Rodizio Mexicano",
@@ -3913,7 +2945,7 @@
     "context": "MEXICANO; responsável: ROGERIO; instagram: https://www.instagram.com/restaurante.santodeus/",
     "phone": "11 3380-6358 / 11 982508474 lucas / 11 940172341 ROGERIO",
     "template": "",
-    "processed": false
+    "processed": true
   },
   {
     "name": "Questo Pasta",
@@ -3924,7 +2956,7 @@
     "context": "ITALIANO; responsável: MARCOS; instagram: https://www.instagram.com/questopastaoficial/",
     "phone": "11 49942384 / 11  996762297 MARCOS",
     "template": "",
-    "processed": false
+    "processed": true
   },
   {
     "name": "ManacÃ¡ Restaurante",
@@ -3935,7 +2967,7 @@
     "context": "RESTAURANTE; responsável: RICARDO; instagram: https://www.instagram.com/manacarestaurantescs/",
     "phone": "11 993433725 MANACA / 11 23763565",
     "template": "",
-    "processed": false
+    "processed": true
   },
   {
     "name": "Pizza Crek ABC",
@@ -3946,7 +2978,7 @@
     "context": "PIZZARIA; responsável: SARA / RODRIGO; instagram: https://www.instagram.com/pizzacrekabc/",
     "phone": "11 43193597 / (11) 2381-7703  / 11940208887 Rodrigo",
     "template": "",
-    "processed": false
+    "processed": true
   },
   {
     "name": "Bar do Bolinho",
@@ -3957,7 +2989,7 @@
     "context": "LANCHES; responsável: RICARDO e LUCIANA; instagram: https://www.instagram.com/bardobolinho/",
     "phone": "11 43454605 / 11 23744133 ESCRITORIO LUCIANA",
     "template": "",
-    "processed": false
+    "processed": true
   },
   {
     "name": "Asami Sushi SA",
@@ -3968,7 +3000,7 @@
     "context": "JAPONES; responsável: RUBENS; instagram: https://www.instagram.com/sushiasamisa/",
     "phone": "11 44278202  TEM WHATS",
     "template": "",
-    "processed": false
+    "processed": true
   },
   {
     "name": "Pani di grano",
@@ -3979,7 +3011,7 @@
     "context": "PADARIA; responsável: CAROLINE; instagram: https://www.instagram.com/panidigrano/",
     "phone": "(11) 97716-1060 / (11) 4457-8930 / 11 23797077",
     "template": "",
-    "processed": false
+    "processed": true
   },
   {
     "name": "SANTO BOLINHO",
@@ -3990,7 +3022,7 @@
     "context": "BOLINHO; responsável: MATHEUS; instagram: https://www.instagram.com/santobolinho/",
     "phone": "11 55553443 / 11 992590667 / 11 98725-2620 mateus",
     "template": "",
-    "processed": false
+    "processed": true
   },
   {
     "name": "Anexo Burger",
@@ -4001,7 +3033,7 @@
     "context": "HAMBURGUERIA; responsável: SANDRA; instagram: https://www.instagram.com/anexoburger/",
     "phone": "11 982973997 / 112375-9099",
     "template": "",
-    "processed": false
+    "processed": true
   },
   {
     "name": "Padaria Brasileira",
@@ -4012,7 +3044,7 @@
     "context": "PADARIA; responsável: ISABEL, JUNIOR; instagram: https://www.instagram.com/padariabrasileira/",
     "phone": "11 37572255  / (11) 3757-2270",
     "template": "",
-    "processed": false
+    "processed": true
   },
   {
     "name": "Mono CafeÌs Especiais",
@@ -4023,7 +3055,7 @@
     "context": "CAFETERIA; responsável: LARISSA; instagram: https://www.instagram.com/monocafes/",
     "phone": "11 96117-3430",
     "template": "",
-    "processed": false
+    "processed": true
   },
   {
     "name": "DEDO DE MOCÌ§A ESPACÌ§O GOURMET",
@@ -4034,7 +3066,7 @@
     "context": "RESTAURANTE; responsável: FERNADO; instagram: https://www.instagram.com/restdedodemoca/",
     "phone": "11 42214993",
     "template": "",
-    "processed": false
+    "processed": true
   },
   {
     "name": "FamÃ­lia Ba'bus Street Food",
@@ -4045,7 +3077,7 @@
     "context": "LANCHES; responsável: MARCIA; instagram: https://www.instagram.com/babu.street.food/",
     "phone": "11 992219249 / 11 994138767",
     "template": "",
-    "processed": false
+    "processed": true
   },
   {
     "name": "Bruta",
@@ -4056,7 +3088,7 @@
     "context": "PIZZARIA; responsável: KIM; instagram: https://www.instagram.com/brutapizzaebirra/",
     "phone": "(11) 4318-7498  /  (11)91323-1576 /  (11)99991-1058 Kim",
     "template": "",
-    "processed": false
+    "processed": true
   },
   {
     "name": "Restaurante da Fazenda SBC",
@@ -4067,7 +3099,7 @@
     "context": "RESTAURANTE; responsável: JOSE; instagram: https://www.instagram.com/restaurantedafazendasbc/",
     "phone": "11 43965911 / 11 9 1119-7352 LOJA",
     "template": "",
-    "processed": false
+    "processed": true
   },
   {
     "name": "Restaurante RS",
@@ -4078,7 +3110,7 @@
     "context": "RESTAURANTE; responsável: SAMARA; instagram: https://www.instagram.com/restaurante.rs/",
     "phone": "(11)95249-6515 / (11) 4578-5152",
     "template": "",
-    "processed": false
+    "processed": true
   },
   {
     "name": "CASINHA Comfort Food",
@@ -4089,7 +3121,7 @@
     "context": "DOCERIA E TORTAS SALGADAS; responsável: TATIANE; instagram: https://www.instagram.com/casinha_comfortfood/",
     "phone": "11 44275635 / (011) 97365-0643 TATIANE",
     "template": "",
-    "processed": false
+    "processed": true
   },
   {
     "name": "I LOVE",
@@ -4100,7 +3132,7 @@
     "context": "HAMBURGUERIA; responsável: BRUNO; instagram: https://www.instagram.com/ilovesteaknburger/",
     "phone": "11 912230870 / 11 99809-0089 BRUNO",
     "template": "",
-    "processed": false
+    "processed": true
   },
   {
     "name": "Looks burguers",
@@ -4111,7 +3143,7 @@
     "context": "HAMBURGUERIA; responsável: VICTOR HUGO; instagram: https://www.instagram.com/looks_burguers/",
     "phone": "11 942897627",
     "template": "",
-    "processed": false
+    "processed": true
   },
   {
     "name": "DAM BURGER",
@@ -4122,7 +3154,7 @@
     "context": "HAMBURGUERIA; responsável: MARCUS; instagram: https://www.instagram.com/damburgerbr/",
     "phone": "11 978216106 / 11 987350012 MARCUS",
     "template": "",
-    "processed": false
+    "processed": true
   },
   {
     "name": "Farra na Villa - Restaurante",
@@ -4133,7 +3165,7 @@
     "context": "RESTAURANTE; responsável: Cesar; instagram: https://www.instagram.com/farranavilla/",
     "phone": "11 39699009 /  11 940164207   Cesar",
     "template": "",
-    "processed": false
+    "processed": true
   },
   {
     "name": "Terumi Sushi MauaÌ",
@@ -4144,7 +3176,7 @@
     "context": "JAPONES; responsável: MARAISA; instagram: https://www.instagram.com/terumisushimaua/",
     "phone": "11 23756353  / 11962710343  MARAISA",
     "template": "",
-    "processed": false
+    "processed": true
   },
   {
     "name": "Gema restaurante",
@@ -4155,7 +3187,7 @@
     "context": "RESTAURANTE; responsável: VANESSA; instagram: https://www.instagram.com/gema_restaurante/",
     "phone": "11 44363773  / 11 44368821 botequim santo andre / 11 961215771 VANESSA",
     "template": "",
-    "processed": false
+    "processed": true
   },
   {
     "name": "KA'NALU Poke And Salad Bowl",
@@ -4166,7 +3198,7 @@
     "context": "RESTAURANTE; responsável: VIVIANE; instagram: https://www.instagram.com/kanalu_restaurante/",
     "phone": "11 95862-2047 / 11 43184198  / 11 98625-2540 VIVIANE",
     "template": "",
-    "processed": false
+    "processed": true
   },
   {
     "name": "Chaves Burger",
@@ -4177,7 +3209,7 @@
     "context": "HAMBURGUERIA; responsável: ANTONIO; instagram: https://www.instagram.com/chavesburger/",
     "phone": "11 967601122",
     "template": "",
-    "processed": false
+    "processed": true
   },
   {
     "name": "Castelo Azul",
@@ -4188,7 +3220,7 @@
     "context": "PASTELARIA E VARIADOS; responsável: EDUARDO OU ALEXANDRE; instagram: https://www.instagram.com/casteloazul/",
     "phone": "11 48245817 / 11 911428543 LOJA / 11 982418439 EDUARDO",
     "template": "",
-    "processed": false
+    "processed": true
   },
   {
     "name": "Balderi Pasta & Arte ð®ð¹ #2014",
@@ -4199,7 +3231,7 @@
     "context": "ITALIANO; responsável: FELIPE; instagram: https://www.instagram.com/balderi_pasta/",
     "phone": "11 25980698",
     "template": "",
-    "processed": false
+    "processed": true
   },
   {
     "name": "Restaurante Do VadÃ£o",
@@ -4210,7 +3242,7 @@
     "context": "RESATAURANTE; responsável: CAIQUE; instagram: https://www.instagram.com/restaurantedovadao/",
     "phone": "11 45136369 /  11 99785-9819 / 114513-5894  / 11 996223495 KAIKE",
     "template": "",
-    "processed": false
+    "processed": true
   },
   {
     "name": "Casa Mel Rosa",
@@ -4221,7 +3253,7 @@
     "context": "CONFEITARIA; responsável: BRUNA; instagram: https://www.instagram.com/melrosaconfeitaria/",
     "phone": "11 960194267",
     "template": "",
-    "processed": false
+    "processed": true
   },
   {
     "name": "The Place Burger",
@@ -4232,7 +3264,7 @@
     "context": "HAMBURGUERIA; responsável: MEL MKT INTAS / DANTAS SOCIO; instagram: https://www.instagram.com/theplaceburger_/",
     "phone": "11 42266666 / 11 930228727 DANTAS",
     "template": "",
-    "processed": false
+    "processed": true
   },
   {
     "name": "Akinai Sushi",
@@ -4243,7 +3275,7 @@
     "context": "JAPONES; responsável: SILVANA; instagram: https://www.instagram.com/akinaisushi/",
     "phone": "11 43182000 WHATS",
     "template": "",
-    "processed": false
+    "processed": true
   },
   {
     "name": "Padaria Ben-Hur",
@@ -4254,7 +3286,7 @@
     "context": "PADARIA; responsável: JONAS; instagram: https://www.instagram.com/benhurpadaria/",
     "phone": "4238-6100 /  1142304343 ANA ESCRITORIO / 11 991136199 JONAS / 11 999300719 MARIO ADRIANO",
     "template": "",
-    "processed": false
+    "processed": true
   },
   {
     "name": "Spazio Santo Disco",
@@ -4265,7 +3297,7 @@
     "context": "RESTAURANTE E PIZZARIA; responsável: TAMIRIS; instagram: https://www.instagram.com/spaziosantodisco/",
     "phone": "11 23240465 / (11) 974553300 Tamiris",
     "template": "",
-    "processed": false
+    "processed": true
   },
   {
     "name": "Zampano",
@@ -4276,7 +3308,7 @@
     "context": "ITALIANO; responsável: JOSE; instagram: https://www.instagram.com/zampanopastaepizza/",
     "phone": "(11) 4122-7272 / 11 933432521 / 11 992304959 JOSE",
     "template": "",
-    "processed": false
+    "processed": true
   },
   {
     "name": "SoÌ Santo Bar",
@@ -4298,7 +3330,7 @@
     "context": "FOGAZZA; responsável: NATALIA; instagram: https://www.instagram.com/imperioda.fogazza/",
     "phone": "11 984974609 / (11)985821557",
     "template": "",
-    "processed": false
+    "processed": true
   },
   {
     "name": "Maxi Frango",
@@ -4309,7 +3341,7 @@
     "context": "FRANGO FRITO; responsável: KAREN; instagram: https://www.instagram.com/maxifrango/",
     "phone": "(11) 93131-6000 / 11 999769321 ANDRE / 11 98015-1000 KAREN",
     "template": "",
-    "processed": false
+    "processed": true
   },
   {
     "name": "Sorry Mama",
@@ -4320,7 +3352,7 @@
     "context": "PIZZARIA; responsável: VICTOR; instagram: https://www.instagram.com/sorrymamapizza/",
     "phone": "11 37590020 / (11) 99163-4788 / 11 985857070 ALEXANDRE /11 991634788 VICTOR",
     "template": "",
-    "processed": false
+    "processed": true
   },
   {
     "name": "Varal Burger",
@@ -4331,7 +3363,7 @@
     "context": "HAMBURGUERIA; responsável: VALMIR E JUNIOR; instagram: https://www.instagram.com/varalburger/?hl=pt-br",
     "phone": "11 97752-4271 / (11) 99848-7126",
     "template": "",
-    "processed": false
+    "processed": true
   },
   {
     "name": "The Vintage",
@@ -4342,7 +3374,7 @@
     "context": "HAMBURGUERIA; responsável: AmÃ¡bile; instagram: https://www.instagram.com/thevintagemobile/",
     "phone": "11 4229-3287 / 11 3565-5764 / 11 97674-1572 AmÃ¡bile",
     "template": "",
-    "processed": false
+    "processed": true
   },
   {
     "name": "Smashân Tasty",
@@ -4353,7 +3385,7 @@
     "context": "HAMBURGUERIA; responsável: GUSTAVO; instagram: https://www.instagram.com/smashntasty/",
     "phone": "11 930344886",
     "template": "",
-    "processed": false
+    "processed": true
   },
   {
     "name": "Hamburgueria Hype Burger",
@@ -4364,7 +3396,7 @@
     "context": "HAMBURGUERIA; responsável: JÃO PAULO; instagram: https://www.instagram.com/hype_burger_scs/?hl=pt-br",
     "phone": "11 94729-0785",
     "template": "",
-    "processed": false
+    "processed": true
   },
   {
     "name": "Cabral Burger",
@@ -4375,7 +3407,7 @@
     "context": "HAMBURGUERIA; instagram: https://www.instagram.com/cabralburger/",
     "phone": "(11) 2376-8334  /  1193224-9532 / 11 99297-1061 MERLYE PEREZ",
     "template": "",
-    "processed": false
+    "processed": true
   },
   {
     "name": "Emporium do Brigadeiro",
@@ -4386,7 +3418,7 @@
     "context": "DOCERIA; responsável: KAREM OU BRUNA; instagram: https://www.instagram.com/emporium_dobrigadeiro/",
     "phone": "1199245-4574 / 11 2376-0844",
     "template": "",
-    "processed": false
+    "processed": true
   },
   {
     "name": "Milena Sodero CafÃ© & BistrÃ´",
@@ -4397,7 +3429,7 @@
     "context": "CAFETERIA E DOCERIA; responsável: MILENA; instagram: https://www.instagram.com/milenasodero/",
     "phone": "11 998734938",
     "template": "",
-    "processed": false
+    "processed": true
   },
   {
     "name": "Camarada CamaraÌo SaÌo Paulo",
@@ -4408,7 +3440,7 @@
     "context": "RESTAURANTE; responsável: DANIELA; instagram: https://www.instagram.com/camaradacamarao.saopaulo/",
     "phone": "(11)93316-9798 und santo andre / (11)93409-7784 unidades sÃ£o paulo  MKT  / 11 940072585 DANIELA",
     "template": "",
-    "processed": false
+    "processed": true
   },
   {
     "name": "Mansion XV",
@@ -4419,7 +3451,7 @@
     "context": "DOCES; responsável: ANI; instagram: https://www.instagram.com/mansionxvcafe/",
     "phone": "2619-0817 / 3582-1076 / 26190817",
     "template": "",
-    "processed": false
+    "processed": true
   },
   {
     "name": "HANNOVER",
@@ -4430,7 +3462,7 @@
     "context": "FONDUE; responsável: LETICIA e GUILHERME; instagram: https://www.instagram.com/hannoverfondue/",
     "phone": "11 5561 5411/ 11 98111-8631 LETICIA e GUILHERME",
     "template": "",
-    "processed": false
+    "processed": true
   },
   {
     "name": "NANICA",
@@ -4441,7 +3473,7 @@
     "context": "DOCERIAS; responsável: INGRID; instagram: https://www.instagram.com/nanicabrasil/",
     "phone": "97592-0997",
     "template": "",
-    "processed": false
+    "processed": true
   },
   {
     "name": "Hilla Doces",
@@ -4452,7 +3484,7 @@
     "context": "COXINHA DE BRIGADEIRO; instagram: https://www.instagram.com/hilladoces/",
     "phone": "MOEMA 11 4171-1769  / LAPA 11 4117-4799",
     "template": "",
-    "processed": false
+    "processed": true
   },
   {
     "name": "PP SucreÌ",
@@ -4463,7 +3495,7 @@
     "context": "DOCERIA; responsável: PAULA; instagram: https://www.instagram.com/ppsucre/",
     "phone": "1199734-8435",
     "template": "",
-    "processed": false
+    "processed": true
   },
   {
     "name": "Tati Barbi Balas Caramelizadas",
@@ -4474,7 +3506,7 @@
     "context": "BALAS CARAMELIZADAS; responsável: LAÃS; instagram: https://www.instagram.com/tatibarbi/",
     "phone": "1198428-5142 / 98408-7479 LAIS",
     "template": "",
-    "processed": false
+    "processed": true
   },
   {
     "name": "SARJETA",
@@ -4485,7 +3517,7 @@
     "context": "REST DO GABRIEL GASPARINI; instagram: https://www.instagram.com/sarjetabar/",
     "phone": "11 988788341",
     "template": "",
-    "processed": false
+    "processed": true
   },
   {
     "name": "Dengo Chocolates",
@@ -4496,7 +3528,7 @@
     "context": "CHOCOLATES; responsável: JOAO; instagram: https://www.instagram.com/dengochocolates/",
     "phone": "11 5181-2818",
     "template": "",
-    "processed": false
+    "processed": true
   },
   {
     "name": "PATI PIVA",
@@ -4507,7 +3539,7 @@
     "context": "DOCERIA; responsável: JULIA; instagram: https://www.instagram.com/patipiva/",
     "phone": "11 3152-6697/ 11 3751-1174 / 3758-1174 ESCRITORIO",
     "template": "",
-    "processed": false
+    "processed": true
   },
   {
     "name": "MAIS BURGUINHO",
@@ -4518,7 +3550,7 @@
     "context": "HAMBURGUERIA; responsável: JEFERSON; instagram: https://www.instagram.com/maisburguinho/",
     "phone": "11 2339-6006 / 1194593-1890 JEFERSON",
     "template": "",
-    "processed": false
+    "processed": true
   },
   {
     "name": "O Burguer",
@@ -4529,7 +3561,7 @@
     "context": "HAMBURGUERIA; responsável: RENATA; instagram: https://www.instagram.com/oburguer/",
     "phone": "ZS -55312716 // ZN -29967473",
     "template": "",
-    "processed": false
+    "processed": true
   },
   {
     "name": "CANTAGALO BURGER",
@@ -4540,7 +3572,7 @@
     "context": "HAMBURGUERIA; responsável: JOYCE; instagram: https://www.instagram.com/cantagaloburger/",
     "phone": "(11)2097-2830/(11)98941-7059 / 1199195-8439 JOYCE // 1197087-6367 LARI",
     "template": "",
-    "processed": false
+    "processed": true
   },
   {
     "name": "JAZZ RESTÃ & BURGERS",
@@ -4551,7 +3583,7 @@
     "context": "HAMBURGUERIA; responsável: ANDRÃ / ARIELLA; instagram: https://www.instagram.com/jazzrestaurante/?hl=pt-br",
     "phone": "11 2369 1453  / (11) 95179-5289",
     "template": "",
-    "processed": false
+    "processed": true
   },
   {
     "name": "SAMPA BURGER",
@@ -4562,7 +3594,7 @@
     "context": "HAMBURGUERIA; instagram: https://www.instagram.com/sampaburgeroficial/",
     "phone": "5182-4462 /  11 98229-8839",
     "template": "",
-    "processed": false
+    "processed": true
   },
   {
     "name": "BurgUp Hamburgueria",
@@ -4573,7 +3605,7 @@
     "context": "HAMBURGUERIA; instagram: https://www.instagram.com/burg.up/",
     "phone": "3721-3456 // 3721-3564 /// 958391663",
     "template": "",
-    "processed": false
+    "processed": true
   },
   {
     "name": "NAGUNO BURGER & PIZZA",
@@ -4584,7 +3616,7 @@
     "context": "HAMBURGUER E PIZZA; instagram: https://www.instagram.com/nagunoburger/",
     "phone": "113681-4540 / 99264-7561 visto 13/10",
     "template": "",
-    "processed": false
+    "processed": true
   },
   {
     "name": "PANTCHOÂ´S HOUSE BURGER",
@@ -4595,7 +3627,7 @@
     "context": "HAMBURGUERIA; responsável: REGIANE; instagram: https://www.instagram.com/pantchoshouse/",
     "phone": "2589-0467 /984423786 REGIANE",
     "template": "",
-    "processed": false
+    "processed": true
   },
   {
     "name": "Z DELI SANDWICHES",
@@ -4606,7 +3638,7 @@
     "context": "HAMBURGUERIA; responsável: MAJU; instagram: https://www.instagram.com/zdelisandwiches/",
     "phone": "2305-2200 / 11 3083-0021",
     "template": "",
-    "processed": false
+    "processed": true
   },
   {
     "name": "Jota Hamburgers",
@@ -4617,7 +3649,7 @@
     "context": "HAMBURGUERIA; responsável: BIANCA; instagram: https://www.instagram.com/jotahamburgers/",
     "phone": "N TEM",
     "template": "",
-    "processed": false
+    "processed": true
   },
   {
     "name": "ALL_IN SMOKED TASTE",
@@ -4628,7 +3660,7 @@
     "context": "HAMBURGUERIA; responsável: BRUNA; instagram: https://www.instagram.com/all_in_br/",
     "phone": "11 946809455 BRUNA  / 11 2738-3878 BRUNA",
     "template": "",
-    "processed": false
+    "processed": true
   },
   {
     "name": "DOCK BURGER",
@@ -4639,7 +3671,7 @@
     "context": "HAMBURGUERIA; responsável: LEONARDO; instagram: https://www.instagram.com/dckburger/",
     "phone": "11 2478-8948",
     "template": "",
-    "processed": false
+    "processed": true
   },
   {
     "name": "COME ON BURGER",
@@ -4650,7 +3682,7 @@
     "context": "HAMBURGUERIA; responsável: Pedro e Fabio; instagram: https://www.instagram.com/comeonburger/",
     "phone": "99400-5696 PEDRO/ 985591131 / (11) 5082-1645",
     "template": "",
-    "processed": false
+    "processed": true
   },
   {
     "name": "RAW BURGER N BAR",
@@ -4661,7 +3693,7 @@
     "context": "HAMBURGUERIA; instagram: https://www.instagram.com/raw.burger/?hl=pt-br",
     "phone": "3032-3610/ 1199937-3214",
     "template": "",
-    "processed": false
+    "processed": true
   },
   {
     "name": "SAN DO IT",
@@ -4672,7 +3704,7 @@
     "context": "HAMBURGUERIA; responsável: SANDRO / MOISÃS; instagram: https://www.instagram.com/sandoit.sp/",
     "phone": "11 3078-5831",
     "template": "",
-    "processed": false
+    "processed": true
   },
   {
     "name": "HAMBURGUERIA TRADI",
@@ -4683,7 +3715,7 @@
     "context": "HAMBURGUERIA; responsável: MONICA / DEMETRIO; instagram: https://www.instagram.com/hamburgueriatradi/",
     "phone": "11 2339 7107 / 23397077 / 11 952934711 Lierson",
     "template": "",
-    "processed": false
+    "processed": true
   },
   {
     "name": "sevenkingsburger",
@@ -4694,7 +3726,7 @@
     "context": "HAMBURGUERIA; instagram: https://www.instagram.com/sevenkingsburger/",
     "phone": "(11) 3287-1420",
     "template": "",
-    "processed": false
+    "processed": true
   },
   {
     "name": "Sampa Sky",
@@ -4705,7 +3737,7 @@
     "context": "N/I; instagram: https://www.instagram.com/sampasky/",
     "phone": "",
     "template": "",
-    "processed": false
+    "processed": true
   },
   {
     "name": "ESTAÃÃO",
@@ -4727,7 +3759,7 @@
     "context": "PICANHA; responsável: SHIRLEY; instagram: https://www.instagram.com/barfigueiras/",
     "phone": "4509-1245",
     "template": "",
-    "processed": false
+    "processed": true
   },
   {
     "name": "DoDuda",
