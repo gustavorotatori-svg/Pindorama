@@ -1,7 +1,7 @@
 export interface Prospect {
   id: string;
   name: string;
-  type: 'bar' | 'restaurante' | 'adega' | 'loja_bebidas' | 'souvenir' | 'hotel';
+  type: 'bar' | 'restaurante' | 'adega' | 'loja_bebidas' | 'souvenir' | 'hotel' | 'catering' | 'clube';
   address: string;
   city: string;
   region: 'sp_metro' | 'abcd' | 'baixada_santista' | 'litoral_norte';

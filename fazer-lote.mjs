@@ -5,9 +5,10 @@ const BATCH = 'lote-planilha.json';
 
 const leads = JSON.parse(fs.readFileSync(SRC, 'utf-8'));
 
-// Selection order: adega > bar > restaurante (qualidade do fit)
-const order = { adega: 0, bar: 1, restaurante: 2 };
-const pending = leads.filter(l => !l.processed).sort((a, b) => order[a.type] - order[b.type]);
+// Selection order by commercial fit; all policy-approved segments remain eligible.
+const order = { adega: 0, bar: 1, restaurante: 2, hotel: 3, catering: 4, clube: 5 };
+const rank = type => order[type] ?? 99;
+const pending = leads.filter(l => !l.processed).sort((a, b) => rank(a.type) - rank(b.type));
 
 const BATCH_SIZE = parseInt(process.argv[2] || '100', 10);
 const batch = pending.slice(0, BATCH_SIZE);

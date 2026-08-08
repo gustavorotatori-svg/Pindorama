@@ -11,7 +11,7 @@ This version has breaking changes — APIs, conventions, and file structure may 
 - TETO CONFIRMADO: máximo global de 490 saídas por conta em qualquer janela móvel de 24 horas, incluindo campanhas, follow-ups, respostas automáticas e demais mensagens enviadas pela conta.
 - O guard histórico de 480/24h abaixo é apenas registro; a regra vigente é 490/24h pelo módulo compartilhado `email-quota.mjs`.
 - WHATSAPP: máximo exato de 4 mensagens por dia neste projeto, somente segunda a sábado, das 09:00 às 20:00 em America/Sao_Paulo; nunca aos domingos ou fora da janela.
-- SEGMENTOS VÁLIDOS: supermercados, padarias, mercadinhos de bairro, lojas de conveniência, bares e restaurantes.
+- SEGMENTOS VÁLIDOS: supermercados, padarias, mercadinhos de bairro, lojas de conveniência, bares, restaurantes, hotéis e meios de hospedagem, empresas de catering e buffets, e clubes sociais, esportivos e recreativos.
 - AMOSTRAS: Pindorama pode oferecer envio de amostras. A restrição da frente Xandô não se aplica a este projeto.
 - INFORMAÇÃO COMERCIAL: usar somente condições verificadas nos arquivos. Se preço ou condição não estiver documentado, ou houver conflito, perguntar ao usuário.
 - CONDIÇÕES CONFIRMADAS: pagamento em 21 dias, pedido mínimo de 1 caixa, lead time D+2 e frete CIF. Pode oferecer degustadora, treinamento e bonificação no primeiro pedido.

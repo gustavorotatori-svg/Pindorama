@@ -14,6 +14,13 @@ const data = rows.slice(1).filter(r => r.length > 1 && r[iName] && r[iName].trim
 const master = JSON.parse(fs.readFileSync('leads-qualificados.json', 'utf-8'));
 const legacy = JSON.parse(fs.readFileSync('leads.json', 'utf-8'));
 const known = new Set([...master, ...legacy].map(x => (x.email || '').toLowerCase().trim()));
+const previous = fs.existsSync('leads-planilha.json')
+  ? JSON.parse(fs.readFileSync('leads-planilha.json', 'utf-8'))
+  : [];
+const processedByEmail = new Map(previous.map(x => [
+  (x.email || '').toLowerCase().trim(),
+  Boolean(x.processed)
+]));
 
 // Normalize + extract first valid email per row
 function extractEmails(raw) {
@@ -29,6 +36,9 @@ function normalizeName(raw) {
 
 function mapType(cat) {
   const c = (cat || '').toUpperCase();
+  if (/(HOTEL|HOTÉIS|HOTELARIA|POUSADA|HOSTEL|RESORT|HOSPEDAGEM)/.test(c)) return 'hotel';
+  if (/(CATERING|BUFFET|BANQUETE|EVENTOS CORPORATIVOS|GASTRONOMIA PARA EVENTOS)/.test(c)) return 'catering';
+  if (/(CLUBE SOCIAL|CLUBE ESPORTIVO|CLUBE RECREATIVO|ASSOCIAÇÃO ESPORTIVA|COUNTRY CLUB|IATE CLUBE)/.test(c)) return 'clube';
   if (/(ADEGA|WINE|VINHO|LOJA DE BEBID|CERVEJARIA|CERVEJA|CHOPE|BEBIDA|BEBIDAS)/.test(c)) return 'adega';
   if (/(BAR|BOTECO|PUB|DRINK|COQUETEL|GASTROBAR|CHOPERIA|BALADA|CASA DE SHOWS|AGITO|MUSICA)/.test(c)) return 'bar';
   if (/(PIZZARIA|HAMBURGUERIA|RESTAURANTE|CAFÉ|PADARIA|DOCERIA|CHURRASCARIA|LANCHONETE|SORVETERIA|DELIVERY|FOOD|SALGADOS|DOCES|SUSHI|JAPA|ITALIANO|FRUTOS|CARNE|CONFEITARIA|POKE|GELATO|BRUNCH|BISTRO|TRATTORIA|EMPÓRIO|MERCADO|MERCADOS)/.test(c)) return 'restaurante';
@@ -65,7 +75,8 @@ for (const r of data) {
 
   const cat = r[iCat] ? r[iCat].trim() : 'N/I';
   if (!isFoodOrRelevant(cat)) continue;
-  const type = mapType(cat) === 'outro' ? 'restaurante' : mapType(cat);
+  const mappedType = mapType(cat);
+  const type = mappedType === 'outro' ? 'restaurante' : mappedType;
   const contato = r[iCont] ? r[iCont].trim() : '';
   const tel = r[iTel] ? r[iTel].trim() : '';
   const addr = r[iAdd] ? r[iAdd].trim() : '';
@@ -79,7 +90,8 @@ for (const r of data) {
     address: addr,
     context: [cat, contato ? 'responsável: ' + contato : '', insta ? 'instagram: ' + insta : ''].filter(Boolean).join('; '),
     phone: tel,
-    template: type === 'adega' ? 'consultivo' : type === 'balada' ? 'pergunta' : ''
+    template: type === 'adega' ? 'consultivo' : type === 'balada' ? 'pergunta' : '',
+    processed: processedByEmail.get(email) || false
   });
 }
 
