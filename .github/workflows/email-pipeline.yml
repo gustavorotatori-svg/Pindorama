@@ -38,15 +38,11 @@ jobs:
         if: steps.npm-cache.outputs.cache-hit != 'true'
         run: npm ci --no-audit --no-fund
 
-      - name: Extract planilha (lote 100/dia - apenas 07h BRT ou manual)
+      - name: Buscar e qualificar novos leads (25 por ciclo)
         run: |
-          if [ "${{ github.event_name }}" = "workflow_dispatch" ] || [ "$(date +%H:%M)" = "07:00" ]; then
-            node extract-planilha.mjs
-            node fazer-lote.mjs 100
-            node pipeline.mjs --add-file lote-planilha.json --send
-          else
-            echo "Fora do lote diario; seguindo apenas com pendencias e follow-ups."
-          fi
+          node extract-planilha.mjs
+          node fazer-lote.mjs 25
+          node pipeline.mjs --add-file lote-planilha.json --send
 
       - name: Pipeline (pendentes + followups)
         run: node pipeline.mjs --all
