@@ -38,10 +38,10 @@ jobs:
         if: steps.npm-cache.outputs.cache-hit != 'true'
         run: npm ci --no-audit --no-fund
 
-      - name: Buscar e qualificar novos leads (25 por ciclo)
+      - name: Buscar e qualificar novos leads (até 100 por ciclo)
         run: |
           node extract-planilha.mjs
-          node fazer-lote.mjs 25
+          node fazer-lote.mjs 100
           node pipeline.mjs --add-file lote-planilha.json --send
 
       - name: Pipeline (pendentes + followups)
