@@ -48,6 +48,7 @@ export default function Reports() {
     abcd: filteredProspects.filter(p => p.region === 'abcd').length,
     baixada_santista: filteredProspects.filter(p => p.region === 'baixada_santista').length,
     litoral_norte: filteredProspects.filter(p => p.region === 'litoral_norte').length,
+    sorocaba_regiao: filteredProspects.filter(p => p.region === 'sorocaba_regiao').length,
   };
 
   // Métricas por tipo
@@ -173,6 +174,10 @@ export default function Reports() {
               <div className="flex justify-between items-center">
                 <span className="text-gray-600">Litoral Norte</span>
                 <span className="font-bold">{byRegion.litoral_norte}</span>
+              </div>
+              <div className="flex justify-between items-center">
+                <span className="text-gray-600">Sorocaba e região</span>
+                <span className="font-bold">{byRegion.sorocaba_regiao}</span>
               </div>
             </div>
           </div>

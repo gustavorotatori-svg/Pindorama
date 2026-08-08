@@ -4,7 +4,7 @@ export interface Prospect {
   type: 'bar' | 'restaurante' | 'adega' | 'loja_bebidas' | 'souvenir' | 'hotel' | 'catering' | 'clube';
   address: string;
   city: string;
-  region: 'sp_metro' | 'abcd' | 'baixada_santista' | 'litoral_norte';
+  region: 'sp_metro' | 'abcd' | 'baixada_santista' | 'litoral_norte' | 'sorocaba_regiao';
   neighborhood?: string;
   phone: string;
   email: string;

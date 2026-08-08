@@ -61,6 +61,7 @@ export default function Home() {
         abcd: { lat: '-23.6737', lng: '-46.5432' },
         baixada_santista: { lat: '-23.9608', lng: '-46.3336' },
         litoral_norte: { lat: '-23.5225', lng: '-45.4181' },
+        sorocaba_regiao: { lat: '-23.5015', lng: '-47.4526' },
       };
 
       const coords = coordinates[searchRegion];
@@ -288,6 +289,7 @@ export default function Home() {
                   <option value="abcd">ABCD</option>
                   <option value="baixada_santista">Baixada Santista</option>
                   <option value="litoral_norte">Litoral Norte</option>
+                  <option value="sorocaba_regiao">Sorocaba e região</option>
                 </select>
               </div>
               
