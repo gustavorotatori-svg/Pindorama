@@ -13,7 +13,7 @@ This version has breaking changes — APIs, conventions, and file structure may 
 - WHATSAPP: máximo exato de 4 mensagens por dia neste projeto, somente segunda a sábado, das 09:00 às 20:00 em America/Sao_Paulo; nunca aos domingos ou fora da janela.
 - SEGMENTOS VÁLIDOS: supermercados, padarias, mercadinhos de bairro, lojas de conveniência, adegas, lojas de bebidas, distribuidoras de bebidas, bares, casas noturnas/baladas/casas de shows, restaurantes, hotéis e meios de hospedagem, empresas de catering e buffets, e clubes sociais, esportivos e recreativos.
 - PRIORIDADE DE PROSPECÇÃO: adegas → lojas de bebidas → distribuidoras de bebidas → bares → casas noturnas/baladas → restaurantes → demais segmentos válidos.
-- TERRITÓRIO VÁLIDO: incluir Sorocaba e municípios de sua região nas buscas e qualificações futuras.
+- TERRITÓRIO VÁLIDO: cobrir toda a cidade de São Paulo, toda a Grande São Paulo e municípios próximos/limítrofes, incluindo ABC Paulista, Guarulhos, Osasco, Barueri, Carapicuíba, Cotia, Taboão da Serra, Embu das Artes, Itapecerica da Serra, Caieiras, Franco da Rocha e Mogi das Cruzes; manter também Sorocaba e municípios de sua região.
 - ACELERAÇÃO: qualificar até 100 candidatos por ciclo de 15 minutos e usar toda a capacidade disponível, sem ultrapassar o teto global de 490 saídas/24h nem prejudicar follow-ups e respostas automáticas.
 - AMOSTRAS: Pindorama pode oferecer envio de amostras. A restrição da frente Xandô não se aplica a este projeto.
 - INFORMAÇÃO COMERCIAL: usar somente condições verificadas nos arquivos. Se preço ou condição não estiver documentado, ou houver conflito, perguntar ao usuário.
