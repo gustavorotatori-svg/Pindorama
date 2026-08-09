@@ -25977,7 +25977,9 @@
     "context": "PIZZARIA; responsável: MARCIA; instagram: https://www.instagram.com/atobapizzaria/",
     "phone": "11 4148-2000",
     "template": "prova_social",
-    "website": ""
+    "website": "",
+    "email1": true,
+    "date1": "2026-08-09"
   },
   {
     "name": "AZE SUSHI",
@@ -25988,7 +25990,9 @@
     "context": "JAPONES; responsável: MEIRE; instagram: https://www.instagram.com/azesushi/",
     "phone": "11 3168 3673 / 11 3071 2047 / 11 99217-5110 LOJA / 11 99233-3404 MEIRE / 11 37237070  wpp DIRETO",
     "template": "prova_social",
-    "website": ""
+    "website": "",
+    "email1": true,
+    "date1": "2026-08-09"
   },
   {
     "name": "Sughetto",
@@ -25999,7 +26003,9 @@
     "context": "ITALIANO; instagram: https://www.instagram.com/sughetto.casa/",
     "phone": "N TEM",
     "template": "pergunta",
-    "website": ""
+    "website": "",
+    "email1": true,
+    "date1": "2026-08-09"
   },
   {
     "name": "Seattle - Burger House",
@@ -26010,7 +26016,9 @@
     "context": "HAMBURGUERIA; responsável: ALEX; instagram: https://www.instagram.com/seattleburgerhouse/",
     "phone": "11 95392-0902 ALEX / 11953046646",
     "template": "consultivo",
-    "website": ""
+    "website": "",
+    "email1": true,
+    "date1": "2026-08-09"
   },
   {
     "name": "BistrÃ´ da Picanha",
@@ -26021,7 +26029,9 @@
     "context": "RESTAURANTE; responsável: EVERTON; instagram: https://www.instagram.com/bistrodapicanha/",
     "phone": "11 2597 2522",
     "template": "prova_social",
-    "website": ""
+    "website": "",
+    "email1": true,
+    "date1": "2026-08-09"
   },
   {
     "name": "AQUARIUS GRILL",
@@ -26032,7 +26042,9 @@
     "context": "CHURRASCARIA; instagram: https://www.instagram.com/aquariusgrill/",
     "phone": "11 2524-4525 / 11 2521-0744 / 11 95770-9311",
     "template": "pergunta",
-    "website": ""
+    "website": "",
+    "email1": true,
+    "date1": "2026-08-09"
   },
   {
     "name": "Yukui Sushi",
@@ -26043,7 +26055,9 @@
     "context": "JAPONÃS; instagram: https://www.instagram.com/yukuisushi/",
     "phone": "112324-6182 n tem whats",
     "template": "prova_social",
-    "website": ""
+    "website": "",
+    "email1": true,
+    "date1": "2026-08-09"
   },
   {
     "name": "TiaÌo Espetinhos",
@@ -26054,7 +26068,9 @@
     "context": "ESPETINHOS; responsável: DIEGO / LUCAS; instagram: https://www.instagram.com/tiaodoespetinho/",
     "phone": "11 2364-8789 / 11958540398",
     "template": "consultivo",
-    "website": ""
+    "website": "",
+    "email1": true,
+    "date1": "2026-08-09"
   },
   {
     "name": "FAR WEST BBQ",
@@ -26065,7 +26081,9 @@
     "context": "CHURRASCO; responsável: Charmenne Tavares; instagram: https://www.instagram.com/farwestbbq/",
     "phone": "1194070-5387 / 11952954841 Charmenne Tavares",
     "template": "prova_social",
-    "website": ""
+    "website": "",
+    "email1": true,
+    "date1": "2026-08-09"
   },
   {
     "name": "BOIADERO",
@@ -26076,7 +26094,9 @@
     "context": "CHURRASCARIA; instagram: https://www.instagram.com/restauranteboiadeiro",
     "phone": "(11) 97861-1832",
     "template": "pergunta",
-    "website": ""
+    "website": "",
+    "email1": true,
+    "date1": "2026-08-09"
   },
   {
     "name": "Giovana Chocolates",
