@@ -27,6 +27,38 @@ function validateDNS(email) {
   });
 }
 
+const TYPE_PRIORITY = {
+  adega: 100, loja_bebidas: 95, distribuidora: 90, distribuidor: 90,
+  atacadista: 85, bar: 80, balada: 75, restaurante: 65,
+  hotel: 55, catering: 50, clube: 45
+};
+const FREE_EMAIL_DOMAINS = new Set(['gmail.com', 'hotmail.com', 'outlook.com', 'yahoo.com', 'yahoo.com.br', 'uol.com.br', 'terra.com.br', 'bol.com.br', 'ig.com.br']);
+
+function leadPriority(lead) {
+  const domain = String(lead.email || '').split('@')[1]?.toLowerCase() || '';
+  let score = TYPE_PRIORITY[lead.type] || 0;
+  if (lead.website) score += 12;
+  if (lead.context && String(lead.context).trim().length >= 20) score += 10;
+  if (domain && !FREE_EMAIL_DOMAINS.has(domain)) score += 8;
+  if (lead.phone || lead.whatsapp) score += 4;
+  return score;
+}
+
+function permanentRecipientError(error) {
+  const text = `${error?.responseCode || ''} ${error?.code || ''} ${error?.response || ''} ${error?.message || ''}`.toLowerCase();
+  return /\b550\b|5\.1\.1|user unknown|no such user|mailbox unavailable|recipient address rejected|address not found/.test(text);
+}
+
+function suppressInvalidEmail(email, reason) {
+  const leads = load(LEADS_FILE);
+  const idx = leads.findIndex(x => String(x.email || '').toLowerCase() === String(email || '').toLowerCase());
+  if (idx === -1) return;
+  leads[idx].invalidEmail = true;
+  leads[idx].invalidEmailReason = reason;
+  leads[idx].invalidEmailDate = today();
+  save(LEADS_FILE, leads);
+}
+
 const TEMPLATES = {
   email1_consultivo: `Ol\u00e1 {nome},
 
@@ -183,11 +215,20 @@ async function sendEmail1() {
   const failed = new Set();
   for (;;) {
     const leads = load(LEADS_FILE);
-    const pending = leads.filter(x => !x.email1 && !failed.has(x.email) && x.email);
+    const pending = leads
+      .filter(x => !x.email1 && !x.invalidEmail && !failed.has(x.email) && x.email)
+      .sort((a, b) => leadPriority(b) - leadPriority(a));
     if (!pending.length) break;
     if (!emailQuotaAvailable()) break;
     const l = pending[0];
     try {
+      const valid = await validateDNS(l.email);
+      if (!valid) {
+        suppressInvalidEmail(l.email, 'domain_without_mx');
+        failed.add(l.email);
+        console.log('EMAIL1 SUPRIMIDO (sem MX): ' + l.name + ' <' + l.email + '>');
+        continue;
+      }
       await sendEmail(l, 'email1');
       recordEmailOutput();
       // Force-persist: reload, find by email, set fields, save
@@ -202,7 +243,11 @@ async function sendEmail1() {
       console.log('EMAIL1 OK: ' + l.name + ' <' + l.email + '>');
       sent++;
       await new Promise(r => setTimeout(r, DELAY_MS));
-    } catch(e) { failed.add(l.email); console.log('EMAIL1 ERR ' + l.name + ': ' + e.message); }
+    } catch(e) {
+      failed.add(l.email);
+      if (permanentRecipientError(e)) suppressInvalidEmail(l.email, 'permanent_recipient_error');
+      console.log('EMAIL1 ERR ' + l.name + ': ' + e.message);
+    }
   }
   return sent;
 }
@@ -215,7 +260,7 @@ async function sendFollowups() {
     const leads = load(LEADS_FILE);
     let target = null;
     for (const l of leads) {
-      if (l.responded) continue;
+      if (l.responded || l.invalidEmail) continue;
       if (l.email1 && !l.email2 && l.date1 && daysDiff(l.date1) >= 2 && !failed.has(l.email + ':email2')) { target = {lead:l,step:'email2'}; break; }
       if (l.email2 && !l.email3 && l.date2 && daysDiff(l.date2) >= 4 && !failed.has(l.email + ':email3')) { target = {lead:l,step:'email3'}; break; }
     }
@@ -239,6 +284,7 @@ async function sendFollowups() {
       await new Promise(r => setTimeout(r, DELAY_MS));
     } catch(e) {
       failed.add(l.email + ':' + step);
+      if (permanentRecipientError(e)) suppressInvalidEmail(l.email, 'permanent_recipient_error');
       console.log((step === 'email2' ? 'EMAIL2' : 'EMAIL3') + ' ERR ' + l.name + ': ' + e.message);
     }
   }

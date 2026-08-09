@@ -8,13 +8,13 @@ This version has breaking changes — APIs, conventions, and file structure may 
 
 ## Diretriz vigente - 07/08/2026 (prioridade sobre o histórico abaixo)
 - EMAIL: pode operar em qualquer horário e qualquer dia, quando a automação estiver disponível.
-- TETO CONFIRMADO: máximo global de 490 saídas por conta em qualquer janela móvel de 24 horas, incluindo campanhas, follow-ups, respostas automáticas e demais mensagens enviadas pela conta.
-- O guard histórico de 480/24h abaixo é apenas registro; a regra vigente é 490/24h pelo módulo compartilhado `email-quota.mjs`.
+- TETO CONFIRMADO: máximo global de 100 saídas por conta em qualquer janela móvel de 24 horas, incluindo campanhas, follow-ups, respostas automáticas, relatórios e demais mensagens enviadas pela conta.
+- Os guards históricos de 480/24h e 490/24h abaixo são apenas registro; a regra vigente é 100/24h pelo módulo compartilhado `email-quota.mjs`.
 - WHATSAPP: máximo exato de 4 mensagens por dia neste projeto, somente segunda a sábado, das 09:00 às 20:00 em America/Sao_Paulo; nunca aos domingos ou fora da janela.
 - SEGMENTOS VÁLIDOS: supermercados, padarias, mercadinhos de bairro, lojas de conveniência, adegas, lojas de bebidas, distribuidoras de bebidas, bares, casas noturnas/baladas/casas de shows, restaurantes, hotéis e meios de hospedagem, empresas de catering e buffets, e clubes sociais, esportivos e recreativos.
 - PRIORIDADE DE PROSPECÇÃO: adegas → lojas de bebidas → distribuidoras de bebidas → bares → casas noturnas/baladas → restaurantes → demais segmentos válidos.
 - TERRITÓRIO VÁLIDO: cobrir toda a cidade de São Paulo, toda a Grande São Paulo e municípios próximos/limítrofes, incluindo ABC Paulista, Guarulhos, Osasco, Barueri, Carapicuíba, Cotia, Taboão da Serra, Embu das Artes, Itapecerica da Serra, Caieiras, Franco da Rocha e Mogi das Cruzes; manter também Sorocaba e municípios de sua região.
-- ACELERAÇÃO: qualificar até 100 candidatos por ciclo de 15 minutos e usar toda a capacidade disponível, sem ultrapassar o teto global de 490 saídas/24h nem prejudicar follow-ups e respostas automáticas.
+- ESTRATÉGIA: qualificar candidatos continuamente, mas enviar primeiro aos segmentos prioritários e aos contatos com mais evidências comerciais; nunca ultrapassar 100 saídas/24h nem prejudicar follow-ups, respostas automáticas e relatório.
 - AMOSTRAS: Pindorama pode oferecer envio de amostras. A restrição da frente Xandô não se aplica a este projeto.
 - INFORMAÇÃO COMERCIAL: usar somente condições verificadas nos arquivos. Se preço ou condição não estiver documentado, ou houver conflito, perguntar ao usuário.
 - CONDIÇÕES CONFIRMADAS: pagamento em 21 dias, pedido mínimo de 1 caixa, lead time D+2 e frete CIF. Pode oferecer degustadora, treinamento e bonificação no primeiro pedido.

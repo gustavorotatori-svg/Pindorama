@@ -1,6 +1,8 @@
 import { readFileSync, writeFileSync } from 'fs';
 
-export const EMAIL_LIMIT_24H = 490;
+// Limite conservador para proteger a reputacao da conta e manter folga para
+// follow-ups, respostas automaticas e o relatorio semanal.
+export const EMAIL_LIMIT_24H = 100;
 export const SEND_LOG_FILE = 'send-log.json';
 
 function loadLog() {

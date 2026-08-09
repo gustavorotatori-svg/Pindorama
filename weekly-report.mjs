@@ -186,7 +186,7 @@ const html = `<!DOCTYPE html>
     <div class="row"><span>Planilha processada</span><span>${planProc}/${plan.length || '-'}</span></div>
     <div class="row"><span>Planilha restante</span><span>${planLeft}</span></div>
     <div class="row"><span>WhatsApp hoje</span><span>${waToday}/4</span></div>
-    <div class="row"><span>Limite de email</span><span>490/24h (janela móvel)</span></div>
+    <div class="row"><span>Limite de email</span><span>100/24h (janela móvel)</span></div>
   </div>
 </div>
 
