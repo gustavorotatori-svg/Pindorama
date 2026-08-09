@@ -105,6 +105,8 @@ const SUBJECTS = {
   bar: 'Cacha\u00e7a artesanal premium para seu bar',
   restaurante: 'Cacha\u00e7a artesanal premium para seu restaurante',
   adega: 'Cacha\u00e7a artesanal premium para sua adega',
+  loja_bebidas: 'Cacha\u00e7a artesanal premium para sua loja de bebidas',
+  distribuidora: 'Cacha\u00e7a Pindorama para sua distribuidora de bebidas',
   hotel: 'Cacha\u00e7a artesanal premium para seu hotel',
   balada: 'Cacha\u00e7a Pindorama para sua balada'
 };

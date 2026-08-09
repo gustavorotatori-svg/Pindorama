@@ -6,7 +6,17 @@ const BATCH = 'lote-planilha.json';
 const leads = JSON.parse(fs.readFileSync(SRC, 'utf-8'));
 
 // Selection order by commercial fit; all policy-approved segments remain eligible.
-const order = { adega: 0, bar: 1, restaurante: 2, hotel: 3, catering: 4, clube: 5 };
+const order = {
+  adega: 0,
+  loja_bebidas: 1,
+  distribuidora: 2,
+  bar: 3,
+  balada: 4,
+  restaurante: 5,
+  hotel: 6,
+  catering: 7,
+  clube: 8
+};
 const rank = type => order[type] ?? 99;
 const pending = leads.filter(l => !l.processed).sort((a, b) => rank(a.type) - rank(b.type));
 
