@@ -35,9 +35,11 @@ const today = new Date();
 const todayStr = today.toLocaleDateString('en-CA');
 const wkStart = new Date(); wkStart.setDate(wkStart.getDate() - 6); wkStart.setHours(0, 0, 0, 0);
 const wkStartStr = wkStart.toLocaleDateString('en-CA');
+const yearStartStr = `${today.getFullYear()}-01-01`;
 const days = ['Dom', 'Seg', 'Ter', 'Qua', 'Qui', 'Sex', 'Sáb'];
 
 const inWeek = d => d && d >= wkStartStr && d <= todayStr;
+const inYtd = d => d && d >= yearStartStr && d <= todayStr;
 
 const e1 = all.filter(x => x.email1);
 const e2 = all.filter(x => x.email2);
@@ -52,6 +54,16 @@ const weekE2 = qualified.filter(x => x.email2 && inWeek(x.date2)).length;
 const weekE3 = qualified.filter(x => x.email3 && inWeek(x.date3)).length;
 const weekWa = qualified.filter(x => x.whatsappSent && inWeek(x.whatsappDate)).length;
 const weekResponses = all.filter(x => x.response && inWeek(x.responseDate));
+
+// Acumulado no ano (YTD)
+const ytdE1 = all.filter(x => x.email1 && inYtd(x.date1)).length;
+const ytdE2 = all.filter(x => x.email2 && inYtd(x.date2)).length;
+const ytdE3 = all.filter(x => x.email3 && inYtd(x.date3)).length;
+const ytdWa = qualified.filter(x => x.whatsappSent && inYtd(x.whatsappDate)).length;
+const ytdResponses = all.filter(x => x.response && inYtd(x.responseDate));
+const ytdRate = ytdE1 ? ((ytdResponses.length / ytdE1) * 100).toFixed(2) : '0.00';
+const weekOutputs = weekE1 + weekE2 + weekE3;
+const ytdOutputs = ytdE1 + ytdE2 + ytdE3;
 
 // Últimos 7 dias (diário)
 const daily = [];
@@ -113,7 +125,7 @@ const respHtml = weekResponses.length
 
 const html = `<!DOCTYPE html>
 <html lang="pt-BR"><head><meta charset="UTF-8">
-<title>Relatório Semanal Pindorama — ${todayStr}</title>
+<title>Relatório Pindorama - 7 dias e YTD - ${todayStr}</title>
 <style>
   * { box-sizing: border-box; margin: 0; padding: 0; }
   body { font-family: 'Segoe UI', Arial, sans-serif; color: #1a1a2e; background: #fff; padding: 28px; }
@@ -142,18 +154,29 @@ const html = `<!DOCTYPE html>
   ul { padding-left: 18px; font-size: 13px; line-height: 1.6; }
   .foot { margin-top: 26px; font-size: 11px; color: #aaa; text-align: center; }
   .summary { font-size: 13px; line-height: 1.55; }
+  .executive { margin-top: 16px; background: #fff9e8; border: 1px solid #f0c040; border-radius: 10px; padding: 14px 16px; }
+  .executive li { margin: 4px 0; }
+  .note { font-size: 12px; color: #555; line-height: 1.5; margin: 6px 0 10px; }
   .segments-section { break-before: page; page-break-before: always; }
 </style></head><body>
 
-<h1>Relatório Semanal — Pindorama Prospecção</h1>
+<h1>Relatório de Prospecção - 7 dias e YTD</h1>
 <div class="sub">Gerado em ${today.toLocaleDateString('pt-BR')} · Período ${wkStart.toLocaleDateString('pt-BR')} a ${today.toLocaleDateString('pt-BR')}</div>
 
-<h2>Números gerais (acumulado)</h2>
+<h2>Executive Summary</h2>
+<div class="executive"><ul>
+  <li><b>Últimos 7 dias:</b> ${weekOutputs} saídas de email, ${weekWa} abordagens por WhatsApp e ${weekResponses.length} nova(s) resposta(s).</li>
+  <li><b>Year to date:</b> ${ytdOutputs} saídas de email para ${ytdE1} primeiros contatos, ${ytdWa} abordagens por WhatsApp e ${ytdResponses.length} resposta(s).</li>
+  <li><b>Qualidade e risco:</b> a taxa de resposta YTD é ${ytdRate}%. O novo teto operacional é 100 saídas por janela móvel de 24h, com prioridade para contatos comerciais verificáveis.</li>
+</ul></div>
+
+<h2>Year to date (${today.getFullYear()})</h2>
 <div class="cards">
   <div class="card"><div class="n">${all.length}</div><div class="l">Leads cadastrados</div></div>
-  <div class="card"><div class="n">${e1.length}</div><div class="l">Email1 enviados</div></div>
-  <div class="card"><div class="n">${e2.length + e3.length}</div><div class="l">Follow-ups (email2+3)</div></div>
-  <div class="card"><div class="n">${responses.length}</div><div class="l">Respostas (${rate}%)</div></div>
+  <div class="card"><div class="n">${ytdE1}</div><div class="l">Primeiros emails</div></div>
+  <div class="card"><div class="n">${ytdE2 + ytdE3}</div><div class="l">Follow-ups</div></div>
+  <div class="card"><div class="n">${ytdWa}</div><div class="l">WhatsApp</div></div>
+  <div class="card"><div class="n">${ytdResponses.length}</div><div class="l">Respostas (${ytdRate}%)</div></div>
 </div>
 
 <h2>Nesta semana (${wkStart.toLocaleDateString('pt-BR')} a ${today.toLocaleDateString('pt-BR')})</h2>
@@ -167,10 +190,12 @@ const html = `<!DOCTYPE html>
 </div>
 
 <h2>Atividade dos últimos 7 dias</h2>
+<p class="note">As barras mostram a distribuição diária de primeiros contatos e follow-ups. Picos devem ser lidos junto ao teto móvel e à qualidade dos destinatários.</p>
 <div class="days">${dailyHtml}</div>
 
 <div class="segments-section">
   <h2>Segmentos (enviados/total)</h2>
+  <p class="note">A cobertura por segmento orienta a próxima seleção: adegas, lojas e distribuidoras de bebidas, bares e casas noturnas têm prioridade comercial.</p>
   <div class="grid">
     <div class="panel">${segHtml}</div>
   </div>
@@ -193,6 +218,20 @@ const html = `<!DOCTYPE html>
 <h2>O que foi feito na semana</h2>
 <ul class="summary">${weeklySummary.map(item => `<li>${item}</li>`).join('')}</ul>
 
+<h2>Próximos passos recomendados</h2>
+<ul>
+  <li>Manter o teto conservador de 100 saídas por janela móvel de 24 horas.</li>
+  <li>Revalidar MX antes do primeiro envio e suprimir destinatários com erro permanente.</li>
+  <li>Priorizar contatos com site ativo, contexto comercial verificável e domínio corporativo.</li>
+  <li>Usar 4 abordagens de WhatsApp por dia, de segunda a sábado, dentro da janela autorizada.</li>
+</ul>
+
+<h2>Perguntas em aberto</h2>
+<ul><li>Qual é a taxa de entrega efetiva após excluir devoluções? O cadastro registra envios e respostas, mas ainda não consolida todos os bounces como métrica YTD auditável.</li></ul>
+
+<h2>Ressalvas</h2>
+<p class="note">Os totais vêm dos campos de status e data dos cadastros do projeto. Leads cadastrados incluem registros sem primeiro envio; respostas dependem da marcação persistida pelo monitor. O YTD cobre 1º de janeiro até a geração, embora a operação tenha começado mais tarde no ano.</p>
+
 <div class="foot">Pindorama — Cachaça Artesanal · Relatório automático semanal · gerado por weekly-report.mjs</div>
 </body></html>`;
 
@@ -207,7 +246,7 @@ function tryPrint(profileDir, chrome) {
     '--headless', '--disable-gpu', '--no-sandbox', '--no-first-run', '--no-default-browser-check',
     `--user-data-dir=${profileDir}`,
     `--print-to-pdf=${absOut}`,
-    '--print-to-pdf-no-header',
+    '--no-pdf-header-footer',
     `file:///` + process.cwd().replace(/\\/g, '/').split('/').map(encodeURIComponent).join('/') + `/reports/relatorio.html`
   ];
   try { execFileSync(chrome, args, { timeout: 20000 }); return true; } catch (e) { return false; }
