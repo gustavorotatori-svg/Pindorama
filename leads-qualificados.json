@@ -22222,7 +22222,10 @@
     "template": "prova_social",
     "website": "",
     "email1": true,
-    "date1": "2026-08-08"
+    "date1": "2026-08-08",
+    "askedCadastro": true,
+    "responded": true,
+    "responseDate": "2026-08-09"
   },
   {
     "name": "BOTTEGA 21",
