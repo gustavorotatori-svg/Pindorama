@@ -33151,7 +33151,10 @@
     "context": "REST HOTEL; instagram: https://www.instagram.com/grandhyattsp/?hl=pt-br",
     "phone": "11 2838 1234",
     "template": "pergunta",
-    "website": ""
+    "website": "",
+    "invalidEmail": true,
+    "invalidEmailReason": "domain_without_mx",
+    "invalidEmailDate": "2026-08-11"
   },
   {
     "name": "Boamesa Restaurantes",
