@@ -1,0 +1,75 @@
+[
+  {
+    "name": "Forcato Commerce",
+    "email": "contato@forcato.com.br",
+    "type": "distribuidora",
+    "city": "Guarulhos",
+    "context": "distribuidora de bebidas para pessoas jurídicas, atendendo adegas, bares e restaurantes na Grande São Paulo",
+    "website": "https://www.forcato.com.br/",
+    "emailVerified": true,
+    "emailSource": "https://www.forcato.com.br/",
+    "emailVerifiedAt": "2026-08-12",
+    "mxVerified": true
+  },
+  {
+    "name": "Distribuidora de Bebidas JG",
+    "email": "vendas@distribuidorajg.com.br",
+    "type": "distribuidora",
+    "city": "São Bernardo do Campo",
+    "context": "distribuidora de bebidas, destilados e cachaças para bares, restaurantes, adegas, mercados e eventos",
+    "website": "https://distribuidorajg.com.br/",
+    "emailVerified": true,
+    "emailSource": "https://distribuidorajg.com.br/",
+    "emailVerifiedAt": "2026-08-12",
+    "mxVerified": true
+  },
+  {
+    "name": "G&T Bar",
+    "email": "info@gtginbar.com.br",
+    "type": "bar",
+    "city": "São Paulo",
+    "neighborhood": "Jardins",
+    "context": "bar de alta coquetelaria com mais de 170 rótulos de gin e carta de destilados",
+    "website": "https://gtginbar.com.br/",
+    "emailVerified": true,
+    "emailSource": "https://gtginbar.com.br/",
+    "emailVerifiedAt": "2026-08-12",
+    "mxVerified": true
+  },
+  {
+    "name": "WixBar",
+    "email": "comercial4@wixbartenders.com.br",
+    "type": "bar",
+    "city": "São Paulo",
+    "context": "empresa de alta coquetelaria para eventos corporativos e sociais com unidade em São Paulo",
+    "website": "https://www.wixbar.com.br/",
+    "emailVerified": true,
+    "emailSource": "https://www.wixbar.com.br/",
+    "emailVerifiedAt": "2026-08-12",
+    "mxVerified": true
+  },
+  {
+    "name": "703 Coquetelaria",
+    "email": "contato@703coquetelaria.com.br",
+    "type": "bar",
+    "city": "São Paulo",
+    "context": "serviço profissional de bartenders e coquetelaria para eventos em São Paulo",
+    "website": "https://www.703coquetelaria.com.br/",
+    "emailVerified": true,
+    "emailSource": "https://www.703coquetelaria.com.br/",
+    "emailVerifiedAt": "2026-08-12",
+    "mxVerified": true
+  },
+  {
+    "name": "Arte Vieira Coquetelaria",
+    "email": "contato@artevieira.com",
+    "type": "bar",
+    "city": "São Paulo",
+    "context": "coquetelaria autoral para eventos sociais e corporativos em São Paulo",
+    "website": "https://www.artevieira.com.br/bem-vindo/",
+    "emailVerified": true,
+    "emailSource": "https://www.artevieira.com.br/bem-vindo/",
+    "emailVerifiedAt": "2026-08-12",
+    "mxVerified": true
+  }
+]
