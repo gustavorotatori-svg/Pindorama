@@ -44,6 +44,21 @@ function leadPriority(lead) {
   return score;
 }
 
+const FIRST_CONTACT_TYPES = new Set([
+  'adega', 'loja_bebidas', 'distribuidora', 'distribuidor',
+  'atacadista', 'bar', 'balada', 'restaurante'
+]);
+
+function verifiedFirstContact(lead) {
+  if (!FIRST_CONTACT_TYPES.has(lead.type)) return false;
+  if (lead.emailVerified !== true) return false;
+  const source = String(lead.emailSource || '').trim();
+  const verifiedAt = String(lead.emailVerifiedAt || '').trim();
+  if (!/^https?:\/\//i.test(source) || !/^\d{4}-\d{2}-\d{2}$/.test(verifiedAt)) return false;
+  const ageDays = daysDiff(verifiedAt);
+  return ageDays >= 0 && ageDays <= 90;
+}
+
 function permanentRecipientError(error) {
   const text = `${error?.responseCode || ''} ${error?.code || ''} ${error?.response || ''} ${error?.message || ''}`.toLowerCase();
   return /\b550\b|5\.1\.1|user unknown|no such user|mailbox unavailable|recipient address rejected|address not found/.test(text);
@@ -216,7 +231,7 @@ async function sendEmail1() {
   for (;;) {
     const leads = load(LEADS_FILE);
     const pending = leads
-      .filter(x => !x.email1 && !x.invalidEmail && !failed.has(x.email) && x.email)
+      .filter(x => !x.email1 && !x.invalidEmail && !failed.has(x.email) && x.email && verifiedFirstContact(x))
       .sort((a, b) => leadPriority(b) - leadPriority(a));
     if (!pending.length) break;
     if (!emailQuotaAvailable()) break;
