@@ -4,7 +4,7 @@ Fonte de verdade atualizada pelo usuário em 07/08/2026. Esta política prevalec
 
 ## Canais e limites
 
-- E-mail: máximo de 100 envios totais por conta em qualquer janela móvel de 24 horas, incluindo apresentação, follow-ups, respostas automáticas e relatórios.
+- E-mail: durante a recuperação de reputação, máximo de 20 envios totais por conta em qualquer janela móvel de 24 horas, incluindo apresentação, follow-ups, respostas automáticas e relatórios.
 - E-mail pode ser enviado em qualquer dia e horário, enquanto o computador estiver ligado.
 - WhatsApp: máximo de 4 mensagens por dia neste projeto.
 - WhatsApp somente de segunda a sábado, das 09:00 às 20:00, fuso `America/Sao_Paulo`.
