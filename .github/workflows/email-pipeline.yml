@@ -38,6 +38,11 @@ jobs:
         if: steps.npm-cache.outputs.cache-hit != 'true'
         run: npm ci --no-audit --no-fund
 
+      - name: Importar fila curada de bares e distribuidores
+        run: |
+          node pipeline.mjs --add-file leads-verificados-2026-08-12.json
+          node pipeline.mjs --add-file leads-verificados-2026-08-13-drinks.json
+
       - name: Pipeline (somente destinatarios verificados + followups)
         run: node pipeline.mjs --all
 
