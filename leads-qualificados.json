@@ -1714,7 +1714,9 @@
     "email1": true,
     "date1": "2026-08-03",
     "email2": true,
-    "date2": "2026-08-05"
+    "date2": "2026-08-05",
+    "email3": true,
+    "date3": "2026-08-13"
   },
   {
     "name": "Point das Bebidas",
@@ -5902,7 +5904,9 @@
     "whatsappSent": true,
     "whatsappDate": "2026-08-03",
     "email2": true,
-    "date2": "2026-08-05"
+    "date2": "2026-08-05",
+    "email3": true,
+    "date3": "2026-08-13"
   },
   {
     "name": "Mezza",
@@ -5917,7 +5921,9 @@
     "email1": true,
     "date1": "2026-08-02",
     "email2": true,
-    "date2": "2026-08-05"
+    "date2": "2026-08-05",
+    "email3": true,
+    "date3": "2026-08-13"
   },
   {
     "name": "Bario Bar",
@@ -5934,7 +5940,9 @@
     "whatsappSent": true,
     "whatsappDate": "2026-08-03",
     "email2": true,
-    "date2": "2026-08-05"
+    "date2": "2026-08-05",
+    "email3": true,
+    "date3": "2026-08-13"
   },
   {
     "name": "Botequim Grill House",
@@ -5949,7 +5957,9 @@
     "email1": true,
     "date1": "2026-08-02",
     "email2": true,
-    "date2": "2026-08-05"
+    "date2": "2026-08-05",
+    "email3": true,
+    "date3": "2026-08-13"
   },
   {
     "name": "Cruzeiro's Bar",
@@ -5964,7 +5974,9 @@
     "email1": true,
     "date1": "2026-08-02",
     "email2": true,
-    "date2": "2026-08-05"
+    "date2": "2026-08-05",
+    "email3": true,
+    "date3": "2026-08-13"
   },
   {
     "name": "BKIN",
@@ -5979,7 +5991,9 @@
     "email1": true,
     "date1": "2026-08-02",
     "email2": true,
-    "date2": "2026-08-05"
+    "date2": "2026-08-05",
+    "email3": true,
+    "date3": "2026-08-13"
   },
   {
     "name": "O varal",
@@ -5996,7 +6010,9 @@
     "whatsappSent": true,
     "whatsappDate": "2026-08-03",
     "email2": true,
-    "date2": "2026-08-05"
+    "date2": "2026-08-05",
+    "email3": true,
+    "date3": "2026-08-13"
   },
   {
     "name": "PRAIA DO LAGO",
@@ -6013,7 +6029,9 @@
     "whatsappSent": true,
     "whatsappDate": "2026-08-03",
     "email2": true,
-    "date2": "2026-08-05"
+    "date2": "2026-08-05",
+    "email3": true,
+    "date3": "2026-08-13"
   },
   {
     "name": "PANVINO",
@@ -6030,7 +6048,9 @@
     "whatsappSent": true,
     "whatsappDate": "2026-08-03",
     "email2": true,
-    "date2": "2026-08-05"
+    "date2": "2026-08-05",
+    "email3": true,
+    "date3": "2026-08-13"
   },
   {
     "name": "Tulum Bar & Club",
@@ -6045,7 +6065,9 @@
     "email1": true,
     "date1": "2026-08-02",
     "email2": true,
-    "date2": "2026-08-05"
+    "date2": "2026-08-05",
+    "email3": true,
+    "date3": "2026-08-13"
   },
   {
     "name": "Amargot Bar",
@@ -6060,7 +6082,9 @@
     "email1": true,
     "date1": "2026-08-02",
     "email2": true,
-    "date2": "2026-08-05"
+    "date2": "2026-08-05",
+    "email3": true,
+    "date3": "2026-08-13"
   },
   {
     "name": "ADA MAKAN",
@@ -6075,7 +6099,9 @@
     "email1": true,
     "date1": "2026-08-02",
     "email2": true,
-    "date2": "2026-08-05"
+    "date2": "2026-08-05",
+    "email3": true,
+    "date3": "2026-08-13"
   },
   {
     "name": "KAKUREGA IZAKAYA",
@@ -6090,7 +6116,9 @@
     "email1": true,
     "date1": "2026-08-02",
     "email2": true,
-    "date2": "2026-08-05"
+    "date2": "2026-08-05",
+    "email3": true,
+    "date3": "2026-08-13"
   },
   {
     "name": "Gula Bar",
@@ -6105,7 +6133,9 @@
     "email1": true,
     "date1": "2026-08-02",
     "email2": true,
-    "date2": "2026-08-05"
+    "date2": "2026-08-05",
+    "email3": true,
+    "date3": "2026-08-13"
   },
   {
     "name": "ESTACÌ§AÌO CHOPPERIA",
@@ -6120,7 +6150,9 @@
     "email1": true,
     "date1": "2026-08-02",
     "email2": true,
-    "date2": "2026-08-05"
+    "date2": "2026-08-05",
+    "email3": true,
+    "date3": "2026-08-13"
   },
   {
     "name": "Paradiso Bar TatuapÃ©",
@@ -33230,7 +33262,9 @@
     "emailVerifiedAt": "2026-08-13",
     "mxVerified": true,
     "neighborhood": "",
-    "template": "pergunta"
+    "template": "pergunta",
+    "email1": true,
+    "date1": "2026-08-13"
   },
   {
     "name": "Fancy Bar",
@@ -33244,7 +33278,9 @@
     "emailVerifiedAt": "2026-08-13",
     "mxVerified": true,
     "neighborhood": "",
-    "template": "pergunta"
+    "template": "pergunta",
+    "email1": true,
+    "date1": "2026-08-13"
   },
   {
     "name": "Sarau Bar",
@@ -33258,7 +33294,9 @@
     "emailSource": "https://www.pulsohotel.com/sarau-bar",
     "emailVerifiedAt": "2026-08-13",
     "mxVerified": true,
-    "template": "prova_social"
+    "template": "prova_social",
+    "email1": true,
+    "date1": "2026-08-13"
   },
   {
     "name": "Lupe Bar e Restaurante",
@@ -33272,6 +33310,8 @@
     "emailSource": "https://www.lupebar.com.br/",
     "emailVerifiedAt": "2026-08-13",
     "mxVerified": true,
-    "template": "prova_social"
+    "template": "prova_social",
+    "email1": true,
+    "date1": "2026-08-13"
   }
 ]
