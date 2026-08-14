@@ -46,7 +46,7 @@ function leadPriority(lead) {
 
 const FIRST_CONTACT_TYPES = new Set([
   'adega', 'loja_bebidas', 'distribuidora', 'distribuidor',
-  'atacadista', 'bar', 'balada', 'restaurante'
+  'atacadista', 'bar', 'balada', 'restaurante', 'buffet'
 ]);
 
 function verifiedFirstContact(lead) {
