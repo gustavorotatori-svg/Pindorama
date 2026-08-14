@@ -6167,7 +6167,9 @@
     "email1": true,
     "date1": "2026-08-02",
     "email2": true,
-    "date2": "2026-08-05"
+    "date2": "2026-08-05",
+    "email3": true,
+    "date3": "2026-08-14"
   },
   {
     "name": "Madalena Growler Station",
@@ -6184,7 +6186,9 @@
     "whatsappSent": true,
     "whatsappDate": "2026-08-03",
     "email2": true,
-    "date2": "2026-08-05"
+    "date2": "2026-08-05",
+    "email3": true,
+    "date3": "2026-08-14"
   },
   {
     "name": "Mileto Bar",
@@ -6201,7 +6205,9 @@
     "whatsappSent": true,
     "whatsappDate": "2026-08-03",
     "email2": true,
-    "date2": "2026-08-05"
+    "date2": "2026-08-05",
+    "email3": true,
+    "date3": "2026-08-14"
   },
   {
     "name": "Alma SÃ£o Paulo",
@@ -6218,7 +6224,9 @@
     "whatsappSent": true,
     "whatsappDate": "2026-08-03",
     "email2": true,
-    "date2": "2026-08-05"
+    "date2": "2026-08-05",
+    "email3": true,
+    "date3": "2026-08-14"
   },
   {
     "name": "DR. ESPETO",
@@ -6233,7 +6241,9 @@
     "email1": true,
     "date1": "2026-08-02",
     "email2": true,
-    "date2": "2026-08-05"
+    "date2": "2026-08-05",
+    "email3": true,
+    "date3": "2026-08-14"
   },
   {
     "name": "BAR DO PINU",
@@ -6248,7 +6258,9 @@
     "email1": true,
     "date1": "2026-08-02",
     "email2": true,
-    "date2": "2026-08-05"
+    "date2": "2026-08-05",
+    "email3": true,
+    "date3": "2026-08-14"
   },
   {
     "name": "BOTECO SEO JOAQUIM",
@@ -6265,7 +6277,9 @@
     "whatsappSent": true,
     "whatsappDate": "2026-08-03",
     "email2": true,
-    "date2": "2026-08-05"
+    "date2": "2026-08-05",
+    "email3": true,
+    "date3": "2026-08-14"
   },
   {
     "name": "Taberna Maia Grill",
@@ -6280,7 +6294,9 @@
     "email1": true,
     "date1": "2026-08-02",
     "email2": true,
-    "date2": "2026-08-05"
+    "date2": "2026-08-05",
+    "email3": true,
+    "date3": "2026-08-14"
   },
   {
     "name": "VINI BAR",
@@ -6297,7 +6313,9 @@
     "whatsappSent": true,
     "whatsappDate": "2026-08-03",
     "email2": true,
-    "date2": "2026-08-05"
+    "date2": "2026-08-05",
+    "email3": true,
+    "date3": "2026-08-14"
   },
   {
     "name": "Bar do Berinjela",
@@ -33335,7 +33353,9 @@
     "emailVerifiedAt": "2026-08-14",
     "mxVerified": true,
     "neighborhood": "",
-    "template": "consultivo"
+    "template": "consultivo",
+    "email1": true,
+    "date1": "2026-08-14"
   },
   {
     "name": "Gaspar Bar e Praça",
@@ -33349,7 +33369,9 @@
     "emailSource": "https://www.gaspar.sampa.br/",
     "emailVerifiedAt": "2026-08-14",
     "mxVerified": true,
-    "template": "prova_social"
+    "template": "prova_social",
+    "email1": true,
+    "date1": "2026-08-14"
   },
   {
     "name": "DOPA Bar",
@@ -33363,7 +33385,9 @@
     "emailSource": "https://dopabar.com.br/",
     "emailVerifiedAt": "2026-08-14",
     "mxVerified": true,
-    "template": "consultivo"
+    "template": "consultivo",
+    "email1": true,
+    "date1": "2026-08-14"
   },
   {
     "name": "Adega 33",
@@ -33377,7 +33401,9 @@
     "emailVerifiedAt": "2026-08-14",
     "mxVerified": true,
     "neighborhood": "",
-    "template": "consultivo"
+    "template": "consultivo",
+    "email1": true,
+    "date1": "2026-08-14"
   },
   {
     "name": "VIP Bar Drinks & Coquetelaria",
@@ -33391,7 +33417,9 @@
     "emailSource": "https://barvip.com.br/",
     "emailVerifiedAt": "2026-08-14",
     "mxVerified": true,
-    "template": "consultivo"
+    "template": "consultivo",
+    "email1": true,
+    "date1": "2026-08-14"
   },
   {
     "name": "Buffet Uriel",
@@ -33405,7 +33433,9 @@
     "emailVerifiedAt": "2026-08-14",
     "mxVerified": true,
     "neighborhood": "",
-    "template": "prova_social"
+    "template": "prova_social",
+    "email1": true,
+    "date1": "2026-08-14"
   },
   {
     "name": "Amiiici",
@@ -33419,7 +33449,9 @@
     "emailVerifiedAt": "2026-08-14",
     "mxVerified": true,
     "neighborhood": "",
-    "template": "pergunta"
+    "template": "pergunta",
+    "email1": true,
+    "date1": "2026-08-14"
   },
   {
     "name": "Blend Alphaville",
@@ -33433,7 +33465,9 @@
     "emailSource": "https://blendalphaville.com.br/Bebidas-e-Drinks.aspx",
     "emailVerifiedAt": "2026-08-14",
     "mxVerified": true,
-    "template": "consultivo"
+    "template": "consultivo",
+    "email1": true,
+    "date1": "2026-08-14"
   },
   {
     "name": "Le Roof",
@@ -33447,7 +33481,9 @@
     "emailVerifiedAt": "2026-08-14",
     "mxVerified": true,
     "neighborhood": "",
-    "template": "consultivo"
+    "template": "consultivo",
+    "email1": true,
+    "date1": "2026-08-14"
   },
   {
     "name": "Yo Ho Pub",
@@ -33461,7 +33497,9 @@
     "emailSource": "https://yohopub.com.br/contato",
     "emailVerifiedAt": "2026-08-14",
     "mxVerified": true,
-    "template": "pergunta"
+    "template": "pergunta",
+    "email1": true,
+    "date1": "2026-08-14"
   },
   {
     "name": "Clube Outs",
@@ -33476,6 +33514,8 @@
     "emailSource": "https://www.clubeouts.com.br/",
     "emailVerifiedAt": "2026-08-14",
     "mxVerified": true,
-    "template": "pergunta"
+    "template": "pergunta",
+    "email1": true,
+    "date1": "2026-08-14"
   }
 ]
