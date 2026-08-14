@@ -33322,5 +33322,61 @@
     "template": "prova_social",
     "email1": true,
     "date1": "2026-08-13"
+  },
+  {
+    "name": "Pepper Drinks",
+    "email": "contato@pepperdrinks.com.br",
+    "type": "bar",
+    "city": "São Paulo",
+    "context": "serviço de bar e coquetelaria para eventos sociais e corporativos",
+    "website": "https://www.pepperdrinks.com.br/",
+    "emailVerified": true,
+    "emailSource": "https://www.pepperdrinks.com.br/",
+    "emailVerifiedAt": "2026-08-14",
+    "mxVerified": true,
+    "neighborhood": "",
+    "template": "consultivo"
+  },
+  {
+    "name": "Gaspar Bar e Praça",
+    "email": "contato@gaspar.sampa.br",
+    "type": "bar",
+    "city": "São Paulo",
+    "neighborhood": "Centro",
+    "context": "bar de coquetelaria autoral com programação musical",
+    "website": "https://www.gaspar.sampa.br/",
+    "emailVerified": true,
+    "emailSource": "https://www.gaspar.sampa.br/",
+    "emailVerifiedAt": "2026-08-14",
+    "mxVerified": true,
+    "template": "prova_social"
+  },
+  {
+    "name": "DOPA Bar",
+    "email": "contato@dopabar.com.br",
+    "type": "bar",
+    "city": "São Paulo",
+    "neighborhood": "Pinheiros",
+    "context": "bar especializado em coquetelaria autoral inspirada na biodiversidade brasileira",
+    "website": "https://dopabar.com.br/",
+    "emailVerified": true,
+    "emailSource": "https://dopabar.com.br/",
+    "emailVerifiedAt": "2026-08-14",
+    "mxVerified": true,
+    "template": "consultivo"
+  },
+  {
+    "name": "Adega 33",
+    "email": "contato@adega33.com.br",
+    "type": "adega",
+    "city": "Guarulhos",
+    "context": "adega e bar com carta de drinks e entretenimento",
+    "website": "https://adega33.com.br/cardapio/",
+    "emailVerified": true,
+    "emailSource": "https://adega33.com.br/cardapio/",
+    "emailVerifiedAt": "2026-08-14",
+    "mxVerified": true,
+    "neighborhood": "",
+    "template": "consultivo"
   }
 ]
