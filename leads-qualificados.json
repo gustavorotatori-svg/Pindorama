@@ -33462,5 +33462,20 @@
     "emailVerifiedAt": "2026-08-14",
     "mxVerified": true,
     "template": "pergunta"
+  },
+  {
+    "name": "Clube Outs",
+    "email": "eduouts@gmail.com",
+    "type": "balada",
+    "city": "São Paulo",
+    "neighborhood": "Consolação",
+    "address": "Rua Augusta, 486",
+    "context": "casa noturna e bar com duas pistas, dois bares, open bar e eventos corporativos",
+    "website": "https://www.clubeouts.com.br/",
+    "emailVerified": true,
+    "emailSource": "https://www.clubeouts.com.br/",
+    "emailVerifiedAt": "2026-08-14",
+    "mxVerified": true,
+    "template": "pergunta"
   }
 ]
