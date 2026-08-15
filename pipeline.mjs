@@ -287,6 +287,7 @@ async function sendFollowups() {
     let target = null;
     for (const l of leads) {
       if (l.responded || l.invalidEmail || l.doNotContact || SUPPRESSED_EMAILS.has(String(l.email || '').toLowerCase())) continue;
+      if (!verifiedFirstContact(l)) continue;
       if (l.email1 && !l.email2 && l.date1 && daysDiff(l.date1) >= 2 && !failed.has(l.email + ':email2')) { target = {lead:l,step:'email2'}; break; }
       if (l.email2 && !l.email3 && l.date2 && daysDiff(l.date2) >= 4 && !failed.has(l.email + ':email3')) { target = {lead:l,step:'email3'}; break; }
     }
