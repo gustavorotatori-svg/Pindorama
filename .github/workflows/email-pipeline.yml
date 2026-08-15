@@ -40,6 +40,7 @@ jobs:
 
       - name: Importar fila curada de bares de drinks
         run: |
+          node pipeline.mjs --add-file leads-verificados-2026-08-12.json
           node pipeline.mjs --add-file leads-verificados-2026-08-13-drinks.json
           node pipeline.mjs --add-file leads-verificados-2026-08-14.json
 

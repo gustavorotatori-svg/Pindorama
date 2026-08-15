@@ -33,6 +33,11 @@ const TYPE_PRIORITY = {
   hotel: 55, catering: 50, clube: 45
 };
 const FREE_EMAIL_DOMAINS = new Set(['gmail.com', 'hotmail.com', 'outlook.com', 'yahoo.com', 'yahoo.com.br', 'uol.com.br', 'terra.com.br', 'bol.com.br', 'ig.com.br']);
+const BLOCKED_RECIPIENT_DOMAINS = new Set(['mocoto.com.br']);
+
+function emailDomain(email) {
+  return String(email || '').split('@')[1]?.toLowerCase() || '';
+}
 
 function leadPriority(lead) {
   const domain = String(lead.email || '').split('@')[1]?.toLowerCase() || '';
@@ -50,6 +55,7 @@ const FIRST_CONTACT_TYPES = new Set([
 ]);
 
 function verifiedFirstContact(lead) {
+  if (BLOCKED_RECIPIENT_DOMAINS.has(emailDomain(lead.email))) return false;
   if (!FIRST_CONTACT_TYPES.has(lead.type)) return false;
   if (lead.emailVerified !== true) return false;
   const source = String(lead.emailSource || '').trim();
@@ -206,7 +212,8 @@ async function addLeads(jsonStr) {
 
   for (const l of newLeads) {
     if (!l.email || !l.name) { console.log('SKIP (missing name/email): ' + (l.name || '?')); continue; }
-    if (master.find(x => x.email === l.email)) { console.log('SKIP (duplicate): ' + l.name); continue; }
+    if (BLOCKED_RECIPIENT_DOMAINS.has(emailDomain(l.email))) { console.log('SKIP (blocked client domain): ' + l.name); continue; }
+    if (master.find(x => String(x.email || '').toLowerCase() === String(l.email).toLowerCase())) { console.log('SKIP (duplicate): ' + l.name); continue; }
 
     const valid = await validateDNS(l.email);
     if (!valid) { console.log('FAIL DNS: ' + l.name + ' <' + l.email + '>'); continue; }
