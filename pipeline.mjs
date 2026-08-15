@@ -7,6 +7,7 @@ const MAIL_USER = 'cachaca011pindorama@gmail.com';
 const MAIL_PASS = 'wnau jrrr rjpc zuuv';
 const LEADS_FILE = 'leads-qualificados.json';
 const OLD_FILE = 'leads.json';
+const SUPPRESSED_EMAILS_FILE = 'suppressed-emails.json';
 const GIF_TAG = '<br><br><img src="https://iili.io/CkQ8gFR.gif" style="display:block;margin-top:12px;max-width:400px" />';
 const DELAY_MS = 2500;
 const SIGNATURE = '\n\nAbra\u00e7o,\nGustavo\nPindorama \u2014 Cacha\u00e7a Artesanal\n(11) 91357-7900';
@@ -15,6 +16,7 @@ const transporter = nodemailer.createTransport({service:'gmail',auth:{user:MAIL_
 
 function load(file) { return JSON.parse(readFileSync(file, 'utf-8')); }
 function save(file, data) { writeFileSync(file, JSON.stringify(data, null, 2)); }
+const SUPPRESSED_EMAILS = new Set(load(SUPPRESSED_EMAILS_FILE).map(email => String(email).toLowerCase()));
 
 function today() { const d = new Date(); d.setMinutes(d.getMinutes() - d.getTimezoneOffset()); return d.toISOString().split('T')[0]; }
 function daysAgo(dateStr, days) { const d = new Date(dateStr); d.setDate(d.getDate() + days); return d.toISOString().split('T')[0]; }
@@ -55,6 +57,7 @@ const FIRST_CONTACT_TYPES = new Set([
 ]);
 
 function verifiedFirstContact(lead) {
+  if (SUPPRESSED_EMAILS.has(String(lead.email || '').toLowerCase())) return false;
   if (BLOCKED_RECIPIENT_DOMAINS.has(emailDomain(lead.email))) return false;
   if (!FIRST_CONTACT_TYPES.has(lead.type)) return false;
   if (lead.emailVerified !== true) return false;
@@ -212,6 +215,7 @@ async function addLeads(jsonStr) {
 
   for (const l of newLeads) {
     if (!l.email || !l.name) { console.log('SKIP (missing name/email): ' + (l.name || '?')); continue; }
+    if (SUPPRESSED_EMAILS.has(String(l.email).toLowerCase())) { console.log('SKIP (suppressed bounced address): ' + l.name); continue; }
     if (BLOCKED_RECIPIENT_DOMAINS.has(emailDomain(l.email))) { console.log('SKIP (blocked client domain): ' + l.name); continue; }
     if (master.find(x => String(x.email || '').toLowerCase() === String(l.email).toLowerCase())) { console.log('SKIP (duplicate): ' + l.name); continue; }
 
@@ -282,7 +286,7 @@ async function sendFollowups() {
     const leads = load(LEADS_FILE);
     let target = null;
     for (const l of leads) {
-      if (l.responded || l.invalidEmail || l.doNotContact) continue;
+      if (l.responded || l.invalidEmail || l.doNotContact || SUPPRESSED_EMAILS.has(String(l.email || '').toLowerCase())) continue;
       if (l.email1 && !l.email2 && l.date1 && daysDiff(l.date1) >= 2 && !failed.has(l.email + ':email2')) { target = {lead:l,step:'email2'}; break; }
       if (l.email2 && !l.email3 && l.date2 && daysDiff(l.date2) >= 4 && !failed.has(l.email + ':email3')) { target = {lead:l,step:'email3'}; break; }
     }
