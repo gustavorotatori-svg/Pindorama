@@ -44,6 +44,7 @@ jobs:
           node pipeline.mjs --add-file leads-verificados-2026-08-13-drinks.json
           node pipeline.mjs --add-file leads-verificados-2026-08-14.json
           node pipeline.mjs --add-file leads-verificados-2026-08-15-augusta.json
+          node pipeline.mjs --add-file leads-verificados-2026-08-15-cocktail-bars.json
 
       - name: Pipeline (somente destinatarios verificados + followups)
         run: node pipeline.mjs --all

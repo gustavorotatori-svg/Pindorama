@@ -1,0 +1,44 @@
+[
+  {
+    "name": "Solara Bar",
+    "email": "oi@solarabar.com.br",
+    "type": "bar",
+    "neighborhood": "Vila Madalena",
+    "address": "Rua Original, 89 - Sao Paulo/SP",
+    "context": "Bar de alta coquetelaria com drinks premiados, gastronomia autoral e intercambios com bartenders internacionais.",
+    "phone": "+55 11 95268-6470",
+    "website": "https://solarabar.com.br/",
+    "emailVerified": true,
+    "emailSource": "https://solarabar.com.br/solara-bar-celebra-2-anos-com-evento-exclusivo-em-sao-paulo-ao-lado-do-barely-disfigured-nyc",
+    "emailVerifiedAt": "2026-08-15",
+    "template": "consultivo"
+  },
+  {
+    "name": "Habanero Bar",
+    "email": "contato@habanerobar.com.br",
+    "type": "bar",
+    "neighborhood": "Santana",
+    "address": "Rua Alfredo Pujol, 1765 - Sao Paulo/SP",
+    "context": "Bar Tex-Mex ativo desde 2007, com cocktails premium, margaritas, mezcal e carta autoral.",
+    "phone": "(11) 2978-6864",
+    "website": "https://habanerobar.com.br/",
+    "emailVerified": true,
+    "emailSource": "https://habanerobar.com.br/",
+    "emailVerifiedAt": "2026-08-15",
+    "template": "consultivo"
+  },
+  {
+    "name": "Santana Bar",
+    "email": "contato@santanabar.com.br",
+    "type": "bar",
+    "neighborhood": "Pinheiros",
+    "address": "Rua Joaquim Antunes, 1026 - Sao Paulo/SP",
+    "context": "Casa de coquetelaria sofisticada comandada por Gabriel Santana, com menus de classicos, autorais e experiencias de degustacao.",
+    "phone": "(11) 99631-1026",
+    "website": "https://br.thebar.com/world-class/santana-bar",
+    "emailVerified": true,
+    "emailSource": "https://vejasp.abril.com.br/coluna/notas-etilicas/comer-e-beber-santana-viagem-2025/",
+    "emailVerifiedAt": "2026-08-15",
+    "template": "consultivo"
+  }
+]
