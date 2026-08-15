@@ -5,6 +5,24 @@
  */
 
 import { readFileSync, existsSync } from 'fs';
+import { emailQuotaStatus } from './email-quota.mjs';
+
+const FIRST_CONTACT_TYPES = new Set([
+  'adega', 'loja_bebidas', 'distribuidora', 'distribuidor',
+  'atacadista', 'bar', 'balada', 'restaurante', 'buffet'
+]);
+
+function verifiedFirstContact(lead) {
+  if (!FIRST_CONTACT_TYPES.has(lead.type)) return false;
+  if (lead.emailVerified !== true) return false;
+  const source = String(lead.emailSource || '').trim();
+  const verifiedAt = String(lead.emailVerifiedAt || '').trim();
+  if (!/^https?:\/\//i.test(source) || !/^\d{4}-\d{2}-\d{2}$/.test(verifiedAt)) return false;
+  const verified = new Date(`${verifiedAt}T00:00:00Z`);
+  if (Number.isNaN(verified.getTime())) return false;
+  const ageDays = Math.floor((Date.now() - verified.getTime()) / 86400000);
+  return ageDays >= 0 && ageDays <= 90;
+}
 
 function loadLeads(file) {
   if (!existsSync(file)) return [];
@@ -77,9 +95,11 @@ function analyze() {
 
   // === STATUS OPERACIONAL (pendentes / limite / planilha / whatsapp) ===
   console.log(`\n⚙️  STATUS OPERACIONAL`);
-  const pending = qualifiedLeads.filter(l => l.email && !l.email1);
+  const pending = qualifiedLeads.filter(l => l.email && !l.email1 && !l.invalidEmail && !l.doNotContact);
+  const readyPending = pending.filter(verifiedFirstContact);
   const pendingNoEmail = qualifiedLeads.filter(l => !l.email);
   console.log(`  Pendentes p/ email1:       ${pending.length}`);
+  console.log(`  Elegiveis verificados:     ${readyPending.length}`);
   if (pendingNoEmail.length) console.log(`  Sem email cadastrado:      ${pendingNoEmail.length}`);
 
   const today = new Date();
@@ -90,9 +110,9 @@ function analyze() {
     if (l.email2 && l.date2 === todayStr) sentToday++;
     if (l.email3 && l.date3 === todayStr) sentToday++;
   });
-  const GMAIL_DAILY_LIMIT = 500;
+  const quota = emailQuotaStatus();
   console.log(`  Enviados hoje (registrados): ${sentToday}`);
-  console.log(`  Limite global de email:      100 por janela móvel de 24h`);
+  console.log(`  Cota movel de email:         ${quota.used}/${quota.limit} usadas (${quota.remaining} disponiveis)`);
 
   if (existsSync('leads-planilha.json')) {
     const plan = JSON.parse(readFileSync('leads-planilha.json', 'utf-8'));

@@ -231,7 +231,7 @@ async function sendEmail1() {
   for (;;) {
     const leads = load(LEADS_FILE);
     const pending = leads
-      .filter(x => !x.email1 && !x.invalidEmail && !failed.has(x.email) && x.email && verifiedFirstContact(x))
+      .filter(x => !x.email1 && !x.invalidEmail && !x.doNotContact && !failed.has(x.email) && x.email && verifiedFirstContact(x))
       .sort((a, b) => leadPriority(b) - leadPriority(a));
     if (!pending.length) break;
     if (!emailQuotaAvailable()) break;
