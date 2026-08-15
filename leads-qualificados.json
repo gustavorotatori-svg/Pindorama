@@ -33291,7 +33291,9 @@
     "neighborhood": "",
     "template": "pergunta",
     "email1": true,
-    "date1": "2026-08-13"
+    "date1": "2026-08-13",
+    "email2": true,
+    "date2": "2026-08-15"
   },
   {
     "name": "Fancy Bar",
@@ -33307,7 +33309,9 @@
     "neighborhood": "",
     "template": "pergunta",
     "email1": true,
-    "date1": "2026-08-13"
+    "date1": "2026-08-13",
+    "email2": true,
+    "date2": "2026-08-15"
   },
   {
     "name": "Sarau Bar",
@@ -33323,7 +33327,9 @@
     "mxVerified": true,
     "template": "prova_social",
     "email1": true,
-    "date1": "2026-08-13"
+    "date1": "2026-08-13",
+    "email2": true,
+    "date2": "2026-08-15"
   },
   {
     "name": "Lupe Bar e Restaurante",
@@ -33339,7 +33345,9 @@
     "mxVerified": true,
     "template": "prova_social",
     "email1": true,
-    "date1": "2026-08-13"
+    "date1": "2026-08-13",
+    "email2": true,
+    "date2": "2026-08-15"
   },
   {
     "name": "Pepper Drinks",
@@ -33530,7 +33538,9 @@
     "emailVerifiedAt": "2026-08-12",
     "mxVerified": true,
     "neighborhood": "",
-    "template": "prova_social"
+    "template": "prova_social",
+    "email1": true,
+    "date1": "2026-08-15"
   },
   {
     "name": "Distribuidora de Bebidas JG",
@@ -33544,7 +33554,9 @@
     "emailVerifiedAt": "2026-08-12",
     "mxVerified": true,
     "neighborhood": "",
-    "template": "prova_social"
+    "template": "prova_social",
+    "email1": true,
+    "date1": "2026-08-15"
   },
   {
     "name": "G&T Bar",
@@ -33558,7 +33570,9 @@
     "emailSource": "https://gtginbar.com.br/",
     "emailVerifiedAt": "2026-08-12",
     "mxVerified": true,
-    "template": "consultivo"
+    "template": "consultivo",
+    "email1": true,
+    "date1": "2026-08-15"
   },
   {
     "name": "WixBar",
@@ -33572,7 +33586,9 @@
     "emailVerifiedAt": "2026-08-12",
     "mxVerified": true,
     "neighborhood": "",
-    "template": "prova_social"
+    "template": "prova_social",
+    "email1": true,
+    "date1": "2026-08-15"
   },
   {
     "name": "703 Coquetelaria",
@@ -33586,7 +33602,9 @@
     "emailVerifiedAt": "2026-08-12",
     "mxVerified": true,
     "neighborhood": "",
-    "template": "consultivo"
+    "template": "consultivo",
+    "email1": true,
+    "date1": "2026-08-15"
   },
   {
     "name": "Arte Vieira Coquetelaria",
@@ -33600,7 +33618,9 @@
     "emailVerifiedAt": "2026-08-12",
     "mxVerified": true,
     "neighborhood": "",
-    "template": "pergunta"
+    "template": "pergunta",
+    "email1": true,
+    "date1": "2026-08-15"
   },
   {
     "name": "Bernadette - Casa da Dette",
@@ -33614,6 +33634,40 @@
     "emailVerified": true,
     "emailSource": "https://bernadette.casa/",
     "emailVerifiedAt": "2026-08-15",
-    "template": "consultivo"
+    "template": "consultivo",
+    "email1": true,
+    "date1": "2026-08-15"
+  },
+  {
+    "name": "Habanero Bar",
+    "email": "contato@habanerobar.com.br",
+    "type": "bar",
+    "neighborhood": "Santana",
+    "address": "Rua Alfredo Pujol, 1765 - Sao Paulo/SP",
+    "context": "Bar Tex-Mex ativo desde 2007, com cocktails premium, margaritas, mezcal e carta autoral.",
+    "phone": "(11) 2978-6864",
+    "website": "https://habanerobar.com.br/",
+    "emailVerified": true,
+    "emailSource": "https://habanerobar.com.br/",
+    "emailVerifiedAt": "2026-08-15",
+    "template": "consultivo",
+    "email1": true,
+    "date1": "2026-08-15"
+  },
+  {
+    "name": "Santana Bar",
+    "email": "contato@santanabar.com.br",
+    "type": "bar",
+    "neighborhood": "Pinheiros",
+    "address": "Rua Joaquim Antunes, 1026 - Sao Paulo/SP",
+    "context": "Casa de coquetelaria sofisticada comandada por Gabriel Santana, com menus de classicos, autorais e experiencias de degustacao.",
+    "phone": "(11) 99631-1026",
+    "website": "https://br.thebar.com/world-class/santana-bar",
+    "emailVerified": true,
+    "emailSource": "https://vejasp.abril.com.br/coluna/notas-etilicas/comer-e-beber-santana-viagem-2025/",
+    "emailVerifiedAt": "2026-08-15",
+    "template": "consultivo",
+    "email1": true,
+    "date1": "2026-08-15"
   }
 ]
