@@ -1,19 +1,5 @@
 [
   {
-    "name": "Solara Bar",
-    "email": "oi@solarabar.com.br",
-    "type": "bar",
-    "neighborhood": "Vila Madalena",
-    "address": "Rua Original, 89 - Sao Paulo/SP",
-    "context": "Bar de alta coquetelaria com drinks premiados, gastronomia autoral e intercambios com bartenders internacionais.",
-    "phone": "+55 11 95268-6470",
-    "website": "https://solarabar.com.br/",
-    "emailVerified": true,
-    "emailSource": "https://solarabar.com.br/solara-bar-celebra-2-anos-com-evento-exclusivo-em-sao-paulo-ao-lado-do-barely-disfigured-nyc",
-    "emailVerifiedAt": "2026-08-15",
-    "template": "consultivo"
-  },
-  {
     "name": "Habanero Bar",
     "email": "contato@habanerobar.com.br",
     "type": "bar",
