@@ -44,7 +44,7 @@
   {
     "name": "Tribal Bebidas Brasileiras",
     "email": "eventos@tribalbebidas.com.br",
-    "type": "bar_eventos",
+    "type": "bar",
     "neighborhood": "Jardim Paulista",
     "address": "Rua Oscar Freire, 720 - Jardim Paulista - Sao Paulo/SP",
     "context": "Ponto de venda e operacao de eventos focada em bebidas brasileiras, com equipe de bartenders e sommeliers e forte aderencia a cachaca artesanal.",
@@ -58,7 +58,7 @@
   {
     "name": "Alquimia Cocktail",
     "email": "atendimento@alquimiacocktail.com.br",
-    "type": "bar_eventos",
+    "type": "bar",
     "neighborhood": "Santana",
     "address": "Rua Francisca Julia, 416 - Santana - Sao Paulo/SP",
     "context": "Operacao especializada em bar para eventos, bartenders e cartas de coqueteis personalizados, com drinks internacionais e caipirinhas.",
@@ -72,7 +72,7 @@
   {
     "name": "New Cia Experience & Drinks",
     "email": "contato@newcia.com.br",
-    "type": "bar_eventos",
+    "type": "bar",
     "neighborhood": "Pinheiros",
     "address": "Rua Henrique Schaumann, 286 - Pinheiros - Sao Paulo/SP",
     "context": "Operacao de bares itinerantes de alto padrao com mais de 18 anos, especializada em coquetelaria para eventos sociais, corporativos e grandes shows.",
