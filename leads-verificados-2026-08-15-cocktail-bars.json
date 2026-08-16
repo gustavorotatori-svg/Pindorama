@@ -385,5 +385,19 @@
     "emailSource": "https://connectbartenders.com.br/landing-page/",
     "emailVerifiedAt": "2026-08-16",
     "template": "consultivo"
+  },
+  {
+    "name": "Sky Hall Terrace Bar",
+    "email": "eventos@skyhall.com.br",
+    "type": "bar",
+    "neighborhood": "Vila Nova Conceicao",
+    "address": "Av. Presidente Juscelino Kubitschek, 1327 - Vila Nova Conceicao - Sao Paulo/SP",
+    "context": "Bar e restaurante ativo com coquetelaria autoral, operacao de eventos e canal comercial especifico para eventos publicado no site oficial.",
+    "phone": "(11) 3044-3592",
+    "website": "https://skyhall.com.br/terrace-bar/",
+    "emailVerified": true,
+    "emailSource": "https://skyhall.com.br/terrace-bar/",
+    "emailVerifiedAt": "2026-08-16",
+    "template": "consultivo"
   }
 ]
