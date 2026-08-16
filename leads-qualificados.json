@@ -34067,5 +34067,33 @@
     "emailSource": "https://dcecoquetelaria.com.br/contato/",
     "emailVerifiedAt": "2026-08-16",
     "template": "consultivo"
+  },
+  {
+    "name": "Connect Bartenders",
+    "email": "contato@connectbartenders.com.br",
+    "type": "bar",
+    "neighborhood": "Sao Paulo e Santos",
+    "address": "Unidades em Sao Paulo/SP e Santos/SP",
+    "context": "Empresa ativa desde 2011, com mais de 4 mil eventos realizados, especializada em bartenders, drinks e servico de bar para eventos, com unidades em Sao Paulo e Santos.",
+    "phone": "(11) 96398-0836",
+    "website": "https://connectbartenders.com.br/landing-page/",
+    "emailVerified": true,
+    "emailSource": "https://connectbartenders.com.br/landing-page/",
+    "emailVerifiedAt": "2026-08-16",
+    "template": "consultivo"
+  },
+  {
+    "name": "Sky Hall Terrace Bar",
+    "email": "eventos@skyhall.com.br",
+    "type": "bar",
+    "neighborhood": "Vila Nova Conceicao",
+    "address": "Av. Presidente Juscelino Kubitschek, 1327 - Vila Nova Conceicao - Sao Paulo/SP",
+    "context": "Bar e restaurante ativo com coquetelaria autoral, operacao de eventos e canal comercial especifico para eventos publicado no site oficial.",
+    "phone": "(11) 3044-3592",
+    "website": "https://skyhall.com.br/terrace-bar/",
+    "emailVerified": true,
+    "emailSource": "https://skyhall.com.br/terrace-bar/",
+    "emailVerifiedAt": "2026-08-16",
+    "template": "consultivo"
   }
 ]
