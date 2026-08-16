@@ -261,5 +261,19 @@
     "emailSource": "https://www.vipdrinks.com.br/servico-de-bartenders-em-sao-paulo",
     "emailVerifiedAt": "2026-08-16",
     "template": "consultivo"
+  },
+  {
+    "name": "Primal Bartenders",
+    "email": "primalbartenders@gmail.com",
+    "type": "bar",
+    "neighborhood": "Jardim Imperador",
+    "address": "Av. Ouro Verde de Minas, 122 - Jardim Imperador - Sao Paulo/SP",
+    "context": "Servico ativo de open bar e bartenders para eventos em Sao Paulo, atendendo festas, casamentos e formaturas com estrutura completa.",
+    "phone": "(11) 91580-7658",
+    "website": "https://primalbartenders.com/",
+    "emailVerified": true,
+    "emailSource": "https://primalbartenders.com/",
+    "emailVerifiedAt": "2026-08-16",
+    "template": "consultivo"
   }
 ]
