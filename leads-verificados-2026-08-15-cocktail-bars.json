@@ -165,5 +165,19 @@
     "emailSource": "https://www.brazenbar.com.br/",
     "emailVerifiedAt": "2026-08-16",
     "template": "consultivo"
+  },
+  {
+    "name": "R&M Bartenders",
+    "email": "contato@rembartenders.com.br",
+    "type": "bar",
+    "neighborhood": "Sao Paulo",
+    "address": "Sao Paulo/SP",
+    "context": "Servico ativo de bar e bartenders para eventos sociais e corporativos, com drinks classicos e personalizados e mais de mil eventos realizados.",
+    "phone": "(11) 99815-4156",
+    "website": "https://www.rembartenders.com.br/",
+    "emailVerified": true,
+    "emailSource": "https://www.rembartenders.com.br/",
+    "emailVerifiedAt": "2026-08-16",
+    "template": "consultivo"
   }
 ]
