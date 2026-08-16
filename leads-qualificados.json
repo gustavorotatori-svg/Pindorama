@@ -34162,5 +34162,32 @@
     "emailSource": "https://hotelpanambysaopaulo.com.br/wp-content/uploads/Eventos-Hotel-Panamby-Sao-Paulo.pdf",
     "emailVerifiedAt": "2026-08-16",
     "template": "consultivo"
+  },
+  {
+    "name": "Agari Drinks",
+    "email": "contato@agaridrinks.com.br",
+    "type": "bar",
+    "neighborhood": "Vila Rosalia",
+    "address": "Rua Acre, 229 - Vila Rosalia - Guarulhos/SP",
+    "context": "Empresa ativa de bar para eventos sociais e corporativos, com estrutura de bar, bartenders, coqueteis personalizados e servicos de open bar na Grande Sao Paulo.",
+    "phone": "(11) 4803-2073",
+    "website": "https://www.agaridrinks.com.br/",
+    "emailVerified": true,
+    "emailSource": "https://www.agaridrinks.com.br/contato",
+    "emailVerifiedAt": "2026-08-16",
+    "template": "consultivo"
+  },
+  {
+    "name": "One Bartender",
+    "email": "eventos@onebartender.com.br",
+    "type": "bar",
+    "neighborhood": "Grande Sao Paulo",
+    "address": "Atendimento em Sao Paulo e Guarulhos/SP",
+    "context": "Empresa de servicos para festas com buffet de coquetel, open bar e bartenders, atendendo eventos em Sao Paulo e Guarulhos com canal dedicado de eventos.",
+    "website": "https://www.onebartender.com.br/",
+    "emailVerified": true,
+    "emailSource": "https://www.onebartender.com.br/bartenders/servico-de-bartenders/servico-de-bartender-para-congresso/servico-de-bartender-para-festa-guarulhos",
+    "emailVerifiedAt": "2026-08-16",
+    "template": "consultivo"
   }
 ]
