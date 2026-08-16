@@ -480,5 +480,18 @@
     "emailSource": "https://www.agaridrinks.com.br/contato",
     "emailVerifiedAt": "2026-08-16",
     "template": "consultivo"
+  },
+  {
+    "name": "One Bartender",
+    "email": "eventos@onebartender.com.br",
+    "type": "bar",
+    "neighborhood": "Grande Sao Paulo",
+    "address": "Atendimento em Sao Paulo e Guarulhos/SP",
+    "context": "Empresa de servicos para festas com buffet de coquetel, open bar e bartenders, atendendo eventos em Sao Paulo e Guarulhos com canal dedicado de eventos.",
+    "website": "https://www.onebartender.com.br/",
+    "emailVerified": true,
+    "emailSource": "https://www.onebartender.com.br/bartenders/servico-de-bartenders/servico-de-bartender-para-congresso/servico-de-bartender-para-festa-guarulhos",
+    "emailVerifiedAt": "2026-08-16",
+    "template": "consultivo"
   }
 ]
