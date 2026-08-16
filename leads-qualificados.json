@@ -34369,5 +34369,33 @@
     "emailSource": "https://bar2go.com.br/",
     "emailVerifiedAt": "2026-08-16",
     "template": "consultivo"
+  },
+  {
+    "name": "Bourbon Convention Hotel Santos",
+    "email": "reservas@bourbon.com.br",
+    "type": "hotel",
+    "neighborhood": "Gonzaga",
+    "address": "Avenida Marechal Floriano Peixoto, 42 - Gonzaga - Santos/SP",
+    "context": "Hotel ativo com o maior centro de eventos hoteleiro de Santos, 35 salas, alimentos e bebidas, First Bar e Pool Bar com coqueteis.",
+    "phone": "(13) 3208-6400",
+    "website": "https://www.bourbon.com.br/hoteis-e-resorts/bourbon-convention-hotel-santos",
+    "emailVerified": true,
+    "emailSource": "https://www.bourbon.com.br/hoteis-e-resorts/bourbon-convention-hotel-santos",
+    "emailVerifiedAt": "2026-08-16",
+    "template": "consultivo"
+  },
+  {
+    "name": "XBAR",
+    "email": "contato@xbar.com.br",
+    "type": "bar",
+    "neighborhood": "Jardim Aquarius",
+    "address": "Rua Jurema Vieira Medrado, 88 - Sala 1004 - Sao Jose dos Campos/SP",
+    "context": "Empresa ativa de bar para eventos em Sao Jose dos Campos, com drinks padronizados, mocktails, estrutura completa, frota propria e sala de degustacao.",
+    "phone": "(12) 3302-7052",
+    "website": "https://www.xbar.com.br/",
+    "emailVerified": true,
+    "emailSource": "https://www.xbar.com.br/",
+    "emailVerifiedAt": "2026-08-16",
+    "template": "consultivo"
   }
 ]
