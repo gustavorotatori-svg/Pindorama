@@ -33875,5 +33875,33 @@
     "template": "consultivo",
     "email1": true,
     "date1": "2026-08-16"
+  },
+  {
+    "name": "Damasco Bar e Drinks",
+    "email": "atendimento@buffetdamasco.com.br",
+    "type": "bar",
+    "neighborhood": "Moema",
+    "address": "Avenida Rubem Berta, 1220 - Moema - Sao Paulo/SP",
+    "context": "Operacao ativa ha mais de 15 anos, especializada em coquetelaria para eventos corporativos e sociais, com equipe treinada e atendimento em Sao Paulo.",
+    "phone": "(11) 98080-1771",
+    "website": "https://bardrinkseventos.com.br/",
+    "emailVerified": true,
+    "emailSource": "https://bardrinkseventos.com.br/",
+    "emailVerifiedAt": "2026-08-16",
+    "template": "consultivo"
+  },
+  {
+    "name": "APTK Spirits Eventos",
+    "email": "contato@aptkspirits.com",
+    "type": "bar",
+    "neighborhood": "Campo Belo",
+    "address": "Av. Pedro Bueno, 945 - Campo Belo - Sao Paulo/SP",
+    "context": "Operacao ativa de coquetelaria brasileira para eventos, com estacao de bar, bartenders, elaboracao de cardapio e insumos completos.",
+    "phone": "(11) 2364-1028",
+    "website": "https://aptkspirits.com/faca-seu-evento/",
+    "emailVerified": true,
+    "emailSource": "https://aptkspirits.com/faca-seu-evento/",
+    "emailVerifiedAt": "2026-08-16",
+    "template": "consultivo"
   }
 ]
