@@ -33888,7 +33888,9 @@
     "emailVerified": true,
     "emailSource": "https://bardrinkseventos.com.br/",
     "emailVerifiedAt": "2026-08-16",
-    "template": "consultivo"
+    "template": "consultivo",
+    "email1": true,
+    "date1": "2026-08-16"
   },
   {
     "name": "APTK Spirits Eventos",
@@ -33902,7 +33904,9 @@
     "emailVerified": true,
     "emailSource": "https://aptkspirits.com/faca-seu-evento/",
     "emailVerifiedAt": "2026-08-16",
-    "template": "consultivo"
+    "template": "consultivo",
+    "email1": true,
+    "date1": "2026-08-16"
   },
   {
     "name": "Top Mais Drinks",
@@ -34011,7 +34015,9 @@
     "emailVerified": true,
     "emailSource": "https://labeventos.com.br/duvidas-frequentes",
     "emailVerifiedAt": "2026-08-16",
-    "template": "consultivo"
+    "template": "consultivo",
+    "email1": true,
+    "date1": "2026-08-16"
   },
   {
     "name": "ShowBartenders",
@@ -34025,7 +34031,9 @@
     "emailVerified": true,
     "emailSource": "https://showbartenders.com.br/",
     "emailVerifiedAt": "2026-08-16",
-    "template": "consultivo"
+    "template": "consultivo",
+    "email1": true,
+    "date1": "2026-08-16"
   },
   {
     "name": "Energy Drinks Bar",
@@ -34039,7 +34047,9 @@
     "emailVerified": true,
     "emailSource": "https://www.energydrinksbar.com.br/",
     "emailVerifiedAt": "2026-08-16",
-    "template": "consultivo"
+    "template": "consultivo",
+    "email1": true,
+    "date1": "2026-08-16"
   },
   {
     "name": "Doja Producoes",
@@ -34066,7 +34076,9 @@
     "emailVerified": true,
     "emailSource": "https://dcecoquetelaria.com.br/contato/",
     "emailVerifiedAt": "2026-08-16",
-    "template": "consultivo"
+    "template": "consultivo",
+    "email1": true,
+    "date1": "2026-08-16"
   },
   {
     "name": "Connect Bartenders",
@@ -34080,7 +34092,9 @@
     "emailVerified": true,
     "emailSource": "https://connectbartenders.com.br/landing-page/",
     "emailVerifiedAt": "2026-08-16",
-    "template": "consultivo"
+    "template": "consultivo",
+    "email1": true,
+    "date1": "2026-08-16"
   },
   {
     "name": "Sky Hall Terrace Bar",
@@ -34094,7 +34108,9 @@
     "emailVerified": true,
     "emailSource": "https://skyhall.com.br/terrace-bar/",
     "emailVerifiedAt": "2026-08-16",
-    "template": "consultivo"
+    "template": "consultivo",
+    "email1": true,
+    "date1": "2026-08-16"
   },
   {
     "name": "Double Bar Eventos",
@@ -34108,7 +34124,9 @@
     "emailVerified": true,
     "emailSource": "https://www.fazendaparaizoitu.com.br/wp-content/uploads/2026/01/2026-Guia-de-Fornecedores-Faz-Paraizo-Itu.pdf_3e254ed0-269a-4db1-b9e9-f77e557a9ab3.pdf",
     "emailVerifiedAt": "2026-08-16",
-    "template": "consultivo"
+    "template": "consultivo",
+    "email1": true,
+    "date1": "2026-08-16"
   },
   {
     "name": "Balli Bartenders",
@@ -34135,7 +34153,9 @@
     "emailVerified": true,
     "emailSource": "https://aceitosim.com.br/conceito-bar",
     "emailVerifiedAt": "2026-08-16",
-    "template": "consultivo"
+    "template": "consultivo",
+    "email1": true,
+    "date1": "2026-08-16"
   },
   {
     "name": "Bar Salvador",
@@ -34175,7 +34195,9 @@
     "emailVerified": true,
     "emailSource": "https://www.agaridrinks.com.br/contato",
     "emailVerifiedAt": "2026-08-16",
-    "template": "consultivo"
+    "template": "consultivo",
+    "email1": true,
+    "date1": "2026-08-16"
   },
   {
     "name": "One Bartender",
@@ -34202,7 +34224,9 @@
     "emailVerified": true,
     "emailSource": "https://www.1966pub.com.br/",
     "emailVerifiedAt": "2026-08-16",
-    "template": "consultivo"
+    "template": "consultivo",
+    "email1": true,
+    "date1": "2026-08-16"
   },
   {
     "name": "Santa Oca Bar",
@@ -34397,5 +34421,21 @@
     "emailSource": "https://www.xbar.com.br/",
     "emailVerifiedAt": "2026-08-16",
     "template": "consultivo"
+  },
+  {
+    "name": "Adega Don Marte",
+    "email": "contato@adegamartins.com.br",
+    "type": "adega",
+    "neighborhood": "Chacaras Itamar",
+    "address": "Rua Mario Gobbo, 1801 - Chacaras Itamar - Jundiai/SP",
+    "context": "Adega, restaurante e cafe ativos em Jundiai, com vinhos, espumantes e atendimento a casas, estabelecimentos e eventos por canal comercial oficial.",
+    "phone": "(11) 4584-3250",
+    "website": "https://adegamartins.com.br/contato/",
+    "emailVerified": true,
+    "emailSource": "https://adegamartins.com.br/contato/",
+    "emailVerifiedAt": "2026-08-16",
+    "template": "consultivo",
+    "email1": true,
+    "date1": "2026-08-16"
   }
 ]
