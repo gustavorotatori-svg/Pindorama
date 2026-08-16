@@ -757,5 +757,19 @@
     "emailSource": "https://zeventos.com/zeze-di-camargo-e-luciano",
     "emailVerifiedAt": "2026-08-16",
     "template": "consultivo"
+  },
+  {
+    "name": "Recanto Santa Rita",
+    "email": "contato@recantosantarita.com.br",
+    "type": "buffet",
+    "neighborhood": "Riacho Grande",
+    "address": "Estrada dos Camponeses, 600 - Riacho Grande - Sao Bernardo do Campo/SP",
+    "context": "Espaco de eventos ativo no ABC Paulista, com casamentos, gastronomia e operacao de open bar com drinks autorais divulgada recentemente no site oficial.",
+    "phone": "(11) 4354-9590",
+    "website": "https://recantosantarita.com.br/",
+    "emailVerified": true,
+    "emailSource": "https://recantosantarita.com.br/blog/",
+    "emailVerifiedAt": "2026-08-16",
+    "template": "consultivo"
   }
 ]
