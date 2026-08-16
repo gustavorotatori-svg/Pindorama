@@ -413,5 +413,18 @@
     "emailSource": "https://www.fazendaparaizoitu.com.br/wp-content/uploads/2026/01/2026-Guia-de-Fornecedores-Faz-Paraizo-Itu.pdf_3e254ed0-269a-4db1-b9e9-f77e557a9ab3.pdf",
     "emailVerifiedAt": "2026-08-16",
     "template": "consultivo"
+  },
+  {
+    "name": "Balli Bartenders",
+    "email": "contato@ballibartenders.com.br",
+    "type": "bar",
+    "neighborhood": "Sao Paulo",
+    "address": "Sao Paulo/SP",
+    "context": "Empresa ativa desde 2011 no mercado de eventos sociais e corporativos, especializada em coquetelaria, drinks autorais, cardapios personalizados e entretenimento.",
+    "website": "https://www.ballibartenders.com.br/",
+    "emailVerified": true,
+    "emailSource": "https://www.ballibartenders.com.br/",
+    "emailVerifiedAt": "2026-08-16",
+    "template": "consultivo"
   }
 ]
