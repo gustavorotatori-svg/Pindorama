@@ -743,5 +743,19 @@
     "emailSource": "https://www.fashionbartenders.com.br/barman-para-eventos-em-santo-andre.php",
     "emailVerifiedAt": "2026-08-16",
     "template": "consultivo"
+  },
+  {
+    "name": "Z Eventos",
+    "email": "contato@zeventos.com",
+    "type": "balada",
+    "neighborhood": "Jardim Guadalajara",
+    "address": "Rua Francisco Paulo Braion, 650 - Jardim Guadalajara - Sorocaba/SP",
+    "context": "Produtora e casa de eventos ativa em Sorocaba, com shows, camarotes e setores open bar, além de canal comercial publicado no site oficial.",
+    "phone": "(15) 99888-3576",
+    "website": "https://zeventos.com/",
+    "emailVerified": true,
+    "emailSource": "https://zeventos.com/zeze-di-camargo-e-luciano",
+    "emailVerifiedAt": "2026-08-16",
+    "template": "consultivo"
   }
 ]
