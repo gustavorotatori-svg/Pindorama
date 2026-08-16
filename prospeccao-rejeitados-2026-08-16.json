@@ -1,0 +1,30 @@
+[
+  {
+    "checkedAt": "2026-08-16T17:27:22-03:00",
+    "name": "The Bar Coquetelaria",
+    "email": "contato@thebar.br",
+    "source": "https://thebarcoquetelaria.com.br/",
+    "reason": "dominio do email sem DNS e sem MX"
+  },
+  {
+    "checkedAt": "2026-08-16T17:27:22-03:00",
+    "name": "Bowlbar",
+    "email": "contato@bowlbar.com.br",
+    "source": "https://bowlbarsp.com/",
+    "reason": "dominio do email sem DNS e sem MX"
+  },
+  {
+    "checkedAt": "2026-08-16T17:27:22-03:00",
+    "name": "Arapuka Bar",
+    "email": "contato@arapukabar.com.br",
+    "source": "https://arapukabar.com.br/",
+    "reason": "dominio do email sem DNS e sem MX"
+  },
+  {
+    "checkedAt": "2026-08-16T17:27:22-03:00",
+    "name": "ABS Bartenders",
+    "email": "contato@absbartenders.com.br",
+    "source": "https://absbartenders.com.br/",
+    "reason": "destinatario ja consta na supressao permanente"
+  }
+]
