@@ -631,5 +631,19 @@
     "emailSource": "https://curticabar.com.br/",
     "emailVerifiedAt": "2026-08-16",
     "template": "consultivo"
+  },
+  {
+    "name": "All Party Eventos",
+    "email": "comercial@allpartyeventos.com.br",
+    "type": "outro",
+    "neighborhood": "Grande Sao Paulo",
+    "address": "Grande Sao Paulo/SP",
+    "context": "Produtora ativa de eventos e formaturas com operacao de buffet completo e open bar, canal comercial dedicado e formatos corporativos.",
+    "phone": "(11) 4327-1415",
+    "website": "https://www.allpartyeventos.com.br/now.php",
+    "emailVerified": true,
+    "emailSource": "https://www.allpartyeventos.com.br/now.php",
+    "emailVerifiedAt": "2026-08-16",
+    "template": "consultivo"
   }
 ]
