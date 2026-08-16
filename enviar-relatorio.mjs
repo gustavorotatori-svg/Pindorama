@@ -16,8 +16,8 @@ const hour = Number(local.hour);
 const stateFile = 'report-send-log.json';
 const state = existsSync(stateFile) ? JSON.parse(readFileSync(stateFile, 'utf8')) : [];
 
-if (local.weekday !== 'Sun' || hour < 20 || hour > 23) {
-  console.log(`Relatorio nao enviado: fora da janela de domingo 20:00-23:59 (${timeZone}).`);
+if (local.weekday !== 'Sun' || hour < 9 || hour > 11) {
+  console.log(`Relatorio nao enviado: fora da janela de domingo 09:00-11:59 (${timeZone}).`);
   process.exit(0);
 }
 if (state.some(entry => entry.date === today && entry.status === 'accepted')) {

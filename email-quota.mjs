@@ -31,7 +31,11 @@ function reportReserveNeeded(now = new Date()) {
     weekday: 'short', year: 'numeric', month: '2-digit', day: '2-digit',
     hour: '2-digit', hourCycle: 'h23'
   }).formatToParts(now).reduce((acc, part) => ({ ...acc, [part.type]: part.value }), {});
-  if (parts.weekday !== 'Sun' || Number(parts.hour) < 20 || Number(parts.hour) > 23) return false;
+  const hour = Number(parts.hour);
+  const inReservationWindow =
+    (parts.weekday === 'Sat' && hour >= 9) ||
+    (parts.weekday === 'Sun' && hour <= 11);
+  if (!inReservationWindow) return false;
   const date = `${parts.year}-${parts.month}-${parts.day}`;
   try {
     const reports = existsSync(REPORT_LOG_FILE) ? JSON.parse(readFileSync(REPORT_LOG_FILE, 'utf8')) : [];
