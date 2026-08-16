@@ -3,8 +3,8 @@ import { readFileSync, writeFileSync, existsSync } from 'fs';
 import { join, basename } from 'path';
 import { sendWithinEmailQuota } from './email-quota.mjs';
 
-const to = process.env.RELATORIO_TO || 'cachaca011pindorama@gmail.com';
-const cc = process.env.RELATORIO_CC || 'gusrotatori@icloud.com';
+const to = process.env.RELATORIO_TO || 'gusrotatori@icloud.com';
+const cc = process.env.RELATORIO_CC || undefined;
 const timeZone = 'America/Sao_Paulo';
 const local = new Intl.DateTimeFormat('en-CA', {
   timeZone,
@@ -44,7 +44,7 @@ const quotaResult = await sendWithinEmailQuota(() => t.sendMail({
   to,
   cc,
   subject: `Relatório Semanal Pindorama — ${today}`,
-  text: 'Olá Gustavo,\n\nSegue o relatório semanal de prospecção (dashboard + resumo da semana).\n\nPindorama — Cachaça Artesanal\n(11) 91357-7900',
+  text: 'Olá Gustavo,\n\nSegue o relatório dominical da Pindorama com os últimos 7 dias, highlights dos clientes mais quentes e visão Year To Date.\n\nPindorama — Cachaça Artesanal\n(11) 91357-7900',
   attachments: [{ filename: basename(pdf), path: pdf }]
 }), { allowReserved: true });
 if (!quotaResult.sent) {
@@ -53,4 +53,4 @@ if (!quotaResult.sent) {
 }
 state.push({ date: today, acceptedAt: new Date().toISOString(), status: 'accepted', messageId: quotaResult.result.messageId, to, cc });
 writeFileSync(stateFile, JSON.stringify(state, null, 2));
-console.log('OK ' + quotaResult.result.messageId + ' -> ' + to + ' (cc: ' + cc + ')');
+console.log('OK ' + quotaResult.result.messageId + ' -> ' + to + (cc ? ' (cc: ' + cc + ')' : ''));

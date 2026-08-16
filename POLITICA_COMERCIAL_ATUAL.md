@@ -10,7 +10,7 @@ Fonte de verdade atualizada pelo usuário em 07/08/2026. Esta política prevalec
 - WhatsApp somente de segunda a sábado, das 09:00 às 20:00, fuso `America/Sao_Paulo`.
 - Nunca enviar WhatsApp aos domingos ou fora da janela permitida.
 - Enquanto houver pendências elegíveis, a automação deve aproveitar continuamente a capacidade liberada pelos limites e horários, sem ultrapassar os guards.
-- Relatório semanal: enviar para o e-mail do projeto Pindorama, com cópia para `gusrotatori@icloud.com`.
+- Relatório dominical: enviar exatamente uma vez, entre 20:00 e 23:59 em `America/Sao_Paulo`, pelo e-mail do projeto para `gusrotatori@icloud.com`. Deve cobrir os últimos 7 dias, tudo que foi executado no período, highlights dos clientes mais quentes com evidência e próximo passo, e visão Year To Date.
 
 ## Público-alvo
 

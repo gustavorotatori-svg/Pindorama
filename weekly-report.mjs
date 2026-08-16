@@ -44,7 +44,7 @@ const inYtd = d => d && d >= yearStartStr && d <= todayStr;
 const e1 = all.filter(x => x.email1);
 const e2 = all.filter(x => x.email2);
 const e3 = all.filter(x => x.email3);
-const responses = all.filter(x => x.response);
+const responses = all.filter(x => x.response || x.responded);
 const rate = e1.length ? ((responses.length / e1.length) * 100).toFixed(2) : '0.00';
 
 // Métricas da semana
@@ -53,14 +53,14 @@ const weekE1 = qualified.filter(x => x.email1 && inWeek(x.date1)).length;
 const weekE2 = qualified.filter(x => x.email2 && inWeek(x.date2)).length;
 const weekE3 = qualified.filter(x => x.email3 && inWeek(x.date3)).length;
 const weekWa = qualified.filter(x => x.whatsappSent && inWeek(x.whatsappDate)).length;
-const weekResponses = all.filter(x => x.response && inWeek(x.responseDate));
+const weekResponses = all.filter(x => (x.response || x.responded) && inWeek(x.responseDate));
 
 // Acumulado no ano (YTD)
 const ytdE1 = all.filter(x => x.email1 && inYtd(x.date1)).length;
 const ytdE2 = all.filter(x => x.email2 && inYtd(x.date2)).length;
 const ytdE3 = all.filter(x => x.email3 && inYtd(x.date3)).length;
 const ytdWa = qualified.filter(x => x.whatsappSent && inYtd(x.whatsappDate)).length;
-const ytdResponses = all.filter(x => x.response && inYtd(x.responseDate));
+const ytdResponses = all.filter(x => (x.response || x.responded) && (inYtd(x.responseDate) || inYtd(x.date1)));
 const ytdRate = ytdE1 ? ((ytdResponses.length / ytdE1) * 100).toFixed(2) : '0.00';
 const weekOutputs = weekE1 + weekE2 + weekE3;
 const ytdOutputs = ytdE1 + ytdE2 + ytdE3;
@@ -122,6 +122,26 @@ const dailyHtml = daily.map(d => `
 const respHtml = weekResponses.length
   ? weekResponses.map(r => `<li><b>${r.name}</b> (${r.responseDate}) — ${r.response || r.interestNote || ''}</li>`).join('')
   : '<li>Nenhuma resposta na semana</li>';
+
+const hotLeads = all
+  .filter(x => x.responded || x.response || x.interestNote || x.sampleRequested)
+  .map(x => ({
+    ...x,
+    hotScore: (x.sampleRequested ? 120 : 0) + (x.interestNote ? 100 : 0) + (x.response ? 60 : 0) + (x.responded ? 30 : 0)
+  }))
+  .sort((a, b) => b.hotScore - a.hotScore || String(b.responseDate || b.date1 || '').localeCompare(String(a.responseDate || a.date1 || '')))
+  .slice(0, 6);
+const hotHtml = hotLeads.length
+  ? hotLeads.map(lead => {
+      const signal = lead.interestNote || lead.response || 'Resposta registrada; conteúdo ainda não consolidado no cadastro.';
+      const next = lead.sampleRequested
+        ? 'Prioridade: confirmar cadastro e expedição da amostra.'
+        : lead.interestNote
+          ? 'Prioridade: retomar a oportunidade e fechar o próximo passo comercial.'
+          : 'Prioridade: revisar a conversa e definir a próxima ação.';
+      return `<li><b>${lead.name}</b> — ${signal}<br><span class="note">${next}</span></li>`;
+    }).join('')
+  : '<li>Nenhum cliente quente identificado com evidência registrada.</li>';
 
 const html = `<!DOCTYPE html>
 <html lang="pt-BR"><head><meta charset="UTF-8">
@@ -203,6 +223,10 @@ const html = `<!DOCTYPE html>
 
 <h2>Respostas da semana</h2>
 <ul>${respHtml}</ul>
+
+<h2>Clientes mais quentes</h2>
+<p class="note">Ranking baseado apenas em respostas, interesse comercial e pedidos de amostra registrados no projeto; não representa venda convertida.</p>
+<ul>${hotHtml}</ul>
 
 <h2>Status operacional</h2>
 <div class="grid">
