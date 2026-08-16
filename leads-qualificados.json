@@ -34313,5 +34313,33 @@
     "emailSource": "https://casahibrida.com.br/",
     "emailVerifiedAt": "2026-08-16",
     "template": "consultivo"
+  },
+  {
+    "name": "Curtica Bar",
+    "email": "contato@curticabar.com.br",
+    "type": "balada",
+    "neighborhood": "Vila Madalena",
+    "address": "Rua Inacio Pereira da Rocha, 87 - Vila Madalena - Sao Paulo/SP",
+    "context": "Bar e balada ativo na Vila Madalena, com drinks, karaokê e locacao exclusiva da casa ou ambientes para festas e eventos corporativos.",
+    "phone": "(11) 97982-5400",
+    "website": "https://curticabar.com.br/",
+    "emailVerified": true,
+    "emailSource": "https://curticabar.com.br/",
+    "emailVerifiedAt": "2026-08-16",
+    "template": "consultivo"
+  },
+  {
+    "name": "All Party Eventos",
+    "email": "comercial@allpartyeventos.com.br",
+    "type": "outro",
+    "neighborhood": "Grande Sao Paulo",
+    "address": "Grande Sao Paulo/SP",
+    "context": "Produtora ativa de eventos e formaturas com operacao de buffet completo e open bar, canal comercial dedicado e formatos corporativos.",
+    "phone": "(11) 4327-1415",
+    "website": "https://www.allpartyeventos.com.br/now.php",
+    "emailVerified": true,
+    "emailSource": "https://www.allpartyeventos.com.br/now.php",
+    "emailVerifiedAt": "2026-08-16",
+    "template": "consultivo"
   }
 ]
