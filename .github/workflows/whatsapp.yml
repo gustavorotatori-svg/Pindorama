@@ -1,16 +1,14 @@
 name: WhatsApp Pindorama
 
+concurrency:
+  group: pindorama-state-writer
+  cancel-in-progress: false
+
 on:
-  schedule:
-    - cron: '0 17 * * 1-6'
   workflow_dispatch:
 
 permissions:
   contents: write
-
-concurrency:
-  group: pindorama
-  cancel-in-progress: false
 
 jobs:
   run-whatsapp:
@@ -48,7 +46,16 @@ jobs:
           git add -A
           if ! git diff --cached --quiet; then
             git commit -m "whatsapp: estado atualizado $(date -u +%Y-%m-%dT%H:%MZ)"
-            git push
+            for tentativa in 1 2 3; do
+              git pull --rebase origin master
+              if git push origin HEAD:master; then
+                break
+              fi
+              if [ "$tentativa" = "3" ]; then
+                exit 1
+              fi
+              sleep 2
+            done
           else
             echo "Sem alteracoes para commitar"
           fi

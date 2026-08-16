@@ -1,5 +1,9 @@
 name: Auto Reply Pindorama
 
+concurrency:
+  group: pindorama-state-writer
+  cancel-in-progress: false
+
 on:
   schedule:
     - cron: '15 * * * *'
@@ -7,10 +11,6 @@ on:
 
 permissions:
   contents: write
-
-concurrency:
-  group: pindorama
-  cancel-in-progress: false
 
 jobs:
   run-auto-reply:
@@ -50,7 +50,16 @@ jobs:
           git add -A
           if ! git diff --cached --quiet; then
             git commit -m "auto-reply: estado atualizado $(date -u +%Y-%m-%dT%H:%MZ)"
-            git push
+            for tentativa in 1 2 3; do
+              git pull --rebase origin master
+              if git push origin HEAD:master; then
+                break
+              fi
+              if [ "$tentativa" = "3" ]; then
+                exit 1
+              fi
+              sleep 2
+            done
           else
             echo "Sem alteracoes para commitar"
           fi
