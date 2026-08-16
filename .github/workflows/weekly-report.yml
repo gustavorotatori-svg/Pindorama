@@ -8,6 +8,8 @@ on:
   schedule:
     - cron: '0 12 * * 0'
     - cron: '40 12,13,14 * * 0'
+    # Excecao unica para 16/08/2026: primeira vaga da cota abre as 21:40 BRT.
+    - cron: '40 0 * * 1'
   workflow_dispatch:
 
 permissions:
@@ -37,6 +39,7 @@ jobs:
       - name: Enviar por email
         env:
           GMAIL_APP_PASSWORD: ${{ secrets.GMAIL_APP_PASSWORD }}
+          REPORT_ONE_TIME_DATE: '2026-08-16'
         run: node enviar-relatorio.mjs
 
       - name: Upload PDF como artefato

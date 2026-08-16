@@ -15,8 +15,9 @@ const today = `${local.year}-${local.month}-${local.day}`;
 const hour = Number(local.hour);
 const stateFile = 'report-send-log.json';
 const state = existsSync(stateFile) ? JSON.parse(readFileSync(stateFile, 'utf8')) : [];
+const oneTimeException = process.env.REPORT_ONE_TIME_DATE === today;
 
-if (local.weekday !== 'Sun' || hour < 9 || hour > 11) {
+if (!oneTimeException && (local.weekday !== 'Sun' || hour < 9 || hour > 11)) {
   console.log(`Relatorio nao enviado: fora da janela de domingo 09:00-11:59 (${timeZone}).`);
   process.exit(0);
 }
