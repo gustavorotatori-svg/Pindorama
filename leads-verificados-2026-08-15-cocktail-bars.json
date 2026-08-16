@@ -813,5 +813,19 @@
     "emailSource": "https://k-bar.com.br/",
     "emailVerifiedAt": "2026-08-16",
     "template": "consultivo"
+  },
+  {
+    "name": "Mister Drinks",
+    "email": "drinks@mister.net.br",
+    "type": "bar",
+    "neighborhood": "Bras",
+    "address": "Rua Campos Sales, 147 - Bras - Sao Paulo/SP",
+    "context": "Empresa ativa especializada em bar completo para eventos sociais e corporativos, com carta de drinks classicos e autorais e uso de marcas nacionais e importadas.",
+    "phone": "(11) 91772-1501",
+    "website": "https://mister.net.br/mister-drinks/",
+    "emailVerified": true,
+    "emailSource": "https://mister.net.br/mister-drinks/",
+    "emailVerifiedAt": "2026-08-16",
+    "template": "consultivo"
   }
 ]
