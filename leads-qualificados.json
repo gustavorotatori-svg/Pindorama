@@ -33998,5 +33998,33 @@
     "emailSource": "https://www.wdgevents.com/",
     "emailVerifiedAt": "2026-08-16",
     "template": "consultivo"
+  },
+  {
+    "name": "Lab Bar Eventos",
+    "email": "contato@labeventos.com.br",
+    "type": "bar",
+    "neighborhood": "Sao Paulo",
+    "address": "Sao Paulo/SP",
+    "context": "Servico ativo de open bar para eventos na Grande Sao Paulo, com cartas personalizadas, drinks exclusivos, degustacao e equipe completa.",
+    "phone": "(11) 98733-1729",
+    "website": "https://labeventos.com.br/duvidas-frequentes",
+    "emailVerified": true,
+    "emailSource": "https://labeventos.com.br/duvidas-frequentes",
+    "emailVerifiedAt": "2026-08-16",
+    "template": "consultivo"
+  },
+  {
+    "name": "ShowBartenders",
+    "email": "contato@showbartenders.com.br",
+    "type": "bar",
+    "neighborhood": "Santo Andre",
+    "address": "Rua Teofilo Otoni - Santo Andre/SP",
+    "context": "Servico ativo de open bar e bartenders para casamentos, aniversarios e eventos sociais, com estrutura de bar e drinks classicos e autorais.",
+    "phone": "(11) 99191-1212",
+    "website": "https://showbartenders.com.br/",
+    "emailVerified": true,
+    "emailSource": "https://showbartenders.com.br/",
+    "emailVerifiedAt": "2026-08-16",
+    "template": "consultivo"
   }
 ]
