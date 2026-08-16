@@ -33697,5 +33697,49 @@
     "template": "consultivo",
     "email1": true,
     "date1": "2026-08-15"
+  },
+  {
+    "name": "Anexo Pinheiros",
+    "email": "contato@anexopinheiros.com.br",
+    "type": "bar",
+    "neighborhood": "Pinheiros",
+    "address": "Rua Guaicui, 82 - Pinheiros - Sao Paulo/SP",
+    "context": "Bar e rooftop ativo em Pinheiros, com posicionamento sofisticado e destaque oficial para drinks excepcionais.",
+    "phone": "(11) 93293-4207",
+    "website": "https://www.anexopinheiros.com.br/",
+    "emailVerified": true,
+    "emailSource": "https://www.anexopinheiros.com.br/",
+    "emailVerifiedAt": "2026-08-15",
+    "template": "consultivo",
+    "email1": true,
+    "date1": "2026-08-15"
+  },
+  {
+    "name": "Tribal Bebidas Brasileiras",
+    "email": "eventos@tribalbebidas.com.br",
+    "type": "bar_eventos",
+    "neighborhood": "Jardim Paulista",
+    "address": "Rua Oscar Freire, 720 - Jardim Paulista - Sao Paulo/SP",
+    "context": "Ponto de venda e operacao de eventos focada em bebidas brasileiras, com equipe de bartenders e sommeliers e forte aderencia a cachaca artesanal.",
+    "phone": "(11) 96873-5734",
+    "website": "https://tribalbebidas.com.br/entre-em-contato/",
+    "emailVerified": true,
+    "emailSource": "https://tribalbebidas.com.br/entre-em-contato/",
+    "emailVerifiedAt": "2026-08-15",
+    "template": "consultivo"
+  },
+  {
+    "name": "Alquimia Cocktail",
+    "email": "atendimento@alquimiacocktail.com.br",
+    "type": "bar_eventos",
+    "neighborhood": "Santana",
+    "address": "Rua Francisca Julia, 416 - Santana - Sao Paulo/SP",
+    "context": "Operacao especializada em bar para eventos, bartenders e cartas de coqueteis personalizados, com drinks internacionais e caipirinhas.",
+    "phone": "(11) 94761-2478",
+    "website": "https://alquimiacocktail.com.br/",
+    "emailVerified": true,
+    "emailSource": "https://alquimiacocktail.com.br/",
+    "emailVerifiedAt": "2026-08-15",
+    "template": "consultivo"
   }
 ]
