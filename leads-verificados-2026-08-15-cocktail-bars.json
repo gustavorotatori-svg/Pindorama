@@ -221,5 +221,18 @@
     "emailSource": "https://www.topmaisdrinkss.com/",
     "emailVerifiedAt": "2026-08-16",
     "template": "consultivo"
+  },
+  {
+    "name": "Chapa Drinks",
+    "email": "contato@chapadrinks.com.br",
+    "type": "bar",
+    "neighborhood": "Sao Paulo",
+    "address": "Sao Paulo/SP",
+    "context": "Bar movel ativo para eventos em Sao Paulo, com bartenders, drinks autorais, cartas personalizadas e experiencias visuais para festas.",
+    "website": "https://chapadrinks.com.br/",
+    "emailVerified": true,
+    "emailSource": "https://chapadrinks.com.br/",
+    "emailVerifiedAt": "2026-08-16",
+    "template": "consultivo"
   }
 ]
