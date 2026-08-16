@@ -33717,7 +33717,7 @@
   {
     "name": "Tribal Bebidas Brasileiras",
     "email": "eventos@tribalbebidas.com.br",
-    "type": "bar_eventos",
+    "type": "bar",
     "neighborhood": "Jardim Paulista",
     "address": "Rua Oscar Freire, 720 - Jardim Paulista - Sao Paulo/SP",
     "context": "Ponto de venda e operacao de eventos focada em bebidas brasileiras, com equipe de bartenders e sommeliers e forte aderencia a cachaca artesanal.",
@@ -33726,12 +33726,14 @@
     "emailVerified": true,
     "emailSource": "https://tribalbebidas.com.br/entre-em-contato/",
     "emailVerifiedAt": "2026-08-15",
-    "template": "consultivo"
+    "template": "consultivo",
+    "email1": true,
+    "date1": "2026-08-15"
   },
   {
     "name": "Alquimia Cocktail",
     "email": "atendimento@alquimiacocktail.com.br",
-    "type": "bar_eventos",
+    "type": "bar",
     "neighborhood": "Santana",
     "address": "Rua Francisca Julia, 416 - Santana - Sao Paulo/SP",
     "context": "Operacao especializada em bar para eventos, bartenders e cartas de coqueteis personalizados, com drinks internacionais e caipirinhas.",
@@ -33740,7 +33742,9 @@
     "emailVerified": true,
     "emailSource": "https://alquimiacocktail.com.br/",
     "emailVerifiedAt": "2026-08-15",
-    "template": "consultivo"
+    "template": "consultivo",
+    "email1": true,
+    "date1": "2026-08-15"
   },
   {
     "name": "New Cia Experience & Drinks",
