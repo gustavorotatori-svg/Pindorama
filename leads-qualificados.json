@@ -33827,5 +33827,21 @@
     "template": "consultivo",
     "email1": true,
     "date1": "2026-08-16"
+  },
+  {
+    "name": "Drink Bartenders",
+    "email": "contato@drinkbartenders.com.br",
+    "type": "bar",
+    "neighborhood": "Vila Sabrina",
+    "address": "R. Invasao dos Holandeses, 200 - Vila Sabrina - Sao Paulo/SP",
+    "context": "Servico ativo de bar e bartenders para festas e eventos em Sao Paulo, com coquetelaria e equipe treinada.",
+    "phone": "(11) 97795-3069",
+    "website": "https://www.drinkbartenders.com.br/",
+    "emailVerified": true,
+    "emailSource": "https://www.drinkbartenders.com.br/",
+    "emailVerifiedAt": "2026-08-16",
+    "template": "consultivo",
+    "email1": true,
+    "date1": "2026-08-16"
   }
 ]
