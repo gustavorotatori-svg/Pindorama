@@ -288,5 +288,19 @@
     "emailSource": "https://drinksbartender.com.br/",
     "emailVerifiedAt": "2026-08-16",
     "template": "consultivo"
+  },
+  {
+    "name": "WDG Events",
+    "email": "concierge@wdgevents.com",
+    "type": "catering",
+    "neighborhood": "Litoral Norte",
+    "address": "Ubatuba/SP",
+    "context": "Operacao ativa de eventos premium e destination weddings, com gastronomia e coquetelaria autoral internas, welcome drinks e cocktail hour.",
+    "phone": "(12) 98264-7355",
+    "website": "https://www.wdgevents.com/",
+    "emailVerified": true,
+    "emailSource": "https://www.wdgevents.com/",
+    "emailVerifiedAt": "2026-08-16",
+    "template": "consultivo"
   }
 ]
