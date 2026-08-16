@@ -34040,5 +34040,32 @@
     "emailSource": "https://www.energydrinksbar.com.br/",
     "emailVerifiedAt": "2026-08-16",
     "template": "consultivo"
+  },
+  {
+    "name": "Doja Producoes",
+    "email": "dojaproducoes@gmail.com",
+    "type": "bar",
+    "neighborhood": "Sao Paulo",
+    "address": "Sao Paulo/SP",
+    "context": "Servico ativo e especializado de bar para aniversarios, casamentos, feiras e eventos corporativos, com coqueteis, cervejas, vinhos e cardapios personalizados.",
+    "website": "https://www.dojaproducoes.com/",
+    "emailVerified": true,
+    "emailSource": "https://www.dojaproducoes.com/",
+    "emailVerifiedAt": "2026-08-16",
+    "template": "consultivo"
+  },
+  {
+    "name": "DCE Coquetelaria",
+    "email": "atendimento@dcecoquetelaria.com.br",
+    "type": "bar",
+    "neighborhood": "Paraiso",
+    "address": "Rua Vergueiro, 1353 - Paraiso - Sao Paulo/SP",
+    "context": "Empresa especializada em drinks e coquetelaria nacional e internacional para eventos sociais e corporativos, com atendimento comercial ativo em Sao Paulo.",
+    "phone": "(11) 94536-0968",
+    "website": "https://dcecoquetelaria.com.br/contato/",
+    "emailVerified": true,
+    "emailSource": "https://dcecoquetelaria.com.br/contato/",
+    "emailVerifiedAt": "2026-08-16",
+    "template": "consultivo"
   }
 ]
