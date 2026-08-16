@@ -371,5 +371,19 @@
     "emailSource": "https://dcecoquetelaria.com.br/contato/",
     "emailVerifiedAt": "2026-08-16",
     "template": "consultivo"
+  },
+  {
+    "name": "Connect Bartenders",
+    "email": "contato@connectbartenders.com.br",
+    "type": "bar",
+    "neighborhood": "Sao Paulo e Santos",
+    "address": "Unidades em Sao Paulo/SP e Santos/SP",
+    "context": "Empresa ativa desde 2011, com mais de 4 mil eventos realizados, especializada em bartenders, drinks e servico de bar para eventos, com unidades em Sao Paulo e Santos.",
+    "phone": "(11) 96398-0836",
+    "website": "https://connectbartenders.com.br/landing-page/",
+    "emailVerified": true,
+    "emailSource": "https://connectbartenders.com.br/landing-page/",
+    "emailVerifiedAt": "2026-08-16",
+    "template": "consultivo"
   }
 ]
