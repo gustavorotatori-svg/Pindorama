@@ -701,5 +701,19 @@
     "emailSource": "https://www.xbar.com.br/",
     "emailVerifiedAt": "2026-08-16",
     "template": "consultivo"
+  },
+  {
+    "name": "Adega Don Marte",
+    "email": "contato@adegamartins.com.br",
+    "type": "adega",
+    "neighborhood": "Chacaras Itamar",
+    "address": "Rua Mario Gobbo, 1801 - Chacaras Itamar - Jundiai/SP",
+    "context": "Adega, restaurante e cafe ativos em Jundiai, com vinhos, espumantes e atendimento a casas, estabelecimentos e eventos por canal comercial oficial.",
+    "phone": "(11) 4584-3250",
+    "website": "https://adegamartins.com.br/contato/",
+    "emailVerified": true,
+    "emailSource": "https://adegamartins.com.br/contato/",
+    "emailVerifiedAt": "2026-08-16",
+    "template": "consultivo"
   }
 ]
