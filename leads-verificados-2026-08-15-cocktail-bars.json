@@ -827,5 +827,19 @@
     "emailSource": "https://mister.net.br/mister-drinks/",
     "emailVerifiedAt": "2026-08-16",
     "template": "consultivo"
+  },
+  {
+    "name": "São Paulo Urban Distillery",
+    "email": "contato@spud.social",
+    "type": "bar",
+    "neighborhood": "Consolacao",
+    "address": "Rua Nestor Pestana, 163 - Consolacao - Sao Paulo/SP",
+    "context": "Destilaria urbana e bar ativo instalado dentro do Drosophyla, com coqueteis e proposta diretamente ligada a destilados artesanais.",
+    "phone": "",
+    "website": "https://spud.social/",
+    "emailVerified": true,
+    "emailSource": "https://spud.social/",
+    "emailVerifiedAt": "2026-08-16",
+    "template": "consultivo"
   }
 ]
