@@ -534,5 +534,18 @@
     "emailSource": "https://www.urbanacoquetelaria.com.br/",
     "emailVerifiedAt": "2026-08-16",
     "template": "consultivo"
+  },
+  {
+    "name": "A Selva Bar",
+    "email": "contato@aselva.com.br",
+    "type": "bar",
+    "neighborhood": "Cambuí",
+    "address": "Rua 14 de Dezembro, 292 - Campinas/SP",
+    "context": "Bar ativo de coquetelaria autoral em Campinas, com laboratorio criativo, drinks e mocktails de cafe, gastronomia nipolatina e agenda semanal atualizada.",
+    "website": "https://aselvabar.com/",
+    "emailVerified": true,
+    "emailSource": "https://aselvabar.com/",
+    "emailVerifiedAt": "2026-08-16",
+    "template": "consultivo"
   }
 ]
