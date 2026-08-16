@@ -771,5 +771,19 @@
     "emailSource": "https://recantosantarita.com.br/blog/",
     "emailVerifiedAt": "2026-08-16",
     "template": "consultivo"
+  },
+  {
+    "name": "Barman Para Festas",
+    "email": "contato@barmanparafestas.com.br",
+    "type": "bar",
+    "neighborhood": "Vila Sao Paulo",
+    "address": "Rua Nilo Torres, 68 - Vila Sao Paulo - Sao Paulo/SP",
+    "context": "Servico ativo ha mais de 10 anos de bar e coquetelaria para eventos, com atendimento em Sao Paulo, Grande Sao Paulo, Campinas, Jundiai, Sorocaba e litoral.",
+    "phone": "(11) 98486-2017",
+    "website": "https://www.barmanparafestas.com.br/contato/",
+    "emailVerified": true,
+    "emailSource": "https://www.barmanparafestas.com.br/contato/",
+    "emailVerifiedAt": "2026-08-16",
+    "template": "consultivo"
   }
 ]
