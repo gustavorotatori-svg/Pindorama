@@ -453,5 +453,18 @@
     "emailSource": "https://barsalvador.com.br/",
     "emailVerifiedAt": "2026-08-16",
     "template": "consultivo"
+  },
+  {
+    "name": "Hotel Panamby Sao Paulo",
+    "email": "eventos.sp@panamby.com.br",
+    "type": "hotel",
+    "neighborhood": "Barra Funda",
+    "address": "Sao Paulo/SP",
+    "context": "Hotel ativo com estrutura comercial para eventos e canal dedicado de eventos publicado em material oficial recente de 2026.",
+    "website": "https://hotelpanambysaopaulo.com.br/",
+    "emailVerified": true,
+    "emailSource": "https://hotelpanambysaopaulo.com.br/wp-content/uploads/Eventos-Hotel-Panamby-Sao-Paulo.pdf",
+    "emailVerifiedAt": "2026-08-16",
+    "template": "consultivo"
   }
 ]
