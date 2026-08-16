@@ -275,5 +275,18 @@
     "emailSource": "https://primalbartenders.com/",
     "emailVerifiedAt": "2026-08-16",
     "template": "consultivo"
+  },
+  {
+    "name": "Drinks Bartender",
+    "email": "contato@drinksbartender.com.br",
+    "type": "bar",
+    "neighborhood": "Santos",
+    "address": "Santos/SP",
+    "context": "Coquetelaria autoral ativa para casamentos e eventos premium, com estrutura de bar, equipe profissional e atendimento na Grande Sao Paulo e Baixada Santista.",
+    "website": "https://drinksbartender.com.br/",
+    "emailVerified": true,
+    "emailSource": "https://drinksbartender.com.br/",
+    "emailVerifiedAt": "2026-08-16",
+    "template": "consultivo"
   }
 ]
