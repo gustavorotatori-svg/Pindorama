@@ -34299,5 +34299,19 @@
     "emailSource": "https://premagastronomia.com.br/canto-wine-bar-take-away/",
     "emailVerifiedAt": "2026-08-16",
     "template": "consultivo"
+  },
+  {
+    "name": "Casa Hibrida",
+    "email": "contato@casahibrida.com.br",
+    "type": "bar",
+    "neighborhood": "Sumare",
+    "address": "Avenida Doutor Arnaldo, 1620 - Sumare - Sao Paulo/SP",
+    "context": "Bar e karaokê ativo em Sao Paulo com drinks e estrutura comercial para confraternizacoes, happy hours, encontros, workshops e eventos corporativos.",
+    "phone": "(11) 91309-7225",
+    "website": "https://casahibrida.com.br/",
+    "emailVerified": true,
+    "emailSource": "https://casahibrida.com.br/",
+    "emailVerifiedAt": "2026-08-16",
+    "template": "consultivo"
   }
 ]
