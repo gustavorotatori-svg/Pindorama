@@ -561,5 +561,19 @@
     "emailSource": "https://dbartenders.com/",
     "emailVerifiedAt": "2026-08-16",
     "template": "consultivo"
+  },
+  {
+    "name": "MADZ Eventos",
+    "email": "contato@madzeventos.com.br",
+    "type": "bar",
+    "neighborhood": "Campinas",
+    "address": "Campinas/SP",
+    "context": "Empresa ativa de bar para eventos em Campinas, com mais de oito anos de atuacao, drinks autorais, degustacao e cardapios personalizados para diferentes celebracoes.",
+    "phone": "(19) 98369-7992",
+    "website": "https://www.madzeventos.com.br/",
+    "emailVerified": true,
+    "emailSource": "https://www.madzeventos.com.br/",
+    "emailVerifiedAt": "2026-08-16",
+    "template": "consultivo"
   }
 ]
