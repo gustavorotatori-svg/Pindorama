@@ -34566,5 +34566,33 @@
     "emailSource": "https://spud.social/",
     "emailVerifiedAt": "2026-08-16",
     "template": "consultivo"
+  },
+  {
+    "name": "Brasil Bartender",
+    "email": "contato@brasilbartender.com.br",
+    "type": "bar",
+    "neighborhood": "Vila Mathias",
+    "address": "Rua Luis de Camoes, 45 sala 11 - Vila Mathias - Santos/SP",
+    "context": "Empresa ativa ha mais de 15 anos em servicos completos de bar e coquetelaria para eventos, com venda de produtos para bares, restaurantes e casas noturnas.",
+    "phone": "(13) 3014-3655",
+    "website": "https://brasilbartender.com.br/servicos.html",
+    "emailVerified": true,
+    "emailSource": "https://brasilbartender.com.br/servicos.html",
+    "emailVerifiedAt": "2026-08-16",
+    "template": "consultivo"
+  },
+  {
+    "name": "Vedê Coquetelaria & Arte",
+    "email": "contato@vedebar.com.br",
+    "type": "bar",
+    "neighborhood": "Jardim",
+    "address": "Rua das Figueiras, 1206 - Jardim - Santo Andre/SP",
+    "context": "Bar ativo no ABC com coquetelaria de identidade brasileira, drinks autorais e uso destacado de cachaca em sua carta.",
+    "phone": "(11) 97625-0998",
+    "website": "https://vedebar.com.br/",
+    "emailVerified": true,
+    "emailSource": "https://vedebar.com.br/",
+    "emailVerifiedAt": "2026-08-16",
+    "template": "consultivo"
   }
 ]
