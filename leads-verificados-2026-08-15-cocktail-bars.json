@@ -785,5 +785,19 @@
     "emailSource": "https://www.barmanparafestas.com.br/contato/",
     "emailVerifiedAt": "2026-08-16",
     "template": "consultivo"
+  },
+  {
+    "name": "Caledonia Whisky & Co.",
+    "email": "contato@caledoniawhiskyco.com.br",
+    "type": "bar",
+    "neighborhood": "Pinheiros",
+    "address": "Rua Vupabussu, 309 - Pinheiros - Sao Paulo/SP",
+    "context": "Bar ativo especializado em whiskies, coqueteis autorais e degustacoes, com espaco para eventos e cursos; forte aderencia para apresentacao comercial de cachaca premium.",
+    "phone": "+55 11 3031-0840",
+    "website": "https://caledoniawhiskyco.com.br/contato/",
+    "emailVerified": true,
+    "emailSource": "https://caledoniawhiskyco.com.br/contato/",
+    "emailVerifiedAt": "2026-08-16",
+    "template": "consultivo"
   }
 ]
