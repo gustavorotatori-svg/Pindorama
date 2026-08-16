@@ -3,8 +3,12 @@ import { readFileSync, writeFileSync } from 'fs';
 import dns from 'dns';
 import { emailQuotaAvailable, recordEmailOutput } from './email-quota.mjs';
 
-const MAIL_USER = 'cachaca011pindorama@gmail.com';
-const MAIL_PASS = 'wnau jrrr rjpc zuuv';
+const MAIL_USER = process.env.GMAIL_USER;
+const MAIL_PASS = process.env.GMAIL_APP_PASSWORD;
+
+if (!MAIL_USER || !MAIL_PASS) {
+  throw new Error('GMAIL_USER e GMAIL_APP_PASSWORD sao obrigatorios');
+}
 const LEADS_FILE = 'leads-qualificados.json';
 const OLD_FILE = 'leads.json';
 const SUPPRESSED_EMAILS_FILE = 'suppressed-emails.json';

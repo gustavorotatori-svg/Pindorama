@@ -18,6 +18,8 @@ jobs:
     timeout-minutes: 40
     env:
       TZ: America/Sao_Paulo
+      GMAIL_USER: ${{ secrets.GMAIL_USER }}
+      GMAIL_APP_PASSWORD: ${{ secrets.GMAIL_APP_PASSWORD }}
     steps:
       - name: Checkout
         uses: actions/checkout@v4

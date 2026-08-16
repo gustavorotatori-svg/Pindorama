@@ -2,14 +2,33 @@ import Imap from 'imap';
 import { simpleParser } from 'mailparser';
 import nodemailer from 'nodemailer';
 import { sendWithinEmailQuota } from './email-quota.mjs';
-import { readFileSync, writeFileSync } from 'fs';
+import { existsSync, readFileSync, writeFileSync } from 'fs';
 import { join } from 'path';
 
 const leadsPath = join(process.cwd(), 'leads.json');
 const qualifiedPath = join(process.cwd(), 'leads-qualificados.json');
+const suppressedPath = join(process.cwd(), 'suppressed-emails.json');
 const oldLeads = JSON.parse(readFileSync(leadsPath, 'utf8'));
 const qualLeads = JSON.parse(readFileSync(qualifiedPath, 'utf8'));
 const leads = oldLeads.concat(qualLeads);
+const MAIL_USER = process.env.GMAIL_USER;
+const MAIL_PASS = process.env.GMAIL_APP_PASSWORD;
+
+if (!MAIL_USER || !MAIL_PASS) {
+  throw new Error('GMAIL_USER e GMAIL_APP_PASSWORD sao obrigatorios');
+}
+
+function loadSuppressed() {
+  if (!existsSync(suppressedPath)) return [];
+  const value = JSON.parse(readFileSync(suppressedPath, 'utf8'));
+  return Array.isArray(value) ? value : [];
+}
+
+function isDeliveryFailure(from, subject) {
+  const value = `${from} ${subject}`.toLowerCase();
+  return value.includes('mailer-daemon') || value.includes('postmaster') ||
+    value.includes('delivery status notification') || value.includes('undeliverable');
+}
 
 function localToday() { const d = new Date(); d.setMinutes(d.getMinutes() - d.getTimezoneOffset()); return d.toISOString().split('T')[0]; }
 
@@ -19,9 +38,31 @@ function saveLead(lead) {
   writeFileSync(file, JSON.stringify(arr, null, 2));
 }
 
+function suppressBouncedLeads(body) {
+  const normalizedBody = String(body || '').toLowerCase();
+  const bounced = leads.filter((lead) => {
+    const email = String(lead.email || '').trim().toLowerCase();
+    return email && normalizedBody.includes(email);
+  });
+
+  if (bounced.length === 0) return [];
+
+  const suppressed = new Set(loadSuppressed().map((email) => String(email).toLowerCase()));
+  for (const lead of bounced) {
+    const email = String(lead.email).trim().toLowerCase();
+    suppressed.add(email);
+    lead.doNotContact = true;
+    lead.bounced = true;
+    lead.bounceDate = localToday();
+    saveLead(lead);
+  }
+  writeFileSync(suppressedPath, JSON.stringify([...suppressed].sort(), null, 2) + '\n');
+  return bounced;
+}
+
 const imapConfig = {
-  user: 'cachaca011pindorama@gmail.com',
-  password: 'wnau jrrr rjpc zuuv',
+  user: MAIL_USER,
+  password: MAIL_PASS,
   host: 'imap.gmail.com',
   port: 993,
   tls: true,
@@ -31,8 +72,8 @@ const imapConfig = {
 const transporter = nodemailer.createTransport({
   service: 'gmail',
   auth: {
-    user: 'cachaca011pindorama@gmail.com',
-    pass: 'wnau jrrr rjpc zuuv',
+    user: MAIL_USER,
+    pass: MAIL_PASS,
   },
 });
 
@@ -199,7 +240,7 @@ function checkEmails() {
 
         console.log(`📬 ${results.length} email(s) novo(s) encontrado(s)`);
 
-        const fetch = imap.fetch(results, { bodies: '' });
+        const fetch = imap.fetch(results, { bodies: '', markSeen: true });
         let processedCount = 0;
 
         fetch.on('message', (msg, seqno) => {
@@ -213,6 +254,18 @@ function checkEmails() {
               const from = parsed.from?.text || '';
               const subject = parsed.subject || '';
               const body = parsed.text || '';
+
+              if (isDeliveryFailure(from, subject)) {
+                const bounced = suppressBouncedLeads(`${body}\n${parsed.html || ''}`);
+                if (bounced.length > 0) {
+                  console.log(`BOUNCE SUPRIMIDO: ${bounced.map((item) => `${item.name} <${item.email}>`).join(', ')}`);
+                } else {
+                  console.log('BOUNCE SEM DESTINATARIO CONHECIDO: requer auditoria manual do DSN');
+                }
+                processedCount++;
+                if (processedCount >= results.length) imap.end();
+                return;
+              }
 
               console.log(`\n📧 De: ${from}`);
               console.log(`📋 Assunto: ${subject}`);
