@@ -645,5 +645,19 @@
     "emailSource": "https://www.allpartyeventos.com.br/now.php",
     "emailVerifiedAt": "2026-08-16",
     "template": "consultivo"
+  },
+  {
+    "name": "Vitoria Concept Campinas",
+    "email": "eventos.campinas@vitoriahoteis.com.br",
+    "type": "hotel",
+    "neighborhood": "Cambuí",
+    "address": "Campinas/SP",
+    "context": "Hotel ativo com estrutura dedicada para casamentos e eventos, buffet proprio, bebidas selecionadas e opcao comercial de open bar.",
+    "phone": "(19) 3755-8000",
+    "website": "https://www.vitoriahoteis.com.br/casamentos-campinas",
+    "emailVerified": true,
+    "emailSource": "https://www.vitoriahoteis.com.br/casamentos-campinas",
+    "emailVerifiedAt": "2026-08-16",
+    "template": "consultivo"
   }
 ]
