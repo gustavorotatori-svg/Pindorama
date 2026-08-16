@@ -521,5 +521,18 @@
     "emailSource": "https://santaocabar.com.br/",
     "emailVerifiedAt": "2026-08-16",
     "template": "consultivo"
+  },
+  {
+    "name": "Urbana Coquetelaria",
+    "email": "comercial@urbanacoquetelaria.com.br",
+    "type": "bar",
+    "neighborhood": "Centro Historico",
+    "address": "Rua Frei Gaspar, 12 - Sala 12 - Santos/SP",
+    "context": "Coquetelaria ativa em Santos com carta autoral de ingredientes brasileiros, gastronomia propria e espaco para eventos, palestras, cursos e casamentos.",
+    "website": "https://www.urbanacoquetelaria.com.br/",
+    "emailVerified": true,
+    "emailSource": "https://www.urbanacoquetelaria.com.br/",
+    "emailVerifiedAt": "2026-08-16",
+    "template": "consultivo"
   }
 ]
