@@ -234,5 +234,18 @@
     "emailSource": "https://chapadrinks.com.br/",
     "emailVerifiedAt": "2026-08-16",
     "template": "consultivo"
+  },
+  {
+    "name": "Casa Oliver",
+    "email": "contato@casaoliver.com.br",
+    "type": "bar",
+    "neighborhood": "Sao Paulo",
+    "address": "Sao Paulo/SP",
+    "context": "Operacao ativa de open bar, bar movel e coquetelaria para eventos, com drinks classicos e autorais, consultoria e workshops para marcas.",
+    "website": "https://casaoliver.com.br/contato-eventos",
+    "emailVerified": true,
+    "emailSource": "https://casaoliver.com.br/contato-eventos",
+    "emailVerifiedAt": "2026-08-16",
+    "template": "consultivo"
   }
 ]
