@@ -33807,6 +33807,9 @@
     "emailVerifiedAt": "2026-08-15",
     "template": "consultivo",
     "email1": true,
-    "date1": "2026-08-16"
+    "date1": "2026-08-16",
+    "doNotContact": true,
+    "bounced": true,
+    "bounceDate": "2026-08-16"
   }
 ]
