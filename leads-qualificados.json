@@ -34440,5 +34440,33 @@
     "template": "consultivo",
     "email1": true,
     "date1": "2026-08-16"
+  },
+  {
+    "name": "Life Drinks e Eventos",
+    "email": "contato@lifedrinkseventos.com.br",
+    "type": "bar",
+    "neighborhood": "Vila Sonia",
+    "address": "Rua Padre Pacheco, 214 - Vila Sonia - Sao Paulo/SP",
+    "context": "Empresa ativa de bar e coquetelaria para eventos em Sao Paulo e Grande Sao Paulo, com bebidas consignadas, carta de drinks, bartenders e fornecimento de cachacas.",
+    "phone": "(11) 95328-8345",
+    "website": "https://www.lifedrinkseventos.com.br/",
+    "emailVerified": true,
+    "emailSource": "https://www.lifedrinkseventos.com.br/fale-conosco/",
+    "emailVerifiedAt": "2026-08-16",
+    "template": "consultivo"
+  },
+  {
+    "name": "Fashion Bartenders",
+    "email": "contato@fashionbartenders.com.br",
+    "type": "bar",
+    "neighborhood": "Grande Sao Paulo",
+    "address": "Grande Sao Paulo/SP",
+    "context": "Empresa ativa ha mais de 15 anos, especializada em bar e coquetelaria para eventos sociais e corporativos, com drinks personalizados, estrutura e insumos completos.",
+    "phone": "(11) 94021-2876",
+    "website": "https://www.fashionbartenders.com.br/barman-para-eventos-em-santo-andre.php",
+    "emailVerified": true,
+    "emailSource": "https://www.fashionbartenders.com.br/barman-para-eventos-em-santo-andre.php",
+    "emailVerifiedAt": "2026-08-16",
+    "template": "consultivo"
   }
 ]
