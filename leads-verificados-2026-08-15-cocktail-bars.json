@@ -466,5 +466,19 @@
     "emailSource": "https://hotelpanambysaopaulo.com.br/wp-content/uploads/Eventos-Hotel-Panamby-Sao-Paulo.pdf",
     "emailVerifiedAt": "2026-08-16",
     "template": "consultivo"
+  },
+  {
+    "name": "Agari Drinks",
+    "email": "contato@agaridrinks.com.br",
+    "type": "bar",
+    "neighborhood": "Vila Rosalia",
+    "address": "Rua Acre, 229 - Vila Rosalia - Guarulhos/SP",
+    "context": "Empresa ativa de bar para eventos sociais e corporativos, com estrutura de bar, bartenders, coqueteis personalizados e servicos de open bar na Grande Sao Paulo.",
+    "phone": "(11) 4803-2073",
+    "website": "https://www.agaridrinks.com.br/",
+    "emailVerified": true,
+    "emailSource": "https://www.agaridrinks.com.br/contato",
+    "emailVerifiedAt": "2026-08-16",
+    "template": "consultivo"
   }
 ]
