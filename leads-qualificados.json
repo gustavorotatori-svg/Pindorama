@@ -33761,5 +33761,20 @@
     "template": "consultivo",
     "email1": true,
     "date1": "2026-08-15"
+  },
+  {
+    "name": "Feline Bartender",
+    "email": "felinebartender@gmail.com",
+    "type": "bar",
+    "neighborhood": "Sao Paulo",
+    "address": "Sao Paulo/SP",
+    "context": "Marca independente de coquetelaria com servico de bar completo para eventos, open bar para baladas e atendimento freelancer para bares e casas noturnas.",
+    "website": "https://felinebartender.com/",
+    "emailVerified": true,
+    "emailSource": "https://felinebartender.com/",
+    "emailVerifiedAt": "2026-08-15",
+    "template": "consultivo",
+    "email1": true,
+    "date1": "2026-08-15"
   }
 ]
