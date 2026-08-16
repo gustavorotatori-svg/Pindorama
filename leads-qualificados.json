@@ -33363,7 +33363,9 @@
     "neighborhood": "",
     "template": "consultivo",
     "email1": true,
-    "date1": "2026-08-14"
+    "date1": "2026-08-14",
+    "email2": true,
+    "date2": "2026-08-15"
   },
   {
     "name": "Gaspar Bar e Praça",
@@ -33379,7 +33381,9 @@
     "mxVerified": true,
     "template": "prova_social",
     "email1": true,
-    "date1": "2026-08-14"
+    "date1": "2026-08-14",
+    "email2": true,
+    "date2": "2026-08-15"
   },
   {
     "name": "DOPA Bar",
@@ -33395,7 +33399,9 @@
     "mxVerified": true,
     "template": "consultivo",
     "email1": true,
-    "date1": "2026-08-14"
+    "date1": "2026-08-14",
+    "email2": true,
+    "date2": "2026-08-15"
   },
   {
     "name": "Adega 33",
@@ -33411,7 +33417,9 @@
     "neighborhood": "",
     "template": "consultivo",
     "email1": true,
-    "date1": "2026-08-14"
+    "date1": "2026-08-14",
+    "email2": true,
+    "date2": "2026-08-15"
   },
   {
     "name": "VIP Bar Drinks & Coquetelaria",
@@ -33427,7 +33435,9 @@
     "mxVerified": true,
     "template": "consultivo",
     "email1": true,
-    "date1": "2026-08-14"
+    "date1": "2026-08-14",
+    "email2": true,
+    "date2": "2026-08-15"
   },
   {
     "name": "Buffet Uriel",
@@ -33443,7 +33453,9 @@
     "neighborhood": "",
     "template": "prova_social",
     "email1": true,
-    "date1": "2026-08-14"
+    "date1": "2026-08-14",
+    "email2": true,
+    "date2": "2026-08-15"
   },
   {
     "name": "Amiiici",
@@ -33459,7 +33471,9 @@
     "neighborhood": "",
     "template": "pergunta",
     "email1": true,
-    "date1": "2026-08-14"
+    "date1": "2026-08-14",
+    "email2": true,
+    "date2": "2026-08-15"
   },
   {
     "name": "Blend Alphaville",
@@ -33475,7 +33489,9 @@
     "mxVerified": true,
     "template": "consultivo",
     "email1": true,
-    "date1": "2026-08-14"
+    "date1": "2026-08-14",
+    "email2": true,
+    "date2": "2026-08-15"
   },
   {
     "name": "Le Roof",
@@ -33491,7 +33507,9 @@
     "neighborhood": "",
     "template": "consultivo",
     "email1": true,
-    "date1": "2026-08-14"
+    "date1": "2026-08-14",
+    "email2": true,
+    "date2": "2026-08-15"
   },
   {
     "name": "Yo Ho Pub",
@@ -33507,7 +33525,9 @@
     "mxVerified": true,
     "template": "pergunta",
     "email1": true,
-    "date1": "2026-08-14"
+    "date1": "2026-08-14",
+    "email2": true,
+    "date2": "2026-08-15"
   },
   {
     "name": "Clube Outs",
@@ -33524,7 +33544,9 @@
     "mxVerified": true,
     "template": "pergunta",
     "email1": true,
-    "date1": "2026-08-14"
+    "date1": "2026-08-14",
+    "email2": true,
+    "date2": "2026-08-15"
   },
   {
     "name": "Forcato Commerce",
