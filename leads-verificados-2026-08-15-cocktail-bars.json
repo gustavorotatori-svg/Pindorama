@@ -493,5 +493,19 @@
     "emailSource": "https://www.onebartender.com.br/bartenders/servico-de-bartenders/servico-de-bartender-para-congresso/servico-de-bartender-para-festa-guarulhos",
     "emailVerifiedAt": "2026-08-16",
     "template": "consultivo"
+  },
+  {
+    "name": "1966 PUB & Cocktail Bar",
+    "email": "1966pub@1966pub.com.br",
+    "type": "bar",
+    "neighborhood": "Jardim Barbosa",
+    "address": "Rua Tapajos, 298 - Guarulhos/SP",
+    "context": "Pub ativo especializado em coquetelaria classica e autoral, com mais de tres decadas de experiencia profissional e agenda para eventos exclusivos.",
+    "phone": "(11) 94559-1360",
+    "website": "https://www.1966pub.com.br/",
+    "emailVerified": true,
+    "emailSource": "https://www.1966pub.com.br/",
+    "emailVerifiedAt": "2026-08-16",
+    "template": "consultivo"
   }
 ]
