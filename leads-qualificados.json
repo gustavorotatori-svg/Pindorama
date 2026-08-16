@@ -33741,5 +33741,21 @@
     "emailSource": "https://alquimiacocktail.com.br/",
     "emailVerifiedAt": "2026-08-15",
     "template": "consultivo"
+  },
+  {
+    "name": "New Cia Experience & Drinks",
+    "email": "contato@newcia.com.br",
+    "type": "bar",
+    "neighborhood": "Pinheiros",
+    "address": "Rua Henrique Schaumann, 286 - Pinheiros - Sao Paulo/SP",
+    "context": "Operacao de bares itinerantes de alto padrao com mais de 18 anos, especializada em coquetelaria para eventos sociais, corporativos e grandes shows.",
+    "phone": "(11) 3675-6749",
+    "website": "https://newcia.com.br/sobre/",
+    "emailVerified": true,
+    "emailSource": "https://newcia.com.br/sobre/",
+    "emailVerifiedAt": "2026-08-15",
+    "template": "consultivo",
+    "email1": true,
+    "date1": "2026-08-15"
   }
 ]
