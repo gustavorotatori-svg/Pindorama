@@ -575,5 +575,19 @@
     "emailSource": "https://www.madzeventos.com.br/",
     "emailVerifiedAt": "2026-08-16",
     "template": "consultivo"
+  },
+  {
+    "name": "Mr Cocktail Eventos",
+    "email": "mrcockatileventos@gmail.com",
+    "type": "bar",
+    "neighborhood": "Recanto dos Dourados",
+    "address": "Recanto dos Dourados - Campinas/SP",
+    "context": "Empresa ativa de open bar e bartender profissional para eventos sociais e corporativos em Campinas, com cardapios personalizados e estrutura completa.",
+    "phone": "(19) 99868-0727",
+    "website": "https://mrcocktaileventos.com/",
+    "emailVerified": true,
+    "emailSource": "https://mrcocktaileventos.com/",
+    "emailVerifiedAt": "2026-08-16",
+    "template": "consultivo"
   }
 ]
