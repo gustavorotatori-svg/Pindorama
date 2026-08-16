@@ -34189,5 +34189,33 @@
     "emailSource": "https://www.onebartender.com.br/bartenders/servico-de-bartenders/servico-de-bartender-para-congresso/servico-de-bartender-para-festa-guarulhos",
     "emailVerifiedAt": "2026-08-16",
     "template": "consultivo"
+  },
+  {
+    "name": "1966 PUB & Cocktail Bar",
+    "email": "1966pub@1966pub.com.br",
+    "type": "bar",
+    "neighborhood": "Jardim Barbosa",
+    "address": "Rua Tapajos, 298 - Guarulhos/SP",
+    "context": "Pub ativo especializado em coquetelaria classica e autoral, com mais de tres decadas de experiencia profissional e agenda para eventos exclusivos.",
+    "phone": "(11) 94559-1360",
+    "website": "https://www.1966pub.com.br/",
+    "emailVerified": true,
+    "emailSource": "https://www.1966pub.com.br/",
+    "emailVerifiedAt": "2026-08-16",
+    "template": "consultivo"
+  },
+  {
+    "name": "Santa Oca Bar",
+    "email": "santaocabrasileira@hotmail.com",
+    "type": "bar",
+    "neighborhood": "Jardim das Flores",
+    "address": "Rua Crisântemo, 101 - Jardim das Flores - Osasco/SP",
+    "context": "Bar ativo em Osasco desde 2013, com carta de drinques, grande variedade de bebidas, musica ao vivo e estrutura dedicada para eventos.",
+    "phone": "(11) 4575-9005",
+    "website": "https://santaocabar.com.br/",
+    "emailVerified": true,
+    "emailSource": "https://santaocabar.com.br/",
+    "emailVerifiedAt": "2026-08-16",
+    "template": "consultivo"
   }
 ]
