@@ -440,5 +440,18 @@
     "emailSource": "https://aceitosim.com.br/conceito-bar",
     "emailVerifiedAt": "2026-08-16",
     "template": "consultivo"
+  },
+  {
+    "name": "Bar Salvador",
+    "email": "contato@barsalvador.com.br",
+    "type": "bar",
+    "neighborhood": "Moema",
+    "address": "Moema - Sao Paulo/SP",
+    "context": "Bar ativo em Moema, com operacao de almoco e noite, proposta de encontro e consumo de drinks, e email comercial explicitamente publicado no site oficial.",
+    "website": "https://barsalvador.com.br/",
+    "emailVerified": true,
+    "emailSource": "https://barsalvador.com.br/",
+    "emailVerifiedAt": "2026-08-16",
+    "template": "consultivo"
   }
 ]
