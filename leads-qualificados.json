@@ -33792,5 +33792,21 @@
     "template": "consultivo",
     "email1": true,
     "date1": "2026-08-15"
+  },
+  {
+    "name": "ABS Bartenders",
+    "email": "contato@absbartenders.com.br",
+    "type": "bar",
+    "neighborhood": "Tucuruvi",
+    "address": "Avenida Jardim Japao, 1646 - Tucuruvi - Sao Paulo/SP",
+    "context": "Empresa ativa ha mais de 15 anos, especializada em coquetelaria profissional, drinks autorais e bares personalizados para eventos em Sao Paulo.",
+    "phone": "(11) 3422-7588",
+    "website": "https://absbartenders.com.br/",
+    "emailVerified": true,
+    "emailSource": "https://absbartenders.com.br/",
+    "emailVerifiedAt": "2026-08-15",
+    "template": "consultivo",
+    "email1": true,
+    "date1": "2026-08-16"
   }
 ]
