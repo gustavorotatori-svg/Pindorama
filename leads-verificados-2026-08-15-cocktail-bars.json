@@ -357,5 +357,19 @@
     "emailSource": "https://www.dojaproducoes.com/",
     "emailVerifiedAt": "2026-08-16",
     "template": "consultivo"
+  },
+  {
+    "name": "DCE Coquetelaria",
+    "email": "atendimento@dcecoquetelaria.com.br",
+    "type": "bar",
+    "neighborhood": "Paraiso",
+    "address": "Rua Vergueiro, 1353 - Paraiso - Sao Paulo/SP",
+    "context": "Empresa especializada em drinks e coquetelaria nacional e internacional para eventos sociais e corporativos, com atendimento comercial ativo em Sao Paulo.",
+    "phone": "(11) 94536-0968",
+    "website": "https://dcecoquetelaria.com.br/contato/",
+    "emailVerified": true,
+    "emailSource": "https://dcecoquetelaria.com.br/contato/",
+    "emailVerifiedAt": "2026-08-16",
+    "template": "consultivo"
   }
 ]
