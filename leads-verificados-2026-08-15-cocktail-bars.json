@@ -151,5 +151,19 @@
     "emailSource": "https://www.drinkbartenders.com.br/",
     "emailVerifiedAt": "2026-08-16",
     "template": "consultivo"
+  },
+  {
+    "name": "Brazen Bar",
+    "email": "contato@brazenbar.com.br",
+    "type": "bar",
+    "neighborhood": "Sao Paulo",
+    "address": "Sao Paulo/SP",
+    "context": "Empresa ativa especializada em bar movel e coquetelaria para eventos sociais e corporativos, com drinks gourmet classicos e estrutura propria.",
+    "phone": "(11) 94469-7728",
+    "website": "https://www.brazenbar.com.br/",
+    "emailVerified": true,
+    "emailSource": "https://www.brazenbar.com.br/",
+    "emailVerifiedAt": "2026-08-16",
+    "template": "consultivo"
   }
 ]
