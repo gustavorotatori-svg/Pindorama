@@ -547,5 +547,19 @@
     "emailSource": "https://aselvabar.com/",
     "emailVerifiedAt": "2026-08-16",
     "template": "consultivo"
+  },
+  {
+    "name": "Dbartenders",
+    "email": "comercial@dbartenders.com.br",
+    "type": "bar",
+    "neighborhood": "Joaquim Egidio",
+    "address": "Rua Professor Consuelo Freire Brandao, 88 - Joaquim Egidio - Campinas/SP",
+    "context": "Empresa ativa de coquetelaria de alto padrao para eventos em Campinas, com cartas exclusivas, drinks autorais, equipe treinada e estrutura profissional.",
+    "phone": "(19) 99193-2139",
+    "website": "https://dbartenders.com/",
+    "emailVerified": true,
+    "emailSource": "https://dbartenders.com/",
+    "emailVerifiedAt": "2026-08-16",
+    "template": "consultivo"
   }
 ]
