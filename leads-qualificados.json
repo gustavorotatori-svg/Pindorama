@@ -34026,5 +34026,19 @@
     "emailSource": "https://showbartenders.com.br/",
     "emailVerifiedAt": "2026-08-16",
     "template": "consultivo"
+  },
+  {
+    "name": "Energy Drinks Bar",
+    "email": "contato@energydrinksbar.com.br",
+    "type": "bar",
+    "neighborhood": "Casa Verde",
+    "address": "Av. Ordem e Progresso, 1085 - Casa Verde - Sao Paulo/SP",
+    "context": "Empresa ativa ha 13 anos, especializada em open bar, drinks e coqueteis para casamentos, formaturas, debutantes e eventos corporativos.",
+    "phone": "(11) 97514-9460",
+    "website": "https://www.energydrinksbar.com.br/",
+    "emailVerified": true,
+    "emailSource": "https://www.energydrinksbar.com.br/",
+    "emailVerifiedAt": "2026-08-16",
+    "template": "consultivo"
   }
 ]
