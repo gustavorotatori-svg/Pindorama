@@ -95,5 +95,19 @@
     "emailSource": "https://felinebartender.com/",
     "emailVerifiedAt": "2026-08-15",
     "template": "consultivo"
+  },
+  {
+    "name": "The View Bar",
+    "email": "eventos@grupotheview.com.br",
+    "type": "bar",
+    "neighborhood": "Jardim Paulista",
+    "address": "Alameda Santos, 981 - 30 andar - Jardim Paulista - Sao Paulo/SP",
+    "context": "Bar e restaurante panoramico ativo, com eventos, bebidas inovadoras e coqueteis destacados no site oficial.",
+    "phone": "(11) 3266-3692",
+    "website": "https://theviewbar.com.br/contato-sao-paulo/",
+    "emailVerified": true,
+    "emailSource": "https://theviewbar.com.br/contato-sao-paulo/",
+    "emailVerifiedAt": "2026-08-15",
+    "template": "consultivo"
   }
 ]
