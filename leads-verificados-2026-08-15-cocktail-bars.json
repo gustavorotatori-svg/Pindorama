@@ -659,5 +659,19 @@
     "emailSource": "https://www.vitoriahoteis.com.br/casamentos-campinas",
     "emailVerifiedAt": "2026-08-16",
     "template": "consultivo"
+  },
+  {
+    "name": "Bar2Go",
+    "email": "bar@bar2go.com.br",
+    "type": "bar",
+    "neighborhood": "Sao Paulo",
+    "address": "Sao Paulo/SP",
+    "context": "Empresa de bares moveis e coquetelaria para festas e eventos corporativos desde 1997, com drinks classicos e autorais, bar personalizado e equipe treinada.",
+    "phone": "(11) 98792-6744",
+    "website": "https://bar2go.com.br/",
+    "emailVerified": true,
+    "emailSource": "https://bar2go.com.br/",
+    "emailVerifiedAt": "2026-08-16",
+    "template": "consultivo"
   }
 ]
