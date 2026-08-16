@@ -715,5 +715,19 @@
     "emailSource": "https://adegamartins.com.br/contato/",
     "emailVerifiedAt": "2026-08-16",
     "template": "consultivo"
+  },
+  {
+    "name": "Life Drinks e Eventos",
+    "email": "contato@lifedrinkseventos.com.br",
+    "type": "bar",
+    "neighborhood": "Vila Sonia",
+    "address": "Rua Padre Pacheco, 214 - Vila Sonia - Sao Paulo/SP",
+    "context": "Empresa ativa de bar e coquetelaria para eventos em Sao Paulo e Grande Sao Paulo, com bebidas consignadas, carta de drinks, bartenders e fornecimento de cachacas.",
+    "phone": "(11) 95328-8345",
+    "website": "https://www.lifedrinkseventos.com.br/",
+    "emailVerified": true,
+    "emailSource": "https://www.lifedrinkseventos.com.br/fale-conosco/",
+    "emailVerifiedAt": "2026-08-16",
+    "template": "consultivo"
   }
 ]
