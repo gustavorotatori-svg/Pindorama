@@ -1,9 +1,10 @@
-import { readFileSync, writeFileSync } from 'fs';
+import { readFileSync, writeFileSync, existsSync } from 'fs';
 
 // Limite conservador para proteger a reputacao da conta e manter folga para
 // follow-ups, respostas automaticas e o relatorio semanal.
 export const EMAIL_LIMIT_24H = 35;
 export const SEND_LOG_FILE = 'send-log.json';
+const REPORT_LOG_FILE = 'report-send-log.json';
 
 function loadLog() {
   try {
@@ -24,10 +25,28 @@ export function emailQuotaStatus(now = Date.now()) {
   return { used, limit: EMAIL_LIMIT_24H, remaining: Math.max(0, EMAIL_LIMIT_24H - used) };
 }
 
-export function emailQuotaAvailable() {
+function reportReserveNeeded(now = new Date()) {
+  const parts = new Intl.DateTimeFormat('en-CA', {
+    timeZone: 'America/Sao_Paulo',
+    weekday: 'short', year: 'numeric', month: '2-digit', day: '2-digit',
+    hour: '2-digit', hourCycle: 'h23'
+  }).formatToParts(now).reduce((acc, part) => ({ ...acc, [part.type]: part.value }), {});
+  if (parts.weekday !== 'Sun' || Number(parts.hour) < 20 || Number(parts.hour) > 23) return false;
+  const date = `${parts.year}-${parts.month}-${parts.day}`;
+  try {
+    const reports = existsSync(REPORT_LOG_FILE) ? JSON.parse(readFileSync(REPORT_LOG_FILE, 'utf8')) : [];
+    return !reports.some(entry => entry.date === date && entry.status === 'accepted');
+  } catch {
+    return true;
+  }
+}
+
+export function emailQuotaAvailable({ allowReserved = false } = {}) {
   const status = emailQuotaStatus();
-  if (status.remaining === 0) {
+  const reserve = !allowReserved && reportReserveNeeded() ? 1 : 0;
+  if (status.remaining <= reserve) {
     console.log(`QUOTA GUARD: ${status.used}/${status.limit} saidas na janela movel de 24h.`);
+    if (reserve) console.log('QUOTA GUARD: 1 saida reservada para o relatorio semanal obrigatorio.');
     return false;
   }
   return true;
@@ -39,8 +58,8 @@ export function recordEmailOutput(timestamp = Date.now()) {
   writeFileSync(SEND_LOG_FILE, JSON.stringify(entries, null, 2));
 }
 
-export async function sendWithinEmailQuota(send) {
-  if (!emailQuotaAvailable()) return { sent: false, reason: 'quota' };
+export async function sendWithinEmailQuota(send, options = {}) {
+  if (!emailQuotaAvailable(options)) return { sent: false, reason: 'quota' };
   const result = await send();
   recordEmailOutput();
   return { sent: true, result };

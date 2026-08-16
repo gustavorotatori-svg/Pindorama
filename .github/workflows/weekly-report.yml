@@ -7,6 +7,7 @@ concurrency:
 on:
   schedule:
     - cron: '0 23 * * 0'
+    - cron: '40 0,1,2 * * 1'
   workflow_dispatch:
 
 permissions:
@@ -34,6 +35,8 @@ jobs:
         run: node weekly-report.mjs
 
       - name: Enviar por email
+        env:
+          GMAIL_APP_PASSWORD: ${{ secrets.GMAIL_APP_PASSWORD }}
         run: node enviar-relatorio.mjs
 
       - name: Upload PDF como artefato

@@ -167,7 +167,7 @@ const html = `<!DOCTYPE html>
 <div class="executive"><ul>
   <li><b>Últimos 7 dias:</b> ${weekOutputs} saídas de email, ${weekWa} abordagens por WhatsApp e ${weekResponses.length} nova(s) resposta(s).</li>
   <li><b>Year to date:</b> ${ytdOutputs} saídas de email para ${ytdE1} primeiros contatos, ${ytdWa} abordagens por WhatsApp e ${ytdResponses.length} resposta(s).</li>
-  <li><b>Qualidade e risco:</b> a taxa de resposta YTD é ${ytdRate}%. O teto de recuperação é 20 saídas por janela móvel de 24h, com prioridade para contatos comerciais verificáveis.</li>
+  <li><b>Qualidade e risco:</b> a taxa de resposta YTD é ${ytdRate}%. O teto operacional é 35 saídas por janela móvel de 24h, com prioridade para contatos comerciais verificáveis.</li>
 </ul></div>
 
 <h2>Year to date (${today.getFullYear()})</h2>
@@ -211,7 +211,7 @@ const html = `<!DOCTYPE html>
     <div class="row"><span>Planilha processada</span><span>${planProc}/${plan.length || '-'}</span></div>
     <div class="row"><span>Planilha restante</span><span>${planLeft}</span></div>
     <div class="row"><span>WhatsApp hoje</span><span>${waToday}/4</span></div>
-    <div class="row"><span>Limite de email</span><span>20/24h (janela móvel)</span></div>
+    <div class="row"><span>Limite de email</span><span>35/24h (janela móvel)</span></div>
   </div>
 </div>
 
@@ -220,10 +220,10 @@ const html = `<!DOCTYPE html>
 
 <h2>Próximos passos recomendados</h2>
 <ul>
-  <li>Manter o teto de recuperação de 20 saídas por janela móvel de 24 horas.</li>
+  <li>Manter o teto operacional de 35 saídas por janela móvel de 24 horas.</li>
   <li>Revalidar MX antes do primeiro envio e suprimir destinatários com erro permanente.</li>
   <li>Priorizar contatos com site ativo, contexto comercial verificável e domínio corporativo.</li>
-  <li>Usar 4 abordagens de WhatsApp por dia, de segunda a sábado, dentro da janela autorizada.</li>
+  <li>Manter esta automação restrita ao canal de email; nenhum WhatsApp deve ser enviado por ela.</li>
 </ul>
 
 <h2>Perguntas em aberto</h2>
