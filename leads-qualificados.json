@@ -33930,5 +33930,46 @@
     "emailSource": "https://chapadrinks.com.br/",
     "emailVerifiedAt": "2026-08-16",
     "template": "consultivo"
+  },
+  {
+    "name": "Casa Oliver",
+    "email": "contato@casaoliver.com.br",
+    "type": "bar",
+    "neighborhood": "Sao Paulo",
+    "address": "Sao Paulo/SP",
+    "context": "Operacao ativa de open bar, bar movel e coquetelaria para eventos, com drinks classicos e autorais, consultoria e workshops para marcas.",
+    "website": "https://casaoliver.com.br/contato-eventos",
+    "emailVerified": true,
+    "emailSource": "https://casaoliver.com.br/contato-eventos",
+    "emailVerifiedAt": "2026-08-16",
+    "template": "consultivo"
+  },
+  {
+    "name": "VIP Drinks",
+    "email": "vipdrinkseventos@gmail.com",
+    "type": "bar",
+    "neighborhood": "Vila Sao Ricardo",
+    "address": "Rua Ricardo Biondi, 164 - Vila Sao Ricardo - Guarulhos/SP",
+    "context": "Empresa ativa de coquetelaria para eventos sociais e corporativos, especializada em open bar, bartenders, drinks e estruturas para eventos de diferentes portes.",
+    "phone": "(11) 95388-4482",
+    "website": "https://www.vipdrinks.com.br/servico-de-bartenders-em-sao-paulo",
+    "emailVerified": true,
+    "emailSource": "https://www.vipdrinks.com.br/servico-de-bartenders-em-sao-paulo",
+    "emailVerifiedAt": "2026-08-16",
+    "template": "consultivo"
+  },
+  {
+    "name": "Primal Bartenders",
+    "email": "primalbartenders@gmail.com",
+    "type": "bar",
+    "neighborhood": "Jardim Imperador",
+    "address": "Av. Ouro Verde de Minas, 122 - Jardim Imperador - Sao Paulo/SP",
+    "context": "Servico ativo de open bar e bartenders para eventos em Sao Paulo, atendendo festas, casamentos e formaturas com estrutura completa.",
+    "phone": "(11) 91580-7658",
+    "website": "https://primalbartenders.com/",
+    "emailVerified": true,
+    "emailSource": "https://primalbartenders.com/",
+    "emailVerifiedAt": "2026-08-16",
+    "template": "consultivo"
   }
 ]
