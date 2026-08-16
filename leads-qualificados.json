@@ -34271,5 +34271,33 @@
     "emailSource": "https://www.madzeventos.com.br/",
     "emailVerifiedAt": "2026-08-16",
     "template": "consultivo"
+  },
+  {
+    "name": "Mr Cocktail Eventos",
+    "email": "mrcockatileventos@gmail.com",
+    "type": "bar",
+    "neighborhood": "Recanto dos Dourados",
+    "address": "Recanto dos Dourados - Campinas/SP",
+    "context": "Empresa ativa de open bar e bartender profissional para eventos sociais e corporativos em Campinas, com cardapios personalizados e estrutura completa.",
+    "phone": "(19) 99868-0727",
+    "website": "https://mrcocktaileventos.com/",
+    "emailVerified": true,
+    "emailSource": "https://mrcocktaileventos.com/",
+    "emailVerifiedAt": "2026-08-16",
+    "template": "consultivo"
+  },
+  {
+    "name": "Canto Wine Bar & Take Away",
+    "email": "contato@premagastronomia.com.br",
+    "type": "bar",
+    "neighborhood": "Cambuí",
+    "address": "Rua Emilia Paiva Meira, 76 - Cambuí - Campinas/SP",
+    "context": "Wine bar ativo do Grupo Prema em Campinas, com vinhos selecionados, drinks autorais e estrutura para mini weddings, aniversarios e eventos corporativos.",
+    "phone": "(19) 99905-0808",
+    "website": "https://premagastronomia.com.br/canto-wine-bar-take-away/",
+    "emailVerified": true,
+    "emailSource": "https://premagastronomia.com.br/canto-wine-bar-take-away/",
+    "emailVerifiedAt": "2026-08-16",
+    "template": "consultivo"
   }
 ]
