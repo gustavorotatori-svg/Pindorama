@@ -216,12 +216,29 @@ async function addLeads(jsonStr) {
 
   const master = load(LEADS_FILE);
   const templates = ['consultivo', 'prova_social', 'pergunta'];
+  let imported = 0;
 
   for (const l of newLeads) {
     if (!l.email || !l.name) { console.log('SKIP (missing name/email): ' + (l.name || '?')); continue; }
     if (SUPPRESSED_EMAILS.has(String(l.email).toLowerCase())) { console.log('SKIP (suppressed bounced address): ' + l.name); continue; }
     if (BLOCKED_RECIPIENT_DOMAINS.has(emailDomain(l.email))) { console.log('SKIP (blocked client domain): ' + l.name); continue; }
-    if (master.find(x => String(x.email || '').toLowerCase() === String(l.email).toLowerCase())) { console.log('SKIP (duplicate): ' + l.name); continue; }
+    const existing = master.find(x => String(x.email || '').toLowerCase() === String(l.email).toLowerCase());
+    if (existing) {
+      if (l.emailVerified === true) {
+        const valid = await validateDNS(l.email);
+        if (!valid) { console.log('FAIL DNS: ' + l.name + ' <' + l.email + '>'); continue; }
+        const verifiedFields = ['name', 'type', 'neighborhood', 'address', 'context', 'phone', 'website',
+          'emailVerified', 'emailSource', 'emailVerifiedAt', 'template'];
+        for (const field of verifiedFields) {
+          if (l[field] !== undefined && l[field] !== '') existing[field] = l[field];
+        }
+        imported++;
+        console.log('UPDATE VERIFIED: ' + l.name + ' <' + l.email + '>');
+      } else {
+        console.log('SKIP (duplicate): ' + l.name);
+      }
+      continue;
+    }
 
     const valid = await validateDNS(l.email);
     if (!valid) { console.log('FAIL DNS: ' + l.name + ' <' + l.email + '>'); continue; }
@@ -232,11 +249,12 @@ async function addLeads(jsonStr) {
     l.template = l.template || (l.type === 'balada' ? 'pergunta' : l.type === 'adega' ? 'consultivo' : templates[Math.floor(Math.random() * 3)]);
     l.website = l.website || '';
     master.push(l);
+    imported++;
     console.log('ADD OK: ' + l.name + ' <' + l.email + '> [' + l.type + '/' + l.template + ']');
   }
 
   save(LEADS_FILE, master);
-  console.log('Added ' + newLeads.filter(l => master.find(x => x.email === l.email)).length + ' leads');
+  console.log('Imported ' + imported + ' verified/new leads');
 }
 
 // --- Send email1 for new leads ---
