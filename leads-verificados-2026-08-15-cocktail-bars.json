@@ -399,5 +399,19 @@
     "emailSource": "https://skyhall.com.br/terrace-bar/",
     "emailVerifiedAt": "2026-08-16",
     "template": "consultivo"
+  },
+  {
+    "name": "Double Bar Eventos",
+    "email": "contato@doublebar.com.br",
+    "type": "bar",
+    "neighborhood": "Sao Paulo",
+    "address": "Sao Paulo/SP",
+    "context": "Empresa ativa de coquetelaria classica e contemporanea para eventos sociais e corporativos, indicada como fornecedora especializada em guia recente de 2026.",
+    "phone": "(11) 97064-9292",
+    "website": "https://linktr.ee/doublebar",
+    "emailVerified": true,
+    "emailSource": "https://www.fazendaparaizoitu.com.br/wp-content/uploads/2026/01/2026-Guia-de-Fornecedores-Faz-Paraizo-Itu.pdf_3e254ed0-269a-4db1-b9e9-f77e557a9ab3.pdf",
+    "emailVerifiedAt": "2026-08-16",
+    "template": "consultivo"
   }
 ]
