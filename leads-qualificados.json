@@ -34788,6 +34788,8 @@
     "emailVerified": true,
     "emailSource": "https://thebullpubgv.com/",
     "emailVerifiedAt": "2026-08-17",
-    "template": "consultivo"
+    "template": "consultivo",
+    "email1": true,
+    "date1": "2026-08-17"
   }
 ]
