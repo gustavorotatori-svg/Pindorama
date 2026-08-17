@@ -1009,5 +1009,19 @@
     "emailSource": "https://www.beerplace.com.br/contato",
     "emailVerifiedAt": "2026-08-17",
     "template": "consultivo"
+  },
+  {
+    "name": "The Bull Pub Granja Viana",
+    "email": "contato@thebullpubgv.com",
+    "type": "bar",
+    "neighborhood": "Granja Viana",
+    "address": "Rua José Félix de Oliveira - Granja Viana - Cotia/SP",
+    "context": "Gastropub ativo na Granja Viana, com cervejas artesanais, agenda de eventos e operação noturna até 01h às sextas e sábados.",
+    "phone": "(11) 4702-0451",
+    "website": "https://thebullpubgv.com/",
+    "emailVerified": true,
+    "emailSource": "https://thebullpubgv.com/",
+    "emailVerifiedAt": "2026-08-17",
+    "template": "consultivo"
   }
 ]
