@@ -34908,5 +34908,61 @@
     "emailSource": "https://www.palaciodosvinhos.com.br/contato",
     "emailVerifiedAt": "2026-08-17",
     "template": "consultivo"
+  },
+  {
+    "name": "Distribuidora Cotia",
+    "email": "comercial.distribuidorcotia@gmail.com",
+    "type": "distribuidora",
+    "neighborhood": "Granja Carolina",
+    "address": "Avenida Ralf Bolli, 73 - Granja Carolina - Cotia/SP",
+    "context": "Distribuidora ativa com atendimento comercial, vendedores externos, entrega e estrutura refrigerada para produtos e bebidas naturais.",
+    "phone": "(11) 4703-8908",
+    "website": "https://www.distribuidoracotia.com/",
+    "emailVerified": true,
+    "emailSource": "https://www.distribuidoracotia.com/nossas-lojas",
+    "emailVerifiedAt": "2026-08-17",
+    "template": "consultivo"
+  },
+  {
+    "name": "Cofig Distribuidora",
+    "email": "contato@cofigdistribuidora.com.br",
+    "type": "distribuidora",
+    "neighborhood": "Jardim da Glória",
+    "address": "Rua Howard Archibal Acheson Júnior, 731 - Jardim da Glória - Cotia/SP - 06711-280",
+    "context": "Distribuidora ativa em Cotia com portfólio de alimentos e bebidas de marcas como Leão e Tial e atendimento comercial presencial.",
+    "phone": "(11) 4553-8999",
+    "website": "https://cofigdistribuidora.com.br/",
+    "emailVerified": true,
+    "emailSource": "https://cofigdistribuidora.com.br/contato/",
+    "emailVerifiedAt": "2026-08-17",
+    "template": "consultivo"
+  },
+  {
+    "name": "Maxx Indústria de Bebidas",
+    "email": "naturamaxx1@gmail.com",
+    "type": "distribuidora",
+    "neighborhood": "Chácara Remanso",
+    "address": "Rodovia Bunjiro Nakao, 50768, Galpão 03 - Chácara Remanso - Cotia/SP - 06726-300",
+    "context": "Indústria de bebidas ativa em Cotia, com produção automatizada de sucos e operação comercial própria.",
+    "phone": "(11) 99875-7789",
+    "website": "https://www.naturamaxx.com.br/",
+    "emailVerified": true,
+    "emailSource": "https://www.naturamaxx.com.br/",
+    "emailVerifiedAt": "2026-08-17",
+    "template": "consultivo"
+  },
+  {
+    "name": "The Wine Spot",
+    "email": "loja@thewinespot.com.br",
+    "type": "adega",
+    "neighborhood": "Alphaville Conde II",
+    "address": "Avenida Sagitário, 138, térreo, lojas 6 e 7 - Alphaville Conde II - Barueri/SP - 06473-073",
+    "context": "Loja de vinhos e wine bar ativo em Alphaville, com cerca de 600 rótulos, lounge, clube, degustações e eventos corporativos.",
+    "phone": "(11) 91569-0164",
+    "website": "https://thewinespot.com.br/",
+    "emailVerified": true,
+    "emailSource": "https://thewinespot.com.br/",
+    "emailVerifiedAt": "2026-08-17",
+    "template": "consultivo"
   }
 ]
