@@ -34638,7 +34638,9 @@
     "emailVerified": true,
     "emailSource": "https://www.yummycocktails.com.br/",
     "emailVerifiedAt": "2026-08-16",
-    "template": "consultivo"
+    "template": "consultivo",
+    "email1": true,
+    "date1": "2026-08-16"
   },
   {
     "name": "Venda Dona Noêmia",
@@ -34721,6 +34723,20 @@
     "website": "https://becoalfas.com.br/",
     "emailVerified": true,
     "emailSource": "https://becoalfas.com.br/",
+    "emailVerifiedAt": "2026-08-16",
+    "template": "consultivo"
+  },
+  {
+    "name": "Tortellini Restaurante e Pizzaria",
+    "email": "contato@tortellini.com.br",
+    "type": "restaurante",
+    "neighborhood": "Alphaville",
+    "address": "Calçada Sirius, 31 - Centro de Apoio II - Alphaville - Santana de Parnaíba/SP",
+    "context": "Restaurante italiano ativo em Alphaville, com cozinha autoral, serviço de almoço e jantar e experiência gastronômica de perfil premium.",
+    "phone": "",
+    "website": "https://www.tortellini.com.br/",
+    "emailVerified": true,
+    "emailSource": "https://www.tortellini.com.br/",
     "emailVerifiedAt": "2026-08-16",
     "template": "consultivo"
   }
