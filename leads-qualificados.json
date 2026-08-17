@@ -34726,7 +34726,9 @@
     "emailVerified": true,
     "emailSource": "https://becoalfas.com.br/",
     "emailVerifiedAt": "2026-08-16",
-    "template": "consultivo"
+    "template": "consultivo",
+    "email1": true,
+    "date1": "2026-08-17"
   },
   {
     "name": "Tortellini Restaurante e Pizzaria",
@@ -34754,6 +34756,20 @@
     "emailVerified": true,
     "emailSource": "https://opostobar.com.br/",
     "emailVerifiedAt": "2026-08-16",
+    "template": "consultivo"
+  },
+  {
+    "name": "Beer Place Tap House",
+    "email": "info@beerplace.com.br",
+    "type": "bar",
+    "neighborhood": "Santana de Parnaíba",
+    "address": "Rua Paraná, 112 - Santana de Parnaíba/SP - 06530-025",
+    "context": "Tap house e comércio especializado em bebidas ativo em Santana de Parnaíba, com canal oficial de atendimento comercial e operação presencial.",
+    "phone": "(11) 97276-3704",
+    "website": "https://www.beerplace.com.br/",
+    "emailVerified": true,
+    "emailSource": "https://www.beerplace.com.br/contato",
+    "emailVerifiedAt": "2026-08-17",
     "template": "consultivo"
   }
 ]
