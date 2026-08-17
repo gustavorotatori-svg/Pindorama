@@ -34560,7 +34560,9 @@
     "emailVerified": true,
     "emailSource": "https://k-bar.com.br/",
     "emailVerifiedAt": "2026-08-16",
-    "template": "consultivo"
+    "template": "consultivo",
+    "email1": true,
+    "date1": "2026-08-16"
   },
   {
     "name": "Mister Drinks",
@@ -34574,7 +34576,9 @@
     "emailVerified": true,
     "emailSource": "https://mister.net.br/mister-drinks/",
     "emailVerifiedAt": "2026-08-16",
-    "template": "consultivo"
+    "template": "consultivo",
+    "email1": true,
+    "date1": "2026-08-16"
   },
   {
     "name": "São Paulo Urban Distillery",
@@ -34602,7 +34606,9 @@
     "emailVerified": true,
     "emailSource": "https://brasilbartender.com.br/servicos.html",
     "emailVerifiedAt": "2026-08-16",
-    "template": "consultivo"
+    "template": "consultivo",
+    "email1": true,
+    "date1": "2026-08-16"
   },
   {
     "name": "Vedê Coquetelaria & Arte",
@@ -34616,7 +34622,9 @@
     "emailVerified": true,
     "emailSource": "https://vedebar.com.br/",
     "emailVerifiedAt": "2026-08-16",
-    "template": "consultivo"
+    "template": "consultivo",
+    "email1": true,
+    "date1": "2026-08-16"
   },
   {
     "name": "Yummy Cocktails",
@@ -34657,6 +34665,62 @@
     "website": "https://reidomaltecervejaria.com.br/index.php",
     "emailVerified": true,
     "emailSource": "https://reidomaltecervejaria.com.br/index.php",
+    "emailVerifiedAt": "2026-08-16",
+    "template": "consultivo"
+  },
+  {
+    "name": "Villa BBM Gastrobar",
+    "email": "comercial@villabbm.com",
+    "type": "bar",
+    "neighborhood": "Alphaville",
+    "address": "Alphaville - Barueri/SP",
+    "context": "Gastrobar ativo em Alphaville com coquetelaria e carta de drinks autorais, aderente a apresentacao comercial de cachaca premium.",
+    "phone": "",
+    "website": "https://villabbm.com/",
+    "emailVerified": true,
+    "emailSource": "https://villabbm.com/",
+    "emailVerifiedAt": "2026-08-16",
+    "template": "consultivo"
+  },
+  {
+    "name": "The Black Horse",
+    "email": "theblackhorse@theblackhorse.com.br",
+    "type": "bar",
+    "neighborhood": "Alphaville",
+    "address": "Avenida Copacabana, 148 - Alphaville - Barueri/SP - 06472-001",
+    "context": "Pub e gastropub ativo desde 2004, com destilados premium e carta de coquetéis autorais criada por mixologista, apresentando forte aderência comercial à cachaça premium.",
+    "phone": "(11) 99186-6930",
+    "website": "https://theblackhorse.com.br/",
+    "emailVerified": true,
+    "emailSource": "https://theblackhorse.com.br/contato/",
+    "emailVerifiedAt": "2026-08-16",
+    "template": "consultivo"
+  },
+  {
+    "name": "Gaman'T Sushi Bar",
+    "email": "contato@gamant.com.br",
+    "type": "bar",
+    "neighborhood": "Alphaville",
+    "address": "Alameda Araguaia, 762, loja 63S - Shopping Flamingo - Alphaville/SP",
+    "context": "Sushi bar ativo em Alphaville com carta de coquetéis clássicos, incluindo Boulevardier, Whisky Sour, Mai Tai, Negroni e Mojito.",
+    "phone": "",
+    "website": "https://www.gamant.com.br/",
+    "emailVerified": true,
+    "emailSource": "https://www.gamant.com.br/",
+    "emailVerifiedAt": "2026-08-16",
+    "template": "consultivo"
+  },
+  {
+    "name": "Beco Alfas",
+    "email": "contato@becoalfas.com.br",
+    "type": "bar",
+    "neighborhood": "Tamboré",
+    "address": "Avenida Aruanã, 484 - Tamboré - Barueri/SP - 06460-010",
+    "context": "Bar e restaurante ativo em Barueri com happy hour, caipirinhas, drinks artesanais e atendimento a confraternizações e eventos.",
+    "phone": "(11) 2291-4891",
+    "website": "https://becoalfas.com.br/",
+    "emailVerified": true,
+    "emailSource": "https://becoalfas.com.br/",
     "emailVerifiedAt": "2026-08-16",
     "template": "consultivo"
   }
