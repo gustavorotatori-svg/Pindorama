@@ -33933,7 +33933,9 @@
     "emailVerified": true,
     "emailSource": "https://chapadrinks.com.br/",
     "emailVerifiedAt": "2026-08-16",
-    "template": "consultivo"
+    "template": "consultivo",
+    "email1": true,
+    "date1": "2026-08-17"
   },
   {
     "name": "Casa Oliver",
@@ -34806,6 +34808,34 @@
     "website": "https://restaurantepedrabranca.com.br/jandira2/",
     "emailVerified": true,
     "emailSource": "https://restaurantepedrabranca.com.br/jandira2/",
+    "emailVerifiedAt": "2026-08-17",
+    "template": "consultivo"
+  },
+  {
+    "name": "Alemão Bar e Bistrô",
+    "email": "alemaobarebistro@outlook.com",
+    "type": "bar",
+    "neighborhood": "Jardim da Rainha",
+    "address": "Rua José Avelino da Costa, 1 - Jardim da Rainha - Itapevi/SP - 06656-410",
+    "context": "Bar, bistrô e pizzaria ativo em Itapevi, reconhecido por drinks elaborados, música ao vivo e funcionamento noturno.",
+    "phone": "(11) 4142-4110",
+    "website": "https://alemaobarebistro.com.br/",
+    "emailVerified": true,
+    "emailSource": "https://www.area17.com.br/empresa/restaurante-bar/itapevi/alemao-bar---bistro---bar--bistro--restaurante-e-pizzaria-no-amador-bueno--itapevi-sp/59209",
+    "emailVerifiedAt": "2026-08-17",
+    "template": "consultivo"
+  },
+  {
+    "name": "Bendita Areia",
+    "email": "contato@benditaareia.com.br",
+    "type": "bar",
+    "neighborhood": "Itapevi",
+    "address": "Avenida Eleutério Marçal dos Santos, 531 - Itapevi/SP",
+    "context": "Gastrobar e restaurante ativo em Itapevi, com drinks autorais, operação diária e estrutura para eventos.",
+    "phone": "",
+    "website": "https://www.benditaareia.com.br/",
+    "emailVerified": true,
+    "emailSource": "https://www.benditaareia.com.br/",
     "emailVerifiedAt": "2026-08-17",
     "template": "consultivo"
   }
