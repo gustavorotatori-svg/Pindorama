@@ -981,5 +981,19 @@
     "emailSource": "https://www.tortellini.com.br/",
     "emailVerifiedAt": "2026-08-16",
     "template": "consultivo"
+  },
+  {
+    "name": "O Posto Bar e Restaurante",
+    "email": "contato@opostobar.com.br",
+    "type": "bar",
+    "neighborhood": "Chácara Granja Velha",
+    "address": "Rua José Félix de Oliveira, 1133 - Chácara Granja Velha - Cotia/SP",
+    "context": "Bar e restaurante ativo na Granja Viana, com drinks, happy hour, música ao vivo e operação noturna até 03h às sextas e sábados.",
+    "phone": "(11) 4551-4290",
+    "website": "https://opostobar.com.br/",
+    "emailVerified": true,
+    "emailSource": "https://opostobar.com.br/",
+    "emailVerifiedAt": "2026-08-16",
+    "template": "consultivo"
   }
 ]
