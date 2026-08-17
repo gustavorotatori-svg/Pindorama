@@ -34866,5 +34866,47 @@
     "emailSource": "https://distacado.com.br/",
     "emailVerifiedAt": "2026-08-17",
     "template": "consultivo"
+  },
+  {
+    "name": "Adega Rubi",
+    "email": "contato@adegarubi.com.br",
+    "type": "adega",
+    "neighborhood": "Centro",
+    "address": "Avenida Capitão Bernardo de Souza - Centro - Cantagalo/RJ - 28500-000",
+    "context": "Adega e loja online ativa, com curadoria de vinhos, clube de assinatura e entrega nacional.",
+    "phone": "(22) 98822-5513",
+    "website": "https://www.adegarubi.com.br/",
+    "emailVerified": true,
+    "emailSource": "https://www.adegarubi.com.br/Contato",
+    "emailVerifiedAt": "2026-08-17",
+    "template": "consultivo"
+  },
+  {
+    "name": "Royal Bebidas",
+    "email": "contato@royalbebidas.com",
+    "type": "distribuidora",
+    "neighborhood": "Granja Viana",
+    "address": "Rodovia Raposo Tavares, km 22 - Cotia/SP - 06709-015",
+    "context": "Loja e distribuidora ativa de bebidas nacionais e importadas, com portfólio de vinhos, destilados, espumantes e licores.",
+    "phone": "(11) 97858-6563",
+    "website": "https://www.royalbebidas.com/",
+    "emailVerified": true,
+    "emailSource": "https://www.royalbebidas.com/contato",
+    "emailVerifiedAt": "2026-08-17",
+    "template": "consultivo"
+  },
+  {
+    "name": "Palácio dos Vinhos",
+    "email": "palaciodosvinhos@palaciodosvinhos.com.br",
+    "type": "distribuidora",
+    "neighborhood": "Granja Viana",
+    "address": "Rua São João, 246 - Granja Viana - Cotia/SP",
+    "context": "Importadora e distribuidora ativa de vinhos e bebidas, com proposta comercial específica para restaurantes e revendedores.",
+    "phone": "(11) 4702-6118",
+    "website": "https://www.palaciodosvinhos.com.br/",
+    "emailVerified": true,
+    "emailSource": "https://www.palaciodosvinhos.com.br/contato",
+    "emailVerifiedAt": "2026-08-17",
+    "template": "consultivo"
   }
 ]
