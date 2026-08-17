@@ -1177,5 +1177,19 @@
     "emailSource": "https://www.naturamaxx.com.br/",
     "emailVerifiedAt": "2026-08-17",
     "template": "consultivo"
+  },
+  {
+    "name": "The Wine Spot",
+    "email": "loja@thewinespot.com.br",
+    "type": "adega",
+    "neighborhood": "Alphaville Conde II",
+    "address": "Avenida Sagitário, 138, térreo, lojas 6 e 7 - Alphaville Conde II - Barueri/SP - 06473-073",
+    "context": "Loja de vinhos e wine bar ativo em Alphaville, com cerca de 600 rótulos, lounge, clube, degustações e eventos corporativos.",
+    "phone": "(11) 91569-0164",
+    "website": "https://thewinespot.com.br/",
+    "emailVerified": true,
+    "emailSource": "https://thewinespot.com.br/",
+    "emailVerifiedAt": "2026-08-17",
+    "template": "consultivo"
   }
 ]
