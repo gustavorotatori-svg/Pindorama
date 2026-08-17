@@ -1149,5 +1149,19 @@
     "emailSource": "https://www.distribuidoracotia.com/nossas-lojas",
     "emailVerifiedAt": "2026-08-17",
     "template": "consultivo"
+  },
+  {
+    "name": "Cofig Distribuidora",
+    "email": "contato@cofigdistribuidora.com.br",
+    "type": "distribuidora",
+    "neighborhood": "Jardim da Glória",
+    "address": "Rua Howard Archibal Acheson Júnior, 731 - Jardim da Glória - Cotia/SP - 06711-280",
+    "context": "Distribuidora ativa em Cotia com portfólio de alimentos e bebidas de marcas como Leão e Tial e atendimento comercial presencial.",
+    "phone": "(11) 4553-8999",
+    "website": "https://cofigdistribuidora.com.br/",
+    "emailVerified": true,
+    "emailSource": "https://cofigdistribuidora.com.br/contato/",
+    "emailVerifiedAt": "2026-08-17",
+    "template": "consultivo"
   }
 ]
