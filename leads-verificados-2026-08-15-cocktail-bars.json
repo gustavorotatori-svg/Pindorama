@@ -1135,5 +1135,19 @@
     "emailSource": "https://www.palaciodosvinhos.com.br/contato",
     "emailVerifiedAt": "2026-08-17",
     "template": "consultivo"
+  },
+  {
+    "name": "Distribuidora Cotia",
+    "email": "comercial.distribuidorcotia@gmail.com",
+    "type": "distribuidora",
+    "neighborhood": "Granja Carolina",
+    "address": "Avenida Ralf Bolli, 73 - Granja Carolina - Cotia/SP",
+    "context": "Distribuidora ativa com atendimento comercial, vendedores externos, entrega e estrutura refrigerada para produtos e bebidas naturais.",
+    "phone": "(11) 4703-8908",
+    "website": "https://www.distribuidoracotia.com/",
+    "emailVerified": true,
+    "emailSource": "https://www.distribuidoracotia.com/nossas-lojas",
+    "emailVerifiedAt": "2026-08-17",
+    "template": "consultivo"
   }
 ]
