@@ -883,5 +883,19 @@
     "emailSource": "https://www.yummycocktails.com.br/",
     "emailVerifiedAt": "2026-08-16",
     "template": "consultivo"
+  },
+  {
+    "name": "Venda Dona Noêmia",
+    "email": "contato@vendadonanoemia.com.br",
+    "type": "bar",
+    "neighborhood": "Sorocaba",
+    "address": "Sorocaba/SP",
+    "context": "Bar e restaurante ativo em Sorocaba, segmento prioritario e com canal comercial publicado diretamente no site oficial.",
+    "phone": "",
+    "website": "https://vendadonanoemia.com.br/",
+    "emailVerified": true,
+    "emailSource": "https://vendadonanoemia.com.br/",
+    "emailVerifiedAt": "2026-08-16",
+    "template": "consultivo"
   }
 ]
