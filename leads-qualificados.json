@@ -34964,5 +34964,19 @@
     "emailSource": "https://thewinespot.com.br/",
     "emailVerifiedAt": "2026-08-17",
     "template": "consultivo"
+  },
+  {
+    "name": "Central Osasco",
+    "email": "sac@centralosasco.com.br",
+    "type": "distribuidora",
+    "neighborhood": "Centro",
+    "address": "Avenida Maria Campos, 190 - Centro - Osasco/SP - 06010-060",
+    "context": "Distribuidora ativa de alimentos e bebidas em Osasco, com loja física, operação online e atendimento diário ao varejo regional.",
+    "phone": "(11) 3652-5440",
+    "website": "https://centralosasco.com.br/",
+    "emailVerified": true,
+    "emailSource": "https://centralosasco.com.br/contato.aspx",
+    "emailVerifiedAt": "2026-08-17",
+    "template": "consultivo"
   }
 ]
