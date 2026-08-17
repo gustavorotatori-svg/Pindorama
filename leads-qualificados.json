@@ -34756,7 +34756,9 @@
     "emailVerified": true,
     "emailSource": "https://opostobar.com.br/",
     "emailVerifiedAt": "2026-08-16",
-    "template": "consultivo"
+    "template": "consultivo",
+    "email1": true,
+    "date1": "2026-08-17"
   },
   {
     "name": "Beer Place Tap House",
