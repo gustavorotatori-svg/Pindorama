@@ -1121,5 +1121,19 @@
     "emailSource": "https://www.royalbebidas.com/contato",
     "emailVerifiedAt": "2026-08-17",
     "template": "consultivo"
+  },
+  {
+    "name": "Palácio dos Vinhos",
+    "email": "palaciodosvinhos@palaciodosvinhos.com.br",
+    "type": "distribuidora",
+    "neighborhood": "Granja Viana",
+    "address": "Rua São João, 246 - Granja Viana - Cotia/SP",
+    "context": "Importadora e distribuidora ativa de vinhos e bebidas, com proposta comercial específica para restaurantes e revendedores.",
+    "phone": "(11) 4702-6118",
+    "website": "https://www.palaciodosvinhos.com.br/",
+    "emailVerified": true,
+    "emailSource": "https://www.palaciodosvinhos.com.br/contato",
+    "emailVerifiedAt": "2026-08-17",
+    "template": "consultivo"
   }
 ]
