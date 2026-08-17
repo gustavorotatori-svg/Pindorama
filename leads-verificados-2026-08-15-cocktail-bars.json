@@ -1065,5 +1065,19 @@
     "emailSource": "https://www.benditaareia.com.br/",
     "emailVerifiedAt": "2026-08-17",
     "template": "consultivo"
+  },
+  {
+    "name": "Lig Chopp Germânia Barueri",
+    "email": "contato@choppgermaniabarueri.com.br",
+    "type": "distribuidora",
+    "neighborhood": "Boa Vista",
+    "address": "Rua Rio Grande do Sul, 208 - Boa Vista - Barueri/SP",
+    "context": "Distribuidora ativa de chopp e cervejas com atendimento B2B para bares e restaurantes em Barueri, Jandira, Itapevi e região.",
+    "phone": "(11) 94754-6808",
+    "website": "https://www.choppgermaniabarueri.com.br/",
+    "emailVerified": true,
+    "emailSource": "https://www.choppgermaniabarueri.com.br/contato/",
+    "emailVerifiedAt": "2026-08-17",
+    "template": "consultivo"
   }
 ]
