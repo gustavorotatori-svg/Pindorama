@@ -34594,5 +34594,47 @@
     "emailSource": "https://vedebar.com.br/",
     "emailVerifiedAt": "2026-08-16",
     "template": "consultivo"
+  },
+  {
+    "name": "Yummy Cocktails",
+    "email": "contato@yummycocktails.com.br",
+    "type": "bar",
+    "neighborhood": "Alves Dias",
+    "address": "Rua Valentim Dal Checo, 231 - Alves Dias - Sao Bernardo do Campo/SP",
+    "context": "Operador ativo de bar para eventos no ABC, com mais de 50 coqueteis classicos, receitas proprias e atendimento a eventos corporativos e sociais.",
+    "phone": "(11) 99225-1091",
+    "website": "https://www.yummycocktails.com.br/",
+    "emailVerified": true,
+    "emailSource": "https://www.yummycocktails.com.br/",
+    "emailVerifiedAt": "2026-08-16",
+    "template": "consultivo"
+  },
+  {
+    "name": "Venda Dona Noêmia",
+    "email": "contato@vendadonanoemia.com.br",
+    "type": "bar",
+    "neighborhood": "Sorocaba",
+    "address": "Sorocaba/SP",
+    "context": "Bar e restaurante ativo em Sorocaba, segmento prioritario e com canal comercial publicado diretamente no site oficial.",
+    "phone": "",
+    "website": "https://vendadonanoemia.com.br/",
+    "emailVerified": true,
+    "emailSource": "https://vendadonanoemia.com.br/",
+    "emailVerifiedAt": "2026-08-16",
+    "template": "consultivo"
+  },
+  {
+    "name": "Cervejaria Rei do Malte",
+    "email": "cervejariareidomalte@gmail.com",
+    "type": "bar",
+    "neighborhood": "Jardim Novo Horizonte",
+    "address": "Avenida Ipanema, 4300 - Jardim Novo Horizonte - Sorocaba/SP",
+    "context": "Cervejaria e bar ativo em Sorocaba, com fabricacao propria, variedade de drinks, porcoes, musica ao vivo e funcionamento de quarta a domingo.",
+    "phone": "(15) 3141-9264",
+    "website": "https://reidomaltecervejaria.com.br/index.php",
+    "emailVerified": true,
+    "emailSource": "https://reidomaltecervejaria.com.br/index.php",
+    "emailVerifiedAt": "2026-08-16",
+    "template": "consultivo"
   }
 ]
