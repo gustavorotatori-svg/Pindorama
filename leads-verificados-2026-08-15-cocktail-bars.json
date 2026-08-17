@@ -939,5 +939,19 @@
     "emailSource": "https://theblackhorse.com.br/contato/",
     "emailVerifiedAt": "2026-08-16",
     "template": "consultivo"
+  },
+  {
+    "name": "Gaman'T Sushi Bar",
+    "email": "contato@gamant.com.br",
+    "type": "bar",
+    "neighborhood": "Alphaville",
+    "address": "Alameda Araguaia, 762, loja 63S - Shopping Flamingo - Alphaville/SP",
+    "context": "Sushi bar ativo em Alphaville com carta de coquetéis clássicos, incluindo Boulevardier, Whisky Sour, Mai Tai, Negroni e Mojito.",
+    "phone": "",
+    "website": "https://www.gamant.com.br/",
+    "emailVerified": true,
+    "emailSource": "https://www.gamant.com.br/",
+    "emailVerifiedAt": "2026-08-16",
+    "template": "consultivo"
   }
 ]
