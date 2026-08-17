@@ -1079,5 +1079,19 @@
     "emailSource": "https://www.choppgermaniabarueri.com.br/contato/",
     "emailVerifiedAt": "2026-08-17",
     "template": "consultivo"
+  },
+  {
+    "name": "Distacado Distribuidora",
+    "email": "contato@distacado.com.br",
+    "type": "distribuidora",
+    "neighborhood": "Alphaville",
+    "address": "Avenida Tamboré, 267 - Alphaville - Barueri/SP",
+    "context": "Distribuidora ativa de alimentos e bebidas para food service e varejo, atendendo restaurantes, bares, lanchonetes e mercados.",
+    "phone": "",
+    "website": "https://distacado.com.br/",
+    "emailVerified": true,
+    "emailSource": "https://distacado.com.br/",
+    "emailVerifiedAt": "2026-08-17",
+    "template": "consultivo"
   }
 ]
