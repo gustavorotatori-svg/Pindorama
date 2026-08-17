@@ -34871,7 +34871,10 @@
     "emailVerifiedAt": "2026-08-17",
     "template": "consultivo",
     "email1": true,
-    "date1": "2026-08-17"
+    "date1": "2026-08-17",
+    "doNotContact": true,
+    "bounced": true,
+    "bounceDate": "2026-08-17"
   },
   {
     "name": "Adega Rubi",
