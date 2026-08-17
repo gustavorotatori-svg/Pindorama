@@ -1107,5 +1107,19 @@
     "emailSource": "https://www.adegarubi.com.br/Contato",
     "emailVerifiedAt": "2026-08-17",
     "template": "consultivo"
+  },
+  {
+    "name": "Royal Bebidas",
+    "email": "contato@royalbebidas.com",
+    "type": "distribuidora",
+    "neighborhood": "Granja Viana",
+    "address": "Rodovia Raposo Tavares, km 22 - Cotia/SP - 06709-015",
+    "context": "Loja e distribuidora ativa de bebidas nacionais e importadas, com portfólio de vinhos, destilados, espumantes e licores.",
+    "phone": "(11) 97858-6563",
+    "website": "https://www.royalbebidas.com/",
+    "emailVerified": true,
+    "emailSource": "https://www.royalbebidas.com/contato",
+    "emailVerifiedAt": "2026-08-17",
+    "template": "consultivo"
   }
 ]
