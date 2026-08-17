@@ -33948,7 +33948,9 @@
     "emailVerified": true,
     "emailSource": "https://casaoliver.com.br/contato-eventos",
     "emailVerifiedAt": "2026-08-16",
-    "template": "consultivo"
+    "template": "consultivo",
+    "email1": true,
+    "date1": "2026-08-17"
   },
   {
     "name": "VIP Drinks",
@@ -34851,7 +34853,9 @@
     "emailVerified": true,
     "emailSource": "https://www.choppgermaniabarueri.com.br/contato/",
     "emailVerifiedAt": "2026-08-17",
-    "template": "consultivo"
+    "template": "consultivo",
+    "email1": true,
+    "date1": "2026-08-17"
   },
   {
     "name": "Distacado Distribuidora",
@@ -34865,7 +34869,9 @@
     "emailVerified": true,
     "emailSource": "https://distacado.com.br/",
     "emailVerifiedAt": "2026-08-17",
-    "template": "consultivo"
+    "template": "consultivo",
+    "email1": true,
+    "date1": "2026-08-17"
   },
   {
     "name": "Adega Rubi",
@@ -34879,7 +34885,9 @@
     "emailVerified": true,
     "emailSource": "https://www.adegarubi.com.br/Contato",
     "emailVerifiedAt": "2026-08-17",
-    "template": "consultivo"
+    "template": "consultivo",
+    "email1": true,
+    "date1": "2026-08-17"
   },
   {
     "name": "Royal Bebidas",
@@ -34893,7 +34901,9 @@
     "emailVerified": true,
     "emailSource": "https://www.royalbebidas.com/contato",
     "emailVerifiedAt": "2026-08-17",
-    "template": "consultivo"
+    "template": "consultivo",
+    "email1": true,
+    "date1": "2026-08-17"
   },
   {
     "name": "Palácio dos Vinhos",
@@ -34907,7 +34917,9 @@
     "emailVerified": true,
     "emailSource": "https://www.palaciodosvinhos.com.br/contato",
     "emailVerifiedAt": "2026-08-17",
-    "template": "consultivo"
+    "template": "consultivo",
+    "email1": true,
+    "date1": "2026-08-17"
   },
   {
     "name": "Distribuidora Cotia",
@@ -34921,7 +34933,9 @@
     "emailVerified": true,
     "emailSource": "https://www.distribuidoracotia.com/nossas-lojas",
     "emailVerifiedAt": "2026-08-17",
-    "template": "consultivo"
+    "template": "consultivo",
+    "email1": true,
+    "date1": "2026-08-17"
   },
   {
     "name": "Cofig Distribuidora",
@@ -34935,7 +34949,9 @@
     "emailVerified": true,
     "emailSource": "https://cofigdistribuidora.com.br/contato/",
     "emailVerifiedAt": "2026-08-17",
-    "template": "consultivo"
+    "template": "consultivo",
+    "email1": true,
+    "date1": "2026-08-17"
   },
   {
     "name": "Maxx Indústria de Bebidas",
@@ -34949,7 +34965,9 @@
     "emailVerified": true,
     "emailSource": "https://www.naturamaxx.com.br/",
     "emailVerifiedAt": "2026-08-17",
-    "template": "consultivo"
+    "template": "consultivo",
+    "email1": true,
+    "date1": "2026-08-17"
   },
   {
     "name": "The Wine Spot",
@@ -34963,7 +34981,9 @@
     "emailVerified": true,
     "emailSource": "https://thewinespot.com.br/",
     "emailVerifiedAt": "2026-08-17",
-    "template": "consultivo"
+    "template": "consultivo",
+    "email1": true,
+    "date1": "2026-08-17"
   },
   {
     "name": "Central Osasco",
@@ -34977,7 +34997,9 @@
     "emailVerified": true,
     "emailSource": "https://centralosasco.com.br/contato.aspx",
     "emailVerifiedAt": "2026-08-17",
-    "template": "consultivo"
+    "template": "consultivo",
+    "email1": true,
+    "date1": "2026-08-17"
   },
   {
     "name": "Central Wine",
@@ -34991,7 +35013,9 @@
     "emailVerified": true,
     "emailSource": "https://www.centralwine.com.br/",
     "emailVerifiedAt": "2026-08-17",
-    "template": "consultivo"
+    "template": "consultivo",
+    "email1": true,
+    "date1": "2026-08-17"
   },
   {
     "name": "Taça Cheia Bar e Restaurante",
@@ -35005,6 +35029,8 @@
     "emailVerified": true,
     "emailSource": "https://www.tacacheia.com/contato",
     "emailVerifiedAt": "2026-08-17",
-    "template": "consultivo"
+    "template": "consultivo",
+    "email1": true,
+    "date1": "2026-08-17"
   }
 ]
