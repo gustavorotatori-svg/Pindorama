@@ -1205,5 +1205,19 @@
     "emailSource": "https://centralosasco.com.br/contato.aspx",
     "emailVerifiedAt": "2026-08-17",
     "template": "consultivo"
+  },
+  {
+    "name": "Central Wine",
+    "email": "centralwine@centralwine.com.br",
+    "type": "adega",
+    "neighborhood": "Centro",
+    "address": "Avenida Professor José Barreto, 1010, lojas 9 e 10 - Centro - Cotia/SP - 06703-000",
+    "context": "Adega, empório e distribuidora ativa desde 1992, com vinhos, destilados, loja física em Cotia e entrega expressa na região oeste.",
+    "phone": "(11) 4616-8188",
+    "website": "https://www.centralwine.com.br/",
+    "emailVerified": true,
+    "emailSource": "https://www.centralwine.com.br/",
+    "emailVerifiedAt": "2026-08-17",
+    "template": "consultivo"
   }
 ]
