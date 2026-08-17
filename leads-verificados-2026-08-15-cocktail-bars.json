@@ -911,5 +911,19 @@
     "emailSource": "https://reidomaltecervejaria.com.br/index.php",
     "emailVerifiedAt": "2026-08-16",
     "template": "consultivo"
+  },
+  {
+    "name": "Villa BBM Gastrobar",
+    "email": "comercial@villabbm.com",
+    "type": "bar",
+    "neighborhood": "Alphaville",
+    "address": "Alphaville - Barueri/SP",
+    "context": "Gastrobar ativo em Alphaville com coquetelaria e carta de drinks autorais, aderente a apresentacao comercial de cachaca premium.",
+    "phone": "",
+    "website": "https://villabbm.com/",
+    "emailVerified": true,
+    "emailSource": "https://villabbm.com/",
+    "emailVerifiedAt": "2026-08-16",
+    "template": "consultivo"
   }
 ]
