@@ -1023,5 +1023,19 @@
     "emailSource": "https://thebullpubgv.com/",
     "emailVerifiedAt": "2026-08-17",
     "template": "consultivo"
+  },
+  {
+    "name": "Pedra Branca Jandira",
+    "email": "jandira@restaurantepedrabranca.com.br",
+    "type": "restaurante",
+    "neighborhood": "Jardim Alvorada",
+    "address": "Rua Milton Alves, 1000 - Jardim Alvorada - Jandira/SP",
+    "context": "Unidade ativa do Grupo Pedra Branca em Jandira, restaurante regional consolidado com serviço presencial e canal próprio publicado no site oficial.",
+    "phone": "(11) 4619-2363",
+    "website": "https://restaurantepedrabranca.com.br/jandira2/",
+    "emailVerified": true,
+    "emailSource": "https://restaurantepedrabranca.com.br/jandira2/",
+    "emailVerifiedAt": "2026-08-17",
+    "template": "consultivo"
   }
 ]
