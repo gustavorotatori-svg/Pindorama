@@ -925,5 +925,19 @@
     "emailSource": "https://villabbm.com/",
     "emailVerifiedAt": "2026-08-16",
     "template": "consultivo"
+  },
+  {
+    "name": "The Black Horse",
+    "email": "theblackhorse@theblackhorse.com.br",
+    "type": "bar",
+    "neighborhood": "Alphaville",
+    "address": "Avenida Copacabana, 148 - Alphaville - Barueri/SP - 06472-001",
+    "context": "Pub e gastropub ativo desde 2004, com destilados premium e carta de coquetéis autorais criada por mixologista, apresentando forte aderência comercial à cachaça premium.",
+    "phone": "(11) 99186-6930",
+    "website": "https://theblackhorse.com.br/",
+    "emailVerified": true,
+    "emailSource": "https://theblackhorse.com.br/contato/",
+    "emailVerifiedAt": "2026-08-16",
+    "template": "consultivo"
   }
 ]
