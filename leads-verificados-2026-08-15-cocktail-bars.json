@@ -1093,5 +1093,19 @@
     "emailSource": "https://distacado.com.br/",
     "emailVerifiedAt": "2026-08-17",
     "template": "consultivo"
+  },
+  {
+    "name": "Adega Rubi",
+    "email": "contato@adegarubi.com.br",
+    "type": "adega",
+    "neighborhood": "Centro",
+    "address": "Avenida Capitão Bernardo de Souza - Centro - Cantagalo/RJ - 28500-000",
+    "context": "Adega e loja online ativa, com curadoria de vinhos, clube de assinatura e entrega nacional.",
+    "phone": "(22) 98822-5513",
+    "website": "https://www.adegarubi.com.br/",
+    "emailVerified": true,
+    "emailSource": "https://www.adegarubi.com.br/Contato",
+    "emailVerifiedAt": "2026-08-17",
+    "template": "consultivo"
   }
 ]
