@@ -34283,7 +34283,9 @@
     "emailVerified": true,
     "emailSource": "https://dbartenders.com/",
     "emailVerifiedAt": "2026-08-16",
-    "template": "consultivo"
+    "template": "consultivo",
+    "email1": true,
+    "date1": "2026-08-16"
   },
   {
     "name": "MADZ Eventos",
@@ -34297,7 +34299,9 @@
     "emailVerified": true,
     "emailSource": "https://www.madzeventos.com.br/",
     "emailVerifiedAt": "2026-08-16",
-    "template": "consultivo"
+    "template": "consultivo",
+    "email1": true,
+    "date1": "2026-08-16"
   },
   {
     "name": "Mr Cocktail Eventos",
@@ -34325,7 +34329,9 @@
     "emailVerified": true,
     "emailSource": "https://premagastronomia.com.br/canto-wine-bar-take-away/",
     "emailVerifiedAt": "2026-08-16",
-    "template": "consultivo"
+    "template": "consultivo",
+    "email1": true,
+    "date1": "2026-08-16"
   },
   {
     "name": "Casa Hibrida",
@@ -34339,7 +34345,9 @@
     "emailVerified": true,
     "emailSource": "https://casahibrida.com.br/",
     "emailVerifiedAt": "2026-08-16",
-    "template": "consultivo"
+    "template": "consultivo",
+    "email1": true,
+    "date1": "2026-08-16"
   },
   {
     "name": "Curtica Bar",
@@ -34395,7 +34403,9 @@
     "emailVerified": true,
     "emailSource": "https://bar2go.com.br/",
     "emailVerifiedAt": "2026-08-16",
-    "template": "consultivo"
+    "template": "consultivo",
+    "email1": true,
+    "date1": "2026-08-16"
   },
   {
     "name": "Bourbon Convention Hotel Santos",
@@ -34423,7 +34433,9 @@
     "emailVerified": true,
     "emailSource": "https://www.xbar.com.br/",
     "emailVerifiedAt": "2026-08-16",
-    "template": "consultivo"
+    "template": "consultivo",
+    "email1": true,
+    "date1": "2026-08-16"
   },
   {
     "name": "Adega Don Marte",
@@ -34453,7 +34465,9 @@
     "emailVerified": true,
     "emailSource": "https://www.lifedrinkseventos.com.br/fale-conosco/",
     "emailVerifiedAt": "2026-08-16",
-    "template": "consultivo"
+    "template": "consultivo",
+    "email1": true,
+    "date1": "2026-08-16"
   },
   {
     "name": "Fashion Bartenders",
@@ -34467,7 +34481,9 @@
     "emailVerified": true,
     "emailSource": "https://www.fashionbartenders.com.br/barman-para-eventos-em-santo-andre.php",
     "emailVerifiedAt": "2026-08-16",
-    "template": "consultivo"
+    "template": "consultivo",
+    "email1": true,
+    "date1": "2026-08-16"
   },
   {
     "name": "Z Eventos",
@@ -34509,7 +34525,9 @@
     "emailVerified": true,
     "emailSource": "https://www.barmanparafestas.com.br/contato/",
     "emailVerifiedAt": "2026-08-16",
-    "template": "consultivo"
+    "template": "consultivo",
+    "email1": true,
+    "date1": "2026-08-16"
   },
   {
     "name": "Caledonia Whisky & Co.",
@@ -34523,7 +34541,9 @@
     "emailVerified": true,
     "emailSource": "https://caledoniawhiskyco.com.br/contato/",
     "emailVerifiedAt": "2026-08-16",
-    "template": "consultivo"
+    "template": "consultivo",
+    "email1": true,
+    "date1": "2026-08-16"
   },
   {
     "name": "K-Bar e Karaokê",
