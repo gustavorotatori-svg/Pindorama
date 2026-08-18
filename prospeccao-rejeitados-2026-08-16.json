@@ -47,5 +47,21 @@
     "email": "contato@imperiodaesfihas.com.br",
     "source": "https://imperiodasesfihas.com.br/contact-us-now/",
     "reason": "fonte recente publica o email, mas o dominio do destinatario nao existe no DNS e nao possui MX; rejeitado por seguranca"
+  },
+  {
+    "checkedAt": "2026-08-18T20:25:39-03:00",
+    "name": "Skye Restaurant & Bar",
+    "email": "skye@hotelunique.com",
+    "source": "https://www.hotelunique.com/pt/contatos",
+    "discoverySource": "https://www.tripadvisor.com.br/Restaurant_Review-g303631-d1009752-Reviews-Skye_Restaurant_Bar-Sao_Paulo_State_of_Sao_Paulo.html",
+    "reason": "estabelecimento ativo, email oficial e MX valido, mas a entidade e o destinatario ja constam no cadastro; rejeitado por deduplicacao"
+  },
+  {
+    "checkedAt": "2026-08-18T20:25:39-03:00",
+    "name": "IPo Bar",
+    "email": "ipo@ipobar.com.br",
+    "source": "https://www.baressp.com.br/bares/ipo-bar",
+    "discoverySource": "https://www.tripadvisor.com.br/Restaurant_Review-g303631-d10593270-Reviews-IPo_Bar-Sao_Paulo_State_of_Sao_Paulo.html",
+    "reason": "bar de coquetelaria ativo, email publicado em fonte recente e MX valido, mas a entidade e o destinatario ja constam no cadastro; rejeitado por deduplicacao"
   }
 ]
