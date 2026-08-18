@@ -33991,7 +33991,9 @@
     "emailVerified": true,
     "emailSource": "https://drinksbartender.com.br/",
     "emailVerifiedAt": "2026-08-16",
-    "template": "consultivo"
+    "template": "consultivo",
+    "email1": true,
+    "date1": "2026-08-17"
   },
   {
     "name": "WDG Events",
@@ -34146,7 +34148,9 @@
     "emailVerified": true,
     "emailSource": "https://www.ballibartenders.com.br/",
     "emailVerifiedAt": "2026-08-16",
-    "template": "consultivo"
+    "template": "consultivo",
+    "email1": true,
+    "date1": "2026-08-17"
   },
   {
     "name": "Conceito Bar",
@@ -34175,7 +34179,9 @@
     "emailVerified": true,
     "emailSource": "https://barsalvador.com.br/",
     "emailVerifiedAt": "2026-08-16",
-    "template": "consultivo"
+    "template": "consultivo",
+    "email1": true,
+    "date1": "2026-08-17"
   },
   {
     "name": "Hotel Panamby Sao Paulo",
@@ -34217,7 +34223,9 @@
     "emailVerified": true,
     "emailSource": "https://www.onebartender.com.br/bartenders/servico-de-bartenders/servico-de-bartender-para-congresso/servico-de-bartender-para-festa-guarulhos",
     "emailVerifiedAt": "2026-08-16",
-    "template": "consultivo"
+    "template": "consultivo",
+    "email1": true,
+    "date1": "2026-08-17"
   },
   {
     "name": "1966 PUB & Cocktail Bar",
@@ -34260,7 +34268,9 @@
     "emailVerified": true,
     "emailSource": "https://www.urbanacoquetelaria.com.br/",
     "emailVerifiedAt": "2026-08-16",
-    "template": "consultivo"
+    "template": "consultivo",
+    "email1": true,
+    "date1": "2026-08-17"
   },
   {
     "name": "A Selva Bar",
@@ -34273,7 +34283,9 @@
     "emailVerified": true,
     "emailSource": "https://aselvabar.com/",
     "emailVerifiedAt": "2026-08-16",
-    "template": "consultivo"
+    "template": "consultivo",
+    "email1": true,
+    "date1": "2026-08-17"
   },
   {
     "name": "Dbartenders",
@@ -34596,7 +34608,9 @@
     "emailVerified": true,
     "emailSource": "https://spud.social/",
     "emailVerifiedAt": "2026-08-16",
-    "template": "consultivo"
+    "template": "consultivo",
+    "email1": true,
+    "date1": "2026-08-17"
   },
   {
     "name": "Brasil Bartender",
@@ -34658,7 +34672,9 @@
     "emailVerified": true,
     "emailSource": "https://vendadonanoemia.com.br/",
     "emailVerifiedAt": "2026-08-16",
-    "template": "consultivo"
+    "template": "consultivo",
+    "email1": true,
+    "date1": "2026-08-17"
   },
   {
     "name": "Cervejaria Rei do Malte",
@@ -34686,7 +34702,9 @@
     "emailVerified": true,
     "emailSource": "https://villabbm.com/",
     "emailVerifiedAt": "2026-08-16",
-    "template": "consultivo"
+    "template": "consultivo",
+    "email1": true,
+    "date1": "2026-08-17"
   },
   {
     "name": "The Black Horse",
@@ -34716,7 +34734,9 @@
     "emailVerified": true,
     "emailSource": "https://www.gamant.com.br/",
     "emailVerifiedAt": "2026-08-16",
-    "template": "consultivo"
+    "template": "consultivo",
+    "email1": true,
+    "date1": "2026-08-17"
   },
   {
     "name": "Beco Alfas",
@@ -34839,7 +34859,9 @@
     "emailVerified": true,
     "emailSource": "https://www.benditaareia.com.br/",
     "emailVerifiedAt": "2026-08-17",
-    "template": "consultivo"
+    "template": "consultivo",
+    "email1": true,
+    "date1": "2026-08-17"
   },
   {
     "name": "Lig Chopp Germânia Barueri",
