@@ -1275,5 +1275,19 @@
     "emailSource": "https://cantinhodotempero2.wixsite.com/restaurantecantinhod",
     "emailVerifiedAt": "2026-08-18",
     "template": "consultivo"
+  },
+  {
+    "name": "A Quinta do Mirante",
+    "email": "aquintadomirante@gmail.com",
+    "type": "restaurante",
+    "neighborhood": "Centro",
+    "address": "Rua Minerva, 674 - Santana de Parnaíba/SP - 06514-220",
+    "context": "Restaurante rústico ativo em Santana de Parnaíba, especializado em pratos à la carte, com serviço de almoço e jantar de quinta a domingo.",
+    "phone": "(11) 94838-3010",
+    "website": "https://www.aquintadomirante.com.br/",
+    "emailVerified": true,
+    "emailSource": "https://www.aquintadomirante.com.br/",
+    "emailVerifiedAt": "2026-08-18",
+    "template": "consultivo"
   }
 ]
