@@ -26,5 +26,26 @@
     "email": "contato@absbartenders.com.br",
     "source": "https://absbartenders.com.br/",
     "reason": "destinatario ja consta na supressao permanente"
+  },
+  {
+    "checkedAt": "2026-08-18T00:44:34-03:00",
+    "name": "JG Bebidas",
+    "email": "vendas@distribuidorajg.com.br",
+    "source": "https://distribuidorajg.com.br/distribuidora-de-bebidas-em-carapicuiba/",
+    "reason": "email comercial oficialmente publicado e MX valido, mas destinatario ja consta no cadastro; rejeitado por deduplicacao"
+  },
+  {
+    "checkedAt": "2026-08-18T00:44:34-03:00",
+    "name": "Pedra Branca Jandira",
+    "email": "jandira@restaurantepedrabranca.com.br",
+    "source": "https://restaurantepedrabranca.com.br/jandira2/",
+    "reason": "email comercial oficialmente publicado e MX valido, mas destinatario ja consta no cadastro; rejeitado por deduplicacao"
+  },
+  {
+    "checkedAt": "2026-08-18T00:44:34-03:00",
+    "name": "Imperio das Esfihas Jandira",
+    "email": "contato@imperiodaesfihas.com.br",
+    "source": "https://imperiodasesfihas.com.br/contact-us-now/",
+    "reason": "fonte recente publica o email, mas o dominio do destinatario nao existe no DNS e nao possui MX; rejeitado por seguranca"
   }
 ]
