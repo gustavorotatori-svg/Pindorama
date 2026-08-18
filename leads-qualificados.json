@@ -35242,5 +35242,19 @@
     "emailSource": "https://boiadeirogrill.com.br/",
     "emailVerifiedAt": "2026-08-18",
     "template": "consultivo"
+  },
+  {
+    "name": "Rosso Pizza",
+    "email": "contato@rossopizza.com.br",
+    "type": "restaurante",
+    "neighborhood": "Centro",
+    "address": "Rua Municipal, 564 - Centro - São Bernardo do Campo/SP - 09712-210",
+    "context": "Pizzaria ativa em São Bernardo do Campo, com operação noturna, reservas e atendimento comercial próprio.",
+    "phone": "(11) 2669-6036",
+    "website": "https://rossopizza.com.br/",
+    "emailVerified": true,
+    "emailSource": "https://rossopizza.com.br/contact/",
+    "emailVerifiedAt": "2026-08-18",
+    "template": "consultivo"
   }
 ]
