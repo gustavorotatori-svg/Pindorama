@@ -35094,7 +35094,10 @@
     "emailVerifiedAt": "2026-08-17",
     "template": "consultivo",
     "email1": true,
-    "date1": "2026-08-18"
+    "date1": "2026-08-18",
+    "doNotContact": true,
+    "bounced": true,
+    "bounceDate": "2026-08-18"
   },
   {
     "name": "Pizzaria Nostra Carapicuíba",
