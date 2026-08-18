@@ -1345,5 +1345,19 @@
     "emailSource": "https://www.zaosushi.com.br/",
     "emailVerifiedAt": "2026-08-18",
     "template": "consultivo"
+  },
+  {
+    "name": "Rápido Chopp Taboão da Serra",
+    "email": "vendas@rapidochopp.com.br",
+    "type": "distribuidora",
+    "neighborhood": "Jardim Frei Galvão",
+    "address": "Avenida Intercontinental, 761 - Jardim Frei Galvão - Taboão da Serra/SP - 06753-001",
+    "context": "Distribuidora ativa de chope, cervejas e refrigerantes em Taboão da Serra, com televendas e atendimento comercial próprio.",
+    "phone": "(11) 91347-5323",
+    "website": "https://rapidochopp.com.br/",
+    "emailVerified": true,
+    "emailSource": "https://rapidochopp.com.br/contato/",
+    "emailVerifiedAt": "2026-08-18",
+    "template": "consultivo"
   }
 ]
