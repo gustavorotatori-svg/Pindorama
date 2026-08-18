@@ -35186,5 +35186,61 @@
     "emailSource": "https://www.otaboao2.com/",
     "emailVerifiedAt": "2026-08-18",
     "template": "consultivo"
+  },
+  {
+    "name": "Zao Sushi Taboão",
+    "email": "zaotaboao@gmail.com",
+    "type": "restaurante",
+    "neighborhood": "Jardim Maria Rosa",
+    "address": "Avenida Doutor José Maciel, 658 - Jardim Maria Rosa - Taboão da Serra/SP",
+    "context": "Restaurante japonês ativo em Taboão da Serra, com atendimento diário no almoço e jantar e operação própria de salão.",
+    "phone": "(11) 4701-0201",
+    "website": "https://www.zaosushi.com.br/",
+    "emailVerified": true,
+    "emailSource": "https://www.zaosushi.com.br/",
+    "emailVerifiedAt": "2026-08-18",
+    "template": "consultivo"
+  },
+  {
+    "name": "Rápido Chopp Taboão da Serra",
+    "email": "vendas@rapidochopp.com.br",
+    "type": "distribuidora",
+    "neighborhood": "Jardim Frei Galvão",
+    "address": "Avenida Intercontinental, 761 - Jardim Frei Galvão - Taboão da Serra/SP - 06753-001",
+    "context": "Distribuidora ativa de chope, cervejas e refrigerantes em Taboão da Serra, com televendas e atendimento comercial próprio.",
+    "phone": "(11) 91347-5323",
+    "website": "https://rapidochopp.com.br/",
+    "emailVerified": true,
+    "emailSource": "https://rapidochopp.com.br/contato/",
+    "emailVerifiedAt": "2026-08-18",
+    "template": "consultivo"
+  },
+  {
+    "name": "Adega Caramuru",
+    "email": "distribuidora.caramuru@outlook.com",
+    "type": "adega",
+    "neighborhood": "Centro",
+    "address": "Rua Caramuru, 760-762 - Diadema/SP - 09911-510",
+    "context": "Adega ativa em Diadema, com variedade de bebidas nacionais e importadas e atendimento comercial próprio.",
+    "phone": "(11) 2375-2931",
+    "website": "https://adega-caramuru.webnode.page/",
+    "emailVerified": true,
+    "emailSource": "https://adega-caramuru.webnode.page/",
+    "emailVerifiedAt": "2026-08-18",
+    "template": "consultivo"
+  },
+  {
+    "name": "Boiadeiro Grill Diadema",
+    "email": "contato@boiadeirogrill.com.br",
+    "type": "restaurante",
+    "neighborhood": "Vila Nogueira",
+    "address": "Avenida Doutor Ulysses Guimarães, 4255 - Vila Nogueira - Diadema/SP - 09990-080",
+    "context": "Churrascaria familiar ativa em Diadema, com rodízio, reservas de mesa e estrutura para eventos.",
+    "phone": "(11) 4075-2248",
+    "website": "https://boiadeirogrill.com.br/",
+    "emailVerified": true,
+    "emailSource": "https://boiadeirogrill.com.br/",
+    "emailVerifiedAt": "2026-08-18",
+    "template": "consultivo"
   }
 ]
