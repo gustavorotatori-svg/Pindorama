@@ -34705,7 +34705,9 @@
     "emailVerified": true,
     "emailSource": "https://reidomaltecervejaria.com.br/index.php",
     "emailVerifiedAt": "2026-08-16",
-    "template": "consultivo"
+    "template": "consultivo",
+    "email1": true,
+    "date1": "2026-08-18"
   },
   {
     "name": "Villa BBM Gastrobar",
@@ -35105,6 +35107,48 @@
     "website": "https://deliveryapp.neemo.com.br/delivery/796/menu",
     "emailVerified": true,
     "emailSource": "https://deliveryapp.neemo.com.br/delivery/796/menu",
+    "emailVerifiedAt": "2026-08-18",
+    "template": "consultivo"
+  },
+  {
+    "name": "Restaurante Cantinho do Tempero Jandira",
+    "email": "cantinhodotempero@hotmail.com",
+    "type": "restaurante",
+    "neighborhood": "Vila Santa Rosa",
+    "address": "Rua Joaquim da Silva Lima, 120 - Vila Santa Rosa - Jandira/SP - 06606-155",
+    "context": "Restaurante ativo em Jandira, com salão, retirada, reservas, cardápio de comida brasileira e atendimento também aos fins de semana.",
+    "phone": "(11) 95992-8765",
+    "website": "https://cantinhodotempero2.wixsite.com/restaurantecantinhod",
+    "emailVerified": true,
+    "emailSource": "https://cantinhodotempero2.wixsite.com/restaurantecantinhod",
+    "emailVerifiedAt": "2026-08-18",
+    "template": "consultivo"
+  },
+  {
+    "name": "A Quinta do Mirante",
+    "email": "aquintadomirante@gmail.com",
+    "type": "restaurante",
+    "neighborhood": "Centro",
+    "address": "Rua Minerva, 674 - Santana de Parnaíba/SP - 06514-220",
+    "context": "Restaurante rústico ativo em Santana de Parnaíba, especializado em pratos à la carte, com serviço de almoço e jantar de quinta a domingo.",
+    "phone": "(11) 94838-3010",
+    "website": "https://www.aquintadomirante.com.br/",
+    "emailVerified": true,
+    "emailSource": "https://www.aquintadomirante.com.br/",
+    "emailVerifiedAt": "2026-08-18",
+    "template": "consultivo"
+  },
+  {
+    "name": "Savana Alphaville",
+    "email": "contato@salaosavana.com.br",
+    "type": "buffet",
+    "neighborhood": "Alphaville",
+    "address": "Avenida Alphanorte, 2200 - Alphaville - Santana de Parnaíba/SP",
+    "context": "Espaço de eventos ativo em Alphaville, com buffet próprio, cozinha industrial, salão para grandes celebrações e atendimento consultivo para eventos.",
+    "phone": "(11) 96963-6963",
+    "website": "https://salaosavana.com.br/",
+    "emailVerified": true,
+    "emailSource": "https://salaosavana.com.br/",
     "emailVerifiedAt": "2026-08-18",
     "template": "consultivo"
   }
