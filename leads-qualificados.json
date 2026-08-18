@@ -34867,7 +34867,9 @@
     "emailVerified": true,
     "emailSource": "https://www.area17.com.br/empresa/restaurante-bar/itapevi/alemao-bar---bistro---bar--bistro--restaurante-e-pizzaria-no-amador-bueno--itapevi-sp/59209",
     "emailVerifiedAt": "2026-08-17",
-    "template": "consultivo"
+    "template": "consultivo",
+    "email1": true,
+    "date1": "2026-08-18"
   },
   {
     "name": "Bendita Areia",
@@ -35170,5 +35172,19 @@
     "template": "consultivo",
     "email1": true,
     "date1": "2026-08-18"
+  },
+  {
+    "name": "O Taboão 2 Restaurante e Delivery",
+    "email": "contato@otaboao2.com",
+    "type": "restaurante",
+    "neighborhood": "Parque Pinheiros",
+    "address": "Avenida Paulo Ayres, 470 - Parque Pinheiros - Taboão da Serra/SP - 06767-220",
+    "context": "Restaurante ativo em Taboão da Serra, com salão em praça de alimentação, cardápio próprio e operação estruturada de delivery.",
+    "phone": "(11) 4701-4675",
+    "website": "https://www.otaboao2.com/",
+    "emailVerified": true,
+    "emailSource": "https://www.otaboao2.com/",
+    "emailVerifiedAt": "2026-08-18",
+    "template": "consultivo"
   }
 ]
