@@ -35077,5 +35077,35 @@
     "template": "consultivo",
     "email1": true,
     "date1": "2026-08-17"
+  },
+  {
+    "name": "Colibrí Distribuidora Food Service",
+    "email": "contato@colibridistribuidora.com.br",
+    "type": "distribuidora",
+    "neighborhood": "Presidente Altino",
+    "address": "Avenida José Lopes Lázaro, 393 - Presidente Altino - Osasco/SP - 06210-030",
+    "context": "Distribuidora food service ativa, focada em restaurantes orientais, mercearias e supermercados, com categoria própria de bebidas.",
+    "phone": "(11) 3719-4262",
+    "website": "https://www.colibridistribuidora.com.br/",
+    "emailVerified": true,
+    "emailSource": "https://www.colibridistribuidora.com.br/index.php/fale-conosco",
+    "emailVerifiedAt": "2026-08-17",
+    "template": "consultivo",
+    "email1": true,
+    "date1": "2026-08-18"
+  },
+  {
+    "name": "Pizzaria Nostra Carapicuíba",
+    "email": "wl.2020pizzaria@gmail.com",
+    "type": "restaurante",
+    "neighborhood": "Jardim Primavera",
+    "address": "Estrada da Gabiroba, 670 - Jardim Primavera - Carapicuíba/SP",
+    "context": "Pizzaria e restaurante ativo em Carapicuíba, com operação própria de delivery, programa de fidelidade e atendimento noturno.",
+    "phone": "(11) 4188-7934",
+    "website": "https://deliveryapp.neemo.com.br/delivery/796/menu",
+    "emailVerified": true,
+    "emailSource": "https://deliveryapp.neemo.com.br/delivery/796/menu",
+    "emailVerifiedAt": "2026-08-18",
+    "template": "consultivo"
   }
 ]
