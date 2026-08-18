@@ -34077,7 +34077,9 @@
     "emailVerified": true,
     "emailSource": "https://www.dojaproducoes.com/",
     "emailVerifiedAt": "2026-08-16",
-    "template": "consultivo"
+    "template": "consultivo",
+    "email1": true,
+    "date1": "2026-08-18"
   },
   {
     "name": "DCE Coquetelaria",
@@ -34788,7 +34790,9 @@
     "emailVerified": true,
     "emailSource": "https://www.tortellini.com.br/",
     "emailVerifiedAt": "2026-08-16",
-    "template": "consultivo"
+    "template": "consultivo",
+    "email1": true,
+    "date1": "2026-08-18"
   },
   {
     "name": "O Posto Bar e Restaurante",
@@ -34853,7 +34857,9 @@
     "emailVerified": true,
     "emailSource": "https://restaurantepedrabranca.com.br/jandira2/",
     "emailVerifiedAt": "2026-08-17",
-    "template": "consultivo"
+    "template": "consultivo",
+    "email1": true,
+    "date1": "2026-08-18"
   },
   {
     "name": "Alemão Bar e Bistrô",
@@ -35113,7 +35119,9 @@
     "emailVerified": true,
     "emailSource": "https://deliveryapp.neemo.com.br/delivery/796/menu",
     "emailVerifiedAt": "2026-08-18",
-    "template": "consultivo"
+    "template": "consultivo",
+    "email1": true,
+    "date1": "2026-08-18"
   },
   {
     "name": "Restaurante Cantinho do Tempero Jandira",
@@ -35127,7 +35135,9 @@
     "emailVerified": true,
     "emailSource": "https://cantinhodotempero2.wixsite.com/restaurantecantinhod",
     "emailVerifiedAt": "2026-08-18",
-    "template": "consultivo"
+    "template": "consultivo",
+    "email1": true,
+    "date1": "2026-08-18"
   },
   {
     "name": "A Quinta do Mirante",
@@ -35141,7 +35151,9 @@
     "emailVerified": true,
     "emailSource": "https://www.aquintadomirante.com.br/",
     "emailVerifiedAt": "2026-08-18",
-    "template": "consultivo"
+    "template": "consultivo",
+    "email1": true,
+    "date1": "2026-08-18"
   },
   {
     "name": "Savana Alphaville",
@@ -35185,7 +35197,9 @@
     "emailVerified": true,
     "emailSource": "https://www.otaboao2.com/",
     "emailVerifiedAt": "2026-08-18",
-    "template": "consultivo"
+    "template": "consultivo",
+    "email1": true,
+    "date1": "2026-08-18"
   },
   {
     "name": "Zao Sushi Taboão",
@@ -35199,7 +35213,9 @@
     "emailVerified": true,
     "emailSource": "https://www.zaosushi.com.br/",
     "emailVerifiedAt": "2026-08-18",
-    "template": "consultivo"
+    "template": "consultivo",
+    "email1": true,
+    "date1": "2026-08-18"
   },
   {
     "name": "Rápido Chopp Taboão da Serra",
@@ -35213,7 +35229,9 @@
     "emailVerified": true,
     "emailSource": "https://rapidochopp.com.br/contato/",
     "emailVerifiedAt": "2026-08-18",
-    "template": "consultivo"
+    "template": "consultivo",
+    "email1": true,
+    "date1": "2026-08-18"
   },
   {
     "name": "Adega Caramuru",
@@ -35227,7 +35245,9 @@
     "emailVerified": true,
     "emailSource": "https://adega-caramuru.webnode.page/",
     "emailVerifiedAt": "2026-08-18",
-    "template": "consultivo"
+    "template": "consultivo",
+    "email1": true,
+    "date1": "2026-08-18"
   },
   {
     "name": "Boiadeiro Grill Diadema",
@@ -35241,7 +35261,9 @@
     "emailVerified": true,
     "emailSource": "https://boiadeirogrill.com.br/",
     "emailVerifiedAt": "2026-08-18",
-    "template": "consultivo"
+    "template": "consultivo",
+    "email1": true,
+    "date1": "2026-08-18"
   },
   {
     "name": "Rosso Pizza",
@@ -35255,7 +35277,9 @@
     "emailVerified": true,
     "emailSource": "https://rossopizza.com.br/contact/",
     "emailVerifiedAt": "2026-08-18",
-    "template": "consultivo"
+    "template": "consultivo",
+    "email1": true,
+    "date1": "2026-08-18"
   },
   {
     "name": "Gaia Restaurante",
@@ -35269,6 +35293,8 @@
     "emailVerified": true,
     "emailSource": "https://gaiarestaurante.com.br/",
     "emailVerifiedAt": "2026-08-18",
-    "template": "consultivo"
+    "template": "consultivo",
+    "email1": true,
+    "date1": "2026-08-18"
   }
 ]
