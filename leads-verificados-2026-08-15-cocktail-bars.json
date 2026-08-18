@@ -1359,5 +1359,19 @@
     "emailSource": "https://rapidochopp.com.br/contato/",
     "emailVerifiedAt": "2026-08-18",
     "template": "consultivo"
+  },
+  {
+    "name": "Adega Caramuru",
+    "email": "distribuidora.caramuru@outlook.com",
+    "type": "adega",
+    "neighborhood": "Centro",
+    "address": "Rua Caramuru, 760-762 - Diadema/SP - 09911-510",
+    "context": "Adega ativa em Diadema, com variedade de bebidas nacionais e importadas e atendimento comercial próprio.",
+    "phone": "(11) 2375-2931",
+    "website": "https://adega-caramuru.webnode.page/",
+    "emailVerified": true,
+    "emailSource": "https://adega-caramuru.webnode.page/",
+    "emailVerifiedAt": "2026-08-18",
+    "template": "consultivo"
   }
 ]
