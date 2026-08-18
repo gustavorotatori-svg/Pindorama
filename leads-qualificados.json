@@ -34674,7 +34674,10 @@
     "emailVerifiedAt": "2026-08-16",
     "template": "consultivo",
     "email1": true,
-    "date1": "2026-08-17"
+    "date1": "2026-08-17",
+    "doNotContact": true,
+    "bounced": true,
+    "bounceDate": "2026-08-17"
   },
   {
     "name": "Cervejaria Rei do Malte",
@@ -34736,7 +34739,10 @@
     "emailVerifiedAt": "2026-08-16",
     "template": "consultivo",
     "email1": true,
-    "date1": "2026-08-17"
+    "date1": "2026-08-17",
+    "doNotContact": true,
+    "bounced": true,
+    "bounceDate": "2026-08-17"
   },
   {
     "name": "Beco Alfas",
