@@ -1443,5 +1443,19 @@
     "emailSource": "https://www.lsgastronomia.com.br/",
     "emailVerifiedAt": "2026-08-18",
     "template": "consultivo"
+  },
+  {
+    "name": "Fahrenheit JK Iguatemi",
+    "email": "marketing@restf.com.br",
+    "type": "restaurante",
+    "neighborhood": "Vila Olimpia",
+    "address": "Avenida Presidente Juscelino Kubitschek, 2041 - Shopping JK Iguatemi, 3o piso - Vila Olimpia - Sao Paulo/SP - 04543-011",
+    "context": "Restaurante e bar ativo no Shopping JK Iguatemi, com carta de drinks autorais e operacao de alto padrao; atividade confirmada pelo site oficial e por publicacoes recentes de 2026.",
+    "phone": "(11) 3152-6040",
+    "website": "https://www.fahrenheitrestaurante.com.br/",
+    "emailVerified": true,
+    "emailSource": "https://www.tripadvisor.com.br/Restaurant_Review-g303631-d24038984-Reviews-Restaurante_Fahrenheit-Sao_Paulo_State_of_Sao_Paulo.html",
+    "emailVerifiedAt": "2026-08-18",
+    "template": "consultivo"
   }
 ]
