@@ -35279,7 +35279,10 @@
     "emailVerifiedAt": "2026-08-18",
     "template": "consultivo",
     "email1": true,
-    "date1": "2026-08-18"
+    "date1": "2026-08-18",
+    "doNotContact": true,
+    "bounced": true,
+    "bounceDate": "2026-08-18"
   },
   {
     "name": "Gaia Restaurante",
