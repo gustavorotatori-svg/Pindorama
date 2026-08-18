@@ -1401,5 +1401,19 @@
     "emailSource": "https://rossopizza.com.br/contact/",
     "emailVerifiedAt": "2026-08-18",
     "template": "consultivo"
+  },
+  {
+    "name": "Gaia Restaurante",
+    "email": "contato@gaiarestaurante.com.br",
+    "type": "restaurante",
+    "neighborhood": "Demarchi",
+    "address": "Rua Mateos Demarchi, 145 - Demarchi - São Bernardo do Campo/SP",
+    "context": "Restaurante tradicional ativo desde 1977 em São Bernardo do Campo, com culinária brasileira e atendimento comercial próprio.",
+    "phone": "(11) 4396-5606",
+    "website": "https://gaiarestaurante.com.br/",
+    "emailVerified": true,
+    "emailSource": "https://gaiarestaurante.com.br/",
+    "emailVerifiedAt": "2026-08-18",
+    "template": "consultivo"
   }
 ]
