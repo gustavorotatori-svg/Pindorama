@@ -1373,5 +1373,19 @@
     "emailSource": "https://adega-caramuru.webnode.page/",
     "emailVerifiedAt": "2026-08-18",
     "template": "consultivo"
+  },
+  {
+    "name": "Boiadeiro Grill Diadema",
+    "email": "contato@boiadeirogrill.com.br",
+    "type": "restaurante",
+    "neighborhood": "Vila Nogueira",
+    "address": "Avenida Doutor Ulysses Guimarães, 4255 - Vila Nogueira - Diadema/SP - 09990-080",
+    "context": "Churrascaria familiar ativa em Diadema, com rodízio, reservas de mesa e estrutura para eventos.",
+    "phone": "(11) 4075-2248",
+    "website": "https://boiadeirogrill.com.br/",
+    "emailVerified": true,
+    "emailSource": "https://boiadeirogrill.com.br/",
+    "emailVerifiedAt": "2026-08-18",
+    "template": "consultivo"
   }
 ]
