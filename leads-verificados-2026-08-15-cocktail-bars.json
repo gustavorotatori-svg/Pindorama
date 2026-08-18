@@ -1289,5 +1289,19 @@
     "emailSource": "https://www.aquintadomirante.com.br/",
     "emailVerifiedAt": "2026-08-18",
     "template": "consultivo"
+  },
+  {
+    "name": "Savana Alphaville",
+    "email": "contato@salaosavana.com.br",
+    "type": "buffet",
+    "neighborhood": "Alphaville",
+    "address": "Avenida Alphanorte, 2200 - Alphaville - Santana de Parnaíba/SP",
+    "context": "Espaço de eventos ativo em Alphaville, com buffet próprio, cozinha industrial, salão para grandes celebrações e atendimento consultivo para eventos.",
+    "phone": "(11) 96963-6963",
+    "website": "https://salaosavana.com.br/",
+    "emailVerified": true,
+    "emailSource": "https://salaosavana.com.br/",
+    "emailVerifiedAt": "2026-08-18",
+    "template": "consultivo"
   }
 ]
