@@ -33982,7 +33982,9 @@
     "emailVerified": true,
     "emailSource": "https://primalbartenders.com/",
     "emailVerifiedAt": "2026-08-16",
-    "template": "consultivo"
+    "template": "consultivo",
+    "email1": true,
+    "date1": "2026-08-18"
   },
   {
     "name": "Drinks Bartender",
@@ -34259,7 +34261,9 @@
     "emailVerified": true,
     "emailSource": "https://santaocabar.com.br/",
     "emailVerifiedAt": "2026-08-16",
-    "template": "consultivo"
+    "template": "consultivo",
+    "email1": true,
+    "date1": "2026-08-18"
   },
   {
     "name": "Urbana Coquetelaria",
@@ -34335,7 +34339,9 @@
     "emailVerified": true,
     "emailSource": "https://mrcocktaileventos.com/",
     "emailVerifiedAt": "2026-08-16",
-    "template": "consultivo"
+    "template": "consultivo",
+    "email1": true,
+    "date1": "2026-08-18"
   },
   {
     "name": "Canto Wine Bar & Take Away",
