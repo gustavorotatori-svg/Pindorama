@@ -1233,5 +1233,19 @@
     "emailSource": "https://www.tacacheia.com/contato",
     "emailVerifiedAt": "2026-08-17",
     "template": "consultivo"
+  },
+  {
+    "name": "Colibrí Distribuidora Food Service",
+    "email": "contato@colibridistribuidora.com.br",
+    "type": "distribuidora",
+    "neighborhood": "Presidente Altino",
+    "address": "Avenida José Lopes Lázaro, 393 - Presidente Altino - Osasco/SP - 06210-030",
+    "context": "Distribuidora food service ativa, focada em restaurantes orientais, mercearias e supermercados, com categoria própria de bebidas.",
+    "phone": "(11) 3719-4262",
+    "website": "https://www.colibridistribuidora.com.br/",
+    "emailVerified": true,
+    "emailSource": "https://www.colibridistribuidora.com.br/index.php/fale-conosco",
+    "emailVerifiedAt": "2026-08-17",
+    "template": "consultivo"
   }
 ]
