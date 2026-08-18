@@ -25,11 +25,19 @@ const SUPPRESSED_EMAILS = new Set(load(SUPPRESSED_EMAILS_FILE).map(email => Stri
 function today() { const d = new Date(); d.setMinutes(d.getMinutes() - d.getTimezoneOffset()); return d.toISOString().split('T')[0]; }
 function daysAgo(dateStr, days) { const d = new Date(dateStr); d.setDate(d.getDate() + days); return d.toISOString().split('T')[0]; }
 
-function validateDNS(email) {
+function validateDNS(email, attempt = 1) {
   return new Promise(resolve => {
     const domain = email.split('@')[1];
     if (!domain) return resolve(false);
-    dns.resolveMx(domain, (err, mx) => resolve(!err && mx && mx.length > 0));
+    dns.resolveMx(domain, (err, mx) => {
+      if (!err && mx && mx.length > 0) return resolve(true);
+      if (attempt < 3) {
+        const delayMs = attempt * 1000;
+        setTimeout(() => resolve(validateDNS(email, attempt + 1)), delayMs);
+        return;
+      }
+      resolve(false);
+    });
   });
 }
 
