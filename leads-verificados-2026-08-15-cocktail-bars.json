@@ -1247,5 +1247,19 @@
     "emailSource": "https://www.colibridistribuidora.com.br/index.php/fale-conosco",
     "emailVerifiedAt": "2026-08-17",
     "template": "consultivo"
+  },
+  {
+    "name": "Pizzaria Nostra Carapicuíba",
+    "email": "wl.2020pizzaria@gmail.com",
+    "type": "restaurante",
+    "neighborhood": "Jardim Primavera",
+    "address": "Estrada da Gabiroba, 670 - Jardim Primavera - Carapicuíba/SP",
+    "context": "Pizzaria e restaurante ativo em Carapicuíba, com operação própria de delivery, programa de fidelidade e atendimento noturno.",
+    "phone": "(11) 4188-7934",
+    "website": "https://deliveryapp.neemo.com.br/delivery/796/menu",
+    "emailVerified": true,
+    "emailSource": "https://deliveryapp.neemo.com.br/delivery/796/menu",
+    "emailVerifiedAt": "2026-08-18",
+    "template": "consultivo"
   }
 ]
