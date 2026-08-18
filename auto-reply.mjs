@@ -67,6 +67,8 @@ const imapConfig = {
   port: 993,
   tls: true,
   tlsOptions: { rejectUnauthorized: false },
+  connTimeout: 30000,
+  authTimeout: 30000,
 };
 
 const transporter = nodemailer.createTransport({
@@ -213,7 +215,7 @@ Gustavo${signature}`;
   return null;
 }
 
-function checkEmails() {
+function checkEmails(attempt = 1) {
   const imap = new Imap(imapConfig);
 
   imap.once('ready', () => {
@@ -347,6 +349,14 @@ function checkEmails() {
 
   imap.once('error', (err) => {
     console.error('Erro IMAP:', err);
+    if (attempt < 3) {
+      const delayMs = attempt * 5000;
+      console.log(`RETRY IMAP: tentativa ${attempt + 1}/3 em ${delayMs / 1000}s`);
+      setTimeout(() => checkEmails(attempt + 1), delayMs);
+      return;
+    }
+    console.error('ERRO IMAP PERSISTENTE: 3 tentativas sem autenticar; workflow marcado como falha.');
+    process.exitCode = 1;
   });
 
   imap.connect();
