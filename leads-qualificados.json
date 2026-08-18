@@ -35299,5 +35299,33 @@
     "template": "consultivo",
     "email1": true,
     "date1": "2026-08-18"
+  },
+  {
+    "name": "Cantinho do Luiz",
+    "email": "contato@cantinhodoluiz.com.br",
+    "type": "restaurante",
+    "neighborhood": "Riacho Grande",
+    "address": "Avenida Amazonas, 168 - Riacho Grande - São Bernardo do Campo/SP",
+    "context": "Restaurante tradicional ativo desde 1969, com seis ambientes e cardápio próprio de coquetéis, caipirinhas, destilados, vinhos e cervejas.",
+    "phone": "(11) 4354-0311",
+    "website": "https://cantinhodoluiz.com.br/",
+    "emailVerified": true,
+    "emailSource": "https://cantinhodoluiz.com.br/?page_id=10",
+    "emailVerifiedAt": "2026-08-18",
+    "template": "consultivo"
+  },
+  {
+    "name": "Le Sorelle Gastronomia",
+    "email": "contato@lsgastronomia.com.br",
+    "type": "restaurante",
+    "neighborhood": "São Bernardo do Campo",
+    "address": "São Bernardo do Campo/SP",
+    "context": "Operação gastronômica ativa em São Bernardo do Campo, com refeições, pratos executivos e festivais corporativos, mantendo atendimento comercial próprio.",
+    "phone": "(11) 93323-1902",
+    "website": "https://www.lsgastronomia.com.br/",
+    "emailVerified": true,
+    "emailSource": "https://www.lsgastronomia.com.br/",
+    "emailVerifiedAt": "2026-08-18",
+    "template": "consultivo"
   }
 ]
