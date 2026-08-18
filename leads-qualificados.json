@@ -35154,5 +35154,21 @@
     "emailSource": "https://salaosavana.com.br/",
     "emailVerifiedAt": "2026-08-18",
     "template": "consultivo"
+  },
+  {
+    "name": "Pacha Pizza Bar",
+    "email": "contato@pachabar.com.br",
+    "type": "bar",
+    "neighborhood": "Jardim Bontempo",
+    "address": "Rua Elizabetta Lips, 11 - Jardim Bontempo - Taboão da Serra/SP - 06763-190",
+    "context": "Pizza bar ativo em Taboão da Serra, com serviço de salão, reservas, pedidos no balcão e cardápio próprio de bar e pizzaria.",
+    "phone": "(11) 94719-1645",
+    "website": "https://www.pachabar.com.br/",
+    "emailVerified": true,
+    "emailSource": "https://www.pachabar.com.br/contato/",
+    "emailVerifiedAt": "2026-08-18",
+    "template": "consultivo",
+    "email1": true,
+    "date1": "2026-08-18"
   }
 ]
