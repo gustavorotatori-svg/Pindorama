@@ -33594,7 +33594,9 @@
     "neighborhood": "",
     "template": "prova_social",
     "email1": true,
-    "date1": "2026-08-15"
+    "date1": "2026-08-15",
+    "email2": true,
+    "date2": "2026-08-19"
   },
   {
     "name": "Distribuidora de Bebidas JG",
