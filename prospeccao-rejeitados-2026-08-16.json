@@ -87,5 +87,13 @@
     "source": "https://solarabar.com.br/dia-internacional-da-margarita-tres-versoes-para-comemorar-a-data",
     "discoverySource": "https://www.tripadvisor.com.br/Restaurant_Review-g303631-d24840428-Reviews-Solara_Bar-Sao_Paulo_State_of_Sao_Paulo.html",
     "reason": "bar de alta coquetelaria com email explicitamente publicado no site oficial e aderencia confirmada, mas o dominio solarabar.com.br nao possui registro MX; rejeitado por seguranca para evitar erro SMTP"
+  },
+  {
+    "checkedAt": "2026-08-18T21:50:30-03:00",
+    "name": "B.A.R. - Bar Arte Restaurante",
+    "email": "contato@bararterestaurante.com.br",
+    "source": "https://www.baressp.com.br/bares/bar-bar-arte-restaurante",
+    "discoverySource": "https://www.tripadvisor.com.br/Restaurant_Review-g303631-d12635493-Reviews-B_A_R_Arte_Restaurante-Sao_Paulo_State_of_Sao_Paulo.html",
+    "reason": "perfil do Tripadvisor ainda exibe horarios, mas fonte especializada marca o estabelecimento como fechado e nao ha evidencia recente confiavel de operacao ativa; rejeitado por seguranca comercial"
   }
 ]
