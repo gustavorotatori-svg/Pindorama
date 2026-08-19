@@ -33413,7 +33413,9 @@
     "email1": true,
     "date1": "2026-08-14",
     "email2": true,
-    "date2": "2026-08-15"
+    "date2": "2026-08-15",
+    "email3": true,
+    "date3": "2026-08-19"
   },
   {
     "name": "Adega 33",
@@ -33452,7 +33454,9 @@
     "email1": true,
     "date1": "2026-08-14",
     "email2": true,
-    "date2": "2026-08-15"
+    "date2": "2026-08-15",
+    "email3": true,
+    "date3": "2026-08-19"
   },
   {
     "name": "Buffet Uriel",
@@ -33470,7 +33474,9 @@
     "email1": true,
     "date1": "2026-08-14",
     "email2": true,
-    "date2": "2026-08-15"
+    "date2": "2026-08-15",
+    "email3": true,
+    "date3": "2026-08-19"
   },
   {
     "name": "Amiiici",
@@ -33509,7 +33515,9 @@
     "email1": true,
     "date1": "2026-08-14",
     "email2": true,
-    "date2": "2026-08-15"
+    "date2": "2026-08-15",
+    "email3": true,
+    "date3": "2026-08-19"
   },
   {
     "name": "Le Roof",
