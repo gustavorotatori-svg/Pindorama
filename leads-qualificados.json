@@ -33293,7 +33293,9 @@
     "email1": true,
     "date1": "2026-08-13",
     "email2": true,
-    "date2": "2026-08-15"
+    "date2": "2026-08-15",
+    "email3": true,
+    "date3": "2026-08-18"
   },
   {
     "name": "Fancy Bar",
@@ -33311,7 +33313,9 @@
     "email1": true,
     "date1": "2026-08-13",
     "email2": true,
-    "date2": "2026-08-15"
+    "date2": "2026-08-15",
+    "email3": true,
+    "date3": "2026-08-18"
   },
   {
     "name": "Sarau Bar",
@@ -33329,7 +33333,9 @@
     "email1": true,
     "date1": "2026-08-13",
     "email2": true,
-    "date2": "2026-08-15"
+    "date2": "2026-08-15",
+    "email3": true,
+    "date3": "2026-08-18"
   },
   {
     "name": "Lupe Bar e Restaurante",
@@ -33347,7 +33353,9 @@
     "email1": true,
     "date1": "2026-08-13",
     "email2": true,
-    "date2": "2026-08-15"
+    "date2": "2026-08-15",
+    "email3": true,
+    "date3": "2026-08-18"
   },
   {
     "name": "Pepper Drinks",
@@ -33365,7 +33373,9 @@
     "email1": true,
     "date1": "2026-08-14",
     "email2": true,
-    "date2": "2026-08-15"
+    "date2": "2026-08-15",
+    "email3": true,
+    "date3": "2026-08-18"
   },
   {
     "name": "Gaspar Bar e Praça",
@@ -33383,7 +33393,9 @@
     "email1": true,
     "date1": "2026-08-14",
     "email2": true,
-    "date2": "2026-08-15"
+    "date2": "2026-08-15",
+    "email3": true,
+    "date3": "2026-08-18"
   },
   {
     "name": "DOPA Bar",
@@ -34549,7 +34561,9 @@
     "emailVerified": true,
     "emailSource": "https://recantosantarita.com.br/blog/",
     "emailVerifiedAt": "2026-08-16",
-    "template": "consultivo"
+    "template": "consultivo",
+    "email1": true,
+    "date1": "2026-08-18"
   },
   {
     "name": "Barman Para Festas",
@@ -35170,7 +35184,9 @@
     "emailVerified": true,
     "emailSource": "https://salaosavana.com.br/",
     "emailVerifiedAt": "2026-08-18",
-    "template": "consultivo"
+    "template": "consultivo",
+    "email1": true,
+    "date1": "2026-08-18"
   },
   {
     "name": "Pacha Pizza Bar",
@@ -35315,7 +35331,9 @@
     "emailVerified": true,
     "emailSource": "https://cantinhodoluiz.com.br/?page_id=10",
     "emailVerifiedAt": "2026-08-18",
-    "template": "consultivo"
+    "template": "consultivo",
+    "email1": true,
+    "date1": "2026-08-18"
   },
   {
     "name": "Le Sorelle Gastronomia",
@@ -35329,7 +35347,9 @@
     "emailVerified": true,
     "emailSource": "https://www.lsgastronomia.com.br/",
     "emailVerifiedAt": "2026-08-18",
-    "template": "consultivo"
+    "template": "consultivo",
+    "email1": true,
+    "date1": "2026-08-18"
   },
   {
     "name": "Fahrenheit JK Iguatemi",
@@ -35343,6 +35363,8 @@
     "emailVerified": true,
     "emailSource": "https://www.tripadvisor.com.br/Restaurant_Review-g303631-d24038984-Reviews-Restaurante_Fahrenheit-Sao_Paulo_State_of_Sao_Paulo.html",
     "emailVerifiedAt": "2026-08-18",
-    "template": "consultivo"
+    "template": "consultivo",
+    "email1": true,
+    "date1": "2026-08-18"
   }
 ]
