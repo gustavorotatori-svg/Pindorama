@@ -33535,7 +33535,9 @@
     "email1": true,
     "date1": "2026-08-14",
     "email2": true,
-    "date2": "2026-08-15"
+    "date2": "2026-08-15",
+    "email3": true,
+    "date3": "2026-08-19"
   },
   {
     "name": "Yo Ho Pub",
@@ -33553,7 +33555,9 @@
     "email1": true,
     "date1": "2026-08-14",
     "email2": true,
-    "date2": "2026-08-15"
+    "date2": "2026-08-15",
+    "email3": true,
+    "date3": "2026-08-19"
   },
   {
     "name": "Clube Outs",
@@ -33572,7 +33576,9 @@
     "email1": true,
     "date1": "2026-08-14",
     "email2": true,
-    "date2": "2026-08-15"
+    "date2": "2026-08-15",
+    "email3": true,
+    "date3": "2026-08-19"
   },
   {
     "name": "Forcato Commerce",
