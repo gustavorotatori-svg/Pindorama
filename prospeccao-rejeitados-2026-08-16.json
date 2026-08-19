@@ -71,5 +71,13 @@
     "source": "https://www.marriott.com/pt-br/dining/restaurant-bar/saobr-renaissance-sao-paulo-hotel/114321-living-lounge-bar-sushi.mi",
     "discoverySource": "https://www.tripadvisor.com.br/Restaurant_Review-g303631-d7708534-Reviews-LIVING_LOUNGE_BAR_SUSHI-Sao_Paulo_State_of_Sao_Paulo.html",
     "reason": "estabelecimento ativo e aderente, mas a pagina oficial expoe apenas o email do Terraco Jardins, destinatario ja cadastrado; rejeitado por deduplicacao e ausencia de email oficial exclusivo para o Living Lounge"
+  },
+  {
+    "checkedAt": "2026-08-18T21:20:06-03:00",
+    "name": "Cineclube Cortina",
+    "email": "corporativo@cineclubecortina.com.br",
+    "source": "https://br.linkedin.com/company/cortinasp",
+    "discoverySource": "https://www.tripadvisor.com.br/Attraction_Review-g303631-d24875944-Reviews-Cineclube_Cortina-Sao_Paulo_State_of_Sao_Paulo.html",
+    "reason": "bar, restaurante e casa noturna ativos, com email corporativo publicado pela empresa em fonte recente e MX valido, mas entidade e destinatario ja constam no cadastro; rejeitado por deduplicacao"
   }
 ]
