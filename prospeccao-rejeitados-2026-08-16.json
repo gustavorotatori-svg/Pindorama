@@ -63,5 +63,13 @@
     "source": "https://www.baressp.com.br/bares/ipo-bar",
     "discoverySource": "https://www.tripadvisor.com.br/Restaurant_Review-g303631-d10593270-Reviews-IPo_Bar-Sao_Paulo_State_of_Sao_Paulo.html",
     "reason": "bar de coquetelaria ativo, email publicado em fonte recente e MX valido, mas a entidade e o destinatario ja constam no cadastro; rejeitado por deduplicacao"
+  },
+  {
+    "checkedAt": "2026-08-18T20:56:10-03:00",
+    "name": "Living Lounge Bar & Sushi",
+    "email": "terraco.jardins@marriott.com",
+    "source": "https://www.marriott.com/pt-br/dining/restaurant-bar/saobr-renaissance-sao-paulo-hotel/114321-living-lounge-bar-sushi.mi",
+    "discoverySource": "https://www.tripadvisor.com.br/Restaurant_Review-g303631-d7708534-Reviews-LIVING_LOUNGE_BAR_SUSHI-Sao_Paulo_State_of_Sao_Paulo.html",
+    "reason": "estabelecimento ativo e aderente, mas a pagina oficial expoe apenas o email do Terraco Jardins, destinatario ja cadastrado; rejeitado por deduplicacao e ausencia de email oficial exclusivo para o Living Lounge"
   }
 ]
