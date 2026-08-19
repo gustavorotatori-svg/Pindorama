@@ -79,5 +79,13 @@
     "source": "https://br.linkedin.com/company/cortinasp",
     "discoverySource": "https://www.tripadvisor.com.br/Attraction_Review-g303631-d24875944-Reviews-Cineclube_Cortina-Sao_Paulo_State_of_Sao_Paulo.html",
     "reason": "bar, restaurante e casa noturna ativos, com email corporativo publicado pela empresa em fonte recente e MX valido, mas entidade e destinatario ja constam no cadastro; rejeitado por deduplicacao"
+  },
+  {
+    "checkedAt": "2026-08-18T21:35:30-03:00",
+    "name": "Solara Bar",
+    "email": "oi@solarabar.com.br",
+    "source": "https://solarabar.com.br/dia-internacional-da-margarita-tres-versoes-para-comemorar-a-data",
+    "discoverySource": "https://www.tripadvisor.com.br/Restaurant_Review-g303631-d24840428-Reviews-Solara_Bar-Sao_Paulo_State_of_Sao_Paulo.html",
+    "reason": "bar de alta coquetelaria com email explicitamente publicado no site oficial e aderencia confirmada, mas o dominio solarabar.com.br nao possui registro MX; rejeitado por seguranca para evitar erro SMTP"
   }
 ]
