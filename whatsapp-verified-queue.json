@@ -64,5 +64,16 @@
     "verifiedAt": "2026-08-20",
     "notBefore": "2026-08-22",
     "status": "queued"
+  },
+  {
+    "name": "Sampa Adega",
+    "phone": "(11) 98402-3929",
+    "type": "adega",
+    "city": "Sao Paulo",
+    "source": "https://www.sampaadega.com.br/",
+    "evidence": "Site oficial ativo publica diretamente o WhatsApp comercial, o email da empresa e o endereco fisico da adega na Vila Ema.",
+    "verifiedAt": "2026-08-20",
+    "notBefore": "2026-08-22",
+    "status": "queued"
   }
 ]
