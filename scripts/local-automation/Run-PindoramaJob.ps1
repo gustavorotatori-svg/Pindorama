@@ -1,20 +1,23 @@
-param([Parameter(Mandatory = $true)][ValidateSet('pipeline', 'auto-reply', 'weekly-report')][string]$Job)
+param([Parameter(Mandatory = $true)][ValidateSet('pipeline', 'auto-reply', 'weekly-report', 'whatsapp')][string]$Job)
 $ErrorActionPreference = 'Stop'
 $projectDir = (Resolve-Path (Join-Path $PSScriptRoot '..\..')).Path
 $runtimeDir = Join-Path $projectDir '.local-automation'
 $credentialFile = Join-Path $runtimeDir 'gmail-credential.xml'
 $logDir = Join-Path $runtimeDir 'logs'
 New-Item -ItemType Directory -Force -Path $logDir | Out-Null
-$mutex = [Threading.Mutex]::new($false, 'Local\PindoramaEmailAutomation')
+$mutexName = if ($Job -eq 'whatsapp') { 'Local\PindoramaWhatsAppAutomation' } else { 'Local\PindoramaEmailAutomation' }
+$mutex = [Threading.Mutex]::new($false, $mutexName)
 if (-not $mutex.WaitOne(0)) { exit 0 }
 $logFile = Join-Path $logDir ("{0}-{1}.log" -f $Job, (Get-Date -Format 'yyyy-MM-dd_HHmmss'))
 $plainPassword = $null; $bstr = [IntPtr]::Zero
 try {
-  if (-not (Test-Path -LiteralPath $credentialFile)) { throw 'Credencial local ausente. Execute o instalador.' }
-  $credential = Import-Clixml -LiteralPath $credentialFile
-  $bstr = [Runtime.InteropServices.Marshal]::SecureStringToBSTR($credential.Password)
-  $plainPassword = [Runtime.InteropServices.Marshal]::PtrToStringBSTR($bstr)
-  $env:GMAIL_USER = $credential.UserName; $env:GMAIL_APP_PASSWORD = $plainPassword
+  if ($Job -ne 'whatsapp') {
+    if (-not (Test-Path -LiteralPath $credentialFile)) { throw 'Credencial local ausente. Execute o instalador.' }
+    $credential = Import-Clixml -LiteralPath $credentialFile
+    $bstr = [Runtime.InteropServices.Marshal]::SecureStringToBSTR($credential.Password)
+    $plainPassword = [Runtime.InteropServices.Marshal]::PtrToStringBSTR($bstr)
+    $env:GMAIL_USER = $credential.UserName; $env:GMAIL_APP_PASSWORD = $plainPassword
+  }
   $env:EMAIL_LIMIT_24H = '35'; $env:TZ = 'America/Sao_Paulo'
   Set-Location -LiteralPath $projectDir
   "$(Get-Date -Format o) START $Job" | Tee-Object -FilePath $logFile
@@ -26,9 +29,11 @@ try {
     & node metrics.mjs 2>&1 | Tee-Object -FilePath $logFile -Append; if ($LASTEXITCODE -ne 0) { throw 'Falha nas metricas.' }
   } elseif ($Job -eq 'auto-reply') {
     & node auto-reply.mjs 2>&1 | Tee-Object -FilePath $logFile -Append; if ($LASTEXITCODE -ne 0) { throw 'Falha no auto-reply.' }
-  } else {
+  } elseif ($Job -eq 'weekly-report') {
     & node weekly-report.mjs 2>&1 | Tee-Object -FilePath $logFile -Append; if ($LASTEXITCODE -ne 0) { throw 'Falha ao gerar relatorio.' }
     & node enviar-relatorio.mjs 2>&1 | Tee-Object -FilePath $logFile -Append; if ($LASTEXITCODE -ne 0) { throw 'Falha ao enviar relatorio.' }
+  } else {
+    & node send-whatsapp-verified-batch.mjs 2>&1 | Tee-Object -FilePath $logFile -Append; if ($LASTEXITCODE -ne 0) { throw 'Falha no lote inicial de WhatsApp.' }
   }
   "$(Get-Date -Format o) OK $Job" | Tee-Object -FilePath $logFile -Append
 } catch { "$(Get-Date -Format o) ERROR $Job - $($_.Exception.Message)" | Tee-Object -FilePath $logFile -Append; exit 1

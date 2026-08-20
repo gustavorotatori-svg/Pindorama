@@ -14,18 +14,12 @@ if (!['Mon', 'Tue', 'Wed', 'Thu', 'Fri', 'Sat'].includes(parts.weekday) || hour 
   process.exit(0);
 }
 
-const targets = [
-  { name: 'Seen Restaurant & Bar', phone: '+55 11 91635-3751', source: 'https://seensp.com/sobre-nos/' },
-  { name: 'Adega Empório Mais Bebidas', phone: '(11) 94890-6829', source: 'https://adega-emporio-mais-bebidas.ueniweb.com/' },
-  { name: '1966 PUB & Cocktail Bar', phone: '(11) 94559-1360', source: 'https://www.1966pub.com.br/' },
-  { name: 'Bar2Go', phone: '(11) 98792-6744', source: 'https://bar2go.com.br/' },
-  { name: 'The Black Horse', phone: '(11) 99186-6930', source: 'https://theblackhorse.com.br/' }
-];
-
 const leadsFile = 'leads-qualificados.json';
 const logFile = 'whatsapp-send-log.json';
+const queueFile = 'whatsapp-verified-queue.json';
 const leads = JSON.parse(readFileSync(leadsFile, 'utf8'));
 const log = existsSync(logFile) ? JSON.parse(readFileSync(logFile, 'utf8')) : [];
+const targets = existsSync(queueFile) ? JSON.parse(readFileSync(queueFile, 'utf8')) : [];
 const alreadyToday = log.filter((entry) => entry.date === today && entry.status === 'accepted').length;
 if (alreadyToday >= LIMIT) {
   console.log(`LIMITE DIARIO WhatsApp atingido (${alreadyToday}/${LIMIT}).`);
@@ -40,7 +34,8 @@ const normalize = (phone) => {
 const eligible = targets.filter((target) => {
   const lead = leads.find((item) => item.name === target.name);
   const everMessaged = log.some((entry) => entry.name === target.name && entry.status === 'accepted');
-  return lead && !lead.whatsappSent && !everMessaged && !lead.doNotContact && !lead.bounced && target.source.startsWith('https://');
+  const suppressed = lead && (lead.whatsappSent || lead.doNotContact || lead.bounced);
+  return target.status === 'queued' && target.notBefore <= today && !everMessaged && !suppressed && target.source.startsWith('https://');
 });
 
 if (!eligible.length) {
@@ -69,11 +64,16 @@ for (const target of eligible) {
   const result = await sendText(`${number}@s.whatsapp.net`, message);
   const messageId = result?.key?.id || null;
   const lead = leads.find((item) => item.name === target.name);
-  lead.whatsappSent = true;
-  lead.whatsappDate = today;
-  lead.whatsappSource = target.source;
+  if (lead) {
+    lead.whatsappSent = true;
+    lead.whatsappDate = today;
+    lead.whatsappSource = target.source;
+  }
+  target.status = 'sent';
+  target.sentAt = new Date().toISOString();
   log.push({ date: today, acceptedAt: new Date().toISOString(), status: 'accepted', name: target.name, phone: target.phone, source: target.source, messageId });
   writeFileSync(leadsFile, JSON.stringify(leads, null, 2));
+  writeFileSync(queueFile, JSON.stringify(targets, null, 2));
   writeFileSync(logFile, JSON.stringify(log, null, 2));
   console.log(`WHATSAPP OK: ${target.name} <${target.phone}> id=${messageId}`);
   sent++;
