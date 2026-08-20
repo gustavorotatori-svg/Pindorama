@@ -39,7 +39,8 @@ const normalize = (phone) => {
 };
 const eligible = targets.filter((target) => {
   const lead = leads.find((item) => item.name === target.name);
-  return lead && !lead.whatsappSent && !lead.doNotContact && !lead.bounced && target.source.startsWith('https://');
+  const everMessaged = log.some((entry) => entry.name === target.name && entry.status === 'accepted');
+  return lead && !lead.whatsappSent && !everMessaged && !lead.doNotContact && !lead.bounced && target.source.startsWith('https://');
 });
 
 if (!eligible.length) {

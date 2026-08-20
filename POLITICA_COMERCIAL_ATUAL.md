@@ -9,6 +9,8 @@ Fonte de verdade atualizada pelo usuário em 07/08/2026. Esta política prevalec
 - WhatsApp: máximo de 4 mensagens por dia neste projeto.
 - WhatsApp somente de segunda a sábado, das 09:00 às 20:00, fuso `America/Sao_Paulo`.
 - Nunca enviar WhatsApp aos domingos ou fora da janela permitida.
+- WhatsApp é somente para a primeira abordagem: no máximo uma mensagem por empresa.
+- Nunca responder automaticamente nem fazer follow-up por WhatsApp. Se o destinatário responder, o usuário assume a conversa manualmente.
 - Enquanto houver pendências elegíveis, a automação deve aproveitar continuamente a capacidade liberada pelos limites e horários, sem ultrapassar os guards.
 - Relatório dominical: enviar exatamente uma vez, às 09:00, com contingência até 11:59 em `America/Sao_Paulo`, pelo e-mail do projeto para `gusrotatori@icloud.com`. Reservar uma saída da cota desde sábado às 09:00 para garantir capacidade. Deve cobrir os últimos 7 dias, tudo que foi executado no período, highlights dos clientes mais quentes com evidência e próximo passo, e visão Year To Date.
 
