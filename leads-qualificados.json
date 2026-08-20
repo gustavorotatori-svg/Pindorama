@@ -34353,7 +34353,10 @@
     "emailVerifiedAt": "2026-08-16",
     "template": "consultivo",
     "email1": true,
-    "date1": "2026-08-16"
+    "date1": "2026-08-16",
+    "whatsappSent": true,
+    "whatsappDate": "2026-08-20",
+    "whatsappSource": "https://www.1966pub.com.br/"
   },
   {
     "name": "Santa Oca Bar",
@@ -34545,7 +34548,10 @@
     "emailVerifiedAt": "2026-08-16",
     "template": "consultivo",
     "email1": true,
-    "date1": "2026-08-16"
+    "date1": "2026-08-16",
+    "whatsappSent": true,
+    "whatsappDate": "2026-08-20",
+    "whatsappSource": "https://bar2go.com.br/"
   },
   {
     "name": "Bourbon Convention Hotel Santos",
@@ -34850,7 +34856,10 @@
     "emailVerifiedAt": "2026-08-16",
     "template": "consultivo",
     "email1": true,
-    "date1": "2026-08-16"
+    "date1": "2026-08-16",
+    "whatsappSent": true,
+    "whatsappDate": "2026-08-20",
+    "whatsappSource": "https://theblackhorse.com.br/"
   },
   {
     "name": "Gaman'T Sushi Bar",
@@ -35461,5 +35470,25 @@
     "template": "consultivo",
     "email1": true,
     "date1": "2026-08-18"
+  },
+  {
+    "name": "Seen Restaurant & Bar",
+    "email": "reservas@seensp.com",
+    "type": "bar",
+    "neighborhood": "Jardins",
+    "address": "Alameda Santos, 1437 - 23º andar - São Paulo/SP - 01419-002",
+    "context": "Bar e restaurante de alto padrão no Tivoli Mofarrej, ativo e focado em coquetelaria autoral; perfil do Tripadvisor com 4,7/5 e cerca de 3.000 avaliações, além de contato confirmado no site oficial.",
+    "phone": "+55 11 91635-3751",
+    "website": "https://seensp.com/",
+    "emailVerified": true,
+    "emailSource": "https://seensp.com/sobre-nos/",
+    "discoverySource": "https://www.tripadvisor.com.br/Restaurant_Review-g303631-d12549009-Reviews-Seen_Restaurant_Bar-Sao_Paulo_State_of_Sao_Paulo.html",
+    "emailVerifiedAt": "2026-08-20",
+    "mxVerified": true,
+    "mxVerifiedAt": "2026-08-20",
+    "template": "consultivo",
+    "whatsappSent": true,
+    "whatsappDate": "2026-08-20",
+    "whatsappSource": "https://seensp.com/sobre-nos/"
   }
 ]

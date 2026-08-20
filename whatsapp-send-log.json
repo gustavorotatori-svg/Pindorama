@@ -1,0 +1,46 @@
+[
+  {
+    "date": "2026-08-20",
+    "acceptedAt": "2026-08-20T20:54:46.451Z",
+    "status": "accepted",
+    "name": "Seen Restaurant & Bar",
+    "phone": "+55 11 91635-3751",
+    "source": "https://seensp.com/sobre-nos/",
+    "messageId": "3EB04C69E49FE5543290CC"
+  },
+  {
+    "date": "2026-08-20",
+    "acceptedAt": "2026-08-20T20:54:52.499Z",
+    "status": "accepted",
+    "name": "1966 PUB & Cocktail Bar",
+    "phone": "(11) 94559-1360",
+    "source": "https://www.1966pub.com.br/",
+    "messageId": "3EB06AA45DD6029E92A640"
+  },
+  {
+    "date": "2026-08-20",
+    "acceptedAt": "2026-08-20T20:54:59.079Z",
+    "status": "accepted",
+    "name": "Bar2Go",
+    "phone": "(11) 98792-6744",
+    "source": "https://bar2go.com.br/",
+    "messageId": "3EB05BD4C794AF8BBAA341"
+  },
+  {
+    "date": "2026-08-20",
+    "checkedAt": "2026-08-20T20:56:15.108Z",
+    "status": "not_on_whatsapp",
+    "name": "Adega Empório Mais Bebidas",
+    "phone": "(11) 94890-6829",
+    "source": "https://adega-emporio-mais-bebidas.ueniweb.com/"
+  },
+  {
+    "date": "2026-08-20",
+    "acceptedAt": "2026-08-20T20:56:18.131Z",
+    "status": "accepted",
+    "name": "The Black Horse",
+    "phone": "(11) 99186-6930",
+    "source": "https://theblackhorse.com.br/",
+    "messageId": "3EB04F381C54A96FFDF2CE"
+  }
+]
