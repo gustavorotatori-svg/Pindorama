@@ -119,5 +119,16 @@
     "verifiedAt": "2026-08-20",
     "notBefore": "2026-08-24",
     "status": "queued"
+  },
+  {
+    "name": "Bar dos Cravos",
+    "phone": "(11) 99787-0927",
+    "type": "bar",
+    "city": "Sao Paulo",
+    "source": "https://www.bardoscravos.com/coqueteis",
+    "evidence": "Site oficial recente publica o numero como apenas WhatsApp, endereco no Paraiso e nova carta de coqueteis autorais centrada em ingredientes brasileiros.",
+    "verifiedAt": "2026-08-20",
+    "notBefore": "2026-08-24",
+    "status": "queued"
   }
 ]
