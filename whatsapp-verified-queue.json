@@ -42,5 +42,16 @@
     "verifiedAt": "2026-08-20",
     "notBefore": "2026-08-21",
     "status": "queued"
+  },
+  {
+    "name": "Forcato Commerce",
+    "phone": "(11) 91665-0598",
+    "type": "distribuidora",
+    "city": "Guarulhos",
+    "source": "https://www.forcato.com.br/",
+    "evidence": "Site oficial publica o numero como telefone e WhatsApp comercial, informa venda apenas para pessoa juridica e distribuicao de bebidas para adegas, bares e restaurantes.",
+    "verifiedAt": "2026-08-20",
+    "notBefore": "2026-08-22",
+    "status": "queued"
   }
 ]
