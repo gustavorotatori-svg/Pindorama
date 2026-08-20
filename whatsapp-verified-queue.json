@@ -75,5 +75,16 @@
     "verifiedAt": "2026-08-20",
     "notBefore": "2026-08-22",
     "status": "queued"
+  },
+  {
+    "name": "Adega e Mercearia Impacto",
+    "phone": "(11) 95445-0358",
+    "type": "adega",
+    "city": "Osasco",
+    "source": "https://adegaimpacto.com.br/",
+    "evidence": "Site oficial publica repetidamente o telefone/WhatsApp empresarial, endereco da loja em Osasco e catalogo ativo de cervejas, vinhos, destilados e cachaca.",
+    "verifiedAt": "2026-08-20",
+    "notBefore": "2026-08-22",
+    "status": "queued"
   }
 ]
