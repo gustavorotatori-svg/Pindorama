@@ -33666,7 +33666,9 @@
     "neighborhood": "",
     "template": "consultivo",
     "email1": true,
-    "date1": "2026-08-15"
+    "date1": "2026-08-15",
+    "email2": true,
+    "date2": "2026-08-20"
   },
   {
     "name": "Arte Vieira Coquetelaria",
@@ -33682,7 +33684,9 @@
     "neighborhood": "",
     "template": "pergunta",
     "email1": true,
-    "date1": "2026-08-15"
+    "date1": "2026-08-15",
+    "email2": true,
+    "date2": "2026-08-20"
   },
   {
     "name": "Bernadette - Casa da Dette",
@@ -33698,7 +33702,9 @@
     "emailVerifiedAt": "2026-08-15",
     "template": "consultivo",
     "email1": true,
-    "date1": "2026-08-15"
+    "date1": "2026-08-15",
+    "email2": true,
+    "date2": "2026-08-20"
   },
   {
     "name": "Habanero Bar",
@@ -33714,7 +33720,9 @@
     "emailVerifiedAt": "2026-08-15",
     "template": "consultivo",
     "email1": true,
-    "date1": "2026-08-15"
+    "date1": "2026-08-15",
+    "email2": true,
+    "date2": "2026-08-20"
   },
   {
     "name": "Santana Bar",
@@ -33730,7 +33738,9 @@
     "emailVerifiedAt": "2026-08-15",
     "template": "consultivo",
     "email1": true,
-    "date1": "2026-08-15"
+    "date1": "2026-08-15",
+    "email2": true,
+    "date2": "2026-08-20"
   },
   {
     "name": "Anexo Pinheiros",
@@ -33746,7 +33756,9 @@
     "emailVerifiedAt": "2026-08-15",
     "template": "consultivo",
     "email1": true,
-    "date1": "2026-08-15"
+    "date1": "2026-08-15",
+    "email2": true,
+    "date2": "2026-08-20"
   },
   {
     "name": "Tribal Bebidas Brasileiras",
@@ -33762,7 +33774,9 @@
     "emailVerifiedAt": "2026-08-15",
     "template": "consultivo",
     "email1": true,
-    "date1": "2026-08-15"
+    "date1": "2026-08-15",
+    "email2": true,
+    "date2": "2026-08-20"
   },
   {
     "name": "Alquimia Cocktail",
@@ -33778,7 +33792,9 @@
     "emailVerifiedAt": "2026-08-15",
     "template": "consultivo",
     "email1": true,
-    "date1": "2026-08-15"
+    "date1": "2026-08-15",
+    "email2": true,
+    "date2": "2026-08-20"
   },
   {
     "name": "New Cia Experience & Drinks",
@@ -33794,7 +33810,9 @@
     "emailVerifiedAt": "2026-08-15",
     "template": "consultivo",
     "email1": true,
-    "date1": "2026-08-15"
+    "date1": "2026-08-15",
+    "email2": true,
+    "date2": "2026-08-20"
   },
   {
     "name": "Feline Bartender",
@@ -33809,7 +33827,9 @@
     "emailVerifiedAt": "2026-08-15",
     "template": "consultivo",
     "email1": true,
-    "date1": "2026-08-15"
+    "date1": "2026-08-15",
+    "email2": true,
+    "date2": "2026-08-20"
   },
   {
     "name": "The View Bar",
@@ -33825,7 +33845,9 @@
     "emailVerifiedAt": "2026-08-15",
     "template": "consultivo",
     "email1": true,
-    "date1": "2026-08-15"
+    "date1": "2026-08-15",
+    "email2": true,
+    "date2": "2026-08-20"
   },
   {
     "name": "ABS Bartenders",
@@ -33860,7 +33882,9 @@
     "emailVerifiedAt": "2026-08-16",
     "template": "consultivo",
     "email1": true,
-    "date1": "2026-08-16"
+    "date1": "2026-08-16",
+    "email2": true,
+    "date2": "2026-08-20"
   },
   {
     "name": "Drink Bartenders",
@@ -33876,7 +33900,9 @@
     "emailVerifiedAt": "2026-08-16",
     "template": "consultivo",
     "email1": true,
-    "date1": "2026-08-16"
+    "date1": "2026-08-16",
+    "email2": true,
+    "date2": "2026-08-20"
   },
   {
     "name": "Brazen Bar",
@@ -33892,7 +33918,9 @@
     "emailVerifiedAt": "2026-08-16",
     "template": "consultivo",
     "email1": true,
-    "date1": "2026-08-16"
+    "date1": "2026-08-16",
+    "email2": true,
+    "date2": "2026-08-20"
   },
   {
     "name": "R&M Bartenders",
@@ -33908,7 +33936,9 @@
     "emailVerifiedAt": "2026-08-16",
     "template": "consultivo",
     "email1": true,
-    "date1": "2026-08-16"
+    "date1": "2026-08-16",
+    "email2": true,
+    "date2": "2026-08-20"
   },
   {
     "name": "Damasco Bar e Drinks",
@@ -33924,7 +33954,9 @@
     "emailVerifiedAt": "2026-08-16",
     "template": "consultivo",
     "email1": true,
-    "date1": "2026-08-16"
+    "date1": "2026-08-16",
+    "email2": true,
+    "date2": "2026-08-20"
   },
   {
     "name": "APTK Spirits Eventos",
@@ -33940,7 +33972,9 @@
     "emailVerifiedAt": "2026-08-16",
     "template": "consultivo",
     "email1": true,
-    "date1": "2026-08-16"
+    "date1": "2026-08-16",
+    "email2": true,
+    "date2": "2026-08-20"
   },
   {
     "name": "Top Mais Drinks",
@@ -33956,7 +33990,9 @@
     "emailVerifiedAt": "2026-08-16",
     "template": "consultivo",
     "email1": true,
-    "date1": "2026-08-17"
+    "date1": "2026-08-17",
+    "email2": true,
+    "date2": "2026-08-20"
   },
   {
     "name": "Chapa Drinks",
@@ -33971,7 +34007,9 @@
     "emailVerifiedAt": "2026-08-16",
     "template": "consultivo",
     "email1": true,
-    "date1": "2026-08-17"
+    "date1": "2026-08-17",
+    "email2": true,
+    "date2": "2026-08-20"
   },
   {
     "name": "Casa Oliver",
@@ -33986,7 +34024,9 @@
     "emailVerifiedAt": "2026-08-16",
     "template": "consultivo",
     "email1": true,
-    "date1": "2026-08-17"
+    "date1": "2026-08-17",
+    "email2": true,
+    "date2": "2026-08-20"
   },
   {
     "name": "VIP Drinks",
@@ -34002,7 +34042,9 @@
     "emailVerifiedAt": "2026-08-16",
     "template": "consultivo",
     "email1": true,
-    "date1": "2026-08-17"
+    "date1": "2026-08-17",
+    "email2": true,
+    "date2": "2026-08-20"
   },
   {
     "name": "Primal Bartenders",
@@ -34018,7 +34060,9 @@
     "emailVerifiedAt": "2026-08-16",
     "template": "consultivo",
     "email1": true,
-    "date1": "2026-08-18"
+    "date1": "2026-08-18",
+    "email2": true,
+    "date2": "2026-08-20"
   },
   {
     "name": "Drinks Bartender",
@@ -34033,7 +34077,9 @@
     "emailVerifiedAt": "2026-08-16",
     "template": "consultivo",
     "email1": true,
-    "date1": "2026-08-17"
+    "date1": "2026-08-17",
+    "email2": true,
+    "date2": "2026-08-20"
   },
   {
     "name": "WDG Events",
@@ -34063,7 +34109,9 @@
     "emailVerifiedAt": "2026-08-16",
     "template": "consultivo",
     "email1": true,
-    "date1": "2026-08-16"
+    "date1": "2026-08-16",
+    "email2": true,
+    "date2": "2026-08-20"
   },
   {
     "name": "ShowBartenders",
@@ -34079,7 +34127,9 @@
     "emailVerifiedAt": "2026-08-16",
     "template": "consultivo",
     "email1": true,
-    "date1": "2026-08-16"
+    "date1": "2026-08-16",
+    "email2": true,
+    "date2": "2026-08-20"
   },
   {
     "name": "Energy Drinks Bar",
@@ -34113,7 +34163,9 @@
     "emailVerifiedAt": "2026-08-16",
     "template": "consultivo",
     "email1": true,
-    "date1": "2026-08-18"
+    "date1": "2026-08-18",
+    "email2": true,
+    "date2": "2026-08-20"
   },
   {
     "name": "DCE Coquetelaria",
@@ -34129,7 +34181,9 @@
     "emailVerifiedAt": "2026-08-16",
     "template": "consultivo",
     "email1": true,
-    "date1": "2026-08-16"
+    "date1": "2026-08-16",
+    "email2": true,
+    "date2": "2026-08-20"
   },
   {
     "name": "Connect Bartenders",
@@ -34145,7 +34199,9 @@
     "emailVerifiedAt": "2026-08-16",
     "template": "consultivo",
     "email1": true,
-    "date1": "2026-08-16"
+    "date1": "2026-08-16",
+    "email2": true,
+    "date2": "2026-08-20"
   },
   {
     "name": "Sky Hall Terrace Bar",
@@ -34161,7 +34217,9 @@
     "emailVerifiedAt": "2026-08-16",
     "template": "consultivo",
     "email1": true,
-    "date1": "2026-08-16"
+    "date1": "2026-08-16",
+    "email2": true,
+    "date2": "2026-08-20"
   },
   {
     "name": "Double Bar Eventos",
@@ -34177,7 +34235,9 @@
     "emailVerifiedAt": "2026-08-16",
     "template": "consultivo",
     "email1": true,
-    "date1": "2026-08-16"
+    "date1": "2026-08-16",
+    "email2": true,
+    "date2": "2026-08-20"
   },
   {
     "name": "Balli Bartenders",
@@ -34192,7 +34252,9 @@
     "emailVerifiedAt": "2026-08-16",
     "template": "consultivo",
     "email1": true,
-    "date1": "2026-08-17"
+    "date1": "2026-08-17",
+    "email2": true,
+    "date2": "2026-08-20"
   },
   {
     "name": "Conceito Bar",
@@ -34208,7 +34270,9 @@
     "emailVerifiedAt": "2026-08-16",
     "template": "consultivo",
     "email1": true,
-    "date1": "2026-08-16"
+    "date1": "2026-08-16",
+    "email2": true,
+    "date2": "2026-08-20"
   },
   {
     "name": "Bar Salvador",
@@ -34223,7 +34287,9 @@
     "emailVerifiedAt": "2026-08-16",
     "template": "consultivo",
     "email1": true,
-    "date1": "2026-08-17"
+    "date1": "2026-08-17",
+    "email2": true,
+    "date2": "2026-08-20"
   },
   {
     "name": "Hotel Panamby Sao Paulo",
@@ -34252,7 +34318,9 @@
     "emailVerifiedAt": "2026-08-16",
     "template": "consultivo",
     "email1": true,
-    "date1": "2026-08-16"
+    "date1": "2026-08-16",
+    "email2": true,
+    "date2": "2026-08-20"
   },
   {
     "name": "One Bartender",
@@ -34267,7 +34335,9 @@
     "emailVerifiedAt": "2026-08-16",
     "template": "consultivo",
     "email1": true,
-    "date1": "2026-08-17"
+    "date1": "2026-08-17",
+    "email2": true,
+    "date2": "2026-08-20"
   },
   {
     "name": "1966 PUB & Cocktail Bar",

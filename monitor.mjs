@@ -8,8 +8,8 @@ const leadsPath = join(process.cwd(), 'leads.json');
 const leads = JSON.parse(readFileSync(leadsPath, 'utf8'));
 
 const imapConfig = {
-  user: 'cachaca011pindorama@gmail.com',
-  password: 'wnau jrrr rjpc zuuv',
+  user: process.env.GMAIL_USER,
+  password: process.env.GMAIL_APP_PASSWORD,
   host: 'imap.gmail.com',
   port: 993,
   tls: true,
@@ -19,8 +19,8 @@ const imapConfig = {
 const transporter = nodemailer.createTransport({
   service: 'gmail',
   auth: {
-    user: 'cachaca011pindorama@gmail.com',
-    pass: 'wnau jrrr rjpc zuuv',
+    user: process.env.GMAIL_USER,
+    pass: process.env.GMAIL_APP_PASSWORD,
   },
 });
 
