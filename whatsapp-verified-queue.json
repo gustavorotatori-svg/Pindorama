@@ -86,5 +86,16 @@
     "verifiedAt": "2026-08-20",
     "notBefore": "2026-08-22",
     "status": "queued"
+  },
+  {
+    "name": "Emporio ABC Wine Bar",
+    "phone": "(11) 99252-0885",
+    "type": "adega",
+    "city": "Santo Andre",
+    "source": "https://emporioabcwinebar.com.br/pagina-inicial/",
+    "evidence": "Site oficial atualizado em 2026 publica o WhatsApp comercial e endereco em Santo Andre; informa mais de 400 rotulos e vende cachacas, destilados, vinhos e cervejas.",
+    "verifiedAt": "2026-08-20",
+    "notBefore": "2026-08-22",
+    "status": "queued"
   }
 ]
