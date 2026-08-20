@@ -108,5 +108,16 @@
     "verifiedAt": "2026-08-20",
     "notBefore": "2026-08-24",
     "status": "queued"
+  },
+  {
+    "name": "The Door Bar",
+    "phone": "(11) 97080-0397",
+    "type": "bar",
+    "city": "Sao Paulo",
+    "source": "https://thedoor.com.br/",
+    "evidence": "Site oficial recente identifica a casa como cocktail bar de coquetelaria autoral na Vila Madalena e publica o WhatsApp da equipe para informacoes e experiencias.",
+    "verifiedAt": "2026-08-20",
+    "notBefore": "2026-08-24",
+    "status": "queued"
   }
 ]
