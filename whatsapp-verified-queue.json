@@ -97,5 +97,16 @@
     "verifiedAt": "2026-08-20",
     "notBefore": "2026-08-22",
     "status": "queued"
+  },
+  {
+    "name": "Adega Frimar",
+    "phone": "(11) 5219-3878",
+    "type": "distribuidora",
+    "city": "Sao Paulo",
+    "source": "https://mycelium.lat/",
+    "evidence": "Pagina empresarial recente identifica a Adega Frimar, CNPJ 24.576.129/0001-00, publica telefone com WhatsApp disponivel e informa atacado para bares e restaurantes, destilados e cachacas.",
+    "verifiedAt": "2026-08-20",
+    "notBefore": "2026-08-24",
+    "status": "queued"
   }
 ]
