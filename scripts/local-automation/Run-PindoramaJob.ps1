@@ -19,7 +19,7 @@ try {
   Set-Location -LiteralPath $projectDir
   "$(Get-Date -Format o) START $Job" | Tee-Object -FilePath $logFile
   if ($Job -eq 'pipeline') {
-    @('leads-verificados-2026-08-12.json','leads-verificados-2026-08-13-drinks.json','leads-verificados-2026-08-14.json','leads-verificados-2026-08-15-augusta.json','leads-verificados-2026-08-15-cocktail-bars.json') | ForEach-Object {
+    @('leads-verificados-2026-08-12.json','leads-verificados-2026-08-13-drinks.json','leads-verificados-2026-08-14.json','leads-verificados-2026-08-15-augusta.json','leads-verificados-2026-08-15-cocktail-bars.json','leads-verificados-2026-08-20-tripadvisor.json') | ForEach-Object {
       if (Test-Path -LiteralPath $_) { & node pipeline.mjs --add-file $_ 2>&1 | Tee-Object -FilePath $logFile -Append; if ($LASTEXITCODE -ne 0) { throw "Falha ao importar $_" } }
     }
     & node pipeline.mjs --all 2>&1 | Tee-Object -FilePath $logFile -Append; if ($LASTEXITCODE -ne 0) { throw 'Falha no pipeline.' }
