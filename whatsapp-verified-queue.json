@@ -475,5 +475,16 @@
     "verifiedAt": "2026-08-21",
     "notBefore": "2026-09-11",
     "status": "queued"
+  },
+  {
+    "name": "Bar Piraja Shopping Cidade Sao Paulo",
+    "phone": "(11) 94364-3170",
+    "type": "bar",
+    "city": "Sao Paulo",
+    "source": "https://baressp.com.br/bares/bar-piraja-shopping-cidade-sao-paulo",
+    "evidence": "Perfil comercial atualizado em janeiro de 2026 confirma unidade ativa na Avenida Paulista, com caipirinhas autorais de cachaca e WhatsApp empresarial publicado.",
+    "verifiedAt": "2026-08-21",
+    "notBefore": "2026-09-11",
+    "status": "queued"
   }
 ]
