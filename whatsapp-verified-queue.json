@@ -185,5 +185,16 @@
     "verifiedAt": "2026-08-21",
     "notBefore": "2026-08-25",
     "status": "queued"
+  },
+  {
+    "name": "The Bar Coquetelaria",
+    "phone": "(11) 95941-5764",
+    "type": "catering",
+    "city": "Sao Paulo",
+    "source": "https://thebarcoquetelaria.com.br/",
+    "evidence": "Site oficial recente publica telefone com link de WhatsApp e identifica operacao ativa de coquetelaria autoral premium para eventos em Sao Paulo.",
+    "verifiedAt": "2026-08-21",
+    "notBefore": "2026-08-26",
+    "status": "queued"
   }
 ]
