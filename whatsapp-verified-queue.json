@@ -343,5 +343,16 @@
     "verifiedAt": "2026-08-21",
     "notBefore": "2026-09-03",
     "status": "queued"
+  },
+  {
+    "name": "Bar Palermo",
+    "phone": "(11) 94943-4423",
+    "type": "bar",
+    "city": "Sao Paulo",
+    "source": "https://baressp.com.br/bares/bar-palermo",
+    "evidence": "Perfil comercial atualizado em marco de 2026 confirma bar ativo em Pinheiros com mixologia autoral e carta de coqueteis, publicando explicitamente o WhatsApp empresarial.",
+    "verifiedAt": "2026-08-21",
+    "notBefore": "2026-09-03",
+    "status": "queued"
   }
 ]
