@@ -255,5 +255,16 @@
     "verifiedAt": "2026-08-21",
     "notBefore": "2026-08-28",
     "status": "queued"
+  },
+  {
+    "name": "Dentro Bar",
+    "phone": "(11) 94998-2925",
+    "type": "bar",
+    "city": "Sao Paulo",
+    "source": "https://www.baressp.com.br/bares/dentro-bar",
+    "evidence": "Perfil comercial recente do BaresSP, publicado em 2026, identifica operacao ativa de coquetelaria autoral no Largo do Arouche e publica explicitamente o WhatsApp empresarial.",
+    "verifiedAt": "2026-08-21",
+    "notBefore": "2026-08-28",
+    "status": "queued"
   }
 ]
