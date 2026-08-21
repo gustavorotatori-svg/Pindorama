@@ -497,5 +497,16 @@
     "verifiedAt": "2026-08-21",
     "notBefore": "2026-09-12",
     "status": "queued"
+  },
+  {
+    "name": "Restaurante Mammasan",
+    "phone": "(11) 2362-5992",
+    "type": "restaurant",
+    "city": "Sao Paulo",
+    "source": "https://www.baressp.com.br/restaurantes/japoneses/restaurante-mammasan",
+    "evidence": "Perfil comercial atualizado em abril de 2026 confirma restaurante ativo no Jardim Paulista, com coquetelaria autoral e saques, e WhatsApp empresarial para reservas.",
+    "verifiedAt": "2026-08-21",
+    "notBefore": "2026-09-12",
+    "status": "queued"
   }
 ]
