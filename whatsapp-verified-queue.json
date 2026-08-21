@@ -196,5 +196,16 @@
     "verifiedAt": "2026-08-21",
     "notBefore": "2026-08-26",
     "status": "queued"
+  },
+  {
+    "name": "New Cia Experience & Drinks",
+    "phone": "(11) 98725-7422",
+    "type": "catering",
+    "city": "Sao Paulo",
+    "source": "https://newcia.com.br/sobre/",
+    "evidence": "Site oficial recente publica WhatsApp empresarial e identifica operacao de bares itinerantes e coquetelaria de alto padrao para eventos, com escritorio em Pinheiros.",
+    "verifiedAt": "2026-08-21",
+    "notBefore": "2026-08-26",
+    "status": "queued"
   }
 ]
