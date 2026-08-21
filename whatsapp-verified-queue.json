@@ -233,5 +233,16 @@
     "verifiedAt": "2026-08-21",
     "notBefore": "2026-08-27",
     "status": "queued"
+  },
+  {
+    "name": "Old Bar e Gastronomia",
+    "phone": "(11) 99341-4081",
+    "type": "bar",
+    "city": "Sao Paulo",
+    "source": "https://www.oldbaregastronomia.com.br/",
+    "evidence": "Site oficial ativo e revisado recentemente publica o WhatsApp empresarial, endereco na Vila Mariana e destaca carta de coqueteis com padrao internacional.",
+    "verifiedAt": "2026-08-21",
+    "notBefore": "2026-08-27",
+    "status": "queued"
   }
 ]
