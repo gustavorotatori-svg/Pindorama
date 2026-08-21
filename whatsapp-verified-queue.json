@@ -486,5 +486,16 @@
     "verifiedAt": "2026-08-21",
     "notBefore": "2026-09-11",
     "status": "queued"
+  },
+  {
+    "name": "Restaurante Saj Aruja",
+    "phone": "(11) 99423-5735",
+    "type": "restaurant",
+    "city": "Aruja",
+    "source": "https://www.baressp.com.br/restaurantes/arabes/restaurante-saj",
+    "evidence": "Perfil comercial atualizado em marco de 2026 confirma unidade ativa em Aruja, com coquetelaria autoral baseada em bourbon e arak, eventos e WhatsApp empresarial publicado.",
+    "verifiedAt": "2026-08-21",
+    "notBefore": "2026-09-12",
+    "status": "queued"
   }
 ]
