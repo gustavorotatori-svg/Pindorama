@@ -365,5 +365,16 @@
     "verifiedAt": "2026-08-21",
     "notBefore": "2026-09-04",
     "status": "queued"
+  },
+  {
+    "name": "Litt Bar",
+    "phone": "(11) 93920-8819",
+    "type": "bar",
+    "city": "Sao Paulo",
+    "source": "https://www.baressp.com.br/bares/litt-bar",
+    "evidence": "Perfil comercial recente confirma gastrobar ativo em Pinheiros com coquetelaria artesanal, drinks autorais e WhatsApp empresarial explicitamente publicado.",
+    "verifiedAt": "2026-08-21",
+    "notBefore": "2026-09-04",
+    "status": "queued"
   }
 ]
