@@ -376,5 +376,16 @@
     "verifiedAt": "2026-08-21",
     "notBefore": "2026-09-04",
     "status": "queued"
+  },
+  {
+    "name": "Imbuia Bar",
+    "phone": "(11) 98392-7829",
+    "type": "bar",
+    "city": "Sao Paulo",
+    "source": "https://baressp.com.br/restaurantes/bar-e-restaurante/imbuia-bar",
+    "evidence": "Perfil comercial atualizado em abril de 2026 confirma bar ativo em Pinheiros com alta coquetelaria, drinks autorais e classicos com cachaca, e WhatsApp empresarial explicitamente publicado.",
+    "verifiedAt": "2026-08-21",
+    "notBefore": "2026-09-05",
+    "status": "queued"
   }
 ]
