@@ -299,5 +299,49 @@
     "verifiedAt": "2026-08-21",
     "notBefore": "2026-09-01",
     "status": "queued"
+  },
+  {
+    "name": "Magnolia Pocket Club",
+    "phone": "(11) 95050-8822",
+    "type": "nightclub",
+    "city": "Sao Paulo",
+    "source": "https://baressp.com.br/bares/magnolia-pocket-club",
+    "evidence": "Perfil comercial recente confirma clube ativo no Jardim Paulista, com coquetelaria autoral, pista, lounge e rooftop, e publica explicitamente o WhatsApp empresarial.",
+    "verifiedAt": "2026-08-21",
+    "notBefore": "2026-09-01",
+    "status": "queued"
+  },
+  {
+    "name": "Nomade Bar e Restaurante",
+    "phone": "(11) 91654-7785",
+    "type": "bar",
+    "city": "Sao Paulo",
+    "source": "https://www.baressp.com.br/bares/nomade-bar-e-restaurante",
+    "evidence": "Perfil comercial atualizado em maio de 2026 confirma operacao ativa em Pinheiros, cozinha autoral e coquetelaria criativa, com WhatsApp empresarial explicitamente publicado.",
+    "verifiedAt": "2026-08-21",
+    "notBefore": "2026-09-02",
+    "status": "queued"
+  },
+  {
+    "name": "Condessa Bar",
+    "phone": "(11) 98462-9906",
+    "type": "bar",
+    "city": "Sao Paulo",
+    "source": "https://baressp.com.br/bares/condessa-bar",
+    "evidence": "Perfil comercial atualizado em marco de 2026 confirma bar ativo em Pinheiros com alta coquetelaria e drinks autorais de cachaca, publicando explicitamente o WhatsApp empresarial.",
+    "verifiedAt": "2026-08-21",
+    "notBefore": "2026-09-02",
+    "status": "queued"
+  },
+  {
+    "name": "Coda Bar",
+    "phone": "(11) 99140-0667",
+    "type": "bar",
+    "city": "Sao Paulo",
+    "source": "https://baressp.com.br/bares/coda",
+    "evidence": "Perfil comercial recente confirma bar ativo de alta coquetelaria na Vila Buarque, com carta autoral e WhatsApp empresarial explicitamente publicado.",
+    "verifiedAt": "2026-08-21",
+    "notBefore": "2026-09-03",
+    "status": "queued"
   }
 ]
