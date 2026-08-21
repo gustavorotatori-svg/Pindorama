@@ -42,5 +42,41 @@
     "phone": "(11) 99186-6930",
     "source": "https://theblackhorse.com.br/",
     "messageId": "3EB04F381C54A96FFDF2CE"
+  },
+  {
+    "date": "2026-08-21",
+    "acceptedAt": "2026-08-21T12:46:11.472Z",
+    "status": "accepted",
+    "name": "Adega Delivery",
+    "phone": "(11) 98774-9030",
+    "source": "https://www.adega.delivery/",
+    "messageId": "3EB056D1072C372C78D7FF"
+  },
+  {
+    "date": "2026-08-21",
+    "acceptedAt": "2026-08-21T12:46:18.432Z",
+    "status": "accepted",
+    "name": "Adega Zaidan",
+    "phone": "(11) 94710-5521",
+    "source": "https://www.adegazaidan.com.br/",
+    "messageId": "3EB0D2CCED4494EEE93721"
+  },
+  {
+    "date": "2026-08-21",
+    "acceptedAt": "2026-08-21T12:46:25.376Z",
+    "status": "accepted",
+    "name": "L'Adega Mercado de Pinheiros",
+    "phone": "(11) 95386-4825",
+    "source": "https://ladega.com.br/",
+    "messageId": "3EB0E6C11BD6D023254C7F"
+  },
+  {
+    "date": "2026-08-21",
+    "acceptedAt": "2026-08-21T12:46:31.492Z",
+    "status": "accepted",
+    "name": "Confraria Queijo e Vinho",
+    "phone": "(11) 96405-4876",
+    "source": "https://www.confrariaqueijoevinho.com.br/institucional",
+    "messageId": "3EB0895F0DA614F09DF52D"
   }
 ]

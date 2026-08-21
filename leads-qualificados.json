@@ -718,7 +718,10 @@
     "email2": true,
     "date2": "2026-07-30",
     "email3": true,
-    "date3": "2026-08-03"
+    "date3": "2026-08-03",
+    "whatsappSent": true,
+    "whatsappDate": "2026-08-21",
+    "whatsappSource": "https://www.adegazaidan.com.br/"
   },
   {
     "name": "Nation Club",
@@ -34356,7 +34359,9 @@
     "date1": "2026-08-16",
     "whatsappSent": true,
     "whatsappDate": "2026-08-20",
-    "whatsappSource": "https://www.1966pub.com.br/"
+    "whatsappSource": "https://www.1966pub.com.br/",
+    "email2": true,
+    "date2": "2026-08-21"
   },
   {
     "name": "Santa Oca Bar",
@@ -34372,7 +34377,9 @@
     "emailVerifiedAt": "2026-08-16",
     "template": "consultivo",
     "email1": true,
-    "date1": "2026-08-18"
+    "date1": "2026-08-18",
+    "email2": true,
+    "date2": "2026-08-21"
   },
   {
     "name": "Urbana Coquetelaria",
@@ -34387,7 +34394,9 @@
     "emailVerifiedAt": "2026-08-16",
     "template": "consultivo",
     "email1": true,
-    "date1": "2026-08-17"
+    "date1": "2026-08-17",
+    "email2": true,
+    "date2": "2026-08-21"
   },
   {
     "name": "A Selva Bar",
@@ -34421,7 +34430,9 @@
     "emailVerifiedAt": "2026-08-16",
     "template": "consultivo",
     "email1": true,
-    "date1": "2026-08-16"
+    "date1": "2026-08-16",
+    "email2": true,
+    "date2": "2026-08-21"
   },
   {
     "name": "MADZ Eventos",
@@ -34437,7 +34448,9 @@
     "emailVerifiedAt": "2026-08-16",
     "template": "consultivo",
     "email1": true,
-    "date1": "2026-08-16"
+    "date1": "2026-08-16",
+    "email2": true,
+    "date2": "2026-08-21"
   },
   {
     "name": "Mr Cocktail Eventos",
@@ -34453,7 +34466,9 @@
     "emailVerifiedAt": "2026-08-16",
     "template": "consultivo",
     "email1": true,
-    "date1": "2026-08-18"
+    "date1": "2026-08-18",
+    "email2": true,
+    "date2": "2026-08-21"
   },
   {
     "name": "Canto Wine Bar & Take Away",
@@ -34488,7 +34503,9 @@
     "emailVerifiedAt": "2026-08-16",
     "template": "consultivo",
     "email1": true,
-    "date1": "2026-08-16"
+    "date1": "2026-08-16",
+    "email2": true,
+    "date2": "2026-08-21"
   },
   {
     "name": "Curtica Bar",
@@ -34504,7 +34521,9 @@
     "emailVerifiedAt": "2026-08-16",
     "template": "consultivo",
     "email1": true,
-    "date1": "2026-08-17"
+    "date1": "2026-08-17",
+    "email2": true,
+    "date2": "2026-08-21"
   },
   {
     "name": "All Party Eventos",
@@ -34551,7 +34570,9 @@
     "date1": "2026-08-16",
     "whatsappSent": true,
     "whatsappDate": "2026-08-20",
-    "whatsappSource": "https://bar2go.com.br/"
+    "whatsappSource": "https://bar2go.com.br/",
+    "email2": true,
+    "date2": "2026-08-21"
   },
   {
     "name": "Bourbon Convention Hotel Santos",
@@ -34581,7 +34602,9 @@
     "emailVerifiedAt": "2026-08-16",
     "template": "consultivo",
     "email1": true,
-    "date1": "2026-08-16"
+    "date1": "2026-08-16",
+    "email2": true,
+    "date2": "2026-08-21"
   },
   {
     "name": "Adega Don Marte",
@@ -34597,7 +34620,9 @@
     "emailVerifiedAt": "2026-08-16",
     "template": "consultivo",
     "email1": true,
-    "date1": "2026-08-16"
+    "date1": "2026-08-16",
+    "email2": true,
+    "date2": "2026-08-21"
   },
   {
     "name": "Life Drinks e Eventos",
@@ -34613,7 +34638,9 @@
     "emailVerifiedAt": "2026-08-16",
     "template": "consultivo",
     "email1": true,
-    "date1": "2026-08-16"
+    "date1": "2026-08-16",
+    "email2": true,
+    "date2": "2026-08-21"
   },
   {
     "name": "Fashion Bartenders",
@@ -34629,7 +34656,9 @@
     "emailVerifiedAt": "2026-08-16",
     "template": "consultivo",
     "email1": true,
-    "date1": "2026-08-16"
+    "date1": "2026-08-16",
+    "email2": true,
+    "date2": "2026-08-21"
   },
   {
     "name": "Z Eventos",
@@ -34645,7 +34674,9 @@
     "emailVerifiedAt": "2026-08-16",
     "template": "consultivo",
     "email1": true,
-    "date1": "2026-08-17"
+    "date1": "2026-08-17",
+    "email2": true,
+    "date2": "2026-08-21"
   },
   {
     "name": "Recanto Santa Rita",
@@ -34661,7 +34692,9 @@
     "emailVerifiedAt": "2026-08-16",
     "template": "consultivo",
     "email1": true,
-    "date1": "2026-08-18"
+    "date1": "2026-08-18",
+    "email2": true,
+    "date2": "2026-08-21"
   },
   {
     "name": "Barman Para Festas",
@@ -34677,7 +34710,9 @@
     "emailVerifiedAt": "2026-08-16",
     "template": "consultivo",
     "email1": true,
-    "date1": "2026-08-16"
+    "date1": "2026-08-16",
+    "email2": true,
+    "date2": "2026-08-21"
   },
   {
     "name": "Caledonia Whisky & Co.",
@@ -34693,7 +34728,9 @@
     "emailVerifiedAt": "2026-08-16",
     "template": "consultivo",
     "email1": true,
-    "date1": "2026-08-16"
+    "date1": "2026-08-16",
+    "email2": true,
+    "date2": "2026-08-21"
   },
   {
     "name": "K-Bar e Karaokê",
@@ -34709,7 +34746,9 @@
     "emailVerifiedAt": "2026-08-16",
     "template": "consultivo",
     "email1": true,
-    "date1": "2026-08-16"
+    "date1": "2026-08-16",
+    "email2": true,
+    "date2": "2026-08-21"
   },
   {
     "name": "Mister Drinks",
@@ -34725,7 +34764,9 @@
     "emailVerifiedAt": "2026-08-16",
     "template": "consultivo",
     "email1": true,
-    "date1": "2026-08-16"
+    "date1": "2026-08-16",
+    "email2": true,
+    "date2": "2026-08-21"
   },
   {
     "name": "São Paulo Urban Distillery",
@@ -35489,6 +35530,8 @@
     "template": "consultivo",
     "whatsappSent": true,
     "whatsappDate": "2026-08-20",
-    "whatsappSource": "https://seensp.com/sobre-nos/"
+    "whatsappSource": "https://seensp.com/sobre-nos/",
+    "email1": true,
+    "date1": "2026-08-21"
   }
 ]

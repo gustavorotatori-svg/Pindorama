@@ -8,7 +8,8 @@
     "evidence": "Site oficial publica o número como WhatsApp e informa loja física, delivery de bebidas e destilados, incluindo cachaça.",
     "verifiedAt": "2026-08-20",
     "notBefore": "2026-08-21",
-    "status": "queued"
+    "status": "sent",
+    "sentAt": "2026-08-21T12:46:11.472Z"
   },
   {
     "name": "Adega Zaidan",
@@ -19,7 +20,8 @@
     "evidence": "Site oficial da loja de bebidas publica o número diretamente no campo WhatsApp.",
     "verifiedAt": "2026-08-20",
     "notBefore": "2026-08-21",
-    "status": "queued"
+    "status": "sent",
+    "sentAt": "2026-08-21T12:46:18.431Z"
   },
   {
     "name": "L'Adega Mercado de Pinheiros",
@@ -30,7 +32,8 @@
     "evidence": "Site oficial publica o WhatsApp comercial e informa venda de destilados e cachaças no Mercado de Pinheiros.",
     "verifiedAt": "2026-08-20",
     "notBefore": "2026-08-21",
-    "status": "queued"
+    "status": "sent",
+    "sentAt": "2026-08-21T12:46:25.376Z"
   },
   {
     "name": "Confraria Queijo e Vinho",
@@ -41,7 +44,8 @@
     "evidence": "Site oficial publica telefone/WhatsApp e descreve empório com cerca de 1.500 rótulos, incluindo cachaças e aguardentes.",
     "verifiedAt": "2026-08-20",
     "notBefore": "2026-08-21",
-    "status": "queued"
+    "status": "sent",
+    "sentAt": "2026-08-21T12:46:31.492Z"
   },
   {
     "name": "Forcato Commerce",

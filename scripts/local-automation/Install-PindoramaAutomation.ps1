@@ -14,5 +14,7 @@ function Add-LocalTask([string]$Name,[string]$Job,$Trigger) {
 Add-LocalTask 'Pindorama-EmailPipeline' 'pipeline' (New-ScheduledTaskTrigger -Once -At (Get-Date).AddMinutes(1) -RepetitionInterval (New-TimeSpan -Minutes 15))
 Add-LocalTask 'Pindorama-AutoReply' 'auto-reply' (New-ScheduledTaskTrigger -Once -At (Get-Date).AddMinutes(2) -RepetitionInterval (New-TimeSpan -Hours 1))
 Add-LocalTask 'Pindorama-WeeklyReport' 'weekly-report' (New-ScheduledTaskTrigger -Weekly -DaysOfWeek Sunday -At '09:00')
-Add-LocalTask 'Pindorama-WhatsAppInitial' 'whatsapp' (New-ScheduledTaskTrigger -Weekly -DaysOfWeek Monday,Tuesday,Wednesday,Thursday,Friday,Saturday -At '09:15')
-Write-Output 'Automacao local instalada: pipeline 15 min, respostas 1 h, WhatsApp inicial seg-sab 09:15, relatorio domingo 09:00.'
+# O trigger diario evita que a primeira ocorrencia semanal seja pulada quando a
+# instalacao acontece depois das 09:15. O guard do script bloqueia domingos.
+Add-LocalTask 'Pindorama-WhatsAppInitial' 'whatsapp' (New-ScheduledTaskTrigger -Daily -At '09:15')
+Write-Output 'Automacao local instalada: pipeline 15 min, respostas 1 h, WhatsApp inicial diario 09:15 com guard seg-sab, relatorio domingo 09:00.'
