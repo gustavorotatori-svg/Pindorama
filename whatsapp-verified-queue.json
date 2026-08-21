@@ -442,5 +442,16 @@
     "verifiedAt": "2026-08-21",
     "notBefore": "2026-09-09",
     "status": "queued"
+  },
+  {
+    "name": "Taboa Restaurante",
+    "phone": "(11) 93723-1047",
+    "type": "restaurant",
+    "city": "Sao Paulo",
+    "source": "https://www.baressp.com.br/restaurantes/cozinha-contemporanea/taboa-restaurante",
+    "evidence": "Perfil comercial atualizado em abril de 2026 confirma restaurante ativo Bib Gourmand na Vila Madalena, coquetelaria autoral com cachaca e WhatsApp empresarial para reservas.",
+    "verifiedAt": "2026-08-21",
+    "notBefore": "2026-09-10",
+    "status": "queued"
   }
 ]
