@@ -45,19 +45,24 @@ function suppressBouncedLeads(body) {
     return email && normalizedBody.includes(email);
   });
 
-  if (bounced.length === 0) return [];
+  if (bounced.length === 0) return { matched: [], newlySuppressed: [] };
 
   const suppressed = new Set(loadSuppressed().map((email) => String(email).toLowerCase()));
+  const newlySuppressed = [];
   for (const lead of bounced) {
     const email = String(lead.email).trim().toLowerCase();
+    if (suppressed.has(email) && lead.doNotContact && lead.bounced) continue;
     suppressed.add(email);
     lead.doNotContact = true;
     lead.bounced = true;
     lead.bounceDate = localToday();
     saveLead(lead);
+    newlySuppressed.push(lead);
   }
-  writeFileSync(suppressedPath, JSON.stringify([...suppressed].sort(), null, 2) + '\n');
-  return bounced;
+  if (newlySuppressed.length > 0) {
+    writeFileSync(suppressedPath, JSON.stringify([...suppressed].sort(), null, 2) + '\n');
+  }
+  return { matched: bounced, newlySuppressed };
 }
 
 const imapConfig = {
@@ -258,9 +263,11 @@ function checkEmails(attempt = 1) {
               const body = parsed.text || '';
 
               if (isDeliveryFailure(from, subject)) {
-                const bounced = suppressBouncedLeads(`${body}\n${parsed.html || ''}`);
-                if (bounced.length > 0) {
-                  console.log(`BOUNCE SUPRIMIDO: ${bounced.map((item) => `${item.name} <${item.email}>`).join(', ')}`);
+                const bounceResult = suppressBouncedLeads(`${body}\n${parsed.html || ''}`);
+                if (bounceResult.newlySuppressed.length > 0) {
+                  console.log(`BOUNCE SUPRIMIDO: ${bounceResult.newlySuppressed.map((item) => `${item.name} <${item.email}>`).join(', ')}`);
+                } else if (bounceResult.matched.length > 0) {
+                  console.log(`BOUNCE JA SUPRIMIDO: ${bounceResult.matched.map((item) => `${item.name} <${item.email}>`).join(', ')}`);
                 } else {
                   console.log('BOUNCE SEM DESTINATARIO CONHECIDO: requer auditoria manual do DSN');
                 }
