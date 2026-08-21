@@ -266,5 +266,16 @@
     "verifiedAt": "2026-08-21",
     "notBefore": "2026-08-28",
     "status": "queued"
+  },
+  {
+    "name": "Locale Caffe",
+    "phone": "(11) 96572-8890",
+    "type": "bar",
+    "city": "Sao Paulo",
+    "source": "https://www.localecaffe.com.br/",
+    "evidence": "Site oficial consultado em 2026 publica canal empresarial exclusivo de WhatsApp para eventos e confirma operacao ativa no Itaim Bibi e JK Iguatemi como cafe durante o dia e bar de coquetelaria a noite.",
+    "verifiedAt": "2026-08-21",
+    "notBefore": "2026-08-29",
+    "status": "queued"
   }
 ]
