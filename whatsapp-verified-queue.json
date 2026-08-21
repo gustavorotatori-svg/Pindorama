@@ -130,5 +130,16 @@
     "verifiedAt": "2026-08-20",
     "notBefore": "2026-08-24",
     "status": "queued"
+  },
+  {
+    "name": "Spot Urbano",
+    "phone": "(11) 99964-0506",
+    "type": "bar",
+    "city": "Sao Paulo",
+    "source": "https://www.spoturbano.com.br/",
+    "evidence": "Site oficial atualizado em agosto de 2026 publica WhatsApp de reservas, endereco em Santana e cardapio ativo de coqueteis autorais, incluindo drinks com cachaca premium.",
+    "verifiedAt": "2026-08-21",
+    "notBefore": "2026-08-24",
+    "status": "queued"
   }
 ]
