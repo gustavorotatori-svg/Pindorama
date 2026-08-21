@@ -398,5 +398,16 @@
     "verifiedAt": "2026-08-21",
     "notBefore": "2026-09-05",
     "status": "queued"
+  },
+  {
+    "name": "The Blue Pub Itaim Bibi",
+    "phone": "(11) 93428-0084",
+    "type": "bar",
+    "city": "Sao Paulo",
+    "source": "https://www.baressp.com.br/bares/the-blue-pub-itaim-bibi",
+    "evidence": "Perfil comercial atualizado em marco de 2026 confirma pub ativo no Itaim Bibi, carta ampla de bebidas e coquetelaria, e publica explicitamente o WhatsApp empresarial.",
+    "verifiedAt": "2026-08-21",
+    "notBefore": "2026-09-08",
+    "status": "queued"
   }
 ]
