@@ -453,5 +453,16 @@
     "verifiedAt": "2026-08-21",
     "notBefore": "2026-09-10",
     "status": "queued"
+  },
+  {
+    "name": "Curado",
+    "phone": "(11) 94120-2280",
+    "type": "bar",
+    "city": "Sao Paulo",
+    "source": "https://baressp.com.br/restaurantes/bar-e-restaurante/curado",
+    "evidence": "Perfil comercial atualizado em abril de 2026 confirma operacao ativa no Itaim Bibi, coquetelaria autoral e classicos brasileiros como Macunaima e Rabo de Galo, com WhatsApp empresarial publicado.",
+    "verifiedAt": "2026-08-21",
+    "notBefore": "2026-09-10",
+    "status": "queued"
   }
 ]
