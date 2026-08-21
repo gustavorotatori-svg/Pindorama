@@ -431,5 +431,16 @@
     "verifiedAt": "2026-08-21",
     "notBefore": "2026-09-09",
     "status": "queued"
+  },
+  {
+    "name": "Bar Desembargador",
+    "phone": "(11) 98999-7652",
+    "type": "bar",
+    "city": "Sao Paulo",
+    "source": "https://www.baressp.com.br/eventos/bar-desembargador-celebra-pascoa-com-bacalhau-e-drink-tematico",
+    "evidence": "Publicacao comercial de marco de 2026 confirma bar ativo em Perdizes com coquetelaria autoral, classicos e drinks de whisky, e WhatsApp empresarial para reservas.",
+    "verifiedAt": "2026-08-21",
+    "notBefore": "2026-09-09",
+    "status": "queued"
   }
 ]
