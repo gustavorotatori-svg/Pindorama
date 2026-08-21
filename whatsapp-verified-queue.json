@@ -277,5 +277,16 @@
     "verifiedAt": "2026-08-21",
     "notBefore": "2026-08-29",
     "status": "queued"
+  },
+  {
+    "name": "Arlete Bar e Mercearia",
+    "phone": "(11) 99027-8742",
+    "type": "bar",
+    "city": "Sao Paulo",
+    "source": "https://www.baressp.com.br/bares/arlete-bar-e-mercearia",
+    "evidence": "Perfil comercial atualizado em abril de 2026 confirma operacao ativa em Pinheiros, coquetelaria criativa com drinks de cachaca e publica explicitamente o WhatsApp empresarial para reservas.",
+    "verifiedAt": "2026-08-21",
+    "notBefore": "2026-08-29",
+    "status": "queued"
   }
 ]
