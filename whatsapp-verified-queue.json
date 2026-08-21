@@ -141,5 +141,16 @@
     "verifiedAt": "2026-08-21",
     "notBefore": "2026-08-24",
     "status": "queued"
+  },
+  {
+    "name": "The Green Pub",
+    "phone": "(11) 95341-8605",
+    "type": "bar",
+    "city": "Santo Andre",
+    "source": "https://thegreenpub.com.br/",
+    "evidence": "Site oficial recente publica o WhatsApp comercial, endereco em Santo Andre e operacao ativa de pub com drinks, whisky, cervejas e eventos.",
+    "verifiedAt": "2026-08-21",
+    "notBefore": "2026-08-24",
+    "status": "queued"
   }
 ]
