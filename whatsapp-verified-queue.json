@@ -174,5 +174,16 @@
     "verifiedAt": "2026-08-21",
     "notBefore": "2026-08-25",
     "status": "queued"
+  },
+  {
+    "name": "Sphera Lounge",
+    "phone": "(11) 97636-3908",
+    "type": "bar",
+    "city": "Sao Paulo",
+    "source": "https://www.spheralounge.com.br/",
+    "evidence": "Site oficial ativo e revisado recentemente publica o WhatsApp empresarial, endereco nos Jardins e descreve lounge de cena noturna com drinks autorais.",
+    "verifiedAt": "2026-08-21",
+    "notBefore": "2026-08-25",
+    "status": "queued"
   }
 ]
