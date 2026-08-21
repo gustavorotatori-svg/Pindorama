@@ -152,5 +152,16 @@
     "verifiedAt": "2026-08-21",
     "notBefore": "2026-08-24",
     "status": "queued"
+  },
+  {
+    "name": "Cris Parrilla Bar",
+    "phone": "(11) 99664-8400",
+    "type": "bar",
+    "city": "Sao Paulo",
+    "source": "https://crisparrillabar.com.br/contato",
+    "evidence": "Site oficial atualizado recentemente publica o WhatsApp de reservas, endereco no Campo Belo e confirma operacao ativa de bar e restaurante com drinks desde 2021.",
+    "verifiedAt": "2026-08-21",
+    "notBefore": "2026-08-25",
+    "status": "queued"
   }
 ]
