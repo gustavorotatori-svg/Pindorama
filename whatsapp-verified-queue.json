@@ -207,5 +207,16 @@
     "verifiedAt": "2026-08-21",
     "notBefore": "2026-08-26",
     "status": "queued"
+  },
+  {
+    "name": "Lupe Bar e Restaurante",
+    "phone": "(11) 3819-4990",
+    "type": "bar",
+    "city": "Sao Paulo",
+    "source": "https://www.lupebar.com.br/",
+    "evidence": "Site oficial atualizado recentemente direciona reservas ao WhatsApp e publica atividade atual em Pinheiros, carta de coquetelaria autoral e drinks com cachaca.",
+    "verifiedAt": "2026-08-21",
+    "notBefore": "2026-08-26",
+    "status": "queued"
   }
 ]
