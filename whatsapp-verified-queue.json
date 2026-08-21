@@ -354,5 +354,16 @@
     "verifiedAt": "2026-08-21",
     "notBefore": "2026-09-03",
     "status": "queued"
+  },
+  {
+    "name": "Bargo Mooca",
+    "phone": "(11) 97574-3213",
+    "type": "bar",
+    "city": "Sao Paulo",
+    "source": "https://baressp.com.br/bares/bargo-mooca",
+    "evidence": "Perfil comercial recente confirma bar ativo na Vila Buarque com coquetelaria autoral assinada, operacao regular e WhatsApp empresarial explicitamente publicado.",
+    "verifiedAt": "2026-08-21",
+    "notBefore": "2026-09-04",
+    "status": "queued"
   }
 ]
