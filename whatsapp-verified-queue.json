@@ -163,5 +163,16 @@
     "verifiedAt": "2026-08-21",
     "notBefore": "2026-08-25",
     "status": "queued"
+  },
+  {
+    "name": "ATOL BAR",
+    "phone": "(11) 99380-4422",
+    "type": "bar",
+    "city": "Sao Paulo",
+    "source": "https://www.atolbar.com.br/contato/",
+    "evidence": "Site oficial recente publica o WhatsApp empresarial atualizado, endereco na Vila Leopoldina e horarios atuais de funcionamento do bar.",
+    "verifiedAt": "2026-08-21",
+    "notBefore": "2026-08-25",
+    "status": "queued"
   }
 ]
