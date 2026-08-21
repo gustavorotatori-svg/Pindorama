@@ -420,5 +420,16 @@
     "verifiedAt": "2026-08-21",
     "notBefore": "2026-09-08",
     "status": "queued"
+  },
+  {
+    "name": "Zena Cucina",
+    "phone": "(11) 96195-8148",
+    "type": "restaurant",
+    "city": "Sao Paulo",
+    "source": "https://www.baressp.com.br/eventos/alta-coquetelaria-no-zena-guest-bartender-com-benicio-calaca",
+    "evidence": "Publicacao comercial de abril de 2026 confirma restaurante ativo nos Jardins, nova carta de alta coquetelaria autoral e classica e WhatsApp empresarial para reservas.",
+    "verifiedAt": "2026-08-21",
+    "notBefore": "2026-09-09",
+    "status": "queued"
   }
 ]
