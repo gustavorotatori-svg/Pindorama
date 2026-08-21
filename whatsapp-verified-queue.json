@@ -288,5 +288,16 @@
     "verifiedAt": "2026-08-21",
     "notBefore": "2026-08-29",
     "status": "queued"
+  },
+  {
+    "name": "Bar Galo",
+    "phone": "(11) 97493-9800",
+    "type": "bar",
+    "city": "Sao Paulo",
+    "source": "https://www.baressp.com.br/bares/bar-galo",
+    "evidence": "Perfil comercial atualizado em marco de 2026 confirma gastrobar ativo em Pinheiros, com coquetelaria de excelencia, classicos e drinks criativos, e publica explicitamente o WhatsApp empresarial.",
+    "verifiedAt": "2026-08-21",
+    "notBefore": "2026-09-01",
+    "status": "queued"
   }
 ]
