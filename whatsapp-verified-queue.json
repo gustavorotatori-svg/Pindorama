@@ -387,5 +387,16 @@
     "verifiedAt": "2026-08-21",
     "notBefore": "2026-09-05",
     "status": "queued"
+  },
+  {
+    "name": "Esquina do Souza Vila Leopoldina",
+    "phone": "(11) 92048-5103",
+    "type": "bar",
+    "city": "Sao Paulo",
+    "source": "https://www.baressp.com.br/bares/esquina-do-souza-vila-leopoldina",
+    "evidence": "Perfil comercial atualizado em marco de 2026 confirma boteco premiado ativo na Vila Leopoldina, com carta de mais de 300 caipirinhas e WhatsApp empresarial explicitamente publicado.",
+    "verifiedAt": "2026-08-21",
+    "notBefore": "2026-09-05",
+    "status": "queued"
   }
 ]
