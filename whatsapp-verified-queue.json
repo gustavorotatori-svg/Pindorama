@@ -244,5 +244,16 @@
     "verifiedAt": "2026-08-21",
     "notBefore": "2026-08-27",
     "status": "queued"
+  },
+  {
+    "name": "G&T Bar",
+    "phone": "(11) 98535-8000",
+    "type": "bar",
+    "city": "Sao Paulo",
+    "source": "https://gtginbar.com.br/",
+    "evidence": "Site oficial ativo e revisado recentemente publica o telefone empresarial, endereco na Rua Oscar Freire e operacao diaria de alta coquetelaria com mais de 170 rotulos de gin.",
+    "verifiedAt": "2026-08-21",
+    "notBefore": "2026-08-28",
+    "status": "queued"
   }
 ]
