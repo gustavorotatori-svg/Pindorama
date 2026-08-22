@@ -34782,7 +34782,9 @@
     "emailVerifiedAt": "2026-08-16",
     "template": "consultivo",
     "email1": true,
-    "date1": "2026-08-17"
+    "date1": "2026-08-17",
+    "email2": true,
+    "date2": "2026-08-21"
   },
   {
     "name": "Brasil Bartender",
@@ -34798,7 +34800,9 @@
     "emailVerifiedAt": "2026-08-16",
     "template": "consultivo",
     "email1": true,
-    "date1": "2026-08-16"
+    "date1": "2026-08-16",
+    "email2": true,
+    "date2": "2026-08-21"
   },
   {
     "name": "Vedê Coquetelaria & Arte",
@@ -34814,7 +34818,9 @@
     "emailVerifiedAt": "2026-08-16",
     "template": "consultivo",
     "email1": true,
-    "date1": "2026-08-16"
+    "date1": "2026-08-16",
+    "email2": true,
+    "date2": "2026-08-21"
   },
   {
     "name": "Yummy Cocktails",
@@ -34830,7 +34836,9 @@
     "emailVerifiedAt": "2026-08-16",
     "template": "consultivo",
     "email1": true,
-    "date1": "2026-08-16"
+    "date1": "2026-08-16",
+    "email2": true,
+    "date2": "2026-08-21"
   },
   {
     "name": "Venda Dona Noêmia",
@@ -34865,7 +34873,9 @@
     "emailVerifiedAt": "2026-08-16",
     "template": "consultivo",
     "email1": true,
-    "date1": "2026-08-18"
+    "date1": "2026-08-18",
+    "email2": true,
+    "date2": "2026-08-21"
   },
   {
     "name": "Villa BBM Gastrobar",
@@ -34881,7 +34891,9 @@
     "emailVerifiedAt": "2026-08-16",
     "template": "consultivo",
     "email1": true,
-    "date1": "2026-08-17"
+    "date1": "2026-08-17",
+    "email2": true,
+    "date2": "2026-08-21"
   },
   {
     "name": "The Black Horse",
@@ -34900,7 +34912,9 @@
     "date1": "2026-08-16",
     "whatsappSent": true,
     "whatsappDate": "2026-08-20",
-    "whatsappSource": "https://theblackhorse.com.br/"
+    "whatsappSource": "https://theblackhorse.com.br/",
+    "email2": true,
+    "date2": "2026-08-21"
   },
   {
     "name": "Gaman'T Sushi Bar",
@@ -34935,7 +34949,9 @@
     "emailVerifiedAt": "2026-08-16",
     "template": "consultivo",
     "email1": true,
-    "date1": "2026-08-17"
+    "date1": "2026-08-17",
+    "email2": true,
+    "date2": "2026-08-21"
   },
   {
     "name": "Tortellini Restaurante e Pizzaria",
@@ -34951,7 +34967,9 @@
     "emailVerifiedAt": "2026-08-16",
     "template": "consultivo",
     "email1": true,
-    "date1": "2026-08-18"
+    "date1": "2026-08-18",
+    "email2": true,
+    "date2": "2026-08-21"
   },
   {
     "name": "O Posto Bar e Restaurante",
@@ -34967,7 +34985,9 @@
     "emailVerifiedAt": "2026-08-16",
     "template": "consultivo",
     "email1": true,
-    "date1": "2026-08-17"
+    "date1": "2026-08-17",
+    "email2": true,
+    "date2": "2026-08-21"
   },
   {
     "name": "Beer Place Tap House",
@@ -34983,7 +35003,9 @@
     "emailVerifiedAt": "2026-08-17",
     "template": "consultivo",
     "email1": true,
-    "date1": "2026-08-17"
+    "date1": "2026-08-17",
+    "email2": true,
+    "date2": "2026-08-21"
   },
   {
     "name": "The Bull Pub Granja Viana",
@@ -35018,7 +35040,9 @@
     "emailVerifiedAt": "2026-08-17",
     "template": "consultivo",
     "email1": true,
-    "date1": "2026-08-18"
+    "date1": "2026-08-18",
+    "email2": true,
+    "date2": "2026-08-21"
   },
   {
     "name": "Alemão Bar e Bistrô",
@@ -35034,7 +35058,9 @@
     "emailVerifiedAt": "2026-08-17",
     "template": "consultivo",
     "email1": true,
-    "date1": "2026-08-18"
+    "date1": "2026-08-18",
+    "email2": true,
+    "date2": "2026-08-21"
   },
   {
     "name": "Bendita Areia",
@@ -35050,7 +35076,9 @@
     "emailVerifiedAt": "2026-08-17",
     "template": "consultivo",
     "email1": true,
-    "date1": "2026-08-17"
+    "date1": "2026-08-17",
+    "email2": true,
+    "date2": "2026-08-21"
   },
   {
     "name": "Lig Chopp Germânia Barueri",
@@ -35066,7 +35094,9 @@
     "emailVerifiedAt": "2026-08-17",
     "template": "consultivo",
     "email1": true,
-    "date1": "2026-08-17"
+    "date1": "2026-08-17",
+    "email2": true,
+    "date2": "2026-08-21"
   },
   {
     "name": "Distacado Distribuidora",
