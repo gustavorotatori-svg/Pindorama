@@ -1015,5 +1015,16 @@
     "verifiedAt": "2026-08-22",
     "notBefore": "2026-09-16",
     "status": "queued"
+  },
+  {
+    "name": "Vino! Higienopolis",
+    "phone": "(11) 93383-7977",
+    "type": "wine_bar_restaurant",
+    "city": "Sao Paulo",
+    "source": "https://www.baressp.com.br/restaurantes/enotecas/vino-higienopolis",
+    "evidence": "Perfil comercial atualizado em abril de 2026 confirma wine bar e restaurante ativo em Higienopolis, com vinhos em taca, coquetelaria, pizzas artesanais e WhatsApp empresarial publicado.",
+    "verifiedAt": "2026-08-22",
+    "notBefore": "2026-09-16",
+    "status": "queued"
   }
 ]

@@ -35134,7 +35134,9 @@
     "emailVerifiedAt": "2026-08-17",
     "template": "consultivo",
     "email1": true,
-    "date1": "2026-08-17"
+    "date1": "2026-08-17",
+    "email2": true,
+    "date2": "2026-08-22"
   },
   {
     "name": "Royal Bebidas",
@@ -35150,7 +35152,9 @@
     "emailVerifiedAt": "2026-08-17",
     "template": "consultivo",
     "email1": true,
-    "date1": "2026-08-17"
+    "date1": "2026-08-17",
+    "email2": true,
+    "date2": "2026-08-22"
   },
   {
     "name": "Palácio dos Vinhos",
@@ -35166,7 +35170,9 @@
     "emailVerifiedAt": "2026-08-17",
     "template": "consultivo",
     "email1": true,
-    "date1": "2026-08-17"
+    "date1": "2026-08-17",
+    "email2": true,
+    "date2": "2026-08-22"
   },
   {
     "name": "Distribuidora Cotia",
@@ -35182,7 +35188,9 @@
     "emailVerifiedAt": "2026-08-17",
     "template": "consultivo",
     "email1": true,
-    "date1": "2026-08-17"
+    "date1": "2026-08-17",
+    "email2": true,
+    "date2": "2026-08-22"
   },
   {
     "name": "Cofig Distribuidora",
@@ -35198,7 +35206,9 @@
     "emailVerifiedAt": "2026-08-17",
     "template": "consultivo",
     "email1": true,
-    "date1": "2026-08-17"
+    "date1": "2026-08-17",
+    "email2": true,
+    "date2": "2026-08-22"
   },
   {
     "name": "Maxx Indústria de Bebidas",
@@ -35214,7 +35224,9 @@
     "emailVerifiedAt": "2026-08-17",
     "template": "consultivo",
     "email1": true,
-    "date1": "2026-08-17"
+    "date1": "2026-08-17",
+    "email2": true,
+    "date2": "2026-08-22"
   },
   {
     "name": "The Wine Spot",
@@ -35230,7 +35242,9 @@
     "emailVerifiedAt": "2026-08-17",
     "template": "consultivo",
     "email1": true,
-    "date1": "2026-08-17"
+    "date1": "2026-08-17",
+    "email2": true,
+    "date2": "2026-08-22"
   },
   {
     "name": "Central Osasco",
@@ -35246,7 +35260,9 @@
     "emailVerifiedAt": "2026-08-17",
     "template": "consultivo",
     "email1": true,
-    "date1": "2026-08-17"
+    "date1": "2026-08-17",
+    "email2": true,
+    "date2": "2026-08-22"
   },
   {
     "name": "Central Wine",
@@ -35262,7 +35278,9 @@
     "emailVerifiedAt": "2026-08-17",
     "template": "consultivo",
     "email1": true,
-    "date1": "2026-08-17"
+    "date1": "2026-08-17",
+    "email2": true,
+    "date2": "2026-08-22"
   },
   {
     "name": "Taça Cheia Bar e Restaurante",
@@ -35278,7 +35296,9 @@
     "emailVerifiedAt": "2026-08-17",
     "template": "consultivo",
     "email1": true,
-    "date1": "2026-08-17"
+    "date1": "2026-08-17",
+    "email2": true,
+    "date2": "2026-08-22"
   },
   {
     "name": "Colibrí Distribuidora Food Service",
@@ -35313,7 +35333,9 @@
     "emailVerifiedAt": "2026-08-18",
     "template": "consultivo",
     "email1": true,
-    "date1": "2026-08-18"
+    "date1": "2026-08-18",
+    "email2": true,
+    "date2": "2026-08-22"
   },
   {
     "name": "Restaurante Cantinho do Tempero Jandira",
@@ -35329,7 +35351,9 @@
     "emailVerifiedAt": "2026-08-18",
     "template": "consultivo",
     "email1": true,
-    "date1": "2026-08-18"
+    "date1": "2026-08-18",
+    "email2": true,
+    "date2": "2026-08-22"
   },
   {
     "name": "A Quinta do Mirante",
@@ -35345,7 +35369,9 @@
     "emailVerifiedAt": "2026-08-18",
     "template": "consultivo",
     "email1": true,
-    "date1": "2026-08-18"
+    "date1": "2026-08-18",
+    "email2": true,
+    "date2": "2026-08-22"
   },
   {
     "name": "Savana Alphaville",
@@ -35361,7 +35387,9 @@
     "emailVerifiedAt": "2026-08-18",
     "template": "consultivo",
     "email1": true,
-    "date1": "2026-08-18"
+    "date1": "2026-08-18",
+    "email2": true,
+    "date2": "2026-08-22"
   },
   {
     "name": "Pacha Pizza Bar",
@@ -35377,7 +35405,9 @@
     "emailVerifiedAt": "2026-08-18",
     "template": "consultivo",
     "email1": true,
-    "date1": "2026-08-18"
+    "date1": "2026-08-18",
+    "email2": true,
+    "date2": "2026-08-22"
   },
   {
     "name": "O Taboão 2 Restaurante e Delivery",
@@ -35393,7 +35423,9 @@
     "emailVerifiedAt": "2026-08-18",
     "template": "consultivo",
     "email1": true,
-    "date1": "2026-08-18"
+    "date1": "2026-08-18",
+    "email2": true,
+    "date2": "2026-08-22"
   },
   {
     "name": "Zao Sushi Taboão",
@@ -35409,7 +35441,9 @@
     "emailVerifiedAt": "2026-08-18",
     "template": "consultivo",
     "email1": true,
-    "date1": "2026-08-18"
+    "date1": "2026-08-18",
+    "email2": true,
+    "date2": "2026-08-22"
   },
   {
     "name": "Rápido Chopp Taboão da Serra",
@@ -35425,7 +35459,9 @@
     "emailVerifiedAt": "2026-08-18",
     "template": "consultivo",
     "email1": true,
-    "date1": "2026-08-18"
+    "date1": "2026-08-18",
+    "email2": true,
+    "date2": "2026-08-22"
   },
   {
     "name": "Adega Caramuru",
@@ -35441,7 +35477,9 @@
     "emailVerifiedAt": "2026-08-18",
     "template": "consultivo",
     "email1": true,
-    "date1": "2026-08-18"
+    "date1": "2026-08-18",
+    "email2": true,
+    "date2": "2026-08-22"
   },
   {
     "name": "Boiadeiro Grill Diadema",
