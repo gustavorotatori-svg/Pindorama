@@ -1191,5 +1191,16 @@
     "verifiedAt": "2026-08-22",
     "notBefore": "2026-09-16",
     "status": "queued"
+  },
+  {
+    "name": "Quintal da Casemiro",
+    "phone": "(11) 97779-3867",
+    "type": "brazilian_cocktail_bar",
+    "city": "Sao Paulo",
+    "source": "https://baressp.com.br/bares/quintal-da-casemiro",
+    "evidence": "Perfil comercial atualizado em abril de 2026 confirma bar ativo em Mirandopolis, com comida de boteco brasileira, coquetelaria autoral, cervejas artesanais, musica ao vivo e WhatsApp empresarial publicado; o mix indica potencial recorrente para destilados, embora nao haja citacao explicita de cachaca.",
+    "verifiedAt": "2026-08-22",
+    "notBefore": "2026-09-16",
+    "status": "queued"
   }
 ]
