@@ -519,5 +519,16 @@
     "verifiedAt": "2026-08-21",
     "notBefore": "2026-09-15",
     "status": "queued"
+  },
+  {
+    "name": "Cardeal Pub",
+    "phone": "(11) 99498-1094",
+    "type": "bar",
+    "city": "Sao Paulo",
+    "source": "https://www.baressp.com.br/bares/cardeal-pub",
+    "evidence": "Perfil comercial atualizado em fevereiro de 2026 confirma pub ativo em Pinheiros ha 20 anos, com cervejas, destilados e carta de cachacas, e WhatsApp empresarial publicado.",
+    "verifiedAt": "2026-08-21",
+    "notBefore": "2026-09-15",
+    "status": "queued"
   }
 ]
