@@ -1213,5 +1213,16 @@
     "verifiedAt": "2026-08-22",
     "notBefore": "2026-09-16",
     "status": "queued"
+  },
+  {
+    "name": "Malibu Park Aclimacao",
+    "phone": "(11) 91114-0817",
+    "type": "multiunit_restaurant_cocktail_bar",
+    "city": "Sao Paulo",
+    "source": "https://www.baressp.com.br/restaurantes/brasileiros/malibu-park-aclimacao",
+    "evidence": "Perfil comercial atualizado em abril de 2026 confirma restaurante ativo na Aclimacao, com gastronomia e coquetelaria, funcionamento diario e WhatsApp empresarial publicado; a pagina tambem referencia unidade na Vila Madalena, indicando operacao multiunidade, mas nao publica presenca especifica de cachaca.",
+    "verifiedAt": "2026-08-22",
+    "notBefore": "2026-09-16",
+    "status": "queued"
   }
 ]
