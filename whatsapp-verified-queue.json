@@ -541,5 +541,16 @@
     "verifiedAt": "2026-08-21",
     "notBefore": "2026-09-15",
     "status": "queued"
+  },
+  {
+    "name": "Legitimo Bar & Choperia",
+    "phone": "(11) 99642-7015",
+    "type": "bar",
+    "city": "Sao Paulo",
+    "source": "https://baressp.com.br/bares/legitimo-bar-e-choperia",
+    "evidence": "Perfil comercial atualizado em maio de 2026 confirma bar ativo na Vila Mariana, com cachacas, whisky, chope e cervejas, e WhatsApp empresarial publicado.",
+    "verifiedAt": "2026-08-21",
+    "notBefore": "2026-09-15",
+    "status": "queued"
   }
 ]
