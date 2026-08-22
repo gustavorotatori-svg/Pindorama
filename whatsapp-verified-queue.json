@@ -948,5 +948,16 @@
     "verifiedAt": "2026-08-22",
     "notBefore": "2026-09-16",
     "status": "queued"
+  },
+  {
+    "name": "Grainne's Irish Pub",
+    "phone": "(19) 99931-9099",
+    "type": "pub",
+    "city": "Campinas",
+    "source": "https://baressp.com.br/bares/grainnes-irish-pub",
+    "evidence": "Perfil comercial atualizado em fevereiro de 2026 confirma pub irlandes ativo no Cambui, com cervejas importadas, ampla carta de destilados, adega climatizada, musica ao vivo e WhatsApp empresarial publicado.",
+    "verifiedAt": "2026-08-22",
+    "notBefore": "2026-09-16",
+    "status": "queued"
   }
 ]
