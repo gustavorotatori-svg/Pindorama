@@ -959,5 +959,16 @@
     "verifiedAt": "2026-08-22",
     "notBefore": "2026-09-16",
     "status": "queued"
+  },
+  {
+    "name": "Bahamas Hotel Club",
+    "phone": "(11) 91006-6969",
+    "type": "nightclub",
+    "city": "Sao Paulo",
+    "source": "https://baressp.com.br/baladas/bahamas-hotel-club",
+    "evidence": "Perfil comercial atualizado em julho de 2026 confirma casa noturna e hotel club ativo em Moema, com bar, ampla variedade de bebidas, adega de vinhos e WhatsApp empresarial publicado.",
+    "verifiedAt": "2026-08-22",
+    "notBefore": "2026-09-16",
+    "status": "queued"
   }
 ]
