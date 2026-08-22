@@ -706,5 +706,16 @@
     "verifiedAt": "2026-08-22",
     "notBefore": "2026-09-16",
     "status": "queued"
+  },
+  {
+    "name": "Vinicola Urbana",
+    "phone": "(11) 98167-9556",
+    "type": "wine_bar",
+    "city": "Sao Paulo",
+    "source": "https://www.baressp.com.br/bares/vinicola-urbana",
+    "evidence": "Perfil comercial atualizado em julho de 2026 confirma vinicola urbana ativa em Pinheiros, com vinhos proprios, sidras e coqueteis de vinho em desenvolvimento, e WhatsApp empresarial publicado.",
+    "verifiedAt": "2026-08-22",
+    "notBefore": "2026-09-16",
+    "status": "queued"
   }
 ]
