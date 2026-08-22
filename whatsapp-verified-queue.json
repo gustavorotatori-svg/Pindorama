@@ -1180,5 +1180,16 @@
     "verifiedAt": "2026-08-22",
     "notBefore": "2026-09-16",
     "status": "queued"
+  },
+  {
+    "name": "Bar do Vital",
+    "phone": "(11) 98754-9923",
+    "type": "boteco_cachaca_bar",
+    "city": "Sao Paulo",
+    "source": "https://www.baressp.com.br/bares/bar-do-vital",
+    "evidence": "Perfil comercial atualizado em marco de 2026 confirma boteco ativo na Consolacao, participante do Comida di Buteco, com selecao de cachacas mineiras, licores proprios e WhatsApp empresarial publicado.",
+    "verifiedAt": "2026-08-22",
+    "notBefore": "2026-09-16",
+    "status": "queued"
   }
 ]
