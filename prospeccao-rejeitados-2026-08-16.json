@@ -111,5 +111,13 @@
     "source": "https://baressp.com.br/baladas/bahamas-hotel-club",
     "discoverySource": "https://baressp.com.br/baladas/bahamas-hotel-club",
     "reason": "perfil especializado atualizado em julho de 2026 marca explicitamente o estabelecimento como fechado; removido da fila e rejeitado por seguranca comercial"
+  },
+  {
+    "checkedAt": "2026-08-22T13:02:33-03:00",
+    "name": "Limao & Brasa",
+    "phone": "(11) 3645-4586",
+    "source": "https://www.baressp.com.br/bares/limao-e-brasa",
+    "discoverySource": "https://www.baressp.com.br/bares/limao-e-brasa",
+    "reason": "bar brasileiro com cachaça artesanal propria e WhatsApp publicado em perfil atualizado em abril de 2026, mas o telefone ja consta no cadastro da Picanharia dos Amigos; rejeitado por deduplicacao e possivel rebranding da mesma operacao"
   }
 ]
