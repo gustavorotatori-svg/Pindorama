@@ -1125,5 +1125,16 @@
     "verifiedAt": "2026-08-22",
     "notBefore": "2026-09-16",
     "status": "queued"
+  },
+  {
+    "name": "Gu'San Shopping Continental",
+    "phone": "(11) 91454-0205",
+    "type": "asian_restaurant_bar",
+    "city": "Sao Paulo",
+    "source": "https://www.baressp.com.br/restaurantes/japoneses/gusan-shopping-continental",
+    "evidence": "Perfil comercial atualizado em abril de 2026 confirma restaurante pan-asiatico ativo no Continental Shopping, com bar, caipirinhas, destilados e WhatsApp empresarial publicado.",
+    "verifiedAt": "2026-08-22",
+    "notBefore": "2026-09-16",
+    "status": "queued"
   }
 ]
