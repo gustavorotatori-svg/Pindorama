@@ -103,5 +103,13 @@
     "source": "https://casadefrancisca.art.br/novo/contato",
     "discoverySource": "https://www.tripadvisor.com.br/Restaurant_Review-g303631-d1950767-Reviews-Casa_de_Francisca-Sao_Paulo_State_of_Sao_Paulo.html",
     "reason": "restaurante com bar ativo, email oficial e MX valido, mas entidade e destinatario ja constam no cadastro; rejeitado por deduplicacao"
+  },
+  {
+    "checkedAt": "2026-08-22T08:44:56-03:00",
+    "name": "Bahamas Hotel Club",
+    "phone": "(11) 91006-6969",
+    "source": "https://baressp.com.br/baladas/bahamas-hotel-club",
+    "discoverySource": "https://baressp.com.br/baladas/bahamas-hotel-club",
+    "reason": "perfil especializado atualizado em julho de 2026 marca explicitamente o estabelecimento como fechado; removido da fila e rejeitado por seguranca comercial"
   }
 ]
