@@ -1290,5 +1290,16 @@
     "verifiedAt": "2026-08-22",
     "notBefore": "2026-08-22",
     "status": "queued"
+  },
+  {
+    "name": "Casa Porto D'Vino",
+    "phone": "(11) 94044-1797",
+    "type": "adega_loja_ecommerce_destilados",
+    "city": "Santo Andre",
+    "source": "https://www.casaportodvino.com.br/conheca-a-casa/",
+    "evidence": "Site oficial consultado em agosto de 2026 confirma loja fisica e e-commerce ativos, mais de 300 rotulos, destilados e opcoes premium; identifica Gabi na curadoria, atendimento e administracao e publica WhatsApp empresarial.",
+    "verifiedAt": "2026-08-22",
+    "notBefore": "2026-08-22",
+    "status": "queued"
   }
 ]

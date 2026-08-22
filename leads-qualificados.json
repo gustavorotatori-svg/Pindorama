@@ -35668,5 +35668,19 @@
     "whatsappSource": "https://www.montcristowinebar.com.br/",
     "whatsappVerifiedAt": "2026-08-22",
     "template": "consultivo"
+  },
+  {
+    "name": "Casa Porto D'Vino",
+    "type": "adega",
+    "neighborhood": "Campestre",
+    "address": "Rua Porto Carrero, 424 - Campestre - Santo Andre/SP",
+    "context": "Loja fisica e e-commerce ativos em Santo Andre desde julho de 2024, com mais de 300 rotulos, destilados, licores e opcoes premium. O site oficial informa que Gabi conduz a curadoria, o atendimento e a administracao e publica WhatsApp empresarial; potencial de recompra e inferido pelo modelo hibrido e curadoria, sem volume divulgado.",
+    "phone": "(11) 94044-1797",
+    "website": "https://www.casaportodvino.com.br/conheca-a-casa/",
+    "contactName": "Gabi",
+    "contactRole": "curadoria, atendimento e administracao",
+    "whatsappSource": "https://www.casaportodvino.com.br/conheca-a-casa/",
+    "whatsappVerifiedAt": "2026-08-22",
+    "template": "consultivo"
   }
 ]
