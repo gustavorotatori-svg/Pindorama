@@ -1114,5 +1114,16 @@
     "verifiedAt": "2026-08-22",
     "notBefore": "2026-09-16",
     "status": "queued"
+  },
+  {
+    "name": "Espeto Bom",
+    "phone": "(11) 94725-5612",
+    "type": "bar_meat_shop_buffet",
+    "city": "Sao Paulo",
+    "source": "https://www.baressp.com.br/restaurantes/bar-e-restaurante/espeto-bom",
+    "evidence": "Perfil comercial atualizado em abril de 2026 confirma bar e loja de carnes ativo no Tatuape, com caipirinhas, bebidas e buffet para eventos, alem de WhatsApp empresarial publicado.",
+    "verifiedAt": "2026-08-22",
+    "notBefore": "2026-09-16",
+    "status": "queued"
   }
 ]
