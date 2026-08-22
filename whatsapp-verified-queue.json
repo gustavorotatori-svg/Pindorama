@@ -552,5 +552,16 @@
     "verifiedAt": "2026-08-21",
     "notBefore": "2026-09-15",
     "status": "queued"
+  },
+  {
+    "name": "Comandante Bar",
+    "phone": "(11) 95277-6850",
+    "type": "bar",
+    "city": "Sao Paulo",
+    "source": "https://www.baressp.com.br/bares/comandante-bar",
+    "evidence": "Perfil comercial atualizado em abril de 2026 confirma bar tematico ativo na Vila Mariana, voltado a happy hour e operacao noturna, com WhatsApp empresarial publicado.",
+    "verifiedAt": "2026-08-21",
+    "notBefore": "2026-09-15",
+    "status": "queued"
   }
 ]
