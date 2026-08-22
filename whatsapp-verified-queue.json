@@ -1202,5 +1202,16 @@
     "verifiedAt": "2026-08-22",
     "notBefore": "2026-09-16",
     "status": "queued"
+  },
+  {
+    "name": "W3 Restaurante Jaragua",
+    "phone": "(11) 97481-6296",
+    "type": "hotel_restaurant_cocktail_bar",
+    "city": "Sao Paulo",
+    "source": "https://www.baressp.com.br/restaurantes/cozinha-contemporanea/w3-restaurante",
+    "evidence": "Perfil comercial atualizado em abril de 2026 confirma restaurante ativo no Hotel Nacional Inn Jaragua, com bar completo, cervejas premium, coquetelaria classica, whiskies, cachacas selecionadas, extensa carta de vinhos e WhatsApp empresarial publicado; a operacao hoteleira sugere consumo recorrente, mas o volume de compra nao esta publicado.",
+    "verifiedAt": "2026-08-22",
+    "notBefore": "2026-09-16",
+    "status": "queued"
   }
 ]
