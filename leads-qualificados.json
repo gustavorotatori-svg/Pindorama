@@ -35620,5 +35620,17 @@
     "mxVerified": true,
     "mxVerifiedAt": "2026-08-22",
     "template": "consultivo"
+  },
+  {
+    "name": "Adega Morais",
+    "type": "adega",
+    "neighborhood": "Barueri",
+    "address": "Barueri/SP",
+    "context": "Adega e delivery ativo em 2026 para Barueri e regiao, com catalogo de cervejas premium, vinhos e destilados importados, conveniencia e pedidos pelo WhatsApp. O potencial de recompra e inferido pelo delivery e pelo catalogo amplo; volume e numero de unidades nao sao publicados.",
+    "phone": "+55 11 99423-9844",
+    "website": "https://adegamorais.shop/",
+    "whatsappSource": "https://adegamorais.shop/",
+    "whatsappVerifiedAt": "2026-08-22",
+    "template": "consultivo"
   }
 ]

@@ -1246,5 +1246,16 @@
     "verifiedAt": "2026-08-22",
     "notBefore": "2026-08-22",
     "status": "queued"
+  },
+  {
+    "name": "Adega Morais",
+    "phone": "+55 11 99423-9844",
+    "type": "adega_delivery_destilados",
+    "city": "Barueri",
+    "source": "https://adegamorais.shop/",
+    "evidence": "Site oficial consultado em agosto de 2026 confirma operacao ativa, atendimento a Barueri e regiao, catalogo de vinhos e destilados, delivery e WhatsApp empresarial publicado.",
+    "verifiedAt": "2026-08-22",
+    "notBefore": "2026-08-22",
+    "status": "queued"
   }
 ]
