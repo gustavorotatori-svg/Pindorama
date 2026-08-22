@@ -695,5 +695,16 @@
     "verifiedAt": "2026-08-22",
     "notBefore": "2026-09-16",
     "status": "queued"
+  },
+  {
+    "name": "Altar Cozinha Afro Pop Ancestral",
+    "phone": "(81) 98744-0112",
+    "type": "bar_restaurant",
+    "city": "Sao Paulo",
+    "source": "https://www.baressp.com.br/bares/altar-cozinha-afro-pop-ancestral",
+    "evidence": "Perfil comercial atualizado em marco de 2026 confirma estabelecimento ativo em Pinheiros, com coqueteis autorais e gastronomia brasileira afro-indigena, e WhatsApp empresarial de reservas publicado.",
+    "verifiedAt": "2026-08-22",
+    "notBefore": "2026-09-16",
+    "status": "queued"
   }
 ]
