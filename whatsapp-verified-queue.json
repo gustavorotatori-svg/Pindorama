@@ -1169,5 +1169,16 @@
     "verifiedAt": "2026-08-22",
     "notBefore": "2026-09-16",
     "status": "queued"
+  },
+  {
+    "name": "Bistrot de Ville Vila Mariana",
+    "phone": "(11) 98348-3472",
+    "type": "french_bistro_restaurant",
+    "city": "Sao Paulo",
+    "source": "https://baressp.com.br/restaurantes/franceses/bistrot-de-ville-vila-mariana",
+    "evidence": "Perfil comercial atualizado em abril de 2026 confirma bistro frances ativo na Vila Mariana, com carta de vinhos, espaco para eventos privativos e WhatsApp empresarial publicado.",
+    "verifiedAt": "2026-08-22",
+    "notBefore": "2026-09-16",
+    "status": "queued"
   }
 ]
