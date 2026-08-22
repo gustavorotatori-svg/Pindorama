@@ -596,5 +596,16 @@
     "verifiedAt": "2026-08-21",
     "notBefore": "2026-09-15",
     "status": "queued"
+  },
+  {
+    "name": "Boteco do Edu",
+    "phone": "(11) 97603-3991",
+    "type": "bar",
+    "city": "Sao Paulo",
+    "source": "https://www.baressp.com.br/bares/boteco-do-edu",
+    "evidence": "Perfil comercial atualizado em abril de 2026 confirma boteco ativo na Vila Santo Estevao, voltado a happy hour e culinaria de boteco, e WhatsApp empresarial publicado.",
+    "verifiedAt": "2026-08-22",
+    "notBefore": "2026-09-16",
+    "status": "queued"
   }
 ]
