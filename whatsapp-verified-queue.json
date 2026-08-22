@@ -563,5 +563,16 @@
     "verifiedAt": "2026-08-21",
     "notBefore": "2026-09-15",
     "status": "queued"
+  },
+  {
+    "name": "Madera Bar",
+    "phone": "(11) 96624-8312",
+    "type": "bar",
+    "city": "Sao Paulo",
+    "source": "https://www.baressp.com.br/bares/madera-bar",
+    "evidence": "Perfil comercial atualizado em abril de 2026 confirma bar boemio ativo na Bela Vista, com bebidas, petiscos e operacao noturna, e WhatsApp empresarial publicado.",
+    "verifiedAt": "2026-08-21",
+    "notBefore": "2026-09-15",
+    "status": "queued"
   }
 ]
