@@ -926,5 +926,16 @@
     "verifiedAt": "2026-08-22",
     "notBefore": "2026-09-16",
     "status": "queued"
+  },
+  {
+    "name": "Quintal Bar SP",
+    "phone": "(11) 93953-4202",
+    "type": "bar",
+    "city": "Sao Paulo",
+    "source": "https://baressp.com.br/bares/quintal-bar-sp",
+    "evidence": "Perfil comercial atualizado em janeiro de 2026 confirma bar ativo no Tatuape, com carta de coqueteis, musica ao vivo, ambiente a ceu aberto e WhatsApp empresarial publicado.",
+    "verifiedAt": "2026-08-22",
+    "notBefore": "2026-09-16",
+    "status": "queued"
   }
 ]
