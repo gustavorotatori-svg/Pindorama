@@ -937,5 +937,16 @@
     "verifiedAt": "2026-08-22",
     "notBefore": "2026-09-16",
     "status": "queued"
+  },
+  {
+    "name": "Chez Amis Bistro",
+    "phone": "(11) 94504-4541",
+    "type": "restaurant",
+    "city": "Sao Paulo",
+    "source": "https://www.baressp.com.br/restaurantes/franceses/chez-amis-bistro",
+    "evidence": "Perfil comercial atualizado em abril de 2026 confirma bistro ativo em Cerqueira Cesar, com carta de vinhos e coqueteis classicos, operacao diaria e WhatsApp empresarial de reservas publicado.",
+    "verifiedAt": "2026-08-22",
+    "notBefore": "2026-09-16",
+    "status": "queued"
   }
 ]
