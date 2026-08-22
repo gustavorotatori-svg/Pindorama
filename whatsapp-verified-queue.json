@@ -508,5 +508,16 @@
     "verifiedAt": "2026-08-21",
     "notBefore": "2026-09-12",
     "status": "queued"
+  },
+  {
+    "name": "Grobe Maus Rock Bar",
+    "phone": "(11) 94748-2636",
+    "type": "bar",
+    "city": "Sao Paulo",
+    "source": "https://baressp.com.br/bares/grobe-maus-rock-bar",
+    "evidence": "Perfil comercial atualizado em abril de 2026 confirma bar ativo no Tucuruvi, com caipirinhas, Negroni e outros coqueteis classicos, e WhatsApp empresarial publicado.",
+    "verifiedAt": "2026-08-21",
+    "notBefore": "2026-09-15",
+    "status": "queued"
   }
 ]
