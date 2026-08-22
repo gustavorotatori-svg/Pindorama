@@ -1235,5 +1235,16 @@
     "verifiedAt": "2026-08-22",
     "notBefore": "2026-09-16",
     "status": "queued"
+  },
+  {
+    "name": "Adega Delivery",
+    "phone": "(11) 98774-9030",
+    "type": "adega_delivery_destilados",
+    "city": "Sao Paulo",
+    "source": "https://adega.delivery/",
+    "evidence": "Site oficial consultado em agosto de 2026 confirma operacao ativa 24 horas, loja fisica, delivery em Sao Paulo, catalogo explicito de cachaca e outros destilados, email e WhatsApp empresarial publicados.",
+    "verifiedAt": "2026-08-22",
+    "notBefore": "2026-08-22",
+    "status": "queued"
   }
 ]

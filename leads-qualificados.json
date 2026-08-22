@@ -35604,5 +35604,21 @@
     "whatsappSource": "https://seensp.com/sobre-nos/",
     "email1": true,
     "date1": "2026-08-21"
+  },
+  {
+    "name": "Adega Delivery",
+    "email": "contato@adega.delivery",
+    "type": "adega",
+    "neighborhood": "Jardim Jaqueline",
+    "address": "Rua Carlantonio Carlone, 80 - Jardim Jaqueline - Sao Paulo/SP - 05529-000",
+    "context": "Adega e delivery 24 horas ativo em Sao Paulo, com loja fisica, alcance declarado de ate 40 km e catalogo que inclui cachaca, vinhos, cervejas e outros destilados. O site oficial publica email e WhatsApp empresarial; potencial de recompra e inferido pelo modelo de delivery e variedade, sem volume divulgado.",
+    "phone": "(11) 98774-9030",
+    "website": "https://adega.delivery/",
+    "emailVerified": true,
+    "emailSource": "https://adega.delivery/",
+    "emailVerifiedAt": "2026-08-22",
+    "mxVerified": true,
+    "mxVerifiedAt": "2026-08-22",
+    "template": "consultivo"
   }
 ]
