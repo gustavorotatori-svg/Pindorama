@@ -640,5 +640,16 @@
     "verifiedAt": "2026-08-22",
     "notBefore": "2026-09-16",
     "status": "queued"
+  },
+  {
+    "name": "Vesuvio Beer & Burger",
+    "phone": "(11) 95858-5558",
+    "type": "pub",
+    "city": "Sao Paulo",
+    "source": "https://www.baressp.com.br/bares/vesuvio-beer-e-burger",
+    "evidence": "Perfil comercial atualizado em fevereiro de 2026 confirma pub ativo em Perdizes, com 12 torneiras de cerveja e drinques classicos e exclusivos, e WhatsApp empresarial publicado.",
+    "verifiedAt": "2026-08-22",
+    "notBefore": "2026-09-16",
+    "status": "queued"
   }
 ]
