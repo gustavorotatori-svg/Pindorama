@@ -1004,5 +1004,16 @@
     "verifiedAt": "2026-08-22",
     "notBefore": "2026-09-16",
     "status": "queued"
+  },
+  {
+    "name": "Platter & Co",
+    "phone": "(11) 98947-6125",
+    "type": "wine_bar_restaurant",
+    "city": "Sao Paulo",
+    "source": "https://www.baressp.com.br/restaurantes/cozinha-contemporanea/platter-e-co",
+    "evidence": "Perfil comercial atualizado em julho de 2026 confirma restaurante e listening wine bar ativo no Jardim Paulista, com vinhos em taca, delivery, eventos e WhatsApp empresarial publicado.",
+    "verifiedAt": "2026-08-22",
+    "notBefore": "2026-09-16",
+    "status": "queued"
   }
 ]
