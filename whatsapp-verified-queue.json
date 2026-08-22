@@ -827,5 +827,16 @@
     "verifiedAt": "2026-08-22",
     "notBefore": "2026-09-16",
     "status": "queued"
+  },
+  {
+    "name": "Metro Pub",
+    "phone": "(11) 99883-7303",
+    "type": "pub",
+    "city": "Sao Paulo",
+    "source": "https://www.baressp.com.br/bares/metro-pub",
+    "evidence": "Perfil comercial atualizado em fevereiro de 2026 confirma pub ativo na Vila Guilhermina, com cervejas nacionais e importadas, gastronomia de pub, musica ao vivo e WhatsApp empresarial publicado.",
+    "verifiedAt": "2026-08-22",
+    "notBefore": "2026-09-16",
+    "status": "queued"
   }
 ]
