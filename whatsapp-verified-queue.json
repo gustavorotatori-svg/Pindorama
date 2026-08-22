@@ -684,5 +684,16 @@
     "verifiedAt": "2026-08-22",
     "notBefore": "2026-09-16",
     "status": "queued"
+  },
+  {
+    "name": "Bar Espeto Na Brasa",
+    "phone": "(11) 96751-2789",
+    "type": "bar",
+    "city": "Sao Paulo",
+    "source": "https://www.baressp.com.br/bares/bar-espeto-na-brasa",
+    "evidence": "Perfil comercial atualizado em marco de 2026 confirma bar ativo na Vila Maria, com carta de drinks, happy hour e musica ao vivo, e WhatsApp empresarial publicado.",
+    "verifiedAt": "2026-08-22",
+    "notBefore": "2026-09-16",
+    "status": "queued"
   }
 ]
