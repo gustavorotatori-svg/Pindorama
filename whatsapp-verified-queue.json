@@ -673,5 +673,16 @@
     "verifiedAt": "2026-08-22",
     "notBefore": "2026-09-16",
     "status": "queued"
+  },
+  {
+    "name": "Steel Bar SP",
+    "phone": "(11) 98193-9970",
+    "type": "pub",
+    "city": "Sao Paulo",
+    "source": "https://baressp.com.br/bares/steel-bar-sp",
+    "evidence": "Perfil comercial atualizado em agosto de 2026 confirma pub ativo em Indianopolis, com musica ao vivo, chopp e drinks especiais, e WhatsApp empresarial publicado.",
+    "verifiedAt": "2026-08-22",
+    "notBefore": "2026-09-16",
+    "status": "queued"
   }
 ]
