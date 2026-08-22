@@ -1070,5 +1070,16 @@
     "verifiedAt": "2026-08-22",
     "notBefore": "2026-09-16",
     "status": "queued"
+  },
+  {
+    "name": "Hifi Community",
+    "phone": "(11) 91782-0896",
+    "type": "restaurant_listening_bar_club",
+    "city": "Sao Paulo",
+    "source": "https://www.baressp.com.br/restaurantes/bar-e-restaurante/hifi-community",
+    "evidence": "Perfil comercial atualizado em marco de 2026 confirma complexo ativo na Vila Leopoldina com restaurante, listening bar, club noturno, adega e carta de vinhos, alem de WhatsApp empresarial publicado.",
+    "verifiedAt": "2026-08-22",
+    "notBefore": "2026-09-16",
+    "status": "queued"
   }
 ]
