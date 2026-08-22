@@ -530,5 +530,16 @@
     "verifiedAt": "2026-08-21",
     "notBefore": "2026-09-15",
     "status": "queued"
+  },
+  {
+    "name": "Bar do Vardema",
+    "phone": "(11) 91874-9552",
+    "type": "bar",
+    "city": "Sao Paulo",
+    "source": "https://www.baressp.com.br/bares/bar-do-vardema",
+    "evidence": "Perfil comercial atualizado em marco de 2026 confirma boteco ativo na Mooca, com chope, cervejas e caipirinhas, e WhatsApp empresarial publicado.",
+    "verifiedAt": "2026-08-21",
+    "notBefore": "2026-09-15",
+    "status": "queued"
   }
 ]
