@@ -904,5 +904,16 @@
     "verifiedAt": "2026-08-22",
     "notBefore": "2026-09-16",
     "status": "queued"
+  },
+  {
+    "name": "Bambuteco",
+    "phone": "(11) 96843-9697",
+    "type": "bar_restaurant",
+    "city": "Sao Paulo",
+    "source": "https://baressp.com.br/restaurantes/bar-e-restaurante/bambuteco",
+    "evidence": "Perfil comercial atualizado em marco de 2026 confirma bar e restaurante ativo no Butanta, com happy hour, ambiente noturno, eventos e WhatsApp empresarial publicado.",
+    "verifiedAt": "2026-08-22",
+    "notBefore": "2026-09-16",
+    "status": "queued"
   }
 ]
