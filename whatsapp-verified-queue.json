@@ -750,5 +750,16 @@
     "verifiedAt": "2026-08-22",
     "notBefore": "2026-09-16",
     "status": "queued"
+  },
+  {
+    "name": "NoBar Consolacao",
+    "phone": "(11) 99214-6934",
+    "type": "bar_restaurant",
+    "city": "Sao Paulo",
+    "source": "https://baressp.com.br/bares/nobar-consolacao",
+    "evidence": "Perfil comercial atualizado em abril de 2026 confirma bar e restaurante ativo na Consolacao, voltado a happy hour e cultura de botequim, e WhatsApp empresarial publicado.",
+    "verifiedAt": "2026-08-22",
+    "notBefore": "2026-09-16",
+    "status": "queued"
   }
 ]
