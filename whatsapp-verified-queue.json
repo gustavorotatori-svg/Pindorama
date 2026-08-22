@@ -1092,5 +1092,16 @@
     "verifiedAt": "2026-08-22",
     "notBefore": "2026-09-16",
     "status": "queued"
+  },
+  {
+    "name": "300 Sky Bar",
+    "phone": "(11) 93070-0300",
+    "type": "rooftop_bar_restaurant",
+    "city": "Sao Paulo",
+    "source": "https://www.baressp.com.br/restaurantes/bar-e-restaurante/300-sky-bar",
+    "evidence": "Perfil comercial atualizado em abril de 2026 confirma rooftop ativo no Itaim Bibi com alta gastronomia, coquetelaria, DJs e WhatsApp empresarial explicitamente publicado.",
+    "verifiedAt": "2026-08-22",
+    "notBefore": "2026-09-16",
+    "status": "queued"
   }
 ]
