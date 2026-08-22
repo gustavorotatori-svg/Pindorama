@@ -838,5 +838,16 @@
     "verifiedAt": "2026-08-22",
     "notBefore": "2026-09-16",
     "status": "queued"
+  },
+  {
+    "name": "O Bretao Pub",
+    "phone": "(15) 99126-9981",
+    "type": "pub",
+    "city": "Sorocaba",
+    "source": "https://www.baressp.com.br/bares/o-bretao-pub",
+    "evidence": "Perfil comercial atualizado em fevereiro de 2026 confirma pub ativo em Sorocaba, com oito torneiras de cervejas artesanais, gastronomia de pub e WhatsApp empresarial publicado.",
+    "verifiedAt": "2026-08-22",
+    "notBefore": "2026-09-16",
+    "status": "queued"
   }
 ]
