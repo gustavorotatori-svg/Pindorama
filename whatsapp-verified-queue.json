@@ -1081,5 +1081,16 @@
     "verifiedAt": "2026-08-22",
     "notBefore": "2026-09-16",
     "status": "queued"
+  },
+  {
+    "name": "Coxixo",
+    "phone": "(11) 92049-7108",
+    "type": "restaurant_night_bar",
+    "city": "Sao Paulo",
+    "source": "https://www.baressp.com.br/restaurantes/bar-e-restaurante/coxixo",
+    "evidence": "Perfil comercial atualizado em abril de 2026 confirma restaurante contemporaneo e bar de experiencia ativo na Pompeia, com operacao noturna e WhatsApp empresarial publicado.",
+    "verifiedAt": "2026-08-22",
+    "notBefore": "2026-09-16",
+    "status": "queued"
   }
 ]
