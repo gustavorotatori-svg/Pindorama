@@ -882,5 +882,16 @@
     "verifiedAt": "2026-08-22",
     "notBefore": "2026-09-16",
     "status": "queued"
+  },
+  {
+    "name": "Jazzy Sushi House",
+    "phone": "(11) 98979-0862",
+    "type": "restaurant",
+    "city": "Sao Paulo",
+    "source": "https://baressp.com.br/restaurantes/japoneses/jazzy-sushi-house",
+    "evidence": "Perfil comercial atualizado em fevereiro de 2026 confirma restaurante japones ativo no Campo Belo, com drinks autorais, ampla carta de vinhos e saques, e WhatsApp empresarial publicado.",
+    "verifiedAt": "2026-08-22",
+    "notBefore": "2026-09-16",
+    "status": "queued"
   }
 ]
