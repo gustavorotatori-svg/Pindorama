@@ -1257,5 +1257,16 @@
     "verifiedAt": "2026-08-22",
     "notBefore": "2026-08-22",
     "status": "queued"
+  },
+  {
+    "name": "Confianca Atacadista de Bebidas",
+    "phone": "(11) 93071-3396",
+    "type": "atacadista_distribuidora_destilados",
+    "city": "Sao Paulo",
+    "source": "https://br.linkedin.com/company/confianca-atacadista-de-bebidas",
+    "evidence": "Pagina empresarial oficial consultada em agosto de 2026 confirma atacadista ativo desde 1991, portfolio de destilados, porte de 51 a 200 funcionarios e WhatsApp de televendas explicitamente publicado.",
+    "verifiedAt": "2026-08-22",
+    "notBefore": "2026-08-22",
+    "status": "queued"
   }
 ]
