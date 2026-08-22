@@ -1147,5 +1147,16 @@
     "verifiedAt": "2026-08-22",
     "notBefore": "2026-09-16",
     "status": "queued"
+  },
+  {
+    "name": "Vaca Viuva Choperia",
+    "phone": "(11) 99110-5916",
+    "type": "choperia_bar_restaurant",
+    "city": "Sao Paulo",
+    "source": "https://baressp.com.br/bares/vaca-viuva",
+    "evidence": "Perfil comercial atualizado em abril de 2026 confirma choperia e bar ativo em Santo Amaro, com pratos de boteco ligados a cachaca e WhatsApp empresarial publicado.",
+    "verifiedAt": "2026-08-22",
+    "notBefore": "2026-09-16",
+    "status": "queued"
   }
 ]
