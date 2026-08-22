@@ -772,5 +772,16 @@
     "verifiedAt": "2026-08-22",
     "notBefore": "2026-09-16",
     "status": "queued"
+  },
+  {
+    "name": "Boteco do Max Nola",
+    "phone": "(11) 99980-1876",
+    "type": "bar",
+    "city": "Sao Paulo",
+    "source": "https://www.baressp.com.br/bares/boteco-do-max-nola-",
+    "evidence": "Perfil comercial atualizado em novembro de 2025 confirma boteco ativo na Vila Leopoldina, voltado a happy hour, com cervejas, drinks e gastronomia contemporanea, e WhatsApp empresarial publicado.",
+    "verifiedAt": "2026-08-22",
+    "notBefore": "2026-09-16",
+    "status": "queued"
   }
 ]
