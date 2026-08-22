@@ -1048,5 +1048,16 @@
     "verifiedAt": "2026-08-22",
     "notBefore": "2026-09-16",
     "status": "queued"
+  },
+  {
+    "name": "Bra Bra Amauri",
+    "phone": "(11) 91837-1995",
+    "type": "bar_restaurant_wine",
+    "city": "Sao Paulo",
+    "source": "https://www.baressp.com.br/restaurantes/bar-e-restaurante/bra-bra-amauri",
+    "evidence": "Perfil comercial atualizado em marco de 2026 confirma bar e restaurante ativo no Itaim Bibi, com carta de cerca de 30 rotulos de vinho e WhatsApp empresarial publicado.",
+    "verifiedAt": "2026-08-22",
+    "notBefore": "2026-09-16",
+    "status": "queued"
   }
 ]
