@@ -1224,5 +1224,16 @@
     "verifiedAt": "2026-08-22",
     "notBefore": "2026-09-16",
     "status": "queued"
+  },
+  {
+    "name": "Praca Figueiras Gastrobar",
+    "phone": "(11) 4509-0121",
+    "type": "gastrobar_cocktail_wine_bar",
+    "city": "Santo Andre",
+    "source": "https://www.pracafigueiras.com.br/",
+    "evidence": "Site oficial consultado em agosto de 2026 confirma gastrobar ativo em Santo Andre, com drinks classicos e autorais, carta de vinhos, chope, reservas e WhatsApp empresarial publicado; o perfil de bar sugere recompra de bebidas, mas o site nao cita cachaca especificamente.",
+    "verifiedAt": "2026-08-22",
+    "notBefore": "2026-09-16",
+    "status": "queued"
   }
 ]
