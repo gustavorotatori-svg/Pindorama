@@ -717,5 +717,16 @@
     "verifiedAt": "2026-08-22",
     "notBefore": "2026-09-16",
     "status": "queued"
+  },
+  {
+    "name": "Vila Dionisio Ribeirao Preto",
+    "phone": "(16) 98111-4455",
+    "type": "pub",
+    "city": "Ribeirao Preto",
+    "source": "https://www.baressp.com.br/bares/vila-dionisio-ribeirao-preto",
+    "evidence": "Perfil comercial atualizado em fevereiro de 2026 confirma pub ativo em Ribeirao Preto, com cervejaria propria, coqueteis, happy hour e musica ao vivo, e WhatsApp empresarial publicado.",
+    "verifiedAt": "2026-08-22",
+    "notBefore": "2026-09-16",
+    "status": "queued"
   }
 ]
