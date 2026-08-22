@@ -761,5 +761,16 @@
     "verifiedAt": "2026-08-22",
     "notBefore": "2026-09-16",
     "status": "queued"
+  },
+  {
+    "name": "Boteco Vila Cruzeiro",
+    "phone": "(11) 96613-7994",
+    "type": "bar",
+    "city": "Sao Paulo",
+    "source": "https://baressp.com.br/bares/boteco-vila-cruzeiro",
+    "evidence": "Perfil comercial atualizado em novembro de 2025 confirma boteco ativo na Vila Cruzeiro, com drinks classicos, cervejas e porcoes autorais, e WhatsApp empresarial publicado.",
+    "verifiedAt": "2026-08-22",
+    "notBefore": "2026-09-16",
+    "status": "queued"
   }
 ]
