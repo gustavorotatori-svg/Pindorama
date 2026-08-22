@@ -607,5 +607,16 @@
     "verifiedAt": "2026-08-22",
     "notBefore": "2026-09-16",
     "status": "queued"
+  },
+  {
+    "name": "No Ponto Espeto & Bar",
+    "phone": "(11) 99011-3879",
+    "type": "bar",
+    "city": "Sao Paulo",
+    "source": "https://baressp.com.br/bares/no-ponto-espeto-e-bar",
+    "evidence": "Perfil comercial atualizado em novembro de 2025 confirma bar ativo na Vila da Saude, voltado a happy hour, com cervejas e chopes, e WhatsApp empresarial publicado.",
+    "verifiedAt": "2026-08-22",
+    "notBefore": "2026-09-16",
+    "status": "queued"
   }
 ]
