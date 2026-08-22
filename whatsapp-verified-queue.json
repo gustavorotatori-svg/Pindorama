@@ -893,5 +893,16 @@
     "verifiedAt": "2026-08-22",
     "notBefore": "2026-09-16",
     "status": "queued"
+  },
+  {
+    "name": "Almirante Bar e Restaurante",
+    "phone": "(11) 98462-8573",
+    "type": "bar_restaurant",
+    "city": "Sao Paulo",
+    "source": "https://www.baressp.com.br/bares/almirante-bar-e-restaurante",
+    "evidence": "Perfil comercial atualizado em maio de 2026 confirma bar e restaurante ativo no Ipiranga, com gastronomia de boteco, cervejas, ambiente para encontros e WhatsApp empresarial publicado.",
+    "verifiedAt": "2026-08-22",
+    "notBefore": "2026-09-16",
+    "status": "queued"
   }
 ]
