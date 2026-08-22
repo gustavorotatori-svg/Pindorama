@@ -783,5 +783,16 @@
     "verifiedAt": "2026-08-22",
     "notBefore": "2026-09-16",
     "status": "queued"
+  },
+  {
+    "name": "Tocha Bar & Brasa",
+    "phone": "(11) 97227-5376",
+    "type": "bar_restaurant",
+    "city": "Sao Paulo",
+    "source": "https://www.baressp.com.br/restaurantes/churrascarias/tocha-bar-e-brasa",
+    "evidence": "Perfil comercial atualizado em abril de 2026 confirma bar e restaurante ativo na Vila Olimpia, com carta de drinks, coquetelaria e musica, e WhatsApp empresarial de reservas publicado.",
+    "verifiedAt": "2026-08-22",
+    "notBefore": "2026-09-16",
+    "status": "queued"
   }
 ]
