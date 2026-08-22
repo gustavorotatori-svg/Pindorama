@@ -871,5 +871,16 @@
     "verifiedAt": "2026-08-22",
     "notBefore": "2026-09-16",
     "status": "queued"
+  },
+  {
+    "name": "Bar do Cumpadi",
+    "phone": "(11) 2548-3447",
+    "type": "bar_restaurant",
+    "city": "Sao Paulo",
+    "source": "https://www.baressp.com.br/bares/bar-do-cumpadi-",
+    "evidence": "Perfil comercial atualizado em abril de 2026 confirma bar e restaurante ativo na Vila Isa, com happy hour, cervejas, drinks, coqueteis classicos e WhatsApp empresarial publicado.",
+    "verifiedAt": "2026-08-22",
+    "notBefore": "2026-09-16",
+    "status": "queued"
   }
 ]
