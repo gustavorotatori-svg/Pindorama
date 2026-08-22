@@ -860,5 +860,16 @@
     "verifiedAt": "2026-08-22",
     "notBefore": "2026-09-16",
     "status": "queued"
+  },
+  {
+    "name": "BlackPool Pub",
+    "phone": "(11) 99474-8109",
+    "type": "pub",
+    "city": "Sao Paulo",
+    "source": "https://www.baressp.com.br/bares/blackpool-pub",
+    "evidence": "Perfil comercial atualizado em fevereiro de 2026 confirma pub ativo no Tatuape, especializado em cervejas selecionadas e artesanais, com cinco torneiras e WhatsApp empresarial publicado.",
+    "verifiedAt": "2026-08-22",
+    "notBefore": "2026-09-16",
+    "status": "queued"
   }
 ]
