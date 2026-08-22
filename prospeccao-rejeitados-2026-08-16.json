@@ -127,5 +127,13 @@
     "source": "https://baressp.com.br/bares/o-bretao-pub",
     "discoverySource": "https://baressp.com.br/bares/o-bretao-pub",
     "reason": "pub ativo de Sorocaba com WhatsApp empresarial publicado e perfil atualizado em fevereiro de 2026, mas empresa e telefone ja constam na fila verificada; descartado nesta varredura por deduplicacao"
+  },
+  {
+    "checkedAt": "2026-08-22T14:06:32-03:00",
+    "name": "Vinicola Castanho",
+    "phone": "(11) 4863-0930",
+    "source": "https://baressp.com.br/fornecedores/alimentos-e-bebidas/vinicola-castanho",
+    "discoverySource": "https://baressp.com.br/fornecedores/alimentos-e-bebidas/vinicola-castanho",
+    "reason": "fonte atualizada em agosto de 2026 confirma fabricante de vinhos e cachacas com loja propria, mas a atividade principal e producao concorrente e nao um estabelecimento comprador aderente; rejeitado por inadequacao comercial"
   }
 ]
