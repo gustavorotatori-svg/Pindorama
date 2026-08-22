@@ -662,5 +662,16 @@
     "verifiedAt": "2026-08-22",
     "notBefore": "2026-09-16",
     "status": "queued"
+  },
+  {
+    "name": "Bar do Ale",
+    "phone": "(11) 94739-5209",
+    "type": "bar",
+    "city": "Sao Paulo",
+    "source": "https://www.baressp.com.br/bares/bar-do-ale",
+    "evidence": "Perfil comercial atualizado em novembro de 2025 confirma bar ativo em Sao Paulo, voltado a happy hour, com drinks, cervejas e musica ao vivo, e WhatsApp empresarial publicado.",
+    "verifiedAt": "2026-08-22",
+    "notBefore": "2026-09-16",
+    "status": "queued"
   }
 ]
