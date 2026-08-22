@@ -1268,5 +1268,16 @@
     "verifiedAt": "2026-08-22",
     "notBefore": "2026-08-22",
     "status": "queued"
+  },
+  {
+    "name": "Nossa Distribuidora Bebidas",
+    "phone": "(11) 99950-3806",
+    "type": "distribuidora_b2b_bebidas",
+    "city": "Osasco",
+    "source": "https://nossadistribuidorabebidas.com.br/",
+    "evidence": "Site oficial consultado em agosto de 2026 confirma distribuidora B2B ativa desde 2018, produtos nacionais e importados, atendimento a Osasco e regiao, compras em quantidade e WhatsApp empresarial publicado.",
+    "verifiedAt": "2026-08-22",
+    "notBefore": "2026-08-22",
+    "status": "queued"
   }
 ]

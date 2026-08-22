@@ -35644,5 +35644,17 @@
     "whatsappSource": "https://br.linkedin.com/company/confianca-atacadista-de-bebidas",
     "whatsappVerifiedAt": "2026-08-22",
     "template": "consultivo"
+  },
+  {
+    "name": "Nossa Distribuidora Bebidas",
+    "type": "distribuidora",
+    "neighborhood": "Osasco",
+    "address": "Osasco/SP",
+    "context": "Distribuidora B2B ativa em Osasco e regiao, operando desde 2018 com produtos nacionais e importados, pedidos em quantidade e entrega regional. O site oficial publica WhatsApp empresarial; potencial de recompra e inferido pelo foco declarado em abastecer negocios, sem volume divulgado.",
+    "phone": "(11) 99950-3806",
+    "website": "https://nossadistribuidorabebidas.com.br/",
+    "whatsappSource": "https://nossadistribuidorabebidas.com.br/",
+    "whatsappVerifiedAt": "2026-08-22",
+    "template": "consultivo"
   }
 ]
