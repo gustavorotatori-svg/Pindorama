@@ -585,5 +585,16 @@
     "verifiedAt": "2026-08-21",
     "notBefore": "2026-09-15",
     "status": "queued"
+  },
+  {
+    "name": "Black Sheep Bar - Vila Maria",
+    "phone": "(11) 96224-0532",
+    "type": "bar",
+    "city": "Sao Paulo",
+    "source": "https://www.baressp.com.br/bares/black-sheep-bar-vila-maria",
+    "evidence": "Perfil comercial atualizado em maio de 2026 confirma bar ativo na Vila Maria, com musica ao vivo, happy hour e reservas, e WhatsApp empresarial publicado.",
+    "verifiedAt": "2026-08-21",
+    "notBefore": "2026-09-15",
+    "status": "queued"
   }
 ]
