@@ -981,5 +981,16 @@
     "verifiedAt": "2026-08-22",
     "notBefore": "2026-09-16",
     "status": "queued"
+  },
+  {
+    "name": "Vinhetta Cozinha Vinho e Jazz",
+    "phone": "(11) 94293-8671",
+    "type": "wine_restaurant",
+    "city": "Sao Paulo",
+    "source": "https://baressp.com.br/restaurantes/espanhois/vinhetta",
+    "evidence": "Perfil comercial atualizado em abril de 2026 confirma restaurante e wine bar ativo na Vila Olimpia, com ampla carta de vinhos italianos, jazz ao vivo e WhatsApp empresarial publicado.",
+    "verifiedAt": "2026-08-22",
+    "notBefore": "2026-09-16",
+    "status": "queued"
   }
 ]
