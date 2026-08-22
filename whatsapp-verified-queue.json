@@ -1059,5 +1059,16 @@
     "verifiedAt": "2026-08-22",
     "notBefore": "2026-09-16",
     "status": "queued"
+  },
+  {
+    "name": "Famiglia Geraci",
+    "phone": "(11) 98569-6969",
+    "type": "italian_restaurant_wine",
+    "city": "Sao Paulo",
+    "source": "https://baressp.com.br/restaurantes/italianos/famiglia-geraci",
+    "evidence": "Perfil comercial atualizado em abril de 2026 confirma restaurante italiano ativo na Vila Olimpia, com vinhos em taca e garrafa, delivery, eventos e WhatsApp empresarial publicado.",
+    "verifiedAt": "2026-08-22",
+    "notBefore": "2026-09-16",
+    "status": "queued"
   }
 ]
