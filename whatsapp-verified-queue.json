@@ -794,5 +794,16 @@
     "verifiedAt": "2026-08-22",
     "notBefore": "2026-09-16",
     "status": "queued"
+  },
+  {
+    "name": "Old Town English Pub",
+    "phone": "(11) 99750-0989",
+    "type": "pub",
+    "city": "Santo Andre",
+    "source": "https://www.baressp.com.br/bares/old-town-english-pub",
+    "evidence": "Perfil comercial atualizado em marco de 2026 confirma pub ativo em Santo Andre, com chopes, cervejas importadas, coquetelaria criativa e musica ao vivo, e WhatsApp empresarial publicado.",
+    "verifiedAt": "2026-08-22",
+    "notBefore": "2026-09-16",
+    "status": "queued"
   }
 ]
