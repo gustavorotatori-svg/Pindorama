@@ -1103,5 +1103,16 @@
     "verifiedAt": "2026-08-22",
     "notBefore": "2026-09-16",
     "status": "queued"
+  },
+  {
+    "name": "Esquina Aroeira",
+    "phone": "(11) 2359-3809",
+    "type": "botequim_restaurant",
+    "city": "Sao Paulo",
+    "source": "https://www.baressp.com.br/restaurantes/bar-e-restaurante/esquina-aroeira",
+    "evidence": "Perfil comercial atualizado em abril de 2026 confirma botequim e restaurante ativo no Ipiranga, com cortes, petiscos, cervejas e WhatsApp empresarial explicitamente publicado para reservas.",
+    "verifiedAt": "2026-08-22",
+    "notBefore": "2026-09-16",
+    "status": "queued"
   }
 ]
