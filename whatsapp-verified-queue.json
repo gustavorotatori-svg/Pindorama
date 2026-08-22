@@ -1279,5 +1279,16 @@
     "verifiedAt": "2026-08-22",
     "notBefore": "2026-08-22",
     "status": "queued"
+  },
+  {
+    "name": "Mont Cristo Wine Bar",
+    "phone": "(11) 95590-0994",
+    "type": "wine_bar_store_events_destilados",
+    "city": "Santo Andre",
+    "source": "https://www.montcristowinebar.com.br/",
+    "evidence": "Site oficial consultado em agosto de 2026 confirma wine bar e loja ativos, mais de 600 rotulos, destilados, eventos empresariais e informais e WhatsApp empresarial publicado.",
+    "verifiedAt": "2026-08-22",
+    "notBefore": "2026-08-22",
+    "status": "queued"
   }
 ]

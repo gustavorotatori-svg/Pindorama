@@ -35656,5 +35656,17 @@
     "whatsappSource": "https://nossadistribuidorabebidas.com.br/",
     "whatsappVerifiedAt": "2026-08-22",
     "template": "consultivo"
+  },
+  {
+    "name": "Mont Cristo Wine Bar",
+    "type": "bar",
+    "neighborhood": "Jardim",
+    "address": "Rua das Figueiras, 631 - Jardim - Santo Andre/SP - 09080-370",
+    "context": "Wine bar e loja de vinhos ativa em Santo Andre, com mais de 600 rotulos, destilados, eventos empresariais e informais, menu personalizado e espaco reservado. O site oficial publica WhatsApp empresarial; potencial de recompra e inferido pelo varejo, bar e eventos, sem volume divulgado.",
+    "phone": "(11) 95590-0994",
+    "website": "https://www.montcristowinebar.com.br/",
+    "whatsappSource": "https://www.montcristowinebar.com.br/",
+    "whatsappVerifiedAt": "2026-08-22",
+    "template": "consultivo"
   }
 ]
