@@ -574,5 +574,16 @@
     "verifiedAt": "2026-08-21",
     "notBefore": "2026-09-15",
     "status": "queued"
+  },
+  {
+    "name": "Trago Bar",
+    "phone": "(11) 91431-5545",
+    "type": "bar",
+    "city": "Sao Paulo",
+    "source": "https://www.baressp.com.br/bares/trago-bar",
+    "evidence": "Perfil comercial atualizado em fevereiro de 2026 confirma bar ativo na Barra Funda, com petiscos autorais e operacao noturna de quarta a domingo, e WhatsApp empresarial publicado.",
+    "verifiedAt": "2026-08-21",
+    "notBefore": "2026-09-15",
+    "status": "queued"
   }
 ]
