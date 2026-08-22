@@ -6,6 +6,8 @@ concurrency:
 
 on:
   workflow_dispatch:
+  schedule:
+    - cron: '0 12 * * 0'
 
 permissions:
   contents: write
@@ -16,6 +18,8 @@ jobs:
     timeout-minutes: 15
     env:
       TZ: America/Sao_Paulo
+      GMAIL_USER: ${{ secrets.GMAIL_USER }}
+      GMAIL_APP_PASSWORD: ${{ secrets.GMAIL_APP_PASSWORD }}
     steps:
       - name: Checkout
         uses: actions/checkout@v4
@@ -32,9 +36,6 @@ jobs:
         run: node weekly-report.mjs
 
       - name: Enviar por email
-        env:
-          GMAIL_APP_PASSWORD: ${{ secrets.GMAIL_APP_PASSWORD }}
-          REPORT_ONE_TIME_DATE: '2026-08-16'
         run: node enviar-relatorio.mjs
 
       - name: Upload PDF como artefato

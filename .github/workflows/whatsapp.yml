@@ -6,6 +6,9 @@ concurrency:
 
 on:
   workflow_dispatch:
+  schedule:
+    - cron: '15 12 * * 1-6'
+    - cron: '15 13 * * 1-6'
 
 permissions:
   contents: write
@@ -36,8 +39,8 @@ jobs:
         if: steps.npm-cache.outputs.cache-hit != 'true'
         run: npm ci --no-audit --no-fund
 
-      - name: Send WhatsApp batch (max 4/dia, seg-sab)
-        run: node send-whatsapp-batch.mjs
+      - name: Send verified WhatsApp batch (max 4/dia, seg-sab)
+        run: node send-whatsapp-verified-batch.mjs
 
       - name: Commit and push updates
         run: |
