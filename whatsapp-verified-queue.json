@@ -618,5 +618,16 @@
     "verifiedAt": "2026-08-22",
     "notBefore": "2026-09-16",
     "status": "queued"
+  },
+  {
+    "name": "Cazzo!",
+    "phone": "(11) 96162-0900",
+    "type": "bar_restaurant",
+    "city": "Sao Paulo",
+    "source": "https://baressp.com.br/bares/cazzo",
+    "evidence": "Perfil comercial atualizado em marco de 2026 confirma bar e restaurante ativo na Vila Bertioga, voltado a happy hour e comida de rua italiana autoral, com WhatsApp empresarial publicado.",
+    "verifiedAt": "2026-08-22",
+    "notBefore": "2026-09-16",
+    "status": "queued"
   }
 ]
