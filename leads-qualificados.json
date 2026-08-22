@@ -33599,7 +33599,10 @@
     "email1": true,
     "date1": "2026-08-15",
     "email2": true,
-    "date2": "2026-08-19"
+    "date2": "2026-08-19",
+    "whatsappSent": true,
+    "whatsappDate": "2026-08-22",
+    "whatsappSource": "https://www.forcato.com.br/"
   },
   {
     "name": "Distribuidora de Bebidas JG",
