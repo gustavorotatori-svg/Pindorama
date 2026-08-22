@@ -1136,5 +1136,16 @@
     "verifiedAt": "2026-08-22",
     "notBefore": "2026-09-16",
     "status": "queued"
+  },
+  {
+    "name": "Bar Brahma Paulista",
+    "phone": "(11) 94746-2664",
+    "type": "bar_restaurant",
+    "city": "Sao Paulo",
+    "source": "https://baressp.com.br/bares/bar-brahma-paulista",
+    "evidence": "Perfil comercial atualizado em julho de 2026 confirma nova unidade ativa na Paulista, com gastronomia brasileira, bar, musica e WhatsApp empresarial publicado.",
+    "verifiedAt": "2026-08-22",
+    "notBefore": "2026-09-16",
+    "status": "queued"
   }
 ]
