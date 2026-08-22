@@ -849,5 +849,16 @@
     "verifiedAt": "2026-08-22",
     "notBefore": "2026-09-16",
     "status": "queued"
+  },
+  {
+    "name": "Caracol Bar",
+    "phone": "(11) 99453-3957",
+    "type": "cocktail_bar",
+    "city": "Sao Paulo",
+    "source": "https://www.baressp.com.br/bares/caracol",
+    "evidence": "Perfil comercial atualizado em abril de 2026 confirma bar ativo na Barra Funda, com coqueteis autorais, vinhos, cervejas artesanais, ambiente de balada com DJs e WhatsApp empresarial publicado.",
+    "verifiedAt": "2026-08-22",
+    "notBefore": "2026-09-16",
+    "status": "queued"
   }
 ]
