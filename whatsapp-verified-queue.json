@@ -739,5 +739,16 @@
     "verifiedAt": "2026-08-22",
     "notBefore": "2026-09-16",
     "status": "queued"
+  },
+  {
+    "name": "Boteco Mandacaru",
+    "phone": "(11) 97836-2964",
+    "type": "bar_restaurant",
+    "city": "Sao Paulo",
+    "source": "https://www.baressp.com.br/bares/boteco-mandacaru",
+    "evidence": "Perfil comercial atualizado em marco de 2026 confirma boteco ativo na Republica, com happy hour noturno, cervejas e petiscos, e WhatsApp empresarial publicado.",
+    "verifiedAt": "2026-08-22",
+    "notBefore": "2026-09-16",
+    "status": "queued"
   }
 ]
