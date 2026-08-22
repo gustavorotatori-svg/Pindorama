@@ -1026,5 +1026,16 @@
     "verifiedAt": "2026-08-22",
     "notBefore": "2026-09-16",
     "status": "queued"
+  },
+  {
+    "name": "Ogni Giorno Moema",
+    "phone": "(11) 92484-0232",
+    "type": "restaurant_wine",
+    "city": "Sao Paulo",
+    "source": "https://www.baressp.com.br/restaurantes/italianos/ogni-giorno-moema",
+    "evidence": "Perfil comercial atualizado em junho de 2026 confirma restaurante italiano ativo em Moema, com cerca de 40 rotulos de vinhos, operacao de almoco e jantar e WhatsApp empresarial publicado.",
+    "verifiedAt": "2026-08-22",
+    "notBefore": "2026-09-16",
+    "status": "queued"
   }
 ]
