@@ -993,5 +993,16 @@
     "verifiedAt": "2026-08-22",
     "notBefore": "2026-09-16",
     "status": "queued"
+  },
+  {
+    "name": "Tisco Bar",
+    "phone": "(11) 97280-7864",
+    "type": "bar",
+    "city": "Sao Paulo",
+    "source": "https://www.baressp.com.br/bares/tisco-bar",
+    "evidence": "Perfil comercial atualizado em abril de 2026 confirma bar ativo em Santa Cecilia, com operacao noturna, politica de rolha para vinhos e WhatsApp empresarial publicado.",
+    "verifiedAt": "2026-08-22",
+    "notBefore": "2026-09-16",
+    "status": "queued"
   }
 ]

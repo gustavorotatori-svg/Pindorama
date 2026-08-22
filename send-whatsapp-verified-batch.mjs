@@ -1,6 +1,18 @@
 import { existsSync, readFileSync, writeFileSync } from 'fs';
 import { connect, sendText, isConnected } from './whatsapp.mjs';
 
+const isRecoverableSessionNoise = (error) =>
+  String(error?.message || error).includes('Decrypted message with closed session');
+
+process.on('unhandledRejection', (reason) => {
+  if (isRecoverableSessionNoise(reason)) {
+    console.warn(`WHATSAPP SESSION WARN: ${reason.message || reason}`);
+    return;
+  }
+  console.error('WHATSAPP UNHANDLED REJECTION:', reason);
+  process.exitCode = 1;
+});
+
 const LIMIT = 4;
 const timeZone = 'America/Sao_Paulo';
 const parts = new Intl.DateTimeFormat('en-CA', {
