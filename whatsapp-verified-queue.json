@@ -1037,5 +1037,16 @@
     "verifiedAt": "2026-08-22",
     "notBefore": "2026-09-16",
     "status": "queued"
+  },
+  {
+    "name": "Enoteca Decanter",
+    "phone": "(11) 99736-3280",
+    "type": "wine_bar_store",
+    "city": "Sao Paulo",
+    "source": "https://www.baressp.com.br/restaurantes/enotecas/enoteca-decanter-",
+    "evidence": "Perfil comercial atualizado em fevereiro de 2026 confirma enoteca ativa com loja, wine bar, sala de degustacao e WhatsApp empresarial publicado.",
+    "verifiedAt": "2026-08-22",
+    "notBefore": "2026-09-16",
+    "status": "queued"
   }
 ]
