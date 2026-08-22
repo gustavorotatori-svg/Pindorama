@@ -805,5 +805,16 @@
     "verifiedAt": "2026-08-22",
     "notBefore": "2026-09-16",
     "status": "queued"
+  },
+  {
+    "name": "Frater's Pub",
+    "phone": "(15) 99168-4529",
+    "type": "pub",
+    "city": "Sorocaba",
+    "source": "https://www.baressp.com.br/bares/fraters-pub",
+    "evidence": "Perfil comercial atualizado em fevereiro de 2026 confirma pub ativo no centro de Sorocaba, com 12 torneiras de chope artesanal, drinks, vinhos, destilados e WhatsApp empresarial publicado.",
+    "verifiedAt": "2026-08-22",
+    "notBefore": "2026-09-16",
+    "status": "queued"
   }
 ]
