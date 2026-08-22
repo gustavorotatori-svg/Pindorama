@@ -816,5 +816,16 @@
     "verifiedAt": "2026-08-22",
     "notBefore": "2026-09-16",
     "status": "queued"
+  },
+  {
+    "name": "Esquina do Meio",
+    "phone": "(11) 91140-0685",
+    "type": "bar_restaurant",
+    "city": "Sao Paulo",
+    "source": "https://www.baressp.com.br/bares/esquina-do-meio",
+    "evidence": "Perfil comercial atualizado em abril de 2026 confirma bar ativo em Pinheiros, com happy hour, drinks, petiscos, chope e programacao musical, e WhatsApp empresarial publicado.",
+    "verifiedAt": "2026-08-22",
+    "notBefore": "2026-09-16",
+    "status": "queued"
   }
 ]
