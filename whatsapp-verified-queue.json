@@ -970,5 +970,16 @@
     "verifiedAt": "2026-08-22",
     "notBefore": "2026-09-16",
     "status": "queued"
+  },
+  {
+    "name": "Silo Vinho",
+    "phone": "(11) 99754-1432",
+    "type": "wine_bar",
+    "city": "Sao Paulo",
+    "source": "https://baressp.com.br/bares/silo-vinho",
+    "evidence": "Perfil comercial atualizado em marco de 2026 confirma wine bar ativo na Barra Funda, com curadoria de vinhos organicos, biodinamicos e naturais, programacao com DJs e WhatsApp empresarial publicado.",
+    "verifiedAt": "2026-08-22",
+    "notBefore": "2026-09-16",
+    "status": "queued"
   }
 ]
