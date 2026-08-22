@@ -629,5 +629,16 @@
     "verifiedAt": "2026-08-22",
     "notBefore": "2026-09-16",
     "status": "queued"
+  },
+  {
+    "name": "Pura Calma Pub",
+    "phone": "(11) 95378-7083",
+    "type": "pub",
+    "city": "Osasco",
+    "source": "https://www.baressp.com.br/bares/pura-calma-pub",
+    "evidence": "Perfil comercial atualizado em fevereiro de 2026 confirma pub ativo em Osasco, com operacao noturna estendida e cardapio de pub, e WhatsApp empresarial publicado.",
+    "verifiedAt": "2026-08-22",
+    "notBefore": "2026-09-16",
+    "status": "queued"
   }
 ]
