@@ -119,5 +119,13 @@
     "source": "https://www.baressp.com.br/bares/limao-e-brasa",
     "discoverySource": "https://www.baressp.com.br/bares/limao-e-brasa",
     "reason": "bar brasileiro com cachaça artesanal propria e WhatsApp publicado em perfil atualizado em abril de 2026, mas o telefone ja consta no cadastro da Picanharia dos Amigos; rejeitado por deduplicacao e possivel rebranding da mesma operacao"
+  },
+  {
+    "checkedAt": "2026-08-22T13:36:07-03:00",
+    "name": "O Bretao Pub",
+    "phone": "(15) 99126-9981",
+    "source": "https://baressp.com.br/bares/o-bretao-pub",
+    "discoverySource": "https://baressp.com.br/bares/o-bretao-pub",
+    "reason": "pub ativo de Sorocaba com WhatsApp empresarial publicado e perfil atualizado em fevereiro de 2026, mas empresa e telefone ja constam na fila verificada; descartado nesta varredura por deduplicacao"
   }
 ]
