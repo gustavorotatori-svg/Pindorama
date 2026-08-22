@@ -651,5 +651,16 @@
     "verifiedAt": "2026-08-22",
     "notBefore": "2026-09-16",
     "status": "queued"
+  },
+  {
+    "name": "Rainha Vila Madalena",
+    "phone": "(11) 91292-1965",
+    "type": "bar_restaurant",
+    "city": "Sao Paulo",
+    "source": "https://www.baressp.com.br/bares/rainha-vila-madalena",
+    "evidence": "Perfil comercial atualizado em maio de 2026 confirma boteco bistro ativo na Vila Madalena, com carta de coqueteis e musica ao vivo, e WhatsApp empresarial publicado.",
+    "verifiedAt": "2026-08-22",
+    "notBefore": "2026-09-16",
+    "status": "queued"
   }
 ]
