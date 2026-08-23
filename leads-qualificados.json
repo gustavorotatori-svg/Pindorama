@@ -35682,5 +35682,17 @@
     "whatsappSource": "https://www.casaportodvino.com.br/conheca-a-casa/",
     "whatsappVerifiedAt": "2026-08-22",
     "template": "consultivo"
+  },
+  {
+    "name": "Supermercados Peg Pese",
+    "type": "supermercado",
+    "neighborhood": "Grande Sao Paulo",
+    "address": "Unidades em Sao Paulo, Sao Bernardo do Campo e Santo Andre/SP",
+    "context": "Rede varejista ativa com sete unidades publicadas em Interlagos, Jaguare, Morumbi, Sao Bernardo do Campo, Campo Limpo, Santo Andre e Pinheiros. O setor de adega oferece vinhos, whiskies, outros destilados, cervejas internacionais e orientacao de sommelier; o site oficial publica WhatsApp corporativo compartilhado. Potencial de recompra e inferido pela operacao multiunidade, sem volume divulgado.",
+    "phone": "(11) 97252-6182",
+    "website": "https://pegpesehortifruti.com.br/setores/adega/",
+    "whatsappSource": "https://pegpesehortifruti.com.br/setores/adega/",
+    "whatsappVerifiedAt": "2026-08-22",
+    "template": "consultivo"
   }
 ]

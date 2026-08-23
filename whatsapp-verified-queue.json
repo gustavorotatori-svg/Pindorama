@@ -1301,5 +1301,16 @@
     "verifiedAt": "2026-08-22",
     "notBefore": "2026-08-22",
     "status": "queued"
+  },
+  {
+    "name": "Supermercados Peg Pese",
+    "phone": "(11) 97252-6182",
+    "type": "supermercado_multiunidade_adega_destilados",
+    "city": "Grande Sao Paulo",
+    "source": "https://pegpesehortifruti.com.br/setores/adega/",
+    "evidence": "Site oficial consultado em agosto de 2026 confirma sete unidades, setor de adega com vinhos, whiskies, outros destilados, cervejas internacionais, orientacao de sommelier e WhatsApp corporativo publicado.",
+    "verifiedAt": "2026-08-22",
+    "notBefore": "2026-08-22",
+    "status": "queued"
   }
 ]
