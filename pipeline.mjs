@@ -271,8 +271,11 @@ async function sendEmail1() {
   const failed = new Set();
   for (;;) {
     const leads = load(LEADS_FILE);
+    const contactedEmails = new Set(
+      leads.filter(x => x.email1).map(x => String(x.email || '').toLowerCase())
+    );
     const pending = leads
-      .filter(x => !x.email1 && !x.invalidEmail && !x.doNotContact && !failed.has(x.email) && x.email && verifiedFirstContact(x))
+      .filter(x => !x.email1 && !contactedEmails.has(String(x.email || '').toLowerCase()) && !x.invalidEmail && !x.doNotContact && !failed.has(x.email) && x.email && verifiedFirstContact(x))
       .sort((a, b) => leadPriority(b) - leadPriority(a));
     if (!pending.length) break;
     if (!emailQuotaAvailable()) break;
@@ -289,11 +292,16 @@ async function sendEmail1() {
       recordEmailOutput();
       // Force-persist: reload, find by email, set fields, save
       const reloaded = load(LEADS_FILE);
-      const idx = reloaded.findIndex(x => x.email === l.email);
-      if (idx !== -1) {
-        const todayStr = today();
-        reloaded[idx].email1 = true;
-        reloaded[idx].date1 = todayStr;
+      const normalizedEmail = String(l.email).toLowerCase();
+      const todayStr = today();
+      let persisted = false;
+      for (const item of reloaded) {
+        if (String(item.email || '').toLowerCase() !== normalizedEmail) continue;
+        item.email1 = true;
+        item.date1 = todayStr;
+        persisted = true;
+      }
+      if (persisted) {
         save(LEADS_FILE, reloaded);
       }
       console.log('EMAIL1 OK: ' + l.name + ' <' + l.email + '>');
@@ -329,11 +337,16 @@ async function sendFollowups() {
       recordEmailOutput();
       // Force-persist
       const reloaded = load(LEADS_FILE);
-      const idx = reloaded.findIndex(x => x.email === l.email);
-      if (idx !== -1) {
-        const todayStr = today();
-        reloaded[idx][step] = true;
-        reloaded[idx]['date' + step.slice(-1)] = todayStr;
+      const normalizedEmail = String(l.email).toLowerCase();
+      const todayStr = today();
+      let persisted = false;
+      for (const item of reloaded) {
+        if (String(item.email || '').toLowerCase() !== normalizedEmail) continue;
+        item[step] = true;
+        item['date' + step.slice(-1)] = todayStr;
+        persisted = true;
+      }
+      if (persisted) {
         save(LEADS_FILE, reloaded);
       }
       console.log((step === 'email2' ? 'EMAIL2' : 'EMAIL3') + ' OK: ' + l.name + ' <' + l.email + '>');

@@ -1,0 +1,11 @@
+[
+  {
+    "detectedAt": "2026-08-23T00:15:00-03:00",
+    "recipient": "sac@centralosasco.com.br",
+    "company": "Central Osasco",
+    "acceptedDuplicates": 5,
+    "cause": "duplicate lead records combined with first-match persistence",
+    "status": "corrected",
+    "correction": "removed duplicate record and changed pipeline persistence and eligibility to operate on normalized email across every matching record"
+  }
+]
