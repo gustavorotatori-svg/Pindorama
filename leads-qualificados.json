@@ -35745,6 +35745,8 @@
     "emailVerifiedAt": "2026-08-23",
     "mxVerified": true,
     "mxVerifiedAt": "2026-08-23",
-    "template": "consultivo"
+    "template": "consultivo",
+    "email1": true,
+    "date1": "2026-08-23"
   }
 ]
