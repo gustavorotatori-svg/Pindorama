@@ -26,5 +26,12 @@
     "email": "contato@jlx.com.br",
     "source": "https://jlx.com.br/empresa",
     "reason": "site oficial confirma distribuidora de informatica e perifericos, sem bebidas; rejeitada por segmento invalido"
+  },
+  {
+    "checkedAt": "2026-08-23T17:24:58-03:00",
+    "name": "Ramari Distribuidora",
+    "email": "contato@ramaridistribuidora.com.br",
+    "source": "https://www.rramari.com.br/contato/",
+    "reason": "distribuidora ativa de alimentos e bebidas com canal comercial oficial e bom fit B2B, mas o dominio publica Null MX e nao aceita email; rejeitada para email para evitar bounce"
   }
 ]
