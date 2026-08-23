@@ -35869,5 +35869,21 @@
     "mxVerified": true,
     "mxVerifiedAt": "2026-08-23",
     "template": "pergunta"
+  },
+  {
+    "name": "Viva Cachaca",
+    "email": "comercial@vivacachaca.com",
+    "type": "experiencias_e_eventos",
+    "neighborhood": "Higienopolis",
+    "address": "Rua Sergipe, 648, cj 31 - Higienopolis - Sao Paulo/SP - 01243-000",
+    "context": "Operacao ativa especializada em cachaca, com alambique urbano, degustacoes, cursos, consultoria para bares e restaurantes e loja propria. O site oficial, rastreado recentemente, publica email comercial, telefone e ofertas atuais; o fit com a Pindorama e direto para curadoria, experiencias e loja, enquanto volume e frequencia de recompra nao estao publicados.",
+    "phone": "(11) 98943-9338",
+    "website": "https://www.vivacachaca.com.br/",
+    "emailVerified": true,
+    "emailSource": "https://www.vivacachaca.com.br/",
+    "emailVerifiedAt": "2026-08-23",
+    "mxVerified": true,
+    "mxVerifiedAt": "2026-08-23",
+    "template": "consultivo"
   }
 ]
