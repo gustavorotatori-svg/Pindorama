@@ -35730,5 +35730,21 @@
     "mxVerified": true,
     "mxVerifiedAt": "2026-08-22",
     "template": "consultivo"
+  },
+  {
+    "name": "Assai Santo Andre",
+    "email": "loja016.televendas@assai.com.br",
+    "type": "atacadista",
+    "neighborhood": "Centro",
+    "address": "Avenida Visconde de Taunay, 216 - Centro - Santo Andre/SP - 09210-570",
+    "context": "Unidade ativa do Assai Atacadista em Santo Andre, com televendas e email empresarial da loja publicados no site oficial. A pagina oficial tambem apresenta canal para fornecedores; potencial de recompra e inferido pelo formato atacadista e pela operacao da unidade, sem volume de bebidas divulgado.",
+    "phone": "(11) 3468-4701",
+    "website": "https://www.assai.com.br/loja/assai-santo-andre",
+    "emailVerified": true,
+    "emailSource": "https://www.assai.com.br/loja/assai-santo-andre",
+    "emailVerifiedAt": "2026-08-23",
+    "mxVerified": true,
+    "mxVerifiedAt": "2026-08-23",
+    "template": "consultivo"
   }
 ]
