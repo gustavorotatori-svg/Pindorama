@@ -1312,5 +1312,16 @@
     "verifiedAt": "2026-08-22",
     "notBefore": "2026-08-22",
     "status": "queued"
+  },
+  {
+    "name": "Charllu Bar",
+    "phone": "(11) 97826-6974",
+    "type": "bar_eventos_caipirinhas_destilados",
+    "city": "Santo Andre",
+    "source": "https://charllu.com.br/",
+    "evidence": "Site oficial atualizado em 2026 confirma bar ativo com programacao semanal, aniversarios e eventos, cardapio com caipirinhas e carta de destilados, alem de WhatsApp empresarial publicado.",
+    "verifiedAt": "2026-08-22",
+    "notBefore": "2026-08-22",
+    "status": "queued"
   }
 ]

@@ -35694,5 +35694,21 @@
     "whatsappSource": "https://pegpesehortifruti.com.br/setores/adega/",
     "whatsappVerifiedAt": "2026-08-22",
     "template": "consultivo"
+  },
+  {
+    "name": "Charllu Bar",
+    "email": "charllu@charllu.com.br",
+    "type": "bar",
+    "neighborhood": "Centro",
+    "address": "Avenida dos Estados, 6843 - Centro - Santo Andre/SP - 09290-520",
+    "context": "Bar ativo em Santo Andre com programacao semanal de musica ao vivo, comemoracoes, happy hour, area kids de 250 m2 e mega telao. O cardapio oficial cita caipirinhas e carta de destilados; site atualizado em 2026 publica email e WhatsApp empresarial. Potencial de recompra e inferido pela operacao de alto giro e eventos, sem volume divulgado.",
+    "phone": "(11) 97826-6974",
+    "website": "https://charllu.com.br/",
+    "emailVerified": true,
+    "emailSource": "https://charllu.com.br/",
+    "emailVerifiedAt": "2026-08-22",
+    "mxVerified": true,
+    "mxVerifiedAt": "2026-08-22",
+    "template": "consultivo"
   }
 ]
