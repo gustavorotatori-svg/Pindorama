@@ -35901,5 +35901,21 @@
     "mxVerified": true,
     "mxVerifiedAt": "2026-08-23",
     "template": "consultivo"
+  },
+  {
+    "name": "Emporio da Roca Higienopolis",
+    "email": "vendas@emporiodaroca.com.br",
+    "type": "adega",
+    "neighborhood": "Higienopolis",
+    "address": "Avenida Angelica, 1377 - Higienopolis - Sao Paulo/SP - 01227-100",
+    "context": "Emporio mineiro ativo com loja fisica, ecommerce, entregas nacionais e degustacoes diarias. O site oficial publica email de vendas e diversos rotulos de cachaca artesanal, inclusive produtos disponiveis atualmente; alto fit para ampliar a curadoria e potencial de recompra inferido pelo varejo recorrente, sem volume divulgado.",
+    "phone": "(11) 94517-0485",
+    "website": "https://emporiodaroca.com.br/",
+    "emailVerified": true,
+    "emailSource": "https://emporiodaroca.com.br/categoria-produto/promocao/",
+    "emailVerifiedAt": "2026-08-23",
+    "mxVerified": true,
+    "mxVerifiedAt": "2026-08-23",
+    "template": "consultivo"
   }
 ]
