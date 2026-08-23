@@ -35710,5 +35710,21 @@
     "mxVerified": true,
     "mxVerifiedAt": "2026-08-22",
     "template": "consultivo"
+  },
+  {
+    "name": "Hortifruti Higienopolis",
+    "email": "contato@hortifrutihigienopolis.com.br",
+    "type": "supermercado",
+    "neighborhood": "Grande Sao Paulo",
+    "address": "Unidades em Santo Andre e Sao Caetano do Sul/SP",
+    "context": "Rede varejista ativa desde 2014, hoje com quatro unidades publicadas em Santo Andre e Sao Caetano do Sul. O site oficial confirma setor de adega com vinhos, espumantes, destilados e bebidas especiais, alem de delivery; potencial de recompra e inferido pela operacao multiunidade, sem volume divulgado.",
+    "phone": "(11) 94009-4788",
+    "website": "https://hortifrutihigienopolis.com.br/",
+    "emailVerified": true,
+    "emailSource": "https://hortifrutihigienopolis.com.br/",
+    "emailVerifiedAt": "2026-08-22",
+    "mxVerified": true,
+    "mxVerifiedAt": "2026-08-22",
+    "template": "consultivo"
   }
 ]
