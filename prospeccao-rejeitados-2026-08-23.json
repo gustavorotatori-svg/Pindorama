@@ -47,5 +47,12 @@
     "email": null,
     "source": "https://cnpj.biz/05209954000122",
     "reason": "empresa ativa e aderente em Sao Bernardo, com varejo e atacado de bebidas, mas os contatos aparecem mascarados e nao houve fonte oficial com email ou WhatsApp empresarial explicito; rejeitada para evitar dado inferido"
+  },
+  {
+    "checkedAt": "2026-08-23T20:54:48-03:00",
+    "name": "Emporio Santa Therezinha Sorocaba",
+    "email": null,
+    "source": "https://www.emporiosantatherezinha.com.br/unidades",
+    "reason": "unidade ativa de empório, adega e restaurante na regiao de Sorocaba, com mix amplo e cachacas confirmadas, mas a pagina oficial publica o celular da loja sem identifica-lo explicitamente como WhatsApp e nao publica email; rejeitada para automacao ate haver canal inequivoco"
   }
 ]
