@@ -35619,7 +35619,9 @@
     "emailVerifiedAt": "2026-08-22",
     "mxVerified": true,
     "mxVerifiedAt": "2026-08-22",
-    "template": "consultivo"
+    "template": "consultivo",
+    "email1": true,
+    "date1": "2026-08-23"
   },
   {
     "name": "Adega Morais",
@@ -35709,7 +35711,9 @@
     "emailVerifiedAt": "2026-08-22",
     "mxVerified": true,
     "mxVerifiedAt": "2026-08-22",
-    "template": "consultivo"
+    "template": "consultivo",
+    "email1": true,
+    "date1": "2026-08-23"
   },
   {
     "name": "Hortifruti Higienopolis",
