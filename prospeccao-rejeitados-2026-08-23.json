@@ -33,5 +33,19 @@
     "email": "contato@ramaridistribuidora.com.br",
     "source": "https://www.rramari.com.br/contato/",
     "reason": "distribuidora ativa de alimentos e bebidas com canal comercial oficial e bom fit B2B, mas o dominio publica Null MX e nao aceita email; rejeitada para email para evitar bounce"
+  },
+  {
+    "checkedAt": "2026-08-23T20:24:18-03:00",
+    "name": "Distribuidora de Bebidas Moinho",
+    "email": null,
+    "source": "https://cnpj.biz/48550758000120",
+    "reason": "empresa ativa em Sao Bernardo com varejo e atacado de bebidas, mas a fonte exibe email e telefone apenas mascarados e nao foi localizado canal oficial explicito; rejeitada ate haver contato empresarial verificavel"
+  },
+  {
+    "checkedAt": "2026-08-23T20:24:18-03:00",
+    "name": "Adega e Tabacaria Mesquita",
+    "email": null,
+    "source": "https://cnpj.biz/05209954000122",
+    "reason": "empresa ativa e aderente em Sao Bernardo, com varejo e atacado de bebidas, mas os contatos aparecem mascarados e nao houve fonte oficial com email ou WhatsApp empresarial explicito; rejeitada para evitar dado inferido"
   }
 ]
