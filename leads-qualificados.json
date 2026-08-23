@@ -35837,5 +35837,21 @@
     "template": "consultivo",
     "email1": true,
     "date1": "2026-08-23"
+  },
+  {
+    "name": "Cachacaria Trem Brasa",
+    "email": "cachacariatrembrasa@gmail.com",
+    "type": "restaurante",
+    "neighborhood": "Tucuruvi",
+    "address": "Avenida Guapira, 1431 - Tucuruvi - Sao Paulo/SP - 02265-002",
+    "context": "Cachacaria e restaurante ativo desde 2023, aberto diariamente, com delivery publicado em iFood, 99Food e Keeta. O site oficial recente publica email, WhatsApp, endereco e horario; fit direto com a linha Pindorama e potencial de recompra inferido pela operacao diaria e especializacao em cachaca.",
+    "phone": "(11) 98211-3320",
+    "website": "https://www.cachacariatrembrasa.com.br/",
+    "emailVerified": true,
+    "emailSource": "https://www.cachacariatrembrasa.com.br/",
+    "emailVerifiedAt": "2026-08-23",
+    "mxVerified": true,
+    "mxVerifiedAt": "2026-08-23",
+    "template": "consultivo"
   }
 ]
