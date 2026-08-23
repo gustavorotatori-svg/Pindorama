@@ -35853,5 +35853,21 @@
     "mxVerified": true,
     "mxVerifiedAt": "2026-08-23",
     "template": "consultivo"
+  },
+  {
+    "name": "Bardega",
+    "email": "contato@bardega.com.br",
+    "type": "bar",
+    "neighborhood": "Itaim Bibi",
+    "address": "Rua Doutor Alceu de Campos Rodrigues, 218 - Itaim Bibi - Sao Paulo/SP - 04544-000",
+    "context": "Wine bar ativo com 96 rotulos servidos em doses por wine machines, sommeliers, gastronomia e eventos. O site oficial recente publica horario, endereco, telefone e emails; o uso da Pindorama em degustacoes e coquetelaria e uma inferencia plausivel, sem carta de cachacas confirmada.",
+    "phone": "(11) 2691-7578",
+    "website": "https://www.bardega.com.br/",
+    "emailVerified": true,
+    "emailSource": "https://www.bardega.com.br/",
+    "emailVerifiedAt": "2026-08-23",
+    "mxVerified": true,
+    "mxVerifiedAt": "2026-08-23",
+    "template": "pergunta"
   }
 ]
