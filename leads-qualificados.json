@@ -35885,5 +35885,21 @@
     "mxVerified": true,
     "mxVerifiedAt": "2026-08-23",
     "template": "consultivo"
+  },
+  {
+    "name": "D'Gusta Cachacaria",
+    "email": "dgusta@dgusta.com.br",
+    "type": "adega",
+    "neighborhood": "Campo Belo",
+    "address": "Rua Visconde de Maranguape, 50 - Campo Belo - Sao Paulo/SP - 04610-050",
+    "context": "Loja especializada em cachaca com operacao online ativa, frete publicado, atendimento comercial em dias uteis e endereco empresarial confirmado no site oficial. O fit com a Pindorama e direto pelo varejo especializado; potencial de recompra e inferido pela continuidade da loja, sem volume ou numero de unidades publicado.",
+    "phone": "(11) 99586-3858",
+    "website": "https://www.dgusta.com.br/",
+    "emailVerified": true,
+    "emailSource": "https://www.dgusta.com.br/contato",
+    "emailVerifiedAt": "2026-08-23",
+    "mxVerified": true,
+    "mxVerifiedAt": "2026-08-23",
+    "template": "consultivo"
   }
 ]
