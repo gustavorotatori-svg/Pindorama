@@ -35965,5 +35965,21 @@
     "mxVerified": true,
     "mxVerifiedAt": "2026-08-23",
     "template": "consultivo"
+  },
+  {
+    "name": "Bebidas Famosas",
+    "email": "site@bebidasfamosas.com.br",
+    "type": "adega",
+    "neighborhood": "Sao Paulo",
+    "address": "Sao Paulo/SP",
+    "context": "Ecommerce ativo de bebidas com atendimento empresarial publicado, catalogo de destilados e revenda confirmada de cachaca por fonte oficial de fabricante. O blog proprio foi rastreado recentemente e publica email e telefones; fit concreto para inclusao da Pindorama no portfolio, com potencial de recompra inferido pelo varejo online, sem volume divulgado.",
+    "phone": "(11) 98198-0154",
+    "website": "https://www.bebidasfamosas.com.br/",
+    "emailVerified": true,
+    "emailSource": "https://blog.bebidasfamosas.com.br/",
+    "emailVerifiedAt": "2026-08-23",
+    "mxVerified": true,
+    "mxVerifiedAt": "2026-08-23",
+    "template": "pergunta"
   }
 ]
