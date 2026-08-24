@@ -19,5 +19,12 @@
     "email": "adega@megaadega.com.br",
     "source": "https://www.megaadega.com.br/sobre-a-empresa-mega-adega",
     "reason": "adega ativa com mais de 4.000 rotulos, importacao propria, destilados, eventos de degustacao, email oficial recente e MX valido, mas empresa e destinatario ja receberam a sequencia completa de tres emails; rejeitada por deduplicacao"
+  },
+  {
+    "checkedAt": "2026-08-24T14:19:54-03:00",
+    "name": "Emporio Sagarana",
+    "email": "emporiosagarana@gmail.com",
+    "source": "https://vejasp.abril.com.br/coluna/notas-etilicas/emporio-sagarana-fechou/; https://restaurantguru.com/Emporio-Sagarana-Sao-Paulo-2; https://spcity.com.br/cachacas-petiscos-e-cervejas-para-ninguem-botar-defeito/",
+    "reason": "fit historico excepcional com ampla carta de cachacas, mas fontes recentes entram em conflito: algumas reproduzem a operacao como ativa enquanto outras registram encerramento e status permanentemente fechado; rejeitado ate existir evidencia oficial recente e inequivoca de operacao e canal empresarial atual"
   }
 ]
