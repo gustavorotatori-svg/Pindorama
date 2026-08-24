@@ -233,7 +233,7 @@ async function addLeads(jsonStr) {
     const existing = master.find(x => String(x.email || '').toLowerCase() === String(l.email).toLowerCase());
     if (existing) {
       if (l.emailVerified === true) {
-        const valid = await validateDNS(l.email);
+        const valid = l.mxVerified === true || await validateDNS(l.email);
         if (!valid) { console.log('FAIL DNS: ' + l.name + ' <' + l.email + '>'); continue; }
         const verifiedFields = ['name', 'type', 'neighborhood', 'address', 'context', 'phone', 'website',
           'emailVerified', 'emailSource', 'emailVerifiedAt', 'template'];
@@ -248,7 +248,7 @@ async function addLeads(jsonStr) {
       continue;
     }
 
-    const valid = await validateDNS(l.email);
+    const valid = l.mxVerified === true || await validateDNS(l.email);
     if (!valid) { console.log('FAIL DNS: ' + l.name + ' <' + l.email + '>'); continue; }
 
     l.neighborhood = l.neighborhood || '';
@@ -281,7 +281,7 @@ async function sendEmail1() {
     if (!emailQuotaAvailable()) break;
     const l = pending[0];
     try {
-      const valid = await validateDNS(l.email);
+      const valid = l.mxVerified === true || await validateDNS(l.email);
       if (!valid) {
         suppressInvalidEmail(l.email, 'domain_without_mx');
         failed.add(l.email);

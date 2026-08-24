@@ -33602,7 +33602,9 @@
     "date2": "2026-08-19",
     "whatsappSent": true,
     "whatsappDate": "2026-08-22",
-    "whatsappSource": "https://www.forcato.com.br/"
+    "whatsappSource": "https://www.forcato.com.br/",
+    "email3": true,
+    "date3": "2026-08-24"
   },
   {
     "name": "Distribuidora de Bebidas JG",
@@ -33620,7 +33622,9 @@
     "email1": true,
     "date1": "2026-08-15",
     "email2": true,
-    "date2": "2026-08-19"
+    "date2": "2026-08-19",
+    "email3": true,
+    "date3": "2026-08-24"
   },
   {
     "name": "G&T Bar",
@@ -33638,7 +33642,9 @@
     "email1": true,
     "date1": "2026-08-15",
     "email2": true,
-    "date2": "2026-08-19"
+    "date2": "2026-08-19",
+    "email3": true,
+    "date3": "2026-08-24"
   },
   {
     "name": "WixBar",
@@ -33656,7 +33662,9 @@
     "email1": true,
     "date1": "2026-08-15",
     "email2": true,
-    "date2": "2026-08-19"
+    "date2": "2026-08-19",
+    "email3": true,
+    "date3": "2026-08-24"
   },
   {
     "name": "703 Coquetelaria",
@@ -33674,7 +33682,9 @@
     "email1": true,
     "date1": "2026-08-15",
     "email2": true,
-    "date2": "2026-08-20"
+    "date2": "2026-08-20",
+    "email3": true,
+    "date3": "2026-08-24"
   },
   {
     "name": "Arte Vieira Coquetelaria",
@@ -33692,7 +33702,9 @@
     "email1": true,
     "date1": "2026-08-15",
     "email2": true,
-    "date2": "2026-08-20"
+    "date2": "2026-08-20",
+    "email3": true,
+    "date3": "2026-08-24"
   },
   {
     "name": "Bernadette - Casa da Dette",
@@ -33710,7 +33722,9 @@
     "email1": true,
     "date1": "2026-08-15",
     "email2": true,
-    "date2": "2026-08-20"
+    "date2": "2026-08-20",
+    "email3": true,
+    "date3": "2026-08-24"
   },
   {
     "name": "Habanero Bar",
@@ -33728,7 +33742,9 @@
     "email1": true,
     "date1": "2026-08-15",
     "email2": true,
-    "date2": "2026-08-20"
+    "date2": "2026-08-20",
+    "email3": true,
+    "date3": "2026-08-24"
   },
   {
     "name": "Santana Bar",
@@ -33746,7 +33762,9 @@
     "email1": true,
     "date1": "2026-08-15",
     "email2": true,
-    "date2": "2026-08-20"
+    "date2": "2026-08-20",
+    "email3": true,
+    "date3": "2026-08-24"
   },
   {
     "name": "Anexo Pinheiros",
@@ -33764,7 +33782,9 @@
     "email1": true,
     "date1": "2026-08-15",
     "email2": true,
-    "date2": "2026-08-20"
+    "date2": "2026-08-20",
+    "email3": true,
+    "date3": "2026-08-24"
   },
   {
     "name": "Tribal Bebidas Brasileiras",
@@ -33782,7 +33802,9 @@
     "email1": true,
     "date1": "2026-08-15",
     "email2": true,
-    "date2": "2026-08-20"
+    "date2": "2026-08-20",
+    "email3": true,
+    "date3": "2026-08-24"
   },
   {
     "name": "Alquimia Cocktail",
@@ -33800,7 +33822,9 @@
     "email1": true,
     "date1": "2026-08-15",
     "email2": true,
-    "date2": "2026-08-20"
+    "date2": "2026-08-20",
+    "email3": true,
+    "date3": "2026-08-24"
   },
   {
     "name": "New Cia Experience & Drinks",
@@ -33818,7 +33842,9 @@
     "email1": true,
     "date1": "2026-08-15",
     "email2": true,
-    "date2": "2026-08-20"
+    "date2": "2026-08-20",
+    "email3": true,
+    "date3": "2026-08-24"
   },
   {
     "name": "Feline Bartender",
@@ -33835,7 +33861,9 @@
     "email1": true,
     "date1": "2026-08-15",
     "email2": true,
-    "date2": "2026-08-20"
+    "date2": "2026-08-20",
+    "email3": true,
+    "date3": "2026-08-24"
   },
   {
     "name": "The View Bar",
@@ -33853,7 +33881,9 @@
     "email1": true,
     "date1": "2026-08-15",
     "email2": true,
-    "date2": "2026-08-20"
+    "date2": "2026-08-20",
+    "email3": true,
+    "date3": "2026-08-24"
   },
   {
     "name": "ABS Bartenders",
@@ -33890,7 +33920,9 @@
     "email1": true,
     "date1": "2026-08-16",
     "email2": true,
-    "date2": "2026-08-20"
+    "date2": "2026-08-20",
+    "email3": true,
+    "date3": "2026-08-24"
   },
   {
     "name": "Drink Bartenders",
@@ -33908,7 +33940,9 @@
     "email1": true,
     "date1": "2026-08-16",
     "email2": true,
-    "date2": "2026-08-20"
+    "date2": "2026-08-20",
+    "email3": true,
+    "date3": "2026-08-24"
   },
   {
     "name": "Brazen Bar",
@@ -33926,7 +33960,9 @@
     "email1": true,
     "date1": "2026-08-16",
     "email2": true,
-    "date2": "2026-08-20"
+    "date2": "2026-08-20",
+    "email3": true,
+    "date3": "2026-08-24"
   },
   {
     "name": "R&M Bartenders",
@@ -33944,7 +33980,9 @@
     "email1": true,
     "date1": "2026-08-16",
     "email2": true,
-    "date2": "2026-08-20"
+    "date2": "2026-08-20",
+    "email3": true,
+    "date3": "2026-08-24"
   },
   {
     "name": "Damasco Bar e Drinks",
@@ -35900,7 +35938,9 @@
     "emailVerifiedAt": "2026-08-23",
     "mxVerified": true,
     "mxVerifiedAt": "2026-08-23",
-    "template": "consultivo"
+    "template": "consultivo",
+    "email1": true,
+    "date1": "2026-08-24"
   },
   {
     "name": "Emporio da Roca Higienopolis",
@@ -35916,7 +35956,9 @@
     "emailVerifiedAt": "2026-08-23",
     "mxVerified": true,
     "mxVerifiedAt": "2026-08-23",
-    "template": "consultivo"
+    "template": "consultivo",
+    "email1": true,
+    "date1": "2026-08-24"
   },
   {
     "name": "Bendita Dose",
@@ -35932,7 +35974,9 @@
     "emailVerifiedAt": "2026-08-23",
     "mxVerified": true,
     "mxVerifiedAt": "2026-08-23",
-    "template": "consultivo"
+    "template": "consultivo",
+    "email1": true,
+    "date1": "2026-08-24"
   },
   {
     "name": "Grill & Brasa",
@@ -35948,7 +35992,9 @@
     "emailVerifiedAt": "2026-08-23",
     "mxVerified": true,
     "mxVerifiedAt": "2026-08-23",
-    "template": "pergunta"
+    "template": "pergunta",
+    "email1": true,
+    "date1": "2026-08-24"
   },
   {
     "name": "Mais Distribuidora",
@@ -35980,7 +36026,9 @@
     "emailVerifiedAt": "2026-08-23",
     "mxVerified": true,
     "mxVerifiedAt": "2026-08-23",
-    "template": "pergunta"
+    "template": "pergunta",
+    "email1": true,
+    "date1": "2026-08-24"
   },
   {
     "name": "Bar Bambu",
@@ -36092,7 +36140,9 @@
     "emailVerifiedAt": "2026-08-24",
     "mxVerified": true,
     "mxVerifiedAt": "2026-08-24",
-    "template": "consultivo"
+    "template": "consultivo",
+    "email1": true,
+    "date1": "2026-08-24"
   },
   {
     "name": "Emporio Cananeia",
@@ -36124,7 +36174,9 @@
     "emailVerifiedAt": "2026-08-24",
     "mxVerified": true,
     "mxVerifiedAt": "2026-08-24",
-    "template": "consultivo"
+    "template": "consultivo",
+    "email1": true,
+    "date1": "2026-08-24"
   },
   {
     "name": "Emporio Vignamazzi",
@@ -36140,7 +36192,9 @@
     "emailVerifiedAt": "2026-08-24",
     "mxVerified": true,
     "mxVerifiedAt": "2026-08-24",
-    "template": "consultivo"
+    "template": "consultivo",
+    "email1": true,
+    "date1": "2026-08-24"
   },
   {
     "name": "Emporio Di Callani",
@@ -36156,6 +36210,8 @@
     "emailVerifiedAt": "2026-08-24",
     "mxVerified": true,
     "mxVerifiedAt": "2026-08-24",
-    "template": "pergunta"
+    "template": "pergunta",
+    "email1": true,
+    "date1": "2026-08-24"
   }
 ]
