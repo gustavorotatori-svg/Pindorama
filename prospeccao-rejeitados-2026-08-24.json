@@ -61,5 +61,12 @@
     "email": "ecommerce@adegabrasil.com.br",
     "source": "https://adegabrasil.com.br/",
     "reason": "varejista ativo desde 1994 com vinhos e destilados e canal empresarial explicitamente publicado no site oficial, mas a operacao identificada fica no Parana e fora do territorio comercial autorizado; rejeitada por territorio antes de qualquer contato"
+  },
+  {
+    "checkedAt": "2026-08-24T20:01:42-03:00",
+    "name": "Sao Paulo Distribuidora",
+    "email": "vendas@saopaulodistribuidora.com.br",
+    "source": "https://www.saopaulodistribuidora.com.br/",
+    "reason": "site oficial ativo em 2026, canal comercial publicado e MX valido, mas a empresa distribui produtos para embalagens e apenas atende clientes da industria de alimentos e bebidas; nao vende bebidas ou destilados e foi rejeitada por segmento antes de qualquer contato"
   }
 ]
