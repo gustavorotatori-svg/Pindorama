@@ -26,5 +26,19 @@
     "email": "emporiosagarana@gmail.com",
     "source": "https://vejasp.abril.com.br/coluna/notas-etilicas/emporio-sagarana-fechou/; https://restaurantguru.com/Emporio-Sagarana-Sao-Paulo-2; https://spcity.com.br/cachacas-petiscos-e-cervejas-para-ninguem-botar-defeito/",
     "reason": "fit historico excepcional com ampla carta de cachacas, mas fontes recentes entram em conflito: algumas reproduzem a operacao como ativa enquanto outras registram encerramento e status permanentemente fechado; rejeitado ate existir evidencia oficial recente e inequivoca de operacao e canal empresarial atual"
+  },
+  {
+    "checkedAt": "2026-08-24T16:14:15-03:00",
+    "name": "Cachacaria Terra Amarela",
+    "email": "",
+    "source": "https://terraamarela.com.br/contato/; https://terraamarela.com.br/; https://cachacawiba.com.br/wiba/onde-encontrar/",
+    "reason": "varejista de altissimo fit em Osasco, especializado em cachacas de alambique e com operacao recente comprovada, mas o site oficial oferece apenas formulario e nao publica email empresarial; rejeitado para email ate surgir destinatario explicitamente publicado e verificavel"
+  },
+  {
+    "checkedAt": "2026-08-24T16:14:15-03:00",
+    "name": "Casa Lisboa",
+    "email": "eventos@casalisboa.com.br",
+    "source": "https://casalisboa.com.br/unidade-tatuape/; https://casalisboa.com.br/quem-somos/",
+    "reason": "adega de alto fit com destilados, atendimento a eventos, degustacao e email oficial ativo, mas a empresa e o destinatario ja constam no cadastro com sequencia completa; rejeitada por deduplicacao para impedir nova abordagem"
   }
 ]
