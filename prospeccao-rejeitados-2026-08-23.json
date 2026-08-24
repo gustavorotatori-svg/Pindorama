@@ -54,5 +54,12 @@
     "email": null,
     "source": "https://www.emporiosantatherezinha.com.br/unidades",
     "reason": "unidade ativa de empório, adega e restaurante na regiao de Sorocaba, com mix amplo e cachacas confirmadas, mas a pagina oficial publica o celular da loja sem identifica-lo explicitamente como WhatsApp e nao publica email; rejeitada para automacao ate haver canal inequivoco"
+  },
+  {
+    "checkedAt": "2026-08-23T23:01:39-03:00",
+    "name": "Cruzeiro's Bar Barra Funda",
+    "email": "barrafunda@cruzeirosbar.com.br",
+    "source": "https://baressp.com.br/bares/cruzeiros-bar-barra-funda",
+    "reason": "bar ativo com cachacas, caipirinhas, coqueteis, eventos, email publicado recentemente e MX valido, mas a unidade e o destinatario ja receberam tres emails; rejeitado por deduplicacao e para evitar novo contato indevido"
   }
 ]
