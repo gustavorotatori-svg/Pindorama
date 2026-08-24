@@ -36109,5 +36109,21 @@
     "mxVerified": true,
     "mxVerifiedAt": "2026-08-24",
     "template": "pergunta"
+  },
+  {
+    "name": "Emporio Frei Caneca",
+    "email": "sac@emporiofreicaneca.com.br",
+    "type": "adega",
+    "neighborhood": "Consolacao",
+    "address": "Rua Frei Caneca, 569, 3 piso, loja 408 - Consolacao - Sao Paulo/SP - 01307-001",
+    "context": "Megaloja de bebidas ativa desde 2003, com 360 m2, cerca de seis mil itens e mais de tres mil rotulos de vinicolas, cervejarias, destilarias e importadoras. O site oficial atualizado confirma mix de cachacas, cachaças Dom Tapparo no ecommerce, espaco para degustacoes e acoes com fornecedores, entrega na Grande Sao Paulo e canal empresarial; fit alto para apresentacao e degustacao da Pindorama, sem comprador nominal divulgado.",
+    "phone": "(11) 97527-0463",
+    "website": "https://www.emporiofreicaneca.com.br/",
+    "emailVerified": true,
+    "emailSource": "https://www.emporiofreicaneca.com.br/",
+    "emailVerifiedAt": "2026-08-24",
+    "mxVerified": true,
+    "mxVerifiedAt": "2026-08-24",
+    "template": "consultivo"
   }
 ]
