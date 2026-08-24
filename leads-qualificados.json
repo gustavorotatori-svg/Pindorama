@@ -36029,5 +36029,21 @@
     "mxVerified": true,
     "mxVerifiedAt": "2026-08-23",
     "template": "consultivo"
+  },
+  {
+    "name": "Paula Sousa Bebidas",
+    "email": "vendaspaulasousabebidas@hotmail.com",
+    "type": "distribuidora",
+    "neighborhood": "Sao Paulo",
+    "address": "Sao Paulo/SP",
+    "context": "Distribuidora ativa de bebidas nacionais e importadas, com catalogo atualizado de destilados, vinhos, whiskies, espumantes e itens premium. O site oficial de 2026 confirma atendimento no atacado e varejo, entrega em ate 24 horas em Sao Paulo e Grande ABC, email de vendas e WhatsApp empresarial; alto fit para inclusao da linha Pindorama e recompra inferida pela operacao de distribuicao, sem comprador nominal ou volume divulgado.",
+    "phone": "(11) 95287-0797",
+    "website": "https://www.paulasousabebidas.com.br/",
+    "emailVerified": true,
+    "emailSource": "https://www.paulasousabebidas.com.br/politica-privacidade.php",
+    "emailVerifiedAt": "2026-08-24",
+    "mxVerified": true,
+    "mxVerifiedAt": "2026-08-24",
+    "template": "consultivo"
   }
 ]
