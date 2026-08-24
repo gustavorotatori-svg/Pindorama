@@ -35981,5 +35981,21 @@
     "mxVerified": true,
     "mxVerifiedAt": "2026-08-23",
     "template": "pergunta"
+  },
+  {
+    "name": "Bar Bambu",
+    "email": "barbambuzn@gmail.com",
+    "type": "bar",
+    "neighborhood": "Santa Terezinha",
+    "address": "Rua Conselheiro Moreira de Barros, 1084 - Santa Terezinha - Sao Paulo/SP - 02018-012",
+    "context": "Boteco tradicional ativo desde 1971, com vasta carta de cachacas, uisques, batidas artesanais e mais de 40 petiscos. Uma fonte recente de marco de 2026 confirma operacao, email, celular, horarios e o comando familiar por Orlando Fernandes; alto fit para apresentacao da Pindorama e recompra inferida pela carta permanente, sem volume divulgado.",
+    "phone": "(11) 96283-4350",
+    "website": "https://barbambu.com.br/",
+    "emailVerified": true,
+    "emailSource": "https://www.baressp.com.br/bares/bar-bambu",
+    "emailVerifiedAt": "2026-08-23",
+    "mxVerified": true,
+    "mxVerifiedAt": "2026-08-23",
+    "template": "consultivo"
   }
 ]
