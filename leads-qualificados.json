@@ -36125,5 +36125,21 @@
     "mxVerified": true,
     "mxVerifiedAt": "2026-08-24",
     "template": "consultivo"
+  },
+  {
+    "name": "Emporio Vignamazzi",
+    "email": "oemporio@oemporio.com.br",
+    "type": "adega",
+    "neighborhood": "Vila Guilherme",
+    "address": "Av. General Ataliba Leonel, 2343 - Vila Guilherme - Sao Paulo/SP - 02033-010",
+    "context": "Emporio familiar de bebidas ativo desde 1993, com duas lojas, mais de tres mil rotulos, ecommerce com mais de dois mil itens, sommeliers, consultoria para festas e eventos e degustacoes na mega loja. O site oficial atualizado confirma destilados e operacao ativa, e uma marca de cachaca o lista como ponto de venda; alto fit para degustacao e ampliacao de mix, sem comprador nominal divulgado.",
+    "phone": "(11) 94999-6063",
+    "website": "https://oemporio.com.br/",
+    "emailVerified": true,
+    "emailSource": "https://casadosdados.com.br/solucao/cnpj/emporio-renato-vignamazzi-ltda-62784000000187",
+    "emailVerifiedAt": "2026-08-24",
+    "mxVerified": true,
+    "mxVerifiedAt": "2026-08-24",
+    "template": "consultivo"
   }
 ]
