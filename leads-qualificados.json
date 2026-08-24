@@ -36093,5 +36093,21 @@
     "mxVerified": true,
     "mxVerifiedAt": "2026-08-24",
     "template": "consultivo"
+  },
+  {
+    "name": "Emporio Cananeia",
+    "email": "emporiocananeia@gmail.com",
+    "type": "adega",
+    "neighborhood": "Pompeia",
+    "address": "Rua Apinajes, 971 - Pompeia - Sao Paulo/SP",
+    "context": "Emporio varejista de Sao Paulo listado recentemente por uma marca de cachaca como ponto de venda oficial. A fonte confirma endereco, email e canal telefonico empresarial, alem da presenca comprovada de cachaca no mix; o potencial para ampliar a variedade e recompra e uma inferencia comercial, sem comprador nominal, numero de unidades ou volume divulgado.",
+    "phone": "(11) 2366-1895",
+    "website": "",
+    "emailVerified": true,
+    "emailSource": "https://www.brasilchik.com/onde-encontrar",
+    "emailVerifiedAt": "2026-08-24",
+    "mxVerified": true,
+    "mxVerifiedAt": "2026-08-24",
+    "template": "pergunta"
   }
 ]
