@@ -36045,5 +36045,21 @@
     "mxVerified": true,
     "mxVerifiedAt": "2026-08-24",
     "template": "consultivo"
+  },
+  {
+    "name": "NR Distribuidora",
+    "email": "vendas@nrdistribuidora.com.br",
+    "type": "distribuidora",
+    "neighborhood": "Sao Paulo",
+    "address": "Sao Paulo/SP",
+    "context": "Distribuidora ativa de alimentos e bebidas com atendimento comercial publicado e entrega em diversas regioes da cidade de Sao Paulo. O site oficial confirma operacao de atacado, parceria com importadores e dois canais comerciais; o potencial para a linha Pindorama e recompra e uma inferencia pela atividade de distribuicao, pois a fonte nao detalha cachacas, numero de unidades, volume de compras nem comprador nominal.",
+    "phone": "(11) 97380-1756",
+    "website": "https://www.nrdistribuidora.com.br/",
+    "emailVerified": true,
+    "emailSource": "https://www.nrdistribuidora.com.br/empresa",
+    "emailVerifiedAt": "2026-08-24",
+    "mxVerified": true,
+    "mxVerifiedAt": "2026-08-24",
+    "template": "pergunta"
   }
 ]
