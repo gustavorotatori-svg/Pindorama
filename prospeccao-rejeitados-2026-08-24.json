@@ -40,5 +40,12 @@
     "email": "eventos@casalisboa.com.br",
     "source": "https://casalisboa.com.br/unidade-tatuape/; https://casalisboa.com.br/quem-somos/",
     "reason": "adega de alto fit com destilados, atendimento a eventos, degustacao e email oficial ativo, mas a empresa e o destinatario ja constam no cadastro com sequencia completa; rejeitada por deduplicacao para impedir nova abordagem"
+  },
+  {
+    "checkedAt": "2026-08-24T17:32:01-03:00",
+    "name": "Varredura web - adegas e distribuidoras de Sao Paulo",
+    "email": "",
+    "source": "busca web: site oficial adega bebidas destilados cachaca contato email Sao Paulo loja; busca web: distribuidora bebidas destilados contato email Sao Paulo site oficial",
+    "reason": "as duas consultas priorizadas nao retornaram candidato novo com evidencia simultanea de operacao recente, canal empresarial explicitamente publicado e ausencia no cadastro; fontes e termos registrados para evitar repeticao improdutiva no proximo ciclo"
   }
 ]
