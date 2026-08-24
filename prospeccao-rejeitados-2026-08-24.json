@@ -5,5 +5,12 @@
     "email": "contato@barrigudinhaexpress.com.br",
     "source": "https://barrigudinhaexpress.com.br/produtos/",
     "reason": "distribuidora de alto fit com atendimento recorrente a empresas, 14 cachacas, 30 destilados e canal publicado em paginas rastreadas recentemente, mas o dominio agora retorna NXDOMAIN e nao possui MX; rejeitada para email para evitar bounce"
+  },
+  {
+    "checkedAt": "2026-08-24T00:39:18-03:00",
+    "name": "Royal Bebidas",
+    "email": "vendas@royalbebidas.com",
+    "source": "https://siteroyalbebidas.com/",
+    "reason": "distribuidora multiunidade com televendas, fornecimento para comercios e MX valido, mas o site oficial atualmente exibe grande volume de conteudo de cassino e spam injetado; rejeitada neste ciclo porque a fonte esta comprometida e nao oferece evidencia recente suficientemente segura da operacao e do canal"
   }
 ]
