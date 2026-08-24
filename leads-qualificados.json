@@ -35917,5 +35917,21 @@
     "mxVerified": true,
     "mxVerifiedAt": "2026-08-23",
     "template": "consultivo"
+  },
+  {
+    "name": "Bendita Dose",
+    "email": "comercial@benditadose.com.br",
+    "type": "adega",
+    "neighborhood": "Perdizes",
+    "address": "Rua Tucuna - Perdizes - Sao Paulo/SP - 05021-010",
+    "context": "Ecommerce ativo especializado em cachacas artesanais finas, com atendimento comercial, loja online e CNPJ publicados no site oficial. O fit com a Pindorama e direto para inclusao no portfolio; potencial de recompra e inferido pela operacao de varejo especializado, sem volume ou numero de unidades divulgado.",
+    "phone": "(11) 97693-4040",
+    "website": "https://www.benditadose.com.br/",
+    "emailVerified": true,
+    "emailSource": "https://www.benditadose.com.br/contato",
+    "emailVerifiedAt": "2026-08-23",
+    "mxVerified": true,
+    "mxVerifiedAt": "2026-08-23",
+    "template": "consultivo"
   }
 ]
