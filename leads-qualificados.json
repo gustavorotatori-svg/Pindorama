@@ -36013,5 +36013,21 @@
     "mxVerified": true,
     "mxVerifiedAt": "2026-08-23",
     "template": "pergunta"
+  },
+  {
+    "name": "Ferraz Distribuidora",
+    "email": "contato@ferrazcomercio.com.br",
+    "type": "distribuidora",
+    "neighborhood": "Jardim Sao Geraldo",
+    "address": "Av. Otavio Braga de Mesquita, 3863 - Lote E - Jardim Sao Geraldo - Guarulhos/SP - 07140-230",
+    "context": "Distribuidora atacadista B2B ativa em Guarulhos, com mais de 10 anos, mais de 1.500 rotulos, frota propria e foco em abastecer adegas, minimercados, bares e restaurantes. O site oficial de 2026 confirma catalogo de destilados incluindo cachacas, alto estoque, canal empresarial e operacao metropolitana; forte fit e potencial recorrente de compra, embora nao divulgue comprador nominal nem volume por categoria.",
+    "phone": "(11) 5513-9576",
+    "website": "https://ferrazcomercio.com.br/",
+    "emailVerified": true,
+    "emailSource": "https://ferrazcomercio.com.br/",
+    "emailVerifiedAt": "2026-08-23",
+    "mxVerified": true,
+    "mxVerifiedAt": "2026-08-23",
+    "template": "consultivo"
   }
 ]
