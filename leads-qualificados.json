@@ -36141,5 +36141,21 @@
     "mxVerified": true,
     "mxVerifiedAt": "2026-08-24",
     "template": "consultivo"
+  },
+  {
+    "name": "Emporio Di Callani",
+    "email": "emporiodicallani2026@gmail.com",
+    "type": "adega",
+    "neighborhood": "Centro Historico",
+    "address": "Rua da Cantareira, 306, Mercado Municipal, portao 3, Rua D, box 1 - Centro Historico - Sao Paulo/SP - 01024-000",
+    "context": "Emporio e varejo gourmet ativo no Mercado Municipal de Sao Paulo, com ecommerce oficial atualizado, atendimento empresarial por email e WhatsApp, entrega por motoboy na capital e cadastro de pessoa juridica. Uma marca de cachaca o lista recentemente como ponto de venda, comprovando a categoria no mix; potencial de recompra inferido pela operacao varejista, sem comprador nominal ou volume divulgado.",
+    "phone": "(11) 96925-5324",
+    "website": "https://www.dicallani.com.br/",
+    "emailVerified": true,
+    "emailSource": "https://www.dicallani.com.br/contato",
+    "emailVerifiedAt": "2026-08-24",
+    "mxVerified": true,
+    "mxVerifiedAt": "2026-08-24",
+    "template": "pergunta"
   }
 ]
