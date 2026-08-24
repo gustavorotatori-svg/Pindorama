@@ -36090,5 +36090,21 @@
     "template": "consultivo",
     "email1": true,
     "date1": "2026-08-24"
+  },
+  {
+    "name": "Confraria Queijo e Vinho",
+    "email": "contato@confrariaqueijoevinho.com.br",
+    "type": "adega",
+    "neighborhood": "Sumare",
+    "address": "Avenida Doutor Arnaldo, 1318 - Sumare - Sao Paulo/SP - 01255-000",
+    "context": "Emporio de bebidas e alimentos ativo ha mais de 30 anos, com cerca de 1.500 rotulos nacionais e importados, categoria explicita de cachacas e aguardentes, adega climatizada, degustacoes gratuitas e harmonizadas e entrega em todo o Brasil. O site oficial atualizado publica email e WhatsApp empresarial; alto fit para degustacao e ampliacao da linha Pindorama, com potencial de recompra inferido pelo porte do mix, sem comprador nominal ou volume por categoria divulgado.",
+    "phone": "(11) 94782-7695",
+    "website": "https://www.confrariaqueijoevinho.com.br/",
+    "emailVerified": true,
+    "emailSource": "https://www.confrariaqueijoevinho.com.br/institucional",
+    "emailVerifiedAt": "2026-08-24",
+    "mxVerified": true,
+    "mxVerifiedAt": "2026-08-24",
+    "template": "consultivo"
   }
 ]
