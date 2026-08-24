@@ -35933,5 +35933,21 @@
     "mxVerified": true,
     "mxVerifiedAt": "2026-08-23",
     "template": "consultivo"
+  },
+  {
+    "name": "Grill & Brasa",
+    "email": "contato@grillbrasa.com.br",
+    "type": "adega",
+    "neighborhood": "Vila Leopoldina",
+    "address": "Avenida Imperatriz Leopoldina, 735 - Vila Leopoldina - Sao Paulo/SP",
+    "context": "Loja fisica e virtual de produtos para churrasco com bebidas, incluindo cachacas artesanais de alambique de Paraty. O contato oficial foi rastreado recentemente e publica email, telefones e endereco; fit concreto para ampliar o mix de cachacas e potencial de recompra inferido pela operacao varejista, sem volume divulgado.",
+    "phone": "(11) 99590-9101",
+    "website": "https://www.grillbrasa.com.br/",
+    "emailVerified": true,
+    "emailSource": "https://www.grillbrasa.com.br/contato.html",
+    "emailVerifiedAt": "2026-08-23",
+    "mxVerified": true,
+    "mxVerifiedAt": "2026-08-23",
+    "template": "pergunta"
   }
 ]
