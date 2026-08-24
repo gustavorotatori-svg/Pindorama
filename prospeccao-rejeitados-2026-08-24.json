@@ -47,5 +47,12 @@
     "email": "",
     "source": "busca web: site oficial adega bebidas destilados cachaca contato email Sao Paulo loja; busca web: distribuidora bebidas destilados contato email Sao Paulo site oficial",
     "reason": "as duas consultas priorizadas nao retornaram candidato novo com evidencia simultanea de operacao recente, canal empresarial explicitamente publicado e ausencia no cadastro; fontes e termos registrados para evitar repeticao improdutiva no proximo ciclo"
+  },
+  {
+    "checkedAt": "2026-08-24T17:47:15-03:00",
+    "name": "Varredura web - cachacas e destilados na Grande Sao Paulo",
+    "email": "",
+    "source": "busca web: cachacas contato@ Sao Paulo adega; destilados contato@ distribuidora Sao Paulo bebidas; loja de bebidas @gmail.com Santo Andre adega",
+    "reason": "as consultas direcionadas nao expuseram nenhum novo canal empresarial verificavel nos resultados acessiveis; nenhum candidato foi aprovado sem a evidencia minima exigida, e os termos foram registrados para que o proximo ciclo varie fontes e territorio"
   }
 ]
