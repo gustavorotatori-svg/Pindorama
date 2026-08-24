@@ -36077,5 +36077,21 @@
     "mxVerified": true,
     "mxVerifiedAt": "2026-08-24",
     "template": "consultivo"
+  },
+  {
+    "name": "Emporio NetDrinks",
+    "email": "netdrinks@netdrinks.com.br",
+    "type": "adega",
+    "neighborhood": "Pinheiros e Higienopolis",
+    "address": "Rua dos Pinheiros, 861 - Pinheiros; Rua Baronesa de Itu, 481 - Higienopolis - Sao Paulo/SP",
+    "context": "Emporio de bebidas ativo desde 2002 com duas unidades em Sao Paulo, delivery e selecao ampla de cachacas, vinhos e destilados. Fontes recentes confirmam quatro rotulos Brasilchik, inclusive premium e extra premium, email empresarial e WhatsApps publicados; fit direto para ampliacao da linha de cachacas e potencial de recompra inferido pelas duas lojas, sem comprador nominal divulgado.",
+    "phone": "(11) 94036-2117",
+    "website": "http://www.netdrinks.com.br/",
+    "emailVerified": true,
+    "emailSource": "https://www.brasilchik.com/onde-encontrar",
+    "emailVerifiedAt": "2026-08-24",
+    "mxVerified": true,
+    "mxVerifiedAt": "2026-08-24",
+    "template": "consultivo"
   }
 ]
