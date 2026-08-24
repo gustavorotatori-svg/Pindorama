@@ -36106,5 +36106,21 @@
     "mxVerified": true,
     "mxVerifiedAt": "2026-08-24",
     "template": "consultivo"
+  },
+  {
+    "name": "Beale Bebidas",
+    "email": "contato@beale.com.br",
+    "type": "adega",
+    "neighborhood": "Vila Buarque",
+    "address": "Rua Rego Freitas, 52 - Vila Buarque - Sao Paulo/SP - 01220-010",
+    "context": "Loja de bebidas ativa desde 1985, com selecao curada de vinhos e destilados, produtos nacionais e importados e canal empresarial publicado em catalogo oficial. Fontes recentes confirmam operacao no varejo de bebidas e atendimento na loja do centro; alto fit para ampliar a linha de cachacas Pindorama e potencial de recompra inferido pelo modelo varejista, sem comprador nominal ou volume por categoria divulgado.",
+    "phone": "(11) 3337-0899",
+    "website": "https://www.beale.com.br/",
+    "emailVerified": true,
+    "emailSource": "https://www.beale.com.br/catalogos/2023/catalogo_beale_2022web.pdf",
+    "emailVerifiedAt": "2026-08-24",
+    "mxVerified": true,
+    "mxVerifiedAt": "2026-08-24",
+    "template": "consultivo"
   }
 ]
