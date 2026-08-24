@@ -36061,5 +36061,21 @@
     "mxVerified": true,
     "mxVerifiedAt": "2026-08-24",
     "template": "pergunta"
+  },
+  {
+    "name": "Sampa Atacado",
+    "email": "comercial@sampatacado.com.br",
+    "type": "atacadista",
+    "neighborhood": "Bom Retiro",
+    "address": "Avenida do Estado, 1666 - Bom Retiro - Sao Paulo/SP",
+    "context": "Atacadista ativo com loja virtual oficial atualizada, compra por CPF/CNPJ, categorias de bebidas e destilados e ofertas por volume. O catalogo oficial confirma cachaca e gins, alem de canal comercial, endereco da matriz e entrega em Sao Paulo; forte fit para varejo da linha Pindorama e recompra inferida pelo modelo atacadista, sem comprador nominal ou volume por categoria publicado.",
+    "phone": "(11) 97582-8745",
+    "website": "https://lojavirtual.sampatacado.com.br/",
+    "emailVerified": true,
+    "emailSource": "https://lojavirtual.sampatacado.com.br/loja",
+    "emailVerifiedAt": "2026-08-24",
+    "mxVerified": true,
+    "mxVerifiedAt": "2026-08-24",
+    "template": "consultivo"
   }
 ]
