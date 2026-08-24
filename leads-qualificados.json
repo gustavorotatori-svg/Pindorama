@@ -35949,5 +35949,21 @@
     "mxVerified": true,
     "mxVerifiedAt": "2026-08-23",
     "template": "pergunta"
+  },
+  {
+    "name": "Mais Distribuidora",
+    "email": "adm.vendas@maisdistribuidora.net.br",
+    "type": "distribuidora",
+    "neighborhood": "Agua Branca",
+    "address": "Rua Henrique Ongari, 381 - Agua Branca - Sao Paulo/SP - 05037-150",
+    "context": "Distribuidora B2B ativa para comercios da Grande Sao Paulo, com ecommerce, cadastro de pessoa juridica e categorias especificas de cachacas, destilados e vinhos. O site oficial recente publica email de vendas, telefone e endereco; forte fit para fornecimento recorrente, inferido pelo modelo de delivery empresarial, sem volume divulgado.",
+    "phone": "(11) 3616-5522",
+    "website": "https://maisdistribuidora.net.br/",
+    "emailVerified": true,
+    "emailSource": "https://maisdistribuidora.net.br/empresa.aspx",
+    "emailVerifiedAt": "2026-08-23",
+    "mxVerified": true,
+    "mxVerifiedAt": "2026-08-23",
+    "template": "consultivo"
   }
 ]
