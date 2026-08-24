@@ -36229,5 +36229,21 @@
     "mxVerified": true,
     "mxVerifiedAt": "2026-08-24",
     "template": "consultivo"
+  },
+  {
+    "name": "Alvorada Distribuidora de Bebidas",
+    "email": "contato@alvoradabebidas.com.br",
+    "type": "distribuidora",
+    "neighborhood": "Vila Herminia",
+    "address": "Rua Primeiro-Tenente-Aviador Luis Lopes Dorneles, 78 - Vila Herminia - Guarulhos/SP - 07030-140",
+    "context": "Distribuidora de bebidas de Guarulhos com site proprio ativo, canal empresarial publicado e operacao confirmada recentemente em guia local. Fabricantes de cachaca a listam como distribuidora e ponto de venda, comprovando aderencia direta da categoria; uma dessas fontes publica Liliane como contato. Potencial de recompra inferido pela atividade de distribuicao, sem volume, carteira de clientes ou cargo formal do contato divulgados.",
+    "phone": "(11) 2422-0031",
+    "website": "https://www.alvoradabebidas.com.br/",
+    "emailVerified": true,
+    "emailSource": "https://www.alvoradabebidas.com.br/contato.asp",
+    "emailVerifiedAt": "2026-08-24",
+    "mxVerified": true,
+    "mxVerifiedAt": "2026-08-24",
+    "template": "consultivo"
   }
 ]
