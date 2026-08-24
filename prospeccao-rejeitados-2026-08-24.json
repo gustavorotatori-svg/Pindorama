@@ -12,5 +12,12 @@
     "email": "vendas@royalbebidas.com",
     "source": "https://siteroyalbebidas.com/",
     "reason": "distribuidora multiunidade com televendas, fornecimento para comercios e MX valido, mas o site oficial atualmente exibe grande volume de conteudo de cassino e spam injetado; rejeitada neste ciclo porque a fonte esta comprometida e nao oferece evidencia recente suficientemente segura da operacao e do canal"
+  },
+  {
+    "checkedAt": "2026-08-24T00:54:21-03:00",
+    "name": "Mega Adega",
+    "email": "adega@megaadega.com.br",
+    "source": "https://www.megaadega.com.br/sobre-a-empresa-mega-adega",
+    "reason": "adega ativa com mais de 4.000 rotulos, importacao propria, destilados, eventos de degustacao, email oficial recente e MX valido, mas empresa e destinatario ja receberam a sequencia completa de tres emails; rejeitada por deduplicacao"
   }
 ]
