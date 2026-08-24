@@ -35841,7 +35841,9 @@
     "emailVerifiedAt": "2026-08-23",
     "mxVerified": true,
     "mxVerifiedAt": "2026-08-23",
-    "template": "consultivo"
+    "template": "consultivo",
+    "email1": true,
+    "date1": "2026-08-24"
   },
   {
     "name": "Bebidas Famosas",
@@ -35891,7 +35893,9 @@
     "emailVerifiedAt": "2026-08-23",
     "mxVerified": true,
     "mxVerifiedAt": "2026-08-23",
-    "template": "pergunta"
+    "template": "pergunta",
+    "email1": true,
+    "date1": "2026-08-24"
   },
   {
     "name": "Ferraz Distribuidora",
@@ -35907,7 +35911,9 @@
     "emailVerifiedAt": "2026-08-23",
     "mxVerified": true,
     "mxVerifiedAt": "2026-08-23",
-    "template": "consultivo"
+    "template": "consultivo",
+    "email1": true,
+    "date1": "2026-08-24"
   },
   {
     "name": "Paula Sousa Bebidas",
@@ -35939,7 +35945,9 @@
     "emailVerifiedAt": "2026-08-24",
     "mxVerified": true,
     "mxVerifiedAt": "2026-08-24",
-    "template": "pergunta"
+    "template": "pergunta",
+    "email1": true,
+    "date1": "2026-08-24"
   },
   {
     "name": "Sampa Atacado",
@@ -35955,7 +35963,9 @@
     "emailVerifiedAt": "2026-08-24",
     "mxVerified": true,
     "mxVerifiedAt": "2026-08-24",
-    "template": "consultivo"
+    "template": "consultivo",
+    "email1": true,
+    "date1": "2026-08-24"
   },
   {
     "name": "Emporio NetDrinks",
@@ -36059,7 +36069,9 @@
     "emailVerifiedAt": "2026-08-24",
     "mxVerified": true,
     "mxVerifiedAt": "2026-08-24",
-    "template": "consultivo"
+    "template": "consultivo",
+    "email1": true,
+    "date1": "2026-08-24"
   },
   {
     "name": "Alvorada Distribuidora de Bebidas",
@@ -36075,6 +36087,8 @@
     "emailVerifiedAt": "2026-08-24",
     "mxVerified": true,
     "mxVerifiedAt": "2026-08-24",
-    "template": "consultivo"
+    "template": "consultivo",
+    "email1": true,
+    "date1": "2026-08-24"
   }
 ]
