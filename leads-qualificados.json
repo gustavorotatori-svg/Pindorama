@@ -35997,5 +35997,21 @@
     "mxVerified": true,
     "mxVerifiedAt": "2026-08-23",
     "template": "consultivo"
+  },
+  {
+    "name": "Destill Comercial",
+    "email": "contato@destill.com.br",
+    "type": "distribuidora",
+    "neighborhood": "Vila Formosa",
+    "address": "Rua Tauande, 55 - Vila Formosa - Sao Paulo/SP",
+    "context": "Distribuidora de bebidas ativa em Sao Paulo, com canal empresarial oficial, telefone e WhatsApp publicados. O nome e a operacao indicam aderencia a destilados, enquanto o potencial de recompra e uma inferencia comercial; a fonte nao divulga volume, numero de unidades nem comprador responsavel.",
+    "phone": "+55 (11) 94172-8444",
+    "website": "https://destill.com.br/",
+    "emailVerified": true,
+    "emailSource": "https://destill.com.br/contato/",
+    "emailVerifiedAt": "2026-08-23",
+    "mxVerified": true,
+    "mxVerifiedAt": "2026-08-23",
+    "template": "pergunta"
   }
 ]
