@@ -65,7 +65,7 @@ async function audit() {
   // Emails from last 7 days
   const weekAgo = new Date();
   weekAgo.setDate(weekAgo.getDate() - 7);
-  const recentEmails = await searchEmails(['SINCE', weekAgo.toISOString().split('T')[0]]);
+  const recentEmails = await searchEmails([['SINCE', weekAgo]]);
   console.log(`Emails ultimos 7 dias: ${recentEmails.length}\n`);
 
   // Fetch recent emails
