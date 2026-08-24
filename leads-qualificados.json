@@ -36213,5 +36213,21 @@
     "template": "pergunta",
     "email1": true,
     "date1": "2026-08-24"
+  },
+  {
+    "name": "Ginger Spirits & Drinks",
+    "email": "ginger.pinheiros@gmail.com",
+    "type": "bar",
+    "neighborhood": "Pinheiros",
+    "address": "Rua Padre Carvalho, 26 - Pinheiros - Sao Paulo/SP - 05427-020",
+    "context": "Bar de coquetelaria e destilados em operacao recente, com avaliacoes publicadas em 2026, carta centrada em drinks e escolha de marcas de destilados e tonicas. Uma marca de cachaca o lista atualmente como ponto de venda e a fonte empresarial publica email e endereco; fit alto para degustacao e uso da Pindorama em coqueteis, sem comprador nominal, numero de unidades ou volume divulgado.",
+    "phone": "(11) 96456-2387",
+    "website": "https://www.instagram.com/gingerspiritsdrinks/",
+    "emailVerified": true,
+    "emailSource": "https://br.todosnegocios.com/pt/ginger-spirits-drinks",
+    "emailVerifiedAt": "2026-08-24",
+    "mxVerified": true,
+    "mxVerifiedAt": "2026-08-24",
+    "template": "consultivo"
   }
 ]
