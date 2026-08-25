@@ -75,5 +75,12 @@
     "email": "",
     "source": "https://mapadacachaca.com.br/lugares/trinca-bar-vermuteria/",
     "reason": "bar e vermuteria selecionado por potencial de coquetelaria, mas a fonte setorial excedeu o tempo seguro de consulta e nao permitiu confirmar operacao recente, territorio nem canal empresarial; rejeitado neste ciclo sem inferir dados e registrado para busca por fonte alternativa"
+  },
+  {
+    "checkedAt": "2026-08-25T09:11:48-03:00",
+    "name": "Guarita Bar",
+    "email": "",
+    "source": "https://mapadacachaca.com.br/lugares/guarita-bar/; https://www.instagram.com/guaritabar/; https://guaritabar.com.br/",
+    "reason": "bar ativo ha mais de dez anos em Pinheiros, com drinks autorais, avaliacao maxima em coqueteis e presenca de cachacas, mas o site oficial estava inacessivel e as fontes publicas consultadas nao expuseram email, telefone ou WhatsApp empresarial; rejeitado ate surgir canal verificavel"
   }
 ]
