@@ -68,5 +68,19 @@
     "email": "vendas@saopaulodistribuidora.com.br",
     "source": "https://www.saopaulodistribuidora.com.br/",
     "reason": "site oficial ativo em 2026, canal comercial publicado e MX valido, mas a empresa distribui produtos para embalagens e apenas atende clientes da industria de alimentos e bebidas; nao vende bebidas ou destilados e foi rejeitada por segmento antes de qualquer contato"
+  },
+  {
+    "checkedAt": "2026-08-24T20:16:32-03:00",
+    "name": "Dismax Distribuidora",
+    "email": "",
+    "source": "https://dismax.com.br/",
+    "reason": "distribuidora ativa, site atualizado em 2026, mais de 1.500 SKUs, frota propria e cobertura do ABC paulista, mas o catalogo institucional limita o mix a alimentos, doces, massas, biscoitos, chocolates, chas, lacteos, temperos, pilhas e limpeza; nao ha evidencia de bebidas alcoolicas nem email empresarial publicado, portanto foi rejeitada por aderencia e canal"
+  },
+  {
+    "checkedAt": "2026-08-24T21:59:48-03:00",
+    "name": "Varredura web - cachacarias e coquetelaria de Sao Paulo",
+    "email": "",
+    "source": "busca web: cachacaria bar Sao Paulo contato email site oficial; bar carta de cachacas Sao Paulo contato; restaurante brasileiro caipirinha Sao Paulo contato email; site:baressp.com.br cachacaria Sao Paulo contato",
+    "reason": "as consultas setoriais retornaram resultados irrelevantes ou fora do territorio e nenhum estabelecimento novo com operacao recente e canal empresarial publicado; termos e fonte registrados para variar a proxima varredura e impedir repeticao improdutiva"
   }
 ]
