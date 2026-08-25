@@ -35721,7 +35721,9 @@
     "emailVerifiedAt": "2026-08-23",
     "mxVerified": true,
     "mxVerifiedAt": "2026-08-23",
-    "template": "consultivo"
+    "template": "consultivo",
+    "email1": true,
+    "date1": "2026-08-25"
   },
   {
     "name": "Bardega",
@@ -35737,7 +35739,9 @@
     "emailVerifiedAt": "2026-08-23",
     "mxVerified": true,
     "mxVerifiedAt": "2026-08-23",
-    "template": "pergunta"
+    "template": "pergunta",
+    "email1": true,
+    "date1": "2026-08-25"
   },
   {
     "name": "Viva Cachaca",
@@ -35877,7 +35881,9 @@
     "emailVerifiedAt": "2026-08-23",
     "mxVerified": true,
     "mxVerifiedAt": "2026-08-23",
-    "template": "consultivo"
+    "template": "consultivo",
+    "email1": true,
+    "date1": "2026-08-25"
   },
   {
     "name": "Destill Comercial",
@@ -35929,7 +35935,9 @@
     "emailVerifiedAt": "2026-08-24",
     "mxVerified": true,
     "mxVerifiedAt": "2026-08-24",
-    "template": "consultivo"
+    "template": "consultivo",
+    "email1": true,
+    "date1": "2026-08-25"
   },
   {
     "name": "NR Distribuidora",
@@ -35999,7 +36007,9 @@
     "emailVerifiedAt": "2026-08-24",
     "mxVerified": true,
     "mxVerifiedAt": "2026-08-24",
-    "template": "pergunta"
+    "template": "pergunta",
+    "email1": true,
+    "date1": "2026-08-25"
   },
   {
     "name": "Emporio Frei Caneca",
@@ -36105,7 +36115,9 @@
     "emailVerifiedAt": "2026-08-24",
     "mxVerified": true,
     "mxVerifiedAt": "2026-08-24",
-    "template": "consultivo"
+    "template": "consultivo",
+    "email1": true,
+    "date1": "2026-08-25"
   },
   {
     "name": "Beale Bebidas",
@@ -36121,6 +36133,8 @@
     "emailVerifiedAt": "2026-08-24",
     "mxVerified": true,
     "mxVerifiedAt": "2026-08-24",
-    "template": "consultivo"
+    "template": "consultivo",
+    "email1": true,
+    "date1": "2026-08-25"
   }
 ]
