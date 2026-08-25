@@ -54,5 +54,12 @@
     "email": "sac@emporiofreicaneca.com.br",
     "source": "https://mapadacachaca.com.br/lugares/emporio-frei-caneca/; https://www.emporiofreicaneca.com.br/",
     "reason": "megaloja de bebidas em Sao Paulo com cerca de seis mil itens, mais de tres mil rotulos, cachacas, degustacoes e canal oficial, mas a empresa ja recebeu primeira abordagem em 2026-08-24; rejeitada por deduplicacao para impedir segunda mensagem"
+  },
+  {
+    "checkedAt": "2026-08-25T02:38:40-03:00",
+    "name": "Barao do Malte",
+    "email": "",
+    "source": "https://mapadacachaca.com.br/lugares/barao-do-malte/",
+    "reason": "distribuidora de bebidas e alimentos com vasto portfolio e aderencia comercial, mas localizada em Sao Jose do Rio Preto, fora do territorio vigente, e sem canal empresarial proprio publicado na fonte acessivel; rejeitada por territorio antes de qualquer contato"
   }
 ]
