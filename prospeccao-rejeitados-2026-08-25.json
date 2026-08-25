@@ -40,5 +40,12 @@
     "email": "",
     "source": "https://mapadacachaca.com.br/lugares/adega-sanguine/",
     "reason": "adega de alto fit com variedade de destilados, vinhos e whisky, mas localizada na Grande Porto Alegre e sem canal empresarial proprio publicado na fonte acessivel; rejeitada por territorio antes de qualquer contato"
+  },
+  {
+    "checkedAt": "2026-08-25T02:07:58-03:00",
+    "name": "Emporio Brasil Bebidas",
+    "email": "",
+    "source": "https://mapadacachaca.com.br/lugares/emporio-brasil-bebidas/",
+    "reason": "varejista de alto fit ativo desde 2006, com e-commerce, destaque para bebidas nacionais premiadas e selecao de cachacas, mas a pagina acessivel nao identifica territorio nem publica email, telefone ou site proprio do estabelecimento; rejeitado ate existir canal oficial e localizacao verificaveis"
   }
 ]
