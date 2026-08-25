@@ -89,5 +89,19 @@
     "email": "contato@cachacariasp.com.br",
     "source": "https://www.cachacariasp.com.br/",
     "reason": "site oficial ativo confirma loja fisica dedicada integralmente a cachaca no Copan, endereco, telefone e WhatsApp empresarial; apesar do fit maximo, a empresa ja recebeu a primeira abordagem por email em 2026-08-23 e foi rejeitada por deduplicacao, sem novo WhatsApp ou segunda mensagem"
+  },
+  {
+    "checkedAt": "2026-08-24T22:30:03-03:00",
+    "name": "Bendita Dose",
+    "email": "comercial@benditadose.com.br",
+    "source": "https://www.benditadose.com.br/",
+    "reason": "e-commerce ativo dedicado a cachacas artesanais finas, com email comercial oficial e aderencia maxima, mas a empresa ja recebeu primeira abordagem em 2026-08-24; rejeitada por deduplicacao, sem segunda mensagem"
+  },
+  {
+    "checkedAt": "2026-08-24T22:30:03-03:00",
+    "name": "Casa Zilanna",
+    "email": "",
+    "source": "https://mapadacachaca.com.br/lugares/casa-zilanna/",
+    "reason": "mercearia de Sao Paulo com selecao explicita de cachacas artesanais e destilados brasileiros, alto fit e operacao divulgada em fonte setorial atualizada, mas nenhum email ou telefone empresarial do estabelecimento foi publicado na fonte acessivel; rejeitada ate surgir canal oficial verificavel"
   }
 ]
