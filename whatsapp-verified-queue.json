@@ -1334,5 +1334,16 @@
     "verifiedAt": "2026-08-25",
     "notBefore": "2026-08-25",
     "status": "queued"
+  },
+  {
+    "name": "Adega Imperador",
+    "phone": "(11) 98135-5842",
+    "type": "adega_delivery_destilados",
+    "city": "Sao Paulo",
+    "source": "https://adegaimperador.com.br/adegaimperador/adegaimperador/pages/contato",
+    "evidence": "Site oficial consultado em agosto de 2026 confirma loja e delivery ativos em Americanopolis, catalogo com bebidas destiladas e coqueteis, endereco e WhatsApp empresarial publicados.",
+    "verifiedAt": "2026-08-25",
+    "notBefore": "2026-08-25",
+    "status": "queued"
   }
 ]
