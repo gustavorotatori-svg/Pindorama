@@ -61,5 +61,12 @@
     "email": "",
     "source": "https://mapadacachaca.com.br/lugares/barao-do-malte/",
     "reason": "distribuidora de bebidas e alimentos com vasto portfolio e aderencia comercial, mas localizada em Sao Jose do Rio Preto, fora do territorio vigente, e sem canal empresarial proprio publicado na fonte acessivel; rejeitada por territorio antes de qualquer contato"
+  },
+  {
+    "checkedAt": "2026-08-25T04:12:42-03:00",
+    "name": "Emporio Bohemio",
+    "email": "",
+    "source": "https://mapadacachaca.com.br/lugares/emporio-bohemio/",
+    "reason": "candidato setorial priorizado para qualificacao, mas a fonte excedeu o tempo seguro de consulta e nao permitiu confirmar operacao recente, territorio nem canal empresarial; rejeitado neste ciclo sem inferir dados e registrado para nova tentativa por fonte alternativa"
   }
 ]
