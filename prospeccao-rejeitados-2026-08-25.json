@@ -19,5 +19,12 @@
     "email": "",
     "source": "https://mapadacachaca.com.br/lugares/emporio-grimaldi-em-campinas/",
     "reason": "emporio listado em diretorio especializado de cachaca e dentro do territorio ampliado de Campinas, mas a pagina acessivel nao publica email empresarial do estabelecimento e o unico telefone extraido nao foi confirmado como canal oficial do emporio; rejeitado ate existir fonte oficial ou recente inequivoca"
+  },
+  {
+    "checkedAt": "2026-08-25T01:06:37-03:00",
+    "name": "Santa Rita Emporio Gourmet",
+    "email": "",
+    "source": "https://mapadacachaca.com.br/lugares/santa-rita-emporio/",
+    "reason": "emporio com selecao de cachacas listado em fonte setorial recente, mas localizado em Mogi Guacu, fora do territorio vigente, e sem email empresarial do estabelecimento publicado na pagina acessivel; rejeitado por territorio e ausencia de canal verificavel"
   }
 ]
