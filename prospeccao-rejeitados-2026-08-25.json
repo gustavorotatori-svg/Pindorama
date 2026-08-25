@@ -26,5 +26,12 @@
     "email": "",
     "source": "https://mapadacachaca.com.br/lugares/santa-rita-emporio/",
     "reason": "emporio com selecao de cachacas listado em fonte setorial recente, mas localizado em Mogi Guacu, fora do territorio vigente, e sem email empresarial do estabelecimento publicado na pagina acessivel; rejeitado por territorio e ausencia de canal verificavel"
+  },
+  {
+    "checkedAt": "2026-08-25T01:21:56-03:00",
+    "name": "Emporio Local",
+    "email": "",
+    "source": "https://mapadacachaca.com.br/lugares/emporio-local/; busca web: Emporio Local Padre Carvalho 335 contato",
+    "reason": "estabelecimento de Pinheiros com destaque explicito para cachaca e petiscos, alto fit e endereco confirmado em fonte setorial, mas a fonte nao publica email ou telefone proprio e a busca complementar nao encontrou canal oficial inequivoco; rejeitado ate surgir contato empresarial verificavel"
   }
 ]
