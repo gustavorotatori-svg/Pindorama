@@ -1345,5 +1345,16 @@
     "verifiedAt": "2026-08-25",
     "notBefore": "2026-08-25",
     "status": "queued"
+  },
+  {
+    "name": "Adega e Emporio Fenix",
+    "phone": "(11) 98541-4002",
+    "type": "adega_emporio_delivery_destilados",
+    "city": "Sao Paulo",
+    "source": "https://www.adegaeemporiofenix.shop/",
+    "evidence": "Site oficial consultado em agosto de 2026 confirma adega e emporio ativos em Santo Amaro, cervejas, whisky, gin, outros destilados e delivery, com WhatsApp empresarial publicado.",
+    "verifiedAt": "2026-08-25",
+    "notBefore": "2026-08-25",
+    "status": "queued"
   }
 ]
