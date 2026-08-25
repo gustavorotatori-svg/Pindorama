@@ -89,5 +89,12 @@
     "email": "",
     "source": "https://mapadacachaca.com.br/lugares/mangalo-cafe-bar/",
     "reason": "cafe-bar com bar no local e presenca em diretorio especializado de cachaca, mas localizado no Espirito Santo e sem canal empresarial proprio publicado na fonte acessivel; rejeitado por territorio antes de qualquer contato"
+  },
+  {
+    "checkedAt": "2026-08-25T14:43:09-03:00",
+    "name": "A Merce Cafeteria, Mercearia e Bar de Vinhos",
+    "email": "",
+    "source": "https://mapadacachaca.com.br/lugares/a-merce-cafeteria-mercearia-e-bar-de-vinhos/; busca web: A Merce Praca da Republica 119 contato",
+    "reason": "estabelecimento de Sao Paulo com carta de vinhos, drinks exclusivos e selecao explicita de ao menos cinco cachacas Tie, portanto alto fit, mas nenhuma fonte consultada publicou email, telefone ou WhatsApp empresarial verificavel; rejeitado ate surgir canal oficial"
   }
 ]
