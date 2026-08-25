@@ -82,5 +82,12 @@
     "email": "",
     "source": "busca web: cachacaria bar Sao Paulo contato email site oficial; bar carta de cachacas Sao Paulo contato; restaurante brasileiro caipirinha Sao Paulo contato email; site:baressp.com.br cachacaria Sao Paulo contato",
     "reason": "as consultas setoriais retornaram resultados irrelevantes ou fora do territorio e nenhum estabelecimento novo com operacao recente e canal empresarial publicado; termos e fonte registrados para variar a proxima varredura e impedir repeticao improdutiva"
+  },
+  {
+    "checkedAt": "2026-08-24T22:14:57-03:00",
+    "name": "Cachacaria SP",
+    "email": "contato@cachacariasp.com.br",
+    "source": "https://www.cachacariasp.com.br/",
+    "reason": "site oficial ativo confirma loja fisica dedicada integralmente a cachaca no Copan, endereco, telefone e WhatsApp empresarial; apesar do fit maximo, a empresa ja recebeu a primeira abordagem por email em 2026-08-23 e foi rejeitada por deduplicacao, sem novo WhatsApp ou segunda mensagem"
   }
 ]
