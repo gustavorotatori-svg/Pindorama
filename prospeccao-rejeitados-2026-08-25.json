@@ -33,5 +33,12 @@
     "email": "",
     "source": "https://mapadacachaca.com.br/lugares/emporio-local/; busca web: Emporio Local Padre Carvalho 335 contato",
     "reason": "estabelecimento de Pinheiros com destaque explicito para cachaca e petiscos, alto fit e endereco confirmado em fonte setorial, mas a fonte nao publica email ou telefone proprio e a busca complementar nao encontrou canal oficial inequivoco; rejeitado ate surgir contato empresarial verificavel"
+  },
+  {
+    "checkedAt": "2026-08-25T01:37:32-03:00",
+    "name": "Adega Sanguine",
+    "email": "",
+    "source": "https://mapadacachaca.com.br/lugares/adega-sanguine/",
+    "reason": "adega de alto fit com variedade de destilados, vinhos e whisky, mas localizada na Grande Porto Alegre e sem canal empresarial proprio publicado na fonte acessivel; rejeitada por territorio antes de qualquer contato"
   }
 ]
