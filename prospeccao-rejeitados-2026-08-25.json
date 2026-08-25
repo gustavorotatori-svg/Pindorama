@@ -47,5 +47,12 @@
     "email": "",
     "source": "https://mapadacachaca.com.br/lugares/emporio-brasil-bebidas/",
     "reason": "varejista de alto fit ativo desde 2006, com e-commerce, destaque para bebidas nacionais premiadas e selecao de cachacas, mas a pagina acessivel nao identifica territorio nem publica email, telefone ou site proprio do estabelecimento; rejeitado ate existir canal oficial e localizacao verificaveis"
+  },
+  {
+    "checkedAt": "2026-08-25T02:23:11-03:00",
+    "name": "Emporio Frei Caneca",
+    "email": "sac@emporiofreicaneca.com.br",
+    "source": "https://mapadacachaca.com.br/lugares/emporio-frei-caneca/; https://www.emporiofreicaneca.com.br/",
+    "reason": "megaloja de bebidas em Sao Paulo com cerca de seis mil itens, mais de tres mil rotulos, cachacas, degustacoes e canal oficial, mas a empresa ja recebeu primeira abordagem em 2026-08-24; rejeitada por deduplicacao para impedir segunda mensagem"
   }
 ]
