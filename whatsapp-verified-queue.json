@@ -1356,5 +1356,16 @@
     "verifiedAt": "2026-08-25",
     "notBefore": "2026-08-25",
     "status": "queued"
+  },
+  {
+    "name": "Trem di Cume",
+    "phone": "(11) 98297-1954",
+    "type": "emporio_mineiro_adega_cachaca",
+    "city": "Sao Paulo",
+    "source": "https://www.tremdicume.com.br/",
+    "evidence": "Site oficial consultado em agosto de 2026 confirma emporio mineiro ativo no Tatuape, setor de adega e venda de licor artesanal de cachaca, com WhatsApp empresarial publicado.",
+    "verifiedAt": "2026-08-25",
+    "notBefore": "2026-08-25",
+    "status": "queued"
   }
 ]
