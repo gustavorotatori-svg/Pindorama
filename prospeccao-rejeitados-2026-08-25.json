@@ -5,5 +5,12 @@
     "email": "contato@adega.delivery",
     "source": "https://www.adega.delivery/",
     "reason": "varejista de bebidas com site oficial ativo e territorio potencialmente aderente, mas o destinatario consta na lista permanente de supressao do projeto; rejeitado antes de qualquer contato para preservar a higiene e impedir reenvio"
+  },
+  {
+    "checkedAt": "2026-08-25T00:36:26-03:00",
+    "name": "Varredura web - canais comerciais de adegas e distribuidoras",
+    "email": "",
+    "source": "busca web: adega contato@ Sao Paulo bebidas; cachacas comercial@ Sao Paulo loja; distribuidora de bebidas vendas@ Sao Paulo; adega loja bebidas Sao Paulo site oficial contato; distribuidora bebidas Guarulhos site oficial contato; emporio vinhos destilados Sao Paulo site oficial",
+    "reason": "as consultas orientadas a canais empresariais oficiais nao retornaram resultados acessiveis com evidencia simultanea de operacao recente, territorio valido e contato publicado; nenhum candidato foi aprovado e os termos foram registrados para variar a fonte e evitar retrabalho"
   }
 ]
