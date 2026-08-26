@@ -1367,5 +1367,16 @@
     "verifiedAt": "2026-08-25",
     "notBefore": "2026-08-25",
     "status": "queued"
+  },
+  {
+    "name": "FG7 Bebidas",
+    "phone": "(11) 94787-0025",
+    "type": "loja_bebidas_destilados_cachacas",
+    "city": "Sao Paulo",
+    "source": "https://www.fg7bebidas.com.br/",
+    "evidence": "Site oficial consultado em agosto de 2026 confirma loja ativa com destilados, aguardentes e cachacas, alem de telefone, email e WhatsApp empresarial publicados.",
+    "verifiedAt": "2026-08-25",
+    "notBefore": "2026-08-26",
+    "status": "queued"
   }
 ]
