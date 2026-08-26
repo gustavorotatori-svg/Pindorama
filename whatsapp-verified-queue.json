@@ -1378,5 +1378,16 @@
     "verifiedAt": "2026-08-25",
     "notBefore": "2026-08-26",
     "status": "queued"
+  },
+  {
+    "name": "Stark Chopp",
+    "phone": "(11) 98315-8899",
+    "type": "distribuidora_chopp_destilados_cachacas_eventos",
+    "city": "Sao Paulo",
+    "source": "https://starkchopp.com.br/",
+    "evidence": "Site oficial consultado em agosto de 2026 confirma loja e distribuidora ativas, entrega na Grande Sao Paulo, fornecimento para eventos, destilados e ampla linha de cachacas, com WhatsApp empresarial publicado.",
+    "verifiedAt": "2026-08-25",
+    "notBefore": "2026-08-26",
+    "status": "queued"
   }
 ]
