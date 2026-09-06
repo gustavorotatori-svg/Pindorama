@@ -31,7 +31,7 @@ const withPhone = leads.filter(lead =>
   (lead.whatsappSource || lead.phoneSource)
 );
 
-const MAX_PER_DAY = 4;
+const MAX_PER_DAY = 6;
 const alreadySentToday = leads.filter(lead => lead.whatsappSent && lead.whatsappDate === today).length;
 if (alreadySentToday >= MAX_PER_DAY) {
   console.log(`LIMITE DIÁRIO WhatsApp atingido (${alreadySentToday}/${MAX_PER_DAY} hoje).`);

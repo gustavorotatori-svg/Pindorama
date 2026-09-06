@@ -12,8 +12,14 @@ const FIRST_CONTACT_TYPES = new Set([
   'atacadista', 'bar', 'balada', 'restaurante', 'buffet'
 ]);
 
+function eligibleFirstContactType(type) {
+  const normalized = String(type || '').toLowerCase();
+  return FIRST_CONTACT_TYPES.has(normalized) ||
+    /(^|_)(adega|loja|loja_bebidas|distribuidora|distribuidor|atacadista|bar|balada|restaurante|buffet|hotel|catering|supermercado|padaria|mercadinho|conveniencia|emporio)(_|$)/.test(normalized);
+}
+
 function verifiedFirstContact(lead) {
-  if (!FIRST_CONTACT_TYPES.has(lead.type)) return false;
+  if (!eligibleFirstContactType(lead.type)) return false;
   if (lead.emailVerified !== true) return false;
   const source = String(lead.emailSource || '').trim();
   const verifiedAt = String(lead.emailVerifiedAt || '').trim();
@@ -122,7 +128,7 @@ function analyze() {
 
   const waToday = qualifiedLeads.filter(l => l.whatsappSent && l.whatsappDate === todayStr).length;
   const waTotal = qualifiedLeads.filter(l => l.whatsappSent).length;
-  console.log(`  WhatsApp hoje:             ${waToday}/4 (máx diário)`);
+  console.log(`  WhatsApp hoje:             ${waToday}/6 (máx diário)`);
   console.log(`  WhatsApp total:            ${waTotal}`);
 
   // === SEGMENTOS ===

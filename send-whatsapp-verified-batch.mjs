@@ -32,6 +32,7 @@ const queueFile = 'whatsapp-verified-queue.json';
 const leads = JSON.parse(readFileSync(leadsFile, 'utf8'));
 const log = existsSync(logFile) ? JSON.parse(readFileSync(logFile, 'utf8')) : [];
 const targets = existsSync(queueFile) ? JSON.parse(readFileSync(queueFile, 'utf8')) : [];
+const requestedNames = process.argv.slice(2);
 const alreadyToday = log.filter((entry) => entry.date === today && entry.status === 'accepted').length;
 if (alreadyToday >= LIMIT) {
   console.log(`LIMITE DIARIO WhatsApp atingido (${alreadyToday}/${LIMIT}).`);
@@ -47,7 +48,8 @@ const eligible = targets.filter((target) => {
   const lead = leads.find((item) => item.name === target.name);
   const everMessaged = log.some((entry) => entry.name === target.name && entry.status === 'accepted');
   const suppressed = lead && (lead.whatsappSent || lead.doNotContact || lead.bounced);
-  return target.status === 'queued' && target.notBefore <= today && !everMessaged && !suppressed && target.source.startsWith('https://');
+  const explicitlyRequested = requestedNames.length === 0 || requestedNames.includes(target.name);
+  return explicitlyRequested && target.status === 'queued' && target.notBefore <= today && !everMessaged && !suppressed && target.source.startsWith('https://');
 });
 
 if (!eligible.length) {

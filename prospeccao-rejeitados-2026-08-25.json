@@ -96,5 +96,12 @@
     "email": "",
     "source": "https://mapadacachaca.com.br/lugares/a-merce-cafeteria-mercearia-e-bar-de-vinhos/; busca web: A Merce Praca da Republica 119 contato",
     "reason": "estabelecimento de Sao Paulo com carta de vinhos, drinks exclusivos e selecao explicita de ao menos cinco cachacas Tie, portanto alto fit, mas nenhuma fonte consultada publicou email, telefone ou WhatsApp empresarial verificavel; rejeitado ate surgir canal oficial"
+  },
+  {
+    "checkedAt": "2026-08-25T22:37:39-03:00",
+    "name": "Boteco Boa Vista",
+    "email": "boavistabar@gmail.com",
+    "source": "https://www.findglocal.com/BR/Guarulhos/620978511263806/Boteco-Boa-Vista; cadastro master local",
+    "reason": "bar ativo em Guarulhos com carta de cachacas mineiras, caipirinhas e WhatsApp publicado, mas ja consta no master com as tres etapas de email concluidas; rejeitado por deduplicacao para impedir nova primeira abordagem automatica"
   }
 ]

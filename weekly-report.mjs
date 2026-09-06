@@ -5,17 +5,9 @@
  */
 import { readFileSync, writeFileSync, existsSync, mkdirSync } from 'fs';
 import { execFileSync } from 'child_process';
-import { exec } from 'child_process';
 import { join } from 'path';
 
 const isWin = process.platform === 'win32';
-
-function killChrome() {
-  return new Promise(resolve => {
-    if (!isWin) return resolve();
-    exec('taskkill /F /IM chrome.exe /T', () => resolve());
-  });
-}
 
 const CHROME_CANDIDATES = isWin
   ? ['C:\\Program Files\\Google\\Chrome\\Application\\chrome.exe']
@@ -134,11 +126,11 @@ const hotLeads = all
 const hotHtml = hotLeads.length
   ? hotLeads.map(lead => {
       const signal = lead.interestNote || lead.response || 'Resposta registrada; conteúdo ainda não consolidado no cadastro.';
-      const next = lead.sampleRequested
+      const next = lead.nextStep || (lead.sampleRequested
         ? 'Prioridade: confirmar cadastro e expedição da amostra.'
         : lead.interestNote
           ? 'Prioridade: retomar a oportunidade e fechar o próximo passo comercial.'
-          : 'Prioridade: revisar a conversa e definir a próxima ação.';
+          : 'Prioridade: revisar a conversa e definir a próxima ação.');
       return `<li><b>${lead.name}</b> — ${signal}<br><span class="note">${next}</span></li>`;
     }).join('')
   : '<li>Nenhum cliente quente identificado com evidência registrada.</li>';
@@ -234,7 +226,7 @@ const html = `<!DOCTYPE html>
     <div class="row"><span>Pendentes p/ email1</span><span>${pending}</span></div>
     <div class="row"><span>Planilha processada</span><span>${planProc}/${plan.length || '-'}</span></div>
     <div class="row"><span>Planilha restante</span><span>${planLeft}</span></div>
-    <div class="row"><span>WhatsApp hoje</span><span>${waToday}/4</span></div>
+    <div class="row"><span>WhatsApp hoje</span><span>${waToday}/6</span></div>
     <div class="row"><span>Limite de email</span><span>35/24h (janela móvel)</span></div>
   </div>
 </div>
@@ -279,10 +271,8 @@ function tryPrint(profileDir, chrome) {
 const chromeBin = CHROME_CANDIDATES.find(c => existsSync(c));
 if (!chromeBin) console.error('Chrome nao encontrado (CI sem browser). Enviando apenas HTML.');
 for (let attempt = 0; attempt < 3 && !existsSync(absOut); attempt++) {
-  await killChrome();
   const tmpProfile = join(process.env.TEMP || '/tmp', 'chrome-pdf-' + Date.now() + '-' + attempt);
   tryPrint(tmpProfile, chromeBin);
-  await killChrome();
 }
 if (existsSync(absOut)) console.log('PDF gerado: ' + outPdf);
 else console.error('FALHA ao gerar PDF.');

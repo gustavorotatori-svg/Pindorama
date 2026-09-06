@@ -7,14 +7,16 @@ This version has breaking changes — APIs, conventions, and file structure may 
 # Pindorama Prospecting Rules
 
 ## Diretriz vigente - 07/08/2026 (prioridade sobre o histórico abaixo)
-- EMAIL: pode operar em qualquer horário e qualquer dia, quando a automação estiver disponível.
-- TETO CONFIRMADO: máximo global de 35 saídas por conta em qualquer janela móvel de 24 horas, incluindo campanhas, follow-ups, respostas automáticas, relatórios e demais mensagens enviadas pela conta.
+- EMAIL: pode operar em DIA ÚTIL e FIM DE SEMANA, em QUALQUER horário (24/7), quando a automação estiver disponível. Não há restrição de dia/horário.
+- PORÉM EMAIL TEM TETO: o limite real do Gmail gratuito é ~500 emails/dia por conta (a ferramenta bloqueia em ~500). Usamos um teto CONSERVADOR de 35 saídas/24h para proteger a reputação da conta e deixar folga, muito abaixo do bloqueio do Gmail.
+- TETO CONFIRMADO: máximo global de 35 saídas por conta em qualquer janela móvel de 24 horas, incluindo campanhas, follow-ups, respostas automáticas, relatórios e demais mensagens enviadas pela conta. Implementado pelo módulo compartilhado `email-quota.mjs`.
 - Os guards históricos de 480/24h, 490/24h e 20/24h abaixo são apenas registro; a regra vigente é 35/24h pelo módulo compartilhado `email-quota.mjs`.
-- WHATSAPP: máximo exato de 4 mensagens por dia neste projeto, somente segunda a sábado, das 09:00 às 20:00 em America/Sao_Paulo; nunca aos domingos ou fora da janela.
+- WHATSAPP: máximo exato de 6 primeiras abordagens por dia neste projeto (guard `LIMIT = 6` em send-whatsapp-verified-batch.mjs), somente segunda a sábado, das 09:00 às 20:00 em America/Sao_Paulo; nunca aos domingos ou fora da janela.
+- WHATSAPP APENAS PARA NÚMEROS BEM SELECIONADOS E COM PERFIL: só envia contatos da fila `whatsapp-verified-queue.json` (previamente verificados com perfil comercial e fonte www válida). Nunca disparar em massa nem enviar para números sem verificação/perfil.
 - WHATSAPP É APENAS PRIMEIRA ABORDAGEM: no máximo uma mensagem por empresa; nunca responder automaticamente e nunca fazer follow-up por WhatsApp. Se houver resposta, o usuário conduz manualmente.
 - SEGMENTOS VÁLIDOS: supermercados, padarias, mercadinhos de bairro, lojas de conveniência, adegas, lojas de bebidas, distribuidoras de bebidas, bares, casas noturnas/baladas/casas de shows, restaurantes, hotéis e meios de hospedagem, empresas de catering e buffets, e clubes sociais, esportivos e recreativos.
 - PRIORIDADE DE PROSPECÇÃO: adegas → lojas de bebidas → distribuidoras de bebidas → bares → casas noturnas/baladas → restaurantes → demais segmentos válidos.
-- TERRITÓRIO VÁLIDO: cobrir toda a cidade de São Paulo, toda a Grande São Paulo e municípios próximos/limítrofes, incluindo ABC Paulista, Guarulhos, Osasco, Barueri, Carapicuíba, Cotia, Taboão da Serra, Embu das Artes, Itapecerica da Serra, Caieiras, Franco da Rocha e Mogi das Cruzes; manter também Sorocaba e municípios de sua região.
+- TERRITÓRIO VÁLIDO (REGRA VIGENTE — PROSPECTAR SEMPRE NOVOS CLIENTES): priorizar a Região Metropolitana de São Paulo (incluindo ABCD Paulista — Santo André, São Bernardo do Campo, São Caetano do Sul, Diadema) e TODAS as cidades em torno de São Paulo capital num RAIO DE 150 KM — cobrindo Guarulhos, Osasco, Barueri, Carapicuíba, Cotia, Taboão da Serra, Embu das Artes, Itapecerica da Serra, Caieiras, Franco da Rocha, Mogi das Cruzes, Mairiporã, Santana de Parnaíba, Jundiaí, Campinas, Sorocaba, São José dos Campos e demais municípios dentro do raio.
 - ESTRATÉGIA: qualificar candidatos continuamente, mas enviar primeiro aos segmentos prioritários e aos contatos com mais evidências comerciais; nunca ultrapassar 35 saídas/24h nem prejudicar follow-ups, respostas automáticas e relatório.
 - AMOSTRAS: Pindorama pode oferecer envio de amostras. A restrição da frente Xandô não se aplica a este projeto.
 - INFORMAÇÃO COMERCIAL: usar somente condições verificadas nos arquivos. Se preço ou condição não estiver documentado, ou houver conflito, perguntar ao usuário.
@@ -272,6 +274,23 @@ This version has breaking changes — APIs, conventions, and file structure may 
 
 ## Regras de envio (mandatory)
 - EMAIL: 24h por dia, 7 dias por semana — sem restrição de dia/horário
-- WHATSAPP: apenas de SEGUNDA a SÁBADO, das **9h às 20h**; **MÁXIMO 3-4/dia** (trava a conta se passar)
+- WHATSAPP: apenas de SEGUNDA a SÁBADO, das **9h às 20h**; **MÁXIMO 6/dia** (números bem selecionados e com perfil; o guard LIMIT=6 impede passar disso)
 - Domingo: NUNCA enviar WhatsApp (email pode)
 - Apenas primeira mensagem automática — usuário assume o contato depois
+
+## 04/09 — Sessão: WhatsApp re-pareado (sessão corrompida corrompida → QR novo) + 6 enviados
+- DIAGNÓSTICO: `.baileys_auth/creds.json` estava 0 bytes (corrompido, provavelmente sync OneDrive) → Baileys pedia QR novo ("not logged in, attempting registration"). Backup GitHub `.baileys_auth_old` também estava sem serventia (Connection Failure — servidor invalidou sessão antiga).
+- BUG CORRIGIDO em `deploy/whatsapp-parear.mjs`: `useMultiFileAuthState()` e `connect()` estavam SEM `await` → `TypeError: Cannot destructure 'creds' ... undefined`, QR nunca aparecia. Agora com `await` + `.catch()` na chamada final e na reconexão (setTimeout).
+- PROCEDIMENTO: mover `.baileys_auth` (corrompida) para `.baileys_auth_session-morto` (ou descartar), criar pasta vazia, rodar `node deploy/whatsapp-parear.mjs` → QR na porta 3001 (http://localhost:3001) → usuário escaneia no celular (11 91357-7900, WhatsApp > Aparelhos conectados).
+- RESULTADO: sessão nova pareada (creds.json 1861 bytes) + `node send-whatsapp-verified-batch.mjs` → 6/6 enviados (Marco Sete, Adega e Mercearia Impacto, Emporio ABC Wine Bar, The Door Bar, Bar dos Cravos, Spot Urbano). Sem WA: Sampa Adega, Adega Frimar (ficaram queued).
+- NÃO repetir erro do backup: sessão que fica muito tempo sem conectar é invalidada pelo servidor — não adianta restaurar creds antigas; é re-parear do zero.
+- FIX pipeline.mjs DNS: Node usava resolvedor c-ares que dava ECONNREFUSED no Windows (OS resolve, node não). Adicionado `dns.setServers(['8.8.8.8','1.1.1.1','8.8.4.4'])` no topo do pipeline.mjs. SEM esse fix, leads novos eram SUPRIMIDOS como "sem MX" e marcados invalidEmail=true (limpar caso reenviar).
+
+## 05/09 (sáb) — Sessão: metas diárias batidas + busca de perfil em Osasco/Barueri/Cotia/Embu
+- METAS 05/09: EMAIL 34/35 (envios 05/09 + reserva de 1 p/ relatório semanal obrigatório); WHATSAPP 6/6.
+- WhatsApp enviados: The Green Pub, Cris Parrilla Bar, ATOL BAR, The Bar Coquetelaria, New Cia Experience & Drinks, Lupe Bar e Restaurante. Sampa Adega/Adega Frimar/Sphera Lounge SEM WhatsApp (continuam queued).
+- QUALIFICAÇÃO EM MASSA: 50 pendentes antigos (planilha/baresSP) marcados emailVerified=true + emailSource=URL do contexto (instagram) + emailVerifiedAt=hoje. 26 enviados na janela; 14 aguardam próxima cota. 2 sem URL no contexto e 1 sem MX (thepaztel.com.br) ficaram fora.
+- BUSCA PERFIL (diariocidade/guiapj/solutudo): +9 leads novos ADICIONADOS (todas distribuidoras/adegas, MX ok, seja Osasco/Barueri/Cotia/Embu): Adega e Distribuidora Nevada (denilsonsalessouza@hotmail.com, Osasco), Adega Flex (alexandresouzat@gmail.com, Osasco), Adega de Bebidas Pai e Filho (adega.irmaospereira@gmail.com, Barueri), Adega da Vila (bebidasadegadavila@gmail.com), Adega Isabella (baradeli183@gmail.com), Adega do Paje (lukinhassantana248@gmail.com), Adega do Alemão Comercial (vivitrs@hotmail.com, Cotia — 33 anos atacadista), Adega Dcharlys (dioney.charlyn@gmail.com, Cotia), Adega Distribuidora Stop (fabinho200826@hotmail.com, Embu das Artes).
+- DESCARTADOS: Adega Roots Carrão (comercial@wdac.com.br — domínio SEM MX), e emails de contabilidade (Adega Maraba, Adega Araujo, Adega R.N, Adega E Mercearia Oliveira, Adega do Nascelio).
+- DUP: Adega Paulista, Adega da Vila (já havia? bebidasadegadavila NOVO), JG Barueri (vendas@distribuidorajg.com.br), MM Adega e Distribuidora já cadastrados.
+- Cadastro: 2637 leads. Pendentes email1: 35 (33 elegíveis prontos p/ próxima janela). WhatsApp fila: ~203 queued.

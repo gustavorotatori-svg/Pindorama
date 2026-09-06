@@ -7,6 +7,10 @@ import { execSync } from 'child_process';
 const SESSION_DIR = join(process.cwd(), '.baileys_auth');
 let sock = null;
 let ready = false;
+let connectPromise = null;
+let reconnectTimer = null;
+let reconnectAttempts = 0;
+const MAX_RECONNECT_ATTEMPTS = 6;
 
 function openBrowser(file) {
   try {
@@ -17,7 +21,17 @@ function openBrowser(file) {
 let qrCount = 0;
 let browserOpened = false;
 
-export async function connect() {
+function scheduleReconnect() {
+  if (reconnectTimer || reconnectAttempts >= MAX_RECONNECT_ATTEMPTS) return;
+  const delay = Math.min(2000 * (2 ** reconnectAttempts), 30000);
+  reconnectAttempts++;
+  reconnectTimer = setTimeout(() => {
+    reconnectTimer = null;
+    connect().catch((error) => console.error('Falha ao reconectar WhatsApp:', error.message));
+  }, delay);
+}
+
+async function startConnection() {
   if (sock && ready) return sock;
 
   if (!existsSync(SESSION_DIR)) mkdirSync(SESSION_DIR, { recursive: true });
@@ -69,12 +83,16 @@ img{border-radius:8px;width:300px;height:300px;display:block;margin:16px auto}
     }
 
     if (connection === 'close') {
-      const shouldReconnect = lastDisconnect?.error?.output?.statusCode !== DisconnectReason.loggedOut;
-      if (shouldReconnect) connect();
+      ready = false;
+      sock = null;
+      const statusCode = lastDisconnect?.error?.output?.statusCode ?? lastDisconnect?.error?.statusCode;
+      if (statusCode !== DisconnectReason.loggedOut) scheduleReconnect();
     }
 
     if (connection === 'open') {
       ready = true;
+      reconnectAttempts = 0;
+      if (reconnectTimer) { clearTimeout(reconnectTimer); reconnectTimer = null; }
       console.log('WhatsApp conectado!');
       try { writeFileSync('.whatsapp-ready', 'ok'); } catch(e) {}
       // Write success HTML
@@ -84,12 +102,23 @@ img{border-radius:8px;width:300px;height:300px;display:block;margin:16px auto}
     }
   });
 
-  return new Promise((resolve) => {
+  return new Promise((resolve, reject) => {
     const check = setInterval(() => {
       if (ready) { clearInterval(check); resolve(sock); }
     }, 500);
-    setTimeout(() => { clearInterval(check); if (!ready) resolve(sock); }, 90000);
+    setTimeout(() => {
+      clearInterval(check);
+      if (!ready) reject(new Error('WhatsApp nao conectou em 90 segundos.'));
+    }, 90000);
   });
+}
+
+export async function connect() {
+  if (sock && ready) return sock;
+  if (connectPromise) return connectPromise;
+  connectPromise = startConnection();
+  try { return await connectPromise; }
+  finally { connectPromise = null; }
 }
 
 export async function sendText(to, message) {

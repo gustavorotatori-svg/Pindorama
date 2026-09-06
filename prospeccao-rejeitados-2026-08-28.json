@@ -1,0 +1,80 @@
+[
+  {
+    "name": "Ferraz Distribuidora",
+    "source": "https://ferrazcomercio.com.br/",
+    "checkedAt": "2026-08-28",
+    "reason": "Operacao B2B ativa e aderente em Guarulhos, mas ja consta em leads-qualificados.json; rejeitada para impedir contato duplicado."
+  },
+  {
+    "name": "Central Wine",
+    "source": "https://centralwine.com.br/loja?cat=champagne",
+    "checkedAt": "2026-08-28",
+    "reason": "Operacao ativa com destilados e WhatsApp empresarial, mas ja consta em leads-qualificados.json; rejeitada para impedir contato duplicado."
+  },
+  {
+    "name": "Adega MDM",
+    "source": "https://jornalcotiaagora.com.br/adega-mdm-a-melhor-da-regiao-oferece-bebidas-de-todos-os-tipos-e-tem-ate-delivery/",
+    "checkedAt": "2026-08-28",
+    "reason": "Perfil aderente e canal publicado, mas a evidencia de atividade localizada e de 2022; rejeitada por falta de sinal operacional recente verificavel."
+  },
+  {
+    "name": "Adega Thiga's",
+    "source": "https://deliverydireto.com.br/thiagogarciadossantos/adegathigas/pages/sobre-nos",
+    "checkedAt": "2026-08-29",
+    "reason": "Operacao e delivery ativos em Caieiras foram confirmados, mas a pagina consultada nao expos telefone ou WhatsApp empresarial; rejeitada ate haver canal explicitamente publicado."
+  },
+  {
+    "name": "Adega FT",
+    "source": "https://www.caieiras.sp.gov.br/soscomercio/?ca=&id=sos-comercios",
+    "checkedAt": "2026-08-29",
+    "reason": "Diretorio municipal publica ramo e WhatsApp, mas a listagem SOS Comercio nao fornece sinal operacional recente suficiente; rejeitada ate nova evidencia de atividade."
+  },
+  {
+    "name": "OBar Coquetelaria",
+    "source": "https://www.obarcoquetelaria.com/",
+    "checkedAt": "2026-08-29",
+    "reason": "Operacao ativa de coquetelaria para eventos e uso de cachaca em cartas e caipirinhas foram confirmados no site oficial, mas o numero empresarial nao esta exposto no HTML nem em link verificavel; rejeitada ate haver canal explicitamente publicado."
+  },
+  {
+    "name": "MHM Distribuidora",
+    "source": "https://www.mhmdistribuidora.com.br/contato.html",
+    "checkedAt": "2026-08-29",
+    "reason": "Endereco, email e WhatsApp empresarial em Jundiai aparecem publicados, mas a fonte disponivel nao comprova atividade operacional recente nem expos um mix de bebidas aderente; rejeitada ate nova evidencia verificavel."
+  },
+  {
+    "name": "Boa Supermercados",
+    "source": "https://boasupermercado.com/",
+    "checkedAt": "2026-08-29",
+    "reason": "Resultados anteriores indicavam distribuidora com destilados em Jundiai, mas o dominio oficial esta suspenso por falta de verificacao do titular; rejeitada por ausencia de operacao online ativa e canal empresarial verificavel."
+  },
+  {
+    "name": "Daniel Bebidas",
+    "source": "https://danielbebidas.com.br/distribuidora-de-bebidas/",
+    "checkedAt": "2026-08-29",
+    "reason": "Operacao B2B aderente, mix superior a 800 rotulos e atendimento regional foram confirmados, mas a pagina oficial nao expos WhatsApp ou outro canal movel empresarial verificavel para a primeira abordagem; rejeitada ate haver canal explicitamente publicado."
+  },
+  {
+    "name": "Chopp Harden Express Jundiai",
+    "source": "https://chopphardenjundiai.com.br/",
+    "checkedAt": "2026-08-29",
+    "reason": "Distribuidora, eventos, consumo semanal por parceiros e WhatsApp empresarial aparecem publicados, mas a fonte nao apresenta sinal operacional recente suficiente; rejeitada ate nova evidencia verificavel de atividade."
+  },
+  {
+    "name": "Capolino Cucina Italiana",
+    "source": "https://www.capolino.com.br/cardapio",
+    "checkedAt": "2026-08-29",
+    "reason": "Restaurante ativo em Sorocaba, eventos e WhatsApp empresarial foram confirmados, mas a pagina consultada nao apresentou sinal verificavel de cachaca, caipirinhas, coquetelaria ou destilados; rejeitado por aderencia comercial insuficiente."
+  },
+  {
+    "name": "Adega Industrial Sorocaba",
+    "source": "https://linktr.ee/adegaindustrial",
+    "checkedAt": "2026-08-29",
+    "reason": "Canal oficial publica bebidas, iFood e delivery de chopp, e o cadastro empresarial ativo confirma atacado e varejo de bebidas; rejeitada neste ciclo porque o nome coincide com lead ja existente no master e nao foi possivel comprovar com seguranca que se trata de empresa distinta sem risco de duplicacao."
+  },
+  {
+    "name": "Tropical Adega e Distribuidora",
+    "source": "https://www.lojalocal.com/27821162000147",
+    "checkedAt": "2026-08-29",
+    "reason": "Listagem recente confirma endereco em Campinas, WhatsApp e perfil no Instagram, mas nao publica mix de bebidas, destilados ou outro sinal comercial concreto suficiente; rejeitada ate haver fonte empresarial com produtos e operacao ativa verificaveis."
+  }
+]

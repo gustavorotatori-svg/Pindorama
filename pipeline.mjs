@@ -3,6 +3,8 @@ import { readFileSync, writeFileSync } from 'fs';
 import dns from 'dns';
 import { emailQuotaAvailable, recordEmailOutput } from './email-quota.mjs';
 
+try { dns.setServers(['8.8.8.8', '1.1.1.1', '8.8.4.4']); } catch {}
+
 const MAIL_USER = process.env.GMAIL_USER;
 const MAIL_PASS = process.env.GMAIL_APP_PASSWORD;
 
@@ -68,10 +70,16 @@ const FIRST_CONTACT_TYPES = new Set([
   'atacadista', 'bar', 'balada', 'restaurante', 'buffet'
 ]);
 
+function eligibleFirstContactType(type) {
+  const normalized = String(type || '').toLowerCase();
+  return FIRST_CONTACT_TYPES.has(normalized) ||
+    /(^|_)(adega|loja|loja_bebidas|distribuidora|distribuidor|atacadista|bar|balada|restaurante|buffet|hotel|catering|supermercado|padaria|mercadinho|conveniencia|emporio)(_|$)/.test(normalized);
+}
+
 function verifiedFirstContact(lead) {
   if (SUPPRESSED_EMAILS.has(String(lead.email || '').toLowerCase())) return false;
   if (BLOCKED_RECIPIENT_DOMAINS.has(emailDomain(lead.email))) return false;
-  if (!FIRST_CONTACT_TYPES.has(lead.type)) return false;
+  if (!eligibleFirstContactType(lead.type)) return false;
   if (lead.emailVerified !== true) return false;
   const source = String(lead.emailSource || '').trim();
   const verifiedAt = String(lead.emailVerifiedAt || '').trim();
@@ -266,10 +274,11 @@ async function addLeads(jsonStr) {
 }
 
 // --- Send email1 for new leads ---
-async function sendEmail1() {
+async function sendEmail1(maxSent = Infinity) {
   let sent = 0;
   const failed = new Set();
   for (;;) {
+    if (sent >= maxSent) break;
     const leads = load(LEADS_FILE);
     const contactedEmails = new Set(
       leads.filter(x => x.email1).map(x => String(x.email || '').toLowerCase())
@@ -317,10 +326,11 @@ async function sendEmail1() {
 }
 
 // --- Send follow-ups ---
-async function sendFollowups() {
+async function sendFollowups(maxSent = Infinity) {
   let sent = 0;
   const failed = new Set();
   for (;;) {
+    if (sent >= maxSent) break;
     const leads = load(LEADS_FILE);
     let target = null;
     for (const l of leads) {
@@ -363,23 +373,28 @@ async function sendFollowups() {
 
 // --- Main ---
 const args = process.argv.slice(2);
+const configuredMaxPerRun = Number.parseInt(process.env.EMAIL_MAX_PER_RUN || '', 10);
+const maxPerRun = Number.isFinite(configuredMaxPerRun) && configuredMaxPerRun > 0
+  ? configuredMaxPerRun
+  : Infinity;
 if (args[0] === '--add') {
   await addLeads(args[1]);
-  await sendEmail1();
+  await sendEmail1(maxPerRun);
 } else if (args[0] === '--add-only') {
   await addLeads(args[1]);
 } else if (args[0] === '--add-file') {
   const content = readFileSync(args[1], 'utf-8');
   await addLeads(content);
-  if (args[2] === '--send') await sendEmail1();
+  if (args[2] === '--send') await sendEmail1(maxPerRun);
 } else if (args[0] === '--send') {
-  await sendEmail1();
+  await sendEmail1(maxPerRun);
 } else if (args[0] === '--followup') {
-  const s = await sendFollowups();
+  const s = await sendFollowups(maxPerRun);
   console.log('Follow-ups sent: ' + s);
 } else if (args[0] === '--all') {
-  const s1 = await sendEmail1();
-  const s2 = await sendFollowups();
+  const s1 = await sendEmail1(maxPerRun);
+  const remaining = maxPerRun === Infinity ? Infinity : Math.max(0, maxPerRun - s1);
+  const s2 = await sendFollowups(remaining);
   console.log('Email1: ' + s1 + ', Follow-ups: ' + s2);
 } else {
   console.log('Usage:');

@@ -867,7 +867,8 @@
     "responseDate": "2026-07-31",
     "notes": [
       "31/07 #2: Ghirag perguntou sobre DIFAL 21%, posicionamento vs cachaças <R e Magalu <R, e se Cobra Coral é jabuticaba. Respondido com: sem DIFAL para contribuinte (ICMS interestadual 12% + crédito, NF modelo p/ conferência), posicionamento artesanal premium + política de preço firme p/ proteger canal, Cobra Coral = jabuticaba confirmado. Aguardando dados p/ NF de amostra."
-    ]
+    ],
+    "respostaFollowupDate": "2026-09-04"
   },
   {
     "name": "Adega do Louro",
@@ -1011,7 +1012,12 @@
     "email2": true,
     "date2": "2026-08-02",
     "email3": true,
-    "date3": "2026-08-06"
+    "date3": "2026-08-06",
+    "status": "contacted",
+    "whatsapp": "(11) 94745-1781",
+    "whatsappSent": true,
+    "whatsappDate": "2026-09-01",
+    "whatsappProof": "Mensagem exibida no historico do WhatsApp Web apos o envio"
   },
   {
     "name": "Gouveia Bebidas",
@@ -1048,21 +1054,24 @@
     "date3": "2026-08-06"
   },
   {
-    "name": "Freitas Distribuidora de Bebidas",
+    "name": "Freitas Bebidas",
     "email": "contato@freitasbebidas.com.br",
     "neighborhood": "Tucuruvi",
     "type": "distribuidora",
     "address": "Av. Nova Cantareira, 330 - Tucuruvi",
-    "context": "distribuidora de bebidas online (cervejas, destilados, refrigerantes), CNPJ 35.164.886/0001-93, atacado para bares/restaurantes e varejo",
+    "context": "Site oficial ativo e rastreado em agosto de 2026 publica operacao de distribuidora de bebidas online em Sao Paulo, endereco na Nova Cantareira, Tucuruvi, email empresarial e categoria de destilados. Fato: vende bebidas e destilados por canal online. Inferencia comercial: perfil com potencial de recompra e inclusao de cachaca no mix.",
     "template": "consultivo",
     "phone": "(11) 2959-2659",
-    "website": "https://freitasbebidas.com.br",
+    "website": "https://freitasbebidas.com.br/",
     "email1": true,
     "date1": "2026-07-31",
     "email2": true,
     "date2": "2026-08-02",
     "email3": true,
-    "date3": "2026-08-06"
+    "date3": "2026-08-06",
+    "emailVerified": true,
+    "emailSource": "https://freitasbebidas.com.br/",
+    "emailVerifiedAt": "2026-08-27"
   },
   {
     "name": "JG Bebidas",
@@ -2248,7 +2257,8 @@
     "date1": "2026-08-02",
     "askedCadastro": true,
     "responded": true,
-    "responseDate": "2026-08-04"
+    "responseDate": "2026-08-04",
+    "respostaFollowupDate": "2026-09-04"
   },
   {
     "name": "Kanguru Supermercado (Mega Adega)",
@@ -3338,7 +3348,13 @@
     "email2": true,
     "date2": "2026-08-04",
     "email3": true,
-    "date3": "2026-08-07"
+    "date3": "2026-08-07",
+    "customerConfirmed": true,
+    "conversionDate": "2026-08-30",
+    "customerEvidence": "Cardapio oficial atual do Bar do Praca lista Pindorama Prata, Vale do Cafe/RJ, 40%, servida em dose por R$ 32.",
+    "customerEvidenceSource": "https://pracasaolourenco.com.br/menu-bar/",
+    "customerEvidenceVerifiedAt": "2026-08-30",
+    "nextStep": "Tratar como cliente atual; nao enviar prospeccao fria. Validar recompra e relacionamento comercial manualmente."
   },
   {
     "name": "Villa Caetano's Bar",
@@ -3476,7 +3492,10 @@
     "email2": true,
     "date2": "2026-08-04",
     "email3": true,
-    "date3": "2026-08-07"
+    "date3": "2026-08-07",
+    "whatsappSent": true,
+    "whatsappDate": "2026-09-05",
+    "whatsappSource": "https://www.atolbar.com.br/contato/"
   },
   {
     "name": "Delluccio Pizza Bar",
@@ -7116,7 +7135,10 @@
     "email1": true,
     "date1": "2026-08-02",
     "email2": true,
-    "date2": "2026-08-05"
+    "date2": "2026-08-05",
+    "whatsappSent": true,
+    "whatsappDate": "2026-09-04",
+    "whatsappSource": "https://www.bardoscravos.com/coqueteis"
   },
   {
     "name": "Vitrine Bar Augusta",
@@ -8503,7 +8525,8 @@
     "date1": "2026-08-02",
     "askedCadastro": true,
     "responded": true,
-    "responseDate": "2026-08-04"
+    "responseDate": "2026-08-04",
+    "respostaFollowupDate": "2026-09-04"
   },
   {
     "name": "CASA GODINHO",
@@ -19668,7 +19691,9 @@
     "template": "prova_social",
     "website": "",
     "email1": true,
-    "date1": "2026-08-08"
+    "date1": "2026-08-08",
+    "doNotContact": true,
+    "doNotContactReason": "Supressao permanente solicitada pelo usuario em 2026-09-02; nunca contactar a empresa Talcha por nenhum canal."
   },
   {
     "name": "Anusha Chocolates",
@@ -21553,7 +21578,9 @@
     "template": "prova_social",
     "website": "",
     "email1": true,
-    "date1": "2026-08-08"
+    "date1": "2026-08-08",
+    "doNotContact": true,
+    "doNotContactReason": "Supressao permanente solicitada pelo usuario em 2026-09-02; nunca contactar a empresa Talcha por nenhum canal."
   },
   {
     "name": "SIMPATIA 105",
@@ -22287,7 +22314,8 @@
     "date1": "2026-08-08",
     "askedCadastro": true,
     "responded": true,
-    "responseDate": "2026-08-09"
+    "responseDate": "2026-08-09",
+    "respostaFollowupDate": "2026-09-04"
   },
   {
     "name": "BOTTEGA 21",
@@ -32399,7 +32427,12 @@
     "context": "DOCERIA; responsável: PAULA; instagram: https://www.instagram.com/ppsucre/",
     "phone": "1199734-8435",
     "template": "consultivo",
-    "website": ""
+    "website": "",
+    "emailVerified": true,
+    "emailVerifiedAt": "2026-09-05",
+    "emailSource": "https://www.instagram.com/ppsucre/",
+    "email1": true,
+    "date1": "2026-09-05"
   },
   {
     "name": "Tati Barbi Balas Caramelizadas",
@@ -32475,7 +32508,12 @@
     "context": "HAMBURGUERIA; responsável: JOYCE; instagram: https://www.instagram.com/cantagaloburger/",
     "phone": "(11)2097-2830/(11)98941-7059 / 1199195-8439 JOYCE // 1197087-6367 LARI",
     "template": "prova_social",
-    "website": ""
+    "website": "",
+    "emailVerified": true,
+    "emailVerifiedAt": "2026-09-05",
+    "emailSource": "https://www.instagram.com/cantagaloburger/",
+    "email1": true,
+    "date1": "2026-09-05"
   },
   {
     "name": "JAZZ RESTÃ & BURGERS",
@@ -32551,7 +32589,12 @@
     "context": "HAMBURGUERIA; responsável: LEONARDO; instagram: https://www.instagram.com/dckburger/",
     "phone": "11 2478-8948",
     "template": "pergunta",
-    "website": ""
+    "website": "",
+    "emailVerified": true,
+    "emailVerifiedAt": "2026-09-05",
+    "emailSource": "https://www.instagram.com/dckburger/",
+    "email1": true,
+    "date1": "2026-09-05"
   },
   {
     "name": "COME ON BURGER",
@@ -32562,7 +32605,12 @@
     "context": "HAMBURGUERIA; responsável: Pedro e Fabio; instagram: https://www.instagram.com/comeonburger/",
     "phone": "99400-5696 PEDRO/ 985591131 / (11) 5082-1645",
     "template": "prova_social",
-    "website": ""
+    "website": "",
+    "emailVerified": true,
+    "emailVerifiedAt": "2026-09-05",
+    "emailSource": "https://www.instagram.com/comeonburger/",
+    "email1": true,
+    "date1": "2026-09-05"
   },
   {
     "name": "RAW BURGER N BAR",
@@ -32573,7 +32621,12 @@
     "context": "HAMBURGUERIA; instagram: https://www.instagram.com/raw.burger/?hl=pt-br",
     "phone": "3032-3610/ 1199937-3214",
     "template": "consultivo",
-    "website": ""
+    "website": "",
+    "emailVerified": true,
+    "emailVerifiedAt": "2026-09-05",
+    "emailSource": "https://www.instagram.com/raw.burger/?hl=pt-br",
+    "email1": true,
+    "date1": "2026-09-05"
   },
   {
     "name": "HAMBURGUERIA TRADI",
@@ -32584,7 +32637,12 @@
     "context": "HAMBURGUERIA; responsável: MONICA / DEMETRIO; instagram: https://www.instagram.com/hamburgueriatradi/",
     "phone": "11 2339 7107 / 23397077 / 11 952934711 Lierson",
     "template": "pergunta",
-    "website": ""
+    "website": "",
+    "emailVerified": true,
+    "emailVerifiedAt": "2026-09-05",
+    "emailSource": "https://www.instagram.com/hamburgueriatradi/",
+    "email1": true,
+    "date1": "2026-09-05"
   },
   {
     "name": "sevenkingsburger",
@@ -32605,10 +32663,17 @@
     "type": "restaurante",
     "neighborhood": "",
     "address": "",
-    "context": "N/I; instagram: https://www.instagram.com/sampasky/",
+    "context": "Site oficial rastreado em 01/09/2026 confirma mirante ativo no Centro Historico de Sao Paulo, bar, cafe e eventos como aniversarios, confraternizacoes, shows e ativacoes de marca. Inferencia: oportunidade para testar Pindorama no bar e em eventos, com potencial de recompra pelo calendario recorrente.",
     "phone": "",
     "template": "consultivo",
-    "website": ""
+    "website": "https://www.sampasky.com.br/",
+    "emailSource": "https://www.sampasky.com.br/",
+    "emailVerified": true,
+    "emailVerifiedAt": "2026-09-01",
+    "mxVerified": true,
+    "mxVerifiedAt": "2026-09-01",
+    "email1": true,
+    "date1": "2026-09-01"
   },
   {
     "name": "BAR Figueiras",
@@ -32632,7 +32697,10 @@
     "context": "SABORES DO MUNDO; instagram: https://www.instagram.com/tripfoodsp/",
     "phone": "",
     "template": "consultivo",
-    "website": ""
+    "website": "",
+    "emailVerified": true,
+    "emailVerifiedAt": "2026-09-05",
+    "emailSource": "https://www.instagram.com/tripfoodsp/"
   },
   {
     "name": "Esfiha Imigrantes",
@@ -32656,7 +32724,12 @@
     "context": "FRANGO; responsável: VANESSA; instagram: https://www.instagram.com/gringos.friedchicken/",
     "phone": "3722-3816 / 11 958391663",
     "template": "pergunta",
-    "website": ""
+    "website": "",
+    "emailVerified": true,
+    "emailVerifiedAt": "2026-09-05",
+    "emailSource": "https://www.instagram.com/gringos.friedchicken/",
+    "email1": true,
+    "date1": "2026-09-05"
   },
   {
     "name": "Jun Sakamoto",
@@ -32680,7 +32753,12 @@
     "context": "JAPONES; responsável: FABIO HONDA; instagram: https://www.instagram.com/grupo_huto/",
     "phone": "5052-6804/  5041-6809  /  3071-3765 /  98134-9488 FABIO HONDA",
     "template": "prova_social",
-    "website": ""
+    "website": "",
+    "emailVerified": true,
+    "emailVerifiedAt": "2026-09-05",
+    "emailSource": "https://www.instagram.com/grupo_huto/",
+    "email1": true,
+    "date1": "2026-09-05"
   },
   {
     "name": "Sushi Casa Verde",
@@ -32691,7 +32769,12 @@
     "context": "JAPONÃªS; responsável: NEILSON; instagram: https://www.instagram.com/sushicasaverde/",
     "phone": "2592-4456",
     "template": "consultivo",
-    "website": ""
+    "website": "",
+    "emailVerified": true,
+    "emailVerifiedAt": "2026-09-05",
+    "emailSource": "https://www.instagram.com/sushicasaverde/",
+    "email1": true,
+    "date1": "2026-09-05"
   },
   {
     "name": "PANDAYA DUMPLING",
@@ -32715,7 +32798,10 @@
     "context": "JAPA COM CACHOEIRA E KARAOKE; instagram: https://www.instagram.com/tokyoparadaisu/",
     "phone": "1194230-2485",
     "template": "pergunta",
-    "website": ""
+    "website": "",
+    "emailVerified": true,
+    "emailVerifiedAt": "2026-09-05",
+    "emailSource": "https://www.instagram.com/tokyoparadaisu/"
   },
   {
     "name": "IMAKAY",
@@ -32726,7 +32812,10 @@
     "context": "JAPONES; responsável: RICARDO; instagram: https://www.instagram.com/imakaysaopaulo/",
     "phone": "3078-7786",
     "template": "pergunta",
-    "website": ""
+    "website": "",
+    "emailVerified": true,
+    "emailVerifiedAt": "2026-09-05",
+    "emailSource": "https://www.instagram.com/imakaysaopaulo/"
   },
   {
     "name": "Itoya Sushi",
@@ -32737,7 +32826,10 @@
     "context": "JAPONESA; instagram: https://www.instagram.com/itoyasushivilamaria/",
     "phone": "N TEM",
     "template": "consultivo",
-    "website": ""
+    "website": "",
+    "emailVerified": true,
+    "emailVerifiedAt": "2026-09-05",
+    "emailSource": "https://www.instagram.com/itoyasushivilamaria/"
   },
   {
     "name": "CamarÃµes SÃ£o Paulo",
@@ -32800,7 +32892,10 @@
     "context": "PIZZA; instagram: https://www.instagram.com/nestorpizzariagastro/",
     "phone": "11 2084-8282",
     "template": "pergunta",
-    "website": ""
+    "website": "",
+    "emailVerified": true,
+    "emailVerifiedAt": "2026-09-05",
+    "emailSource": "https://www.instagram.com/nestorpizzariagastro/"
   },
   {
     "name": "Santa FeÌ A Costela",
@@ -32811,7 +32906,10 @@
     "context": "COSTELA; responsável: NETO; instagram: https://www.instagram.com/santafeacostela/?hl=pt-br",
     "phone": "2613-7467 / 11-94762-1808 NETO",
     "template": "pergunta",
-    "website": ""
+    "website": "",
+    "emailVerified": true,
+    "emailVerifiedAt": "2026-09-05",
+    "emailSource": "https://www.instagram.com/santafeacostela/?hl=pt-br"
   },
   {
     "name": "Santa FeÌ O Cupim",
@@ -32822,7 +32920,10 @@
     "context": "CUPIM; responsável: NETO; instagram: https://www.instagram.com/santafeocupim/",
     "phone": "2594-3426 / 11-94762-1808 NETO",
     "template": "consultivo",
-    "website": ""
+    "website": "",
+    "emailVerified": true,
+    "emailVerifiedAt": "2026-09-05",
+    "emailSource": "https://www.instagram.com/santafeocupim/"
   },
   {
     "name": "Santa Fe Vila Leopoldina",
@@ -32833,7 +32934,10 @@
     "context": "GRELHADOS; responsável: NETO; instagram: https://www.instagram.com/santafegrelhados/",
     "phone": "2649-7041 / 11-94762-1808 NETO",
     "template": "prova_social",
-    "website": ""
+    "website": "",
+    "emailVerified": true,
+    "emailVerifiedAt": "2026-09-05",
+    "emailSource": "https://www.instagram.com/santafegrelhados/"
   },
   {
     "name": "Nativas Grill SaÌo Paulo",
@@ -32844,7 +32948,10 @@
     "context": "CHURRASCARIA; responsável: NATHAN; instagram: https://www.instagram.com/nativasgrillsaopaulo/",
     "phone": "11 2213-8222",
     "template": "pergunta",
-    "website": ""
+    "website": "",
+    "emailVerified": true,
+    "emailVerifiedAt": "2026-09-05",
+    "emailSource": "https://www.instagram.com/nativasgrillsaopaulo/"
   },
   {
     "name": "Nativas Grill Vila Mariana",
@@ -32855,7 +32962,10 @@
     "context": "RODIZIO DE CARNE E SUSHI; responsável: ROSENILDO; instagram: https://www.instagram.com/nativasgrillvilamariana/",
     "phone": "5555-7489",
     "template": "consultivo",
-    "website": ""
+    "website": "",
+    "emailVerified": true,
+    "emailVerifiedAt": "2026-09-05",
+    "emailSource": "https://www.instagram.com/nativasgrillvilamariana/"
   },
   {
     "name": "RODEIO",
@@ -32879,7 +32989,10 @@
     "context": "CAFÃ E CURSO; instagram: https://www.instagram.com/thelittlecoffeeshop/",
     "phone": "2385-5430",
     "template": "prova_social",
-    "website": ""
+    "website": "",
+    "emailVerified": true,
+    "emailVerifiedAt": "2026-09-05",
+    "emailSource": "https://www.instagram.com/thelittlecoffeeshop/"
   },
   {
     "name": "Dinner in the Sky",
@@ -32890,7 +33003,12 @@
     "context": "N/I; instagram: https://www.instagram.com/dinnerintheskybr/",
     "phone": "N TEM",
     "template": "prova_social",
-    "website": ""
+    "website": "",
+    "emailVerified": true,
+    "emailVerifiedAt": "2026-09-05",
+    "emailSource": "https://www.instagram.com/dinnerintheskybr/",
+    "email1": true,
+    "date1": "2026-09-05"
   },
   {
     "name": "3 Brasseurs Brasil",
@@ -32901,7 +33019,12 @@
     "context": "RESTAURANTE FRANCES; responsável: CLEMENT; instagram: https://www.instagram.com/3brasseursbrasil/?hl=fr",
     "phone": "ITAIM 3167-4145 / PINHEIROS 2532-9202",
     "template": "pergunta",
-    "website": ""
+    "website": "",
+    "emailVerified": true,
+    "emailVerifiedAt": "2026-09-05",
+    "emailSource": "https://www.instagram.com/3brasseursbrasil/?hl=fr",
+    "email1": true,
+    "date1": "2026-09-05"
   },
   {
     "name": "Vilinha Steakhouse",
@@ -32912,7 +33035,10 @@
     "context": "RESTAURANTE; instagram: https://www.instagram.com/vilinhaoficial/",
     "phone": "1194077-0361",
     "template": "pergunta",
-    "website": ""
+    "website": "",
+    "emailVerified": true,
+    "emailVerifiedAt": "2026-09-05",
+    "emailSource": "https://www.instagram.com/vilinhaoficial/"
   },
   {
     "name": "O VELHÃO",
@@ -32923,7 +33049,12 @@
     "context": "vilinha italiana; responsável: JESSICA; instagram: https://www.instagram.com/ovelhaodemolicoes/",
     "phone": "11 4485 1330 /  11 4485-1115 / 11 4485-1964",
     "template": "consultivo",
-    "website": ""
+    "website": "",
+    "emailVerified": true,
+    "emailVerifiedAt": "2026-09-05",
+    "emailSource": "https://www.instagram.com/ovelhaodemolicoes/",
+    "email1": true,
+    "date1": "2026-09-05"
   },
   {
     "name": "Vista Restaurante Ibirapuera",
@@ -32931,10 +33062,17 @@
     "type": "restaurante",
     "neighborhood": "",
     "address": "",
-    "context": "RESTAURANTE; responsável: FABIO; instagram: https://www.instagram.com/vistaibirapuera/",
+    "context": "Site oficial rastreado em 01/09/2026 confirma restaurante ativo no MAC Ibirapuera, bar e lounge para eventos e carta atual com caipirinhas e diversos rotulos de cachaca. Inferencia: alta aderencia para teste de Pindorama em coquetelaria e doses.",
     "phone": "11 26583188 / 1199978-5072 wallace",
     "template": "prova_social",
-    "website": ""
+    "website": "https://vistarestaurante.vistasaopaulo.com.br/",
+    "emailSource": "https://vistarestaurante.vistasaopaulo.com.br/vistarestaurante/contato/",
+    "emailVerified": true,
+    "emailVerifiedAt": "2026-09-01",
+    "mxVerified": true,
+    "mxVerifiedAt": "2026-09-01",
+    "email1": true,
+    "date1": "2026-09-01"
   },
   {
     "name": "MACAXEIRA RESTAURANTE & CACHAÃARIA",
@@ -32945,7 +33083,12 @@
     "context": "NORDESTINA; responsável: FERNANDA CIANELI; instagram: https://www.instagram.com/macaxeirarestaurante/",
     "phone": "11 2671 2233 TEM WPP",
     "template": "consultivo",
-    "website": ""
+    "website": "",
+    "emailVerified": true,
+    "emailVerifiedAt": "2026-09-05",
+    "emailSource": "https://www.instagram.com/macaxeirarestaurante/",
+    "email1": true,
+    "date1": "2026-09-05"
   },
   {
     "name": "Jiquitaia Restaurante e Bar",
@@ -32953,10 +33096,17 @@
     "type": "restaurante",
     "neighborhood": "",
     "address": "",
-    "context": "RESTAURANTE; responsável: GEOVANA; instagram: https://www.instagram.com/jiquitaia/",
+    "context": "Site oficial rastreado em 01/09/2026 confirma restaurante e bar de cozinha brasileira ativo no Paraiso, com horario, endereco, WhatsApp e email empresarial publicados. Inferencia: aderencia para introduzir Pindorama na coquetelaria e acompanhar recompra.",
     "phone": "(11) 3051-5638 WHATS TBM",
     "template": "pergunta",
-    "website": ""
+    "website": "https://jiquitaia.com.br/",
+    "emailSource": "https://jiquitaia.com.br/",
+    "emailVerified": true,
+    "emailVerifiedAt": "2026-09-01",
+    "mxVerified": true,
+    "mxVerifiedAt": "2026-09-01",
+    "email1": true,
+    "date1": "2026-09-01"
   },
   {
     "name": "Luce",
@@ -32967,7 +33117,12 @@
     "context": "RESTAURANTE; instagram: https://www.instagram.com/lucegastronomia/",
     "phone": "(11) 99457-4554",
     "template": "prova_social",
-    "website": ""
+    "website": "",
+    "emailVerified": true,
+    "emailVerifiedAt": "2026-09-05",
+    "emailSource": "https://www.instagram.com/lucegastronomia/",
+    "email1": true,
+    "date1": "2026-09-05"
   },
   {
     "name": "Quincho Cozinha & Coquetelaria",
@@ -32975,10 +33130,17 @@
     "type": "restaurante",
     "neighborhood": "",
     "address": "",
-    "context": "NATURAIS; responsável: JORGE E GUILHERME; instagram: https://www.instagram.com/quincho.sp/",
+    "context": "Site oficial rastreado em 01/09/2026 confirma restaurante de cozinha e coquetelaria autorais ativo desde 2018, com eventos corporativos, casamentos e experiencias especiais. Inferencia: aderencia para amostra e teste de Pindorama em drinks e eventos.",
     "phone": "11 2597-6048",
     "template": "consultivo",
-    "website": ""
+    "website": "https://quincho.com.br/",
+    "emailSource": "https://quincho.com.br/",
+    "emailVerified": true,
+    "emailVerifiedAt": "2026-09-01",
+    "mxVerified": true,
+    "mxVerifiedAt": "2026-09-01",
+    "email1": true,
+    "date1": "2026-09-01"
   },
   {
     "name": "FREDDY",
@@ -32989,7 +33151,12 @@
     "context": "FRANCES; responsável: ILTON; instagram: https://www.instagram.com/restaurantefreddy/",
     "phone": "3167-0977",
     "template": "pergunta",
-    "website": ""
+    "website": "",
+    "emailVerified": true,
+    "emailVerifiedAt": "2026-09-05",
+    "emailSource": "https://www.instagram.com/restaurantefreddy/",
+    "email1": true,
+    "date1": "2026-09-05"
   },
   {
     "name": "BANANA VERDE",
@@ -33000,18 +33167,30 @@
     "context": "SAUDAVEL; instagram: https://www.instagram.com/restbananaverde/",
     "phone": "2609-9074 / 3814-4828/11 3814-4828",
     "template": "consultivo",
-    "website": ""
+    "website": "",
+    "emailVerified": true,
+    "emailVerifiedAt": "2026-09-05",
+    "emailSource": "https://www.instagram.com/restbananaverde/",
+    "email1": true,
+    "date1": "2026-09-05"
   },
   {
     "name": "CAPIM SANTO",
-    "email": "restaurante@capimsanto.com.br",
+    "email": "cs.eventos@capimsanto.com.br",
     "type": "restaurante",
     "neighborhood": "",
     "address": "",
-    "context": "COMIDA SAUDÃVEL; responsável: ARIANE; instagram: https://www.instagram.com/restaurantecapimsanto/",
+    "context": "Site oficial consultado em 01/09/2026 confirma restaurante ativo no Solar Fabio Prado, proposta de gastronomia brasileira, menu de drinks e petiscos, carta de bebidas e eventos internos; o canal cs.eventos@capimsanto.com.br e publicado para eventos no restaurante.",
     "phone": "3034-4673/ 98559-0024 ANA / 3089-9500",
     "template": "consultivo",
-    "website": ""
+    "website": "https://www.restaurantecapimsanto.com.br/saopaulo",
+    "source": "https://www.restaurantecapimsanto.com.br/saopaulo",
+    "emailVerified": true,
+    "emailVerifiedAt": "2026-09-01",
+    "mxVerified": true,
+    "mxVerifiedAt": "2026-09-01",
+    "email1": true,
+    "date1": "2026-09-01"
   },
   {
     "name": "BROWN SUGAR",
@@ -33022,7 +33201,12 @@
     "context": "ITALIANOS; responsável: ROBERTO; instagram: https://www.instagram.com/brownsugarrestaurante/",
     "phone": "11 3063 4249 / 94325 6211 / 954633000 ROBERTO",
     "template": "prova_social",
-    "website": ""
+    "website": "",
+    "emailVerified": true,
+    "emailVerifiedAt": "2026-09-05",
+    "emailSource": "https://www.instagram.com/brownsugarrestaurante/",
+    "email1": true,
+    "date1": "2026-09-05"
   },
   {
     "name": "Le Manjue Organique",
@@ -33033,7 +33217,12 @@
     "context": "SAUDÃVEL; responsável: JORDANA; instagram: https://www.instagram.com/lemanjue/",
     "phone": "3034-0631",
     "template": "pergunta",
-    "website": ""
+    "website": "",
+    "emailVerified": true,
+    "emailVerifiedAt": "2026-09-05",
+    "emailSource": "https://www.instagram.com/lemanjue/",
+    "email1": true,
+    "date1": "2026-09-05"
   },
   {
     "name": "PÃ£o de alho do tio nico",
@@ -33044,7 +33233,10 @@
     "context": "PÃO DE ALHO; responsável: NICOLAS; instagram: https://www.instagram.com/paodealhodotionico/",
     "phone": "1191295-0460 LOJA/ 011964258080 Nicolas",
     "template": "pergunta",
-    "website": ""
+    "website": "",
+    "emailVerified": true,
+    "emailVerifiedAt": "2026-09-05",
+    "emailSource": "https://www.instagram.com/paodealhodotionico/"
   },
   {
     "name": "Sorveteria do Centro",
@@ -33055,7 +33247,10 @@
     "context": "SORVETERIA; responsável: CAROL; instagram: https://www.instagram.com/sorveteriadocentrosp/",
     "phone": "11 941980318 / 934719201 carol / 11996882296 flÃ¡via",
     "template": "pergunta",
-    "website": ""
+    "website": "",
+    "emailVerified": true,
+    "emailVerifiedAt": "2026-09-05",
+    "emailSource": "https://www.instagram.com/sorveteriadocentrosp/"
   },
   {
     "name": "THE PAZTEL",
@@ -33066,7 +33261,10 @@
     "context": "PASTELARIA; responsável: JORGE; instagram: https://www.instagram.com/thepazteloficial/",
     "phone": "11 43303100",
     "template": "prova_social",
-    "website": ""
+    "website": "",
+    "invalidEmail": true,
+    "invalidEmailReason": "domain_without_mx",
+    "invalidEmailDate": "2026-09-05"
   },
   {
     "name": "A TORTERIA",
@@ -33077,7 +33275,12 @@
     "context": "TORTA; responsável: FERNANDO; instagram: https://www.instagram.com/atorteria/",
     "phone": "11 43066918 / 11 945943042",
     "template": "consultivo",
-    "website": ""
+    "website": "",
+    "emailVerified": true,
+    "emailVerifiedAt": "2026-09-05",
+    "emailSource": "https://www.instagram.com/atorteria/",
+    "email1": true,
+    "date1": "2026-09-05"
   },
   {
     "name": "CAKESS",
@@ -33088,7 +33291,12 @@
     "context": "BOLOS; responsável: LEANDRO; instagram: https://www.instagram.com/cakess_sweet_sugar/",
     "phone": "991325327 LEANDRO",
     "template": "consultivo",
-    "website": ""
+    "website": "",
+    "emailVerified": true,
+    "emailVerifiedAt": "2026-09-05",
+    "emailSource": "https://www.instagram.com/cakess_sweet_sugar/",
+    "email1": true,
+    "date1": "2026-09-05"
   },
   {
     "name": "LILÃRI",
@@ -33099,7 +33307,12 @@
     "context": "PADARIA; responsável: PATRICIA; instagram: https://www.instagram.com/lilorisemgluten/?hl=pt",
     "phone": "30688061",
     "template": "pergunta",
-    "website": ""
+    "website": "",
+    "emailVerified": true,
+    "emailVerifiedAt": "2026-09-05",
+    "emailSource": "https://www.instagram.com/lilorisemgluten/?hl=pt",
+    "email1": true,
+    "date1": "2026-09-05"
   },
   {
     "name": "GELATO BOUTIQUE",
@@ -33110,7 +33323,12 @@
     "context": "SORVETES; responsável: JESSICA; instagram: https://www.instagram.com/gelatoboutique/",
     "phone": "11 3541 1532 / 11 3595.2560",
     "template": "prova_social",
-    "website": ""
+    "website": "",
+    "emailVerified": true,
+    "emailVerifiedAt": "2026-09-05",
+    "emailSource": "https://www.instagram.com/gelatoboutique/",
+    "email1": true,
+    "date1": "2026-09-05"
   },
   {
     "name": "Carlota BistrÃ´",
@@ -33121,7 +33339,10 @@
     "context": "BistrÃ´ Brasileiro desde 1995; responsável: CARLA; instagram: https://www.instagram.com/carlapernambucocarlota/",
     "phone": "11 98225-6030 / 11 3661-8670 / 3661-9465",
     "template": "consultivo",
-    "website": ""
+    "website": "",
+    "emailVerified": true,
+    "emailVerifiedAt": "2026-09-05",
+    "emailSource": "https://www.instagram.com/carlapernambucocarlota/"
   },
   {
     "name": "Tu Ãs PÃ£o",
@@ -33132,7 +33353,12 @@
     "context": "PADARIA; instagram: https://www.instagram.com/tuespao/?hl=pt",
     "phone": "112548-2908/ 11 98022-8486 CINTIA",
     "template": "consultivo",
-    "website": ""
+    "website": "",
+    "emailVerified": true,
+    "emailVerifiedAt": "2026-09-05",
+    "emailSource": "https://www.instagram.com/tuespao/?hl=pt",
+    "email1": true,
+    "date1": "2026-09-05"
   },
   {
     "name": "Tiramisu Sossi",
@@ -33143,7 +33369,10 @@
     "context": "DOCES; instagram: https://www.instagram.com/tiramisubr/",
     "phone": "1198284-3338 /  11 98022-8486 CINTIA",
     "template": "consultivo",
-    "website": ""
+    "website": "",
+    "emailVerified": true,
+    "emailVerifiedAt": "2026-09-05",
+    "emailSource": "https://www.instagram.com/tiramisubr/"
   },
   {
     "name": "Da Mooca Pizza Shop",
@@ -33154,7 +33383,12 @@
     "context": "PIZZA; responsável: FELIPE; instagram: https://www.instagram.com/damoocapizzashop/",
     "phone": "(11) 3062-0422 /  11 98022-8486 CINTIA",
     "template": "prova_social",
-    "website": ""
+    "website": "",
+    "emailVerified": true,
+    "emailVerifiedAt": "2026-09-05",
+    "emailSource": "https://www.instagram.com/damoocapizzashop/",
+    "email1": true,
+    "date1": "2026-09-05"
   },
   {
     "name": "Exquisito ! Bar",
@@ -33165,7 +33399,10 @@
     "context": "LATINO AMERICANO; responsável: ANDREA; instagram: https://www.instagram.com/barexquisito/",
     "phone": "11 2323-5432 / 11 993069301 ANDREA /  11 98022-8486 CINTIA",
     "template": "consultivo",
-    "website": ""
+    "website": "",
+    "emailVerified": true,
+    "emailVerifiedAt": "2026-09-05",
+    "emailSource": "https://www.instagram.com/barexquisito/"
   },
   {
     "name": "Padaria St. Chico",
@@ -33176,7 +33413,12 @@
     "context": "PADARIA; responsável: HELENA E MARIA TEREZA (PROP) / RUAN; instagram: https://www.instagram.com/st.chico/",
     "phone": "113031-5096 / 1198446-9799 MARIA TEREZA / 011 97413-9266 n tem whats / 11 98022-8486 CINTIA",
     "template": "prova_social",
-    "website": ""
+    "website": "",
+    "emailVerified": true,
+    "emailVerifiedAt": "2026-09-05",
+    "emailSource": "https://www.instagram.com/st.chico/",
+    "email1": true,
+    "date1": "2026-09-05"
   },
   {
     "name": "HOSPEDARIA",
@@ -33187,7 +33429,12 @@
     "context": "VARIADOS; responsável: ELISON e LÃGIA; instagram: https://www.instagram.com/hospedariasp/",
     "phone": "11 22915629 / (11) 97500-0902 LÃ­gia /  11 98022-8486 CINTIA",
     "template": "prova_social",
-    "website": ""
+    "website": "",
+    "emailVerified": true,
+    "emailVerifiedAt": "2026-09-05",
+    "emailSource": "https://www.instagram.com/hospedariasp/",
+    "email1": true,
+    "date1": "2026-09-05"
   },
   {
     "name": "Red Coffee & Co",
@@ -33198,7 +33445,10 @@
     "context": "CAFETERIA; instagram: https://www.instagram.com/redcoffeebrasil/",
     "phone": "112372-4003 /  11 98022-8486 CINTIA",
     "template": "consultivo",
-    "website": ""
+    "website": "",
+    "emailVerified": true,
+    "emailVerifiedAt": "2026-09-05",
+    "emailSource": "https://www.instagram.com/redcoffeebrasil/"
   },
   {
     "name": "Tasteit Restaurante",
@@ -33209,7 +33459,10 @@
     "context": "Cozinha do Hotel Pullman SP Ibirapuera; responsável: juliana; instagram: https://www.instagram.com/tasteitrestaurante/",
     "phone": "(11) 5088-4045 / 11 50884000 / 11 99188-1312 /  11 992843238 JULIANA",
     "template": "consultivo",
-    "website": ""
+    "website": "",
+    "emailVerified": true,
+    "emailVerifiedAt": "2026-09-05",
+    "emailSource": "https://www.instagram.com/tasteitrestaurante/"
   },
   {
     "name": "PalÃ¡cio TangarÃ¡",
@@ -33220,7 +33473,10 @@
     "context": "(HOTEL); instagram: https://www.instagram.com/palaciotangara/",
     "phone": "(11) 49044001",
     "template": "consultivo",
-    "website": ""
+    "website": "",
+    "emailVerified": true,
+    "emailVerifiedAt": "2026-09-05",
+    "emailSource": "https://www.instagram.com/palaciotangara/"
   },
   {
     "name": "PALÃCIO TANGARÃ",
@@ -33231,7 +33487,10 @@
     "context": "HOTEL; responsável: GIOVANNI; instagram: https://www.instagram.com/palaciotangara/",
     "phone": "11 4904-4040",
     "template": "pergunta",
-    "website": ""
+    "website": "",
+    "emailVerified": true,
+    "emailVerifiedAt": "2026-09-05",
+    "emailSource": "https://www.instagram.com/palaciotangara/"
   },
   {
     "name": "EMILIANO",
@@ -33242,7 +33501,10 @@
     "context": "HOTEL E RESTAURANTE; responsável: JULIANE E RAIZA; instagram: https://www.instagram.com/hotelemiliano/",
     "phone": "11 3728-2020 / 113728-2000 / 41 9955-3960 RAIZA",
     "template": "pergunta",
-    "website": ""
+    "website": "",
+    "emailVerified": true,
+    "emailVerifiedAt": "2026-09-05",
+    "emailSource": "https://www.instagram.com/hotelemiliano/"
   },
   {
     "name": "C-CULTURA CASEIRA",
@@ -33267,7 +33529,10 @@
     "context": "BUFFET; responsável: YASMIN; instagram: https://www.instagram.com/boamesarestaurantes/",
     "phone": "11 3578-4024/ 11 3831-8095 / 1193321-7298",
     "template": "prova_social",
-    "website": ""
+    "website": "",
+    "emailVerified": true,
+    "emailVerifiedAt": "2026-09-05",
+    "emailSource": "https://www.instagram.com/boamesarestaurantes/"
   },
   {
     "name": "Ripa Na Brasa Restaurante",
@@ -33278,7 +33543,10 @@
     "context": "BUFFET POR KILO; responsável: BOTO; instagram: https://www.instagram.com/ripanabrasa/",
     "phone": "(11) 2225-8450",
     "template": "consultivo",
-    "website": ""
+    "website": "",
+    "emailVerified": true,
+    "emailVerifiedAt": "2026-09-05",
+    "emailSource": "https://www.instagram.com/ripanabrasa/"
   },
   {
     "name": "Drink Me Co.",
@@ -33358,7 +33626,10 @@
     "email2": true,
     "date2": "2026-08-15",
     "email3": true,
-    "date3": "2026-08-18"
+    "date3": "2026-08-18",
+    "whatsappSent": true,
+    "whatsappDate": "2026-09-05",
+    "whatsappSource": "https://www.lupebar.com.br/"
   },
   {
     "name": "Pepper Drinks",
@@ -33844,7 +34115,10 @@
     "email2": true,
     "date2": "2026-08-20",
     "email3": true,
-    "date3": "2026-08-24"
+    "date3": "2026-08-24",
+    "whatsappSent": true,
+    "whatsappDate": "2026-09-05",
+    "whatsappSource": "https://newcia.com.br/sobre/"
   },
   {
     "name": "Feline Bartender",
@@ -34000,7 +34274,9 @@
     "email1": true,
     "date1": "2026-08-16",
     "email2": true,
-    "date2": "2026-08-20"
+    "date2": "2026-08-20",
+    "email3": true,
+    "date3": "2026-08-27"
   },
   {
     "name": "APTK Spirits Eventos",
@@ -34018,7 +34294,9 @@
     "email1": true,
     "date1": "2026-08-16",
     "email2": true,
-    "date2": "2026-08-20"
+    "date2": "2026-08-20",
+    "email3": true,
+    "date3": "2026-08-27"
   },
   {
     "name": "Top Mais Drinks",
@@ -34036,7 +34314,9 @@
     "email1": true,
     "date1": "2026-08-17",
     "email2": true,
-    "date2": "2026-08-20"
+    "date2": "2026-08-20",
+    "email3": true,
+    "date3": "2026-08-27"
   },
   {
     "name": "Chapa Drinks",
@@ -34053,7 +34333,9 @@
     "email1": true,
     "date1": "2026-08-17",
     "email2": true,
-    "date2": "2026-08-20"
+    "date2": "2026-08-20",
+    "email3": true,
+    "date3": "2026-08-27"
   },
   {
     "name": "Casa Oliver",
@@ -34070,7 +34352,9 @@
     "email1": true,
     "date1": "2026-08-17",
     "email2": true,
-    "date2": "2026-08-20"
+    "date2": "2026-08-20",
+    "email3": true,
+    "date3": "2026-08-27"
   },
   {
     "name": "VIP Drinks",
@@ -34088,7 +34372,9 @@
     "email1": true,
     "date1": "2026-08-17",
     "email2": true,
-    "date2": "2026-08-20"
+    "date2": "2026-08-20",
+    "email3": true,
+    "date3": "2026-08-27"
   },
   {
     "name": "Primal Bartenders",
@@ -34106,7 +34392,9 @@
     "email1": true,
     "date1": "2026-08-18",
     "email2": true,
-    "date2": "2026-08-20"
+    "date2": "2026-08-20",
+    "email3": true,
+    "date3": "2026-08-27"
   },
   {
     "name": "Drinks Bartender",
@@ -34123,7 +34411,9 @@
     "email1": true,
     "date1": "2026-08-17",
     "email2": true,
-    "date2": "2026-08-20"
+    "date2": "2026-08-20",
+    "email3": true,
+    "date3": "2026-08-27"
   },
   {
     "name": "WDG Events",
@@ -34137,7 +34427,24 @@
     "emailVerified": true,
     "emailSource": "https://www.wdgevents.com/",
     "emailVerifiedAt": "2026-08-16",
-    "template": "consultivo"
+    "template": "consultivo",
+    "email1": true,
+    "date1": "2026-08-30",
+    "status": "interested",
+    "messageId1": "<7defdaf9-9c11-cf48-a938-73f3abbcebb0@gmail.com>",
+    "interested": true,
+    "interestDate": "2026-08-30",
+    "responded": true,
+    "responseDate": "2026-08-30",
+    "response": "WDG Events confirmou abertura para parceria e indicou Andre para alinhamento pelo telefone 12 98231-7356.",
+    "interestNote": "Resposta recebida em 30/08/2026 21:33 BRT: 'Claro, podemos sim fazer boas parcerias. Adiciona o Andre, pode alinhar com ele.' Proximo passo manual: contatar Andre em (12) 98231-7356; nenhum cargo foi informado e nenhum follow-up automatico foi enviado.",
+    "referredContact": {
+      "name": "Andre",
+      "phone": "(12) 98231-7356",
+      "role": null,
+      "source": "Resposta por email de WDG Events em 30/08/2026"
+    },
+    "respostaFollowupDate": "2026-09-04"
   },
   {
     "name": "Lab Bar Eventos",
@@ -34155,7 +34462,9 @@
     "email1": true,
     "date1": "2026-08-16",
     "email2": true,
-    "date2": "2026-08-20"
+    "date2": "2026-08-20",
+    "email3": true,
+    "date3": "2026-08-27"
   },
   {
     "name": "ShowBartenders",
@@ -34173,7 +34482,9 @@
     "email1": true,
     "date1": "2026-08-16",
     "email2": true,
-    "date2": "2026-08-20"
+    "date2": "2026-08-20",
+    "email3": true,
+    "date3": "2026-08-27"
   },
   {
     "name": "Energy Drinks Bar",
@@ -34209,7 +34520,9 @@
     "email1": true,
     "date1": "2026-08-18",
     "email2": true,
-    "date2": "2026-08-20"
+    "date2": "2026-08-20",
+    "email3": true,
+    "date3": "2026-08-27"
   },
   {
     "name": "DCE Coquetelaria",
@@ -34227,7 +34540,9 @@
     "email1": true,
     "date1": "2026-08-16",
     "email2": true,
-    "date2": "2026-08-20"
+    "date2": "2026-08-20",
+    "email3": true,
+    "date3": "2026-08-27"
   },
   {
     "name": "Connect Bartenders",
@@ -34245,7 +34560,9 @@
     "email1": true,
     "date1": "2026-08-16",
     "email2": true,
-    "date2": "2026-08-20"
+    "date2": "2026-08-20",
+    "email3": true,
+    "date3": "2026-08-27"
   },
   {
     "name": "Sky Hall Terrace Bar",
@@ -34263,7 +34580,9 @@
     "email1": true,
     "date1": "2026-08-16",
     "email2": true,
-    "date2": "2026-08-20"
+    "date2": "2026-08-20",
+    "email3": true,
+    "date3": "2026-08-27"
   },
   {
     "name": "Double Bar Eventos",
@@ -34281,7 +34600,9 @@
     "email1": true,
     "date1": "2026-08-16",
     "email2": true,
-    "date2": "2026-08-20"
+    "date2": "2026-08-20",
+    "email3": true,
+    "date3": "2026-08-27"
   },
   {
     "name": "Balli Bartenders",
@@ -34298,7 +34619,9 @@
     "email1": true,
     "date1": "2026-08-17",
     "email2": true,
-    "date2": "2026-08-20"
+    "date2": "2026-08-20",
+    "email3": true,
+    "date3": "2026-08-27"
   },
   {
     "name": "Conceito Bar",
@@ -34316,7 +34639,9 @@
     "email1": true,
     "date1": "2026-08-16",
     "email2": true,
-    "date2": "2026-08-20"
+    "date2": "2026-08-20",
+    "email3": true,
+    "date3": "2026-08-27"
   },
   {
     "name": "Bar Salvador",
@@ -34333,7 +34658,9 @@
     "email1": true,
     "date1": "2026-08-17",
     "email2": true,
-    "date2": "2026-08-20"
+    "date2": "2026-08-20",
+    "email3": true,
+    "date3": "2026-08-27"
   },
   {
     "name": "Hotel Panamby Sao Paulo",
@@ -34346,7 +34673,13 @@
     "emailVerified": true,
     "emailSource": "https://hotelpanambysaopaulo.com.br/wp-content/uploads/Eventos-Hotel-Panamby-Sao-Paulo.pdf",
     "emailVerifiedAt": "2026-08-16",
-    "template": "consultivo"
+    "template": "consultivo",
+    "email1": true,
+    "date1": "2026-08-30",
+    "status": "contacted",
+    "messageId1": "<f3495139-8e6e-00f0-233d-43069306089c@gmail.com>",
+    "email2": true,
+    "date2": "2026-09-01"
   },
   {
     "name": "Agari Drinks",
@@ -34364,7 +34697,9 @@
     "email1": true,
     "date1": "2026-08-16",
     "email2": true,
-    "date2": "2026-08-20"
+    "date2": "2026-08-20",
+    "email3": true,
+    "date3": "2026-08-27"
   },
   {
     "name": "One Bartender",
@@ -34381,7 +34716,9 @@
     "email1": true,
     "date1": "2026-08-17",
     "email2": true,
-    "date2": "2026-08-20"
+    "date2": "2026-08-20",
+    "email3": true,
+    "date3": "2026-08-27"
   },
   {
     "name": "1966 PUB & Cocktail Bar",
@@ -34402,7 +34739,9 @@
     "whatsappDate": "2026-08-20",
     "whatsappSource": "https://www.1966pub.com.br/",
     "email2": true,
-    "date2": "2026-08-21"
+    "date2": "2026-08-21",
+    "email3": true,
+    "date3": "2026-08-27"
   },
   {
     "name": "Santa Oca Bar",
@@ -34420,7 +34759,9 @@
     "email1": true,
     "date1": "2026-08-18",
     "email2": true,
-    "date2": "2026-08-21"
+    "date2": "2026-08-21",
+    "email3": true,
+    "date3": "2026-08-27"
   },
   {
     "name": "Urbana Coquetelaria",
@@ -34437,7 +34778,9 @@
     "email1": true,
     "date1": "2026-08-17",
     "email2": true,
-    "date2": "2026-08-21"
+    "date2": "2026-08-21",
+    "email3": true,
+    "date3": "2026-08-27"
   },
   {
     "name": "Dbartenders",
@@ -34455,7 +34798,9 @@
     "email1": true,
     "date1": "2026-08-16",
     "email2": true,
-    "date2": "2026-08-21"
+    "date2": "2026-08-21",
+    "email3": true,
+    "date3": "2026-08-27"
   },
   {
     "name": "MADZ Eventos",
@@ -34473,7 +34818,9 @@
     "email1": true,
     "date1": "2026-08-16",
     "email2": true,
-    "date2": "2026-08-21"
+    "date2": "2026-08-21",
+    "email3": true,
+    "date3": "2026-08-27"
   },
   {
     "name": "Mr Cocktail Eventos",
@@ -34491,7 +34838,9 @@
     "email1": true,
     "date1": "2026-08-18",
     "email2": true,
-    "date2": "2026-08-21"
+    "date2": "2026-08-21",
+    "email3": true,
+    "date3": "2026-08-27"
   },
   {
     "name": "Canto Wine Bar & Take Away",
@@ -34528,7 +34877,9 @@
     "email1": true,
     "date1": "2026-08-16",
     "email2": true,
-    "date2": "2026-08-21"
+    "date2": "2026-08-21",
+    "email3": true,
+    "date3": "2026-08-27"
   },
   {
     "name": "Curtica Bar",
@@ -34546,7 +34897,9 @@
     "email1": true,
     "date1": "2026-08-17",
     "email2": true,
-    "date2": "2026-08-21"
+    "date2": "2026-08-21",
+    "email3": true,
+    "date3": "2026-08-27"
   },
   {
     "name": "All Party Eventos",
@@ -34560,7 +34913,11 @@
     "emailVerified": true,
     "emailSource": "https://www.allpartyeventos.com.br/now.php",
     "emailVerifiedAt": "2026-08-16",
-    "template": "consultivo"
+    "template": "consultivo",
+    "email1": true,
+    "date1": "2026-08-30",
+    "status": "contacted",
+    "messageId1": "<636f6afa-e1d2-5a41-f71a-18bb4f1d6b51@gmail.com>"
   },
   {
     "name": "Vitoria Concept Campinas",
@@ -34574,7 +34931,15 @@
     "emailVerified": true,
     "emailSource": "https://www.vitoriahoteis.com.br/casamentos-campinas",
     "emailVerifiedAt": "2026-08-16",
-    "template": "consultivo"
+    "template": "consultivo",
+    "email1": true,
+    "date1": "2026-08-30",
+    "status": "responded_routed",
+    "messageId1": "<8196237e-6674-d3bb-bbf1-d1fb9f4223c7@gmail.com>",
+    "responded": true,
+    "responseDate": "2026-08-31",
+    "response": "Isabela Brandao, Coordenadora de Eventos, encaminhou a apresentacao ao setor de compras do Vitoria Concept Campinas.",
+    "responseNote": "Resposta recebida em 31/08/2026: contato encaminhado ao setor de compras. Proximo passo manual: aguardar retorno do comprador; nenhum follow-up automatico enviado."
   },
   {
     "name": "Bar2Go",
@@ -34595,7 +34960,9 @@
     "whatsappDate": "2026-08-20",
     "whatsappSource": "https://bar2go.com.br/",
     "email2": true,
-    "date2": "2026-08-21"
+    "date2": "2026-08-21",
+    "email3": true,
+    "date3": "2026-08-27"
   },
   {
     "name": "Bourbon Convention Hotel Santos",
@@ -34609,7 +34976,15 @@
     "emailVerified": true,
     "emailSource": "https://www.bourbon.com.br/hoteis-e-resorts/bourbon-convention-hotel-santos",
     "emailVerifiedAt": "2026-08-16",
-    "template": "consultivo"
+    "template": "consultivo",
+    "email1": true,
+    "date1": "2026-08-30",
+    "status": "responded_routed",
+    "messageId1": "<df97bbdf-eeb2-86f3-826b-a0e02a123834@gmail.com>",
+    "responded": true,
+    "responseDate": "2026-08-31",
+    "response": "Central de Reservas Bourbon informou que direcionou a solicitacao para a equipe do Bourbon Convention Hotel Santos, copiada no email, para analise e retorno.",
+    "responseNote": "Resposta recebida em 31/08/2026: solicitacao encaminhada internamente a equipe do hotel. Proximo passo manual: aguardar retorno; nenhum follow-up automatico enviado."
   },
   {
     "name": "XBAR",
@@ -34627,7 +35002,9 @@
     "email1": true,
     "date1": "2026-08-16",
     "email2": true,
-    "date2": "2026-08-21"
+    "date2": "2026-08-21",
+    "email3": true,
+    "date3": "2026-08-27"
   },
   {
     "name": "Adega Don Marte",
@@ -34645,7 +35022,9 @@
     "email1": true,
     "date1": "2026-08-16",
     "email2": true,
-    "date2": "2026-08-21"
+    "date2": "2026-08-21",
+    "email3": true,
+    "date3": "2026-08-27"
   },
   {
     "name": "Life Drinks e Eventos",
@@ -34663,7 +35042,9 @@
     "email1": true,
     "date1": "2026-08-16",
     "email2": true,
-    "date2": "2026-08-21"
+    "date2": "2026-08-21",
+    "email3": true,
+    "date3": "2026-08-27"
   },
   {
     "name": "Fashion Bartenders",
@@ -34681,7 +35062,9 @@
     "email1": true,
     "date1": "2026-08-16",
     "email2": true,
-    "date2": "2026-08-21"
+    "date2": "2026-08-21",
+    "email3": true,
+    "date3": "2026-08-27"
   },
   {
     "name": "Z Eventos",
@@ -34699,7 +35082,9 @@
     "email1": true,
     "date1": "2026-08-17",
     "email2": true,
-    "date2": "2026-08-21"
+    "date2": "2026-08-21",
+    "email3": true,
+    "date3": "2026-08-27"
   },
   {
     "name": "Recanto Santa Rita",
@@ -34717,7 +35102,9 @@
     "email1": true,
     "date1": "2026-08-18",
     "email2": true,
-    "date2": "2026-08-21"
+    "date2": "2026-08-21",
+    "email3": true,
+    "date3": "2026-08-27"
   },
   {
     "name": "Barman Para Festas",
@@ -34735,7 +35122,9 @@
     "email1": true,
     "date1": "2026-08-16",
     "email2": true,
-    "date2": "2026-08-21"
+    "date2": "2026-08-21",
+    "email3": true,
+    "date3": "2026-08-28"
   },
   {
     "name": "Caledonia Whisky & Co.",
@@ -34753,7 +35142,9 @@
     "email1": true,
     "date1": "2026-08-16",
     "email2": true,
-    "date2": "2026-08-21"
+    "date2": "2026-08-21",
+    "email3": true,
+    "date3": "2026-08-28"
   },
   {
     "name": "K-Bar e Karaokê",
@@ -34771,7 +35162,9 @@
     "email1": true,
     "date1": "2026-08-16",
     "email2": true,
-    "date2": "2026-08-21"
+    "date2": "2026-08-21",
+    "email3": true,
+    "date3": "2026-08-28"
   },
   {
     "name": "Mister Drinks",
@@ -34789,7 +35182,9 @@
     "email1": true,
     "date1": "2026-08-16",
     "email2": true,
-    "date2": "2026-08-21"
+    "date2": "2026-08-21",
+    "email3": true,
+    "date3": "2026-08-28"
   },
   {
     "name": "São Paulo Urban Distillery",
@@ -34807,7 +35202,9 @@
     "email1": true,
     "date1": "2026-08-17",
     "email2": true,
-    "date2": "2026-08-21"
+    "date2": "2026-08-21",
+    "email3": true,
+    "date3": "2026-08-28"
   },
   {
     "name": "Brasil Bartender",
@@ -34825,7 +35222,9 @@
     "email1": true,
     "date1": "2026-08-16",
     "email2": true,
-    "date2": "2026-08-21"
+    "date2": "2026-08-21",
+    "email3": true,
+    "date3": "2026-08-28"
   },
   {
     "name": "Vedê Coquetelaria & Arte",
@@ -34843,7 +35242,9 @@
     "email1": true,
     "date1": "2026-08-16",
     "email2": true,
-    "date2": "2026-08-21"
+    "date2": "2026-08-21",
+    "email3": true,
+    "date3": "2026-08-28"
   },
   {
     "name": "Yummy Cocktails",
@@ -34861,7 +35262,9 @@
     "email1": true,
     "date1": "2026-08-16",
     "email2": true,
-    "date2": "2026-08-21"
+    "date2": "2026-08-21",
+    "email3": true,
+    "date3": "2026-08-28"
   },
   {
     "name": "Cervejaria Rei do Malte",
@@ -34879,7 +35282,9 @@
     "email1": true,
     "date1": "2026-08-18",
     "email2": true,
-    "date2": "2026-08-21"
+    "date2": "2026-08-21",
+    "email3": true,
+    "date3": "2026-08-28"
   },
   {
     "name": "Villa BBM Gastrobar",
@@ -34897,7 +35302,9 @@
     "email1": true,
     "date1": "2026-08-17",
     "email2": true,
-    "date2": "2026-08-21"
+    "date2": "2026-08-21",
+    "email3": true,
+    "date3": "2026-08-28"
   },
   {
     "name": "The Black Horse",
@@ -34918,7 +35325,9 @@
     "whatsappDate": "2026-08-20",
     "whatsappSource": "https://theblackhorse.com.br/",
     "email2": true,
-    "date2": "2026-08-21"
+    "date2": "2026-08-21",
+    "email3": true,
+    "date3": "2026-08-28"
   },
   {
     "name": "Beco Alfas",
@@ -34936,7 +35345,9 @@
     "email1": true,
     "date1": "2026-08-17",
     "email2": true,
-    "date2": "2026-08-21"
+    "date2": "2026-08-21",
+    "email3": true,
+    "date3": "2026-08-28"
   },
   {
     "name": "Tortellini Restaurante e Pizzaria",
@@ -34954,7 +35365,9 @@
     "email1": true,
     "date1": "2026-08-18",
     "email2": true,
-    "date2": "2026-08-21"
+    "date2": "2026-08-21",
+    "email3": true,
+    "date3": "2026-08-28"
   },
   {
     "name": "O Posto Bar e Restaurante",
@@ -34972,7 +35385,9 @@
     "email1": true,
     "date1": "2026-08-17",
     "email2": true,
-    "date2": "2026-08-21"
+    "date2": "2026-08-21",
+    "email3": true,
+    "date3": "2026-08-28"
   },
   {
     "name": "Beer Place Tap House",
@@ -34990,7 +35405,9 @@
     "email1": true,
     "date1": "2026-08-17",
     "email2": true,
-    "date2": "2026-08-21"
+    "date2": "2026-08-21",
+    "email3": true,
+    "date3": "2026-08-28"
   },
   {
     "name": "Pedra Branca Jandira",
@@ -35008,7 +35425,9 @@
     "email1": true,
     "date1": "2026-08-18",
     "email2": true,
-    "date2": "2026-08-21"
+    "date2": "2026-08-21",
+    "email3": true,
+    "date3": "2026-08-28"
   },
   {
     "name": "Alemão Bar e Bistrô",
@@ -35026,7 +35445,9 @@
     "email1": true,
     "date1": "2026-08-18",
     "email2": true,
-    "date2": "2026-08-21"
+    "date2": "2026-08-21",
+    "email3": true,
+    "date3": "2026-08-28"
   },
   {
     "name": "Bendita Areia",
@@ -35044,7 +35465,9 @@
     "email1": true,
     "date1": "2026-08-17",
     "email2": true,
-    "date2": "2026-08-21"
+    "date2": "2026-08-21",
+    "email3": true,
+    "date3": "2026-08-28"
   },
   {
     "name": "Lig Chopp Germânia Barueri",
@@ -35062,7 +35485,9 @@
     "email1": true,
     "date1": "2026-08-17",
     "email2": true,
-    "date2": "2026-08-21"
+    "date2": "2026-08-21",
+    "email3": true,
+    "date3": "2026-08-28"
   },
   {
     "name": "Adega Rubi",
@@ -35080,7 +35505,9 @@
     "email1": true,
     "date1": "2026-08-17",
     "email2": true,
-    "date2": "2026-08-22"
+    "date2": "2026-08-22",
+    "email3": true,
+    "date3": "2026-08-28"
   },
   {
     "name": "Royal Bebidas",
@@ -35098,7 +35525,9 @@
     "email1": true,
     "date1": "2026-08-17",
     "email2": true,
-    "date2": "2026-08-22"
+    "date2": "2026-08-22",
+    "email3": true,
+    "date3": "2026-08-28"
   },
   {
     "name": "Palácio dos Vinhos",
@@ -35116,7 +35545,9 @@
     "email1": true,
     "date1": "2026-08-17",
     "email2": true,
-    "date2": "2026-08-22"
+    "date2": "2026-08-22",
+    "email3": true,
+    "date3": "2026-08-28"
   },
   {
     "name": "Distribuidora Cotia",
@@ -35134,7 +35565,9 @@
     "email1": true,
     "date1": "2026-08-17",
     "email2": true,
-    "date2": "2026-08-22"
+    "date2": "2026-08-22",
+    "email3": true,
+    "date3": "2026-08-28"
   },
   {
     "name": "Cofig Distribuidora",
@@ -35152,7 +35585,9 @@
     "email1": true,
     "date1": "2026-08-17",
     "email2": true,
-    "date2": "2026-08-22"
+    "date2": "2026-08-22",
+    "email3": true,
+    "date3": "2026-08-28"
   },
   {
     "name": "Maxx Indústria de Bebidas",
@@ -35170,7 +35605,9 @@
     "email1": true,
     "date1": "2026-08-17",
     "email2": true,
-    "date2": "2026-08-22"
+    "date2": "2026-08-22",
+    "email3": true,
+    "date3": "2026-08-28"
   },
   {
     "name": "The Wine Spot",
@@ -35188,7 +35625,9 @@
     "email1": true,
     "date1": "2026-08-17",
     "email2": true,
-    "date2": "2026-08-22"
+    "date2": "2026-08-22",
+    "email3": true,
+    "date3": "2026-08-28"
   },
   {
     "name": "Central Osasco",
@@ -35206,7 +35645,9 @@
     "email1": true,
     "date1": "2026-08-23",
     "email2": true,
-    "date2": "2026-08-22"
+    "date2": "2026-08-22",
+    "email3": true,
+    "date3": "2026-08-28"
   },
   {
     "name": "Central Wine",
@@ -35224,7 +35665,9 @@
     "email1": true,
     "date1": "2026-08-17",
     "email2": true,
-    "date2": "2026-08-22"
+    "date2": "2026-08-22",
+    "email3": true,
+    "date3": "2026-08-28"
   },
   {
     "name": "Taça Cheia Bar e Restaurante",
@@ -35242,7 +35685,9 @@
     "email1": true,
     "date1": "2026-08-17",
     "email2": true,
-    "date2": "2026-08-22"
+    "date2": "2026-08-22",
+    "email3": true,
+    "date3": "2026-08-28"
   },
   {
     "name": "Pizzaria Nostra Carapicuíba",
@@ -35260,7 +35705,9 @@
     "email1": true,
     "date1": "2026-08-18",
     "email2": true,
-    "date2": "2026-08-22"
+    "date2": "2026-08-22",
+    "email3": true,
+    "date3": "2026-08-28"
   },
   {
     "name": "Restaurante Cantinho do Tempero Jandira",
@@ -35278,7 +35725,9 @@
     "email1": true,
     "date1": "2026-08-18",
     "email2": true,
-    "date2": "2026-08-22"
+    "date2": "2026-08-22",
+    "email3": true,
+    "date3": "2026-08-28"
   },
   {
     "name": "A Quinta do Mirante",
@@ -35296,7 +35745,9 @@
     "email1": true,
     "date1": "2026-08-18",
     "email2": true,
-    "date2": "2026-08-22"
+    "date2": "2026-08-22",
+    "email3": true,
+    "date3": "2026-08-28"
   },
   {
     "name": "Savana Alphaville",
@@ -35314,7 +35765,9 @@
     "email1": true,
     "date1": "2026-08-18",
     "email2": true,
-    "date2": "2026-08-22"
+    "date2": "2026-08-22",
+    "email3": true,
+    "date3": "2026-08-28"
   },
   {
     "name": "Pacha Pizza Bar",
@@ -35332,7 +35785,9 @@
     "email1": true,
     "date1": "2026-08-18",
     "email2": true,
-    "date2": "2026-08-22"
+    "date2": "2026-08-22",
+    "email3": true,
+    "date3": "2026-08-28"
   },
   {
     "name": "O Taboão 2 Restaurante e Delivery",
@@ -35350,7 +35805,9 @@
     "email1": true,
     "date1": "2026-08-18",
     "email2": true,
-    "date2": "2026-08-22"
+    "date2": "2026-08-22",
+    "email3": true,
+    "date3": "2026-08-29"
   },
   {
     "name": "Zao Sushi Taboão",
@@ -35368,7 +35825,9 @@
     "email1": true,
     "date1": "2026-08-18",
     "email2": true,
-    "date2": "2026-08-22"
+    "date2": "2026-08-22",
+    "email3": true,
+    "date3": "2026-08-29"
   },
   {
     "name": "Rápido Chopp Taboão da Serra",
@@ -35386,7 +35845,9 @@
     "email1": true,
     "date1": "2026-08-18",
     "email2": true,
-    "date2": "2026-08-22"
+    "date2": "2026-08-22",
+    "email3": true,
+    "date3": "2026-08-29"
   },
   {
     "name": "Adega Caramuru",
@@ -35404,7 +35865,9 @@
     "email1": true,
     "date1": "2026-08-18",
     "email2": true,
-    "date2": "2026-08-22"
+    "date2": "2026-08-22",
+    "email3": true,
+    "date3": "2026-08-29"
   },
   {
     "name": "Boiadeiro Grill Diadema",
@@ -35420,7 +35883,11 @@
     "emailVerifiedAt": "2026-08-18",
     "template": "consultivo",
     "email1": true,
-    "date1": "2026-08-18"
+    "date1": "2026-08-18",
+    "email2": true,
+    "date2": "2026-08-29",
+    "email3": true,
+    "date3": "2026-09-01"
   },
   {
     "name": "Gaia Restaurante",
@@ -35436,7 +35903,11 @@
     "emailVerifiedAt": "2026-08-18",
     "template": "consultivo",
     "email1": true,
-    "date1": "2026-08-18"
+    "date1": "2026-08-18",
+    "email2": true,
+    "date2": "2026-08-29",
+    "email3": true,
+    "date3": "2026-09-01"
   },
   {
     "name": "Cantinho do Luiz",
@@ -35452,7 +35923,11 @@
     "emailVerifiedAt": "2026-08-18",
     "template": "consultivo",
     "email1": true,
-    "date1": "2026-08-18"
+    "date1": "2026-08-18",
+    "email2": true,
+    "date2": "2026-08-29",
+    "email3": true,
+    "date3": "2026-09-01"
   },
   {
     "name": "Fahrenheit JK Iguatemi",
@@ -35468,7 +35943,11 @@
     "emailVerifiedAt": "2026-08-18",
     "template": "consultivo",
     "email1": true,
-    "date1": "2026-08-18"
+    "date1": "2026-08-18",
+    "email2": true,
+    "date2": "2026-08-29",
+    "email3": true,
+    "date3": "2026-09-01"
   },
   {
     "name": "Seen Restaurant & Bar",
@@ -35490,7 +35969,11 @@
     "whatsappDate": "2026-08-20",
     "whatsappSource": "https://seensp.com/sobre-nos/",
     "email1": true,
-    "date1": "2026-08-21"
+    "date1": "2026-08-21",
+    "email2": true,
+    "date2": "2026-08-29",
+    "email3": true,
+    "date3": "2026-09-01"
   },
   {
     "name": "Adega Morais",
@@ -35582,7 +36065,9 @@
     "mxVerifiedAt": "2026-08-22",
     "template": "consultivo",
     "email1": true,
-    "date1": "2026-08-23"
+    "date1": "2026-08-23",
+    "email2": true,
+    "date2": "2026-08-29"
   },
   {
     "name": "Hortifruti Higienopolis",
@@ -35598,7 +36083,13 @@
     "emailVerifiedAt": "2026-08-22",
     "mxVerified": true,
     "mxVerifiedAt": "2026-08-22",
-    "template": "consultivo"
+    "template": "consultivo",
+    "email1": true,
+    "date1": "2026-08-30",
+    "status": "contacted",
+    "messageId1": "<8b3d4e29-8d95-df61-65a2-95b9d94dc6c9@gmail.com>",
+    "email2": true,
+    "date2": "2026-09-01"
   },
   {
     "name": "Assai Santo Andre",
@@ -35616,25 +36107,29 @@
     "mxVerifiedAt": "2026-08-23",
     "template": "consultivo",
     "email1": true,
-    "date1": "2026-08-23"
+    "date1": "2026-08-23",
+    "email2": true,
+    "date2": "2026-08-29"
   },
   {
     "name": "Cachacaria SP",
     "email": "contato@cachacariasp.com.br",
-    "type": "adega",
+    "type": "loja_bebidas",
     "neighborhood": "Centro Historico",
     "address": "Avenida Ipiranga, 200, Loja 15 - Centro Historico - Sao Paulo/SP",
-    "context": "Loja especializada em cachacas de varias regioes do Brasil, com degustacoes, cursos, palestras e workshops. A operacao e o contato foram confirmados em cadastro recente do Governo do Estado de Sao Paulo; alto fit direto com a linha Pindorama e potencial de recompra inferido pelo varejo especializado.",
+    "context": "Pagina oficial das Rotas da Cachaca do Governo de Sao Paulo, ativa em agosto de 2026, confirma loja especializada no Centro Historico com rotulos de cachaca de diversas regioes do Brasil, telefone e email empresarial publicados. Fato: varejo especializado em cachaca. Inferencia comercial: alta aderencia para avaliar e recomprar a linha Pindorama.",
     "phone": "(11) 3214-6260",
     "website": "https://www.rotasdacachaca.sp.gov.br/rotas-cachaca/as%20rotas/Destinos%20de%20Cacha%C3%A7a/cachacaria%20sp",
     "emailVerified": true,
     "emailSource": "https://www.rotasdacachaca.sp.gov.br/rotas-cachaca/as%20rotas/Destinos%20de%20Cacha%C3%A7a/cachacaria%20sp",
-    "emailVerifiedAt": "2026-08-23",
+    "emailVerifiedAt": "2026-08-27",
     "mxVerified": true,
     "mxVerifiedAt": "2026-08-23",
     "template": "consultivo",
     "email1": true,
-    "date1": "2026-08-23"
+    "date1": "2026-08-23",
+    "email2": true,
+    "date2": "2026-08-29"
   },
   {
     "name": "Bebidas Brasinha",
@@ -35652,7 +36147,9 @@
     "mxVerifiedAt": "2026-08-23",
     "template": "pergunta",
     "email1": true,
-    "date1": "2026-08-23"
+    "date1": "2026-08-23",
+    "email2": true,
+    "date2": "2026-08-29"
   },
   {
     "name": "RB Shopping da Cachaca",
@@ -35670,7 +36167,9 @@
     "mxVerifiedAt": "2026-08-23",
     "template": "consultivo",
     "email1": true,
-    "date1": "2026-08-23"
+    "date1": "2026-08-23",
+    "email2": true,
+    "date2": "2026-08-29"
   },
   {
     "name": "Liberal Club",
@@ -35687,7 +36186,9 @@
     "mxVerifiedAt": "2026-08-23",
     "template": "pergunta",
     "email1": true,
-    "date1": "2026-08-23"
+    "date1": "2026-08-23",
+    "email2": true,
+    "date2": "2026-08-29"
   },
   {
     "name": "AMB Distribuidora",
@@ -35705,7 +36206,9 @@
     "mxVerifiedAt": "2026-08-23",
     "template": "consultivo",
     "email1": true,
-    "date1": "2026-08-23"
+    "date1": "2026-08-23",
+    "email2": true,
+    "date2": "2026-08-29"
   },
   {
     "name": "Cachacaria Trem Brasa",
@@ -35723,7 +36226,9 @@
     "mxVerifiedAt": "2026-08-23",
     "template": "consultivo",
     "email1": true,
-    "date1": "2026-08-25"
+    "date1": "2026-08-25",
+    "email2": true,
+    "date2": "2026-08-29"
   },
   {
     "name": "Bardega",
@@ -35741,7 +36246,9 @@
     "mxVerifiedAt": "2026-08-23",
     "template": "pergunta",
     "email1": true,
-    "date1": "2026-08-25"
+    "date1": "2026-08-25",
+    "email2": true,
+    "date2": "2026-08-29"
   },
   {
     "name": "Viva Cachaca",
@@ -35757,7 +36264,11 @@
     "emailVerifiedAt": "2026-08-23",
     "mxVerified": true,
     "mxVerifiedAt": "2026-08-23",
-    "template": "consultivo"
+    "template": "consultivo",
+    "email1": true,
+    "date1": "2026-08-30",
+    "status": "contacted",
+    "messageId1": "<ea3c15e4-9d84-6ff7-f230-99bcff25d232@gmail.com>"
   },
   {
     "name": "D'Gusta Cachacaria",
@@ -35775,7 +36286,9 @@
     "mxVerifiedAt": "2026-08-23",
     "template": "consultivo",
     "email1": true,
-    "date1": "2026-08-24"
+    "date1": "2026-08-24",
+    "email2": true,
+    "date2": "2026-08-29"
   },
   {
     "name": "Emporio da Roca Higienopolis",
@@ -35793,7 +36306,9 @@
     "mxVerifiedAt": "2026-08-23",
     "template": "consultivo",
     "email1": true,
-    "date1": "2026-08-24"
+    "date1": "2026-08-24",
+    "email2": true,
+    "date2": "2026-08-29"
   },
   {
     "name": "Bendita Dose",
@@ -35811,7 +36326,16 @@
     "mxVerifiedAt": "2026-08-23",
     "template": "consultivo",
     "email1": true,
-    "date1": "2026-08-24"
+    "date1": "2026-08-24",
+    "email2": true,
+    "date2": "2026-08-29",
+    "responded": true,
+    "responseDate": "2026-08-25",
+    "response": "Silvio Luiz Parente informou que a Bendita Dose e um ecommerce especializado exclusivamente em cachacas premium e extra premium e se mostrou aberto a conversar sobre parceria.",
+    "interestNote": "Interesse comercial explicito em conversar sobre parceria e possivel inclusao da Pindorama no portfolio especializado.",
+    "nextStep": "Retomar manualmente com Silvio Luiz Parente para combinar conversa e oferecer amostra ou degustacao.",
+    "automationIncident": "Email2 foi enviado em 2026-08-29 apos a resposta positiva de 2026-08-25; bloquear novos follow-ups automaticos.",
+    "respostaFollowupDate": "2026-09-04"
   },
   {
     "name": "Grill & Brasa",
@@ -35829,7 +36353,9 @@
     "mxVerifiedAt": "2026-08-23",
     "template": "pergunta",
     "email1": true,
-    "date1": "2026-08-24"
+    "date1": "2026-08-24",
+    "email2": true,
+    "date2": "2026-08-29"
   },
   {
     "name": "Mais Distribuidora",
@@ -35847,7 +36373,9 @@
     "mxVerifiedAt": "2026-08-23",
     "template": "consultivo",
     "email1": true,
-    "date1": "2026-08-24"
+    "date1": "2026-08-24",
+    "email2": true,
+    "date2": "2026-08-29"
   },
   {
     "name": "Bebidas Famosas",
@@ -35865,7 +36393,12 @@
     "mxVerifiedAt": "2026-08-23",
     "template": "pergunta",
     "email1": true,
-    "date1": "2026-08-24"
+    "date1": "2026-08-24",
+    "email2": true,
+    "date2": "2026-08-29",
+    "doNotContact": true,
+    "bounced": true,
+    "bounceDate": "2026-08-29"
   },
   {
     "name": "Bar Bambu",
@@ -35883,7 +36416,9 @@
     "mxVerifiedAt": "2026-08-23",
     "template": "consultivo",
     "email1": true,
-    "date1": "2026-08-25"
+    "date1": "2026-08-25",
+    "email2": true,
+    "date2": "2026-08-29"
   },
   {
     "name": "Destill Comercial",
@@ -35891,17 +36426,19 @@
     "type": "distribuidora",
     "neighborhood": "Vila Formosa",
     "address": "Rua Tauande, 55 - Vila Formosa - Sao Paulo/SP",
-    "context": "Distribuidora de bebidas ativa em Sao Paulo, com canal empresarial oficial, telefone e WhatsApp publicados. O nome e a operacao indicam aderencia a destilados, enquanto o potencial de recompra e uma inferencia comercial; a fonte nao divulga volume, numero de unidades nem comprador responsavel.",
+    "context": "Site oficial ativo em agosto de 2026 publica operacao da Destill Comercial LTDA, endereco na Vila Formosa, email empresarial, telefone e WhatsApp. Fato: canal comercial empresarial publicado. Inferencia comercial: distribuidora com potencial de recompra e inclusao da linha Pindorama.",
     "phone": "+55 (11) 94172-8444",
     "website": "https://destill.com.br/",
     "emailVerified": true,
     "emailSource": "https://destill.com.br/contato/",
-    "emailVerifiedAt": "2026-08-23",
+    "emailVerifiedAt": "2026-08-27",
     "mxVerified": true,
     "mxVerifiedAt": "2026-08-23",
     "template": "pergunta",
     "email1": true,
-    "date1": "2026-08-24"
+    "date1": "2026-08-24",
+    "email2": true,
+    "date2": "2026-08-29"
   },
   {
     "name": "Ferraz Distribuidora",
@@ -35909,17 +36446,19 @@
     "type": "distribuidora",
     "neighborhood": "Jardim Sao Geraldo",
     "address": "Av. Otavio Braga de Mesquita, 3863 - Lote E - Jardim Sao Geraldo - Guarulhos/SP - 07140-230",
-    "context": "Distribuidora atacadista B2B ativa em Guarulhos, com mais de 10 anos, mais de 1.500 rotulos, frota propria e foco em abastecer adegas, minimercados, bares e restaurantes. O site oficial de 2026 confirma catalogo de destilados incluindo cachacas, alto estoque, canal empresarial e operacao metropolitana; forte fit e potencial recorrente de compra, embora nao divulgue comprador nominal nem volume por categoria.",
+    "context": "Site oficial ativo em agosto de 2026 publica operacao de atacado e distribuicao de bebidas em Guarulhos, atendimento de segunda a sexta, email empresarial e categoria de destilados. Fato: trabalha com alto volume e abastecimento do comercio. Inferencia comercial: forte potencial de recompra B2B.",
     "phone": "(11) 5513-9576",
     "website": "https://ferrazcomercio.com.br/",
     "emailVerified": true,
     "emailSource": "https://ferrazcomercio.com.br/",
-    "emailVerifiedAt": "2026-08-23",
+    "emailVerifiedAt": "2026-08-27",
     "mxVerified": true,
     "mxVerifiedAt": "2026-08-23",
     "template": "consultivo",
     "email1": true,
-    "date1": "2026-08-24"
+    "date1": "2026-08-24",
+    "email2": true,
+    "date2": "2026-08-29"
   },
   {
     "name": "Paula Sousa Bebidas",
@@ -35937,7 +36476,9 @@
     "mxVerifiedAt": "2026-08-24",
     "template": "consultivo",
     "email1": true,
-    "date1": "2026-08-25"
+    "date1": "2026-08-25",
+    "email2": true,
+    "date2": "2026-08-29"
   },
   {
     "name": "NR Distribuidora",
@@ -35955,7 +36496,9 @@
     "mxVerifiedAt": "2026-08-24",
     "template": "pergunta",
     "email1": true,
-    "date1": "2026-08-24"
+    "date1": "2026-08-24",
+    "email2": true,
+    "date2": "2026-08-29"
   },
   {
     "name": "Sampa Atacado",
@@ -35973,7 +36516,9 @@
     "mxVerifiedAt": "2026-08-24",
     "template": "consultivo",
     "email1": true,
-    "date1": "2026-08-24"
+    "date1": "2026-08-24",
+    "email2": true,
+    "date2": "2026-08-29"
   },
   {
     "name": "Emporio NetDrinks",
@@ -35991,7 +36536,9 @@
     "mxVerifiedAt": "2026-08-24",
     "template": "consultivo",
     "email1": true,
-    "date1": "2026-08-24"
+    "date1": "2026-08-24",
+    "email2": true,
+    "date2": "2026-08-29"
   },
   {
     "name": "Emporio Cananeia",
@@ -36009,7 +36556,9 @@
     "mxVerifiedAt": "2026-08-24",
     "template": "pergunta",
     "email1": true,
-    "date1": "2026-08-25"
+    "date1": "2026-08-25",
+    "email2": true,
+    "date2": "2026-08-29"
   },
   {
     "name": "Emporio Frei Caneca",
@@ -36027,7 +36576,9 @@
     "mxVerifiedAt": "2026-08-24",
     "template": "consultivo",
     "email1": true,
-    "date1": "2026-08-24"
+    "date1": "2026-08-24",
+    "email2": true,
+    "date2": "2026-08-29"
   },
   {
     "name": "Emporio Vignamazzi",
@@ -36045,7 +36596,9 @@
     "mxVerifiedAt": "2026-08-24",
     "template": "consultivo",
     "email1": true,
-    "date1": "2026-08-24"
+    "date1": "2026-08-24",
+    "email2": true,
+    "date2": "2026-08-29"
   },
   {
     "name": "Emporio Di Callani",
@@ -36063,7 +36616,9 @@
     "mxVerifiedAt": "2026-08-24",
     "template": "pergunta",
     "email1": true,
-    "date1": "2026-08-24"
+    "date1": "2026-08-24",
+    "email2": true,
+    "date2": "2026-08-29"
   },
   {
     "name": "Banca do Ramon",
@@ -36081,7 +36636,9 @@
     "mxVerifiedAt": "2026-08-24",
     "template": "consultivo",
     "email1": true,
-    "date1": "2026-08-24"
+    "date1": "2026-08-24",
+    "email2": true,
+    "date2": "2026-08-30"
   },
   {
     "name": "Alvorada Distribuidora de Bebidas",
@@ -36099,7 +36656,11 @@
     "mxVerifiedAt": "2026-08-24",
     "template": "consultivo",
     "email1": true,
-    "date1": "2026-08-24"
+    "date1": "2026-08-24",
+    "bounced": true,
+    "bounceDate": "2026-08-24",
+    "bounceReason": "550 5.1.1 User unknown in relay recipient table",
+    "suppressed": true
   },
   {
     "name": "Confraria Queijo e Vinho",
@@ -36117,7 +36678,9 @@
     "mxVerifiedAt": "2026-08-24",
     "template": "consultivo",
     "email1": true,
-    "date1": "2026-08-25"
+    "date1": "2026-08-25",
+    "email2": true,
+    "date2": "2026-08-30"
   },
   {
     "name": "Beale Bebidas",
@@ -36135,6 +36698,2025 @@
     "mxVerifiedAt": "2026-08-24",
     "template": "consultivo",
     "email1": true,
-    "date1": "2026-08-25"
+    "date1": "2026-08-25",
+    "email2": true,
+    "date2": "2026-08-30"
+  },
+  {
+    "name": "Bar da Zilda",
+    "email": "bardazilda@terra.com.br",
+    "type": "bar_restaurante_cachaca_cambuci",
+    "neighborhood": "Paranapiacaba",
+    "city": "Santo Andre",
+    "website": "https://www.bardazilda.com.br",
+    "source": "https://web.santoandre.sp.gov.br/guia-de-servicos",
+    "context": "Guia oficial da Prefeitura de Santo Andre atualizado em 05/05/2026 confirma operacao diaria, cozinha serrana, venda da tradicional cachaca de cambuci, endereco, telefones, site e email empresarial publicados.",
+    "verifiedAt": "2026-09-01",
+    "emailVerified": true,
+    "emailVerifiedAt": "2026-09-01",
+    "mxVerified": true,
+    "mxVerifiedAt": "2026-09-01",
+    "emailDomainMxVerified": true,
+    "status": "contacted",
+    "template": "consultivo",
+    "email1": true,
+    "date1": "2026-09-01"
+  },
+  {
+    "name": "Varanda do Cambuci",
+    "email": "silvanaemoretti@gmail.com",
+    "type": "produtor_varejista_cachacas_licores_artesanais",
+    "neighborhood": "Paranapiacaba",
+    "city": "Santo Andre",
+    "website": "",
+    "source": "https://web.santoandre.sp.gov.br/guia-de-servicos",
+    "context": "Guia oficial da Prefeitura de Santo Andre atualizado em 05/05/2026 confirma operacao de terca a domingo, producao e venda de cachacas e licores artesanais de cambuci, endereco, telefone e email empresarial publicados.",
+    "verifiedAt": "2026-08-26",
+    "emailDomainMxVerified": true,
+    "status": "qualified_pending_import",
+    "template": "prova_social"
+  },
+  {
+    "name": "Restaurante Confraria do Cambuci",
+    "email": "adalbertonazario35@yahoo.com.br",
+    "type": "restaurante_bebidas_cambuci",
+    "neighborhood": "Paranapiacaba",
+    "city": "Santo Andre",
+    "website": "",
+    "source": "https://web.santoandre.sp.gov.br/guia-de-servicos",
+    "context": "Guia oficial da Prefeitura de Santo Andre atualizado em 05/05/2026 confirma restaurante ativo aos fins de semana e feriados, com pratos e bebidas a base de cambuci, agendamento durante a semana, telefone e email empresarial publicados.",
+    "verifiedAt": "2026-08-26",
+    "emailDomainMxVerified": true,
+    "status": "qualified_pending_import",
+    "template": "prova_social"
+  },
+  {
+    "name": "Casa Pires Emporio",
+    "email": "casapires939@gmail.com",
+    "type": "loja_bebidas",
+    "neighborhood": "Jardim Guanabara",
+    "city": "Campinas",
+    "website": "https://casapiresemporio.com.br/",
+    "source": "https://casapiresemporio.com.br/",
+    "context": "Site oficial ativo em agosto de 2026 confirma emporio em Campinas desde 2018, aberto de segunda a sabado, com adega, destilados, cachacas, cervejas, eventos e degustacoes, alem de email e WhatsApp empresariais publicados. Fato: varejo ativo com cachacas e eventos. Inferencia: potencial de recompra e degustacao da linha Pindorama.",
+    "emailVerified": true,
+    "emailSource": "https://casapiresemporio.com.br/",
+    "emailVerifiedAt": "2026-08-27",
+    "verifiedAt": "2026-08-27",
+    "status": "qualified_pending_import",
+    "template": "prova_social",
+    "email1": true,
+    "date1": "2026-08-28",
+    "email2": true,
+    "date2": "2026-08-30",
+    "bounced": true,
+    "bounceDate": "2026-08-30",
+    "bounceReason": "550 5.1.1 Gmail account does not exist",
+    "suppressed": true,
+    "automationIncident": "Email2 foi enviado em 2026-08-30 apos o bounce permanente de 2026-08-28; bloquear novos envios.",
+    "doNotContact": true
+  },
+  {
+    "name": "Emporio Dois Irmaos",
+    "email": "emporiodoisirmaos1@gmail.com",
+    "phone": "(11) 4033-2261",
+    "type": "emporio_bebidas_cachaca",
+    "city": "Braganca Paulista",
+    "address": "Mercado Municipal, Travessa Taboao, 100 - Braganca Paulista/SP",
+    "website": "",
+    "source": "https://www.brasilchik.com/onde-encontrar",
+    "context": "Pagina oficial de pontos de venda da Cachaca Brasilchik consultada em 30/08/2026 publica o Emporio Dois Irmaos no Mercado Municipal de Braganca Paulista, com telefone e email empresariais. Fato: ponto de venda atual de cachaca e canal empresarial explicitamente publicado. Inferencia: perfil aderente para avaliar inclusao da Pindorama no mix e recompra pelo varejo especializado.",
+    "emailVerified": true,
+    "emailSource": "https://www.brasilchik.com/onde-encontrar",
+    "emailVerifiedAt": "2026-08-30",
+    "mxVerified": true,
+    "mxVerifiedAt": "2026-08-30",
+    "verifiedAt": "2026-08-30",
+    "status": "contacted",
+    "template": "consultivo",
+    "email1": true,
+    "date1": "2026-08-30",
+    "messageId1": "<83da720e-da3c-1ffd-ce76-6e265d1c7bf4@gmail.com>",
+    "email2": true,
+    "date2": "2026-09-01"
+  },
+  {
+    "name": "Fort Bebidas",
+    "email": "fortbebidaloja1@gmail.com",
+    "phone": "(11) 93299-4843",
+    "type": "loja_distribuidora_bebidas_destilados",
+    "city": "Braganca Paulista",
+    "address": "Avenida Oito de Maio, 885 - Aguas Claras - Braganca Paulista/SP",
+    "website": "https://fortbebidas.com.br/",
+    "source": "https://fortbebidas.com.br/sobre-nos/",
+    "context": "Site oficial consultado em 30/08/2026 publica atuacao no ramo de bebidas desde 1997, duas lojas em Braganca Paulista, funcionamento diario, WhatsApp empresarial e portfolio com cervejas, destilados e outras bebidas; pagina atual de pontos de venda da Brasilchik confirma a Fort Bebidas como varejista de cachaca. Fato: operacao ativa recente, multiplas unidades, destilados e cachaca vendidos e canal empresarial explicitamente publicado. Inferencia: perfil prioritario com potencial de incluir a Pindorama no mix e gerar recompra pelo varejo multiloja.",
+    "emailVerified": true,
+    "emailSource": "https://www.brasilchik.com/onde-encontrar",
+    "emailVerifiedAt": "2026-08-30",
+    "mxVerified": true,
+    "mxVerifiedAt": "2026-08-30",
+    "verifiedAt": "2026-08-30",
+    "status": "contacted",
+    "template": "consultivo",
+    "email1": true,
+    "date1": "2026-08-30",
+    "messageId1": "<258a5cae-fb4c-63c4-53e2-94788bd43ca8@gmail.com>",
+    "bounced": true,
+    "bounceDate": "2026-08-30",
+    "bounceReason": "550 5.1.1 Gmail account does not exist",
+    "suppressed": true,
+    "doNotContact": true
+  },
+  {
+    "name": "Rancho Urbano",
+    "email": "contato@ranchourbano.com.br",
+    "phone": "(11) 95083-8836",
+    "type": "emporio_bar_cachacas_destilados",
+    "city": "Sao Paulo",
+    "neighborhood": "Tatuape",
+    "address": "Rua Azevedo Soares, 604 - Vila Gomes Cardim - Sao Paulo/SP - 03322-000",
+    "website": "https://www.ranchourbano.com.br/",
+    "source": "https://www.ranchourbano.com.br/",
+    "context": "Site oficial consultado em 30/08/2026 confirma emporio-bar ativo no Tatuape, com 12 torneiras de chope, cervejas artesanais, cachacas de alambique, vinhos, drinks, pratos e telefone, WhatsApp e email empresariais publicados. Fato: operacao ativa recente, cachacas e bebidas premium vendidas, coquetelaria, publico presencial e canais empresariais explicitamente publicados. Inferencia: encaixe forte para testar a Pindorama no mix, em doses ou drinks, com potencial de recompra pelo giro do bar e emporio.",
+    "emailVerified": true,
+    "emailSource": "https://www.ranchourbano.com.br/",
+    "emailVerifiedAt": "2026-08-30",
+    "mxVerified": true,
+    "mxVerifiedAt": "2026-08-30",
+    "verifiedAt": "2026-08-30",
+    "status": "contacted",
+    "template": "consultivo",
+    "email1": true,
+    "date1": "2026-08-30",
+    "messageId1": "<a5a2c3f5-3ec5-3c8c-0f87-2de0ec46b5d2@gmail.com>",
+    "email2": true,
+    "date2": "2026-09-01"
+  },
+  {
+    "name": "Espaco Refugio",
+    "email": "contato@espacorefugio.com.br",
+    "phone": "(11) 99175-6000",
+    "type": "bar_restaurante_cachacas_caipirinhas",
+    "city": "Sao Paulo",
+    "neighborhood": "Belenzinho",
+    "address": "Rua Julio de Castilhos, 412 - Belenzinho - Sao Paulo/SP",
+    "website": "https://espacorefugio.com.br/",
+    "source": "https://espacorefugio.com.br/cardapio/",
+    "context": "Cardapio oficial consultado em 30/08/2026 confirma casa de samba e gastronomia brasileira no Belenzinho, com caipirinhas preparadas com cachacas especiais, carta de cachacas artesanais, vinhos, pratos e porcoes; o site publica telefone e email empresariais para contato e reservas. Fato: operacao ativa, cachaca e coquetelaria no cardapio, publico presencial e canais empresariais publicados. Inferencia: encaixe forte para testar a Pindorama em caipirinhas, doses ou degustacao e gerar recompra pelo movimento da casa.",
+    "emailVerified": true,
+    "emailSource": "https://espacorefugio.com.br/cardapio/",
+    "emailVerifiedAt": "2026-08-30",
+    "mxVerified": true,
+    "mxVerifiedAt": "2026-08-30",
+    "verifiedAt": "2026-08-30",
+    "status": "contacted",
+    "template": "consultivo",
+    "email1": true,
+    "date1": "2026-08-30",
+    "messageId1": "<0f225a92-eab4-615a-1293-779aecf97b6c@gmail.com>",
+    "email2": true,
+    "date2": "2026-09-01"
+  },
+  {
+    "name": "Cesta Premium",
+    "email": "contato@cestapremium.com.br",
+    "phone": "(11) 94551-8264",
+    "type": "kits_presentes_corporativos_bebidas",
+    "city": "Sao Paulo",
+    "neighborhood": "Agua Rasa",
+    "address": "Rua Itamaraca, 80 - Agua Rasa - Sao Paulo/SP",
+    "website": "https://cestapremium.com.br/",
+    "source": "https://cestapremium.com.br/",
+    "context": "Site oficial consultado em 30/08/2026 confirma empresa ativa desde 1994, especializada em cestas, presentes e kits corporativos com entrega nacional; o catalogo atual vende kits com cachaca, whisky, vinho e espumante e publica WhatsApp e email empresariais. Fato: operacao ativa recente, bebidas e cachaca em kits, vendas corporativas, entrega nacional e canais empresariais publicados. Inferencia: uso plausivel da Pindorama em kits premium e presentes corporativos, com potencial de recompra sazonal e por campanhas empresariais.",
+    "emailVerified": true,
+    "emailSource": "https://cestapremium.com.br/",
+    "emailVerifiedAt": "2026-08-30",
+    "mxVerified": true,
+    "mxVerifiedAt": "2026-08-30",
+    "verifiedAt": "2026-08-30",
+    "status": "contacted",
+    "template": "consultivo",
+    "email1": true,
+    "date1": "2026-08-30",
+    "messageId1": "<bd7218c0-4935-cf3d-7474-1457138c9fdb@gmail.com>"
+  },
+  {
+    "name": "Adega Sky Blue",
+    "phone": "(11) 95466-2782",
+    "type": "adega_loja_bebidas_cachacas",
+    "city": "Sao Paulo",
+    "neighborhood": "Lajeado",
+    "address": "Rua Luis Alvares de Espinha, 19 - Lajeado - Sao Paulo/SP",
+    "website": "https://www.starfood.com.br/adegaskyblue",
+    "source": "https://www.starfood.com.br/adegaskyblue",
+    "context": "Cardapio empresarial online consultado em 30/08/2026 confirma adega ativa em Lajeado, Sao Paulo, com categorias de cachacas, whisky, vodka, gin, rum, tequila, vinhos, espumantes, cervejas e canal de WhatsApp publicado. Fato: operacao recente, varejo de bebidas com cachacas e destilados, endereco e WhatsApp empresariais explicitamente publicados. Inferencia: encaixe direto para testar a Pindorama no mix da adega, com potencial de recompra pelo giro de delivery e loja.",
+    "phoneVerified": true,
+    "phoneSource": "https://www.starfood.com.br/adegaskyblue",
+    "phoneVerifiedAt": "2026-08-30",
+    "verifiedAt": "2026-08-30",
+    "status": "contacted",
+    "whatsappSent": true,
+    "whatsappDate": "2026-09-02",
+    "whatsappProof": "Mensagem exibida no historico do WhatsApp Web apos o envio as 11:29"
+  },
+  {
+    "name": "Germania Freguesia",
+    "phone": "(11) 99389-8691",
+    "type": "loja_bebidas_chopp_cachacas_eventos",
+    "city": "Sao Paulo",
+    "neighborhood": "Vila Albertina",
+    "address": "Rua Bonifacio Cubas, 278 - Vila Albertina - Sao Paulo/SP",
+    "website": "https://germaniafreguesia.com.br/",
+    "source": "https://germaniafreguesia.com.br/",
+    "context": "Site oficial consultado em 30/08/2026 confirma loja ativa e ponto de consumo na Freguesia do O, com chopes, cervejas artesanais, vinhos, cachacas, queijos, delivery, espaco para eventos e WhatsApp empresarial publicado. Fato: operacao ativa recente, venda de cachacas e bebidas, delivery, eventos e canal empresarial explicitamente publicado. Inferencia: encaixe plausivel para a Pindorama em varejo, consumo no local e eventos, com potencial de recompra pelo giro desses tres usos.",
+    "phoneVerified": true,
+    "phoneSource": "https://germaniafreguesia.com.br/",
+    "phoneVerifiedAt": "2026-08-30",
+    "verifiedAt": "2026-08-30",
+    "status": "contacted",
+    "whatsappSent": true,
+    "whatsappDate": "2026-09-02",
+    "whatsappProof": "Mensagem exibida no historico do WhatsApp Web apos o envio as 11:33; resposta automatica recebida"
+  },
+  {
+    "name": "Adega Bolinha",
+    "phone": "(11) 98950-9911",
+    "type": "adega_cachacas_artesanais_destilados",
+    "city": "Sao Paulo",
+    "neighborhood": "Vila Progredior",
+    "address": "Rua dos Tres Irmaos, 446 - Vila Progredior - Sao Paulo/SP - 05615-190",
+    "website": "https://www.guedalamais.com.br/card/adega-bolinha",
+    "source": "https://www.guedalamais.com.br/card/adega-bolinha",
+    "context": "Pagina empresarial local consultada em 30/08/2026 confirma adega ativa ha mais de 40 anos no Jardim Guedala, com selecao de cachacas artesanais premiadas, cervejas especiais, vinhos, destilados, entrega e WhatsApp publicado. Fato: operacao ativa, venda explicita de cachacas artesanais e destilados, horario, endereco e canal empresarial publicados. Inferencia: encaixe forte para introduzir a Pindorama no mix de cachacas e gerar recompra pela clientela recorrente da adega.",
+    "phoneVerified": true,
+    "phoneSource": "https://www.guedalamais.com.br/card/adega-bolinha",
+    "phoneVerifiedAt": "2026-08-30",
+    "verifiedAt": "2026-08-30",
+    "status": "contacted",
+    "whatsappSent": true,
+    "whatsappDate": "2026-09-02",
+    "whatsappProof": "Mensagem exibida no historico do WhatsApp Web apos o envio as 11:33"
+  },
+  {
+    "name": "S7 Adega e Tabacaria",
+    "bouncedEmail": "leonardoppedrosa@icloud.com",
+    "phone": "(11) 91258-6195",
+    "type": "adega_tabacaria_cachacas_destilados",
+    "city": "Guarulhos",
+    "neighborhood": "Cidade Tupinamba",
+    "address": "Estrada do Sacramento, 1059 - Cidade Tupinamba - Guarulhos/SP",
+    "website": "https://meucomercio.com.br/S7adega/product/cachaca-pitu-garrafa/115",
+    "source": "https://meucomercio.com.br/S7adega/product/cachaca-pitu-garrafa/115",
+    "context": "Pagina comercial consultada em 30/08/2026 confirma a S7 Adega e Tabacaria em Guarulhos, com catalogo ativo de cachacas e outras bebidas, proposta de doses e variedade, endereco, Instagram, WhatsApp e email publicados. Fato: operacao ativa recente, venda explicita de cachaca, ponto fisico e canais empresariais publicados. Inferencia: encaixe direto para testar a Pindorama no mix de garrafas ou doses e gerar recompra pelo giro da adega.",
+    "emailVerified": false,
+    "emailSource": "https://meucomercio.com.br/S7adega/product/cachaca-pitu-garrafa/115",
+    "emailVerifiedAt": "2026-08-30",
+    "mxVerified": true,
+    "mxVerifiedAt": "2026-08-30",
+    "phoneVerified": true,
+    "phoneSource": "https://meucomercio.com.br/S7adega/product/cachaca-pitu-garrafa/115",
+    "phoneVerifiedAt": "2026-08-30",
+    "verifiedAt": "2026-08-30",
+    "status": "contacted",
+    "template": "pergunta",
+    "email1": true,
+    "date1": "2026-08-30",
+    "messageId1": "<e89bc1c8-5ce0-ae76-bc8c-ccddee9a65c0@gmail.com>",
+    "emailBounce": true,
+    "emailBounceAt": "2026-08-30",
+    "emailBounceReason": "552 5.2.2 user is over quota",
+    "doNotContactEmail": true
+  },
+  {
+    "name": "Curia Brasil Distribuidora",
+    "phone": "(11) 91020-8968",
+    "type": "distribuidora_destilaria_cachacas_artesanais",
+    "city": "Sao Paulo",
+    "neighborhood": "Pinheiros",
+    "address": "Rua Mateus Grou, 92 - Pinheiros - Sao Paulo/SP - 05415-040",
+    "website": "https://mapadacachaca.com.br/fornecedor/curia-brasil-distribuidora/",
+    "source": "https://mapadacachaca.com.br/fornecedor/curia-brasil-distribuidora/",
+    "context": "Perfil setorial atualizado consultado em 30/08/2026 confirma a Curia Brasil como destilaria e distribuidora ativa em Sao Paulo, com distribuidora propria, portfolio de diversas marcas, cachacas artesanais produzidas em Pirassununga e WhatsApp empresarial publicado. Fato: operacao ativa recente, distribuicao de bebidas, presenca explicita de cachacas artesanais, endereco e canal empresarial publicados. Inferencia: encaixe forte para avaliar a Pindorama como marca complementar no portfolio nacional em expansao e ampliar capilaridade em bares, restaurantes e varejo.",
+    "phoneVerified": true,
+    "phoneSource": "https://mapadacachaca.com.br/fornecedor/curia-brasil-distribuidora/",
+    "phoneVerifiedAt": "2026-08-30",
+    "verifiedAt": "2026-08-30",
+    "status": "contacted",
+    "whatsappSent": true,
+    "whatsappDate": "2026-09-01",
+    "whatsappProof": "Mensagem exibida no historico do WhatsApp Web apos o envio"
+  },
+  {
+    "name": "Gogo da Ema",
+    "phone": "(11) 97969-5940",
+    "type": "bar_restaurante_cachacas_artesanais",
+    "city": "Sao Paulo",
+    "neighborhood": "Morumbi",
+    "address": "Rua Amelia Correa Fontes Guimaraes, 98 - Morumbi - Sao Paulo/SP",
+    "website": "https://www.guedalamais.com.br/card/gog%C3%B3-da-ema",
+    "source": "https://www.guedalamais.com.br/card/gog%C3%B3-da-ema",
+    "context": "Pagina empresarial local consultada em 30/08/2026 confirma bar e restaurante ativo no Jardim Guedala, com mais de cem rotulos de cachacas artesanais, drinks, petiscos, horario recente, endereco e WhatsApp empresarial publicado. Fato: operacao ativa, carta extensa de cachacas artesanais, consumo no local e canal empresarial explicito. Inferencia: encaixe muito forte para degustacao da Pindorama, inclusao por dose ou garrafa e recompra pelo giro de uma casa especializada.",
+    "phoneVerified": true,
+    "phoneSource": "https://wa.me/5511979695940",
+    "phoneVerifiedAt": "2026-08-30",
+    "verifiedAt": "2026-08-30",
+    "status": "contacted",
+    "whatsappSent": true,
+    "whatsappDate": "2026-09-01",
+    "whatsappProof": "Mensagem exibida no historico do WhatsApp Web apos o envio"
+  },
+  {
+    "name": "Casa Zilanna Mercearia Idish",
+    "phone": "(11) 97622-2768",
+    "type": "emporio_mercearia_cachacas_artesanais",
+    "city": "Sao Paulo",
+    "neighborhood": "Higienopolis",
+    "address": "Rua Itambe, 506 - Higienopolis - Sao Paulo/SP - 01239-001",
+    "website": "https://mapadacachaca.com.br/lugares/casa-zilanna/",
+    "source": "https://www.brasilchik.com/onde-encontrar",
+    "context": "Fontes comerciais consultadas em 30/08/2026 confirmam a Casa Zilanna como mercearia e emporio ativo em Higienopolis, com selecao de cachaças artesanais, vinhos, alimentos especiais, atendimento local e WhatsApp empresarial publicado. Fato: operacao ativa, venda explicita de cachacas, ponto fisico e canal empresarial publicado pelo produtor Brasilchik. Inferencia: encaixe plausivel para a Pindorama como item premium complementar e recompra associada ao giro de presentes, alimentos artesanais e bebidas selecionadas.",
+    "phoneVerified": true,
+    "phoneSource": "https://www.brasilchik.com/onde-encontrar",
+    "phoneVerifiedAt": "2026-08-30",
+    "verifiedAt": "2026-08-30",
+    "status": "contacted",
+    "whatsappSent": true,
+    "whatsappDate": "2026-09-02",
+    "whatsappProof": "Mensagem exibida no historico do WhatsApp Web apos o envio; resposta recebida as 11:35"
+  },
+  {
+    "name": "Adega Caldeira Drink's e Tabacaria",
+    "phone": "(11) 98247-4637",
+    "type": "adega_delivery_cachacas_destilados",
+    "city": "Braganca Paulista",
+    "neighborhood": "Cidade Planejada II",
+    "address": "Rua Pedro Bruno, 160 - Cidade Planejada II - Braganca Paulista/SP",
+    "website": "https://adegacaldeira.comercioregional.com.br/bebidas-caldeira/",
+    "source": "https://adegacaldeira.comercioregional.com.br/bebidas-caldeira/",
+    "context": "Pagina comercial atualizada consultada em 30/08/2026 confirma adega ativa em Braganca Paulista, com venda e delivery proprio de cervejas, gin, whisky, vodka, cachaca e outros destilados, alem de WhatsApp empresarial publicado. Fato: operacao ativa recente, venda explicita de cachaca, delivery, ponto fisico e canal empresarial publicados. Inferencia: encaixe direto para testar a Pindorama no mix de garrafas e doses, com potencial de recompra pelo giro do delivery e do balcao.",
+    "phoneVerified": true,
+    "phoneSource": "https://adegacaldeira.comercioregional.com.br/bebidas-caldeira/",
+    "phoneVerifiedAt": "2026-08-30",
+    "verifiedAt": "2026-08-30",
+    "status": "uncontacted"
+  },
+  {
+    "name": "Emporio Paulista Produtos Artesanais",
+    "email": "emporiopaulista@yahoo.com",
+    "phone": "(19) 98611-2823",
+    "type": "emporio_online_cachacas_produtos_artesanais",
+    "city": "Serra Negra",
+    "website": "https://www.emporiopaulista.com.br/",
+    "source": "https://www.emporiopaulista.com.br/",
+    "context": "Loja oficial consultada em 30/08/2026 confirma e-commerce ativo em 2026 voltado a produtos artesanais de Serra Negra, com categoria propria de cachacas, kits premium, varios rotulos com preco e compra online, alem de WhatsApp empresarial publicado. Fato: operacao ativa recente, venda explicita de cachacas e kits, e-commerce transacional e canal empresarial publicado. Inferencia: encaixe forte para avaliar a Pindorama como novo rotulo artesanal e item de kit, com recompra apoiada pelo alcance online.",
+    "emailVerified": true,
+    "emailSource": "https://www.emporiopaulista.com.br/",
+    "emailVerifiedAt": "2026-08-30",
+    "mxVerified": true,
+    "mxVerifiedAt": "2026-08-30",
+    "phoneVerified": true,
+    "phoneSource": "https://www.emporiopaulista.com.br/",
+    "phoneVerifiedAt": "2026-08-30",
+    "verifiedAt": "2026-08-30",
+    "status": "contacted",
+    "email1": true,
+    "date1": "2026-08-30",
+    "messageId1": "<70249499-d166-e4bd-ebcf-79fb0f6a4410@gmail.com>",
+    "email2": true,
+    "date2": "2026-09-01"
+  },
+  {
+    "name": "Emporio Pirana",
+    "email": "contato@emporiopirana.com.br",
+    "phone": "(11) 4531-8500",
+    "type": "emporio_adega_cachacas_premium",
+    "city": "Jundiai",
+    "neighborhood": "Moises",
+    "address": "Avenida Comendador Gumercindo Barranqueiros, 1252 - Moises - Jundiai/SP - 13211-410",
+    "website": "https://www.emporiopirana.com.br/",
+    "source": "https://mapadacachaca.com.br/lugares/emporio-pirana/",
+    "context": "Fontes comerciais atuais consultadas em 30/08/2026 confirmam o Emporio Pirana ativo em Jundiai desde 2002, com app atualizado em julho de 2026, alta gastronomia, vinhos finos, queijos, carnes nobres e selecao especial de cachacas premium, incluindo quatro rotulos Brasilchik com precos publicados. Fato: operacao ativa recente, venda explicita de cachacas premium, ponto fisico e email empresarial publicado pelo produtor. Inferencia: encaixe forte para avaliar a Pindorama como rotulo premium complementar e gerar recompra junto ao mix gastronomico e de presentes.",
+    "emailVerified": true,
+    "emailSource": "https://www.brasilchik.com/onde-encontrar",
+    "emailVerifiedAt": "2026-08-30",
+    "mxVerified": true,
+    "mxVerifiedAt": "2026-08-30",
+    "phoneVerified": true,
+    "phoneSource": "https://www.brasilchik.com/onde-encontrar",
+    "phoneVerifiedAt": "2026-08-30",
+    "verifiedAt": "2026-08-30",
+    "status": "contacted",
+    "email1": true,
+    "date1": "2026-08-30",
+    "messageId1": "<6b620d6b-d50a-cce5-586f-1443c76b957d@gmail.com>",
+    "email2": true,
+    "date2": "2026-09-01"
+  },
+  {
+    "name": "Emporio Incasa",
+    "email": "vendasemporio@terra.com.br",
+    "phone": "(11) 94734-4828",
+    "type": "distribuidora_emporio_cachacas_bebidas",
+    "city": "Jundiai",
+    "neighborhood": "Vila Santa Maria",
+    "address": "Rua Romao Alves Nogueira, 195 - Vila Santa Maria - Jundiai/SP - 13203-260",
+    "website": "https://www.emporioincasa.com.br/",
+    "source": "https://www.emporioincasa.com.br/",
+    "context": "Site oficial consultado em 30/08/2026 confirma e-commerce ativo em Jundiai, distribuidor de bebidas ha 28 anos, com varejo online e categoria de 53 cachacas, 45 delas com disponibilidade imediata, alem de precos, telefone e email empresarial publicados. Fato: operacao ativa recente, atacado e varejo, portfolio amplo de cachacas, estoque imediato e canal empresarial oficial. Inferencia: encaixe muito forte para apresentar a Pindorama como novo rotulo no portfolio e gerar recompra pelos canais de distribuicao e e-commerce.",
+    "emailVerified": true,
+    "emailSource": "https://www.emporioincasa.com.br/",
+    "emailVerifiedAt": "2026-08-30",
+    "mxVerified": true,
+    "mxVerifiedAt": "2026-08-30",
+    "phoneVerified": true,
+    "phoneSource": "https://www.emporioincasa.com.br/",
+    "phoneVerifiedAt": "2026-08-30",
+    "verifiedAt": "2026-08-30",
+    "status": "contacted",
+    "email1": true,
+    "date1": "2026-08-30",
+    "messageId1": "<4f66761f-021b-99a7-ff4a-1e9c662c7d83@gmail.com>",
+    "email2": true,
+    "date2": "2026-09-01"
+  },
+  {
+    "name": "Emporio Bella Mattina",
+    "email": "cafebellamattina@gmail.com",
+    "phone": "(11) 98915-8299",
+    "type": "emporio_produtos_artesanais_cachacas",
+    "city": "Jundiai",
+    "neighborhood": "Traviu",
+    "address": "Rua Roberto Carbonari, 135 - Traviu - Jundiai/SP - 13213-256",
+    "website": "https://turismo.jundiai.sp.gov.br/atrativos/lojas-especiais/sitio-bella-vista-emporio-de-produtos-artesanais/",
+    "source": "https://turismo.jundiai.sp.gov.br/atrativos/lojas-especiais/sitio-bella-vista-emporio-de-produtos-artesanais/",
+    "context": "Portal oficial de Turismo de Jundiai e cadastro ativo consultados em 30/08/2026 confirmam emporio de produtos artesanais em operacao no bairro Traviu, com vinhos, sucos, licores, cachacas, massas artesanais e WhatsApp e email empresariais publicados. Fato: operacao ativa recente, venda explicita de cachacas e produtos regionais, ponto fisico e canais empresariais verificados. Inferencia: encaixe plausivel para a Pindorama como produto regional premium e item de presente, com recompra apoiada pelo fluxo de turismo rural e pelo emporio.",
+    "emailVerified": true,
+    "emailSource": "https://turismo.jundiai.sp.gov.br/atrativos/lojas-especiais/sitio-bella-vista-emporio-de-produtos-artesanais/",
+    "emailVerifiedAt": "2026-08-30",
+    "mxVerified": true,
+    "mxVerifiedAt": "2026-08-30",
+    "phoneVerified": true,
+    "phoneSource": "https://turismo.jundiai.sp.gov.br/atrativos/lojas-especiais/sitio-bella-vista-emporio-de-produtos-artesanais/",
+    "phoneVerifiedAt": "2026-08-30",
+    "verifiedAt": "2026-08-30",
+    "status": "contacted",
+    "email1": true,
+    "date1": "2026-08-30",
+    "messageId1": "<04f9c75d-9914-c09a-a69c-2cbe627d4613@gmail.com>",
+    "email2": true,
+    "date2": "2026-09-01"
+  },
+  {
+    "name": "Adega do Portugues",
+    "email": "adega.portugues@terra.com.br",
+    "phone": "(11) 4584-1128",
+    "type": "adega_vinhos_licores_destilados",
+    "city": "Jundiai",
+    "neighborhood": "Ivoturucaia",
+    "address": "Av. Jose Mezzalira, 4405 - Ivoturucaia - Jundiai/SP",
+    "website": "https://turismo.jundiai.sp.gov.br/atrativos/adegas/adega-do-portugues/",
+    "source": "https://turismo.jundiai.sp.gov.br/atrativos/adegas/adega-do-portugues/",
+    "context": "Portal oficial de Turismo de Jundiai consultado em 30/08/2026 confirma a Adega do Portugues em operacao, fundada em 1965, com degustacao, fabricacao de vinhos e licores e venda explicita de destilados, alem de telefone e email empresarial publicados. Fato: operacao ativa, portfolio de bebidas com destilados, ponto fisico, degustacao e canal empresarial verificado. Inferencia: encaixe plausivel para avaliar a Pindorama como rotulo artesanal complementar e gerar recompra junto ao fluxo recorrente da adega.",
+    "emailVerified": true,
+    "emailSource": "https://turismo.jundiai.sp.gov.br/atrativos/adegas/adega-do-portugues/",
+    "emailVerifiedAt": "2026-08-30",
+    "mxVerified": true,
+    "mxVerifiedAt": "2026-08-30",
+    "phoneVerified": true,
+    "phoneSource": "https://turismo.jundiai.sp.gov.br/atrativos/adegas/adega-do-portugues/",
+    "phoneVerifiedAt": "2026-08-30",
+    "verifiedAt": "2026-08-30",
+    "status": "contacted",
+    "email1": true,
+    "date1": "2026-08-30",
+    "messageId1": "<997e3f4a-e77e-b53d-8923-71885e208cad@gmail.com>",
+    "email2": true,
+    "date2": "2026-09-01"
+  },
+  {
+    "name": "Emporio Sao Luis",
+    "email": "contato@emporiosaoluis.com.br",
+    "phone": "(11) 2219-2147",
+    "type": "emporio_bebidas_cachacas_premium",
+    "city": "Sao Paulo",
+    "neighborhood": "Mooca",
+    "address": "Avenida Paes de Barros, 2796 - Sao Paulo/SP - 03149-000",
+    "website": "https://www.emporiosaoluis.com.br/",
+    "source": "https://www.emporiosaoluis.com.br/cachacas",
+    "context": "Site oficial consultado em 30/08/2026 confirma loja fisica e e-commerce ativos em Sao Paulo, com categoria de 13 cachacas, incluindo 4 premium, varios rotulos artesanais e extra premium com precos e compra por WhatsApp, alem de cestas personalizadas e email empresarial publicado. Fato: operacao ativa recente, venda explicita de cachacas premium, loja transacional, cestas e canal empresarial verificado. Inferencia: encaixe muito forte para avaliar a Pindorama como rotulo artesanal complementar e item de presente, com potencial de recompra no varejo fisico e online.",
+    "emailVerified": true,
+    "emailSource": "https://www.emporiosaoluis.com.br/contato",
+    "emailVerifiedAt": "2026-08-30",
+    "mxVerified": true,
+    "mxVerifiedAt": "2026-08-30",
+    "phoneVerified": true,
+    "phoneSource": "https://www.emporiosaoluis.com.br/contato",
+    "phoneVerifiedAt": "2026-08-30",
+    "verifiedAt": "2026-08-30",
+    "status": "contacted",
+    "email1": true,
+    "date1": "2026-08-30",
+    "messageId1": "<77d900e6-7810-decf-187a-855e7d310a01@gmail.com>",
+    "email2": true,
+    "date2": "2026-09-01"
+  },
+  {
+    "name": "Schneider Bebidas",
+    "email": "comercial@schneiderbebidas.com.br",
+    "phone": "(19) 98430-0102",
+    "type": "emporio_bebidas_destilados",
+    "city": "Campinas",
+    "neighborhood": "Sousas",
+    "address": "Av. Dr. Antonio Carlos Couto de Barros, 2171 - Jardim Conceicao, Sousas - Campinas/SP",
+    "website": "https://schneiderbebidas.com.br/",
+    "source": "https://schneiderbebidas.com.br/",
+    "context": "Site oficial consultado em 30/08/2026 confirma emporio de bebidas ativo em Sousas, Campinas, com cervejas premium, vinhos, destilados e venda explicita de cachacas 51 e Ypioca, alem de retirada na loja, WhatsApp e email comercial publicados. Fato: operacao ativa recente, venda de cachacas e destilados, ponto fisico e canais empresariais verificados. Inferencia: encaixe plausivel para ampliar o mix com uma cachaca artesanal premium e gerar recompra junto ao varejo recorrente de bebidas.",
+    "emailVerified": true,
+    "emailSource": "https://schneiderbebidas.com.br/",
+    "emailVerifiedAt": "2026-08-30",
+    "mxVerified": true,
+    "mxVerifiedAt": "2026-08-30",
+    "phoneVerified": true,
+    "phoneSource": "https://schneiderbebidas.com.br/",
+    "phoneVerifiedAt": "2026-08-27",
+    "verifiedAt": "2026-08-30",
+    "status": "contacted",
+    "email1": true,
+    "date1": "2026-08-30",
+    "messageId1": "<9460993f-ee93-24b1-5034-c0867eb8318c@gmail.com>",
+    "email2": true,
+    "date2": "2026-09-01"
+  },
+  {
+    "name": "Adega Caca",
+    "email": "contato@adegacaca.com.br",
+    "phone": "(16) 99051-0533",
+    "type": "adega_online_cachacas_premium",
+    "city": "Franca",
+    "neighborhood": "Jardim California",
+    "address": "Rua Alberto de Azevedo, 273 - Jardim California - Franca/SP - 14405-281",
+    "website": "https://www.adegacaca.com.br/",
+    "source": "https://www.adegacaca.com.br/cachacas/cachaca-premium-30-luas-500ml-p",
+    "context": "Site oficial consultado em 30/08/2026 confirma adega fisica e e-commerce ativos em Franca, com categoria de cachacas e estoque publicado de rotulos premium e extra premium, incluindo Weber Haus e Dom Tapparo, precos, compra online, WhatsApp e email empresarial. Fato: operacao ativa recente, venda explicita de cachacas premium com estoque, loja transacional e canais empresariais verificados. Inferencia: encaixe muito forte para avaliar a Pindorama como novo rotulo artesanal e gerar recompra no varejo fisico e online.",
+    "emailVerified": true,
+    "emailSource": "https://www.adegacaca.com.br/",
+    "emailVerifiedAt": "2026-08-30",
+    "mxVerified": true,
+    "mxVerifiedAt": "2026-08-30",
+    "phoneVerified": true,
+    "phoneSource": "https://www.adegacaca.com.br/",
+    "phoneVerifiedAt": "2026-08-30",
+    "verifiedAt": "2026-08-30",
+    "status": "contacted",
+    "email1": true,
+    "date1": "2026-08-30",
+    "messageId1": "<9dabc452-f303-ddbb-81d4-79496f8f4395@gmail.com>",
+    "email2": true,
+    "date2": "2026-09-01"
+  },
+  {
+    "name": "Don Fernandes",
+    "email": "cachacadonfernandes@gmail.com",
+    "phone": "(11) 97837-2275",
+    "type": "loja_online_cachacas_premium",
+    "city": "Sao Paulo",
+    "website": "https://www.cachacadonfernandes.com.br/",
+    "source": "https://www.cachacadonfernandes.com.br/",
+    "context": "Site oficial consultado em 30/08/2026 confirma loja online especializada em cachacas de alambique premium, kits para presente e acessorios, com entrega nacional, empresa verificada pelo Procon SP, WhatsApp e email empresarial publicados. Fato: operacao ativa recente, venda explicita de cachacas premium e kits, e-commerce transacional e canais empresariais verificados. Inferencia: encaixe muito forte para avaliar a Pindorama como novo rotulo artesanal e item de presente, com potencial de recompra apoiado pelo alcance nacional.",
+    "emailVerified": true,
+    "emailSource": "https://www.cachacadonfernandes.com.br/",
+    "emailVerifiedAt": "2026-08-30",
+    "mxVerified": true,
+    "mxVerifiedAt": "2026-08-30",
+    "phoneVerified": true,
+    "phoneSource": "https://www.cachacadonfernandes.com.br/",
+    "phoneVerifiedAt": "2026-08-30",
+    "verifiedAt": "2026-08-30",
+    "status": "contacted",
+    "email1": true,
+    "date1": "2026-08-30",
+    "messageId1": "<5f394bf0-bc48-1782-019a-b549bdfea51f@gmail.com>",
+    "email2": true,
+    "date2": "2026-09-01"
+  },
+  {
+    "name": "Cachacas Brasileiras",
+    "email": "contato@cachacasbrasileiras.com.br",
+    "type": "loja_online_cachacas",
+    "city": "Bauru",
+    "state": "SP",
+    "website": "https://www.cachacasbrasileiras.com.br/",
+    "source": "https://www.cachacasbrasileiras.com.br/empresa",
+    "context": "Site oficial indexado e consultado em 30/08/2026 confirma empresa familiar fundada em 2018 para comercializar variadas cachacas do Brasil, com endereco em Bauru/SP, WhatsApp e email empresarial publicados. Fato: operacao especializada em cachacas, territorio valido e canal de email explicito; dominio possui MX ativo na KingHost. Inferencia: encaixe forte para avaliar a Pindorama como novo rotulo artesanal no portfolio e gerar recompra no e-commerce especializado.",
+    "emailVerified": true,
+    "emailSource": "https://www.cachacasbrasileiras.com.br/empresa",
+    "emailVerifiedAt": "2026-08-30",
+    "mxVerified": true,
+    "mxVerifiedAt": "2026-08-30",
+    "phoneVerified": false,
+    "verifiedAt": "2026-08-30",
+    "status": "contacted_out_of_territory",
+    "email1": true,
+    "date1": "2026-08-30",
+    "messageId1": "<5ac86f7b-7700-a73f-6096-6d9211adac17@gmail.com>",
+    "email2": true,
+    "date2": "2026-09-01"
+  },
+  {
+    "name": "Sabor da Fonte",
+    "email": "contato@sabordafonte.com.br",
+    "phone": "(11) 98044-8848",
+    "type": "emporio_online_produtos_artesanais_cachacas",
+    "city": "Sao Paulo",
+    "website": "https://www.sabordafonte.com.br/",
+    "source": "https://www.sabordafonte.com.br/produto/37/kit-santa-luzia",
+    "context": "Site oficial consultado em 30/08/2026 confirma loja online de produtos artesanais brasileiros, categoria de cachacas e kits de degustacao que podem reunir diferentes rotulos; avaliacoes publicadas em janeiro de 2026 comprovam operacao recente. Fato: e-commerce ativo, cachacas e kits vendidos, endereco na cidade de Sao Paulo, WhatsApp e email empresarial publicados; dominio com MX ativo. Inferencia: encaixe forte para a Pindorama como rotulo artesanal e componente de kits, com potencial de recompra no varejo online.",
+    "emailVerified": true,
+    "emailSource": "https://www.sabordafonte.com.br/marca/",
+    "emailVerifiedAt": "2026-08-30",
+    "mxVerified": true,
+    "mxVerifiedAt": "2026-08-30",
+    "phoneVerified": true,
+    "phoneSource": "https://www.sabordafonte.com.br/produto/37/kit-santa-luzia",
+    "phoneVerifiedAt": "2026-08-30",
+    "verifiedAt": "2026-08-30",
+    "status": "contacted",
+    "email1": true,
+    "date1": "2026-08-30",
+    "messageId1": "<658a5d57-6a27-71b8-b696-d90911370331@gmail.com>",
+    "email2": true,
+    "date2": "2026-09-01"
+  },
+  {
+    "name": "Bicho Bebe Bebidas",
+    "phone": "(11) 97630-1402",
+    "type": "distribuidora_delivery_cachacas_destilados",
+    "city": "Cotia",
+    "address": "Rua Joao Vitorello, 432 - Parque Alexandre - Cotia/SP",
+    "website": "https://cardapio.datacaixa.com.br/loja%3D12164",
+    "source": "https://cardapio.datacaixa.com.br/loja%3D12164",
+    "context": "Cardapio empresarial consultado em 30/08/2026 confirma distribuidora ativa em Cotia, CNPJ 33.321.232/0001-09, delivery, retirada, categorias de cachacas, destilados, drinks prontos, cervejas e vinhos, alem de WhatsApp empresarial publicado. Fato: operacao ativa recente, territorio valido, venda explicita de cachacas e canal empresarial verificado. Inferencia: encaixe direto para testar a Pindorama no mix de delivery e balcao, com potencial de recompra pelo giro recorrente de bebidas.",
+    "phoneVerified": true,
+    "phoneSource": "https://cardapio.datacaixa.com.br/loja%3D12164",
+    "phoneVerifiedAt": "2026-08-30",
+    "verifiedAt": "2026-08-30",
+    "status": "qualified_phone_only",
+    "email1": false
+  },
+  {
+    "name": "Adega Joinha",
+    "phone": "+55 11 97698-6004",
+    "type": "adega_delivery_destilados",
+    "city": "Osasco",
+    "state": "SP",
+    "address": "Avenida Sao Jose, 1108 - Osasco/SP",
+    "website": "https://adega-joinha.kyte.site/en",
+    "source": "https://adega-joinha.kyte.site/en",
+    "context": "Catalogo empresarial consultado em 30/08/2026 confirma adega ativa em Osasco, com retirada, categorias de destilados, doses, vinhos, cervejas, combos e WhatsApp empresarial publicado, alem do perfil @joinhadega. Fato: operacao ativa recente, territorio valido, mix explicito de bebidas e canal empresarial verificado. Inferencia: encaixe plausivel para testar a Pindorama no mix de destilados e doses, com potencial de recompra pelo varejo recorrente de bebidas.",
+    "phoneVerified": true,
+    "phoneSource": "https://adega-joinha.kyte.site/en",
+    "phoneVerifiedAt": "2026-08-30",
+    "verifiedAt": "2026-08-30",
+    "status": "qualified_phone_only",
+    "email1": false
+  },
+  {
+    "name": "Cantinho da Roca",
+    "phone": "+55 11 91342-6154",
+    "type": "emporio_produtos_artesanais_cachacas",
+    "city": "Itaquaquecetuba",
+    "state": "SP",
+    "address": "Rua Presidente Washington Luiz Pereira de Sousa, 378 - Itaquaquecetuba/SP",
+    "website": "https://cantinho-da-roca.kyte.site/pt-BR",
+    "source": "https://cantinho-da-roca.kyte.site/pt-BR/p/canelinha-engenho-do-salto-7891271120039/1650282954506-eTajo",
+    "context": "Catalogo empresarial consultado em 31/08/2026 confirma emporio ativo em Itaquaquecetuba, com entrega e retirada, categoria de cachacas, venda publicada de cachaca artesanal Canelinha Engenho do Salto e Cachaca de Cataia, precos e WhatsApp empresarial. Fato: operacao ativa recente, territorio valido, venda explicita de cachacas artesanais e canal empresarial verificado. Inferencia: encaixe forte para testar a Pindorama como novo rotulo artesanal, com potencial de recompra no varejo de produtos da roca.",
+    "phoneVerified": true,
+    "phoneSource": "https://cantinho-da-roca.kyte.site/pt-BR/p/canelinha-engenho-do-salto-7891271120039/1650282954506-eTajo",
+    "phoneVerifiedAt": "2026-08-31",
+    "verifiedAt": "2026-08-31",
+    "status": "qualified_phone_only",
+    "email1": false
+  },
+  {
+    "name": "Adega El Loko SBC",
+    "phone": "(11) 96342-5089",
+    "type": "adega_bar_delivery_cachaca_coquetelaria",
+    "city": "Sao Bernardo do Campo",
+    "state": "SP",
+    "neighborhood": "Jardim Independencia",
+    "address": "Avenida Moinho Fabrini, 543 - Jardim Independencia - Sao Bernardo do Campo/SP - 09861-160",
+    "website": "https://adegaelloko.com.br/",
+    "source": "https://adegaelloko.com.br/",
+    "context": "Site oficial consultado em 31/08/2026 confirma adega premium, bar e delivery ativos em Sao Bernardo do Campo, com carta de destilados, caipirinha preparada com cachaca artesanal, drinks autorais, eventos com DJs e WhatsApp empresarial publicado. Fato: operacao ativa recente no ABC, consumo local e delivery, uso explicito de cachaca artesanal em coquetelaria, eventos e canal empresarial verificado. Inferencia: encaixe forte para degustacao e teste da Pindorama na caipirinha e no mix de garrafas, com potencial de recompra pelo bar, delivery e eventos.",
+    "phoneVerified": true,
+    "phoneSource": "https://adegaelloko.com.br/",
+    "phoneVerifiedAt": "2026-08-31",
+    "verifiedAt": "2026-08-31",
+    "status": "contacted",
+    "email1": false,
+    "whatsappSent": true,
+    "whatsappDate": "2026-09-01",
+    "whatsappProof": "Mensagem exibida no historico do WhatsApp Web apos o envio"
+  },
+  {
+    "name": "Adega Boys Drinks",
+    "phone": "(11) 94951-5951",
+    "type": "adega_delivery_cachacas_aperitivos",
+    "city": "Diadema",
+    "state": "SP",
+    "address": "Avenida Sete de Setembro, 1134 - Diadema/SP",
+    "website": "https://adegaboysdrinks.alfalabs.com.br/",
+    "source": "https://adegaboysdrinks.alfalabs.com.br/",
+    "context": "Cardapio empresarial consultado em 31/08/2026 confirma adega ativa em Diadema, com delivery e balcao, categoria explicita de cachacas e aperitivos, horarios publicados de terca a domingo, perfil @boysdrinksbebidas e telefone empresarial para mensagens. Fato: operacao ativa recente no ABC, venda explicita de cachacas, delivery, retirada e canal empresarial verificado. Inferencia: encaixe direto para testar a Pindorama no mix de cachacas e aperitivos, com potencial de recompra pelo giro de delivery e balcao.",
+    "phoneVerified": true,
+    "phoneSource": "https://adegaboysdrinks.alfalabs.com.br/",
+    "phoneVerifiedAt": "2026-08-31",
+    "verifiedAt": "2026-08-31",
+    "status": "qualified_phone_only",
+    "email1": false
+  },
+  {
+    "name": "Adega Thiga's",
+    "type": "adega_delivery_cachacas_destilados",
+    "city": "Caieiras",
+    "state": "SP",
+    "neighborhood": "Laranjeiras",
+    "address": "Avenida Pauliceia, 610 - Laranjeiras - Caieiras/SP - 07739-050",
+    "website": "https://deliverydireto.com.br/thiagogarciadossantos/adegathigas",
+    "source": "https://deliverydireto.com.br/thiagogarciadossantos/adegathigas",
+    "context": "Cardapio oficial consultado em 31/08/2026 confirma adega ativa em Caieiras, aberta ate 23h59, com entrega, retirada, checkout transacional e categoria de cachacas com produtos e precos publicados, alem de vinhos, espumantes e outros destilados. Fato: operacao ativa recente, territorio valido, venda explicita de cachacas e canal empresarial transacional publicado. Inferencia: encaixe plausivel para testar a Pindorama como rotulo complementar no delivery, com potencial de recompra pelo giro recorrente de bebidas.",
+    "webChannelVerified": true,
+    "webChannelSource": "https://deliverydireto.com.br/thiagogarciadossantos/adegathigas",
+    "webChannelVerifiedAt": "2026-08-31",
+    "verifiedAt": "2026-08-31",
+    "status": "qualified_web_only",
+    "email1": false
+  },
+  {
+    "name": "Adega e Emporio Pipos",
+    "type": "adega_emporio_delivery_cachacas_destilados",
+    "city": "Embu das Artes",
+    "state": "SP",
+    "neighborhood": "Bosque Capuava",
+    "address": "Estrada Ponta Pora, 448 - Bosque Capuava - Embu das Artes/SP",
+    "website": "https://deliverydireto.com.br/adegaeemporiopiposltda/adegaeemporiopiposltda",
+    "source": "https://deliverydireto.com.br/adegaeemporiopiposltda/adegaeemporiopiposltda",
+    "context": "Cardapio oficial consultado em 31/08/2026 confirma adega e emporio ativos em Embu das Artes, com entrega, retirada, checkout transacional e selecao explicita de cachacas como Matuta, Cabare, Rubio artesanal, Espirito de Minas, Boazinha e Seleta. Fato: operacao ativa recente, territorio valido, variedade comprovada de cachacas e canal empresarial transacional publicado. Inferencia: encaixe forte para testar a Pindorama como novo rotulo artesanal no mix, com potencial de recompra pelo giro recorrente de delivery e varejo.",
+    "webChannelVerified": true,
+    "webChannelSource": "https://deliverydireto.com.br/adegaeemporiopiposltda/adegaeemporiopiposltda",
+    "webChannelVerifiedAt": "2026-08-31",
+    "verifiedAt": "2026-08-31",
+    "status": "qualified_web_only",
+    "email1": false
+  },
+  {
+    "name": "Adega Saidera",
+    "type": "adega_delivery_cachacas_aguardentes_destilados",
+    "city": "Santo Andre",
+    "state": "SP",
+    "address": "Avenida Valentim Magalhaes, 3380 - Santo Andre/SP",
+    "website": "https://deliverydireto.com.br/adega-saidera-sa/adega-saidera-sa",
+    "source": "https://deliverydireto.com.br/adega-saidera-sa/adega-saidera-sa",
+    "context": "Cardapio oficial consultado em 31/08/2026 confirma adega ativa em Santo Andre, com entrega, retirada, checkout transacional e categoria explicita de aguardentes e cachacas, incluindo Velho Barreiro, Ypioca, 51, Pitu, Sao Francisco e outras bebidas com precos publicados. Fato: operacao ativa recente no ABC, territorio valido, venda comprovada de cachacas e canal empresarial transacional. Inferencia: encaixe direto para testar a Pindorama como opcao artesanal de maior valor no mix, com potencial de recompra pelo giro de delivery e retirada.",
+    "webChannelVerified": true,
+    "webChannelSource": "https://deliverydireto.com.br/adega-saidera-sa/adega-saidera-sa",
+    "webChannelVerifiedAt": "2026-08-31",
+    "verifiedAt": "2026-08-31",
+    "status": "qualified_web_only",
+    "email1": false
+  },
+  {
+    "name": "Adega e Mercearia Impacto",
+    "phone": "(11) 95445-0358",
+    "type": "adega_mercearia_delivery_destilados_cachaca",
+    "city": "Osasco",
+    "state": "SP",
+    "neighborhood": "Conceicao",
+    "address": "Rua Monte das Oliveiras, 33 - Conceicao - Osasco/SP",
+    "website": "https://adegaimpacto.com.br/",
+    "source": "https://adegaimpacto.com.br/",
+    "context": "Site oficial consultado em 31/08/2026 confirma adega e mercearia ativas em Osasco, com WhatsApp empresarial, endereco publicado e mix explicito de destilados incluindo vodka, whisky, gin, cachaca, rum, tequila e licores, alem de cervejas, vinhos e itens para festas e churrascos. Fato: operacao ativa recente, territorio valido, venda comprovada de cachaca e canal empresarial verificado. Inferencia: encaixe direto para testar a Pindorama como rotulo artesanal no mix de destilados, com potencial de recompra pelo varejo recorrente e ocasioes de festas e churrascos.",
+    "phoneVerified": true,
+    "phoneSource": "https://adegaimpacto.com.br/",
+    "phoneVerifiedAt": "2026-08-31",
+    "verifiedAt": "2026-08-31",
+    "status": "qualified_phone_only",
+    "email1": false,
+    "whatsappSent": true,
+    "whatsappDate": "2026-09-04",
+    "whatsappSource": "https://adegaimpacto.com.br/"
+  },
+  {
+    "name": "Adega Delivery",
+    "phone": "(11) 98774-9030",
+    "type": "adega_delivery_24h_cachaca_destilados",
+    "city": "Sao Paulo",
+    "state": "SP",
+    "neighborhood": "Jardim Jaqueline",
+    "address": "Rua Carlantonio Carlone, 80 - Jardim Jaqueline - Sao Paulo/SP - 05529-000",
+    "website": "https://adega.delivery/",
+    "source": "https://adega.delivery/",
+    "context": "Site empresarial consultado em 31/08/2026 confirma delivery de bebidas 24 horas em Sao Paulo, com loja fisica, WhatsApp publicado, entrega em ate 40 km, aplicativo e mix explicito de destilados incluindo cachaca, whisky, vodka, gin, rum, tequila e licores. Fato: operacao ativa recente, territorio valido, venda comprovada de cachaca e canal WhatsApp empresarial. O email contato@adega.delivery esta suprimido por bounce e nao pode ser usado. Inferencia: encaixe plausivel para testar a Pindorama no mix de destilados e no delivery recorrente.",
+    "phoneVerified": true,
+    "phoneSource": "https://adega.delivery/",
+    "phoneVerifiedAt": "2026-08-31",
+    "emailSuppressed": true,
+    "suppressedEmail": "contato@adega.delivery",
+    "verifiedAt": "2026-08-31",
+    "status": "qualified_phone_only",
+    "email1": false
+  },
+  {
+    "name": "Gold Beer Adega e Tabacaria",
+    "type": "adega_delivery_cachaca_artesanal",
+    "city": "Itapecerica da Serra",
+    "state": "SP",
+    "address": "Avenida Dona Anila, 14 - Olaria - Itapecerica da Serra/SP",
+    "website": "https://www.cardapio.datacaixa.com.br/loja%3D13632",
+    "source": "https://www.cardapio.datacaixa.com.br/loja%3D13632",
+    "context": "Cardapio empresarial rastreado em 31/08/2026 confirma adega e tabacaria ativa em Itapecerica da Serra, com endereco publicado e produto explicito de cachaca mineira sabor amburana. Fato: operacao recente em territorio valido e venda comprovada de cachaca artesanal. Inferencia: forte aderencia para testar a Pindorama como novo rotulo artesanal no mix, com potencial de recompra pelo varejo e delivery.",
+    "webChannelVerified": true,
+    "webChannelSource": "https://www.cardapio.datacaixa.com.br/loja%3D13632",
+    "webChannelVerifiedAt": "2026-08-31",
+    "verifiedAt": "2026-08-31",
+    "status": "qualified_web_only",
+    "email1": false
+  },
+  {
+    "name": "Adega e Distribuidora W&A",
+    "type": "adega_distribuidora_delivery_cachaca_destilados",
+    "city": "Itaquaquecetuba",
+    "state": "SP",
+    "website": "https://starfood.com.br/adegaedistribuidorawea",
+    "source": "https://starfood.com.br/adegaedistribuidorawea",
+    "context": "Cardapio empresarial rastreado em 31/08/2026 confirma adega e distribuidora ativa em Itaquaquecetuba, com carrinho, delivery, retirada, finalizacao de pedido pelo WhatsApp e venda explicita de Cachaca Sagatiba, alem de outras bebidas. Fato: operacao recente, territorio valido, produto de cachaca publicado e canal empresarial transacional. Inferencia: encaixe direto para testar a Pindorama como novo rotulo artesanal, com potencial de recompra pelo varejo, distribuicao e delivery.",
+    "webChannelVerified": true,
+    "webChannelSource": "https://starfood.com.br/adegaedistribuidorawea",
+    "webChannelVerifiedAt": "2026-08-31",
+    "verifiedAt": "2026-08-31",
+    "status": "qualified_web_only",
+    "email1": false
+  },
+  {
+    "name": "Adega Imperador",
+    "type": "adega_delivery_cachacas_premium_destilados",
+    "city": "Sao Paulo",
+    "state": "SP",
+    "neighborhood": "Americanopolis",
+    "address": "Avenida Rodrigues Montemor, 751 - Americanopolis - Sao Paulo/SP - 04387-002",
+    "website": "https://adegaimperador.com.br/",
+    "source": "https://adegaimperador.com.br/",
+    "context": "Cardapio oficial rastreado em 31/08/2026 confirma adega ativa em Americanopolis, Sao Paulo, com delivery, endereco publicado e oferta explicita de cachacas como Reserva 51 Rara Extra Premium e Caninha 51 Mel e Limao. Fato: operacao recente em territorio valido, venda comprovada de cachacas premium e canal empresarial transacional. Inferencia: encaixe forte para testar a Pindorama como rotulo artesanal premium no mix, com potencial de recompra pelo delivery e varejo.",
+    "webChannelVerified": true,
+    "webChannelSource": "https://adegaimperador.com.br/",
+    "webChannelVerifiedAt": "2026-08-31",
+    "verifiedAt": "2026-08-31",
+    "status": "qualified_web_only",
+    "email1": false
+  },
+  {
+    "name": "Adega Imperio Guarulhos",
+    "type": "adega_delivery_destilados_vinhos_cervejas",
+    "city": "Guarulhos",
+    "state": "SP",
+    "website": "https://instadelivery.com.br/adegaimperio",
+    "source": "https://instadelivery.com.br/adegaimperio",
+    "context": "Cardapio empresarial rastreado em 31/08/2026 confirma delivery de bebidas ativo em Guarulhos, com pedido por WhatsApp e categorias explicitas de destilados, vinhos, cervejas, caixas, energeticos e itens de conveniencia. Fato: operacao recente em territorio valido, mix de bebidas de alto giro e canal empresarial transacional. Inferencia: encaixe plausivel para testar a Pindorama como nova opcao na categoria de destilados, com potencial de recompra pelo delivery recorrente.",
+    "webChannelVerified": true,
+    "webChannelSource": "https://instadelivery.com.br/adegaimperio",
+    "webChannelVerifiedAt": "2026-08-31",
+    "verifiedAt": "2026-08-31",
+    "status": "qualified_web_only",
+    "email1": false
+  },
+  {
+    "name": "A Doce Dose - Capuava",
+    "type": "bar_restaurante_delivery_batidas_cachaca",
+    "city": "Santo Andre",
+    "state": "SP",
+    "neighborhood": "Vila Curuca",
+    "address": "Rua Aruja, 841 - Vila Curuca - Santo Andre/SP - 09291-250",
+    "website": "https://www.rappi.com.br/restaurantes/900721222-a-doce-dose",
+    "source": "https://www.rappi.com.br/restaurantes/900721222-a-doce-dose",
+    "context": "Cardapio transacional rastreado em 31/08/2026 confirma bar e delivery ativos em Santo Andre, com endereco publicado e categoria explicita de batidas com cachaca, incluindo batida de coco, alem de porcoes para consumo recorrente. Fato: operacao recente no ABC, territorio valido, uso comprovado de cachaca em bebidas e canal empresarial de pedidos. Inferencia: encaixe plausivel para degustacao e teste da Pindorama como base de batidas, com potencial de recompra pelo giro do bar e delivery.",
+    "webChannelVerified": true,
+    "webChannelSource": "https://www.rappi.com.br/restaurantes/900721222-a-doce-dose",
+    "webChannelVerifiedAt": "2026-08-31",
+    "verifiedAt": "2026-08-31",
+    "status": "qualified_web_only",
+    "email1": false
+  },
+  {
+    "name": "Haiak Sushi - Unidade Itapevi",
+    "type": "restaurante_delivery_caipirinha_cachaca",
+    "city": "Itapevi",
+    "state": "SP",
+    "address": "Rua Agostinho Ferreira Campos, 50 - Cidade da Saude - Itapevi/SP - 06693-120",
+    "website": "https://haiakloja2.pedizap.com.br/",
+    "source": "https://haiakloja2.pedizap.com.br/",
+    "context": "Cardapio transacional rastreado em 31/08/2026 confirma restaurante ativo em Itapevi, com WhatsApp, pedidos online, endereco publicado e oferta explicita de Caipirinha de Cachaca por R$ 24,99. Fato: operacao recente, territorio valido, uso comprovado de cachaca na coquetelaria e canal empresarial transacional. Inferencia: encaixe plausivel para degustacao e teste da Pindorama como base da caipirinha, com potencial de recompra pelo giro do restaurante e delivery.",
+    "webChannelVerified": true,
+    "webChannelSource": "https://haiakloja2.pedizap.com.br/",
+    "webChannelVerifiedAt": "2026-08-31",
+    "verifiedAt": "2026-08-31",
+    "status": "qualified_web_only",
+    "email1": false
+  },
+  {
+    "name": "Adega do 00",
+    "type": "adega_delivery_cachaca_destilados",
+    "city": "Itapevi",
+    "state": "SP",
+    "website": "https://showmenu.com.br/cardapio/adega-do-00",
+    "source": "https://showmenu.com.br/cardapio/adega-do-00",
+    "context": "Cardapio empresarial rastreado em 31/08/2026 confirma adega ativa em Itapevi, com menu publico e categorias explicitas de cachaca, Pitu, batidas, licores, vinhos, cervejas, gins, whiskies, energeticos e combos. Fato: operacao recente em territorio valido, venda comprovada de cachaca e mix amplo de bebidas de giro. Inferencia: forte aderencia para testar a Pindorama como novo rotulo artesanal.",
+    "webChannelVerified": true,
+    "webChannelSource": "https://showmenu.com.br/cardapio/adega-do-00",
+    "webChannelVerifiedAt": "2026-08-31",
+    "verifiedAt": "2026-08-31",
+    "status": "qualified_web_only",
+    "email1": false
+  },
+  {
+    "name": "O Canto da Costela - Alphaville",
+    "type": "bar_restaurante_caipirinha_batida_cachaca",
+    "city": "Santana de Parnaiba",
+    "state": "SP",
+    "neighborhood": "Alphaville",
+    "website": "https://showmenu.com.br/cardapio/o-canto-da-costela-aphaville",
+    "source": "https://showmenu.com.br/cardapio/o-canto-da-costela-aphaville",
+    "context": "Cardapio empresarial rastreado em 31/08/2026 confirma restaurante ativo em Alphaville, com menu transacional publico, caipirinha com cachaca e batida de cachaca feita com Salinas ou Velho Barreiro, alem de porcoes e amplo mix de destilados. Fato: operacao recente em territorio valido, uso comprovado de cachaca na coquetelaria e canal empresarial publicado. Inferencia: forte aderencia para degustacao e teste da Pindorama como base premium de caipirinhas e batidas, com potencial de recompra pelo giro do restaurante.",
+    "webChannelVerified": true,
+    "webChannelSource": "https://showmenu.com.br/cardapio/o-canto-da-costela-aphaville",
+    "webChannelVerifiedAt": "2026-08-31",
+    "verifiedAt": "2026-08-31",
+    "status": "qualified_web_only",
+    "email1": false
+  },
+  {
+    "name": "Let's Beer Cervejas Artesanais",
+    "email": "operacao@letsbeer.com.br",
+    "type": "bar_emporio_cachacas_artesanais_eventos",
+    "city": "Sao Paulo",
+    "state": "SP",
+    "neighborhood": "Vila Mariana",
+    "address": "Rua Joaquim Tavora, 961 - Vila Mariana - Sao Paulo/SP - 04015-002",
+    "phone": "(11) 96176-2659",
+    "publishedEmail": "operacao@letsbeer.com.br",
+    "website": "https://letsbeer.com.br/",
+    "source": "https://letsbeer.com.br/",
+    "context": "Site oficial rastreado em 31/08/2026 confirma bar e emporio ativos na Vila Mariana, com delivery, 12 torneiras, eventos corporativos e sociais, sommeliers e categoria explicita de cachacas e outros destilados; o cardapio atual lista varios rotulos artesanais e premium de cachaca. Fato: operacao recente, territorio valido, venda comprovada de cachacas premium, eventos e telefone e email empresariais publicados. Inferencia: forte aderencia para degustacao e teste da Pindorama tanto no bar quanto em eventos, com potencial de recompra pelo giro e rotacao frequente de rotulos.",
+    "webChannelVerified": true,
+    "webChannelSource": "https://letsbeer.com.br/",
+    "webChannelVerifiedAt": "2026-08-31",
+    "phoneSource": "https://letsbeer.com.br/",
+    "emailSource": "https://letsbeer.com.br/contato/",
+    "emailVerified": true,
+    "emailVerifiedAt": "2026-09-01",
+    "verifiedAt": "2026-08-31",
+    "status": "qualified_phone_web",
+    "email1": false,
+    "invalidEmail": true,
+    "invalidEmailReason": "domain_without_mx",
+    "invalidEmailDate": "2026-09-01"
+  },
+  {
+    "name": "O Amadeu",
+    "type": "emporio_ecommerce_cachacas_premium",
+    "city": "Sao Paulo",
+    "state": "SP",
+    "neighborhood": "Alto da Lapa",
+    "address": "Avenida Diogenes Ribeiro de Lima, 2991 - Alto da Lapa - Sao Paulo/SP - 05083-010",
+    "phone": "(11) 93620-0992",
+    "website": "https://oamadeu.com/",
+    "source": "https://oamadeu.com/",
+    "context": "E-commerce oficial rastreado em 31/08/2026 confirma emporio ativo no Alto da Lapa, com telefone empresarial e estoque publicado de cachacas Branca, Alambique, Amburana, 3 Madeiras e Premium, incluindo quantidades remanescentes e compra online. Fato: operacao recente, territorio valido, venda comprovada de varias cachacas premium e canal empresarial transacional. Inferencia: forte aderencia para apresentar a Pindorama como novo rotulo artesanal e potencial de recompra pelo giro do estoque e amplitude da categoria.",
+    "webChannelVerified": true,
+    "webChannelSource": "https://oamadeu.com/",
+    "webChannelVerifiedAt": "2026-08-31",
+    "phoneSource": "https://oamadeu.com/",
+    "verifiedAt": "2026-08-31",
+    "status": "qualified_phone_web",
+    "email1": false
+  },
+  {
+    "name": "Emporio do Mineiro Vila Sao Francisco",
+    "type": "emporio_ecommerce_cachacas_premium",
+    "city": "Sao Paulo",
+    "state": "SP",
+    "neighborhood": "Vila Sao Francisco",
+    "address": "Avenida Doutor Candido Motta Filho, 731, Loja 08 - Vila Sao Francisco - Sao Paulo/SP",
+    "phone": "(11) 95092-0430",
+    "website": "https://emporiodomineirovilasf.com.br/",
+    "source": "https://emporiodomineirovilasf.com.br/produtos/cachaca-prata-premium-720ml-vale-da-canastra/",
+    "context": "E-commerce oficial rastreado em 31/08/2026 confirma emporio ativo na Vila Sao Francisco, com WhatsApp empresarial, compra online e estoque publicado de varias cachacas artesanais e premium, incluindo Vale da Canastra, 3 Lagos e Encomenda Real em diferentes madeiras e edicoes. Fato: operacao recente, territorio valido, venda comprovada de amplo mix de cachacas premium e canal empresarial transacional. Inferencia: forte aderencia para apresentar a Pindorama como novo rotulo artesanal, com potencial de recompra pelo giro e profundidade da categoria.",
+    "webChannelVerified": true,
+    "webChannelSource": "https://emporiodomineirovilasf.com.br/",
+    "webChannelVerifiedAt": "2026-08-31",
+    "phoneSource": "https://emporiodomineirovilasf.com.br/produtos/cachaca-prata-premium-720ml-vale-da-canastra/",
+    "verifiedAt": "2026-08-31",
+    "status": "qualified_phone_web",
+    "email1": false
+  },
+  {
+    "name": "A Casa do Produtor",
+    "email": "contato@acasadoprodutor.com.br",
+    "type": "emporio_ecommerce_produtos_artesanais_cachacas",
+    "city": "Sao Paulo",
+    "state": "SP",
+    "address": "Rua Amelia Correa Fontes Guimaraes, 42 - Sao Paulo/SP - 05617-010",
+    "phone": "(11) 97641-8492",
+    "publishedEmail": "contato@acasadoprodutor.com.br",
+    "website": "https://acasadoprodutor.com.br/",
+    "source": "https://acasadoprodutor.com.br/produtores-brasileiros/sao-paulo-interior/engenho-fazenda-velha/",
+    "context": "Site oficial rastreado em 31/08/2026 confirma queijaria e emporio online ativo em Sao Paulo, especializado em produtos artesanais brasileiros e com cachacas premiadas de produtores como Engenho Fazenda Velha, alem de WhatsApp e email empresariais publicados. Fato: operacao recente, territorio valido, venda comprovada de cachaca artesanal e canal empresarial transacional. Inferencia: forte aderencia para avaliar a Pindorama como novo produto artesanal brasileiro, com potencial de recompra pelo varejo e curadoria de pequenos produtores.",
+    "webChannelVerified": true,
+    "webChannelSource": "https://acasadoprodutor.com.br/",
+    "webChannelVerifiedAt": "2026-08-31",
+    "phoneSource": "https://acasadoprodutor.com.br/produtores-brasileiros/sao-paulo-interior/engenho-fazenda-velha/",
+    "emailSource": "https://acasadoprodutor.com.br/produtores-brasileiros/sao-paulo-interior/engenho-fazenda-velha/",
+    "emailVerified": true,
+    "emailVerifiedAt": "2026-09-01",
+    "verifiedAt": "2026-08-31",
+    "status": "qualified_phone_web",
+    "email1": false,
+    "invalidEmail": true,
+    "invalidEmailReason": "domain_without_mx",
+    "invalidEmailDate": "2026-09-01"
+  },
+  {
+    "name": "Dose7 Bebidas",
+    "type": "distribuidora_atacado_cachacas_destilados",
+    "city": "Sao Paulo",
+    "state": "SP",
+    "phone": "(11) 99670-8675",
+    "website": "https://dose7.com.br/",
+    "source": "https://dose7.com.br/atacado/",
+    "context": "Site oficial rastreado em 31/08/2026 confirma operacao ativa de atacado para bares, restaurantes, adegas e mercados, com frete para Sao Paulo, venda para revenda via WhatsApp e categorias explicitas de cachacas prata e envelhecida, alem de destilados, cervejas e vinhos. Fato: operacao recente, territorio atendido valido, canal empresarial publicado e venda B2B comprovada de cachacas. Inferencia: forte aderencia para apresentar a Pindorama ao comprador do atacado, com potencial de recompra pela distribuicao para pontos de venda.",
+    "webChannelVerified": true,
+    "webChannelSource": "https://dose7.com.br/atacado/",
+    "webChannelVerifiedAt": "2026-08-31",
+    "phoneSource": "https://dose7.com.br/atacado/",
+    "verifiedAt": "2026-08-31",
+    "status": "whatsapp_unavailable",
+    "email1": false,
+    "whatsappUnavailable": true,
+    "whatsappCheckDate": "2026-09-01",
+    "whatsappFailure": "O WhatsApp Web rejeitou a abertura da conversa e retornou para a pagina inicial em duas tentativas; numero suprimido para novas abordagens automaticas"
+  },
+  {
+    "name": "Cachaca Roca de Garca",
+    "email": "cachacarocadegarca@rocadegarca.com.br",
+    "type": "loja_ecommerce_cachacas_artesanais_premium",
+    "city": "Garca",
+    "state": "SP",
+    "phone": "(11) 99745-5125",
+    "publishedEmail": "cachacarocadegarca@rocadegarca.com.br",
+    "website": "https://www.rocadegarca.com.br/",
+    "source": "https://www.rocadegarca.com.br/cachacas",
+    "context": "Site oficial rastreado em 31/08/2026 confirma loja virtual ativa fundada em 2021 e especializada exclusivamente em rotulos de cachacas artesanais de pequenos e medios produtores, com produtos premium envelhecidos em carvalho, estoque e precos publicados, alem de WhatsApp e email empresariais. Fato: operacao recente, territorio paulista valido, venda comprovada de amplo mix de cachacas artesanais premium e canal empresarial publicado. Inferencia: forte aderencia para avaliar a Pindorama como novo rotulo da curadoria, com potencial de recompra pela especializacao e profundidade da categoria.",
+    "webChannelVerified": true,
+    "webChannelSource": "https://www.rocadegarca.com.br/cachacas",
+    "webChannelVerifiedAt": "2026-08-31",
+    "phoneSource": "https://www.rocadegarca.com.br/cachacas",
+    "emailSource": "https://www.rocadegarca.com.br/cachacas",
+    "emailVerified": true,
+    "emailVerifiedAt": "2026-09-01",
+    "verifiedAt": "2026-08-31",
+    "status": "qualified_phone_web",
+    "email1": false,
+    "invalidEmail": true,
+    "invalidEmailReason": "domain_without_mx",
+    "invalidEmailDate": "2026-09-01"
+  },
+  {
+    "name": "Pe de Cuba",
+    "email": "contato@pedecuba.com.br",
+    "phone": "(11) 91363-7138",
+    "type": "emporio_ecommerce_cachacas_premium",
+    "city": "Sao Paulo",
+    "address": "Rua Almaden, 130 - Sao Paulo/SP - 05717-200",
+    "website": "https://www.pedecuba.com.br/",
+    "source": "https://www.pedecuba.com.br/",
+    "context": "Site oficial consultado em 01/09/2026 confirma ecommerce e ponto de atendimento ativo em Sao Paulo, com catalogo atual de cachacas artesanais e premium, kits, endereco, WhatsApp e email empresarial publicados. Fato: varejo especializado em cachaca com canal direto e operacao ativa. Inferencia: alto encaixe para avaliar a Pindorama no mix e gerar recompra online.",
+    "emailVerified": true,
+    "emailSource": "https://www.pedecuba.com.br/",
+    "emailVerifiedAt": "2026-09-01",
+    "mxVerified": true,
+    "mxVerifiedAt": "2026-09-01",
+    "verifiedAt": "2026-09-01",
+    "status": "contacted",
+    "template": "consultivo",
+    "email1": true,
+    "date1": "2026-09-01",
+    "automationIncident": "Contato ja constava nos Enviados do Gmail em 01/09/2026 17:55; registro reconciliado e novo envio cancelado pela checagem transacional anti-duplicidade."
+  },
+  {
+    "name": "Stark Chopp",
+    "email": "adm@starkchopp.com.br",
+    "phone": "(11) 98315-8899",
+    "type": "loja_bebidas_chopp_cachacas_eventos",
+    "city": "Sao Paulo",
+    "state": "SP",
+    "neighborhood": "Jardim Fontalis",
+    "address": "Rua Ushikichi Kamiya, 748 - Jardim Fontalis - Sao Paulo/SP - 02323-000",
+    "website": "https://starkchopp.com.br/",
+    "source": "https://starkchopp.com.br/",
+    "context": "Site oficial consultado em 01/09/2026 confirma loja fisica e delivery ativo em Sao Paulo e Grande Sao Paulo, atendimento a eventos e catalogo de cervejas, vodka, rum, gin e cachacas, incluindo Cabare, Ypioca, Weber Haus Premium, Princesa Isabel e linha propria Stark. Fato: operacao ativa, territorio valido, canal empresarial publicado e venda comprovada de cachacas e destilados. Inferencia: forte aderencia para avaliar a Pindorama no mix da loja e em eventos, com potencial de recompra por delivery e varejo recorrente.",
+    "emailVerified": true,
+    "emailSource": "https://starkchopp.com.br/",
+    "emailVerifiedAt": "2026-09-01",
+    "mxVerified": true,
+    "mxVerifiedAt": "2026-09-01",
+    "verifiedAt": "2026-09-01",
+    "status": "qualified_pending_import",
+    "template": "consultivo",
+    "email1": true,
+    "date1": "2026-09-04"
+  },
+  {
+    "name": "Genebra Distribuidora de Bebidas",
+    "email": "adega@genebrabebidas.com.br",
+    "phone": "(11) 3105-7570",
+    "type": "distribuidora_bebidas",
+    "city": "Sao Paulo",
+    "state": "SP",
+    "neighborhood": "Bela Vista",
+    "address": "Rua Genebra, 165 - Bela Vista - Sao Paulo/SP - 01316-010",
+    "website": "https://genebrabebidas.com.br/",
+    "source": "https://www.solutudo.com.br/empresas/sp/s-paulo/depositos-de-bebidas/genebra-distribuidora-de-bebidas-15343813",
+    "context": "Diretorio comercial atualizado e cadastro empresarial consultados em 01/09/2026 confirmam operacao de distribuidora de bebidas em Sao Paulo, fundada em 2014, com endereco, telefone e email empresarial publicados. Fato: segmento prioritario, territorio valido, canal empresarial explicito e dominio com MX ativo. Inferencia: aderencia para apresentar a Pindorama ao responsavel por compras e avaliar inclusao no mix de bebidas.",
+    "emailVerified": true,
+    "emailSource": "https://www.diariocidade.com/sp/sao-paulo/guia/genebra-distribuidora-de-bebidas-21052547000100/",
+    "emailVerifiedAt": "2026-09-01",
+    "mxVerified": true,
+    "mxVerifiedAt": "2026-09-01",
+    "verifiedAt": "2026-09-01",
+    "status": "qualified_pending_import",
+    "template": "consultivo",
+    "email1": true,
+    "date1": "2026-09-04"
+  },
+  {
+    "name": "Bolsao Distribuidora",
+    "email": "contato@bolsaodistribuidora.com.br",
+    "phone": "(11) 91870-7946",
+    "type": "distribuidora_bebidas_cachacas",
+    "city": "Guarulhos",
+    "state": "SP",
+    "neighborhood": "Jardim Sao Geraldo",
+    "address": "Av. Otavio Braga de Mesquita, 3450 - Jardim Sao Geraldo - Guarulhos/SP - 07140-230",
+    "website": "https://bolsaodistribuidora.com/",
+    "source": "https://bolsaodistribuidora.com/contato.php",
+    "context": "Site oficial consultado em 01/09/2026 confirma distribuidora ativa desde 2003, entrega para toda a regiao de Sao Paulo e litoral, catalogo de destilados e destaque atual de Cachaca Popular Velho Barreiro 910 ml. Fato: segmento prioritario, territorio valido, operacao recente, WhatsApp e email empresarial publicados e venda comprovada de cachaca. Inferencia: forte aderencia para apresentar a Pindorama ao responsavel por compras e avaliar inclusao no mix com potencial de recompra B2B.",
+    "emailVerified": true,
+    "emailSource": "https://bolsaodistribuidora.com/contato.php",
+    "emailVerifiedAt": "2026-09-01",
+    "mxVerified": true,
+    "mxVerifiedAt": "2026-09-01",
+    "webChannelVerified": true,
+    "webChannelSource": "https://bolsaodistribuidora.com/contato.php",
+    "webChannelVerifiedAt": "2026-09-01",
+    "phoneSource": "https://bolsaodistribuidora.com/contato.php",
+    "verifiedAt": "2026-09-01",
+    "status": "qualified_pending_import",
+    "template": "consultivo",
+    "email1": true,
+    "date1": "2026-09-04"
+  },
+  {
+    "name": "HS Bebidas Atacado",
+    "email": "hsbebidas@gmail.com",
+    "phone": "(11) 4421-7767",
+    "type": "distribuidora_atacado_bebidas_cachacas",
+    "city": "Santo Andre",
+    "state": "SP",
+    "neighborhood": "Vila Palmares",
+    "address": "Avenida Carlos Gomes, 773 - Vila Palmares - Santo Andre/SP - 09061-510",
+    "website": "https://epadoca.com/hsbebidasatacado",
+    "source": "https://epadoca.com/hsbebidasatacado",
+    "context": "Canal de pedidos consultado em 01/09/2026 confirma operacao ativa de atacado e distribuicao de bebidas em Santo Andre desde 1987, com catalogo de cachacas, rum, gin, whisky, vodka, vinhos, licores e cervejas. Publicacoes comerciais recentes de junho de 2026 reforcam abastecimento de bares, restaurantes e mercados. Fato: segmento prioritario, territorio valido, operacao recente, venda comprovada de cachaca e email empresarial publicado em material institucional de comercio de bebidas. Inferencia: forte aderencia para apresentar a Pindorama ao responsavel por compras, com potencial de recompra B2B.",
+    "emailVerified": true,
+    "emailSource": "https://www.promendoza.com/wp-content/uploads/2021/11/Cerveza-de-malta-Brasil-2021.pdf",
+    "emailVerifiedAt": "2026-09-01",
+    "mxVerified": true,
+    "mxVerifiedAt": "2026-09-01",
+    "webChannelVerified": true,
+    "webChannelSource": "https://epadoca.com/hsbebidasatacado",
+    "webChannelVerifiedAt": "2026-09-01",
+    "phoneSource": "https://epadoca.com/hsbebidasatacado",
+    "verifiedAt": "2026-09-01",
+    "status": "qualified_pending_import",
+    "template": "consultivo",
+    "email1": true,
+    "date1": "2026-09-04"
+  },
+  {
+    "name": "Yolanda Botequim Matriz",
+    "email": "matriz@yolandaclub.com.br",
+    "phone": "(15) 99612-0837",
+    "type": "bar_restaurante_cachacas_caipirinhas",
+    "city": "Sorocaba",
+    "state": "SP",
+    "neighborhood": "Jardim Goncalves",
+    "address": "Rua Sadrac de Arruda, 400 - Jardim Goncalves - Sorocaba/SP",
+    "website": "https://www.menudigital.app.br/yolandamatriz/",
+    "source": "https://www.menudigital.app.br/yolandamatriz/",
+    "context": "Menu digital oficial atualizado em 21/08/2026 confirma operacao ativa da matriz em Sorocaba, com secoes explicitas de cachacas e caipirinha de cachaca, carta de vinhos, horarios, telefone e email empresarial publicados. Fato: operacao recente, territorio valido, canal empresarial explicito e venda comprovada de cachaca. Inferencia: forte aderencia para apresentar a Pindorama ao responsavel pelas compras de bebidas, com potencial de uso em caipirinhas, venda por dose e recompra recorrente.",
+    "emailVerified": true,
+    "emailSource": "https://www.menudigital.app.br/yolandamatriz/",
+    "emailVerifiedAt": "2026-09-02",
+    "mxVerified": true,
+    "mxVerifiedAt": "2026-09-02",
+    "webChannelVerified": true,
+    "webChannelSource": "https://www.menudigital.app.br/yolandamatriz/",
+    "webChannelVerifiedAt": "2026-09-02",
+    "phoneSource": "https://www.menudigital.app.br/yolandamatriz/",
+    "verifiedAt": "2026-09-02",
+    "status": "qualified_pending_import",
+    "template": "pergunta",
+    "email1": true,
+    "date1": "2026-09-04"
+  },
+  {
+    "name": "Amdib",
+    "email": "contato@amdib.com.br",
+    "phone": "(15) 99710-9998",
+    "type": "distribuidora_bebidas_cachacas",
+    "city": "Sorocaba",
+    "state": "SP",
+    "neighborhood": "Jardim Simus",
+    "address": "Rua Alameda das Dalias, 123 - Jardim Simus - Sorocaba/SP - 18055-195",
+    "website": "https://amdib.com.br/",
+    "source": "https://amdib.com.br/contato-2/",
+    "context": "Site oficial consultado em 02/09/2026 confirma operacao ativa em Sorocaba desde 1957, atendimento comercial, endereco, telefone e emails empresariais publicados, alem de frente explicita de cachaca Weber Haus Sorocaba. Fato: operacao recente, territorio valido, canal empresarial verificavel e atuacao comprovada com cachaca. Inferencia: aderencia para apresentar a Pindorama ao responsavel comercial e avaliar inclusao complementar no portfolio regional, com potencial de recompra pela distribuicao.",
+    "emailVerified": true,
+    "emailSource": "https://amdib.com.br/contato-2/",
+    "emailVerifiedAt": "2026-09-02",
+    "mxVerified": true,
+    "mxVerifiedAt": "2026-09-02",
+    "webChannelVerified": true,
+    "webChannelSource": "https://amdib.com.br/contato-2/",
+    "webChannelVerifiedAt": "2026-09-02",
+    "phoneSource": "https://amdib.com.br/contato-2/",
+    "verifiedAt": "2026-09-02",
+    "status": "qualified_pending_import",
+    "template": "consultivo",
+    "email1": true,
+    "date1": "2026-09-04"
+  },
+  {
+    "name": "Dos Bacanas Bar",
+    "email": "contato@dosbacanas.com.br",
+    "phone": "(15) 99176-8004",
+    "type": "bar_restaurante_cachacas_caipirinhas",
+    "city": "Sorocaba",
+    "state": "SP",
+    "neighborhood": "Jardim Santa Rosalia",
+    "address": "Avenida Sao Francisco, 343 - Jardim Santa Rosalia - Sorocaba/SP",
+    "website": "https://bar.dosbacanas.com.br/",
+    "source": "https://bar.dosbacanas.com.br/cardapiodigital",
+    "context": "Site e cardapio oficiais consultados em 02/09/2026 confirmam operacao ativa em Sorocaba, mais de cinco anos de historia, musica ao vivo, eventos e open bar, com caipirinhas, dose de cachaca, Cachaca Seleta, drinks autorais e destilados premium publicados. Fato: operacao recente, territorio valido, canal empresarial explicito, venda comprovada de cachaca por dose e garrafa e uso em coquetelaria. Inferencia: forte aderencia para testar a Pindorama em caipirinhas, doses, eventos e open bar, com potencial de recompra recorrente.",
+    "emailVerified": true,
+    "emailSource": "https://bar.dosbacanas.com.br/",
+    "emailVerifiedAt": "2026-09-02",
+    "mxVerified": true,
+    "mxVerifiedAt": "2026-09-02",
+    "webChannelVerified": true,
+    "webChannelSource": "https://bar.dosbacanas.com.br/contato",
+    "webChannelVerifiedAt": "2026-09-02",
+    "phoneSource": "https://bar.dosbacanas.com.br/contato",
+    "verifiedAt": "2026-09-02",
+    "status": "qualified_pending_import",
+    "template": "prova_social",
+    "email1": true,
+    "date1": "2026-09-04"
+  },
+  {
+    "name": "Hanami Restaurante",
+    "phone": "(15) 99116-5909",
+    "type": "restaurante_caipirinhas_cachaca",
+    "city": "Sorocaba",
+    "state": "SP",
+    "neighborhood": "Jardim Vera Cruz",
+    "address": "Rua Serafina Milego Latorre, 824 - Jardim Vera Cruz - Sorocaba/SP - 18050-020",
+    "website": "https://hanamirestaurante.com.br/",
+    "source": "https://hanamirestaurante.com.br/cardapio.php",
+    "context": "Site e cardapio oficiais consultados em 02/09/2026 confirmam restaurante japones ativo em Sorocaba, delivery, rodizio e menu degustacao, com caipirinhas de cachaca Ypioca e Sagatiba explicitamente publicadas, alem de WhatsApp empresarial. Fato: operacao recente, territorio valido, canal empresarial publicado e uso comprovado de cachaca em coquetelaria. Inferencia: aderencia para testar a Pindorama em caipirinhas e harmonizacoes, com potencial de recompra pelo servico recorrente.",
+    "webChannelVerified": true,
+    "webChannelSource": "https://hanamirestaurante.com.br/",
+    "webChannelVerifiedAt": "2026-09-02",
+    "phoneSource": "https://hanamirestaurante.com.br/",
+    "verifiedAt": "2026-09-02",
+    "status": "qualified_phone_web",
+    "email1": false,
+    "whatsapp1": false
+  },
+  {
+    "name": "Wanel Beach",
+    "phone": "(15) 99196-3030",
+    "type": "clube_esportivo_bar_caipirinhas",
+    "city": "Sorocaba",
+    "state": "SP",
+    "neighborhood": "Jardim Wanel Ville V",
+    "address": "Avenida Elias Maluf, 3170 - Jardim Wanel Ville V - Sorocaba/SP - 18055-215",
+    "website": "https://wanelbeachsports.com.br/",
+    "source": "https://wanelbeachsports.com.br/cardapio",
+    "context": "Site e cardapio oficiais atualizados em setembro de 2026 confirmam clube de esportes e lazer ativo em Sorocaba, locacao de quadras e operacao de bar com caipirinha, caipiroska, sakerinha, gin e cervejas, alem de telefone/WhatsApp empresarial publicado. Fato: operacao recente, territorio valido, eventos e consumo recorrente de bebidas. Inferencia: aderencia para testar a Pindorama em caipirinhas e eventos esportivos, com potencial de recompra pelo bar.",
+    "webChannelVerified": true,
+    "webChannelSource": "https://wanelbeachsports.com.br/contato",
+    "webChannelVerifiedAt": "2026-09-02",
+    "phoneSource": "https://wanelbeachsports.com.br/contato",
+    "verifiedAt": "2026-09-02",
+    "status": "qualified_phone_web",
+    "email1": false,
+    "whatsapp1": false,
+    "publishedEmail": "contato@wanelbeach.com.br",
+    "invalidEmail": true,
+    "invalidEmailReason": "published_domain_nxdomain",
+    "invalidEmailDate": "2026-09-02"
+  },
+  {
+    "name": "New York Bar 41",
+    "phone": "(15) 99684-2933",
+    "type": "bar_caipirinhas_cachaca_eventos",
+    "city": "Sorocaba",
+    "state": "SP",
+    "neighborhood": "Jardim Prestes de Barros",
+    "address": "Avenida Carlos Sonetti, 390 - Jardim Prestes de Barros - Sorocaba/SP - 18021-200",
+    "website": "https://newyorkbar41.com.br/",
+    "source": "https://newyorkbar41.com.br/wp-content/uploads/2026/02/2026_02_CARDAPIONY41.pdf",
+    "context": "Site e cardapio oficiais de 2026 consultados em 02/09/2026 confirmam bar ativo em Sorocaba, musica ao vivo, aniversarios e carta de drinks com caipirinha de cachaca, New York Rapadura com cachaca, caipiles, gins e destilados. Fato: operacao recente, territorio valido, WhatsApp empresarial publicado e uso comprovado de cachaca em coquetelaria. Inferencia: forte aderencia para testar a Pindorama em caipirinhas autorais, doses e eventos, com potencial de recompra recorrente.",
+    "webChannelVerified": true,
+    "webChannelSource": "https://newyorkbar41.com.br/contato/",
+    "webChannelVerifiedAt": "2026-09-02",
+    "phoneSource": "https://newyorkbar41.com.br/contato/",
+    "verifiedAt": "2026-09-02",
+    "status": "qualified_phone_web",
+    "email1": false,
+    "whatsapp1": false
+  },
+  {
+    "name": "Bertin Bebidas",
+    "email": "sac@bertinbebidas.com.br",
+    "phone": "(15) 3238-7000",
+    "type": "distribuidora_bebidas_cachacas",
+    "city": "Sorocaba",
+    "state": "SP",
+    "neighborhood": "Morros",
+    "address": "Rodovia Raposo Tavares, 3921 - Fundos - Km 96,3 - Morros - Sorocaba/SP - 18023-000",
+    "website": "https://bertindistribuidora.com.br/",
+    "source": "https://bertindistribuidora.com.br/quem-somos/",
+    "context": "Site oficial consultado em 02/09/2026 confirma distribuidora familiar ativa desde 1956, com mais de cinco mil clientes em mais de cinquenta cidades da regiao de Sorocaba, logistica propria e catalogo que vai de cachacas artesanais a rotulos importados. A pagina de revenda publica diversas cachacas e o contato empresarial sac@bertinbebidas.com.br. Fato: operacao recente, territorio valido, canal empresarial explicito, distribuicao regional e venda comprovada de cachacas. Inferencia: forte aderencia para apresentar a Pindorama ao time comercial e avaliar inclusao no portfolio, com alto potencial de recompra pela rede atendida.",
+    "emailVerified": true,
+    "emailSource": "https://bertindistribuidora.com.br/fale-conosco/",
+    "emailVerifiedAt": "2026-09-02",
+    "mxVerified": true,
+    "mxVerifiedAt": "2026-09-02",
+    "webChannelVerified": true,
+    "webChannelSource": "https://bertindistribuidora.com.br/fale-conosco/",
+    "webChannelVerifiedAt": "2026-09-02",
+    "phoneSource": "https://bertindistribuidora.com.br/quem-somos/",
+    "verifiedAt": "2026-09-02",
+    "status": "qualified_pending_import",
+    "template": "consultivo",
+    "email1": true,
+    "whatsapp1": false,
+    "date1": "2026-09-04"
+  },
+  {
+    "name": "Estacao da Comida Sorocaba",
+    "phone": "(15) 99708-3809",
+    "type": "restaurante_caipirinhas_cachaca",
+    "city": "Sorocaba",
+    "state": "SP",
+    "neighborhood": "Jardim Santa Rosalia",
+    "address": "Rua Porphyrio Loureiro, 20 - Jardim Santa Rosalia - Sorocaba/SP",
+    "website": "https://estacaomenu.com.br/sorocaba/",
+    "source": "https://estacaomenu.com.br/sorocaba/",
+    "context": "Cardapio oficial consultado em 02/09/2026 confirma restaurante ativo diariamente das 11h as 23h em Sorocaba, com buffet, cervejas, vinhos, whisky, doses e caipirinhas. A carta publica caipirinha especial com Espirito de Minas, Boazinha, Santo Grau, Ypioca, Bacardi e Salinas, alem de caipirinha de cachaca com 51, Velho Barreiro ou Sagatiba. O canal empresarial WhatsApp (15) 99708-3809 e a operacao recente foram confirmados por fonte local atualizada em 27/05/2026. Fato: territorio valido, atividade recente, canal empresarial publicado e uso comprovado de varias cachacas na coquetelaria. Inferencia: forte aderencia para testar a Pindorama em caipirinhas especiais e doses, com potencial de recompra pelo funcionamento diario.",
+    "webChannelVerified": true,
+    "webChannelSource": "https://agendasorocaba.com.br/estacao-da-comida/",
+    "webChannelVerifiedAt": "2026-09-02",
+    "phoneSource": "https://agendasorocaba.com.br/estacao-da-comida/",
+    "verifiedAt": "2026-09-02",
+    "status": "qualified_phone_web",
+    "email1": false,
+    "whatsapp1": false
+  },
+  {
+    "name": "FG7 Bebidas",
+    "email": "site@fg7bebidas.com.br",
+    "type": "loja_bebidas",
+    "neighborhood": "Sao Paulo",
+    "context": "a loja publica destilados, aguardentes e cachacas, com atendimento empresarial por telefone e WhatsApp",
+    "phone": "(11) 94787-0025",
+    "website": "https://www.fg7bebidas.com.br/",
+    "emailVerified": true,
+    "emailSource": "https://www.fg7bebidas.com.br/",
+    "emailVerifiedAt": "2026-09-02",
+    "mxVerified": true,
+    "template": "consultivo",
+    "email1": true,
+    "date1": "2026-09-04"
+  },
+  {
+    "name": "JMatos Bebidas",
+    "email": "comercial@jmatosbebidas.com.br",
+    "type": "distribuidora",
+    "neighborhood": "Mirandopolis",
+    "context": "a distribuidora atende eventos, oferece consultoria, degustacao, consignacao e publica um canal comercial dedicado",
+    "phone": "+55 (11) 2373-2970",
+    "website": "https://www.jmatosbebidas.com.br/",
+    "emailVerified": true,
+    "emailSource": "https://www.jmatosbebidas.com.br/contact",
+    "emailVerifiedAt": "2026-09-02",
+    "mxVerified": true,
+    "template": "consultivo",
+    "email1": true,
+    "date1": "2026-09-04"
+  },
+  {
+    "name": "Pezasa Distribuidora de Bebidas",
+    "email": "distribuidora@pezasa.com.br",
+    "phone": "(17) 3353-8703",
+    "type": "distribuidora_bebidas_cachacas",
+    "city": "Sao Jose do Rio Preto",
+    "neighborhood": "Chacara Jockey Club",
+    "address": "Rua Lourenca Alves A. Matarazzo, 500 - Chacara Jockey Club - Sao Jose do Rio Preto/SP",
+    "website": "https://www.pezasa.com.br/",
+    "source": "https://www.pezasa.com.br/",
+    "context": "Site oficial consultado em 02/09/2026 confirma distribuidora ativa em Sao Jose do Rio Preto, com catalogo explicito de cachacas, cervejas, chopes, vinhos, vodkas, whiskies e outros destilados, alem de canal comercial publicado. Fato: operacao ativa recente, distribuicao de bebidas, categoria de cachacas, endereco, telefone e email empresariais publicados. Inferencia: encaixe forte para avaliar a Pindorama como novo rotulo no portfolio regional e gerar recompra pela carteira recorrente da distribuidora.",
+    "emailVerified": true,
+    "emailSource": "https://www.pezasa.com.br/",
+    "emailVerifiedAt": "2026-09-02",
+    "mxVerified": true,
+    "mxVerifiedAt": "2026-09-02",
+    "phoneVerified": true,
+    "phoneSource": "https://www.pezasa.com.br/",
+    "phoneVerifiedAt": "2026-09-02",
+    "verifiedAt": "2026-09-02",
+    "status": "uncontacted",
+    "template": "consultivo",
+    "email1": true,
+    "date1": "2026-09-04"
+  },
+  {
+    "name": "Buteco em Casa Campinas",
+    "phone": "(19) 99965-1244",
+    "type": "buffet_eventos_bar_caipirinhas",
+    "city": "Campinas",
+    "website": "https://butecoemcasacampinas.com.br/",
+    "source": "https://butecoemcasacampinas.com.br/",
+    "context": "Site oficial consultado em 02/09/2026 confirma operacao ativa desde 2010 em Campinas, atendendo confraternizacoes, feiras, congressos, coqueteis, happy hours e outros eventos, com chopp e balcao de caipirinhas preparado por barman usando frutas, cachaca, saque ou vodka. Fato: operacao ativa recente, uso explicito de cachaca em caipirinhas, publico de eventos e WhatsApp empresarial publicado. Inferencia: encaixe plausivel para testar a Pindorama no servico de bar e gerar recompra conforme a agenda de eventos.",
+    "phoneVerified": true,
+    "phoneSource": "https://butecoemcasacampinas.com.br/",
+    "phoneVerifiedAt": "2026-09-02",
+    "verifiedAt": "2026-09-02",
+    "status": "uncontacted",
+    "template": "consultivo"
+  },
+  {
+    "name": "Taxi Beer Drinks Express",
+    "email": "contato@taxibeer.com.br",
+    "phone": "(19) 99759-4747",
+    "type": "delivery_adega_bebidas_cachacas",
+    "city": "Campinas",
+    "neighborhood": "Gramado",
+    "address": "Alameda dos Vidoeiros, 455 - Loja 01 - Gramado Mall - Campinas/SP",
+    "website": "https://www.taxibeer.com.br/cardapio/",
+    "source": "https://www.taxibeer.com.br/cardapio/",
+    "context": "Cardapio oficial consultado em 02/09/2026 confirma delivery ativo de bebidas em Campinas, com categorias explicitas de cachaca, destilados, cervejas premium, vinhos e espumantes, horario de atendimento e WhatsApp empresarial publicado. Fato: operacao ativa recente, venda explicita de cachaca, delivery e canais comerciais publicados. Inferencia: encaixe direto para testar a Pindorama no mix de garrafas e gerar recompra pelo giro do delivery.",
+    "emailVerified": true,
+    "emailSource": "https://www.taxibeer.com.br/cardapio/",
+    "emailVerifiedAt": "2026-09-02",
+    "mxVerified": true,
+    "mxVerifiedAt": "2026-09-02",
+    "phoneVerified": true,
+    "phoneSource": "https://www.taxibeer.com.br/cardapio/",
+    "phoneVerifiedAt": "2026-09-02",
+    "verifiedAt": "2026-09-02",
+    "status": "uncontacted",
+    "template": "consultivo",
+    "email1": true,
+    "date1": "2026-09-04"
+  },
+  {
+    "name": "Taberna do Portuga",
+    "phone": "(19) 98848-9812",
+    "type": "bar_restaurante_cachacas_caipirinhas",
+    "city": "Campinas",
+    "neighborhood": "Sao Quirino",
+    "address": "Rua Herminia de Andrade Couto e Silva, 23 - Sao Quirino - Campinas/SP",
+    "website": "https://tabernadoportuga.com.br/bebidas/",
+    "source": "https://tabernadoportuga.com.br/bebidas/",
+    "context": "Cardapio oficial consultado em 02/09/2026 confirma restaurante ativo em Campinas desde 2012, com caipirinha feita com cachaca, cachacas diversas servidas em dose, coqueteis, cervejas, mais de 300 rotulos de vinhos, almoco, jantar e WhatsApp empresarial publicado. Fato: operacao ativa recente, uso e venda explicitos de cachaca, consumo recorrente no local e canal empresarial publicado. Inferencia: encaixe forte para degustacao da Pindorama, entrada por dose ou caipirinha e recompra pelo giro do bar.",
+    "phoneVerified": true,
+    "phoneSource": "https://tabernadoportuga.com.br/bebidas/",
+    "phoneVerifiedAt": "2026-09-02",
+    "verifiedAt": "2026-09-02",
+    "status": "uncontacted",
+    "template": "consultivo"
+  },
+  {
+    "name": "Nova Adega Jundiai",
+    "phone": "(11) 96719-4844",
+    "type": "adega_delivery_cachacas_destilados",
+    "city": "Jundiai",
+    "neighborhood": "Vila Progresso",
+    "address": "Avenida Samuel Martins, 180 - Vila Progresso - Jundiai/SP",
+    "website": "https://cardapio.datacaixa.com.br/loja=12845",
+    "source": "https://cardapio.datacaixa.com.br/loja=12845",
+    "context": "Cardapio transacional consultado em 02/09/2026 confirma adega ativa em Jundiai, com delivery, retirada, consumo no local e categorias explicitas de cachaca, whisky, vodka, licor, conhaque, gin, rum, vinho, espumante, tequila e cervejas. Fato: operacao recente, venda explicita de cachaca e destilados, CNPJ, endereco e WhatsApp empresarial publicados. Inferencia: encaixe direto para testar a Pindorama no mix e gerar recompra pelo giro de delivery e balcao.",
+    "phoneVerified": true,
+    "phoneSource": "https://cardapio.datacaixa.com.br/loja=12845",
+    "phoneVerifiedAt": "2026-09-02",
+    "verifiedAt": "2026-09-02",
+    "status": "uncontacted",
+    "template": "consultivo"
+  },
+  {
+    "name": "Vinicola e Adega Castanho",
+    "email": "contato@vinicolacastanho.com.br",
+    "phone": "(11) 4863-0930",
+    "type": "vinicola_adega_cachacas_eventos",
+    "city": "Jundiai",
+    "neighborhood": "Castanho",
+    "address": "Travessa dos Patos, 1050 - Castanho - Jundiai/SP",
+    "website": "https://vinicolacastanho.com.br/",
+    "source": "https://vinicolacastanho.com.br/",
+    "context": "Site oficial consultado em 02/09/2026 confirma vinicola e adega ativa todos os dias em Jundiai, com vinhos, espumantes, cachacas e sucos premiados, degustacao antes da compra e espaco climatizado para confraternizacoes e reunioes corporativas. Fato: operacao ativa recente, venda explicita de cachaca, degustacao, eventos, endereco, telefone e email empresarial publicados. Inferencia: encaixe plausivel para avaliar a Pindorama como rotulo complementar de cachaca artesanal e gerar recompra pela loja e eventos.",
+    "emailVerified": true,
+    "emailSource": "https://vinicolacastanho.com.br/",
+    "emailVerifiedAt": "2026-09-02",
+    "mxVerified": true,
+    "mxVerifiedAt": "2026-09-02",
+    "phoneVerified": true,
+    "phoneSource": "https://vinicolacastanho.com.br/",
+    "phoneVerifiedAt": "2026-09-02",
+    "verifiedAt": "2026-09-02",
+    "status": "uncontacted",
+    "template": "consultivo",
+    "email1": true,
+    "date1": "2026-09-04"
+  },
+  {
+    "name": "Adega Santa Cecilia",
+    "email": "adegasantacecilia@adegasantacecilia.com.br",
+    "phone": "(11) 4582-6891",
+    "type": "adega_vinicola_cachacas_bistro",
+    "city": "Jundiai",
+    "neighborhood": "Traviu",
+    "address": "Avenida Comendador Antonio Carbonari, 3384 - Traviu - Jundiai/SP",
+    "website": "https://adegasantacecilia.com.br/",
+    "source": "https://rotasturisticas.jundiai.sp.gov.br/culturaitaliana/o-que-visitar/adega-santa-cecilia/",
+    "context": "Site oficial e portal turistico municipal consultados em 02/09/2026 confirmam adega, vinicola, lojinha e bistro ativos em Jundiai, com producao artesanal desde 1974, degustacoes sob reserva e oferta explicita de cachaca, licores, vinhos, sucos, queijos e produtos artesanais. Fato: operacao ativa, venda de cachaca, degustacao, endereco, telefone e email empresarial publicados. Inferencia: encaixe plausivel para testar a Pindorama como rotulo complementar na lojinha e nas degustacoes.",
+    "emailVerified": true,
+    "emailSource": "https://rotasturisticas.jundiai.sp.gov.br/culturaitaliana/o-que-visitar/adega-santa-cecilia/",
+    "emailVerifiedAt": "2026-09-02",
+    "mxVerified": true,
+    "mxVerifiedAt": "2026-09-02",
+    "phoneVerified": true,
+    "phoneSource": "https://rotasturisticas.jundiai.sp.gov.br/culturaitaliana/o-que-visitar/adega-santa-cecilia/",
+    "phoneVerifiedAt": "2026-09-02",
+    "verifiedAt": "2026-09-02",
+    "status": "uncontacted",
+    "template": "consultivo",
+    "email1": true,
+    "date1": "2026-09-04"
+  },
+  {
+    "name": "Adega Meireles",
+    "email": "adegameireles@bol.com.br",
+    "neighborhood": "Ferrazopolis",
+    "type": "adega",
+    "address": "Av Dr Jose Fornari, 1499 - Ferrazopolis, Sao Bernardo do Campo",
+    "context": "Adega Meireles Comercio de Bebidas LTDA (CNPJ 02.552.328/0001-46), fundada em 1998, comércio atacadista de bebidas não especificadas anteriormente. Sede em São Bernardo do Campo, ativa desde 2005. Perfil: distribuidor/atacadista de bebidas estabelecido na região do ABC.",
+    "phone": "(11) 4338-3735",
+    "emailVerified": true,
+    "emailSource": "https://guiapj.com.br/consulta-cnpj/02552328000146",
+    "emailVerifiedAt": "2026-09-04",
+    "email1": true,
+    "date1": "2026-09-04"
+  },
+  {
+    "name": "Adega Benedito",
+    "email": "adegabenedito@gmail.com",
+    "neighborhood": "Dos Casa",
+    "type": "adega",
+    "address": "Rua Benedito Massaroppi, 360 - Dos Casa, Sao Bernardo do Campo",
+    "context": "Adega Benedito LTDA (CNPJ 38.525.183/0001-79), fundada em 2020, comércio varejista de bebidas e distribuidora. Sede em São Bernardo do Campo, bairro Dos Casa. Perfil: adega/distribuidora de bebidas na região do ABC.",
+    "phone": "(11) 4352-6400",
+    "emailVerified": true,
+    "emailSource": "https://www.diariocidade.com/sp/sao-bernardo-do-campo/guia/adega-benedito-37525183000179/",
+    "emailVerifiedAt": "2026-09-04",
+    "email1": true,
+    "date1": "2026-09-04"
+  },
+  {
+    "name": "Adega Paulista",
+    "email": "adegapaulista@outlook.com.br",
+    "neighborhood": "Jardim Paulista",
+    "type": "adega",
+    "address": "Av Marginal Direita, 318 - Jardim Paulista, Barueri",
+    "context": "Mercado & Adega Paulista LTDA (CNPJ 45.565.299/0001-60), fundada em 2022, comércio varejista de bebidas. Sede em Barueri, bairro Jardim Paulista. Perfil: adega na região de Barueri/Alphaville, área comercial ativa.",
+    "phone": "(11) 4717-3186",
+    "emailVerified": true,
+    "emailSource": "https://www.diariocidade.com/sp/barueri/guia/adega-paulista-45565299000160/",
+    "emailVerifiedAt": "2026-09-04",
+    "email1": true,
+    "date1": "2026-09-04"
+  },
+  {
+    "name": "Adega JM Bebidas",
+    "email": "adonias_reis@uol.com.br",
+    "neighborhood": "Jardim Cibele",
+    "type": "adega",
+    "address": "Rua Reboucas, 142 - Jardim Cibele, Carapicuiba",
+    "context": "App & RNA Bebidas LTDA (CNPJ 09.079.973/0001-32), fundada em 2007, comércio varejista de bebidas. Sede em Carapicuíba, bairro Jardim Cibele. Perfil: adega com 18+ anos de operação na região de Carapicuíba.",
+    "phone": "(11) 4167-5315",
+    "emailVerified": true,
+    "emailSource": "https://www.diariocidade.com/sp/carapicuiba/guia/adega-jm-09079973000132/",
+    "emailVerifiedAt": "2026-09-04",
+    "email1": true,
+    "date1": "2026-09-04"
+  },
+  {
+    "name": "Adegas Bar Frazao",
+    "email": "alessandro.jose.silva2016@gmail.com",
+    "neighborhood": "Cidade Ariston",
+    "type": "adega",
+    "address": "Rua Cunha, 61 - Cidade Ariston, Carapicuiba",
+    "context": "Adega Bar Frazao Unipessoal LTDA (CNPJ 49.576.455/0001-49), fundada em 2023, comércio varejista de bebidas. Sede em Carapicuíba, bairro Cidade Ariston Estela Azevedo. Perfil: adega bar recente, indica foco em mix de bebidas.",
+    "phone": "(11) 4181-2385",
+    "emailVerified": true,
+    "emailSource": "https://www.diariocidade.com/sp/carapicuiba/guia/adegas-bar-frazao-49576455000149/",
+    "emailVerifiedAt": "2026-09-04",
+    "email1": true,
+    "date1": "2026-09-04"
+  },
+  {
+    "name": "Adega Vitao Bebidas",
+    "email": "adegavitaobebidas@gmail.com",
+    "neighborhood": "Conjunto Habitacional Setor D",
+    "type": "adega",
+    "address": "Rua Giacomo Silicani, 25 - Conjunto Habitacional Setor D, Itapevi",
+    "context": "Adega Vitao Bebidas LTDA (CNPJ 63.443.583/0001-45), fundada em 2025, comércio varejista de bebidas. Sede em Itapevi. Perfil: adega nova na região de Itapevi/Cotia, dentro do raio de 150km.",
+    "phone": "(11) 1964-1720",
+    "emailVerified": true,
+    "emailSource": "https://guiapj.com.br/consulta-cnpj/63443583000145",
+    "emailVerifiedAt": "2026-09-04",
+    "email1": true,
+    "date1": "2026-09-04"
+  },
+  {
+    "name": "MM Adega e Distribuidora",
+    "email": "matheus.mmendes@outlook.com",
+    "neighborhood": "Cidade Mones",
+    "type": "distribuidora",
+    "address": "Rua Conceicao de Monte Alegre, 107 - Cidade Mones, Sao Paulo",
+    "context": "M.M Adega e Distribuidora de Bebidas LTDA (CNPJ 49.728.570/0001-91), fundada em 2023, comércio varejista e distribuição de bebidas. Sede em São Paulo, Cidade Mones (Zona Sul). Perfil: adega + distribuidora, combinação atacado/varejo.",
+    "phone": "(11) 98939-0094",
+    "emailVerified": true,
+    "emailSource": "https://guiapj.com.br/consulta-cnpj/49728570000191",
+    "emailVerifiedAt": "2026-09-04",
+    "email1": true,
+    "date1": "2026-09-04"
+  },
+  {
+    "name": "Adega da Vila Jundiai",
+    "email": "andreadias22@hotmail.com",
+    "neighborhood": "Vila Marlene",
+    "type": "adega",
+    "address": "Av Bento Figueiredo, 645 - Vila Marlene, Jundiai",
+    "context": "D.Dias - Adega (CNPJ 30.807.403/0001-08), fundada em 2018, comércio varejista de bebidas. Sede em Jundiaí, bairro Vila Marlene. Região do Circuito das Frutas, dentro do raio de 150km de SP. Perfil: adega em área comercial ativa.",
+    "phone": "(11) 4038-5352",
+    "emailVerified": true,
+    "emailSource": "https://www.diariocidade.com/sp/jundiai/guia/adega-da-vila-30807403000108/",
+    "emailVerifiedAt": "2026-09-04",
+    "email1": true,
+    "date1": "2026-09-04"
+  },
+  {
+    "name": "Adega SOS da Cerveja",
+    "email": "luan_silverio@outlook.com",
+    "neighborhood": "Parque Residencial Jundiai",
+    "type": "adega",
+    "address": "Av Presbitero Manoel Antonio Dias Filho, 1800 - Parque Residencial Jundiai",
+    "context": "L. Silverio Bebidas (CNPJ 24.869.575/0001-03), fundada em 2016, comércio varejista de bebidas. Sede em Jundiaí, Parque Residencial Jundiaí. Perfil: adega com especialização em cervejas, dentro do raio de 150km.",
+    "phone": "(11) 6197-2134",
+    "emailVerified": true,
+    "emailSource": "https://www.diariocidade.com/sp/jundiai/guia/adega-sos-da-cerveja-24869575000103/",
+    "emailVerifiedAt": "2026-09-04",
+    "email1": true,
+    "date1": "2026-09-04"
+  },
+  {
+    "name": "Adega Brunholi",
+    "email": "sandra@brunholi.com.br",
+    "neighborhood": "Caxambu",
+    "type": "adega",
+    "address": "Av Humberto Cereser, 5920 - Caxambu, Jundiai",
+    "context": "Adega Brunholi LTDA (CNPJ 05.323.537/0001-06), fundada em 2002, comércio varejista de bebidas. Sede em Jundiaí, bairro Caxambu. Perfil: adega com 23+ anos de operação, domínio próprio (brunholi.com.br) com MX válido.",
+    "phone": "(11) 4584-7619",
+    "website": "https://www.brunholi.com.br",
+    "emailVerified": true,
+    "emailSource": "https://www.diariocidade.com/sp/jundiai/guia/adega-brunholi-ltda-05323537000106/",
+    "emailVerifiedAt": "2026-09-04",
+    "email1": true,
+    "date1": "2026-09-04"
+  },
+  {
+    "name": "Adega Ponto Certo",
+    "email": "adegapontocerto21@gmail.com",
+    "neighborhood": "Jardim Ana Maria",
+    "type": "adega",
+    "address": "Av Santos Dumont, 484 - Jardim Ana Maria, Sorocaba",
+    "context": "Adega Ponto Certo Distribuidora de Bebidas LTDA (CNPJ 42.416.111/0001-23), fundada em 2021, comércio varejista de bebidas. Sede em Sorocaba. Perfil: adega/distribuidora na região de Sorocaba, dentro do raio de 150km.",
+    "phone": "(15) 3318-2371",
+    "emailVerified": true,
+    "emailSource": "https://databrasil.net/empresas/42416111000123-ADEGA-PONTO-CERTO-DISTRIBUIDORA-DE-BEBIDAS-LTDA",
+    "emailVerifiedAt": "2026-09-04",
+    "email1": true,
+    "date1": "2026-09-04"
+  },
+  {
+    "name": "Adega MM Comercial",
+    "email": "adegammcomercial@gmail.com",
+    "neighborhood": "Jardim dos Passaros",
+    "type": "adega",
+    "address": "Rua Manoel Adolfo da Silva, 60 - Jardim dos Passaros, Sorocaba",
+    "context": "Adega MM Comercial LTDA (CNPJ 50.130.218/0001-39), fundada em 2023, comércio varejista de bebidas. Sede em Sorocaba. Perfil: adega na região de Sorocaba, dentro do raio de 150km.",
+    "phone": "(15) 9628-1035",
+    "emailVerified": true,
+    "emailSource": "https://www.diariocidade.com/sp/sorocaba/guia/adega-mm-50130218000139/",
+    "emailVerifiedAt": "2026-09-04",
+    "email1": true,
+    "date1": "2026-09-04"
+  },
+  {
+    "name": "A.B Carneiro Adega",
+    "email": "adeilsonbarbosapb@gmail.com",
+    "neighborhood": "Centro",
+    "type": "adega",
+    "address": "Guarulhos/SP",
+    "context": "A.B Carneiro Adega (CNPJ 35.022.611/0001-15), fundada em 2019, comércio varejista de bebidas, sócio Adeilson Barbosa Carneiro. Sede em Guarulhos. Perfil: adega na região de Guarulhos, dentro do raio de 150km.",
+    "emailVerified": true,
+    "emailSource": "https://mestregeo.com.br/cnpj/sp/guarulhos/a-b-carneiro-adega-35022611000115",
+    "emailVerifiedAt": "2026-09-04",
+    "invalidEmail": false,
+    "email1": true,
+    "date1": "2026-09-05"
+  },
+  {
+    "name": "Jr Bebidas Adega",
+    "email": "diascont254@gmail.com",
+    "neighborhood": "Centro",
+    "type": "adega",
+    "address": "Guarulhos/SP",
+    "context": "Jr Bebidas Adega (CNPJ 67.514.796/0001-71), fundada em 2026, comércio varejista de bebidas, sócio Joao Paulo Rego da Silva. Sede em Guarulhos. Perfil: adega nova em Guarulhos, dentro do raio de 150km.",
+    "emailVerified": true,
+    "emailSource": "https://mestregeo.com.br/cnpj/sp/guarulhos/jr-bebidas-adega-67514796000171",
+    "emailVerifiedAt": "2026-09-04",
+    "invalidEmail": false,
+    "email1": true,
+    "date1": "2026-09-05"
+  },
+  {
+    "name": "Adega TC Distribuidora",
+    "email": "fabriciodopados10@gmail.com",
+    "neighborhood": "Guarulhos",
+    "type": "distribuidora",
+    "address": "Guarulhos/SP",
+    "context": "Adega TC Distribuidora (CNPJ 62.189.742/0001-64), fundada em 2025, comércio varejista de bebidas, sócio Fabricio Santos de Almeida. Empresa de pequeno porte. Sede em Guarulhos. Perfil: distribuidora em Guarulhos, dentro do raio de 150km.",
+    "emailVerified": true,
+    "emailSource": "https://mestregeo.com.br/cnpj/sp/guarulhos/adega-tc-distribuidora-62189742000164",
+    "emailVerifiedAt": "2026-09-04",
+    "invalidEmail": false,
+    "email1": true,
+    "date1": "2026-09-05"
+  },
+  {
+    "name": "Adega Conrado e Mercearia",
+    "email": "adegaconrado@gmail.com",
+    "neighborhood": "Jardim Santa Mena",
+    "type": "adega",
+    "address": "Rua Conrado, 12 - Jardim Santa Mena, Guarulhos",
+    "context": "Adega Conrado e Mercearia LTDA (CNPJ 33.539.144/0001-70), fundada em 2019, adega, mercearia e lanchonete. Sede em Guarulhos, bairro Jardim Santa Mena. Perfil: adega + mercearia em Guarulhos, dentro do raio.",
+    "phone": "(11) 6701-9147",
+    "emailVerified": true,
+    "emailSource": "https://www.diariocidade.com/sp/guarulhos/guia/adega-conrado-e-mercearia-33539144000170/",
+    "emailVerifiedAt": "2026-09-04",
+    "invalidEmail": false,
+    "email1": true,
+    "date1": "2026-09-05"
+  },
+  {
+    "name": "Tico & Teco Distribuidora",
+    "email": "ticoetecodistribuidora@hotmail.com",
+    "neighborhood": "Jardim Centenario",
+    "type": "distribuidora",
+    "address": "Av Eng Augusto Figueiredo, 3200 - Jardim Centenario, Campinas",
+    "context": "Distribuidora de Bebidas Tico & Teco, 25 anos de tradição, distribuição e entrega rápida de mix completo de bebidas para Campinas, Valinhos, Jundiaí, Hortolândia, Americana e mais 15 cidades (Sumaré, Paulínia, Vinhedo, Itatiba). Sócio identifica feito por WhatsApp. Perfil: distribuidora estabelecida de grande porte na região de Campinas, dentro do raio de 150km. Fit ideal para cachaça artesanal no mix de destilados.",
+    "phone": "(19) 3276-7215",
+    "website": "https://distribuidoraticoeteco.com.br/",
+    "emailVerified": true,
+    "emailSource": "https://distribuidoraticoeteco.com.br/",
+    "emailVerifiedAt": "2026-09-04",
+    "invalidEmail": false,
+    "email1": true,
+    "date1": "2026-09-05"
+  },
+  {
+    "name": "Adega Ultimo Gole",
+    "email": "opointdacerveja@gmail.com",
+    "neighborhood": "Vila Didi",
+    "type": "adega",
+    "address": "Av Nacoes Unidas, 1711 - Vila Didi, Jundiai",
+    "context": "O Point da Cerveja LTDA (CNPJ 65.200.472/0001-33) nome fantasia Adega Ultimo Gole, fundada em 2026, comércio varejista de bebidas. Sede em Jundiaí, Vila Didi. Perfil: adega nova em Jundiaí, circuito das frutas, dentro do raio de 150km.",
+    "phone": "(11) 97157-2100",
+    "emailVerified": true,
+    "emailSource": "https://guiapj.com.br/consulta-cnpj/65200472000133",
+    "emailVerifiedAt": "2026-09-04",
+    "invalidEmail": false,
+    "email1": true,
+    "date1": "2026-09-05"
+  },
+  {
+    "name": "Adega Ice Beer",
+    "email": "gasparaoliveira@hotmail.com",
+    "neighborhood": "Jardim Pacaembu",
+    "type": "adega",
+    "address": "Rua Paschoal Segre, 510 - Jardim Pacaembu, Jundiai",
+    "context": "Adilson Aparecido Ferreira Bebidas (CNPJ 33.865.621/0001-97), nome fantasia Adega Ice Beer, fundada em 2019, comércio varejista de bebidas. Sede em Jundiaí, Jardim Pacaembu. Perfil: adega em Jundiaí, dentro do raio de 150km.",
+    "phone": "(11) 9514-5142",
+    "emailVerified": true,
+    "emailSource": "https://www.diariocidade.com/sp/jundiai/guia/adega-ice-beer-33865621000197/",
+    "emailVerifiedAt": "2026-09-04",
+    "invalidEmail": false,
+    "email1": true,
+    "date1": "2026-09-05"
+  },
+  {
+    "name": "Adega Ta Na Mao",
+    "email": "adegatanamao@gmail.com",
+    "neighborhood": "São Jose dos Campos",
+    "type": "adega",
+    "address": "Rua Renato Alves da Cunha, 161 - Sao Jose dos Campos",
+    "context": "Adega Ta Na Mao, loja de bebidas em São José dos Campos (site ueniweb ativo), especializada em grande variedade de bebidas nacionais e importadas. Perfil: adega na região de SJC, dentro do raio de 150km.",
+    "phone": "(12) 99732-7070",
+    "website": "https://adega-ta-na-mao.ueniweb.com/",
+    "emailVerified": true,
+    "emailSource": "https://adega-ta-na-mao.ueniweb.com/",
+    "emailVerifiedAt": "2026-09-04",
+    "invalidEmail": false,
+    "email1": true,
+    "date1": "2026-09-05"
+  },
+  {
+    "name": "Adega e Distribuidora Nevada",
+    "email": "denilsonsalessouza@hotmail.com",
+    "type": "distribuidora",
+    "neighborhood": "Jardim Elvira",
+    "city": "Osasco",
+    "address": "Av. Prof. Lourenço Filho 1152",
+    "context": "Adega e distribuidora de bebidas; CNPJ 50.483.476/0001-07; fundada 2023; atacadista de bebidas",
+    "phone": "(11) 6575-3122",
+    "website": "https://maiscnpj.com.br/cnpj/50483476000107",
+    "template": "consultivo",
+    "emailVerified": true,
+    "emailVerifiedAt": "2026-09-05",
+    "emailSource": "https://maiscnpj.com.br/cnpj/50483476000107",
+    "mxVerified": true
+  },
+  {
+    "name": "Adega Flex",
+    "email": "alexandresouzat@gmail.com",
+    "type": "distribuidora",
+    "neighborhood": "Novo Osasco",
+    "city": "Osasco",
+    "address": "Via Transversal Sul 260, Loja 12",
+    "context": "Distribuidora de bebidas; CNPJ 34.294.665/0001-77; fundada 2019; comércio varejista de bebidas",
+    "phone": "(11) 8675-2183",
+    "website": "https://www.diariocidade.com/sp/osasco/guia/adega-flex-34294665000177/",
+    "template": "consultivo",
+    "emailVerified": true,
+    "emailVerifiedAt": "2026-09-05",
+    "emailSource": "https://www.diariocidade.com/sp/osasco/guia/adega-flex-34294665000177/",
+    "mxVerified": true
+  },
+  {
+    "name": "Adega de Bebidas Pai e Filho",
+    "email": "adega.irmaospereira@gmail.com",
+    "type": "distribuidora",
+    "neighborhood": "Vila São Luiz",
+    "city": "Barueri",
+    "address": "Rua Alberto José da Mota 392",
+    "context": "Distribuidora de bebidas; CNPJ 44.512.386/0001-96; fundada 2021; comércio varejista de bebidas",
+    "phone": "(11) 5657-1074",
+    "website": "https://www.diariocidade.com/sp/barueri/guia/adega-de-bebidas-pai-e-filho-ltda-44512386000196/",
+    "template": "consultivo",
+    "emailVerified": true,
+    "emailVerifiedAt": "2026-09-05",
+    "emailSource": "https://www.diariocidade.com/sp/barueri/guia/adega-de-bebidas-pai-e-filho-ltda-44512386000196/",
+    "mxVerified": true
+  },
+  {
+    "name": "Adega da Vila",
+    "email": "bebidasadegadavila@gmail.com",
+    "type": "distribuidora",
+    "neighborhood": "Vila Universal",
+    "city": "Barueri",
+    "address": "Rua Maria Eliza 129",
+    "context": "Distribuidora de bebidas; CNPJ 24.292.928/0001-30; fundada 2016; atacadista com fracionamento",
+    "phone": "(11) 4198-9844",
+    "website": "https://www.diariocidade.com/sp/barueri/guia/adega-da-vila-24291928000130/",
+    "template": "consultivo",
+    "emailVerified": true,
+    "emailVerifiedAt": "2026-09-05",
+    "emailSource": "https://www.diariocidade.com/sp/barueri/guia/adega-da-vila-24291928000130/",
+    "mxVerified": true
+  },
+  {
+    "name": "Adega Isabella",
+    "email": "baradeli183@gmail.com",
+    "type": "distribuidora",
+    "neighborhood": "Jardim Mutinga",
+    "city": "Barueri",
+    "address": "Rua Alagoinha 1278",
+    "context": "Distribuidora e comércio de bebidas; CNPJ 45.703.570/0001-86; fundada 2022; comércio varejista de bebidas",
+    "phone": "(11) 7101-8004",
+    "website": "https://www.diariocidade.com/sp/barueri/guia/adega-isabella-45703570000186/",
+    "template": "consultivo",
+    "emailVerified": true,
+    "emailVerifiedAt": "2026-09-05",
+    "emailSource": "https://www.diariocidade.com/sp/barueri/guia/adega-isabella-45703570000186/",
+    "mxVerified": true
+  },
+  {
+    "name": "Adega do Paje",
+    "email": "lukinhassantana248@gmail.com",
+    "type": "distribuidora",
+    "neighborhood": "Jardim Itaparica",
+    "city": "Barueri",
+    "address": "Rua Cidade Botucatu 103",
+    "context": "Distribuidora de bebidas; CNPJ 36.320.814/0001-50; fundada 2020; comércio varejista de bebidas",
+    "phone": "(11) 9989-2146",
+    "website": "https://www.diariocidade.com/sp/barueri/guia/adega-do-paje-36320814000150/",
+    "template": "consultivo",
+    "emailVerified": true,
+    "emailVerifiedAt": "2026-09-05",
+    "emailSource": "https://www.diariocidade.com/sp/barueri/guia/adega-do-paje-36320814000150/",
+    "mxVerified": true
+  },
+  {
+    "name": "Adega do Alemão Comercial",
+    "email": "vivitrs@hotmail.com",
+    "type": "distribuidora",
+    "neighborhood": "Caucaia do Alto",
+    "city": "Cotia",
+    "address": "Rua Adriano Pires de Oliveira 440",
+    "context": "Adega e distribuidora; CNPJ 67.928.051/0001-59; fundada 1992; atacadista de bebidas há 33 anos",
+    "phone": "(11) 9479-6215",
+    "website": "https://www.diariocidade.com/sp/cotia/guia/adega-do-alemao-comercial-ltda-67928051000159/",
+    "template": "consultivo",
+    "emailVerified": true,
+    "emailVerifiedAt": "2026-09-05",
+    "emailSource": "https://www.diariocidade.com/sp/cotia/guia/adega-do-alemao-comercial-ltda-67928051000159/",
+    "mxVerified": true
+  },
+  {
+    "name": "Adega Dcharlys",
+    "email": "dioney.charlyn@gmail.com",
+    "type": "adega",
+    "neighborhood": "Recanto dos Victors",
+    "city": "Cotia",
+    "address": "Rua Voturama 244",
+    "context": "Adega e bar; CNPJ 43.087.821/0001-10; fundada 2021; comércio varejista de bebidas",
+    "phone": "(11) 7546-4513",
+    "website": "https://www.diariocidade.com/sp/cotia/guia/adega-dcharlys-eireli-43087821000110/",
+    "template": "consultivo",
+    "emailVerified": true,
+    "emailVerifiedAt": "2026-09-05",
+    "emailSource": "https://www.diariocidade.com/sp/cotia/guia/adega-dcharlys-eireli-43087821000110/",
+    "mxVerified": true,
+    "email1": true,
+    "date1": "2026-09-06"
+  },
+  {
+    "name": "Adega Distribuidora Stop",
+    "email": "fabinho200826@hotmail.com",
+    "type": "distribuidora",
+    "neighborhood": "Jardim São Marcos",
+    "city": "Embu das Artes",
+    "address": "Rua Augusto de Almeida Batista 150",
+    "context": "Depósito de bebidas/distribuidora; CNPJ 28.356.119/0001-10; fundada 2017",
+    "phone": "(11) 8276-1409",
+    "website": "https://www.solutudo.com.br/empresas/sp/embu-das-artes/depositos-de-bebidas/adega-distribuidora-stop-13937792",
+    "template": "consultivo",
+    "emailVerified": true,
+    "emailVerifiedAt": "2026-09-05",
+    "emailSource": "https://www.solutudo.com.br/empresas/sp/embu-das-artes/depositos-de-bebidas/adega-distribuidora-stop-13937792",
+    "mxVerified": true
   }
 ]

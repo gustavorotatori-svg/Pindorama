@@ -1,0 +1,178 @@
+[
+  {
+    "auditedAt": "2026-09-01T23:11:00-03:00",
+    "source": "https://distribuidorajg.com.br/",
+    "candidate": "Distribuidora JG",
+    "email": "vendas@distribuidorajg.com.br",
+    "result": "rejected_duplicate",
+    "reason": "Empresa e email ja constam no master. Fonte oficial confirma operacao ativa, atendimento B2B e oferta de cachacas."
+  },
+  {
+    "auditedAt": "2026-09-01T23:11:00-03:00",
+    "source": "https://www.forcato.com.br/",
+    "candidate": "Forcato Commerce",
+    "email": "contato@forcato.com.br",
+    "result": "rejected_duplicate",
+    "reason": "Empresa e email ja constam no master. Fonte oficial confirma distribuidora B2B ativa em Guarulhos."
+  },
+  {
+    "auditedAt": "2026-09-01T23:11:00-03:00",
+    "source": "https://ferrazcomercio.com.br/",
+    "candidate": "Ferraz Distribuidora",
+    "email": "contato@ferrazcomercio.com.br",
+    "result": "rejected_duplicate",
+    "reason": "Empresa e email ja constam no master. Fonte oficial confirma atacado B2B ativo, destilados e cachacas."
+  },
+  {
+    "auditedAt": "2026-09-01T23:11:00-03:00",
+    "source": "https://maisdistribuidoraalimentos.com.br/Autenticar.aspx",
+    "candidate": "Mais Distribuidora",
+    "email": "adm.vendas@maisdistribuidoraalimentos.com.br",
+    "result": "rejected_company_duplicate",
+    "reason": "O master ja contem a mesma empresa com outro dominio. Nao criar novo contato frio sem reconciliar a identidade para evitar duplicidade."
+  },
+  {
+    "auditedAt": "2026-09-01T23:24:00-03:00",
+    "source": "https://www.casinhamineira.com/",
+    "candidate": "Casinha Mineira",
+    "email": "contato@casinhamineira.com.br",
+    "result": "rejected_no_mx",
+    "reason": "Fonte oficial confirma restaurante ativo na Bela Vista e selecao de cachacas artesanais, mas o dominio publicado para email retornou NXDOMAIN; contato suprimido para evitar bounce."
+  },
+  {
+    "auditedAt": "2026-09-01T23:24:00-03:00",
+    "source": "https://www.ranchourbano.com.br/",
+    "candidate": "Emporio Rancho Urbano",
+    "email": "contato@ranchourbano.com.br",
+    "result": "rejected_duplicate",
+    "reason": "Fonte oficial confirma operacao ativa, 160 rotulos de cachaca, delivery e eventos; empresa e email ja constam no master."
+  },
+  {
+    "auditedAt": "2026-09-01T23:39:00-03:00",
+    "source": "https://www.germaniafreguesia.com.br/",
+    "candidate": "Germania Freguesia",
+    "email": "atendimento@germania-freguesia.builderallwppro.com",
+    "result": "rejected_no_mx",
+    "reason": "Fonte oficial confirma operacao ativa, cachacas, eventos e canal empresarial, mas o dominio publicado para email nao possui MX; envio bloqueado para evitar bounce."
+  },
+  {
+    "auditedAt": "2026-09-01T23:39:00-03:00",
+    "source": "https://aguadoce.com.br/osasco/",
+    "candidate": "Agua Doce Osasco",
+    "email": null,
+    "result": "rejected_unverifiable_email",
+    "reason": "Pagina oficial confirma unidade ativa em Osasco, cachacas seletas, drinks e telefone empresarial, mas o email aparece protegido e nao foi possivel recuperar um endereco exato verificavel neste ciclo."
+  },
+  {
+    "auditedAt": "2026-09-01T23:54:00-03:00",
+    "source": "https://pereiradistribuidora.com/",
+    "candidate": "Distribuidora Pereira",
+    "email": "contato@distribuidorapereira.com.br",
+    "result": "rejected_no_mail_service",
+    "reason": "Site declara atendimento B2B em Osasco e Grande Sao Paulo, mas o dominio do email publica MX nulo (.). Envio bloqueado para evitar falha SMTP."
+  },
+  {
+    "auditedAt": "2026-09-01T23:54:00-03:00",
+    "source": "https://bardapracinha.com.br/",
+    "candidate": "Bar da Pracinha",
+    "email": "contato@bardapracinha.com.br",
+    "result": "rejected_invalid_territory",
+    "reason": "A pagina oficial confirma cachaças selecionadas, caipirinhas e operacao ativa, mas o estabelecimento fica no Alto da Boa Vista, Rio de Janeiro/RJ, fora do territorio vigente."
+  },
+  {
+    "auditedAt": "2026-09-02T00:10:00-03:00",
+    "source": "https://emporiodemarchi.com.br/",
+    "candidate": "Emporio Demarchi",
+    "email": "contato@emporiodemarchi.com.br",
+    "result": "rejected_stale_activity_evidence",
+    "reason": "Site e MX existem e o estabelecimento declara venda de cachacas em Sao Bernardo do Campo, mas a evidencia rastreavel de atividade e antiga demais para satisfazer o requisito de operacao recente."
+  },
+  {
+    "auditedAt": "2026-09-02T00:10:00-03:00",
+    "source": "https://petropolispub.com.br/",
+    "candidate": "Petropolis Music Pub",
+    "email": "contato@petropolispub.com.br",
+    "result": "rejected_insufficient_category_signal",
+    "reason": "Site oficial e MX confirmam pub ativo em Sao Bernardo do Campo com canal empresarial, mas nao ha sinal concreto publicado de cachaca, caipirinha, coquetelaria ou destilados premium para priorizacao neste ciclo."
+  },
+  {
+    "auditedAt": "2026-09-02T00:25:00-03:00",
+    "source": "web_search",
+    "candidate": null,
+    "email": null,
+    "result": "no_candidate_found",
+    "reason": "Buscas direcionadas por lojas, adegas e restaurantes com cachacas e email empresarial em Santo Andre, Osasco e Guarulhos nao retornaram resultados novos; nenhum dado foi inventado ou reaproveitado sem evidencia."
+  },
+  {
+    "auditedAt": "2026-09-02T11:18:00-03:00",
+    "source": "https://www.adegadokinho.com.br/",
+    "candidate": "Adega do Kinho",
+    "email": "contato@elementadega.com.br",
+    "result": "rejected_no_mx",
+    "reason": "O site oficial e recente confirma adega ativa, destilados e delivery em Sao Paulo, mas o dominio publicado para o email retornou NXDOMAIN; envio bloqueado."
+  },
+  {
+    "auditedAt": "2026-09-02T11:18:00-03:00",
+    "source": "https://www.fg7bebidas.com.br/",
+    "candidate": "FG7 Bebidas",
+    "email": "site@fg7bebidas.com.br",
+    "result": "qualified",
+    "reason": "Site oficial publica loja de bebidas ativa, destilados, aguardentes, cachacas e canal empresarial; empresa e email nao constavam no master nem nas supressoes e o MX foi confirmado."
+  },
+  {
+    "auditedAt": "2026-09-02T11:18:00-03:00",
+    "source": "https://www.jmatosbebidas.com.br/contact",
+    "candidate": "JMatos Bebidas",
+    "email": "comercial@jmatosbebidas.com.br",
+    "result": "qualified",
+    "reason": "Site oficial recente confirma distribuidora voltada a eventos, degustacao, consignacao e publica canal comercial dedicado; empresa e email nao constavam no master nem nas supressoes e o MX foi confirmado."
+  },
+  {
+    "auditedAt": "2026-09-02T12:41:00-03:00",
+    "source": "https://www.megaadega.com.br/",
+    "candidate": "Mega Adega",
+    "email": "adega@megaadega.com.br",
+    "result": "rejected_duplicate",
+    "reason": "Site oficial recente confirma loja ativa, mais de 4.000 rotulos, cachaca e WhatsApp, mas empresa e email ja constam no master; nenhuma nova ficha foi criada."
+  },
+  {
+    "auditedAt": "2026-09-02T12:41:00-03:00",
+    "source": "https://nakashibar.com.br/",
+    "candidate": "Nakashi Bar",
+    "email": null,
+    "result": "rejected_insufficient_category_signal",
+    "reason": "Site oficial ativo publica drinks, saques, caipirinhas e WhatsApp, mas nao confirma cachaca nem destilados premium; ficou abaixo da prioridade comercial exigida."
+  },
+  {
+    "auditedAt": "2026-09-02T14:02:00-03:00",
+    "source": "https://maskdistribuidora.com.br/contato",
+    "candidate": "MaskMais Distribuidora",
+    "email": "contato@maskmais.com.br",
+    "result": "rejected_insufficient_category_signal",
+    "reason": "Site oficial ativo publica distribuidora regional e WhatsApp comercial em Bauru, mas nao confirma bebidas, cachaca ou destilados no portfolio; ficou abaixo da prioridade exigida."
+  },
+  {
+    "auditedAt": "2026-09-02T14:18:00-03:00",
+    "source": "https://villabrunholi.com.br/adega",
+    "candidate": "Villa Brunholi",
+    "email": "adega@brunholi.com.br",
+    "result": "rejected_competitive_conflict",
+    "reason": "Site oficial recente confirma adega ativa, mas a empresa comercializa cachacas premiadas e caipirinhas de fabricacao propria; por conflito competitivo direto, nao foi qualificada para abordagem comercial da Pindorama."
+  },
+  {
+    "auditedAt": "2026-09-02T17:15:00-03:00",
+    "source": "https://santitoneis.com.br/categoria/367870/1431971640",
+    "candidate": "Santi Toneis",
+    "email": null,
+    "result": "rejected_competitive_conflict",
+    "reason": "Loja transacional ativa em Bauru publica WhatsApp, cachacas premium, barris e toneis, mas nao separa marcas revendidas de linha propria e se posiciona como fornecedora do ecossistema de producao; conflito competitivo e comprador incerto impediram a qualificacao."
+  },
+  {
+    "auditedAt": "2026-09-03T17:14:20-03:00",
+    "source": "https://cnpj.biz/11908956000102",
+    "candidate": "DMS Comercio e Distribuidora de Cachaca Saliboa",
+    "email": null,
+    "result": "rejected_inactive_operation",
+    "reason": "Pesquisa registrou comercio atacadista de bebidas e cachacas em Campinas, mas a situacao cadastral consta inapta desde 2018; sem evidencia suficiente de operacao ativa recente, nao foi qualificada."
+  }
+]

@@ -87,5 +87,86 @@
     "phone": "(11) 91665-0598",
     "source": "https://www.forcato.com.br/",
     "messageId": "3EB07691E0471F90DB1DB7"
+  },
+  {
+    "date": "2026-08-31",
+    "acceptedAt": "2026-08-31T13:07:00.000Z",
+    "status": "accepted",
+    "name": "Emporio do Mineiro Vila Sao Francisco",
+    "phone": "(11) 95092-0430",
+    "source": "https://emporiodomineirovilasf.com.br/",
+    "uiProof": "WhatsApp Web exibiu a mensagem as 10:07 com status delivered"
+  },
+  {
+    "date": "2026-08-31",
+    "acceptedAt": "2026-08-31T13:09:00.000Z",
+    "status": "accepted",
+    "name": "A Casa do Produtor",
+    "phone": "(11) 97641-8492",
+    "source": "https://acasadoprodutor.com.br/",
+    "uiProof": "WhatsApp Web exibiu a mensagem e recebeu resposta automatica as 10:09"
+  },
+  {
+    "date": "2026-08-31",
+    "checkedAt": "2026-08-31T13:10:00.000Z",
+    "status": "not_on_whatsapp",
+    "name": "Dose7 Bebidas",
+    "phone": "(11) 99670-8675",
+    "source": "https://dose7.com.br/atacado/",
+    "uiProof": "WhatsApp Web informou que o numero nao esta no WhatsApp"
+  },
+  {
+    "date": "2026-08-31",
+    "acceptedAt": "2026-08-31T13:11:00.000Z",
+    "status": "accepted",
+    "name": "Cachaca Roca de Garca",
+    "phone": "(11) 99745-5125",
+    "source": "https://www.rocadegarca.com.br/cachacas",
+    "uiProof": "WhatsApp Web exibiu a mensagem as 10:11 com status read"
+  },
+  {
+    "date": "2026-08-31",
+    "acceptedAt": "2026-08-31T13:12:00.000Z",
+    "status": "accepted",
+    "name": "Marco Sete Distribuicao de Bebidas Premium",
+    "phone": "(11) 96258-0051",
+    "source": "https://www.marcosete.com.br/",
+    "uiProof": "WhatsApp Web exibiu a mensagem as 10:12 com status read"
+  },
+  {
+    "date": "2026-09-02",
+    "acceptedAt": "2026-09-02T14:29:00.000Z",
+    "status": "accepted",
+    "name": "Adega Sky Blue",
+    "phone": "(11) 95466-2782",
+    "source": "https://www.starfood.com.br/adegaskyblue",
+    "uiProof": "WhatsApp Web exibiu a mensagem as 11:29"
+  },
+  {
+    "date": "2026-09-02",
+    "acceptedAt": "2026-09-02T14:33:00.000Z",
+    "status": "accepted",
+    "name": "Germania Freguesia",
+    "phone": "(11) 99389-8691",
+    "source": "https://germaniafreguesia.com.br/",
+    "uiProof": "WhatsApp Web exibiu a mensagem as 11:33 e recebeu resposta automatica"
+  },
+  {
+    "date": "2026-09-02",
+    "acceptedAt": "2026-09-02T14:33:00.000Z",
+    "status": "accepted",
+    "name": "Adega Bolinha",
+    "phone": "(11) 98950-9911",
+    "source": "https://www.guedalamais.com.br/card/adega-bolinha",
+    "uiProof": "WhatsApp Web exibiu a mensagem as 11:33"
+  },
+  {
+    "date": "2026-09-02",
+    "acceptedAt": "2026-09-02T14:35:00.000Z",
+    "status": "accepted",
+    "name": "Casa Zilanna Mercearia Idish",
+    "phone": "(11) 97622-2768",
+    "source": "https://www.brasilchik.com/onde-encontrar",
+    "uiProof": "WhatsApp Web exibiu a abordagem e recebeu resposta as 11:35"
   }
 ]

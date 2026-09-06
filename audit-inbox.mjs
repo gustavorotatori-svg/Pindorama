@@ -2,8 +2,8 @@ import Imap from 'imap';
 import { simpleParser } from 'mailparser';
 
 const imap = new Imap({
-  user: 'cachaca011pindorama@gmail.com',
-  password: 'wnau jrrr rjpc zuuv',
+  user: process.env.GMAIL_USER || 'cachaca011pindorama@gmail.com',
+  password: process.env.GMAIL_APP_PASSWORD,
   host: 'imap.gmail.com',
   port: 993,
   tls: true,
@@ -36,21 +36,30 @@ function fetchEmails(uids) {
   return new Promise((resolve, reject) => {
     if (!uids || uids.length === 0) { resolve([]); return; }
     const emails = [];
+    const parsers = [];
     const f = imap.fetch(uids, { bodies: '', markSeen: false });
     f.on('message', (msg, seqno) => {
       msg.on('body', (stream) => {
-        simpleParser(stream, (err, parsed) => {
-          if (!err) emails.push({
+        parsers.push(simpleParser(stream).then(parsed => {
+          emails.push({
             from: parsed.from?.text || '',
             subject: parsed.subject || '',
             date: parsed.date?.toISOString() || '',
             text: (parsed.text || '').substring(0, 500),
           });
-        });
+        }));
       });
     });
     f.once('error', reject);
-    f.once('end', () => resolve(emails));
+    f.once('end', async () => {
+      try {
+        await Promise.all(parsers);
+        emails.sort((a, b) => String(a.date).localeCompare(String(b.date)));
+        resolve(emails);
+      } catch (error) {
+        reject(error);
+      }
+    });
   });
 }
 

@@ -4,9 +4,18 @@ Fonte de verdade atualizada pelo usuário em 07/08/2026. Esta política prevalec
 
 ## Canais e limites
 
+### Execucao profissional em lotes
+
+- Prospecção fria por e-mail deve ser preparada e enviada em lotes, não em operações manuais isoladas.
+- Antes do disparo, o lote inteiro deve passar por fonte recente/oficial, deduplicação, supressões, MX, bounce pendente, autenticação e cota móvel compartilhada.
+- Cada destinatário continua recebendo assunto e mensagem individualizados; lote não autoriza BCC, texto genérico ou perda de rastreabilidade.
+- Registrar por destinatário: aceito, rejeitado, falha, message-id/comprovante e consumo da cota.
+- Imediatamente antes de cada envio, reabrir o master e consultar os Enviados do Gmail para o destinatário; se outra execução tiver enviado ou marcado o lead desde a preparação do lote, cancelar aquele item. A validação feita no início do lote não substitui esta checagem transacional final.
+- Envios unitários ficam reservados a respostas, follow-ups prioritários, relatórios e exceções justificadas.
+
 - E-mail: máximo de 35 envios totais por conta em qualquer janela móvel de 24 horas, incluindo apresentação, follow-ups, respostas automáticas e relatórios.
 - E-mail pode ser enviado em qualquer dia e horário, enquanto o computador estiver ligado.
-- WhatsApp: máximo de 4 mensagens por dia neste projeto.
+- WhatsApp: máximo de 6 primeiras abordagens por dia neste projeto.
 - WhatsApp somente de segunda a sábado, das 09:00 às 20:00, fuso `America/Sao_Paulo`.
 - Nunca enviar WhatsApp aos domingos ou fora da janela permitida.
 - WhatsApp é somente para a primeira abordagem: no máximo uma mensagem por empresa.

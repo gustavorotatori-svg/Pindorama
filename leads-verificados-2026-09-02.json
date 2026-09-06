@@ -1,0 +1,30 @@
+[
+  {
+    "name": "FG7 Bebidas",
+    "email": "site@fg7bebidas.com.br",
+    "type": "loja_bebidas",
+    "neighborhood": "Sao Paulo",
+    "context": "a loja publica destilados, aguardentes e cachacas, com atendimento empresarial por telefone e WhatsApp",
+    "phone": "(11) 94787-0025",
+    "website": "https://www.fg7bebidas.com.br/",
+    "emailVerified": true,
+    "emailSource": "https://www.fg7bebidas.com.br/",
+    "emailVerifiedAt": "2026-09-02",
+    "mxVerified": true,
+    "template": "consultivo"
+  },
+  {
+    "name": "JMatos Bebidas",
+    "email": "comercial@jmatosbebidas.com.br",
+    "type": "distribuidora",
+    "neighborhood": "Mirandopolis",
+    "context": "a distribuidora atende eventos, oferece consultoria, degustacao, consignacao e publica um canal comercial dedicado",
+    "phone": "+55 (11) 2373-2970",
+    "website": "https://www.jmatosbebidas.com.br/",
+    "emailVerified": true,
+    "emailSource": "https://www.jmatosbebidas.com.br/contact",
+    "emailVerifiedAt": "2026-09-02",
+    "mxVerified": true,
+    "template": "consultivo"
+  }
+]

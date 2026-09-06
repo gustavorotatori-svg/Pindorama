@@ -20,8 +20,8 @@ server.listen(3001, '0.0.0.0', () => {
   console.log('Libere a porta 3001 no firewall do GCP (regra com tag http-qr)');
 });
 
-function connect() {
-  const { state, saveCreds } = useMultiFileAuthState(SESSION_DIR);
+async function connect() {
+  const { state, saveCreds } = await useMultiFileAuthState(SESSION_DIR);
   const sock = makeWASocket({ auth: state, printQRInTerminal: false, browser: ['Pindorama', 'Chrome', '1.0'] });
   sock.ev.on('creds.update', saveCreds);
 
@@ -45,11 +45,11 @@ function connect() {
         console.log('Sessao encerrada no celular. Escaneie o QR de novo.');
       } else {
         console.log('Conexao caiu — reconectando...');
-        setTimeout(() => connect(), 5000);
+        setTimeout(() => connect().catch((e) => console.error('Erro reconexao:', e.message)), 5000);
       }
     }
   });
   return sock;
 }
 
-connect();
+connect().catch((e) => { console.error('Falha ao iniciar pareamento:', e.message); process.exit(1); });
