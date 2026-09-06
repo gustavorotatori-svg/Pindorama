@@ -33048,7 +33048,10 @@
     "emailVerifiedAt": "2026-09-05",
     "emailSource": "https://www.instagram.com/3brasseursbrasil/?hl=fr",
     "email1": true,
-    "date1": "2026-09-05"
+    "date1": "2026-09-05",
+    "doNotContact": true,
+    "bounced": true,
+    "bounceDate": "2026-09-06"
   },
   {
     "name": "Vilinha Steakhouse",
@@ -33252,7 +33255,10 @@
     "emailVerifiedAt": "2026-09-05",
     "emailSource": "https://www.instagram.com/lemanjue/",
     "email1": true,
-    "date1": "2026-09-05"
+    "date1": "2026-09-05",
+    "doNotContact": true,
+    "bounced": true,
+    "bounceDate": "2026-09-06"
   },
   {
     "name": "PÃ£o de alho do tio nico",
@@ -38044,7 +38050,10 @@
     "status": "qualified_pending_import",
     "template": "prova_social",
     "email1": true,
-    "date1": "2026-09-04"
+    "date1": "2026-09-04",
+    "doNotContact": true,
+    "bounced": true,
+    "bounceDate": "2026-09-06"
   },
   {
     "name": "Hanami Restaurante",
@@ -38337,7 +38346,10 @@
     "status": "uncontacted",
     "template": "consultivo",
     "email1": true,
-    "date1": "2026-09-04"
+    "date1": "2026-09-04",
+    "doNotContact": true,
+    "bounced": true,
+    "bounceDate": "2026-09-06"
   },
   {
     "name": "Adega Meireles",
@@ -38421,7 +38433,10 @@
     "emailSource": "https://guiapj.com.br/consulta-cnpj/63443583000145",
     "emailVerifiedAt": "2026-09-04",
     "email1": true,
-    "date1": "2026-09-04"
+    "date1": "2026-09-04",
+    "doNotContact": true,
+    "bounced": true,
+    "bounceDate": "2026-09-06"
   },
   {
     "name": "MM Adega e Distribuidora",
@@ -38609,7 +38624,10 @@
     "emailVerifiedAt": "2026-09-04",
     "invalidEmail": false,
     "email1": true,
-    "date1": "2026-09-05"
+    "date1": "2026-09-05",
+    "doNotContact": true,
+    "bounced": true,
+    "bounceDate": "2026-09-06"
   },
   {
     "name": "Adega Ta Na Mao",
