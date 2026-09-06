@@ -33352,7 +33352,10 @@
     "emailVerifiedAt": "2026-09-05",
     "emailSource": "https://www.instagram.com/lilorisemgluten/?hl=pt",
     "email1": true,
-    "date1": "2026-09-05"
+    "date1": "2026-09-05",
+    "doNotContact": true,
+    "bounced": true,
+    "bounceDate": "2026-09-06"
   },
   {
     "name": "GELATO BOUTIQUE",
