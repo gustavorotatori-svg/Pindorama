@@ -111,6 +111,84 @@ const dailyHtml = daily.map(d => `
     <div class="bar"><div class="bar-fill" style="width:${d.enviados ? Math.min(100, d.enviados / 120 * 100) : 0}%"></div></div>
   </div>`).join('');
 
+// ---- Gráficos SVG ----
+const PALETTE = { e1: '#f0c040', e2: '#e07b39', wa: '#26a65b', resp: '#2f6fed', total: '#9b59b6' };
+
+function svgDaily () {
+  const W = 920, H = 240, padL = 34, padB = 34, padT = 14, barW = 26;
+  const innerW = W - padL - 12, innerH = H - padT - padB;
+  const days = daily;
+  const maxV = Math.max(1, ...days.map(d => d.enviados + d.whats));
+  const step = innerW / days.length;
+  const y = v => padT + innerH - (v / maxV * innerH);
+  // gridlines
+  let grid = '';
+  for (let g = 0; g <= 4; g++) {
+    const gy = padT + innerH - (g / 4 * innerH);
+    const val = Math.round(maxV * g / 4);
+    grid += `<line x1="${padL}" y1="${gy}" x2="${W - 12}" y2="${gy}" stroke="#e6e6ee" stroke-width="1"/>
+             <text x="${padL - 6}" y="${gy + 4}" text-anchor="end" font-size="11" fill="#999">${val}</text>`;
+  }
+  let bars = '', labels = '';
+  days.forEach((d, i) => {
+    const cx = padL + step * i + step / 2;
+    const bE1 = d.novos, bFU = d.enviados - d.novos, bWA = d.whats;
+    let yB = y(0);
+    const rect = (val, color) => {
+      const rh = y(0) - y(val);
+      yB = y(val);
+      return yB + rh > padT ? `<rect x="${cx - barW / 2}" y="${yB}" width="${barW}" height="${rh}" fill="${color}" rx="3"/>` : '';
+    };
+    const x = rect(bE1, PALETTE.e1) + rect(bFU, PALETTE.e2) + rect(bWA, PALETTE.wa);
+    bars += x;
+    labels += `<text x="${cx}" y="${y(0) + 16}" text-anchor="middle" font-size="11" fill="#666">${d.label.split(' ')[0]}</text>
+               <text x="${cx}" y="${y(0) + 28}" text-anchor="middle" font-size="10" fill="#999">${d.label.split(' ')[1]}</text>`;
+  });
+  return `<svg viewBox="0 0 ${W} ${H}" width="100%" xmlns="http://www.w3.org/2000/svg">
+    ${grid}${bars}${labels}
+    <text x="${padL}" y="${padT - 4}" font-size="11" fill="#888">Envios diários (email1+follow-ups+WA)</text>
+  </svg>`;
+}
+
+function svgDonut (label, values, colors, names) {
+  const total = values.reduce((a, b) => a + b, 0);
+  if (!total) return '<div class="note">Sem volume no período.</div>';
+  const R = 70, C = 2 * Math.PI * R, cx = 110, cy = 110;
+  let acc = 0, segs = '', legend = '';
+  values.forEach((v, i) => {
+    const frac = v / total, len = frac * C;
+    const gap = total > 1 ? Math.min(4, C * 0.01) : 0;
+    segs += `<circle cx="${cx}" cy="${cy}" r="${R}" fill="none" stroke="${colors[i]}" stroke-width="34"
+      stroke-dasharray="${Math.max(0, len - gap)} ${C}" stroke-dashoffset="${-(acc * C)}" transform="rotate(-90 ${cx} ${cy})"/>`;
+    legend += `<div class="leg"><span class="dot" style="background:${colors[i]}"></span>${names[i]}
+      <b>${v}</b><small>${Math.round(frac * 100)}%</small></div>`;
+    acc += frac;
+  });
+  return `<div class="chart-row">
+    <svg viewBox="0 0 220 220" width="180" xmlns="http://www.w3.org/2000/svg">
+      ${segs}
+      <text x="${cx}" y="${cy - 2}" text-anchor="middle" font-size="22" font-weight="700" fill="#1a1a2e">${total}</text>
+      <text x="${cx}" y="${cy + 16}" text-anchor="middle" font-size="11" fill="#888">${label}</text>
+    </svg>
+    <div class="legends">${legend}</div>
+  </div>`;
+}
+
+const segItems = Object.entries(segs).map(([t, d]) => {
+  const pct = d.total ? Math.round(d.sent / d.total * 100) : 0;
+  const colors = ['#2f6fed', '#e07b39', '#27ae60', '#f0c040', '#9b59b6', '#e74c3c'];
+  const idx = ['adega', 'distribuidora', 'bebidas', 'bar', 'restaurante', 'outro'].indexOf(t);
+  const col = colors[Math.max(0, idx)];
+  return `<div class="seg">
+    <div class="seg-nome">${t}</div>
+    <div class="seg-num">${d.sent}/${d.total} · ${pct}%</div>
+    <div class="bar"><div class="bar-fill" style="width:${pct}%;background:${col}"></div></div>
+  </div>`;
+}).join('');
+
+const donutSemana = svgDonut('saídas na semana', [weekE1 + weekWa, weekE2 + weekE3, weekResponses.length], [PALETTE.e1, PALETTE.e2, PALETTE.resp], ['Email1+WA1', 'Follow-ups', 'Respostas']);
+const donutYtd = svgDonut('saídas no ano', [ytdE1 + ytdWa, ytdE2 + ytdE3, ytdResponses.length], [PALETTE.e1, PALETTE.e2, PALETTE.resp], ['Email1+WA1', 'Follow-ups', 'Respostas']);
+
 const respHtml = weekResponses.length
   ? weekResponses.map(r => `<li><b>${r.name}</b> (${r.responseDate}) — ${r.response || r.interestNote || ''}</li>`).join('')
   : '<li>Nenhuma resposta na semana</li>';
@@ -170,6 +248,13 @@ const html = `<!DOCTYPE html>
   .executive li { margin: 4px 0; }
   .note { font-size: 12px; color: #555; line-height: 1.5; margin: 6px 0 10px; }
   .segments-section { break-before: page; page-break-before: always; }
+  .chart-box { background: #f7f8fb; border-radius: 10px; padding: 12px; margin-top: 8px; }
+  .chart-row { display: flex; align-items: center; gap: 16px; }
+  .legends { flex: 1; display: flex; flex-direction: column; gap: 6px; }
+  .leg { display: flex; align-items: center; gap: 8px; font-size: 12px; color: #444; }
+  .leg b { margin-left: auto; font-size: 14px; }
+  .leg small { color: #999; margin-left: 4px; }
+  .dot { width: 12px; height: 12px; border-radius: 3px; display: inline-block; }
 </style></head><body>
 
 <h1>Relatório de Prospecção - 7 dias e YTD</h1>
@@ -201,17 +286,23 @@ const html = `<!DOCTYPE html>
   <div class="card week"><div class="n">${weekResponses.length}</div><div class="l">Respostas na semana</div></div>
 </div>
 
-<h2>Atividade dos últimos 7 dias</h2>
-<p class="note">As barras mostram a distribuição diária de primeiros contatos e follow-ups. Picos devem ser lidos junto ao teto móvel e à qualidade dos destinatários.</p>
-<div class="days">${dailyHtml}</div>
+<h2>Mistura de canais</h2>
+<div class="grid">
+  <div class="panel">${donutYtd}</div>
+  <div class="panel">${donutSemana}</div>
+</div>
 
 <div class="segments-section">
   <h2>Segmentos (enviados/total)</h2>
   <p class="note">A cobertura por segmento orienta a próxima seleção: adegas, lojas e distribuidoras de bebidas, bares e casas noturnas têm prioridade comercial.</p>
   <div class="grid">
-    <div class="panel">${segHtml}</div>
+    <div class="panel">${segItems}</div>
   </div>
 </div>
+
+<h2>Atividade diária (últimos 7 dias)</h2>
+<p class="note">Email1 (amarelo), follow-ups (laranja) e WhatsApp (verde) empilhados por dia. Picos devem ser lidos junto ao teto móvel de 35/24h e à qualidade dos destinatários.</p>
+<div class="chart-box">${svgDaily()}</div>
 
 <h2>Respostas da semana</h2>
 <ul>${respHtml}</ul>

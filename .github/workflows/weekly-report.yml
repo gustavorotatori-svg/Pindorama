@@ -8,6 +8,9 @@ on:
   workflow_dispatch:
   schedule:
     - cron: '0 12 * * 0'
+    - cron: '30 13 * * 0'
+    - cron: '0 18 * * 0'
+    - cron: '0 11 * * 1'
 
 permissions:
   contents: write
