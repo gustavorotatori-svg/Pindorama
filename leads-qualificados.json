@@ -38827,7 +38827,10 @@
     "emailSource": "https://www.diariocidade.com/sp/barueri/guia/adega-do-paje-36320814000150/",
     "mxVerified": true,
     "email1": true,
-    "date1": "2026-09-06"
+    "date1": "2026-09-06",
+    "doNotContact": true,
+    "bounced": true,
+    "bounceDate": "2026-09-07"
   },
   {
     "name": "Adega do Alemão Comercial",
