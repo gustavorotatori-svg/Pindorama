@@ -245,7 +245,8 @@
     "evidence": "Site oficial ativo e revisado recentemente publica o telefone empresarial e identifica operacao de coquetelaria premium para eventos em Sao Paulo, com mais de 3.000 celebracoes realizadas.",
     "verifiedAt": "2026-08-21",
     "notBefore": "2026-08-27",
-    "status": "queued"
+    "status": "sent",
+    "sentAt": "2026-09-07T17:46:03.628Z"
   },
   {
     "name": "Old Bar e Gastronomia",
@@ -256,7 +257,8 @@
     "evidence": "Site oficial ativo e revisado recentemente publica o WhatsApp empresarial, endereco na Vila Mariana e destaca carta de coqueteis com padrao internacional.",
     "verifiedAt": "2026-08-21",
     "notBefore": "2026-08-27",
-    "status": "queued"
+    "status": "sent",
+    "sentAt": "2026-09-07T17:46:11.275Z"
   },
   {
     "name": "G&T Bar",
@@ -267,7 +269,8 @@
     "evidence": "Site oficial ativo e revisado recentemente publica o telefone empresarial, endereco na Rua Oscar Freire e operacao diaria de alta coquetelaria com mais de 170 rotulos de gin.",
     "verifiedAt": "2026-08-21",
     "notBefore": "2026-08-28",
-    "status": "queued"
+    "status": "sent",
+    "sentAt": "2026-09-07T17:46:18.956Z"
   },
   {
     "name": "Dentro Bar",
@@ -289,7 +292,8 @@
     "evidence": "Site oficial consultado em 2026 publica canal empresarial exclusivo de WhatsApp para eventos e confirma operacao ativa no Itaim Bibi e JK Iguatemi como cafe durante o dia e bar de coquetelaria a noite.",
     "verifiedAt": "2026-08-21",
     "notBefore": "2026-08-29",
-    "status": "queued"
+    "status": "sent",
+    "sentAt": "2026-09-07T17:46:25.960Z"
   },
   {
     "name": "Arlete Bar e Mercearia",

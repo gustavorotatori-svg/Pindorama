@@ -33978,7 +33978,10 @@
     "email2": true,
     "date2": "2026-08-19",
     "email3": true,
-    "date3": "2026-08-24"
+    "date3": "2026-08-24",
+    "whatsappSent": true,
+    "whatsappDate": "2026-09-07",
+    "whatsappSource": "https://gtginbar.com.br/"
   },
   {
     "name": "WixBar",

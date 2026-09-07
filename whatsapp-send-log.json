@@ -168,5 +168,73 @@
     "phone": "(11) 97622-2768",
     "source": "https://www.brasilchik.com/onde-encontrar",
     "uiProof": "WhatsApp Web exibiu a abordagem e recebeu resposta as 11:35"
+  },
+  {
+    "date": "2026-09-07",
+    "checkedAt": "2026-09-07T17:46:00.993Z",
+    "status": "not_on_whatsapp",
+    "name": "Sampa Adega",
+    "phone": "(11) 98402-3929",
+    "source": "https://www.sampaadega.com.br/"
+  },
+  {
+    "date": "2026-09-07",
+    "checkedAt": "2026-09-07T17:46:01.361Z",
+    "status": "not_on_whatsapp",
+    "name": "Adega Frimar",
+    "phone": "(11) 5219-3878",
+    "source": "https://mycelium.lat/"
+  },
+  {
+    "date": "2026-09-07",
+    "checkedAt": "2026-09-07T17:46:01.730Z",
+    "status": "not_on_whatsapp",
+    "name": "Sphera Lounge",
+    "phone": "(11) 97636-3908",
+    "source": "https://www.spheralounge.com.br/"
+  },
+  {
+    "date": "2026-09-07",
+    "acceptedAt": "2026-09-07T17:46:03.628Z",
+    "status": "accepted",
+    "name": "Bowlbar Coquetelaria",
+    "phone": "(11) 94337-3663",
+    "source": "https://bowlbarsp.com/",
+    "messageId": "3EB01F8276D51B91121445"
+  },
+  {
+    "date": "2026-09-07",
+    "acceptedAt": "2026-09-07T17:46:11.275Z",
+    "status": "accepted",
+    "name": "Old Bar e Gastronomia",
+    "phone": "(11) 99341-4081",
+    "source": "https://www.oldbaregastronomia.com.br/",
+    "messageId": "3EB0EF666644C2752277FC"
+  },
+  {
+    "date": "2026-09-07",
+    "acceptedAt": "2026-09-07T17:46:18.956Z",
+    "status": "accepted",
+    "name": "G&T Bar",
+    "phone": "(11) 98535-8000",
+    "source": "https://gtginbar.com.br/",
+    "messageId": "3EB05862C234774696D741"
+  },
+  {
+    "date": "2026-09-07",
+    "checkedAt": "2026-09-07T17:46:24.337Z",
+    "status": "not_on_whatsapp",
+    "name": "Dentro Bar",
+    "phone": "(11) 94998-2925",
+    "source": "https://www.baressp.com.br/bares/dentro-bar"
+  },
+  {
+    "date": "2026-09-07",
+    "acceptedAt": "2026-09-07T17:46:25.960Z",
+    "status": "accepted",
+    "name": "Locale Caffe",
+    "phone": "(11) 96572-8890",
+    "source": "https://www.localecaffe.com.br/",
+    "messageId": "3EB0152FD741F1CE2960AB"
   }
 ]
