@@ -236,5 +236,91 @@
     "phone": "(11) 96572-8890",
     "source": "https://www.localecaffe.com.br/",
     "messageId": "3EB0152FD741F1CE2960AB"
+  },
+  {
+    "date": "2026-09-08",
+    "checkedAt": "2026-09-08T15:33:55.648Z",
+    "status": "not_on_whatsapp",
+    "name": "Sampa Adega",
+    "phone": "(11) 98402-3929",
+    "source": "https://www.sampaadega.com.br/"
+  },
+  {
+    "date": "2026-09-08",
+    "checkedAt": "2026-09-08T15:33:55.670Z",
+    "status": "not_on_whatsapp",
+    "name": "Adega Frimar",
+    "phone": "(11) 5219-3878",
+    "source": "https://mycelium.lat/"
+  },
+  {
+    "date": "2026-09-08",
+    "checkedAt": "2026-09-08T15:33:55.693Z",
+    "status": "not_on_whatsapp",
+    "name": "Sphera Lounge",
+    "phone": "(11) 97636-3908",
+    "source": "https://www.spheralounge.com.br/"
+  },
+  {
+    "date": "2026-09-08",
+    "checkedAt": "2026-09-08T15:33:55.715Z",
+    "status": "not_on_whatsapp",
+    "name": "Dentro Bar",
+    "phone": "(11) 94998-2925",
+    "source": "https://www.baressp.com.br/bares/dentro-bar"
+  },
+  {
+    "date": "2026-09-08",
+    "acceptedAt": "2026-09-08T15:33:56.215Z",
+    "status": "accepted",
+    "name": "Arlete Bar e Mercearia",
+    "phone": "(11) 99027-8742",
+    "source": "https://www.baressp.com.br/bares/arlete-bar-e-mercearia",
+    "messageId": "3EB0A381F4476F7C745FD9"
+  },
+  {
+    "date": "2026-09-08",
+    "acceptedAt": "2026-09-08T15:34:01.469Z",
+    "status": "accepted",
+    "name": "Bar Galo",
+    "phone": "(11) 97493-9800",
+    "source": "https://www.baressp.com.br/bares/bar-galo",
+    "messageId": "3EB0EC9D9F044445692FAD"
+  },
+  {
+    "date": "2026-09-08",
+    "acceptedAt": "2026-09-08T15:34:06.754Z",
+    "status": "accepted",
+    "name": "Magnolia Pocket Club",
+    "phone": "(11) 95050-8822",
+    "source": "https://baressp.com.br/bares/magnolia-pocket-club",
+    "messageId": "3EB09D5AF3BCE65D506B71"
+  },
+  {
+    "date": "2026-09-08",
+    "acceptedAt": "2026-09-08T15:34:12.151Z",
+    "status": "accepted",
+    "name": "Nomade Bar e Restaurante",
+    "phone": "(11) 91654-7785",
+    "source": "https://www.baressp.com.br/bares/nomade-bar-e-restaurante",
+    "messageId": "3EB0013C3BFF99B66F6B4C"
+  },
+  {
+    "date": "2026-09-08",
+    "acceptedAt": "2026-09-08T15:34:17.392Z",
+    "status": "accepted",
+    "name": "Condessa Bar",
+    "phone": "(11) 98462-9906",
+    "source": "https://baressp.com.br/bares/condessa-bar",
+    "messageId": "3EB0B5514B66BBEE048D2B"
+  },
+  {
+    "date": "2026-09-08",
+    "acceptedAt": "2026-09-08T15:34:23.009Z",
+    "status": "accepted",
+    "name": "Coda Bar",
+    "phone": "(11) 99140-0667",
+    "source": "https://baressp.com.br/bares/coda",
+    "messageId": "3EB0CDF91B9100D6420979"
   }
 ]
