@@ -39081,15 +39081,10 @@
  },
  {
   "name": "Locale Caffé (Compras Carla)",
-  "email": "compras@grupolocale.com.br",
   "type": "cafeteria",
   "city": "São Paulo",
   "neighborhood": "Moema",
   "context": "Resposta WhatsApp 08/09: compras via compras@grupolocale.com.br ou +55 11 93491-9261 com Carla (Grupo Locale).",
-  "emailVerified": true,
-  "emailSource": "https://www.localecaffe.com.br/",
-  "emailVerifiedAt": "2026-09-08",
-  "mxVerified": true,
   "phone": "11 93491-9261"
  }
 ]
