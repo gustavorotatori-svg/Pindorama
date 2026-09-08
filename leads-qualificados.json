@@ -39036,5 +39036,47 @@
     "emailVerifiedAt": "2026-09-07",
     "template": "consultivo",
     "website": ""
+  },
+  {
+    "name": "Magnolia Pocket Club (Proposta)",
+    "email": "info@magnoliapocketclub.com.br",
+    "type": "bar",
+    "city": "São Paulo",
+    "neighborhood": "Centro",
+    "context": "Respondeu ao nosso WhatsApp em 08/09/2026 pedindo envio da proposta/catálogo para info@magnoliapocketclub.com.br via AI do próprio WhatsApp. Grupo Magnolia/G&T.",
+    "emailVerified": true,
+    "emailSource": "https://magnoliapocketclub.com.br/",
+    "emailVerifiedAt": "2026-09-08",
+    "mxVerified": true,
+    "template": "prova_social",
+    "website": ""
+  },
+  {
+    "name": "G&T Bar (Depto Compras)",
+    "email": "comercial@gtginbar.com.br",
+    "type": "bar",
+    "city": "São Paulo",
+    "neighborhood": "Jardins",
+    "context": "AI do WhatsApp do Magnolia indicou comercial@gtginbar.com.br para o departamento de compras do grupo G&T (resposta em 08/09/2026). Grupo opera G&T Bar e outras casas.",
+    "emailVerified": true,
+    "emailSource": "https://gtginbar.com.br/",
+    "emailVerifiedAt": "2026-09-08",
+    "mxVerified": true,
+    "template": "pergunta",
+    "website": ""
+  },
+  {
+    "name": "Locale Caffé (Depto Compras)",
+    "email": "compras@grupolocale.com.br",
+    "type": "cafeteria",
+    "city": "São Paulo",
+    "neighborhood": "Moema",
+    "context": "Respondeu ao nosso WhatsApp em 08/09/2026: compras somente via e-mail compras@grupolocale.com.br ou WhatsApp (11) 93491-9261 com Carla. Responder com proposta para Carla. Grupo Locale (Trattoria, Ristorante, Caffé).",
+    "emailVerified": true,
+    "emailSource": "https://www.localecaffe.com.br/",
+    "emailVerifiedAt": "2026-09-08",
+    "mxVerified": true,
+    "template": "pergunta",
+    "website": ""
   }
 ]
