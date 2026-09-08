@@ -304,7 +304,8 @@
     "evidence": "Perfil comercial atualizado em abril de 2026 confirma operacao ativa em Pinheiros, coquetelaria criativa com drinks de cachaca e publica explicitamente o WhatsApp empresarial para reservas.",
     "verifiedAt": "2026-08-21",
     "notBefore": "2026-08-29",
-    "status": "queued"
+    "status": "sent",
+    "sentAt": "2026-09-08T15:33:56.215Z"
   },
   {
     "name": "Bar Galo",
@@ -315,7 +316,8 @@
     "evidence": "Perfil comercial atualizado em marco de 2026 confirma gastrobar ativo em Pinheiros, com coquetelaria de excelencia, classicos e drinks criativos, e publica explicitamente o WhatsApp empresarial.",
     "verifiedAt": "2026-08-21",
     "notBefore": "2026-09-01",
-    "status": "queued"
+    "status": "sent",
+    "sentAt": "2026-09-08T15:34:01.469Z"
   },
   {
     "name": "Magnolia Pocket Club",
@@ -326,7 +328,8 @@
     "evidence": "Perfil comercial recente confirma clube ativo no Jardim Paulista, com coquetelaria autoral, pista, lounge e rooftop, e publica explicitamente o WhatsApp empresarial.",
     "verifiedAt": "2026-08-21",
     "notBefore": "2026-09-01",
-    "status": "queued"
+    "status": "sent",
+    "sentAt": "2026-09-08T15:34:06.754Z"
   },
   {
     "name": "Nomade Bar e Restaurante",
@@ -337,7 +340,8 @@
     "evidence": "Perfil comercial atualizado em maio de 2026 confirma operacao ativa em Pinheiros, cozinha autoral e coquetelaria criativa, com WhatsApp empresarial explicitamente publicado.",
     "verifiedAt": "2026-08-21",
     "notBefore": "2026-09-02",
-    "status": "queued"
+    "status": "sent",
+    "sentAt": "2026-09-08T15:34:12.151Z"
   },
   {
     "name": "Condessa Bar",
@@ -348,7 +352,8 @@
     "evidence": "Perfil comercial atualizado em marco de 2026 confirma bar ativo em Pinheiros com alta coquetelaria e drinks autorais de cachaca, publicando explicitamente o WhatsApp empresarial.",
     "verifiedAt": "2026-08-21",
     "notBefore": "2026-09-02",
-    "status": "queued"
+    "status": "sent",
+    "sentAt": "2026-09-08T15:34:17.392Z"
   },
   {
     "name": "Coda Bar",
@@ -359,7 +364,8 @@
     "evidence": "Perfil comercial recente confirma bar ativo de alta coquetelaria na Vila Buarque, com carta autoral e WhatsApp empresarial explicitamente publicado.",
     "verifiedAt": "2026-08-21",
     "notBefore": "2026-09-03",
-    "status": "queued"
+    "status": "sent",
+    "sentAt": "2026-09-08T15:34:23.009Z"
   },
   {
     "name": "Bar Palermo",
