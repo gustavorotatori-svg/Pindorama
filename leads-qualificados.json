@@ -36869,8 +36869,12 @@
     "context": "Guia oficial da Prefeitura de Santo Andre atualizado em 05/05/2026 confirma operacao de terca a domingo, producao e venda de cachacas e licores artesanais de cambuci, endereco, telefone e email empresarial publicados.",
     "verifiedAt": "2026-08-26",
     "emailDomainMxVerified": true,
-    "status": "qualified_pending_import",
-    "template": "prova_social"
+    "template": "prova_social",
+    "emailVerified": true,
+    "emailSource": "https://web.santoandre.sp.gov.br/guia-de-servicos",
+    "emailVerifiedAt": "2026-09-08",
+    "mxVerified": true,
+    "mxVerifiedAt": "2026-09-08"
   },
   {
     "name": "Restaurante Confraria do Cambuci",
@@ -36883,8 +36887,12 @@
     "context": "Guia oficial da Prefeitura de Santo Andre atualizado em 05/05/2026 confirma restaurante ativo aos fins de semana e feriados, com pratos e bebidas a base de cambuci, agendamento durante a semana, telefone e email empresarial publicados.",
     "verifiedAt": "2026-08-26",
     "emailDomainMxVerified": true,
-    "status": "qualified_pending_import",
-    "template": "prova_social"
+    "template": "prova_social",
+    "emailVerified": true,
+    "emailSource": "https://web.santoandre.sp.gov.br/guia-de-servicos",
+    "emailVerifiedAt": "2026-09-08",
+    "mxVerified": true,
+    "mxVerifiedAt": "2026-09-08"
   },
   {
     "name": "Casa Pires Emporio",
