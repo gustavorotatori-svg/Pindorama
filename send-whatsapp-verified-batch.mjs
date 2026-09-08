@@ -13,7 +13,7 @@ process.on('unhandledRejection', (reason) => {
   process.exitCode = 1;
 });
 
-const LIMIT = 4;
+const LIMIT = 6;
 const timeZone = 'America/Sao_Paulo';
 const parts = new Intl.DateTimeFormat('en-CA', {
   timeZone, weekday: 'short', year: 'numeric', month: '2-digit', day: '2-digit',
