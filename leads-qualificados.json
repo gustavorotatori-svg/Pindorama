@@ -37603,7 +37603,10 @@
     "email2": true,
     "date2": "2026-09-01",
     "email3": true,
-    "date3": "2026-09-09"
+    "date3": "2026-09-09",
+    "doNotContact": true,
+    "bounced": true,
+    "bounceDate": "2026-09-09"
   },
   {
     "name": "Bicho Bebe Bebidas",
