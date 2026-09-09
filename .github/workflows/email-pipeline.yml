@@ -55,6 +55,9 @@ jobs:
       - name: Dashboard metrics
         run: node metrics.mjs
 
+      - name: Regenerar planilha de clientes
+        run: node export-planilha-clientes.mjs
+
       - name: Commit and push updates
         run: |
           git config user.name "pindorama-bot"
