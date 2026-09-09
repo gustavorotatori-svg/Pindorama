@@ -322,5 +322,91 @@
     "phone": "(11) 99140-0667",
     "source": "https://baressp.com.br/bares/coda",
     "messageId": "3EB0CDF91B9100D6420979"
+  },
+  {
+    "date": "2026-09-09",
+    "checkedAt": "2026-09-09T16:41:42.688Z",
+    "status": "not_on_whatsapp",
+    "name": "Sampa Adega",
+    "phone": "(11) 98402-3929",
+    "source": "https://www.sampaadega.com.br/"
+  },
+  {
+    "date": "2026-09-09",
+    "checkedAt": "2026-09-09T16:41:42.827Z",
+    "status": "not_on_whatsapp",
+    "name": "Adega Frimar",
+    "phone": "(11) 5219-3878",
+    "source": "https://mycelium.lat/"
+  },
+  {
+    "date": "2026-09-09",
+    "checkedAt": "2026-09-09T16:41:42.952Z",
+    "status": "not_on_whatsapp",
+    "name": "Sphera Lounge",
+    "phone": "(11) 97636-3908",
+    "source": "https://www.spheralounge.com.br/"
+  },
+  {
+    "date": "2026-09-09",
+    "checkedAt": "2026-09-09T16:41:43.176Z",
+    "status": "not_on_whatsapp",
+    "name": "Dentro Bar",
+    "phone": "(11) 94998-2925",
+    "source": "https://www.baressp.com.br/bares/dentro-bar"
+  },
+  {
+    "date": "2026-09-09",
+    "acceptedAt": "2026-09-09T16:41:44.376Z",
+    "status": "accepted",
+    "name": "Bar Palermo",
+    "phone": "(11) 94943-4423",
+    "source": "https://baressp.com.br/bares/bar-palermo",
+    "messageId": "3EB0836F5637964376AF74"
+  },
+  {
+    "date": "2026-09-09",
+    "acceptedAt": "2026-09-09T16:41:50.167Z",
+    "status": "accepted",
+    "name": "Bargo Mooca",
+    "phone": "(11) 97574-3213",
+    "source": "https://baressp.com.br/bares/bargo-mooca",
+    "messageId": "3EB00AB35A9256FFCE9AFB"
+  },
+  {
+    "date": "2026-09-09",
+    "acceptedAt": "2026-09-09T16:41:55.667Z",
+    "status": "accepted",
+    "name": "Litt Bar",
+    "phone": "(11) 93920-8819",
+    "source": "https://www.baressp.com.br/bares/litt-bar",
+    "messageId": "3EB0A45BB53857A5C1DA34"
+  },
+  {
+    "date": "2026-09-09",
+    "acceptedAt": "2026-09-09T16:42:01.475Z",
+    "status": "accepted",
+    "name": "Imbuia Bar",
+    "phone": "(11) 98392-7829",
+    "source": "https://baressp.com.br/restaurantes/bar-e-restaurante/imbuia-bar",
+    "messageId": "3EB03C8335EC5000F05866"
+  },
+  {
+    "date": "2026-09-09",
+    "acceptedAt": "2026-09-09T16:42:07.707Z",
+    "status": "accepted",
+    "name": "Esquina do Souza Vila Leopoldina",
+    "phone": "(11) 92048-5103",
+    "source": "https://www.baressp.com.br/bares/esquina-do-souza-vila-leopoldina",
+    "messageId": "3EB01719DDE879C529C624"
+  },
+  {
+    "date": "2026-09-09",
+    "acceptedAt": "2026-09-09T16:42:13.943Z",
+    "status": "accepted",
+    "name": "The Blue Pub Itaim Bibi",
+    "phone": "(11) 93428-0084",
+    "source": "https://www.baressp.com.br/bares/the-blue-pub-itaim-bibi",
+    "messageId": "3EB03DD47186AD83317A22"
   }
 ]
