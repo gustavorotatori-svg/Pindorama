@@ -39353,5 +39353,20 @@
     "emailSource": "https://guiapj.com.br/consulta-cnpj/63184031000160",
     "emailVerifiedAt": "2026-09-10",
     "date": "2026-09-10"
+  },
+  {
+    "name": "Distribuidora de Bebidas Aruja",
+    "email": "genesyz@uol.com.br",
+    "neighborhood": "Pirituba",
+    "type": "distribuidora",
+    "address": "Avenida Railda Alves de Oliveira, 198 - Pirituba, Aruja/SP",
+    "context": "Distribuidora de Bebidas Aruja Ltda, CNPJ 12.211.923/0001-71, ativa ha 15 anos em Aruja no comercio varejista de bebidas, telefones e email publicos. Fato: opera como distribuidora de bebidas. Inferencia comercial: perfil com potencial de recompra e inclusao de cachaca premium no mix.",
+    "template": "consultivo",
+    "phone": "(11) 4652-2473",
+    "email1": false,
+    "emailVerified": true,
+    "emailSource": "https://www.diariocidade.com/sp/aruja/guia/distribuidora-de-bebidas-aruja-ltda-12211923000171/",
+    "emailVerifiedAt": "2026-09-10",
+    "date": "2026-09-10"
   }
 ]
