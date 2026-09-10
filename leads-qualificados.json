@@ -36149,7 +36149,9 @@
     "website": "https://adegamorais.shop/",
     "whatsappSource": "https://adegamorais.shop/",
     "whatsappVerifiedAt": "2026-08-22",
-    "template": "consultivo"
+    "template": "consultivo",
+    "whatsappSent": true,
+    "whatsappDate": "2026-09-10"
   },
   {
     "name": "Confianca Atacadista de Bebidas",

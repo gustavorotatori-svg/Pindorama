@@ -448,7 +448,8 @@
     "evidence": "Publicacao comercial de marco de 2026 confirma restaurante ativo na Pompeia, nova adega, carta de coquetelaria autoral e classica e WhatsApp empresarial para reservas.",
     "verifiedAt": "2026-08-21",
     "notBefore": "2026-09-08",
-    "status": "queued"
+    "status": "sent",
+    "sentAt": "2026-09-10T16:27:43.894Z"
   },
   {
     "name": "Zena Cucina",
@@ -459,7 +460,8 @@
     "evidence": "Publicacao comercial de abril de 2026 confirma restaurante ativo nos Jardins, nova carta de alta coquetelaria autoral e classica e WhatsApp empresarial para reservas.",
     "verifiedAt": "2026-08-21",
     "notBefore": "2026-09-09",
-    "status": "queued"
+    "status": "sent",
+    "sentAt": "2026-09-10T16:27:49.475Z"
   },
   {
     "name": "Bar Desembargador",
@@ -470,7 +472,8 @@
     "evidence": "Publicacao comercial de marco de 2026 confirma bar ativo em Perdizes com coquetelaria autoral, classicos e drinks de whisky, e WhatsApp empresarial para reservas.",
     "verifiedAt": "2026-08-21",
     "notBefore": "2026-09-09",
-    "status": "queued"
+    "status": "sent",
+    "sentAt": "2026-09-10T16:27:55.566Z"
   },
   {
     "name": "Taboa Restaurante",
@@ -481,7 +484,8 @@
     "evidence": "Perfil comercial atualizado em abril de 2026 confirma restaurante ativo Bib Gourmand na Vila Madalena, coquetelaria autoral com cachaca e WhatsApp empresarial para reservas.",
     "verifiedAt": "2026-08-21",
     "notBefore": "2026-09-10",
-    "status": "queued"
+    "status": "sent",
+    "sentAt": "2026-09-10T16:28:01.238Z"
   },
   {
     "name": "Curado",
@@ -492,7 +496,8 @@
     "evidence": "Perfil comercial atualizado em abril de 2026 confirma operacao ativa no Itaim Bibi, coquetelaria autoral e classicos brasileiros como Macunaima e Rabo de Galo, com WhatsApp empresarial publicado.",
     "verifiedAt": "2026-08-21",
     "notBefore": "2026-09-10",
-    "status": "queued"
+    "status": "sent",
+    "sentAt": "2026-09-10T16:28:06.761Z"
   },
   {
     "name": "300 Sky Bar",
@@ -1284,7 +1289,8 @@
     "evidence": "Site oficial consultado em agosto de 2026 confirma operacao ativa, atendimento a Barueri e regiao, catalogo de vinhos e destilados, delivery e WhatsApp empresarial publicado.",
     "verifiedAt": "2026-08-22",
     "notBefore": "2026-08-22",
-    "status": "queued"
+    "status": "sent",
+    "sentAt": "2026-09-10T16:28:12.131Z"
   },
   {
     "name": "Confianca Atacadista de Bebidas",

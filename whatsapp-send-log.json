@@ -408,5 +408,91 @@
     "phone": "(11) 93428-0084",
     "source": "https://www.baressp.com.br/bares/the-blue-pub-itaim-bibi",
     "messageId": "3EB03DD47186AD83317A22"
+  },
+  {
+    "date": "2026-09-10",
+    "checkedAt": "2026-09-10T16:27:42.990Z",
+    "status": "not_on_whatsapp",
+    "name": "Sampa Adega",
+    "phone": "(11) 98402-3929",
+    "source": "https://www.sampaadega.com.br/"
+  },
+  {
+    "date": "2026-09-10",
+    "checkedAt": "2026-09-10T16:27:43.071Z",
+    "status": "not_on_whatsapp",
+    "name": "Adega Frimar",
+    "phone": "(11) 5219-3878",
+    "source": "https://mycelium.lat/"
+  },
+  {
+    "date": "2026-09-10",
+    "checkedAt": "2026-09-10T16:27:43.153Z",
+    "status": "not_on_whatsapp",
+    "name": "Sphera Lounge",
+    "phone": "(11) 97636-3908",
+    "source": "https://www.spheralounge.com.br/"
+  },
+  {
+    "date": "2026-09-10",
+    "checkedAt": "2026-09-10T16:27:43.233Z",
+    "status": "not_on_whatsapp",
+    "name": "Dentro Bar",
+    "phone": "(11) 94998-2925",
+    "source": "https://www.baressp.com.br/bares/dentro-bar"
+  },
+  {
+    "date": "2026-09-10",
+    "acceptedAt": "2026-09-10T16:27:43.894Z",
+    "status": "accepted",
+    "name": "Des Cucina",
+    "phone": "(11) 98999-9490",
+    "source": "https://www.baressp.com.br/eventos/bacalhau-e-cordeiro-o-menu-de-pascoa-do-restaurante-des-cucina",
+    "messageId": "3EB0E71A43DF1AD5D843A6"
+  },
+  {
+    "date": "2026-09-10",
+    "acceptedAt": "2026-09-10T16:27:49.475Z",
+    "status": "accepted",
+    "name": "Zena Cucina",
+    "phone": "(11) 96195-8148",
+    "source": "https://www.baressp.com.br/eventos/alta-coquetelaria-no-zena-guest-bartender-com-benicio-calaca",
+    "messageId": "3EB02BF4A76E7A3554EFC9"
+  },
+  {
+    "date": "2026-09-10",
+    "acceptedAt": "2026-09-10T16:27:55.566Z",
+    "status": "accepted",
+    "name": "Bar Desembargador",
+    "phone": "(11) 98999-7652",
+    "source": "https://www.baressp.com.br/eventos/bar-desembargador-celebra-pascoa-com-bacalhau-e-drink-tematico",
+    "messageId": "3EB0B52CA60127762BE95C"
+  },
+  {
+    "date": "2026-09-10",
+    "acceptedAt": "2026-09-10T16:28:01.238Z",
+    "status": "accepted",
+    "name": "Taboa Restaurante",
+    "phone": "(11) 93723-1047",
+    "source": "https://www.baressp.com.br/restaurantes/cozinha-contemporanea/taboa-restaurante",
+    "messageId": "3EB0BA676396957E4BC145"
+  },
+  {
+    "date": "2026-09-10",
+    "acceptedAt": "2026-09-10T16:28:06.761Z",
+    "status": "accepted",
+    "name": "Curado",
+    "phone": "(11) 94120-2280",
+    "source": "https://baressp.com.br/restaurantes/bar-e-restaurante/curado",
+    "messageId": "3EB0ACFAF7B923A66118C6"
+  },
+  {
+    "date": "2026-09-10",
+    "acceptedAt": "2026-09-10T16:28:12.131Z",
+    "status": "accepted",
+    "name": "Adega Morais",
+    "phone": "+55 11 99423-9844",
+    "source": "https://adegamorais.shop/",
+    "messageId": "3EB03940DF0F53C19AF7A0"
   }
 ]
