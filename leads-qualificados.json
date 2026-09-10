@@ -39338,5 +39338,20 @@
     "emailSource": "https://guiapj.com.br/consulta-cnpj/45535016000137",
     "emailVerifiedAt": "2026-09-09",
     "date": "2026-09-09"
+  },
+  {
+    "name": "Adega Distribuidora Caiuby",
+    "email": "mikexpresservices@gmail.com",
+    "neighborhood": "Jardim Amanda Caiubi",
+    "type": "distribuidora",
+    "address": "Estrada dos Indios, 1860 - Jardim Amanda Caiubi, Itaquaquecetuba/SP",
+    "context": "Adega & Distribuidora Caiuby Ltda, CNPJ 63.184.031/0001-60, ativa desde out/2025 em Itaquaquecetuba no comercio atacadista de cerveja, chope e refrigerante, telefone e email publicos. Fato: opera como adega/distribuidora de bebidas. Inferencia comercial: perfil com potencial de recompra e inclusao de cachaca premium no mix.",
+    "template": "consultivo",
+    "phone": "(11) 98169-1757",
+    "email1": false,
+    "emailVerified": true,
+    "emailSource": "https://guiapj.com.br/consulta-cnpj/63184031000160",
+    "emailVerifiedAt": "2026-09-10",
+    "date": "2026-09-10"
   }
 ]
