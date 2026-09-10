@@ -33653,7 +33653,9 @@
     "emailVerifiedAt": "2026-09-05",
     "emailSource": "https://www.instagram.com/hotelemiliano/",
     "email1": true,
-    "date1": "2026-09-06"
+    "date1": "2026-09-06",
+    "email2": true,
+    "date2": "2026-09-09"
   },
   {
     "name": "C-CULTURA CASEIRA",
@@ -33683,7 +33685,9 @@
     "emailVerifiedAt": "2026-09-05",
     "emailSource": "https://www.instagram.com/boamesarestaurantes/",
     "email1": true,
-    "date1": "2026-09-06"
+    "date1": "2026-09-06",
+    "email2": true,
+    "date2": "2026-09-09"
   },
   {
     "name": "Ripa Na Brasa Restaurante",
@@ -33699,7 +33703,9 @@
     "emailVerifiedAt": "2026-09-05",
     "emailSource": "https://www.instagram.com/ripanabrasa/",
     "email1": true,
-    "date1": "2026-09-06"
+    "date1": "2026-09-06",
+    "email2": true,
+    "date2": "2026-09-09"
   },
   {
     "name": "Drink Me Co.",
@@ -36466,7 +36472,9 @@
     "email1": true,
     "date1": "2026-08-24",
     "email2": true,
-    "date2": "2026-08-29"
+    "date2": "2026-08-29",
+    "email3": true,
+    "date3": "2026-09-09"
   },
   {
     "name": "Emporio da Roca Higienopolis",
@@ -36486,7 +36494,9 @@
     "email1": true,
     "date1": "2026-08-24",
     "email2": true,
-    "date2": "2026-08-29"
+    "date2": "2026-08-29",
+    "email3": true,
+    "date3": "2026-09-09"
   },
   {
     "name": "Bendita Dose",
@@ -36533,7 +36543,9 @@
     "email1": true,
     "date1": "2026-08-24",
     "email2": true,
-    "date2": "2026-08-29"
+    "date2": "2026-08-29",
+    "email3": true,
+    "date3": "2026-09-09"
   },
   {
     "name": "Mais Distribuidora",
@@ -36553,7 +36565,9 @@
     "email1": true,
     "date1": "2026-08-24",
     "email2": true,
-    "date2": "2026-08-29"
+    "date2": "2026-08-29",
+    "email3": true,
+    "date3": "2026-09-09"
   },
   {
     "name": "Bebidas Famosas",
@@ -36596,7 +36610,9 @@
     "email1": true,
     "date1": "2026-08-25",
     "email2": true,
-    "date2": "2026-08-29"
+    "date2": "2026-08-29",
+    "email3": true,
+    "date3": "2026-09-09"
   },
   {
     "name": "Destill Comercial",
@@ -36616,7 +36632,9 @@
     "email1": true,
     "date1": "2026-08-24",
     "email2": true,
-    "date2": "2026-08-29"
+    "date2": "2026-08-29",
+    "email3": true,
+    "date3": "2026-09-09"
   },
   {
     "name": "Ferraz Distribuidora",
@@ -36636,7 +36654,9 @@
     "email1": true,
     "date1": "2026-08-24",
     "email2": true,
-    "date2": "2026-08-29"
+    "date2": "2026-08-29",
+    "email3": true,
+    "date3": "2026-09-09"
   },
   {
     "name": "Paula Sousa Bebidas",
@@ -36656,7 +36676,9 @@
     "email1": true,
     "date1": "2026-08-25",
     "email2": true,
-    "date2": "2026-08-29"
+    "date2": "2026-08-29",
+    "email3": true,
+    "date3": "2026-09-09"
   },
   {
     "name": "NR Distribuidora",
@@ -36676,7 +36698,9 @@
     "email1": true,
     "date1": "2026-08-24",
     "email2": true,
-    "date2": "2026-08-29"
+    "date2": "2026-08-29",
+    "email3": true,
+    "date3": "2026-09-09"
   },
   {
     "name": "Sampa Atacado",
@@ -36696,7 +36720,9 @@
     "email1": true,
     "date1": "2026-08-24",
     "email2": true,
-    "date2": "2026-08-29"
+    "date2": "2026-08-29",
+    "email3": true,
+    "date3": "2026-09-09"
   },
   {
     "name": "Emporio NetDrinks",
@@ -36716,7 +36742,9 @@
     "email1": true,
     "date1": "2026-08-24",
     "email2": true,
-    "date2": "2026-08-29"
+    "date2": "2026-08-29",
+    "email3": true,
+    "date3": "2026-09-09"
   },
   {
     "name": "Emporio Cananeia",
@@ -36736,7 +36764,9 @@
     "email1": true,
     "date1": "2026-08-25",
     "email2": true,
-    "date2": "2026-08-29"
+    "date2": "2026-08-29",
+    "email3": true,
+    "date3": "2026-09-09"
   },
   {
     "name": "Emporio Frei Caneca",
@@ -36756,7 +36786,9 @@
     "email1": true,
     "date1": "2026-08-24",
     "email2": true,
-    "date2": "2026-08-29"
+    "date2": "2026-08-29",
+    "email3": true,
+    "date3": "2026-09-09"
   },
   {
     "name": "Emporio Vignamazzi",
@@ -36776,7 +36808,9 @@
     "email1": true,
     "date1": "2026-08-24",
     "email2": true,
-    "date2": "2026-08-29"
+    "date2": "2026-08-29",
+    "email3": true,
+    "date3": "2026-09-09"
   },
   {
     "name": "Emporio Di Callani",
@@ -36796,7 +36830,9 @@
     "email1": true,
     "date1": "2026-08-24",
     "email2": true,
-    "date2": "2026-08-29"
+    "date2": "2026-08-29",
+    "email3": true,
+    "date3": "2026-09-09"
   },
   {
     "name": "Banca do Ramon",
@@ -36816,7 +36852,9 @@
     "email1": true,
     "date1": "2026-08-24",
     "email2": true,
-    "date2": "2026-08-30"
+    "date2": "2026-08-30",
+    "email3": true,
+    "date3": "2026-09-09"
   },
   {
     "name": "Alvorada Distribuidora de Bebidas",
@@ -36858,7 +36896,9 @@
     "email1": true,
     "date1": "2026-08-25",
     "email2": true,
-    "date2": "2026-08-30"
+    "date2": "2026-08-30",
+    "email3": true,
+    "date3": "2026-09-09"
   },
   {
     "name": "Beale Bebidas",
@@ -36878,7 +36918,9 @@
     "email1": true,
     "date1": "2026-08-25",
     "email2": true,
-    "date2": "2026-08-30"
+    "date2": "2026-08-30",
+    "email3": true,
+    "date3": "2026-09-09"
   },
   {
     "name": "Bar da Zilda",
@@ -36986,7 +37028,9 @@
     "date1": "2026-08-30",
     "messageId1": "<83da720e-da3c-1ffd-ce76-6e265d1c7bf4@gmail.com>",
     "email2": true,
-    "date2": "2026-09-01"
+    "date2": "2026-09-01",
+    "email3": true,
+    "date3": "2026-09-09"
   },
   {
     "name": "Fort Bebidas",
@@ -37038,7 +37082,9 @@
     "date1": "2026-08-30",
     "messageId1": "<a5a2c3f5-3ec5-3c8c-0f87-2de0ec46b5d2@gmail.com>",
     "email2": true,
-    "date2": "2026-09-01"
+    "date2": "2026-09-01",
+    "email3": true,
+    "date3": "2026-09-09"
   },
   {
     "name": "Espaco Refugio",
@@ -37063,7 +37109,9 @@
     "date1": "2026-08-30",
     "messageId1": "<0f225a92-eab4-615a-1293-779aecf97b6c@gmail.com>",
     "email2": true,
-    "date2": "2026-09-01"
+    "date2": "2026-09-01",
+    "email3": true,
+    "date3": "2026-09-09"
   },
   {
     "name": "Cesta Premium",
@@ -37271,7 +37319,9 @@
     "date1": "2026-08-30",
     "messageId1": "<70249499-d166-e4bd-ebcf-79fb0f6a4410@gmail.com>",
     "email2": true,
-    "date2": "2026-09-01"
+    "date2": "2026-09-01",
+    "email3": true,
+    "date3": "2026-09-09"
   },
   {
     "name": "Emporio Pirana",
@@ -37298,7 +37348,9 @@
     "date1": "2026-08-30",
     "messageId1": "<6b620d6b-d50a-cce5-586f-1443c76b957d@gmail.com>",
     "email2": true,
-    "date2": "2026-09-01"
+    "date2": "2026-09-01",
+    "email3": true,
+    "date3": "2026-09-09"
   },
   {
     "name": "Emporio Incasa",
@@ -37325,7 +37377,9 @@
     "date1": "2026-08-30",
     "messageId1": "<4f66761f-021b-99a7-ff4a-1e9c662c7d83@gmail.com>",
     "email2": true,
-    "date2": "2026-09-01"
+    "date2": "2026-09-01",
+    "email3": true,
+    "date3": "2026-09-09"
   },
   {
     "name": "Emporio Bella Mattina",
@@ -37352,7 +37406,9 @@
     "date1": "2026-08-30",
     "messageId1": "<04f9c75d-9914-c09a-a69c-2cbe627d4613@gmail.com>",
     "email2": true,
-    "date2": "2026-09-01"
+    "date2": "2026-09-01",
+    "email3": true,
+    "date3": "2026-09-09"
   },
   {
     "name": "Adega do Portugues",
@@ -37379,7 +37435,9 @@
     "date1": "2026-08-30",
     "messageId1": "<997e3f4a-e77e-b53d-8923-71885e208cad@gmail.com>",
     "email2": true,
-    "date2": "2026-09-01"
+    "date2": "2026-09-01",
+    "email3": true,
+    "date3": "2026-09-09"
   },
   {
     "name": "Emporio Sao Luis",
@@ -37406,7 +37464,9 @@
     "date1": "2026-08-30",
     "messageId1": "<77d900e6-7810-decf-187a-855e7d310a01@gmail.com>",
     "email2": true,
-    "date2": "2026-09-01"
+    "date2": "2026-09-01",
+    "email3": true,
+    "date3": "2026-09-09"
   },
   {
     "name": "Schneider Bebidas",
@@ -37433,7 +37493,9 @@
     "date1": "2026-08-30",
     "messageId1": "<9460993f-ee93-24b1-5034-c0867eb8318c@gmail.com>",
     "email2": true,
-    "date2": "2026-09-01"
+    "date2": "2026-09-01",
+    "email3": true,
+    "date3": "2026-09-09"
   },
   {
     "name": "Adega Caca",
@@ -37460,7 +37522,9 @@
     "date1": "2026-08-30",
     "messageId1": "<9dabc452-f303-ddbb-81d4-79496f8f4395@gmail.com>",
     "email2": true,
-    "date2": "2026-09-01"
+    "date2": "2026-09-01",
+    "email3": true,
+    "date3": "2026-09-09"
   },
   {
     "name": "Don Fernandes",
@@ -37485,7 +37549,9 @@
     "date1": "2026-08-30",
     "messageId1": "<5f394bf0-bc48-1782-019a-b549bdfea51f@gmail.com>",
     "email2": true,
-    "date2": "2026-09-01"
+    "date2": "2026-09-01",
+    "email3": true,
+    "date3": "2026-09-09"
   },
   {
     "name": "Cachacas Brasileiras",
@@ -37508,7 +37574,9 @@
     "date1": "2026-08-30",
     "messageId1": "<5ac86f7b-7700-a73f-6096-6d9211adac17@gmail.com>",
     "email2": true,
-    "date2": "2026-09-01"
+    "date2": "2026-09-01",
+    "email3": true,
+    "date3": "2026-09-09"
   },
   {
     "name": "Sabor da Fonte",
@@ -37533,7 +37601,12 @@
     "date1": "2026-08-30",
     "messageId1": "<658a5d57-6a27-71b8-b696-d90911370331@gmail.com>",
     "email2": true,
-    "date2": "2026-09-01"
+    "date2": "2026-09-01",
+    "email3": true,
+    "date3": "2026-09-09",
+    "doNotContact": true,
+    "bounced": true,
+    "bounceDate": "2026-09-09"
   },
   {
     "name": "Bicho Bebe Bebidas",
@@ -39026,7 +39099,10 @@
     "template": "prova_social",
     "website": "",
     "email1": true,
-    "date1": "2026-09-08"
+    "date1": "2026-09-08",
+    "doNotContact": true,
+    "bounced": true,
+    "bounceDate": "2026-09-09"
   },
   {
     "name": "Cantina Jundiaiense",
