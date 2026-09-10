@@ -39323,5 +39323,20 @@
     "emailSource": "https://guiapj.com.br/consulta-cnpj/63009907000131",
     "emailVerifiedAt": "2026-09-09",
     "date": "2026-09-09"
+  },
+  {
+    "name": "Adega e Distribuidora 1200",
+    "email": "adega1200@gmail.com",
+    "neighborhood": "Jardim Ipanema",
+    "type": "adega",
+    "address": "Avenida Luiz Antonio de Paiva, 277 - Jardim Ipanema, Ferraz de Vasconcelos/SP",
+    "context": "Adega e Distribuidora 1200 (Michelle de Oliveira), CNPJ 45.535.016/0001-37, ativa desde 2022 em Ferraz de Vasconcelos no comercio varejista de bebidas, telefone e email publicos. Fato: opera como adega de bebidas. Inferencia comercial: perfil com potencial de recompra e inclusao de cachaca premium no mix.",
+    "template": "consultivo",
+    "phone": "(11) 99759-9525",
+    "email1": false,
+    "emailVerified": true,
+    "emailSource": "https://guiapj.com.br/consulta-cnpj/45535016000137",
+    "emailVerifiedAt": "2026-09-09",
+    "date": "2026-09-09"
   }
 ]
