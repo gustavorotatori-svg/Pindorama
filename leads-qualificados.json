@@ -32687,7 +32687,9 @@
     "email1": true,
     "date1": "2026-09-01",
     "email2": true,
-    "date2": "2026-09-06"
+    "date2": "2026-09-06",
+    "email3": true,
+    "date3": "2026-09-10"
   },
   {
     "name": "BAR Figueiras",
@@ -33149,7 +33151,9 @@
     "email1": true,
     "date1": "2026-09-01",
     "email2": true,
-    "date2": "2026-09-06"
+    "date2": "2026-09-06",
+    "email3": true,
+    "date3": "2026-09-10"
   },
   {
     "name": "MACAXEIRA RESTAURANTE & CACHAÃARIA",
@@ -33187,7 +33191,9 @@
     "email1": true,
     "date1": "2026-09-01",
     "email2": true,
-    "date2": "2026-09-06"
+    "date2": "2026-09-06",
+    "email3": true,
+    "date3": "2026-09-10"
   },
   {
     "name": "Luce",
@@ -36980,7 +36986,9 @@
     "mxVerified": true,
     "mxVerifiedAt": "2026-09-08",
     "email1": true,
-    "date1": "2026-09-08"
+    "date1": "2026-09-08",
+    "email2": true,
+    "date2": "2026-09-10"
   },
   {
     "name": "Casa Pires Emporio",
@@ -38072,7 +38080,9 @@
     "template": "consultivo",
     "email1": true,
     "date1": "2026-09-01",
-    "automationIncident": "Contato ja constava nos Enviados do Gmail em 01/09/2026 17:55; registro reconciliado e novo envio cancelado pela checagem transacional anti-duplicidade."
+    "automationIncident": "Contato ja constava nos Enviados do Gmail em 01/09/2026 17:55; registro reconciliado e novo envio cancelado pela checagem transacional anti-duplicidade.",
+    "email2": true,
+    "date2": "2026-09-10"
   },
   {
     "name": "Stark Chopp",
@@ -38095,7 +38105,9 @@
     "status": "qualified_pending_import",
     "template": "consultivo",
     "email1": true,
-    "date1": "2026-09-04"
+    "date1": "2026-09-04",
+    "email2": true,
+    "date2": "2026-09-10"
   },
   {
     "name": "Genebra Distribuidora de Bebidas",
@@ -38118,7 +38130,9 @@
     "status": "qualified_pending_import",
     "template": "consultivo",
     "email1": true,
-    "date1": "2026-09-04"
+    "date1": "2026-09-04",
+    "email2": true,
+    "date2": "2026-09-10"
   },
   {
     "name": "Bolsao Distribuidora",
@@ -38145,7 +38159,9 @@
     "status": "qualified_pending_import",
     "template": "consultivo",
     "email1": true,
-    "date1": "2026-09-04"
+    "date1": "2026-09-04",
+    "email2": true,
+    "date2": "2026-09-10"
   },
   {
     "name": "HS Bebidas Atacado",
@@ -38172,7 +38188,9 @@
     "status": "qualified_pending_import",
     "template": "consultivo",
     "email1": true,
-    "date1": "2026-09-04"
+    "date1": "2026-09-04",
+    "email2": true,
+    "date2": "2026-09-10"
   },
   {
     "name": "Yolanda Botequim Matriz",
@@ -38199,7 +38217,9 @@
     "status": "qualified_pending_import",
     "template": "pergunta",
     "email1": true,
-    "date1": "2026-09-04"
+    "date1": "2026-09-04",
+    "email2": true,
+    "date2": "2026-09-10"
   },
   {
     "name": "Amdib",
@@ -38226,7 +38246,9 @@
     "status": "qualified_pending_import",
     "template": "consultivo",
     "email1": true,
-    "date1": "2026-09-04"
+    "date1": "2026-09-04",
+    "email2": true,
+    "date2": "2026-09-10"
   },
   {
     "name": "Dos Bacanas Bar",
@@ -38348,7 +38370,9 @@
     "template": "consultivo",
     "email1": true,
     "whatsapp1": false,
-    "date1": "2026-09-04"
+    "date1": "2026-09-04",
+    "email2": true,
+    "date2": "2026-09-10"
   },
   {
     "name": "Estacao da Comida Sorocaba",
@@ -38384,7 +38408,9 @@
     "mxVerified": true,
     "template": "consultivo",
     "email1": true,
-    "date1": "2026-09-04"
+    "date1": "2026-09-04",
+    "email2": true,
+    "date2": "2026-09-10"
   },
   {
     "name": "JMatos Bebidas",
@@ -38400,7 +38426,9 @@
     "mxVerified": true,
     "template": "consultivo",
     "email1": true,
-    "date1": "2026-09-04"
+    "date1": "2026-09-04",
+    "email2": true,
+    "date2": "2026-09-10"
   },
   {
     "name": "Pezasa Distribuidora de Bebidas",
@@ -38425,7 +38453,9 @@
     "status": "uncontacted",
     "template": "consultivo",
     "email1": true,
-    "date1": "2026-09-04"
+    "date1": "2026-09-04",
+    "email2": true,
+    "date2": "2026-09-10"
   },
   {
     "name": "Buteco em Casa Campinas",
@@ -38465,7 +38495,9 @@
     "status": "uncontacted",
     "template": "consultivo",
     "email1": true,
-    "date1": "2026-09-04"
+    "date1": "2026-09-04",
+    "email2": true,
+    "date2": "2026-09-10"
   },
   {
     "name": "Taberna do Portuga",
@@ -38524,7 +38556,9 @@
     "status": "uncontacted",
     "template": "consultivo",
     "email1": true,
-    "date1": "2026-09-04"
+    "date1": "2026-09-04",
+    "email2": true,
+    "date2": "2026-09-10"
   },
   {
     "name": "Adega Santa Cecilia",
@@ -38566,7 +38600,9 @@
     "emailSource": "https://guiapj.com.br/consulta-cnpj/02552328000146",
     "emailVerifiedAt": "2026-09-04",
     "email1": true,
-    "date1": "2026-09-04"
+    "date1": "2026-09-04",
+    "email2": true,
+    "date2": "2026-09-10"
   },
   {
     "name": "Adega Benedito",
@@ -38580,7 +38616,9 @@
     "emailSource": "https://www.diariocidade.com/sp/sao-bernardo-do-campo/guia/adega-benedito-37525183000179/",
     "emailVerifiedAt": "2026-09-04",
     "email1": true,
-    "date1": "2026-09-04"
+    "date1": "2026-09-04",
+    "email2": true,
+    "date2": "2026-09-10"
   },
   {
     "name": "Adega Paulista",
@@ -38594,7 +38632,9 @@
     "emailSource": "https://www.diariocidade.com/sp/barueri/guia/adega-paulista-45565299000160/",
     "emailVerifiedAt": "2026-09-04",
     "email1": true,
-    "date1": "2026-09-04"
+    "date1": "2026-09-04",
+    "email2": true,
+    "date2": "2026-09-10"
   },
   {
     "name": "Adega JM (APP & RNA Bebidas)",
@@ -38608,7 +38648,9 @@
     "emailSource": "https://www.diariocidade.com/sp/carapicuiba/guia/adega-jm-09079973000132/",
     "emailVerifiedAt": "2026-09-07",
     "email1": true,
-    "date1": "2026-09-04"
+    "date1": "2026-09-04",
+    "email2": true,
+    "date2": "2026-09-10"
   },
   {
     "name": "Adegas Bar Frazao",
@@ -38622,7 +38664,9 @@
     "emailSource": "https://www.diariocidade.com/sp/carapicuiba/guia/adegas-bar-frazao-49576455000149/",
     "emailVerifiedAt": "2026-09-04",
     "email1": true,
-    "date1": "2026-09-04"
+    "date1": "2026-09-04",
+    "email2": true,
+    "date2": "2026-09-10"
   },
   {
     "name": "Adega Vitao Bebidas",
@@ -38653,7 +38697,9 @@
     "emailSource": "https://guiapj.com.br/consulta-cnpj/49728570000191",
     "emailVerifiedAt": "2026-09-04",
     "email1": true,
-    "date1": "2026-09-04"
+    "date1": "2026-09-04",
+    "email2": true,
+    "date2": "2026-09-10"
   },
   {
     "name": "Adega da Vila Jundiai",
@@ -38667,7 +38713,9 @@
     "emailSource": "https://www.diariocidade.com/sp/jundiai/guia/adega-da-vila-30807403000108/",
     "emailVerifiedAt": "2026-09-04",
     "email1": true,
-    "date1": "2026-09-04"
+    "date1": "2026-09-04",
+    "email2": true,
+    "date2": "2026-09-10"
   },
   {
     "name": "Adega SOS da Cerveja",
@@ -38681,7 +38729,9 @@
     "emailSource": "https://www.diariocidade.com/sp/jundiai/guia/adega-sos-da-cerveja-24869575000103/",
     "emailVerifiedAt": "2026-09-04",
     "email1": true,
-    "date1": "2026-09-04"
+    "date1": "2026-09-04",
+    "email2": true,
+    "date2": "2026-09-10"
   },
   {
     "name": "Adega Brunholi",
@@ -39244,11 +39294,12 @@
     "context": "Distribuidora Adega Rainha (JRR Distribuidora de Bebidas Rainha LTDA), CNPJ 17.322.528/0001-80, ativa a 13 anos em Suzano no comercio atacadista de agua mineral e bebidas, telefone e email publicos. Fato: opera como distribuidora de bebidas. Inferencia comercial: perfil com potencial de recompra e inclusao de cachaca premium no mix.",
     "template": "consultivo",
     "phone": "(11) 4749-1764",
-    "email1": false,
+    "email1": true,
     "emailVerified": true,
     "emailSource": "https://www.diariocidade.com/sp/suzano/guia/adega-rainha-17322528000180/",
     "emailVerifiedAt": "2026-09-09",
-    "date": "2026-09-09"
+    "date": "2026-09-09",
+    "date1": "2026-09-10"
   },
   {
     "name": "Adega Do Bigode",
@@ -39259,11 +39310,12 @@
     "context": "Adega Do Bigode (Santos & Gois Comercio de Bebidas EIRELI), CNPJ 27.491.004/0001-76, ativa ha 9 anos em Ribeirao Pires no comercio varejista de bebidas, email e telefone publicos. Fato: opera como adega/distribuidora de bebidas. Inferencia comercial: perfil com potencial de recompra e inclusao de cachaca no mix.",
     "template": "consultivo",
     "phone": "(11) 4824-4082",
-    "email1": false,
+    "email1": true,
     "emailVerified": true,
     "emailSource": "https://www.diariocidade.com/sp/ribeirao-pires/guia/adega-do-bigode-27491004000176/",
     "emailVerifiedAt": "2026-09-09",
-    "date": "2026-09-09"
+    "date": "2026-09-09",
+    "date1": "2026-09-10"
   },
   {
     "name": "Adega Alegria Alangi",
@@ -39274,11 +39326,12 @@
     "context": "Adega e Distribuidora de Bebidas Alegria Alangi Ltda, CNPJ 49.168.764/0001-80, ativa desde 2023 na zona leste de Sao Paulo no comercio de bebidas, telefone e email publicos. Fato: opera como adega de bebidas. Inferencia comercial: perfil com potencial de recompra e inclusao de cachaca premium no mix.",
     "template": "prova_social",
     "phone": "(11) 6470-1792",
-    "email1": false,
+    "email1": true,
     "emailVerified": true,
     "emailSource": "https://guiapj.com.br/consulta-cnpj/49168764000180",
     "emailVerifiedAt": "2026-09-09",
-    "date": "2026-09-09"
+    "date": "2026-09-09",
+    "date1": "2026-09-10"
   },
   {
     "name": "Adega Beer",
@@ -39289,11 +39342,12 @@
     "context": "Adega Beer Comercio Varejista Ltda, CNPJ 52.458.532/0001-70, ativa desde 2023 em Mogi das Cruzes com comercio varejista de bebidas, telefone e email publicos. Fato: opera como adega de bebidas. Inferencia comercial: perfil com potencial de recompra e inclusao de cachaca no mix.",
     "template": "consultivo",
     "phone": "(11) 5050-5497",
-    "email1": false,
+    "email1": true,
     "emailVerified": true,
     "emailSource": "https://guiapj.com.br/consulta-cnpj/52458532000170",
     "emailVerifiedAt": "2026-09-09",
-    "date": "2026-09-09"
+    "date": "2026-09-09",
+    "date1": "2026-09-10"
   },
   {
     "name": "Alberg Distribuidora",
@@ -39305,11 +39359,12 @@
     "template": "consultivo",
     "phone": "(11) 4746-4505",
     "website": "https://alberg.com.br",
-    "email1": false,
+    "email1": true,
     "emailVerified": true,
     "emailSource": "https://guiapj.com.br/consulta-cnpj/18469501000187",
     "emailVerifiedAt": "2026-09-09",
-    "date": "2026-09-09"
+    "date": "2026-09-09",
+    "date1": "2026-09-10"
   },
   {
     "name": "MB Distribuidora",
@@ -39320,11 +39375,12 @@
     "context": "MB Comercio de Mercadorias em Geral Ltda (MB Distribuidora), CNPJ 63.009.907/0001-31, ativa desde out/2025 em Suzano com comercio varejista de bebidas, telefone e email publicos. Fato: opera como distribuidora de bebidas. Inferencia comercial: perfil com potencial de recompra e inclusao de cachaca premium no mix.",
     "template": "prova_social",
     "phone": "(11) 99251-8869",
-    "email1": false,
+    "email1": true,
     "emailVerified": true,
     "emailSource": "https://guiapj.com.br/consulta-cnpj/63009907000131",
     "emailVerifiedAt": "2026-09-09",
-    "date": "2026-09-09"
+    "date": "2026-09-09",
+    "date1": "2026-09-10"
   },
   {
     "name": "Adega e Distribuidora 1200",
@@ -39335,11 +39391,12 @@
     "context": "Adega e Distribuidora 1200 (Michelle de Oliveira), CNPJ 45.535.016/0001-37, ativa desde 2022 em Ferraz de Vasconcelos no comercio varejista de bebidas, telefone e email publicos. Fato: opera como adega de bebidas. Inferencia comercial: perfil com potencial de recompra e inclusao de cachaca premium no mix.",
     "template": "consultivo",
     "phone": "(11) 99759-9525",
-    "email1": false,
+    "email1": true,
     "emailVerified": true,
     "emailSource": "https://guiapj.com.br/consulta-cnpj/45535016000137",
     "emailVerifiedAt": "2026-09-09",
-    "date": "2026-09-09"
+    "date": "2026-09-09",
+    "date1": "2026-09-10"
   },
   {
     "name": "Adega Distribuidora Caiuby",
@@ -39350,11 +39407,12 @@
     "context": "Adega & Distribuidora Caiuby Ltda, CNPJ 63.184.031/0001-60, ativa desde out/2025 em Itaquaquecetuba no comercio atacadista de cerveja, chope e refrigerante, telefone e email publicos. Fato: opera como adega/distribuidora de bebidas. Inferencia comercial: perfil com potencial de recompra e inclusao de cachaca premium no mix.",
     "template": "consultivo",
     "phone": "(11) 98169-1757",
-    "email1": false,
+    "email1": true,
     "emailVerified": true,
     "emailSource": "https://guiapj.com.br/consulta-cnpj/63184031000160",
     "emailVerifiedAt": "2026-09-10",
-    "date": "2026-09-10"
+    "date": "2026-09-10",
+    "date1": "2026-09-10"
   },
   {
     "name": "Distribuidora de Bebidas Aruja",
@@ -39365,11 +39423,12 @@
     "context": "Distribuidora de Bebidas Aruja Ltda, CNPJ 12.211.923/0001-71, ativa ha 15 anos em Aruja no comercio varejista de bebidas, telefones e email publicos. Fato: opera como distribuidora de bebidas. Inferencia comercial: perfil com potencial de recompra e inclusao de cachaca premium no mix.",
     "template": "consultivo",
     "phone": "(11) 4652-2473",
-    "email1": false,
+    "email1": true,
     "emailVerified": true,
     "emailSource": "https://www.diariocidade.com/sp/aruja/guia/distribuidora-de-bebidas-aruja-ltda-12211923000171/",
     "emailVerifiedAt": "2026-09-10",
-    "date": "2026-09-10"
+    "date": "2026-09-10",
+    "date1": "2026-09-10"
   },
   {
     "name": "Adega Santa Isabel",
@@ -39380,10 +39439,11 @@
     "context": "Adega Santa Isabel (Marcos, Creone e Willian Distribuidora de Doces e Bebidas Ltda), CNPJ 33.280.240/0001-46, ativa desde 2019 em Embu-Guacu no comercio varejista de bebidas, telefone e email publicos. Fato: opera como adega/deposito de bebidas. Inferencia comercial: perfil com potencial de recompra e inclusao de cachaca premium no mix.",
     "template": "consultivo",
     "phone": "(11) 5101-9992",
-    "email1": false,
+    "email1": true,
     "emailVerified": true,
     "emailSource": "https://www.solutudo.com.br/empresas/sp/embu-guacu/depositos-de-bebidas/adega-santa-isabel-ltda-9214475",
     "emailVerifiedAt": "2026-09-10",
-    "date": "2026-09-10"
+    "date": "2026-09-10",
+    "date1": "2026-09-10"
   }
 ]
