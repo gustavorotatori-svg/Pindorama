@@ -39368,5 +39368,20 @@
     "emailSource": "https://www.diariocidade.com/sp/aruja/guia/distribuidora-de-bebidas-aruja-ltda-12211923000171/",
     "emailVerifiedAt": "2026-09-10",
     "date": "2026-09-10"
+  },
+  {
+    "name": "Adega Santa Isabel",
+    "email": "dantaswillian14@gmail.com",
+    "neighborhood": "Parque Santa Rosa",
+    "type": "adega",
+    "address": "Rodovia Jose Simoes Louro Junior, 39690 - Parque Santa Rosa, Embu-Guacu/SP",
+    "context": "Adega Santa Isabel (Marcos, Creone e Willian Distribuidora de Doces e Bebidas Ltda), CNPJ 33.280.240/0001-46, ativa desde 2019 em Embu-Guacu no comercio varejista de bebidas, telefone e email publicos. Fato: opera como adega/deposito de bebidas. Inferencia comercial: perfil com potencial de recompra e inclusao de cachaca premium no mix.",
+    "template": "consultivo",
+    "phone": "(11) 5101-9992",
+    "email1": false,
+    "emailVerified": true,
+    "emailSource": "https://www.solutudo.com.br/empresas/sp/embu-guacu/depositos-de-bebidas/adega-santa-isabel-ltda-9214475",
+    "emailVerifiedAt": "2026-09-10",
+    "date": "2026-09-10"
   }
 ]
