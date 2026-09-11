@@ -36169,7 +36169,9 @@
     "website": "https://br.linkedin.com/company/confianca-atacadista-de-bebidas",
     "whatsappSource": "https://br.linkedin.com/company/confianca-atacadista-de-bebidas",
     "whatsappVerifiedAt": "2026-08-22",
-    "template": "consultivo"
+    "template": "consultivo",
+    "whatsappSent": true,
+    "whatsappDate": "2026-09-11"
   },
   {
     "name": "Nossa Distribuidora Bebidas",
@@ -36193,7 +36195,9 @@
     "website": "https://www.montcristowinebar.com.br/",
     "whatsappSource": "https://www.montcristowinebar.com.br/",
     "whatsappVerifiedAt": "2026-08-22",
-    "template": "consultivo"
+    "template": "consultivo",
+    "whatsappSent": true,
+    "whatsappDate": "2026-09-11"
   },
   {
     "name": "Casa Porto D'Vino",
@@ -36207,7 +36211,9 @@
     "contactRole": "curadoria, atendimento e administracao",
     "whatsappSource": "https://www.casaportodvino.com.br/conheca-a-casa/",
     "whatsappVerifiedAt": "2026-08-22",
-    "template": "consultivo"
+    "template": "consultivo",
+    "whatsappSent": true,
+    "whatsappDate": "2026-09-11"
   },
   {
     "name": "Supermercados Peg Pese",
@@ -36219,7 +36225,9 @@
     "website": "https://pegpesehortifruti.com.br/setores/adega/",
     "whatsappSource": "https://pegpesehortifruti.com.br/setores/adega/",
     "whatsappVerifiedAt": "2026-08-22",
-    "template": "consultivo"
+    "template": "consultivo",
+    "whatsappSent": true,
+    "whatsappDate": "2026-09-11"
   },
   {
     "name": "Charllu Bar",

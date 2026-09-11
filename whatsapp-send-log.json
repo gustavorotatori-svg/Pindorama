@@ -494,5 +494,99 @@
     "phone": "+55 11 99423-9844",
     "source": "https://adegamorais.shop/",
     "messageId": "3EB03940DF0F53C19AF7A0"
+  },
+  {
+    "date": "2026-09-11",
+    "checkedAt": "2026-09-11T16:32:40.906Z",
+    "status": "not_on_whatsapp",
+    "name": "Sampa Adega",
+    "phone": "(11) 98402-3929",
+    "source": "https://www.sampaadega.com.br/"
+  },
+  {
+    "date": "2026-09-11",
+    "checkedAt": "2026-09-11T16:32:40.990Z",
+    "status": "not_on_whatsapp",
+    "name": "Adega Frimar",
+    "phone": "(11) 5219-3878",
+    "source": "https://mycelium.lat/"
+  },
+  {
+    "date": "2026-09-11",
+    "checkedAt": "2026-09-11T16:32:41.075Z",
+    "status": "not_on_whatsapp",
+    "name": "Sphera Lounge",
+    "phone": "(11) 97636-3908",
+    "source": "https://www.spheralounge.com.br/"
+  },
+  {
+    "date": "2026-09-11",
+    "checkedAt": "2026-09-11T16:32:41.161Z",
+    "status": "not_on_whatsapp",
+    "name": "Dentro Bar",
+    "phone": "(11) 94998-2925",
+    "source": "https://www.baressp.com.br/bares/dentro-bar"
+  },
+  {
+    "date": "2026-09-11",
+    "acceptedAt": "2026-09-11T16:32:42.773Z",
+    "status": "accepted",
+    "name": "300 Sky Bar",
+    "phone": "(11) 93070-0300",
+    "source": "https://www.baressp.com.br/restaurantes/bar-e-restaurante/300-sky-bar",
+    "messageId": "3EB0A072AE49AC2D180D5D"
+  },
+  {
+    "date": "2026-09-11",
+    "acceptedAt": "2026-09-11T16:32:49.308Z",
+    "status": "accepted",
+    "name": "Bar Piraja Shopping Cidade Sao Paulo",
+    "phone": "(11) 94364-3170",
+    "source": "https://baressp.com.br/bares/bar-piraja-shopping-cidade-sao-paulo",
+    "messageId": "3EB0A44F0E1B28539CB46D"
+  },
+  {
+    "date": "2026-09-11",
+    "acceptedAt": "2026-09-11T16:32:55.881Z",
+    "status": "accepted",
+    "name": "Confianca Atacadista de Bebidas",
+    "phone": "(11) 93071-3396",
+    "source": "https://br.linkedin.com/company/confianca-atacadista-de-bebidas",
+    "messageId": "3EB0F9BE8673E3617A859F"
+  },
+  {
+    "date": "2026-09-11",
+    "checkedAt": "2026-09-11T16:33:00.977Z",
+    "status": "not_on_whatsapp",
+    "name": "Nossa Distribuidora Bebidas",
+    "phone": "(11) 99950-3806",
+    "source": "https://nossadistribuidorabebidas.com.br/"
+  },
+  {
+    "date": "2026-09-11",
+    "acceptedAt": "2026-09-11T16:33:02.404Z",
+    "status": "accepted",
+    "name": "Mont Cristo Wine Bar",
+    "phone": "(11) 95590-0994",
+    "source": "https://www.montcristowinebar.com.br/",
+    "messageId": "3EB0D31D5D37B7AFF7C549"
+  },
+  {
+    "date": "2026-09-11",
+    "acceptedAt": "2026-09-11T16:33:08.682Z",
+    "status": "accepted",
+    "name": "Casa Porto D'Vino",
+    "phone": "(11) 94044-1797",
+    "source": "https://www.casaportodvino.com.br/conheca-a-casa/",
+    "messageId": "3EB0BEA9DF535782966AA7"
+  },
+  {
+    "date": "2026-09-11",
+    "acceptedAt": "2026-09-11T16:33:15.066Z",
+    "status": "accepted",
+    "name": "Supermercados Peg Pese",
+    "phone": "(11) 97252-6182",
+    "source": "https://pegpesehortifruti.com.br/setores/adega/",
+    "messageId": "3EB06EBD932CAF5E5C858C"
   }
 ]

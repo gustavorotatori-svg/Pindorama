@@ -508,7 +508,8 @@
     "evidence": "Perfil comercial atualizado em abril de 2026 confirma rooftop ativo no Itaim Bibi, alta gastronomia, coquetelaria autoral e festival de Negronis, com WhatsApp empresarial publicado.",
     "verifiedAt": "2026-08-21",
     "notBefore": "2026-09-11",
-    "status": "queued"
+    "status": "sent",
+    "sentAt": "2026-09-11T16:32:42.773Z"
   },
   {
     "name": "Bar Piraja Shopping Cidade Sao Paulo",
@@ -519,7 +520,8 @@
     "evidence": "Perfil comercial atualizado em janeiro de 2026 confirma unidade ativa na Avenida Paulista, com caipirinhas autorais de cachaca e WhatsApp empresarial publicado.",
     "verifiedAt": "2026-08-21",
     "notBefore": "2026-09-11",
-    "status": "queued"
+    "status": "sent",
+    "sentAt": "2026-09-11T16:32:49.308Z"
   },
   {
     "name": "Restaurante Saj Aruja",
@@ -1301,7 +1303,8 @@
     "evidence": "Pagina empresarial oficial consultada em agosto de 2026 confirma atacadista ativo desde 1991, portfolio de destilados, porte de 51 a 200 funcionarios e WhatsApp de televendas explicitamente publicado.",
     "verifiedAt": "2026-08-22",
     "notBefore": "2026-08-22",
-    "status": "queued"
+    "status": "sent",
+    "sentAt": "2026-09-11T16:32:55.881Z"
   },
   {
     "name": "Nossa Distribuidora Bebidas",
@@ -1323,7 +1326,8 @@
     "evidence": "Site oficial consultado em agosto de 2026 confirma wine bar e loja ativos, mais de 600 rotulos, destilados, eventos empresariais e informais e WhatsApp empresarial publicado.",
     "verifiedAt": "2026-08-22",
     "notBefore": "2026-08-22",
-    "status": "queued"
+    "status": "sent",
+    "sentAt": "2026-09-11T16:33:02.404Z"
   },
   {
     "name": "Casa Porto D'Vino",
@@ -1334,7 +1338,8 @@
     "evidence": "Site oficial consultado em agosto de 2026 confirma loja fisica e e-commerce ativos, mais de 300 rotulos, destilados e opcoes premium; identifica Gabi na curadoria, atendimento e administracao e publica WhatsApp empresarial.",
     "verifiedAt": "2026-08-22",
     "notBefore": "2026-08-22",
-    "status": "queued"
+    "status": "sent",
+    "sentAt": "2026-09-11T16:33:08.682Z"
   },
   {
     "name": "Supermercados Peg Pese",
@@ -1345,7 +1350,8 @@
     "evidence": "Site oficial consultado em agosto de 2026 confirma sete unidades, setor de adega com vinhos, whiskies, outros destilados, cervejas internacionais, orientacao de sommelier e WhatsApp corporativo publicado.",
     "verifiedAt": "2026-08-22",
     "notBefore": "2026-08-22",
-    "status": "queued"
+    "status": "sent",
+    "sentAt": "2026-09-11T16:33:15.066Z"
   },
   {
     "name": "Charllu Bar",
