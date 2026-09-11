@@ -39359,7 +39359,10 @@
     "emailSource": "https://www.diariocidade.com/sp/ribeirao-pires/guia/adega-do-bigode-27491004000176/",
     "emailVerifiedAt": "2026-09-09",
     "date": "2026-09-09",
-    "date1": "2026-09-10"
+    "date1": "2026-09-10",
+    "doNotContact": true,
+    "bounced": true,
+    "bounceDate": "2026-09-11"
   },
   {
     "name": "Adega Alegria Alangi",
