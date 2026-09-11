@@ -39638,5 +39638,33 @@
     "emailSource": "https://guiapj.com.br/consulta-cnpj/64829410000122",
     "emailVerifiedAt": "2026-09-11",
     "date": "2026-09-11"
+  },
+  {
+    "name": "Adega Guimaraes",
+    "email": "hugo.victoralves@hotmail.com",
+    "neighborhood": "Jardim Marilia",
+    "type": "loja_bebidas",
+    "address": "Rua Valdomiro Alves da Silva, 222 - Jardim Marilia, Jandira/SP",
+    "context": "Adega Guimaraes (CNPJ 53.286.490/0001-09), empresario individual fundado dez/2023, ME, comercio varejista de bebidas (CNAE 4723700). Fato: opera como adega em Jandira. Inferencia comercial: perfil com potencial de inclusao de cachaca premium no mix.",
+    "template": "consultivo",
+    "phone": "(11) 1171-0306",
+    "emailVerified": true,
+    "emailSource": "https://mestregeo.com.br/cnpj/sp/jandira/adega-guimaraes-53286490000109",
+    "emailVerifiedAt": "2026-09-11",
+    "date": "2026-09-11"
+  },
+  {
+    "name": "Adega Chapadao",
+    "email": "contato@xapadaobebidas.com.br",
+    "neighborhood": "Jardim Jurema",
+    "type": "distribuidora",
+    "address": "Rua Angelina Barreto Fernandes - Jardim Jurema, Itapevi/SP",
+    "context": "Adega Chapadao (Comercio de Bebidas Chapada D Oeste Ltda, CNPJ 08.859.942/0001-31), ativa, comercio atacadista de bebidas nao especificadas (CNAE 4635499), com filiais em Itapevi (08.859.942/0002-12) e Barueri (08.859.942/0003-01). Fato: opera como atacadista/distribuidora de bebidas com rede em 3 cidades. Inferencia comercial: bom perfil de recompra e inclusao de cachaca premium no mix.",
+    "template": "consultivo",
+    "phone": "(11) 4142-3787",
+    "emailVerified": true,
+    "emailSource": "https://inteligen.com.br/empresa/adega-chapadao-comercio-de-bebidas-chapada-d-oeste-ltda-08859942000131",
+    "emailVerifiedAt": "2026-09-11",
+    "date": "2026-09-11"
   }
 ]
