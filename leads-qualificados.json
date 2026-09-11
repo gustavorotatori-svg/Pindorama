@@ -39512,5 +39512,61 @@
     "emailSource": "https://www.diariocidade.com/sp/ferraz-de-vasconcelos/guia/adega-do-man-52091172000111/",
     "emailVerifiedAt": "2026-09-11",
     "date": "2026-09-11"
+  },
+  {
+    "name": "Adega da Viela Guarulhos",
+    "email": "adegadavielaguarulhos@hotmail.com",
+    "neighborhood": "Jardim Presidente Dutra",
+    "type": "distribuidora",
+    "address": "Avenida Papa Joao Paulo I, 3899 - Jardim Presidente Dutra, Guarulhos/SP",
+    "context": "Adega da Viela Guarulhos Ltda, CNPJ 53.199.660/0001-00, ME, Comercio atacadista de bebidas nao especificadas (CNAE 4635499), email e telefone publicos da Receita. Fato: opera como atacadista de bebidas. Inferencia comercial: perfil com potencial de recompra e inclusao de cachaca premium no mix.",
+    "template": "consultivo",
+    "phone": "(11) 5134-5606",
+    "emailVerified": true,
+    "emailSource": "https://maiscnpj.com.br/cnpj/53199660000100-adega-da-viela-guarulhos-ltda",
+    "emailVerifiedAt": "2026-09-11",
+    "date": "2026-09-11"
+  },
+  {
+    "name": "Adega Inova",
+    "email": "ellenlucianamartinsleal1705@gmail.com",
+    "neighborhood": "Centro",
+    "type": "distribuidora",
+    "address": "Rua Benedito Fernandes, 707 - Centro, Embu-Guaçu/SP",
+    "context": "Adega Inova (Ellen Luciana Martins Leal), CNPJ 35.020.493/0001-06, ativa desde set/2019 em Embu-Guacu, comercio varejista de bebidas (CNAE 4723700) com atividades secundarias atacadistas. Fato: opera como distribuidora de bebidas. Inferencia comercial: perfil com potencial de recompra e inclusao de cachaca premium no mix.",
+    "template": "consultivo",
+    "phone": "(11) 5554-8822",
+    "emailVerified": true,
+    "emailSource": "https://www.diariocidade.com/sp/embu-guacu/guia/adega-inova-35020493000106/",
+    "emailVerifiedAt": "2026-09-11",
+    "date": "2026-09-11"
+  },
+  {
+    "name": "Adega e Conveniencia 471",
+    "email": "adega.esquina471@gmail.com",
+    "neighborhood": "Jardim Sao Marcos",
+    "type": "loja_bebidas",
+    "address": "Rua Augusto de Almeida Batista, 471 - Jardim Sao Marcos, Embu das Artes/SP",
+    "context": "Adega e Conveniencia 471, CNPJ 61.718.390/0001-24, LTDA fundada jul/2025, comercio varejista de bebidas (CNAE 4723700), socio Marcel de Lima Orlando, email e telefone publicos. Fato: opera como adega/conveniencia. Inferencia comercial: perfil com potencial de inclusao de cachaca premium no mix.",
+    "template": "consultivo",
+    "phone": "(11) 99851-4217",
+    "emailVerified": true,
+    "emailSource": "https://mestregeo.com.br/cnpj/sp/embu-das-artes/adega-e-conveniencia-471-61718390000124",
+    "emailVerifiedAt": "2026-09-11",
+    "date": "2026-09-11"
+  },
+  {
+    "name": "Adega 247",
+    "email": "nildo@louredo.com.br",
+    "neighborhood": "Jardim Nossa Senhora D'Ajuda",
+    "type": "loja_bebidas",
+    "address": "Estrada Alberto Hinoto, 640 - Jardim Nossa Senhora D'Ajuda, Itaquaquecetuba/SP",
+    "context": "Adega 247 (CNPJ 35.827.461/0001-17), empresario individual fundado dez/2019 em Itaquaquecetuba, comercio varejista de bebidas (CNAE 4723700), ME. Fato: opera como adega. Inferencia comercial: perfil com potencial de inclusao de cachaca premium no mix.",
+    "template": "consultivo",
+    "phone": "(11) 96642-1691",
+    "emailVerified": true,
+    "emailSource": "https://mestregeo.com.br/cnpj/sp/itaquaquecetuba/adega-247-35827461000117",
+    "emailVerifiedAt": "2026-09-11",
+    "date": "2026-09-11"
   }
 ]
