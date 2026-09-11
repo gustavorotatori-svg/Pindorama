@@ -39456,5 +39456,61 @@
     "emailVerifiedAt": "2026-09-10",
     "date": "2026-09-10",
     "date1": "2026-09-10"
+  },
+  {
+    "name": "Ab Adega",
+    "email": "eliane.drade@gmail.com",
+    "neighborhood": "Vila Acoreana",
+    "type": "adega",
+    "address": "Avenida Vital Brasil, 516, Sala 02 - Vila Acoreana, Poa/SP",
+    "context": "Ab Adega (Bruno Marques da Silva Adega), CNPJ 34.278.815/0001-59, ativa desde 2019 em Poa no comercio varejista de bebidas, telefone e email publicos. Fato: opera como adega/distribuidora de bebidas. Inferencia comercial: perfil com potencial de recompra e inclusao de cachaca premium no mix.",
+    "template": "consultivo",
+    "phone": "(11) 9240-8000",
+    "emailVerified": true,
+    "emailSource": "https://www.diariocidade.com/sp/poa/guia/ab-adega-34278815000159/",
+    "emailVerifiedAt": "2026-09-11",
+    "date": "2026-09-11"
+  },
+  {
+    "name": "Adega Poaense",
+    "email": "zrocha2990@gmail.com",
+    "neighborhood": "Jardim Indaia",
+    "type": "distribuidora",
+    "address": "Praca Nossa Senhora da Conceicao, 02 - Jardim Indaia, Poa/SP",
+    "context": "Adega Poaense (Guimaraes Rocha EIRELI), CNPJ 33.848.742/0001-20, ativa desde 2019 em Poa no comercio varejista de bebidas, telefones e email publicos. Fato: opera como adega/distribuidora de bebidas. Inferencia comercial: perfil com potencial de recompra e inclusao de cachaca premium no mix.",
+    "template": "consultivo",
+    "phone": "(11) 4546-9955",
+    "emailVerified": true,
+    "emailSource": "https://www.diariocidade.com/sp/poa/guia/adega-poaense-33848742000120/",
+    "emailVerifiedAt": "2026-09-11",
+    "date": "2026-09-11"
+  },
+  {
+    "name": "AL da Concepcao Adega",
+    "email": "andreluizc646@gmail.com",
+    "neighborhood": "Calmon Viana",
+    "type": "adega",
+    "address": "Avenida Duque de Caxias, 203 - Calmon Viana, Poa/SP",
+    "context": "AL da Concepcao Adega, CNPJ 46.787.922/0001-91, ativa desde jun/2022 em Poa no comercio varejista de bebidas, telefone e email publicos. Fato: opera como adega de bebidas. Inferencia comercial: perfil com potencial de recompra e inclusao de cachaca premium no mix.",
+    "template": "consultivo",
+    "phone": "(11) 4636-5425",
+    "emailVerified": true,
+    "emailSource": "https://guiapj.com.br/consulta-cnpj/46787922000191",
+    "emailVerifiedAt": "2026-09-11",
+    "date": "2026-09-11"
+  },
+  {
+    "name": "Adega Do Man",
+    "email": "josemarrocha88@gmail.com",
+    "neighborhood": "Parque Sao Francisco",
+    "type": "distribuidora",
+    "address": "Avenida Rosa Teixeira Bueno, 332 - Parque Sao Francisco, Ferraz de Vasconcelos/SP",
+    "context": "Adega Do Man (Josemar dos Santos Rocha Ltda), CNPJ 52.091.172/0001-11, ativa desde set/2023 em Ferraz de Vasconcelos no comercio varejista de bebidas, telefone e email publicos. Fato: opera como adega/distribuidora de bebidas. Inferencia comercial: perfil com potencial de recompra e inclusao de cachaca premium no mix.",
+    "template": "consultivo",
+    "phone": "(11) 6419-8265",
+    "emailVerified": true,
+    "emailSource": "https://www.diariocidade.com/sp/ferraz-de-vasconcelos/guia/adega-do-man-52091172000111/",
+    "emailVerifiedAt": "2026-09-11",
+    "date": "2026-09-11"
   }
 ]
