@@ -39610,5 +39610,33 @@
     "emailSource": "https://mestregeo.com.br/cnpj/sp/suzano/adega-resenha-65103936000193",
     "emailVerifiedAt": "2026-09-11",
     "date": "2026-09-11"
+  },
+  {
+    "name": "Adega Minas",
+    "email": "uenesmineiro@gmail.com",
+    "neighborhood": "Chacara Guanabara",
+    "type": "loja_bebidas",
+    "address": "Avenida America, 04 - Chacara Guanabara, Mogi das Cruzes/SP",
+    "context": "Adega Minas (CNPJ 55.003.740/0001-73), fundada mai/2024, ME, comercio varejista de bebidas (CNAE 4723700), socio Uenes Gomes de Jesus. Fato: opera como adega em Mogi das Cruzes. Inferencia comercial: perfil com potencial de inclusao de cachaca premium no mix.",
+    "template": "consultivo",
+    "phone": "(11) 98574-2136",
+    "emailVerified": true,
+    "emailSource": "https://mestregeo.com.br/cnpj/sp/mogi-das-cruzes/adega-minas-55003740000173",
+    "emailVerifiedAt": "2026-09-11",
+    "date": "2026-09-11"
+  },
+  {
+    "name": "Adega e Mercearia do Je",
+    "email": "jeffersonav93@gmail.com",
+    "neighborhood": "Jundiapeba",
+    "type": "loja_bebidas",
+    "address": "Avenida Joao de Souza Franco, 130, Casa 131 - Jundiapeba, Mogi das Cruzes/SP",
+    "context": "Adega e Mercearia do Je Ltda (CNPJ 64.829.410/0001-22), fundada jan/2026, ativa, comercio varejista de bebidas (CNAE 4723700). Fato: opera como adega/loja de bebidas em Mogi das Cruzes. Inferencia comercial: perfil com potencial de inclusao de cachaca premium no mix.",
+    "template": "consultivo",
+    "phone": "(11) 4170-0381",
+    "emailVerified": true,
+    "emailSource": "https://guiapj.com.br/consulta-cnpj/64829410000122",
+    "emailVerifiedAt": "2026-09-11",
+    "date": "2026-09-11"
   }
 ]
