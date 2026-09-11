@@ -39666,5 +39666,33 @@
     "emailSource": "https://inteligen.com.br/empresa/adega-chapadao-comercio-de-bebidas-chapada-d-oeste-ltda-08859942000131",
     "emailVerifiedAt": "2026-09-11",
     "date": "2026-09-11"
+  },
+  {
+    "name": "Adega do Joca",
+    "email": "dojocaadega@gmail.com",
+    "neighborhood": "Parque Vitoria",
+    "type": "loja_bebidas",
+    "address": "Rua Francisco Casamassa, 375 - Parque Vitoria, Franco da Rocha/SP",
+    "context": "Adega do Joca (Joaquim Comercio e Distribuidora de Bebidas Ltda, CNPJ 66.918.771/0001-70), fundada mai/2026, ME, comercio varejista de bebidas (CNAE 4723700), socio Isabella Vianello Lemos. Fato: opera como adega em Franco da Rocha. Inferencia comercial: perfil com potencial de inclusao de cachaca premium no mix.",
+    "template": "consultivo",
+    "phone": "(11) 4703-8763",
+    "emailVerified": true,
+    "emailSource": "https://mestregeo.com.br/cnpj/sp/franco-da-rocha/adega-do-joca-66918771000170",
+    "emailVerifiedAt": "2026-09-11",
+    "date": "2026-09-11"
+  },
+  {
+    "name": "Adega Leao",
+    "email": "assedesouza@gmail.com",
+    "neighborhood": "Estancia Lago Azul",
+    "type": "loja_bebidas",
+    "address": "Rua Oroxo, 126 - Estancia Lago Azul, Franco da Rocha/SP",
+    "context": "Adega Leao (Point Adega Leao Bar e Restaurante Ltda, CNPJ 64.643.115/0001-87), fundada jan/2026, ativa, comercio varejista de bebidas (CNAE 4723700). Fato: opera como adega em Franco da Rocha. Inferencia comercial: perfil com potencial de inclusao de cachaca premium no mix.",
+    "template": "consultivo",
+    "phone": "(11) 97114-1127",
+    "emailVerified": true,
+    "emailSource": "https://guiapj.com.br/consulta-cnpj/64643115000187",
+    "emailVerifiedAt": "2026-09-11",
+    "date": "2026-09-11"
   }
 ]
