@@ -39596,5 +39596,19 @@
     "emailSource": "https://www.solutudo.com.br/empresas/sp/taboao-serra/depositos-de-bebidas/jl-distribuidora-e-adega-ltda-42154915",
     "emailVerifiedAt": "2026-09-11",
     "date": "2026-09-11"
+  },
+  {
+    "name": "Adega Resenha",
+    "email": "caio.fl199607@gmail.com",
+    "neighborhood": "Sesc",
+    "type": "loja_bebidas",
+    "address": "Avenida Presidente Kennedy, 367 - Sesc, Suzano/SP",
+    "context": "Adega Resenha (CNPJ 65.103.936/0001-93), fundada fev/2026, ME, comercio varejista de bebidas (CNAE 4723700), socio Caio Felipe de Carvalho. Fato: opera como adega em Suzano. Inferencia comercial: perfil com potencial de inclusao de cachaca premium no mix.",
+    "template": "consultivo",
+    "phone": "(11) 98668-6621",
+    "emailVerified": true,
+    "emailSource": "https://mestregeo.com.br/cnpj/sp/suzano/adega-resenha-65103936000193",
+    "emailVerifiedAt": "2026-09-11",
+    "date": "2026-09-11"
   }
 ]
