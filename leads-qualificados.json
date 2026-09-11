@@ -39568,5 +39568,33 @@
     "emailSource": "https://mestregeo.com.br/cnpj/sp/itaquaquecetuba/adega-247-35827461000117",
     "emailVerifiedAt": "2026-09-11",
     "date": "2026-09-11"
+  },
+  {
+    "name": "Tomate Distribuidora de Bebidas",
+    "email": "robsonantunesbrito@gmail.com",
+    "neighborhood": "Jardim Beatriz",
+    "type": "distribuidora",
+    "address": "Rua Beatriz Antonia, 11 - Jardim Beatriz, Taboao da Serra/SP",
+    "context": "Tomate Distribuidora de Bebidas Ltda (CNPJ 22.804.879/0001-67), fundada jul/2015, ME, comercio varejista de bebidas (CNAE 4723700), socio Robson Antunes Brito. Fato: opera como deposito/distribuidora de bebidas. Inferencia comercial: perfil com potencial de recompra e inclusao de cachaca premium no mix.",
+    "template": "consultivo",
+    "phone": "(11) 98923-9904",
+    "emailVerified": true,
+    "emailSource": "https://mestregeo.com.br/cnpj/sp/taboao-da-serra/tomate-distribuidora-de-bebidas-22804879000167",
+    "emailVerifiedAt": "2026-09-11",
+    "date": "2026-09-11"
+  },
+  {
+    "name": "JL Distribuidora e Adega",
+    "email": "jevtonjesus933@gmail.com",
+    "neighborhood": "Jardim Iracema",
+    "type": "distribuidora",
+    "address": "Rua Luis Bartholomeu Antunes, 510 - Jardim Iracema, Taboao da Serra/SP",
+    "context": "JL Distribuidora e Adega Ltda (CNPJ 63.559.891/0001-30), fundada nov/2025, ativa, deposito de bebidas. Fato: opera como distribuidora de bebidas. Inferencia comercial: perfil com potencial de recompra e inclusao de cachaca premium no mix.",
+    "template": "consultivo",
+    "phone": "(11) 99152-4684",
+    "emailVerified": true,
+    "emailSource": "https://www.solutudo.com.br/empresas/sp/taboao-serra/depositos-de-bebidas/jl-distribuidora-e-adega-ltda-42154915",
+    "emailVerifiedAt": "2026-09-11",
+    "date": "2026-09-11"
   }
 ]
