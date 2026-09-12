@@ -588,5 +588,107 @@
     "phone": "(11) 97252-6182",
     "source": "https://pegpesehortifruti.com.br/setores/adega/",
     "messageId": "3EB06EBD932CAF5E5C858C"
+  },
+  {
+    "date": "2026-09-12",
+    "checkedAt": "2026-09-12T15:34:54.601Z",
+    "status": "not_on_whatsapp",
+    "name": "Sampa Adega",
+    "phone": "(11) 98402-3929",
+    "source": "https://www.sampaadega.com.br/"
+  },
+  {
+    "date": "2026-09-12",
+    "checkedAt": "2026-09-12T15:34:54.668Z",
+    "status": "not_on_whatsapp",
+    "name": "Adega Frimar",
+    "phone": "(11) 5219-3878",
+    "source": "https://mycelium.lat/"
+  },
+  {
+    "date": "2026-09-12",
+    "checkedAt": "2026-09-12T15:34:54.715Z",
+    "status": "not_on_whatsapp",
+    "name": "Sphera Lounge",
+    "phone": "(11) 97636-3908",
+    "source": "https://www.spheralounge.com.br/"
+  },
+  {
+    "date": "2026-09-12",
+    "checkedAt": "2026-09-12T15:34:54.761Z",
+    "status": "not_on_whatsapp",
+    "name": "Dentro Bar",
+    "phone": "(11) 94998-2925",
+    "source": "https://www.baressp.com.br/bares/dentro-bar"
+  },
+  {
+    "date": "2026-09-12",
+    "acceptedAt": "2026-09-12T15:34:55.271Z",
+    "status": "accepted",
+    "name": "Restaurante Saj Aruja",
+    "phone": "(11) 99423-5735",
+    "source": "https://www.baressp.com.br/restaurantes/arabes/restaurante-saj",
+    "messageId": "3EB0E03C3BBAA42B59EA7C"
+  },
+  {
+    "date": "2026-09-12",
+    "acceptedAt": "2026-09-12T15:35:00.692Z",
+    "status": "accepted",
+    "name": "Restaurante Mammasan",
+    "phone": "(11) 2362-5992",
+    "source": "https://www.baressp.com.br/restaurantes/japoneses/restaurante-mammasan",
+    "messageId": "3EB0EF98FB5994C432CA49"
+  },
+  {
+    "date": "2026-09-12",
+    "checkedAt": "2026-09-12T15:35:05.749Z",
+    "status": "not_on_whatsapp",
+    "name": "Nossa Distribuidora Bebidas",
+    "phone": "(11) 99950-3806",
+    "source": "https://nossadistribuidorabebidas.com.br/"
+  },
+  {
+    "date": "2026-09-12",
+    "acceptedAt": "2026-09-12T15:35:07.355Z",
+    "status": "accepted",
+    "name": "Charllu Bar",
+    "phone": "(11) 97826-6974",
+    "source": "https://charllu.com.br/",
+    "messageId": "3EB01756B620D42DC1D8E9"
+  },
+  {
+    "date": "2026-09-12",
+    "acceptedAt": "2026-09-12T15:35:12.723Z",
+    "status": "accepted",
+    "name": "Emporio Grand Chef",
+    "phone": "(11) 96595-9725",
+    "source": "https://emporiograndchef.com.br/",
+    "messageId": "3EB0235104F21007107052"
+  },
+  {
+    "date": "2026-09-12",
+    "checkedAt": "2026-09-12T15:35:17.804Z",
+    "status": "not_on_whatsapp",
+    "name": "Adega Imperador",
+    "phone": "(11) 98135-5842",
+    "source": "https://adegaimperador.com.br/adegaimperador/adegaimperador/pages/contato"
+  },
+  {
+    "date": "2026-09-12",
+    "acceptedAt": "2026-09-12T15:35:18.045Z",
+    "status": "accepted",
+    "name": "Adega e Emporio Fenix",
+    "phone": "(11) 98541-4002",
+    "source": "https://www.adegaeemporiofenix.shop/",
+    "messageId": "3EB0E292FF5631508F97A6"
+  },
+  {
+    "date": "2026-09-12",
+    "acceptedAt": "2026-09-12T15:35:23.574Z",
+    "status": "accepted",
+    "name": "Trem di Cume",
+    "phone": "(11) 98297-1954",
+    "source": "https://www.tremdicume.com.br/",
+    "messageId": "3EB02E9F69814FBF8A1E87"
   }
 ]

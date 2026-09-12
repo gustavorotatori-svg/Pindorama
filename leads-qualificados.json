@@ -36285,7 +36285,10 @@
     "email2": true,
     "date2": "2026-08-29",
     "email3": true,
-    "date3": "2026-09-07"
+    "date3": "2026-09-07",
+    "whatsappSent": true,
+    "whatsappDate": "2026-09-12",
+    "whatsappSource": "https://charllu.com.br/"
   },
   {
     "name": "Hortifruti Higienopolis",

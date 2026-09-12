@@ -532,7 +532,8 @@
     "evidence": "Perfil comercial atualizado em marco de 2026 confirma unidade ativa em Aruja, com coquetelaria autoral baseada em bourbon e arak, eventos e WhatsApp empresarial publicado.",
     "verifiedAt": "2026-08-21",
     "notBefore": "2026-09-12",
-    "status": "queued"
+    "status": "sent",
+    "sentAt": "2026-09-12T15:34:55.271Z"
   },
   {
     "name": "Restaurante Mammasan",
@@ -543,7 +544,8 @@
     "evidence": "Perfil comercial atualizado em abril de 2026 confirma restaurante ativo no Jardim Paulista, com coquetelaria autoral e saques, e WhatsApp empresarial para reservas.",
     "verifiedAt": "2026-08-21",
     "notBefore": "2026-09-12",
-    "status": "queued"
+    "status": "sent",
+    "sentAt": "2026-09-12T15:35:00.692Z"
   },
   {
     "name": "Grobe Maus Rock Bar",
@@ -1362,7 +1364,8 @@
     "evidence": "Site oficial atualizado em 2026 confirma bar ativo com programacao semanal, aniversarios e eventos, cardapio com caipirinhas e carta de destilados, alem de WhatsApp empresarial publicado.",
     "verifiedAt": "2026-08-22",
     "notBefore": "2026-08-22",
-    "status": "queued"
+    "status": "sent",
+    "sentAt": "2026-09-12T15:35:07.355Z"
   },
   {
     "name": "Emporio Grand Chef",
@@ -1373,7 +1376,8 @@
     "evidence": "Site oficial consultado em agosto de 2026 confirma operacao ativa, adega com vinhos, destilados e espumantes, jantares harmonizados mensais, endereco e WhatsApp empresarial publicados.",
     "verifiedAt": "2026-08-25",
     "notBefore": "2026-08-25",
-    "status": "queued"
+    "status": "sent",
+    "sentAt": "2026-09-12T15:35:12.723Z"
   },
   {
     "name": "Adega Imperador",
@@ -1395,7 +1399,8 @@
     "evidence": "Site oficial consultado em agosto de 2026 confirma adega e emporio ativos em Santo Amaro, cervejas, whisky, gin, outros destilados e delivery, com WhatsApp empresarial publicado.",
     "verifiedAt": "2026-08-25",
     "notBefore": "2026-08-25",
-    "status": "queued"
+    "status": "sent",
+    "sentAt": "2026-09-12T15:35:18.045Z"
   },
   {
     "name": "Trem di Cume",
@@ -1406,7 +1411,8 @@
     "evidence": "Site oficial consultado em agosto de 2026 confirma emporio mineiro ativo no Tatuape, setor de adega e venda de licor artesanal de cachaca, com WhatsApp empresarial publicado.",
     "verifiedAt": "2026-08-25",
     "notBefore": "2026-08-25",
-    "status": "queued"
+    "status": "sent",
+    "sentAt": "2026-09-12T15:35:23.574Z"
   },
   {
     "name": "FG7 Bebidas",
