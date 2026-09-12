@@ -39791,5 +39791,77 @@
     "type": "bar",
     "website": "",
     "context": "bar com entretenimento, Av Brig Luis Antonio 5003, Jardim Paulista/Itaim (CNPJ 64.114.563/0001-93, ativo 12/2025)"
+  },
+  {
+    "name": "Adega Bezerra",
+    "email": "miguel.silva.gomes@outlook.com",
+    "neighborhood": "Francisco Morato",
+    "type": "bar",
+    "website": "",
+    "context": "bar com entretenimento (CNAE 5611205) em Francisco Morato (CNPJ 42.201.341/0001-75)"
+  },
+  {
+    "name": "Adega DW",
+    "email": "taysebrenna@gmail.com",
+    "neighborhood": "Francisco Morato",
+    "type": "adega",
+    "website": "",
+    "context": "distribuidora de bebidas (CNPJ 49.090.801/0001-84, Rua Vitor Eugenio Lippo 59)"
+  },
+  {
+    "name": "Adega JL",
+    "email": "jurandirmota@gmail.com",
+    "neighborhood": "Francisco Morato",
+    "type": "adega",
+    "website": "",
+    "context": "comércio varejista de bebidas (CNPJ 67.655.419/0001-52, Rua Lazaro Claudio de Oliveira 58)"
+  },
+  {
+    "name": "Alfandega Restaurante",
+    "email": "maila.mortoni@gmail.com",
+    "neighborhood": "Campo Belo",
+    "type": "restaurant",
+    "website": "",
+    "context": "restaurante e bar em Campo Belo (CNPJ 18.436.788/0001-49, Rua Republica do Iraque 1347)"
+  },
+  {
+    "name": "Restaurante Sultao Campo Belo",
+    "email": "geraldoyasar@gmail.com",
+    "neighborhood": "Campo Belo",
+    "type": "restaurant",
+    "website": "",
+    "context": "restaurante arábico em Campo Belo (CNPJ 35.435.177/0001-03, Rua Demostenes 920)"
+  },
+  {
+    "name": "CBL Campo Belo Restaurante",
+    "email": "dorian@restauranteaoyama.com.br",
+    "neighborhood": "Campo Belo",
+    "type": "restaurant",
+    "website": "",
+    "context": "restaurante em Campo Belo (CNPJ 65.740.628/0001-79, Rua Zacarias de Gois 1224, aberto 03/2026)"
+  },
+  {
+    "name": "Santorini Bar",
+    "email": "luiz@inespnegocios.com.br",
+    "neighborhood": "Vila Olímpia",
+    "type": "bar",
+    "website": "",
+    "context": "restaurante e bar na Vila Olímpia, Rua Quata 460 (CNPJ 58.487.823/0001-73, aberto 12/2024)"
+  },
+  {
+    "name": "Seu Clemente Bar",
+    "email": "seuclementebar@gmail.com",
+    "neighborhood": "Vila Olímpia",
+    "type": "bar",
+    "website": "",
+    "context": "bar e restaurante na Vila Olímpia, Alameda Vicente Pinzon 203 (CNAE 5611201)"
+  },
+  {
+    "name": "Muza Restaurante",
+    "email": "financeiro@muzarestaurante.com.br",
+    "neighborhood": "Vila Nova Conceição",
+    "type": "restaurant",
+    "website": "",
+    "context": "restaurante (cozinha japonesa) em Vila Nova Conceição, Rua Bueno Brandao 80 (CNPJ 28.189.196/0001-23)"
   }
 ]
