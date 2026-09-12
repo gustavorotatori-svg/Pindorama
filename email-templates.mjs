@@ -18,13 +18,13 @@ const SIGNATURE_TEXT = `
 Gustavo
 Pindorama - Cachaça Artesanal
 (11) 91357-7900
-drinkpindorama.com`;
+cachaca011pindorama@gmail.com`;
 
 const SIGNATURE_HTML = (name) => `
 <div style="margin-top: 25px; border-top: 1px solid #ddd; padding-top: 12px; font-family: Arial, sans-serif; font-size: 13px; color: #555;">
   <p style="margin: 0;"><strong>${name || 'Gustavo'}</strong></p>
   <p style="margin: 3px 0;">Pindorama — Cachaça Artesanal</p>
-  <p style="margin: 3px 0;">(11) 91357-7900 · drinkpindorama.com</p>
+  <p style="margin: 3px 0;">(11) 91357-7900 · cachaca011pindorama@gmail.com</p>
   <div style="margin-top: 15px;">
     <img src="${GIF_URL}" alt="Pindorama" style="max-width: 280px; height: auto; border-radius: 6px;" />
   </div>
@@ -52,7 +52,7 @@ Se quiser, posso sugerir algumas combinações que funcionam bem — sem comprom
 Gustavo
 Pindorama — Cachaça Artesanal
 (11) 91357-7900
-drinkpindorama.com`;
+cachaca011pindorama@gmail.com`;
 
   const html = `
 <div style="font-family: Arial, sans-serif; font-size: 14px; color: #333; line-height: 1.5;">
@@ -91,7 +91,7 @@ Posso enviar uma amostra para vocês experimentarem?
 Gustavo
 Pindorama — Cachaça Artesanal
 (11) 91357-7900
-drinkpindorama.com`;
+cachaca011pindorama@gmail.com`;
 
   const html = `
 <div style="font-family: Arial, sans-serif; font-size: 14px; color: #333; line-height: 1.5;">
@@ -128,7 +128,7 @@ Se sim, tenho uma sugestão que acho que vai agradar. Se não, sem problemas.
 Gustavo
 Pindorama — Cachaça Artesanal
 (11) 91357-7900
-drinkpindorama.com`;
+cachaca011pindorama@gmail.com`;
 
   const html = `
 <div style="font-family: Arial, sans-serif; font-size: 14px; color: #333; line-height: 1.5;">
@@ -162,7 +162,7 @@ Se não chegou, posso reenviar. Se chegou e não faz sentido, sem problemas — 
 Gustavo
 Pindorama — Cachaça Artesanal
 (11) 91357-7900
-drinkpindorama.com`;
+cachaca011pindorama@gmail.com`;
 
   const html = `
 <div style="font-family: Arial, sans-serif; font-size: 14px; color: #333; line-height: 1.5;">
@@ -193,7 +193,7 @@ Abraço,
 Gustavo
 Pindorama — Cachaça Artesanal
 (11) 91357-7900
-drinkpindorama.com`;
+cachaca011pindorama@gmail.com`;
 
   const html = `
 <div style="font-family: Arial, sans-serif; font-size: 14px; color: #333; line-height: 1.5;">

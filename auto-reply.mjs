@@ -90,8 +90,7 @@ const signature = `
 Gustavo
 Pindorama - Cachaça Artesanal
 📧 cachaca011pindorama@gmail.com
-📞 (11) 91357-7900
-🌐 drinkpindorama.com`;
+📞 (11) 91357-7900`;
 
 const INDICATION_HINTS = [
   'não é comigo', 'não é com a gente', 'não é com a empresa', 'não sou eu',
