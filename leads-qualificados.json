@@ -39694,5 +39694,29 @@
     "emailSource": "https://guiapj.com.br/consulta-cnpj/64643115000187",
     "emailVerifiedAt": "2026-09-11",
     "date": "2026-09-11"
+  },
+  {
+    "name": "Restaurante Bacalhau e Vinho do Itaim",
+    "email": "itaimbibi@bacalhauevinho.com.br",
+    "neighborhood": "Itaim Bibi",
+    "type": "restaurant",
+    "website": "bacalhauevinho.com.br",
+    "context": "restaurante tradicional de bacalhau, adega de vinhos e bebidas no Itaim Bibi (CNPJ 35.359.971/0001-07)"
+  },
+  {
+    "name": "Dinamite Itaim Choperia",
+    "email": "marcela@gsbg.com.br",
+    "neighborhood": "Itaim Bibi",
+    "type": "bar",
+    "website": "",
+    "context": "choperia do grupo GSBG no Itaim Bibi (CNPJ 08.600.123/0001-75)"
+  },
+  {
+    "name": "Dora Bar Itaim Bibi",
+    "email": "dorabar.adm@gmail.com",
+    "neighborhood": "Itaim Bibi",
+    "type": "bar",
+    "website": "",
+    "context": "bar com entretenimento, Av Brig Luis Antonio 5003, Jardim Paulista/Itaim (CNPJ 64.114.563/0001-93, ativo 12/2025)"
   }
 ]
