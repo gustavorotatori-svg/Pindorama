@@ -39992,5 +39992,13 @@
     "type": "distribuidora",
     "website": "",
     "context": "bar e adega comércio atacadista de bebidas (CNPJ 37.751.071/0001-36, Rua Jequitibá 1608, Parque América)"
+  },
+  {
+    "name": "Vino Pinheiros",
+    "email": "flavio.miyamura@gmail.com",
+    "neighborhood": "Pinheiros",
+    "type": "restaurant",
+    "website": "",
+    "context": "wine bar e restaurante em Pinheiros, Rua Fradique Coutinho 47 (CNPJ 29.315.823/0001-98, filial Vino Mak Bela Vista)"
   }
 ]
