@@ -40008,5 +40008,49 @@
     "type": "adega",
     "website": "",
     "context": "comercio varejista de bebidas (CNPJ 36.571.403/0001-38, F V de Matos Junior, Rua Hermenegildo Gois Parente 738, Zona Leste)"
+  },
+  {
+    "name": "Empório dos Vinhos Tatuapé",
+    "email": "emporio.vinhos3@gmail.com",
+    "neighborhood": "Tatuapé",
+    "type": "adega",
+    "website": "",
+    "context": "adega especializada em vinhos nacionais e importados no Tatuapé",
+    "date1": "2026-09-13",
+    "email1": true,
+    "template": "consultivo"
+  },
+  {
+    "name": "Adega Bar & Restaurante Start",
+    "email": "neemias.pereira@terra.com.br",
+    "neighborhood": "Vila Regente Feijó",
+    "type": "adega",
+    "website": "",
+    "context": "comércio varejista de bebidas na Vila Regente Feijó",
+    "date1": "2026-09-13",
+    "email1": true,
+    "template": "consultivo"
+  },
+  {
+    "name": "Mistral Wine Bar",
+    "email": "nelson.caiado@mistral.com.br",
+    "neighborhood": "Jardim Paulistano",
+    "type": "bar",
+    "website": "",
+    "context": "wine bar na Faria Lima, Jardim Paulistano, com foco em vinhos",
+    "date1": "2026-09-13",
+    "email1": true,
+    "template": "consultivo"
+  },
+  {
+    "name": "Super Adega Comércio de Bebidas",
+    "email": "rafael.frasneli@yahoo.com.br",
+    "neighborhood": "São Mateus",
+    "type": "adega",
+    "website": "",
+    "context": "comércio varejista de bebidas e alimentos na Av. Mateo Bei, com filial",
+    "date1": "2026-09-13",
+    "email1": true,
+    "template": "consultivo"
   }
 ]
