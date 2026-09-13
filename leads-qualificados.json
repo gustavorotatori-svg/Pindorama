@@ -33785,7 +33785,9 @@
     "email1": true,
     "date1": "2026-09-06",
     "email2": true,
-    "date2": "2026-09-09"
+    "date2": "2026-09-09",
+    "email3": true,
+    "date3": "2026-09-13"
   },
   {
     "name": "Ripa Na Brasa Restaurante",
@@ -33803,7 +33805,9 @@
     "email1": true,
     "date1": "2026-09-06",
     "email2": true,
-    "date2": "2026-09-09"
+    "date2": "2026-09-09",
+    "email3": true,
+    "date3": "2026-09-13"
   },
   {
     "name": "Drink Me Co.",
@@ -38964,7 +38968,9 @@
     "emailVerifiedAt": "2026-09-04",
     "invalidEmail": false,
     "email1": true,
-    "date1": "2026-09-05"
+    "date1": "2026-09-05",
+    "email2": true,
+    "date2": "2026-09-13"
   },
   {
     "name": "Adega Ultimo Gole",
@@ -38979,7 +38985,9 @@
     "emailVerifiedAt": "2026-09-04",
     "invalidEmail": false,
     "email1": true,
-    "date1": "2026-09-05"
+    "date1": "2026-09-05",
+    "email2": true,
+    "date2": "2026-09-13"
   },
   {
     "name": "Adega Ice Beer",
@@ -39013,7 +39021,9 @@
     "emailVerifiedAt": "2026-09-04",
     "invalidEmail": false,
     "email1": true,
-    "date1": "2026-09-05"
+    "date1": "2026-09-05",
+    "email2": true,
+    "date2": "2026-09-13"
   },
   {
     "name": "Adega e Distribuidora Nevada",
@@ -39031,7 +39041,9 @@
     "emailSource": "https://maiscnpj.com.br/cnpj/50483476000107",
     "mxVerified": true,
     "email1": true,
-    "date1": "2026-09-06"
+    "date1": "2026-09-06",
+    "email2": true,
+    "date2": "2026-09-13"
   },
   {
     "name": "Adega Flex",
@@ -39049,7 +39061,9 @@
     "emailSource": "https://www.diariocidade.com/sp/osasco/guia/adega-flex-34294665000177/",
     "mxVerified": true,
     "email1": true,
-    "date1": "2026-09-06"
+    "date1": "2026-09-06",
+    "email2": true,
+    "date2": "2026-09-13"
   },
   {
     "name": "Adega de Bebidas Pai e Filho",
@@ -39067,7 +39081,9 @@
     "emailSource": "https://www.diariocidade.com/sp/barueri/guia/adega-de-bebidas-pai-e-filho-ltda-44512386000196/",
     "mxVerified": true,
     "email1": true,
-    "date1": "2026-09-06"
+    "date1": "2026-09-06",
+    "email2": true,
+    "date2": "2026-09-13"
   },
   {
     "name": "Adega da Vila",
@@ -39085,7 +39101,9 @@
     "emailSource": "https://www.diariocidade.com/sp/barueri/guia/adega-da-vila-24291928000130/",
     "mxVerified": true,
     "email1": true,
-    "date1": "2026-09-06"
+    "date1": "2026-09-06",
+    "email2": true,
+    "date2": "2026-09-13"
   },
   {
     "name": "Adega Isabella",
@@ -39103,7 +39121,9 @@
     "emailSource": "https://www.diariocidade.com/sp/barueri/guia/adega-isabella-45703570000186/",
     "mxVerified": true,
     "email1": true,
-    "date1": "2026-09-06"
+    "date1": "2026-09-06",
+    "email2": true,
+    "date2": "2026-09-13"
   },
   {
     "name": "Adega do Paje",
@@ -39142,7 +39162,9 @@
     "emailSource": "https://www.diariocidade.com/sp/cotia/guia/adega-do-alemao-comercial-ltda-67928051000159/",
     "mxVerified": true,
     "email1": true,
-    "date1": "2026-09-06"
+    "date1": "2026-09-06",
+    "email2": true,
+    "date2": "2026-09-13"
   },
   {
     "name": "Adega Dcharlys",
@@ -39160,7 +39182,9 @@
     "emailSource": "https://www.diariocidade.com/sp/cotia/guia/adega-dcharlys-eireli-43087821000110/",
     "mxVerified": true,
     "email1": true,
-    "date1": "2026-09-06"
+    "date1": "2026-09-06",
+    "email2": true,
+    "date2": "2026-09-13"
   },
   {
     "name": "Adega Distribuidora Stop",
@@ -39178,7 +39202,9 @@
     "emailSource": "https://www.solutudo.com.br/empresas/sp/embu-das-artes/depositos-de-bebidas/adega-distribuidora-stop-13937792",
     "mxVerified": true,
     "email1": true,
-    "date1": "2026-09-06"
+    "date1": "2026-09-06",
+    "email2": true,
+    "date2": "2026-09-13"
   },
   {
     "name": "Adega TMJ (Bar e Adega TMJ Comercio de Bebidas)",
@@ -39193,7 +39219,9 @@
     "template": "consultivo",
     "website": "",
     "email1": true,
-    "date1": "2026-09-08"
+    "date1": "2026-09-08",
+    "email2": true,
+    "date2": "2026-09-13"
   },
   {
     "name": "Adega Mendes (Adega e Mercearia Mendes)",
@@ -39208,7 +39236,9 @@
     "template": "consultivo",
     "website": "",
     "email1": true,
-    "date1": "2026-09-08"
+    "date1": "2026-09-08",
+    "email2": true,
+    "date2": "2026-09-13"
   },
   {
     "name": "Adega Sao Lucas (Temos Tudo Comercio de Bebidas)",
@@ -39223,7 +39253,9 @@
     "template": "prova_social",
     "website": "",
     "email1": true,
-    "date1": "2026-09-08"
+    "date1": "2026-09-08",
+    "email2": true,
+    "date2": "2026-09-13"
   },
   {
     "name": "SV Adega e Bar Sem Saida",
@@ -39238,7 +39270,9 @@
     "template": "consultivo",
     "website": "",
     "email1": true,
-    "date1": "2026-09-08"
+    "date1": "2026-09-08",
+    "email2": true,
+    "date2": "2026-09-13"
   },
   {
     "name": "Adega Do Boy",
@@ -39253,7 +39287,9 @@
     "template": "consultivo",
     "website": "",
     "email1": true,
-    "date1": "2026-09-08"
+    "date1": "2026-09-08",
+    "email2": true,
+    "date2": "2026-09-13"
   },
   {
     "name": "Adega e Distribuidora R4 Band",
@@ -39286,7 +39322,9 @@
     "template": "consultivo",
     "website": "",
     "email1": true,
-    "date1": "2026-09-08"
+    "date1": "2026-09-08",
+    "email2": true,
+    "date2": "2026-09-13"
   },
   {
     "name": "Bar do Alemao Jundiai",
@@ -39301,7 +39339,9 @@
     "template": "prova_social",
     "website": "",
     "email1": true,
-    "date1": "2026-09-08"
+    "date1": "2026-09-08",
+    "email2": true,
+    "date2": "2026-09-13"
   },
   {
     "name": "Verace Cantina",
@@ -39316,7 +39356,9 @@
     "template": "pergunta",
     "website": "",
     "email1": true,
-    "date1": "2026-09-08"
+    "date1": "2026-09-08",
+    "email2": true,
+    "date2": "2026-09-13"
   },
   {
     "name": "Adega Dias (Erisberto Comercio de Bebidas)",
@@ -39331,7 +39373,9 @@
     "template": "consultivo",
     "website": "",
     "email1": true,
-    "date1": "2026-09-08"
+    "date1": "2026-09-08",
+    "email2": true,
+    "date2": "2026-09-13"
   },
   {
     "name": "Adega Pe de Cana",
@@ -39346,7 +39390,9 @@
     "template": "consultivo",
     "website": "",
     "email1": true,
-    "date1": "2026-09-08"
+    "date1": "2026-09-08",
+    "email2": true,
+    "date2": "2026-09-13"
   },
   {
     "name": "Magnolia Pocket Club (Proposta)",
@@ -39362,7 +39408,9 @@
     "template": "prova_social",
     "website": "",
     "email1": true,
-    "date1": "2026-09-08"
+    "date1": "2026-09-08",
+    "email2": true,
+    "date2": "2026-09-13"
   },
   {
     "name": "G&T Bar (Depto Compras)",
@@ -39378,7 +39426,9 @@
     "template": "pergunta",
     "website": "",
     "email1": true,
-    "date1": "2026-09-08"
+    "date1": "2026-09-08",
+    "email2": true,
+    "date2": "2026-09-13"
   },
   {
     "name": "Locale Caffé (Depto Compras)",
@@ -39416,7 +39466,9 @@
     "emailSource": "https://www.diariocidade.com/sp/suzano/guia/adega-rainha-17322528000180/",
     "emailVerifiedAt": "2026-09-09",
     "date": "2026-09-09",
-    "date1": "2026-09-10"
+    "date1": "2026-09-10",
+    "email2": true,
+    "date2": "2026-09-13"
   },
   {
     "name": "Adega Do Bigode",
@@ -39470,7 +39522,9 @@
     "emailSource": "https://guiapj.com.br/consulta-cnpj/52458532000170",
     "emailVerifiedAt": "2026-09-09",
     "date": "2026-09-09",
-    "date1": "2026-09-10"
+    "date1": "2026-09-10",
+    "email2": true,
+    "date2": "2026-09-13"
   },
   {
     "name": "Alberg Distribuidora",
@@ -39487,7 +39541,9 @@
     "emailSource": "https://guiapj.com.br/consulta-cnpj/18469501000187",
     "emailVerifiedAt": "2026-09-09",
     "date": "2026-09-09",
-    "date1": "2026-09-10"
+    "date1": "2026-09-10",
+    "email2": true,
+    "date2": "2026-09-13"
   },
   {
     "name": "MB Distribuidora",
@@ -39503,7 +39559,9 @@
     "emailSource": "https://guiapj.com.br/consulta-cnpj/63009907000131",
     "emailVerifiedAt": "2026-09-09",
     "date": "2026-09-09",
-    "date1": "2026-09-10"
+    "date1": "2026-09-10",
+    "email2": true,
+    "date2": "2026-09-13"
   },
   {
     "name": "Adega e Distribuidora 1200",
@@ -39519,7 +39577,9 @@
     "emailSource": "https://guiapj.com.br/consulta-cnpj/45535016000137",
     "emailVerifiedAt": "2026-09-09",
     "date": "2026-09-09",
-    "date1": "2026-09-10"
+    "date1": "2026-09-10",
+    "email2": true,
+    "date2": "2026-09-13"
   },
   {
     "name": "Adega Distribuidora Caiuby",
@@ -39535,7 +39595,9 @@
     "emailSource": "https://guiapj.com.br/consulta-cnpj/63184031000160",
     "emailVerifiedAt": "2026-09-10",
     "date": "2026-09-10",
-    "date1": "2026-09-10"
+    "date1": "2026-09-10",
+    "email2": true,
+    "date2": "2026-09-13"
   },
   {
     "name": "Distribuidora de Bebidas Aruja",
@@ -39551,7 +39613,9 @@
     "emailSource": "https://www.diariocidade.com/sp/aruja/guia/distribuidora-de-bebidas-aruja-ltda-12211923000171/",
     "emailVerifiedAt": "2026-09-10",
     "date": "2026-09-10",
-    "date1": "2026-09-10"
+    "date1": "2026-09-10",
+    "email2": true,
+    "date2": "2026-09-13"
   },
   {
     "name": "Adega Santa Isabel",
@@ -39567,7 +39631,9 @@
     "emailSource": "https://www.solutudo.com.br/empresas/sp/embu-guacu/depositos-de-bebidas/adega-santa-isabel-ltda-9214475",
     "emailVerifiedAt": "2026-09-10",
     "date": "2026-09-10",
-    "date1": "2026-09-10"
+    "date1": "2026-09-10",
+    "email2": true,
+    "date2": "2026-09-13"
   },
   {
     "name": "Ab Adega",
@@ -39583,7 +39649,9 @@
     "emailVerifiedAt": "2026-09-11",
     "date": "2026-09-11",
     "email1": true,
-    "date1": "2026-09-11"
+    "date1": "2026-09-11",
+    "email2": true,
+    "date2": "2026-09-13"
   },
   {
     "name": "Adega Poaense",
