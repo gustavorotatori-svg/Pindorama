@@ -40000,5 +40000,13 @@
     "type": "restaurant",
     "website": "",
     "context": "wine bar e restaurante em Pinheiros, Rua Fradique Coutinho 47 (CNPJ 29.315.823/0001-98, filial Vino Mak Bela Vista)"
+  },
+  {
+    "name": "Adega Vila Sao Francisco",
+    "email": "adegafeiradesantana@gmail.com",
+    "neighborhood": "Vila São Francisco",
+    "type": "adega",
+    "website": "",
+    "context": "comercio varejista de bebidas (CNPJ 36.571.403/0001-38, F V de Matos Junior, Rua Hermenegildo Gois Parente 738, Zona Leste)"
   }
 ]
