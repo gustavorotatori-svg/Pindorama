@@ -39934,5 +39934,45 @@
     "type": "restaurant",
     "website": "",
     "context": "restaurante (cozinha japonesa) em Vila Nova Conceição, Rua Bueno Brandao 80 (CNPJ 28.189.196/0001-23)"
+  },
+  {
+    "name": "Bar e Botequim Moema",
+    "email": "toshio.miduoti@gmail.com",
+    "neighborhood": "Indianópolis",
+    "type": "bar",
+    "website": "",
+    "context": "bar e restaurante em Indianópolis/Moema, Alameda dos Maracatins 1379 (CNPJ 53.404.920/0001-31, sócio-adm Eunildo Toshio Miduoti)"
+  },
+  {
+    "name": "Express Moema Distribuição de Bebidas",
+    "email": "contato@adegamoema.com.br",
+    "neighborhood": "Mooca",
+    "type": "distribuidora",
+    "website": "",
+    "context": "atacadista de bebidas (CNPJ 63.681.773/0001-09, Praça Pres Kennedy 249 Mooca, aberto 11/2025)"
+  },
+  {
+    "name": "Lanchonete Bar e Temakeria Moema",
+    "email": "furquim1@uol.com.br",
+    "neighborhood": "Moema",
+    "type": "restaurant",
+    "website": "",
+    "context": "lanchonete bar e temakeria em Moema (CNPJ 21.722.744/0001-90)"
+  },
+  {
+    "name": "Adega e Bar Salto",
+    "email": "eugeniohrodrigues@gmail.com",
+    "neighborhood": "Salto",
+    "type": "adega",
+    "website": "",
+    "context": "bar especializado em bebidas (CNPJ 17.411.872/0001-45, Rua Sao Pedro 30, Jd Sao Judas Tadeu, Salto)"
+  },
+  {
+    "name": "Vista Jardins Bar e Restaurante",
+    "email": "cristina@vistasaopaulo.com.br",
+    "neighborhood": "Cerqueira César",
+    "type": "restaurant",
+    "website": "",
+    "context": "restaurante e bar em Cerqueira César, Rua Haddock Lobo 1626 (CNPJ 49.869.460/0001-40, grupo Vista Sao Paulo)"
   }
 ]
