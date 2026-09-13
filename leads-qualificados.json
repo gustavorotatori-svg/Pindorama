@@ -40052,5 +40052,16 @@
     "date1": "2026-09-13",
     "email1": true,
     "template": "consultivo"
+  },
+  {
+    "name": "Adega São Jorge",
+    "email": "rodolfopretodacosta@gmail.com",
+    "neighborhood": "Jardim das Cerejeiras (Atibaia)",
+    "type": "adega",
+    "website": "",
+    "context": "comércio varejista de bebidas em Atibaia, na Av. Prefeito Antônio Julio Tolêdo",
+    "date1": "2026-09-13",
+    "email1": true,
+    "template": "consultivo"
   }
 ]
