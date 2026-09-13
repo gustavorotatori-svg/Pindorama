@@ -39974,5 +39974,21 @@
     "type": "restaurant",
     "website": "",
     "context": "restaurante e bar em Cerqueira César, Rua Haddock Lobo 1626 (CNPJ 49.869.460/0001-40, grupo Vista Sao Paulo)"
+  },
+  {
+    "name": "Adega Brooklin",
+    "email": "contato@adegabrooklin.com.br",
+    "neighborhood": "Vila Cordeiro",
+    "type": "adega",
+    "website": "",
+    "context": "adega familiar no Brooklin (Vila Cordeiro), Rua Pascoal Pais 29, atende Itaim Bibi (site adegabrooklin.com.br)"
+  },
+  {
+    "name": "Sampaio Bar e Adega",
+    "email": "sampaiobareadega@gmail.com",
+    "neighborhood": "Parque América",
+    "type": "distribuidora",
+    "website": "",
+    "context": "bar e adega comércio atacadista de bebidas (CNPJ 37.751.071/0001-36, Rua Jequitibá 1608, Parque América)"
   }
 ]
