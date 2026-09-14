@@ -57,10 +57,27 @@ const quotaResult = await sendWithinEmailQuota(() => t.sendMail({
   text: 'Olá Gustavo,\n\nSegue o relatório dominical da Pindorama com os últimos 7 dias, highlights dos clientes mais quentes e visão Year To Date.\n\nPindorama — Cachaça Artesanal\n(11) 91357-7900',
   attachments: [{ filename: basename(pdf), path: pdf }]
 }), { allowReserved: true });
-if (!quotaResult.sent) {
+const forceSend = process.env.REPORT_FORCE === 'true' || process.env.REPORT_FORCE === '1';
+let sent = false, result;
+if (forceSend) {
+  console.log('REPORT_FORCE: enviando sem usar a cota global (email explicito do dono).');
+  result = await t.sendMail({
+    from: '"Gustavo - Pindorama" <cachaca011pindorama@gmail.com>',
+    to,
+    cc,
+    subject: `Relatório Semanal Pindorama — ${today}`,
+    text: 'Olá Gustavo,\n\nSegue o relatório dominical da Pindorama com os últimos 7 dias, highlights dos clientes mais quentes e visão Year To Date.\n\nPindorama — Cachaça Artesanal\n(11) 91357-7900',
+    attachments: [{ filename: basename(pdf), path: pdf }]
+  });
+  sent = true;
+} else {
+  sent = quotaResult.sent;
+  result = quotaResult.result;
+}
+if (!sent) {
   console.log('Relatorio nao enviado: quota global de email atingida.');
   process.exit(0);
 }
-state.push({ date: today, weekKey, acceptedAt: new Date().toISOString(), status: 'accepted', messageId: quotaResult.result.messageId, to, cc });
+state.push({ date: today, weekKey, acceptedAt: new Date().toISOString(), status: 'accepted', messageId: result.messageId, to, cc });
 writeFileSync(stateFile, JSON.stringify(state, null, 2));
 console.log('OK ' + quotaResult.result.messageId + ' -> ' + to + (cc ? ' (cc: ' + cc + ')' : ''));

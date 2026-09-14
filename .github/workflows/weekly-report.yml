@@ -6,8 +6,14 @@ concurrency:
 
 on:
   workflow_dispatch:
+    inputs:
+      force_send:
+        description: 'Ignorar cota e enviar relatorio mesmo com quota cheia'
+        type: boolean
+        required: false
+        default: false
   schedule:
-    - cron: '0 12 * * 0'
+    - cron: '0 11 * * 0'
     - cron: '30 13 * * 0'
     - cron: '0 18 * * 0'
     - cron: '0 11 * * 1'
@@ -39,6 +45,8 @@ jobs:
         run: node weekly-report.mjs
 
       - name: Enviar por email
+        env:
+          REPORT_FORCE: ${{ github.event.inputs.force_send || 'false' }}
         run: node enviar-relatorio.mjs
 
       - name: Upload PDF como artefato

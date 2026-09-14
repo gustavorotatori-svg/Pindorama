@@ -34,7 +34,7 @@ function reportReserveNeeded(now = new Date()) {
   const hour = Number(parts.hour);
   const inReservationWindow =
     (parts.weekday === 'Sat' && hour >= 9) ||
-    (parts.weekday === 'Sun' && hour <= 11);
+    (parts.weekday === 'Sun' && hour <= 23);
   if (!inReservationWindow) return false;
   const date = `${parts.year}-${parts.month}-${parts.day}`;
   try {
