@@ -137,5 +137,5 @@ export function isConnected() { return ready; }
 
 if (process.argv[2] === '--connect') {
   console.log('Iniciando WhatsApp Pindorama... QR sera aberto no navegador');
-  connect();
+  connect().catch(() => {});
 }
