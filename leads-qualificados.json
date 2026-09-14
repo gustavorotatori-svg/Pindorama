@@ -38216,7 +38216,10 @@
     "email1": true,
     "date1": "2026-09-04",
     "email2": true,
-    "date2": "2026-09-10"
+    "date2": "2026-09-10",
+    "whatsappSent": true,
+    "whatsappDate": "2026-09-14",
+    "whatsappSource": "https://starkchopp.com.br/"
   },
   {
     "name": "Genebra Distribuidora de Bebidas",

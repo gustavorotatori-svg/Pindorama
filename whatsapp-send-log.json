@@ -690,5 +690,123 @@
     "phone": "(11) 98297-1954",
     "source": "https://www.tremdicume.com.br/",
     "messageId": "3EB02E9F69814FBF8A1E87"
+  },
+  {
+    "date": "2026-09-14",
+    "checkedAt": "2026-09-14T16:50:53.827Z",
+    "status": "not_on_whatsapp",
+    "name": "Sampa Adega",
+    "phone": "(11) 98402-3929",
+    "source": "https://www.sampaadega.com.br/"
+  },
+  {
+    "date": "2026-09-14",
+    "checkedAt": "2026-09-14T16:50:54.155Z",
+    "status": "not_on_whatsapp",
+    "name": "Adega Frimar",
+    "phone": "(11) 5219-3878",
+    "source": "https://mycelium.lat/"
+  },
+  {
+    "date": "2026-09-14",
+    "checkedAt": "2026-09-14T16:50:54.284Z",
+    "status": "not_on_whatsapp",
+    "name": "Sphera Lounge",
+    "phone": "(11) 97636-3908",
+    "source": "https://www.spheralounge.com.br/"
+  },
+  {
+    "date": "2026-09-14",
+    "checkedAt": "2026-09-14T16:50:54.473Z",
+    "status": "not_on_whatsapp",
+    "name": "Dentro Bar",
+    "phone": "(11) 94998-2925",
+    "source": "https://www.baressp.com.br/bares/dentro-bar"
+  },
+  {
+    "date": "2026-09-14",
+    "checkedAt": "2026-09-14T16:50:54.575Z",
+    "status": "not_on_whatsapp",
+    "name": "Nossa Distribuidora Bebidas",
+    "phone": "(11) 99950-3806",
+    "source": "https://nossadistribuidorabebidas.com.br/"
+  },
+  {
+    "date": "2026-09-14",
+    "checkedAt": "2026-09-14T16:50:54.799Z",
+    "status": "not_on_whatsapp",
+    "name": "Adega Imperador",
+    "phone": "(11) 98135-5842",
+    "source": "https://adegaimperador.com.br/adegaimperador/adegaimperador/pages/contato"
+  },
+  {
+    "date": "2026-09-14",
+    "checkedAt": "2026-09-14T16:50:55.053Z",
+    "status": "not_on_whatsapp",
+    "name": "FG7 Bebidas",
+    "phone": "(11) 94787-0025",
+    "source": "https://www.fg7bebidas.com.br/"
+  },
+  {
+    "date": "2026-09-14",
+    "acceptedAt": "2026-09-14T16:50:56.763Z",
+    "status": "accepted",
+    "name": "Stark Chopp",
+    "phone": "(11) 98315-8899",
+    "source": "https://starkchopp.com.br/",
+    "messageId": "3EB010E352CD74A9A04C56"
+  },
+  {
+    "date": "2026-09-14",
+    "checkedAt": "2026-09-14T16:51:01.937Z",
+    "status": "not_on_whatsapp",
+    "name": "Adega Vibe Beer",
+    "phone": "(11) 99325-4279",
+    "source": "https://www.cardapio.datacaixa.com.br/loja=1516"
+  },
+  {
+    "date": "2026-09-14",
+    "acceptedAt": "2026-09-14T16:51:03.054Z",
+    "status": "accepted",
+    "name": "Pezinho no Nordeste",
+    "phone": "(11) 98091-4929",
+    "source": "https://evoluz.com.br/",
+    "messageId": "3EB071F77A7AC06DB2A8DD"
+  },
+  {
+    "date": "2026-09-14",
+    "acceptedAt": "2026-09-14T16:51:09.498Z",
+    "status": "accepted",
+    "name": "Qualive Emporio",
+    "phone": "(11) 99373-7656",
+    "source": "https://www.emporio.qualive.com.br/",
+    "messageId": "3EB0466833719FBDF19E21"
+  },
+  {
+    "date": "2026-09-14",
+    "acceptedAt": "2026-09-14T16:51:15.899Z",
+    "status": "accepted",
+    "name": "Ki Joia Restaurante e Pizzaria",
+    "phone": "(11) 91420-1077",
+    "source": "https://ki-joia-restaurante.webnode.page/contato/",
+    "messageId": "3EB06905E649AA70C7844C"
+  },
+  {
+    "date": "2026-09-14",
+    "acceptedAt": "2026-09-14T16:51:22.391Z",
+    "status": "accepted",
+    "name": "Piettra Comercio de Bebidas",
+    "phone": "(11) 95874-8938",
+    "source": "https://meucomercio.com.br/ADEGAPIETTRA/product/cachaca-51-reserva-extra-premium-700ml/519",
+    "messageId": "3EB09DCB22495F0C891E5A"
+  },
+  {
+    "date": "2026-09-14",
+    "acceptedAt": "2026-09-14T16:51:28.252Z",
+    "status": "accepted",
+    "name": "Bebidas Shabaz",
+    "phone": "(11) 97551-3663",
+    "source": "https://bebidasshabaz.kyte.site/pt-BR",
+    "messageId": "3EB046CB58F4811A963A29"
   }
 ]

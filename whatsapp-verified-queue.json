@@ -1434,7 +1434,8 @@
     "evidence": "Site oficial consultado em agosto de 2026 confirma loja e distribuidora ativas, entrega na Grande Sao Paulo, fornecimento para eventos, destilados e ampla linha de cachacas, com WhatsApp empresarial publicado.",
     "verifiedAt": "2026-08-25",
     "notBefore": "2026-08-26",
-    "status": "queued"
+    "status": "sent",
+    "sentAt": "2026-09-14T16:50:56.763Z"
   },
   {
     "name": "Adega Vibe Beer",
@@ -1456,7 +1457,8 @@
     "evidence": "Site oficial consultado em agosto de 2026 confirma restaurante em Guarulhos com ampla carta de cachacas e cervejas, happy hour durante a semana, operacao de terca a domingo e WhatsApp empresarial publicado.",
     "verifiedAt": "2026-08-25",
     "notBefore": "2026-08-26",
-    "status": "queued"
+    "status": "sent",
+    "sentAt": "2026-09-14T16:51:03.054Z"
   },
   {
     "name": "Qualive Emporio",
@@ -1467,7 +1469,8 @@
     "evidence": "Loja oficial consultada em agosto de 2026 confirma operacao ativa no bairro Taboao, Sao Bernardo do Campo, categoria de bebidas com cachacas e WhatsApp empresarial publicado.",
     "verifiedAt": "2026-08-25",
     "notBefore": "2026-08-26",
-    "status": "queued"
+    "status": "sent",
+    "sentAt": "2026-09-14T16:51:09.498Z"
   },
   {
     "name": "Ki Joia Restaurante e Pizzaria",
@@ -1478,7 +1481,8 @@
     "evidence": "Site oficial atualizado em 2026 confirma restaurante e pizzaria ativos em Rudge Ramos, delivery, caipirinha de pinga, cachacas especiais Selecta e Salinas, alem de WhatsApp e email empresariais publicados.",
     "verifiedAt": "2026-08-25",
     "notBefore": "2026-08-26",
-    "status": "queued"
+    "status": "sent",
+    "sentAt": "2026-09-14T16:51:15.899Z"
   },
   {
     "name": "Piettra Comercio de Bebidas",
@@ -1489,7 +1493,8 @@
     "evidence": "Catalogo empresarial consultado em agosto de 2026 confirma loja de bebidas ativa em Baeta Neves, mais de mil produtos, categoria de cachacas com estoque publicado, entregas e WhatsApp empresarial exposto.",
     "verifiedAt": "2026-08-25",
     "notBefore": "2026-08-26",
-    "status": "queued"
+    "status": "sent",
+    "sentAt": "2026-09-14T16:51:22.391Z"
   },
   {
     "name": "Bebidas Shabaz",
@@ -1500,7 +1505,8 @@
     "evidence": "Catalogo empresarial consultado em agosto de 2026 confirma loja de bebidas e delivery ativos em Sao Bernardo do Campo e Diadema, com categorias de cachacas, whisky, vodka, gin e combos, alem de telefone empresarial publicado.",
     "verifiedAt": "2026-08-25",
     "notBefore": "2026-08-26",
-    "status": "queued"
+    "status": "sent",
+    "sentAt": "2026-09-14T16:51:28.252Z"
   },
   {
     "name": "Schneider Bebidas",
