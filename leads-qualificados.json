@@ -40136,5 +40136,29 @@
     "date1": "2026-09-13",
     "email1": true,
     "template": "consultivo"
+  },
+  {
+    "name": "Adega Bom Gosto",
+    "email": "adegabomgosto35@gmail.com",
+    "neighborhood": "Jardim Santo Antonio",
+    "type": "adega",
+    "website": "",
+    "context": "adega varejo de bebidas na Rua Manuel Homem de Andrade 172, Jardim Santo Antonio, zona sul de São Paulo",
+    "date1": "2026-09-14",
+    "email1": false,
+    "email2": false,
+    "email3": false
+  },
+  {
+    "name": "Adega Quatro Garrafas",
+    "email": "adegaquatrogarrafas@hotmail.com",
+    "neighborhood": "Colinas da Anhanguera",
+    "type": "adega",
+    "website": "",
+    "context": "comercio varejista de bebidas na Avenida Candido Portinari 331, Colinas da Anhanguera, Santana de Parnaiba",
+    "date1": "2026-09-14",
+    "email1": false,
+    "email2": false,
+    "email3": false
   }
 ]
