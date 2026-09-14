@@ -38191,7 +38191,9 @@
     "date1": "2026-09-01",
     "automationIncident": "Contato ja constava nos Enviados do Gmail em 01/09/2026 17:55; registro reconciliado e novo envio cancelado pela checagem transacional anti-duplicidade.",
     "email2": true,
-    "date2": "2026-09-10"
+    "date2": "2026-09-10",
+    "email3": true,
+    "date3": "2026-09-14"
   },
   {
     "name": "Stark Chopp",
@@ -38219,7 +38221,9 @@
     "date2": "2026-09-10",
     "whatsappSent": true,
     "whatsappDate": "2026-09-14",
-    "whatsappSource": "https://starkchopp.com.br/"
+    "whatsappSource": "https://starkchopp.com.br/",
+    "email3": true,
+    "date3": "2026-09-14"
   },
   {
     "name": "Genebra Distribuidora de Bebidas",
@@ -38244,7 +38248,9 @@
     "email1": true,
     "date1": "2026-09-04",
     "email2": true,
-    "date2": "2026-09-10"
+    "date2": "2026-09-10",
+    "email3": true,
+    "date3": "2026-09-14"
   },
   {
     "name": "Bolsao Distribuidora",
@@ -38273,7 +38279,9 @@
     "email1": true,
     "date1": "2026-09-04",
     "email2": true,
-    "date2": "2026-09-10"
+    "date2": "2026-09-10",
+    "email3": true,
+    "date3": "2026-09-14"
   },
   {
     "name": "HS Bebidas Atacado",
@@ -38302,7 +38310,9 @@
     "email1": true,
     "date1": "2026-09-04",
     "email2": true,
-    "date2": "2026-09-10"
+    "date2": "2026-09-10",
+    "email3": true,
+    "date3": "2026-09-14"
   },
   {
     "name": "Yolanda Botequim Matriz",
@@ -38331,7 +38341,9 @@
     "email1": true,
     "date1": "2026-09-04",
     "email2": true,
-    "date2": "2026-09-10"
+    "date2": "2026-09-10",
+    "email3": true,
+    "date3": "2026-09-14"
   },
   {
     "name": "Amdib",
@@ -38360,7 +38372,9 @@
     "email1": true,
     "date1": "2026-09-04",
     "email2": true,
-    "date2": "2026-09-10"
+    "date2": "2026-09-10",
+    "email3": true,
+    "date3": "2026-09-14"
   },
   {
     "name": "Dos Bacanas Bar",
@@ -38484,7 +38498,9 @@
     "whatsapp1": false,
     "date1": "2026-09-04",
     "email2": true,
-    "date2": "2026-09-10"
+    "date2": "2026-09-10",
+    "email3": true,
+    "date3": "2026-09-14"
   },
   {
     "name": "Estacao da Comida Sorocaba",
@@ -38522,7 +38538,9 @@
     "email1": true,
     "date1": "2026-09-04",
     "email2": true,
-    "date2": "2026-09-10"
+    "date2": "2026-09-10",
+    "email3": true,
+    "date3": "2026-09-14"
   },
   {
     "name": "JMatos Bebidas",
@@ -38540,7 +38558,9 @@
     "email1": true,
     "date1": "2026-09-04",
     "email2": true,
-    "date2": "2026-09-10"
+    "date2": "2026-09-10",
+    "email3": true,
+    "date3": "2026-09-14"
   },
   {
     "name": "Pezasa Distribuidora de Bebidas",
@@ -38567,7 +38587,9 @@
     "email1": true,
     "date1": "2026-09-04",
     "email2": true,
-    "date2": "2026-09-10"
+    "date2": "2026-09-10",
+    "email3": true,
+    "date3": "2026-09-14"
   },
   {
     "name": "Buteco em Casa Campinas",
@@ -38609,7 +38631,9 @@
     "email1": true,
     "date1": "2026-09-04",
     "email2": true,
-    "date2": "2026-09-10"
+    "date2": "2026-09-10",
+    "email3": true,
+    "date3": "2026-09-14"
   },
   {
     "name": "Taberna do Portuga",
@@ -38670,7 +38694,9 @@
     "email1": true,
     "date1": "2026-09-04",
     "email2": true,
-    "date2": "2026-09-10"
+    "date2": "2026-09-10",
+    "email3": true,
+    "date3": "2026-09-14"
   },
   {
     "name": "Adega Santa Cecilia",
@@ -38714,7 +38740,9 @@
     "email1": true,
     "date1": "2026-09-04",
     "email2": true,
-    "date2": "2026-09-10"
+    "date2": "2026-09-10",
+    "email3": true,
+    "date3": "2026-09-14"
   },
   {
     "name": "Adega Benedito",
@@ -38730,7 +38758,9 @@
     "email1": true,
     "date1": "2026-09-04",
     "email2": true,
-    "date2": "2026-09-10"
+    "date2": "2026-09-10",
+    "email3": true,
+    "date3": "2026-09-14"
   },
   {
     "name": "Adega Paulista",
@@ -38746,7 +38776,9 @@
     "email1": true,
     "date1": "2026-09-04",
     "email2": true,
-    "date2": "2026-09-10"
+    "date2": "2026-09-10",
+    "email3": true,
+    "date3": "2026-09-14"
   },
   {
     "name": "Adega JM (APP & RNA Bebidas)",
@@ -38762,7 +38794,9 @@
     "email1": true,
     "date1": "2026-09-04",
     "email2": true,
-    "date2": "2026-09-10"
+    "date2": "2026-09-10",
+    "email3": true,
+    "date3": "2026-09-14"
   },
   {
     "name": "Adegas Bar Frazao",
@@ -38778,7 +38812,9 @@
     "email1": true,
     "date1": "2026-09-04",
     "email2": true,
-    "date2": "2026-09-10"
+    "date2": "2026-09-10",
+    "email3": true,
+    "date3": "2026-09-14"
   },
   {
     "name": "Adega Vitao Bebidas",
@@ -38811,7 +38847,9 @@
     "email1": true,
     "date1": "2026-09-04",
     "email2": true,
-    "date2": "2026-09-10"
+    "date2": "2026-09-10",
+    "email3": true,
+    "date3": "2026-09-14"
   },
   {
     "name": "Adega da Vila Jundiai",
@@ -38827,7 +38865,9 @@
     "email1": true,
     "date1": "2026-09-04",
     "email2": true,
-    "date2": "2026-09-10"
+    "date2": "2026-09-10",
+    "email3": true,
+    "date3": "2026-09-14"
   },
   {
     "name": "Adega SOS da Cerveja",
@@ -38843,7 +38883,9 @@
     "email1": true,
     "date1": "2026-09-04",
     "email2": true,
-    "date2": "2026-09-10"
+    "date2": "2026-09-10",
+    "email3": true,
+    "date3": "2026-09-14"
   },
   {
     "name": "Adega Brunholi",
@@ -39672,7 +39714,9 @@
     "emailVerifiedAt": "2026-09-11",
     "date": "2026-09-11",
     "email1": true,
-    "date1": "2026-09-11"
+    "date1": "2026-09-11",
+    "email2": true,
+    "date2": "2026-09-14"
   },
   {
     "name": "AL da Concepcao Adega",
@@ -39688,7 +39732,9 @@
     "emailVerifiedAt": "2026-09-11",
     "date": "2026-09-11",
     "email1": true,
-    "date1": "2026-09-11"
+    "date1": "2026-09-11",
+    "email2": true,
+    "date2": "2026-09-14"
   },
   {
     "name": "Adega Do Man",
@@ -39704,7 +39750,9 @@
     "emailVerifiedAt": "2026-09-11",
     "date": "2026-09-11",
     "email1": true,
-    "date1": "2026-09-11"
+    "date1": "2026-09-11",
+    "email2": true,
+    "date2": "2026-09-14"
   },
   {
     "name": "Adega da Viela Guarulhos",
@@ -39720,7 +39768,9 @@
     "emailVerifiedAt": "2026-09-11",
     "date": "2026-09-11",
     "email1": true,
-    "date1": "2026-09-11"
+    "date1": "2026-09-11",
+    "email2": true,
+    "date2": "2026-09-14"
   },
   {
     "name": "Adega Inova",
@@ -39736,7 +39786,9 @@
     "emailVerifiedAt": "2026-09-11",
     "date": "2026-09-11",
     "email1": true,
-    "date1": "2026-09-11"
+    "date1": "2026-09-11",
+    "email2": true,
+    "date2": "2026-09-14"
   },
   {
     "name": "Adega e Conveniencia 471",
@@ -39752,7 +39804,9 @@
     "emailVerifiedAt": "2026-09-11",
     "date": "2026-09-11",
     "email1": true,
-    "date1": "2026-09-11"
+    "date1": "2026-09-11",
+    "email2": true,
+    "date2": "2026-09-14"
   },
   {
     "name": "Adega 247",
@@ -39768,7 +39822,9 @@
     "emailVerifiedAt": "2026-09-11",
     "date": "2026-09-11",
     "email1": true,
-    "date1": "2026-09-11"
+    "date1": "2026-09-11",
+    "email2": true,
+    "date2": "2026-09-14"
   },
   {
     "name": "Tomate Distribuidora de Bebidas",
@@ -39784,7 +39840,9 @@
     "emailVerifiedAt": "2026-09-11",
     "date": "2026-09-11",
     "email1": true,
-    "date1": "2026-09-11"
+    "date1": "2026-09-11",
+    "email2": true,
+    "date2": "2026-09-14"
   },
   {
     "name": "JL Distribuidora e Adega",
@@ -39800,7 +39858,9 @@
     "emailVerifiedAt": "2026-09-11",
     "date": "2026-09-11",
     "email1": true,
-    "date1": "2026-09-11"
+    "date1": "2026-09-11",
+    "email2": true,
+    "date2": "2026-09-14"
   },
   {
     "name": "Adega Resenha",
@@ -39816,7 +39876,9 @@
     "emailVerifiedAt": "2026-09-11",
     "date": "2026-09-11",
     "email1": true,
-    "date1": "2026-09-11"
+    "date1": "2026-09-11",
+    "email2": true,
+    "date2": "2026-09-14"
   },
   {
     "name": "Adega Minas",
@@ -39832,7 +39894,9 @@
     "emailVerifiedAt": "2026-09-11",
     "date": "2026-09-11",
     "email1": true,
-    "date1": "2026-09-11"
+    "date1": "2026-09-11",
+    "email2": true,
+    "date2": "2026-09-14"
   },
   {
     "name": "Adega e Mercearia do Je",
@@ -39848,7 +39912,9 @@
     "emailVerifiedAt": "2026-09-11",
     "date": "2026-09-11",
     "email1": true,
-    "date1": "2026-09-11"
+    "date1": "2026-09-11",
+    "email2": true,
+    "date2": "2026-09-14"
   },
   {
     "name": "Adega Guimaraes",
@@ -39864,7 +39930,9 @@
     "emailVerifiedAt": "2026-09-11",
     "date": "2026-09-11",
     "email1": true,
-    "date1": "2026-09-11"
+    "date1": "2026-09-11",
+    "email2": true,
+    "date2": "2026-09-14"
   },
   {
     "name": "Adega Chapadao",
