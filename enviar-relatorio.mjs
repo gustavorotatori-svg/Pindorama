@@ -80,4 +80,4 @@ if (!sent) {
 }
 state.push({ date: today, weekKey, acceptedAt: new Date().toISOString(), status: 'accepted', messageId: result.messageId, to, cc });
 writeFileSync(stateFile, JSON.stringify(state, null, 2));
-console.log('OK ' + quotaResult.result.messageId + ' -> ' + to + (cc ? ' (cc: ' + cc + ')' : ''));
+console.log('OK ' + result.messageId + ' -> ' + to + (cc ? ' (cc: ' + cc + ')' : ''));
