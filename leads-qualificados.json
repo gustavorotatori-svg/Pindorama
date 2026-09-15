@@ -40312,5 +40312,53 @@
     "email1": false,
     "email2": false,
     "email3": false
+  },
+  {
+    "name": "Adega 123",
+    "email": "123entrega@gmail.com",
+    "neighborhood": "Vila Isabel Eber",
+    "type": "adega",
+    "website": "",
+    "context": "comercio varejista de bebidas e alimentos na Rua Brasil 218, Vila Isabel Eber, Jundiai (SP), tel (11) 3948-2020",
+    "date1": "2026-09-15",
+    "email1": false,
+    "email2": false,
+    "email3": false
+  },
+  {
+    "name": "MLG Comercio de Bebidas",
+    "email": "ivoneunicon@gmail.com",
+    "neighborhood": "Vila Bourbon",
+    "type": "adega",
+    "website": "",
+    "context": "comercio varejista de bebidas na Rua Antonio Carlos Couto de Barros 380, Vila Bourbon, Campinas (SP), tel (19) 3751-3030",
+    "date1": "2026-09-15",
+    "email1": false,
+    "email2": false,
+    "email3": false
+  },
+  {
+    "name": "Adega JSB",
+    "email": "cleisonzza@outlook.com",
+    "neighborhood": "Jardim Sao Bernardo",
+    "type": "adega",
+    "website": "",
+    "context": "comercio varejista de bebidas em geral no Jardim Sao Bernardo, zona sul de Sao Paulo (SP)",
+    "date1": "2026-09-15",
+    "email1": false,
+    "email2": false,
+    "email3": false
+  },
+  {
+    "name": "Pezimpa Comercio de Bebidas",
+    "email": "gnapolitano@gmail.com",
+    "neighborhood": "Centro",
+    "type": "adega",
+    "website": "",
+    "context": "comercio varejista de bebidas na Rua Manoel Matheus 69, Centro, Vinhedo (SP), tel (19) 98253-1982",
+    "date1": "2026-09-15",
+    "email1": false,
+    "email2": false,
+    "email3": false
   }
 ]
