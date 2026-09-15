@@ -40963,5 +40963,20 @@
     "emailVerified": true,
     "emailSource": "https://databrasil.net/empresas/43730071000152-M-B-S-DISTRIBUIDORA-DE-BEBIDAS-ATACADO-E-VAREJO-LIMITADA",
     "emailVerifiedAt": "2026-09-15"
+  },
+  {
+    "name": "Adega Mogi",
+    "email": "adegamogi1998@gmail.com",
+    "neighborhood": "Tucura",
+    "type": "adega",
+    "website": "",
+    "context": "Adega Mogi Ltda, comercio varejista de bebidas, Rua do Tucura 643, Tucura, Mogi Mirim (SP), tel (01) 3806-6295",
+    "date1": "2026-09-15",
+    "email1": true,
+    "email2": false,
+    "email3": false,
+    "emailVerified": true,
+    "emailSource": "https://maiscnpj.com.br/cnpj/05337822000186-adega-mogi-ltda",
+    "emailVerifiedAt": "2026-09-15"
   }
 ]
