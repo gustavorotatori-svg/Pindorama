@@ -40300,5 +40300,17 @@
     "email1": false,
     "email2": false,
     "email3": false
+  },
+  {
+    "name": "JB Adega dos Mineiros",
+    "email": "adegajb.144@gmail.com",
+    "neighborhood": "Jardim Lago Azul",
+    "type": "adega",
+    "website": "",
+    "context": "comercio varejista de bebidas na Rua Giacomo Jose Nechio 146, Jardim Lago Azul, Louveira (SP), tel (19) 99625-0776",
+    "date1": "2026-09-15",
+    "email1": false,
+    "email2": false,
+    "email3": false
   }
 ]
