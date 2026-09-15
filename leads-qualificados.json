@@ -40288,5 +40288,17 @@
     "email1": false,
     "email2": false,
     "email3": false
+  },
+  {
+    "name": "A Nossa Adega",
+    "email": "fernandopp.comercial@gmail.com",
+    "neighborhood": "Centro",
+    "type": "adega",
+    "website": "",
+    "context": "comercio varejista de bebidas na Rua Tenente Antonio Batista 27A, Centro, Piracaia (SP), tel (11) 4766-8298",
+    "date1": "2026-09-15",
+    "email1": false,
+    "email2": false,
+    "email3": false
   }
 ]
