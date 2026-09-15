@@ -40525,5 +40525,50 @@
     "emailVerified": true,
     "emailSource": "https://guiapj.com.br/consulta-cnpj/46574219000103",
     "emailVerifiedAt": "2026-09-15"
+  },
+  {
+    "name": "Josmar Frederico Martinez",
+    "email": "josmarfredericocardozo@gmail.com",
+    "neighborhood": "Parque Via Norte",
+    "type": "adega",
+    "website": "",
+    "context": "comercio varejista de bebidas na R Jose Goncalves de Lima 8, Parque Via Norte, Campinas (SP), tel (19) 88099819",
+    "date1": "2026-09-15",
+    "email1": true,
+    "email2": false,
+    "email3": false,
+    "emailVerified": true,
+    "emailSource": "https://cnpj.tradexa.com.br/05006798000100",
+    "emailVerifiedAt": "2026-09-15"
+  },
+  {
+    "name": "Adega Kaiky",
+    "email": "kavemkitem@gmail.com",
+    "neighborhood": "Chacaras R S Aleixo",
+    "type": "adega",
+    "website": "",
+    "context": "comercio varejista de bebidas na R Cairo 94, Chacaras R S Aleixo, Francisco Morato (SP), tel (11) 53615790",
+    "date1": "2026-09-15",
+    "email1": true,
+    "email2": false,
+    "email3": false,
+    "emailVerified": true,
+    "emailSource": "https://cnpj.tradexa.com.br/61713745000192",
+    "emailVerifiedAt": "2026-09-15"
+  },
+  {
+    "name": "Andrea Nunes Bebidas",
+    "email": "andreanunes432@gmail.com",
+    "neighborhood": "Jardim Roberto",
+    "type": "adega",
+    "website": "",
+    "context": "comercio varejista de bebidas na R Odila Catan 266, Jardim Roberto, Osasco (SP), tel (11) 36058472",
+    "date1": "2026-09-15",
+    "email1": true,
+    "email2": false,
+    "email3": false,
+    "emailVerified": true,
+    "emailSource": "https://cnpj.tradexa.com.br/27157422000121",
+    "emailVerifiedAt": "2026-09-15"
   }
 ]
