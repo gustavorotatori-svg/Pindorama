@@ -39966,7 +39966,9 @@
     "emailVerifiedAt": "2026-09-11",
     "date": "2026-09-11",
     "email1": true,
-    "date1": "2026-09-11"
+    "date1": "2026-09-11",
+    "email2": true,
+    "date2": "2026-09-15"
   },
   {
     "name": "Adega Leao",
@@ -39982,7 +39984,9 @@
     "emailVerifiedAt": "2026-09-11",
     "date": "2026-09-11",
     "email1": true,
-    "date1": "2026-09-11"
+    "date1": "2026-09-11",
+    "email2": true,
+    "date2": "2026-09-15"
   },
   {
     "name": "Restaurante Bacalhau e Vinho do Itaim",
