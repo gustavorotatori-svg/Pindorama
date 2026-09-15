@@ -40228,5 +40228,65 @@
     "email1": false,
     "email2": false,
     "email3": false
+  },
+  {
+    "name": "Adega Gu’s Drinks",
+    "email": "g.2803@hotmail.com",
+    "neighborhood": "Bom Retiro",
+    "type": "adega",
+    "website": "",
+    "context": "comercio varejista e atacadista de bebidas na Rua Javaes 235 loja 2, Bom Retiro, Sao Paulo, tel (11) 3131-3131",
+    "date1": "2026-09-15",
+    "email1": false,
+    "email2": false,
+    "email3": false
+  },
+  {
+    "name": "Morada das Bebbidas",
+    "email": "idelttinalimalimma@gmail.com",
+    "neighborhood": "Bom Retiro",
+    "type": "distribuidora",
+    "website": "",
+    "context": "comercio atacadista de bebidas com fracionamento na Rua Javas 235, Bom Retiro, Sao Paulo, tel (11) 5590-4286",
+    "date1": "2026-09-15",
+    "email1": false,
+    "email2": false,
+    "email3": false
+  },
+  {
+    "name": "Adega Dantas Distribuidora",
+    "email": "adegadantasltda@gmail.com",
+    "neighborhood": "Parque Novo Lar",
+    "type": "distribuidora",
+    "website": "",
+    "context": "distribuidora de bebidas na Rua Leandro de Sevilha 419, Parque Novo Lar, Sao Paulo, tels 4105-1501 e 8686-5771",
+    "date1": "2026-09-15",
+    "email1": false,
+    "email2": false,
+    "email3": false
+  },
+  {
+    "name": "Adega do Morro",
+    "email": "adegadomorrocontato@gmail.com",
+    "neighborhood": "Jardim Santo Andre",
+    "type": "adega",
+    "website": "",
+    "context": "distribuidora de bebidas e mercearia na Rua Miguel Ferreira de Melo 391, Jardim Santo Andre, Sao Paulo, tel (11) 99392-8598",
+    "date1": "2026-09-15",
+    "email1": false,
+    "email2": false,
+    "email3": false
+  },
+  {
+    "name": "Distribuidora e Adega Gomes",
+    "email": "hildinlima@gmail.com",
+    "neighborhood": "Vila Prudente",
+    "type": "distribuidora",
+    "website": "",
+    "context": "comercio varejista de bebidas na Rua Orfanato 522, Vila Prudente, Sao Paulo, tel (11) 99005-7308",
+    "date1": "2026-09-15",
+    "email1": false,
+    "email2": false,
+    "email3": false
   }
 ]
