@@ -40855,5 +40855,35 @@
     "emailVerified": true,
     "emailSource": "https://databrasil.net/empresas/46730433000101-J-A-TEIXEIRA-DISTRIBUIDORA-DE-BEBIDAS-ATACADO-E-VAREJO-LIMITADA",
     "emailVerifiedAt": "2026-09-15"
+  },
+  {
+    "name": "Emporio Vila Sao Paulo",
+    "email": "rosana@nsabebidas.com.br",
+    "neighborhood": "Vila Sao Paulo",
+    "type": "adega",
+    "website": "",
+    "context": "Emporio Vila Sao Paulo, comercio varejista de bebidas com fracionamento secundario, Vila Sao Paulo, Sao Paulo (SP), tel (11) 2344-8100",
+    "date1": "2026-09-15",
+    "email1": true,
+    "email2": false,
+    "email3": false,
+    "emailVerified": true,
+    "emailSource": "https://databrasil.net/empresas/39994647000111-EMPORIO-VILA-SAO-PAULO-LTDA",
+    "emailVerifiedAt": "2026-09-15"
+  },
+  {
+    "name": "StoreBeer Comercio de Bebidas",
+    "email": "VIVIAN_PIMENTEL07@HOTMAIL.COM",
+    "neighborhood": "Vila Ursulina",
+    "type": "distribuidora",
+    "website": "",
+    "context": "StoreBeer, comercio atacadista de cerveja, chope e refrigerante, Vila Ursulina, Itaquaquecetuba (SP), tel (11) 4649-0244",
+    "date1": "2026-09-15",
+    "email1": true,
+    "email2": false,
+    "email3": false,
+    "emailVerified": true,
+    "emailSource": "https://databrasil.net/empresas/21045375000148-STOREBEER-COMERCIO-DE-BEBIDAS-LTDA",
+    "emailVerifiedAt": "2026-09-15"
   }
 ]
