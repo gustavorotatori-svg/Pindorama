@@ -40495,5 +40495,35 @@
     "emailVerified": true,
     "emailSource": "https://guiapj.com.br/consulta-cnpj/45436835000127",
     "emailVerifiedAt": "2026-09-15"
+  },
+  {
+    "name": "Projeto Agua",
+    "email": "projetoagua@projetoagua.com.br",
+    "neighborhood": "Vila Alpina",
+    "type": "adega",
+    "website": "projetoagua.com.br",
+    "context": "comercio varejista de bebidas na Rua S Carlos Borromeu 158, Vila Alpina, Sao Paulo (SP), tel (11) 99480-7201, site ativo",
+    "date1": "2026-09-15",
+    "email1": true,
+    "email2": false,
+    "email3": false,
+    "emailVerified": true,
+    "emailSource": "https://guiapj.com.br/consulta-cnpj/00119392000102",
+    "emailVerifiedAt": "2026-09-15"
+  },
+  {
+    "name": "Santropa Bebidas",
+    "email": "hildo@clubemercato.com",
+    "neighborhood": "Chacara do Solar I",
+    "type": "distribuidora",
+    "website": "",
+    "context": "comercio atacadista de bebidas com fracionamento, Estrada Tenente Marques 5440, Santana de Parnaiba (SP), tel (81) 8204-1974",
+    "date1": "2026-09-15",
+    "email1": true,
+    "email2": false,
+    "email3": false,
+    "emailVerified": true,
+    "emailSource": "https://guiapj.com.br/consulta-cnpj/46574219000103",
+    "emailVerifiedAt": "2026-09-15"
   }
 ]
