@@ -40645,5 +40645,50 @@
     "emailVerified": true,
     "emailSource": "https://guiapj.com.br/consulta-cnpj/58283426000180",
     "emailVerifiedAt": "2026-09-15"
+  },
+  {
+    "name": "Distribuidora e Comercio Jessica",
+    "email": "antonyreis9099@gmail.com",
+    "neighborhood": "Casa Grande",
+    "type": "distribuidora",
+    "website": "",
+    "context": "comercio atacadista de bebidas, Rua Santo Antonio de Padua 479, Casa Grande, Diadema (SP), tel (11) 99802-9282",
+    "date1": "2026-09-15",
+    "email1": true,
+    "email2": false,
+    "email3": false,
+    "emailVerified": true,
+    "emailSource": "https://guiapj.com.br/consulta-cnpj/51784141000183",
+    "emailVerifiedAt": "2026-09-15"
+  },
+  {
+    "name": "Magno Comercio Atacadista de Bebidas",
+    "email": "oliveira&magno@gmail.com",
+    "neighborhood": "Distrito Industrial",
+    "type": "distribuidora",
+    "website": "gmasil.com",
+    "context": "comercio atacadista de bebidas com fracionamento (filial ativa), Av das Industrias 1357 Box 01, Distrito Industrial, Jundiai (SP), tel (11) 5967-9000",
+    "date1": "2026-09-15",
+    "email1": true,
+    "email2": false,
+    "email3": false,
+    "emailVerified": true,
+    "emailSource": "https://guiapj.com.br/consulta-cnpj/41517735000760",
+    "emailVerifiedAt": "2026-09-15"
+  },
+  {
+    "name": "Adega Distribuidora L & S",
+    "email": "contatoadegals@gmail.com",
+    "neighborhood": "Sabana",
+    "type": "adega",
+    "website": "",
+    "context": "comercio varejista de bebidas (adega/distribuidora), Estrada Gentil Perez 509, Sabana, Itanhaem (SP), tel (13) 99702-9759",
+    "date1": "2026-09-15",
+    "email1": true,
+    "email2": false,
+    "email3": false,
+    "emailVerified": true,
+    "emailSource": "https://guiapj.com.br/consulta-cnpj/68170797000109",
+    "emailVerifiedAt": "2026-09-15"
   }
 ]
