@@ -41053,5 +41053,20 @@
     "emailVerified": true,
     "emailSource": "https://maiscnpj.com.br/cnpj/15391793000194-dopi-distribuidora-de-bebidas-e-alimentos-ltda",
     "emailVerifiedAt": "2026-09-15"
+  },
+  {
+    "name": "Isalex Distribuidora de Bebidas",
+    "email": "ISRAELDORES@GMAIL.COM",
+    "neighborhood": "Parque Alves de Lima",
+    "type": "distribuidora",
+    "website": "",
+    "context": "Isalex Distribuidora de Bebidas Ltda, comercio atacadista de bebidas com fracionamento (4635403), Parque Alves de Lima, Sao Paulo (SP), tel (11) 4077-2700",
+    "date1": "2026-09-15",
+    "email1": true,
+    "email2": false,
+    "email3": false,
+    "emailVerified": true,
+    "emailSource": "https://databrasil.net/empresas/41283911000150-ISALEX-DISTRIBUIDORA-DE-BEBIDAS-LTDA",
+    "emailVerifiedAt": "2026-09-15"
   }
 ]
