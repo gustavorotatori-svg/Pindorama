@@ -40221,7 +40221,10 @@
     "date1": "2026-09-14",
     "email1": false,
     "email2": false,
-    "email3": false
+    "email3": false,
+    "emailVerified": true,
+    "emailSource": "https://guiapj.com.br/consulta-cnpj/22442723000183",
+    "emailVerifiedAt": "2026-09-14"
   },
   {
     "name": "Adega Quatro Garrafas",
@@ -40233,7 +40236,10 @@
     "date1": "2026-09-14",
     "email1": false,
     "email2": false,
-    "email3": false
+    "email3": false,
+    "emailVerified": true,
+    "emailSource": "https://guiapj.com.br/consulta-cnpj/15442856000194",
+    "emailVerifiedAt": "2026-09-14"
   },
   {
     "name": "Adega Gu’s Drinks",
@@ -40245,7 +40251,10 @@
     "date1": "2026-09-15",
     "email1": false,
     "email2": false,
-    "email3": false
+    "email3": false,
+    "emailVerified": true,
+    "emailSource": "https://guiapj.com.br/consulta-cnpj/42590808000116",
+    "emailVerifiedAt": "2026-09-15"
   },
   {
     "name": "Morada das Bebbidas",
@@ -40257,7 +40266,10 @@
     "date1": "2026-09-15",
     "email1": false,
     "email2": false,
-    "email3": false
+    "email3": false,
+    "emailVerified": true,
+    "emailSource": "https://guiapj.com.br/consulta-cnpj/49003086000103",
+    "emailVerifiedAt": "2026-09-15"
   },
   {
     "name": "Adega Dantas Distribuidora",
@@ -40269,7 +40281,10 @@
     "date1": "2026-09-15",
     "email1": false,
     "email2": false,
-    "email3": false
+    "email3": false,
+    "emailVerified": true,
+    "emailSource": "https://databrasil.net/empresas/15613897000104-ADEGA-DANTAS-DISTRIBUIDORA-DE-BEBIDAS-LTDA",
+    "emailVerifiedAt": "2026-09-15"
   },
   {
     "name": "Adega do Morro",
@@ -40281,7 +40296,10 @@
     "date1": "2026-09-15",
     "email1": false,
     "email2": false,
-    "email3": false
+    "email3": false,
+    "emailVerified": true,
+    "emailSource": "https://guiapj.com.br/consulta-cnpj/51371753000144",
+    "emailVerifiedAt": "2026-09-15"
   },
   {
     "name": "Distribuidora e Adega Gomes",
@@ -40293,7 +40311,10 @@
     "date1": "2026-09-15",
     "email1": false,
     "email2": false,
-    "email3": false
+    "email3": false,
+    "emailVerified": true,
+    "emailSource": "https://guiapj.com.br/consulta-cnpj/45551123000159",
+    "emailVerifiedAt": "2026-09-15"
   },
   {
     "name": "A Nossa Adega",
@@ -40305,7 +40326,10 @@
     "date1": "2026-09-15",
     "email1": false,
     "email2": false,
-    "email3": false
+    "email3": false,
+    "emailVerified": true,
+    "emailSource": "https://guiapj.com.br/consulta-cnpj/32346151000192",
+    "emailVerifiedAt": "2026-09-15"
   },
   {
     "name": "JB Adega dos Mineiros",
@@ -40317,7 +40341,10 @@
     "date1": "2026-09-15",
     "email1": false,
     "email2": false,
-    "email3": false
+    "email3": false,
+    "emailVerified": true,
+    "emailSource": "https://guiapj.com.br/consulta-cnpj/48656885000108",
+    "emailVerifiedAt": "2026-09-15"
   },
   {
     "name": "Adega 123",
@@ -40329,7 +40356,10 @@
     "date1": "2026-09-15",
     "email1": false,
     "email2": false,
-    "email3": false
+    "email3": false,
+    "emailVerified": true,
+    "emailSource": "https://guiapj.com.br/consulta-cnpj/42294704000164",
+    "emailVerifiedAt": "2026-09-15"
   },
   {
     "name": "MLG Comercio de Bebidas",
@@ -40341,7 +40371,10 @@
     "date1": "2026-09-15",
     "email1": false,
     "email2": false,
-    "email3": false
+    "email3": false,
+    "emailVerified": true,
+    "emailSource": "https://cnpj.tradexa.com.br/09074581000180",
+    "emailVerifiedAt": "2026-09-15"
   },
   {
     "name": "Adega JSB",
@@ -40353,7 +40386,10 @@
     "date1": "2026-09-15",
     "email1": false,
     "email2": false,
-    "email3": false
+    "email3": false,
+    "emailVerified": true,
+    "emailSource": "https://databrasil.net/empresas/32769212000124-ADEGA-JSB-COMERCIO-VAREJISTA-DE-BEBIDAS-EM-GERAL-LTDA",
+    "emailVerifiedAt": "2026-09-15"
   },
   {
     "name": "Pezimpa Comercio de Bebidas",
@@ -40365,6 +40401,9 @@
     "date1": "2026-09-15",
     "email1": false,
     "email2": false,
-    "email3": false
+    "email3": false,
+    "emailVerified": true,
+    "emailSource": "https://guiapj.com.br/consulta-cnpj/24728210000169",
+    "emailVerifiedAt": "2026-09-15"
   }
 ]
