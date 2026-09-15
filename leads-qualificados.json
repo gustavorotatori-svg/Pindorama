@@ -41008,5 +41008,50 @@
     "emailVerified": true,
     "emailSource": "https://databrasil.net/empresas/32771544000224-DISTRIBUIDORA-DE-BEBIDAS-JD-LTDA",
     "emailVerifiedAt": "2026-09-15"
+  },
+  {
+    "name": "Bramon Distribuidora de Bebidas",
+    "email": "SERVMIXDISTRIBUIDORA@GMAIL.COM",
+    "neighborhood": "Parque Amarylis",
+    "type": "distribuidora",
+    "website": "",
+    "context": "Bramon Distribuidora de Bebidas Ltda, comercio varejista de bebidas, Parque Amarylis, Itupeva (SP), tel (11) 4591-3340",
+    "date1": "2026-09-15",
+    "email1": true,
+    "email2": false,
+    "email3": false,
+    "emailVerified": true,
+    "emailSource": "https://databrasil.net/empresas/00472325000177-BRAMON-DISTRIBUIDORA-DE-BEBIDAS-LTDA",
+    "emailVerifiedAt": "2026-09-15"
+  },
+  {
+    "name": "Borin Distribuidora de Bebidas",
+    "email": "JOSESERGIO.BORIN@GMAIL.COM",
+    "neighborhood": "Vila Bela Vista",
+    "type": "distribuidora",
+    "website": "",
+    "context": "Borin Distribuidora de Bebidas Ltda, comercio varejista de bebidas, Vila Bela Vista, Itatiba (SP), tel (11) 8335-7892",
+    "date1": "2026-09-15",
+    "email1": true,
+    "email2": false,
+    "email3": false,
+    "emailVerified": true,
+    "emailSource": "https://databrasil.net/empresas/33233613000128-BORIN-DISTRIBUIDORA-DE-BEBIDAS-LTDA",
+    "emailVerifiedAt": "2026-09-15"
+  },
+  {
+    "name": "Dopi Distribuidora de Bebidas e Alimentos",
+    "email": "adm@dopi.com.br",
+    "neighborhood": "Jardim Silvestre",
+    "type": "distribuidora",
+    "website": "",
+    "context": "Dopi Distribuidora de Bebidas e Alimentos Ltda, comercio atacadista de bebidas, Rua Murutu 446, Jardim Silvestre, Guarulhos (SP), tel (11) 2063-1005",
+    "date1": "2026-09-15",
+    "email1": true,
+    "email2": false,
+    "email3": false,
+    "emailVerified": true,
+    "emailSource": "https://maiscnpj.com.br/cnpj/15391793000194-dopi-distribuidora-de-bebidas-e-alimentos-ltda",
+    "emailVerifiedAt": "2026-09-15"
   }
 ]
