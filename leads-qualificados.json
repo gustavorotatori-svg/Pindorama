@@ -40570,5 +40570,20 @@
     "emailVerified": true,
     "emailSource": "https://cnpj.tradexa.com.br/27157422000121",
     "emailVerifiedAt": "2026-09-15"
+  },
+  {
+    "name": "AABJ Comercio de Bebidas",
+    "email": "bruno.jpf@hotmail.com",
+    "neighborhood": "Chacara Santo Antonio (Zona Leste)",
+    "type": "adega",
+    "website": "",
+    "context": "comercio varejista de bebidas na Rua Nova Jerusalem 164, Chacara Santo Antonio, Sao Paulo (SP), tel (11) 8896-4972",
+    "date1": "2026-09-15",
+    "email1": true,
+    "email2": false,
+    "email3": false,
+    "emailVerified": true,
+    "emailSource": "https://guiapj.com.br/consulta-cnpj/40339563000123",
+    "emailVerifiedAt": "2026-09-15"
   }
 ]
