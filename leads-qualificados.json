@@ -40945,5 +40945,20 @@
     "emailVerified": true,
     "emailSource": "https://guiapj.com.br/consulta-cnpj/45439582000145",
     "emailVerifiedAt": "2026-09-15"
+  },
+  {
+    "name": "M B S Distribuidora de Bebidas Atacado e Varejo",
+    "email": "BALBINOMATEUS86@GMAIL.COM",
+    "neighborhood": "Parque das Laranjeiras",
+    "type": "distribuidora",
+    "website": "",
+    "context": "MBS Distribuidora de Bebidas atacado e varejo, Rua Arlindo Parolini 138, Parque das Laranjeiras, Guarulhos (SP), tel (11) 7693-2296",
+    "date1": "2026-09-15",
+    "email1": true,
+    "email2": false,
+    "email3": false,
+    "emailVerified": true,
+    "emailSource": "https://databrasil.net/empresas/43730071000152-M-B-S-DISTRIBUIDORA-DE-BEBIDAS-ATACADO-E-VAREJO-LIMITADA",
+    "emailVerifiedAt": "2026-09-15"
   }
 ]
