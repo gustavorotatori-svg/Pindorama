@@ -40239,7 +40239,10 @@
     "email3": false,
     "emailVerified": true,
     "emailSource": "https://guiapj.com.br/consulta-cnpj/15442856000194",
-    "emailVerifiedAt": "2026-09-14"
+    "emailVerifiedAt": "2026-09-14",
+    "doNotContact": true,
+    "bounced": true,
+    "bounceDate": "2026-09-15"
   },
   {
     "name": "Adega Gu’s Drinks",
