@@ -40795,5 +40795,20 @@
     "emailVerified": true,
     "emailSource": "https://guiapj.com.br/consulta-cnpj/62551823000162",
     "emailVerifiedAt": "2026-09-15"
+  },
+  {
+    "name": "JP Carvalho Adega e Distribuidora de Bebidas",
+    "email": "adegajp@hotmail.com",
+    "neighborhood": "Dona Catarina",
+    "type": "distribuidora",
+    "website": "",
+    "context": "comercio varejista de bebidas, Rua SD Dona Catarina s/n, Dona Catarina, Mairinque (SP), tel (11) 3384-1040",
+    "date1": "2026-09-15",
+    "email1": true,
+    "email2": false,
+    "email3": false,
+    "emailVerified": true,
+    "emailSource": "https://guiapj.com.br/consulta-cnpj/13093404000119",
+    "emailVerifiedAt": "2026-09-15"
   }
 ]
