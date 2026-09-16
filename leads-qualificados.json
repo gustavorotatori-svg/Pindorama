@@ -41382,5 +41382,20 @@
     "emailVerified": true,
     "emailSource": "https://maiscnpj.com.br/cnpj/37570848000166-adega-lusa-ltda",
     "emailVerifiedAt": "2026-09-15"
+  },
+  {
+    "name": "Adega e Distribuidora Bento Guelfi",
+    "email": "angelo.ideal@globo.com",
+    "neighborhood": "Terceira Divisão",
+    "type": "adega",
+    "website": "",
+    "context": "Adega e Distribuidora (razão social Francisco de O Bessa - Adega e Distribuidora) em São Paulo (Terceira Divisão, zona leste), fundada 01/10/2018, ativa. CNAE 4723700 (varejo de bebidas).",
+    "date1": "2026-09-15",
+    "email1": false,
+    "email2": false,
+    "email3": false,
+    "emailVerified": true,
+    "emailSource": "https://www.diariocidade.com/sp/sao-paulo/guia/adega-e-distribuidora-bento-guelfi-31654096000135/",
+    "emailVerifiedAt": "2026-09-15"
   }
 ]
