@@ -41322,5 +41322,20 @@
     "emailVerified": true,
     "emailSource": "https://casadosdados.com.br/solucao/cnpj/adega-central-distribuidora-de-bebidas-ltda-66221214000104",
     "emailVerifiedAt": "2026-09-15"
+  },
+  {
+    "name": "Adega e Distribuidora Chega La",
+    "email": "zinhowzbaloes@gmail.com",
+    "neighborhood": "Jardim São Savério",
+    "type": "adega",
+    "website": "",
+    "context": "Adega e distribuidora em São Paulo (Jd São Savério, zona sul), fundada 14/11/2014, micro empresa, sócio Luiz Carlos de Oliveira. CNAE primário 4639999 e secundários incluem 4635402/4635499 (atacado de bebidas).",
+    "date1": "2026-09-15",
+    "email1": true,
+    "email2": false,
+    "email3": false,
+    "emailVerified": true,
+    "emailSource": "https://mestregeo.com.br/cnpj/sp/sao-paulo/adega-e-distribuidora-chega-la-21408726000138",
+    "emailVerifiedAt": "2026-09-15"
   }
 ]
