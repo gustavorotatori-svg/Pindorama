@@ -894,5 +894,99 @@
     "phone": "(11) 96624-8312",
     "source": "https://www.baressp.com.br/bares/madera-bar",
     "messageId": "3EB029988D4AA3A780B21C"
+  },
+  {
+    "date": "2026-09-16",
+    "checkedAt": "2026-09-16T17:01:46.273Z",
+    "status": "not_on_whatsapp",
+    "name": "Sampa Adega",
+    "phone": "(11) 98402-3929",
+    "source": "https://www.sampaadega.com.br/"
+  },
+  {
+    "date": "2026-09-16",
+    "checkedAt": "2026-09-16T17:01:46.326Z",
+    "status": "not_on_whatsapp",
+    "name": "Adega Frimar",
+    "phone": "(11) 5219-3878",
+    "source": "https://mycelium.lat/"
+  },
+  {
+    "date": "2026-09-16",
+    "checkedAt": "2026-09-16T17:01:46.402Z",
+    "status": "not_on_whatsapp",
+    "name": "Sphera Lounge",
+    "phone": "(11) 97636-3908",
+    "source": "https://www.spheralounge.com.br/"
+  },
+  {
+    "date": "2026-09-16",
+    "checkedAt": "2026-09-16T17:01:46.455Z",
+    "status": "not_on_whatsapp",
+    "name": "Dentro Bar",
+    "phone": "(11) 94998-2925",
+    "source": "https://www.baressp.com.br/bares/dentro-bar"
+  },
+  {
+    "date": "2026-09-16",
+    "acceptedAt": "2026-09-16T17:01:47.300Z",
+    "status": "accepted",
+    "name": "Trago Bar",
+    "phone": "(11) 91431-5545",
+    "source": "https://www.baressp.com.br/bares/trago-bar",
+    "messageId": "3EB0DD0588E9678836D1F6"
+  },
+  {
+    "date": "2026-09-16",
+    "acceptedAt": "2026-09-16T17:01:52.777Z",
+    "status": "accepted",
+    "name": "Black Sheep Bar - Vila Maria",
+    "phone": "(11) 96224-0532",
+    "source": "https://www.baressp.com.br/bares/black-sheep-bar-vila-maria",
+    "messageId": "3EB07640BA78F204D27277"
+  },
+  {
+    "date": "2026-09-16",
+    "acceptedAt": "2026-09-16T17:01:58.254Z",
+    "status": "accepted",
+    "name": "Boteco do Edu",
+    "phone": "(11) 97603-3991",
+    "source": "https://www.baressp.com.br/bares/boteco-do-edu",
+    "messageId": "3EB0F1E348DA3AED85E7A5"
+  },
+  {
+    "date": "2026-09-16",
+    "checkedAt": "2026-09-16T17:02:03.398Z",
+    "status": "not_on_whatsapp",
+    "name": "No Ponto Espeto & Bar",
+    "phone": "(11) 99011-3879",
+    "source": "https://baressp.com.br/bares/no-ponto-espeto-e-bar"
+  },
+  {
+    "date": "2026-09-16",
+    "acceptedAt": "2026-09-16T17:02:04.150Z",
+    "status": "accepted",
+    "name": "Cazzo!",
+    "phone": "(11) 96162-0900",
+    "source": "https://baressp.com.br/bares/cazzo",
+    "messageId": "3EB020BBC18DEAA23B51FA"
+  },
+  {
+    "date": "2026-09-16",
+    "acceptedAt": "2026-09-16T17:02:09.583Z",
+    "status": "accepted",
+    "name": "Pura Calma Pub",
+    "phone": "(11) 95378-7083",
+    "source": "https://www.baressp.com.br/bares/pura-calma-pub",
+    "messageId": "3EB041EFCBD9F3A061F001"
+  },
+  {
+    "date": "2026-09-16",
+    "acceptedAt": "2026-09-16T17:02:15.157Z",
+    "status": "accepted",
+    "name": "Vesuvio Beer & Burger",
+    "phone": "(11) 95858-5558",
+    "source": "https://www.baressp.com.br/bares/vesuvio-beer-e-burger",
+    "messageId": "3EB0E4CE0369AC908F988A"
   }
 ]

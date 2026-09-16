@@ -628,7 +628,8 @@
     "evidence": "Perfil comercial atualizado em fevereiro de 2026 confirma bar ativo na Barra Funda, com petiscos autorais e operacao noturna de quarta a domingo, e WhatsApp empresarial publicado.",
     "verifiedAt": "2026-08-21",
     "notBefore": "2026-09-15",
-    "status": "queued"
+    "status": "sent",
+    "sentAt": "2026-09-16T17:01:47.300Z"
   },
   {
     "name": "Black Sheep Bar - Vila Maria",
@@ -639,7 +640,8 @@
     "evidence": "Perfil comercial atualizado em maio de 2026 confirma bar ativo na Vila Maria, com musica ao vivo, happy hour e reservas, e WhatsApp empresarial publicado.",
     "verifiedAt": "2026-08-21",
     "notBefore": "2026-09-15",
-    "status": "queued"
+    "status": "sent",
+    "sentAt": "2026-09-16T17:01:52.777Z"
   },
   {
     "name": "Boteco do Edu",
@@ -650,7 +652,8 @@
     "evidence": "Perfil comercial atualizado em abril de 2026 confirma boteco ativo na Vila Santo Estevao, voltado a happy hour e culinaria de boteco, e WhatsApp empresarial publicado.",
     "verifiedAt": "2026-08-22",
     "notBefore": "2026-09-16",
-    "status": "queued"
+    "status": "sent",
+    "sentAt": "2026-09-16T17:01:58.254Z"
   },
   {
     "name": "No Ponto Espeto & Bar",
@@ -672,7 +675,8 @@
     "evidence": "Perfil comercial atualizado em marco de 2026 confirma bar e restaurante ativo na Vila Bertioga, voltado a happy hour e comida de rua italiana autoral, com WhatsApp empresarial publicado.",
     "verifiedAt": "2026-08-22",
     "notBefore": "2026-09-16",
-    "status": "queued"
+    "status": "sent",
+    "sentAt": "2026-09-16T17:02:04.150Z"
   },
   {
     "name": "Pura Calma Pub",
@@ -683,7 +687,8 @@
     "evidence": "Perfil comercial atualizado em fevereiro de 2026 confirma pub ativo em Osasco, com operacao noturna estendida e cardapio de pub, e WhatsApp empresarial publicado.",
     "verifiedAt": "2026-08-22",
     "notBefore": "2026-09-16",
-    "status": "queued"
+    "status": "sent",
+    "sentAt": "2026-09-16T17:02:09.583Z"
   },
   {
     "name": "Vesuvio Beer & Burger",
@@ -694,7 +699,8 @@
     "evidence": "Perfil comercial atualizado em fevereiro de 2026 confirma pub ativo em Perdizes, com 12 torneiras de cerveja e drinques classicos e exclusivos, e WhatsApp empresarial publicado.",
     "verifiedAt": "2026-08-22",
     "notBefore": "2026-09-16",
-    "status": "queued"
+    "status": "sent",
+    "sentAt": "2026-09-16T17:02:15.157Z"
   },
   {
     "name": "Rainha Vila Madalena",
