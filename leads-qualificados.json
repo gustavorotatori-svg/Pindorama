@@ -41352,5 +41352,20 @@
     "emailVerified": true,
     "emailSource": "https://guiapj.com.br/consulta-cnpj/63333006000109",
     "emailVerifiedAt": "2026-09-15"
+  },
+  {
+    "name": "LAD Distribuidora (Adega Farol Drinks)",
+    "email": "andre.da28@hotmail.com",
+    "neighborhood": "Jardim Castilho",
+    "type": "distribuidora",
+    "website": "",
+    "context": "LAD Distribuidora de Bebidas e Alimentos (Adega Farol Drinks) em Embu das Artes (Jd Castilho), fundada 14/10/2020, ativa, ME. CNAE principal 4723700 (varejo de bebidas), secundários 4635403/4635499 (atacado de bebidas). Sócio-administrador André da Silva Santos.",
+    "date1": "2026-09-15",
+    "email1": false,
+    "email2": false,
+    "email3": false,
+    "emailVerified": true,
+    "emailSource": "https://databrasil.net/empresas/39419025000160-LAD-DISTRIBUIDORA-DE-BEBIDAS-E-ALIMENTOS-LTDA",
+    "emailVerifiedAt": "2026-09-15"
   }
 ]
