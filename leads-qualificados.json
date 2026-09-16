@@ -41232,5 +41232,35 @@
     "emailVerified": true,
     "emailSource": "https://databrasil.net/empresas/41000460000105-DISTRIBUIDORA-DE-BEBIDAS-CEREJEIRA-LTDA",
     "emailVerifiedAt": "2026-09-15"
+  },
+  {
+    "name": "Distribuidora de Bebidas Formosa",
+    "email": "distribuidorabebidasformosa@gmail.com",
+    "neighborhood": "Vila Formosa",
+    "type": "distribuidora",
+    "website": "",
+    "context": "Distribuidora de bebidas em Sorocaba (Vila Formosa), razão Toso Paes Distribuidora de Bebidas LTDA, ativa desde 07/06/2018.",
+    "date1": "2026-09-15",
+    "email1": true,
+    "email2": false,
+    "email3": false,
+    "emailVerified": true,
+    "emailSource": "https://www.diariocidade.com/sp/sorocaba/guia/distribuidora-de-bebidas-formosa-30643223000138/",
+    "emailVerifiedAt": "2026-09-15"
+  },
+  {
+    "name": "Distribuidora de Bebidas dos Amigos",
+    "email": "everaldombarbosa@gmail.com",
+    "neighborhood": "Porcelana",
+    "type": "distribuidora",
+    "website": "",
+    "context": "Distribuidora de bebidas em Atibaia, comércio varejista de bebidas CNAE 4723700, ativa desde 23/02/1999.",
+    "date1": "2026-09-15",
+    "email1": true,
+    "email2": false,
+    "email3": false,
+    "emailVerified": true,
+    "emailSource": "https://mestregeo.com.br/cnpj/sp/atibaia/distribuidora-de-bebidas-dos-amigos-02992300000120",
+    "emailVerifiedAt": "2026-09-15"
   }
 ]
