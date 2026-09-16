@@ -41391,7 +41391,7 @@
     "website": "",
     "context": "Adega e Distribuidora (razão social Francisco de O Bessa - Adega e Distribuidora) em São Paulo (Terceira Divisão, zona leste), fundada 01/10/2018, ativa. CNAE 4723700 (varejo de bebidas).",
     "date1": "2026-09-15",
-    "email1": false,
+    "email1": true,
     "email2": false,
     "email3": false,
     "emailVerified": true,
