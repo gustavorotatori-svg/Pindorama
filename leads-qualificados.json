@@ -41337,5 +41337,20 @@
     "emailVerified": true,
     "emailSource": "https://mestregeo.com.br/cnpj/sp/sao-paulo/adega-e-distribuidora-chega-la-21408726000138",
     "emailVerifiedAt": "2026-09-15"
+  },
+  {
+    "name": "Distribuidora de Bebidas São Paulo RGS",
+    "email": "bebidassprgs@gmail.com",
+    "neighborhood": "Jardim Santa Tereza",
+    "type": "distribuidora",
+    "website": "",
+    "context": "Distribuidora de bebidas em Rio Grande da Serra (Jd Santa Tereza), fundada 23/10/2025, ativa. CNAE primário 4712100 (minimercado) e secundário 4723700 (comércio varejista de bebidas); nome fantasia indica foco em bebidas.",
+    "date1": "2026-09-15",
+    "email1": true,
+    "email2": false,
+    "email3": false,
+    "emailVerified": true,
+    "emailSource": "https://guiapj.com.br/consulta-cnpj/63333006000109",
+    "emailVerifiedAt": "2026-09-15"
   }
 ]
