@@ -41553,5 +41553,50 @@
     "emailVerified": true,
     "emailSource": "https://guiapj.com.br/consulta-cnpj",
     "emailVerifiedAt": "2026-09-15"
+  },
+  {
+    "name": "Adega Tio Patinhas",
+    "email": "newton.barbosa082@gmail.com",
+    "neighborhood": "Jardim Ponte Alta I",
+    "type": "adega",
+    "website": "",
+    "context": "Adega Tio Patinhas em Guarulhos (Jd Ponte Alta I), CNPJ 32.986.389/0001-82, ativa desde 11/03/2019, CNAE principal 4723700 (varejo de bebidas). Endereco: Rua Mario Luiz Macca 332.",
+    "date1": "2026-09-16",
+    "email1": false,
+    "email2": false,
+    "email3": false,
+    "emailVerified": true,
+    "emailSource": "https://guiapj.com.br/consulta-cnpj",
+    "emailVerifiedAt": "2026-09-16"
+  },
+  {
+    "name": "Adega Beer Distribuidora",
+    "email": "adegabeerindaiatuba@gmail.com",
+    "neighborhood": "Jardim Juliana",
+    "type": "adega",
+    "website": "",
+    "context": "Adega Beer Distribuidora de Bebidas em Indaiatuba (Jardim Juliana), CNPJ 49.824.396/0001-80, ativa desde 06/03/2023. CNAE secundario 4723700 (varejo de bebidas). Endereco: Av. Coronel Antonio Estanislau do Amaral 1724.",
+    "date1": "2026-09-16",
+    "email1": false,
+    "email2": false,
+    "email3": false,
+    "emailVerified": true,
+    "emailSource": "https://guiapj.com.br/consulta-cnpj",
+    "emailVerifiedAt": "2026-09-16"
+  },
+  {
+    "name": "B2B Chopp",
+    "email": "marceloasantana10@gmail.com",
+    "neighborhood": "Casa Branca",
+    "type": "adega",
+    "website": "",
+    "context": "B2B Chopp (razao Chopp em Casa) em Santo Andre (Casa Branca), CNPJ 11.010.347/0001-31, ativa, capital R$ 70.000. CNAE principal 4723700 (varejo de bebidas). Endereco: Av. Firestone 1553, sala 01.",
+    "date1": "2026-09-16",
+    "email1": false,
+    "email2": false,
+    "email3": false,
+    "emailVerified": true,
+    "emailSource": "https://maiscnpj.com.br/cnpj",
+    "emailVerifiedAt": "2026-09-16"
   }
 ]
