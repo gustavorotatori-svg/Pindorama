@@ -40406,7 +40406,10 @@
     "email3": false,
     "emailVerified": true,
     "emailSource": "https://databrasil.net/empresas/32769212000124-ADEGA-JSB-COMERCIO-VAREJISTA-DE-BEBIDAS-EM-GERAL-LTDA",
-    "emailVerifiedAt": "2026-09-15"
+    "emailVerifiedAt": "2026-09-15",
+    "doNotContact": true,
+    "bounced": true,
+    "bounceDate": "2026-09-15"
   },
   {
     "name": "Pezimpa Comercio de Bebidas",
