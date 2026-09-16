@@ -41429,7 +41429,10 @@
     "email3": false,
     "emailVerified": true,
     "emailSource": "https://casadosdados.com.br/solucao/cnpj/",
-    "emailVerifiedAt": "2026-09-15"
+    "emailVerifiedAt": "2026-09-15",
+    "doNotContact": true,
+    "bounced": true,
+    "bounceDate": "2026-09-15"
   },
   {
     "name": "Adega Aghata Drinks",
