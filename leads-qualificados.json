@@ -38902,7 +38902,9 @@
     "email1": true,
     "date1": "2026-09-04",
     "email2": true,
-    "date2": "2026-09-12"
+    "date2": "2026-09-12",
+    "email3": true,
+    "date3": "2026-09-15"
   },
   {
     "name": "Adega Ponto Certo",
@@ -38918,7 +38920,9 @@
     "email1": true,
     "date1": "2026-09-04",
     "email2": true,
-    "date2": "2026-09-12"
+    "date2": "2026-09-12",
+    "email3": true,
+    "date3": "2026-09-15"
   },
   {
     "name": "Adega MM Comercial",
@@ -38934,7 +38938,9 @@
     "email1": true,
     "date1": "2026-09-04",
     "email2": true,
-    "date2": "2026-09-12"
+    "date2": "2026-09-12",
+    "email3": true,
+    "date3": "2026-09-15"
   },
   {
     "name": "A.B Carneiro Adega",
@@ -38950,7 +38956,9 @@
     "email1": true,
     "date1": "2026-09-05",
     "email2": true,
-    "date2": "2026-09-12"
+    "date2": "2026-09-12",
+    "email3": true,
+    "date3": "2026-09-15"
   },
   {
     "name": "Jr Bebidas Adega",
@@ -38966,7 +38974,9 @@
     "email1": true,
     "date1": "2026-09-05",
     "email2": true,
-    "date2": "2026-09-12"
+    "date2": "2026-09-12",
+    "email3": true,
+    "date3": "2026-09-15"
   },
   {
     "name": "Adega TC Distribuidora",
@@ -38982,7 +38992,9 @@
     "email1": true,
     "date1": "2026-09-05",
     "email2": true,
-    "date2": "2026-09-12"
+    "date2": "2026-09-12",
+    "email3": true,
+    "date3": "2026-09-15"
   },
   {
     "name": "Adega Conrado e Mercearia",
@@ -38999,7 +39011,9 @@
     "email1": true,
     "date1": "2026-09-05",
     "email2": true,
-    "date2": "2026-09-12"
+    "date2": "2026-09-12",
+    "email3": true,
+    "date3": "2026-09-15"
   },
   {
     "name": "Tico & Teco Distribuidora",
@@ -40267,7 +40281,7 @@
     "website": "",
     "context": "comercio atacadista de bebidas com fracionamento na Rua Javas 235, Bom Retiro, Sao Paulo, tel (11) 5590-4286",
     "date1": "2026-09-15",
-    "email1": false,
+    "email1": true,
     "email2": false,
     "email3": false,
     "emailVerified": true,
@@ -40282,7 +40296,7 @@
     "website": "",
     "context": "distribuidora de bebidas na Rua Leandro de Sevilha 419, Parque Novo Lar, Sao Paulo, tels 4105-1501 e 8686-5771",
     "date1": "2026-09-15",
-    "email1": false,
+    "email1": true,
     "email2": false,
     "email3": false,
     "emailVerified": true,
@@ -40312,7 +40326,7 @@
     "website": "",
     "context": "comercio varejista de bebidas na Rua Orfanato 522, Vila Prudente, Sao Paulo, tel (11) 99005-7308",
     "date1": "2026-09-15",
-    "email1": false,
+    "email1": true,
     "email2": false,
     "email3": false,
     "emailVerified": true,
@@ -40387,7 +40401,7 @@
     "website": "",
     "context": "comercio varejista de bebidas em geral no Jardim Sao Bernardo, zona sul de Sao Paulo (SP)",
     "date1": "2026-09-15",
-    "email1": false,
+    "email1": true,
     "email2": false,
     "email3": false,
     "emailVerified": true,
@@ -40402,7 +40416,7 @@
     "website": "",
     "context": "comercio varejista de bebidas na Rua Manoel Matheus 69, Centro, Vinhedo (SP), tel (19) 98253-1982",
     "date1": "2026-09-15",
-    "email1": false,
+    "email1": true,
     "email2": false,
     "email3": false,
     "emailVerified": true,
