@@ -39474,7 +39474,9 @@
     "email1": true,
     "date1": "2026-09-08",
     "email2": true,
-    "date2": "2026-09-13"
+    "date2": "2026-09-13",
+    "email3": true,
+    "date3": "2026-09-16"
   },
   {
     "name": "Adega Pe de Cana",
@@ -39491,7 +39493,9 @@
     "email1": true,
     "date1": "2026-09-08",
     "email2": true,
-    "date2": "2026-09-13"
+    "date2": "2026-09-13",
+    "email3": true,
+    "date3": "2026-09-16"
   },
   {
     "name": "Magnolia Pocket Club (Proposta)",
@@ -39509,7 +39513,9 @@
     "email1": true,
     "date1": "2026-09-08",
     "email2": true,
-    "date2": "2026-09-13"
+    "date2": "2026-09-13",
+    "email3": true,
+    "date3": "2026-09-16"
   },
   {
     "name": "G&T Bar (Depto Compras)",
@@ -39527,7 +39533,9 @@
     "email1": true,
     "date1": "2026-09-08",
     "email2": true,
-    "date2": "2026-09-13"
+    "date2": "2026-09-13",
+    "email3": true,
+    "date3": "2026-09-16"
   },
   {
     "name": "Locale Caffé (Depto Compras)",
@@ -39567,7 +39575,9 @@
     "date": "2026-09-09",
     "date1": "2026-09-10",
     "email2": true,
-    "date2": "2026-09-13"
+    "date2": "2026-09-13",
+    "email3": true,
+    "date3": "2026-09-16"
   },
   {
     "name": "Adega Do Bigode",
@@ -39623,7 +39633,9 @@
     "date": "2026-09-09",
     "date1": "2026-09-10",
     "email2": true,
-    "date2": "2026-09-13"
+    "date2": "2026-09-13",
+    "email3": true,
+    "date3": "2026-09-16"
   },
   {
     "name": "Alberg Distribuidora",
@@ -39642,7 +39654,9 @@
     "date": "2026-09-09",
     "date1": "2026-09-10",
     "email2": true,
-    "date2": "2026-09-13"
+    "date2": "2026-09-13",
+    "email3": true,
+    "date3": "2026-09-16"
   },
   {
     "name": "MB Distribuidora",
@@ -39660,7 +39674,9 @@
     "date": "2026-09-09",
     "date1": "2026-09-10",
     "email2": true,
-    "date2": "2026-09-13"
+    "date2": "2026-09-13",
+    "email3": true,
+    "date3": "2026-09-16"
   },
   {
     "name": "Adega e Distribuidora 1200",
@@ -39678,7 +39694,9 @@
     "date": "2026-09-09",
     "date1": "2026-09-10",
     "email2": true,
-    "date2": "2026-09-13"
+    "date2": "2026-09-13",
+    "email3": true,
+    "date3": "2026-09-16"
   },
   {
     "name": "Adega Distribuidora Caiuby",
@@ -39696,7 +39714,9 @@
     "date": "2026-09-10",
     "date1": "2026-09-10",
     "email2": true,
-    "date2": "2026-09-13"
+    "date2": "2026-09-13",
+    "email3": true,
+    "date3": "2026-09-16"
   },
   {
     "name": "Distribuidora de Bebidas Aruja",
@@ -39714,7 +39734,9 @@
     "date": "2026-09-10",
     "date1": "2026-09-10",
     "email2": true,
-    "date2": "2026-09-13"
+    "date2": "2026-09-13",
+    "email3": true,
+    "date3": "2026-09-16"
   },
   {
     "name": "Adega Santa Isabel",
@@ -39732,7 +39754,9 @@
     "date": "2026-09-10",
     "date1": "2026-09-10",
     "email2": true,
-    "date2": "2026-09-13"
+    "date2": "2026-09-13",
+    "email3": true,
+    "date3": "2026-09-16"
   },
   {
     "name": "Ab Adega",
@@ -39750,7 +39774,9 @@
     "email1": true,
     "date1": "2026-09-11",
     "email2": true,
-    "date2": "2026-09-13"
+    "date2": "2026-09-13",
+    "email3": true,
+    "date3": "2026-09-16"
   },
   {
     "name": "Adega Poaense",
@@ -40272,11 +40298,12 @@
     "context": "adega varejo de bebidas na Rua Manuel Homem de Andrade 172, Jardim Santo Antonio, zona sul de São Paulo",
     "date1": "2026-09-15",
     "email1": true,
-    "email2": false,
+    "email2": true,
     "email3": false,
     "emailVerified": true,
     "emailSource": "https://guiapj.com.br/consulta-cnpj/22442723000183",
-    "emailVerifiedAt": "2026-09-14"
+    "emailVerifiedAt": "2026-09-14",
+    "date2": "2026-09-16"
   },
   {
     "name": "Adega Quatro Garrafas",
@@ -40305,11 +40332,12 @@
     "context": "comercio varejista e atacadista de bebidas na Rua Javaes 235 loja 2, Bom Retiro, Sao Paulo, tel (11) 3131-3131",
     "date1": "2026-09-15",
     "email1": true,
-    "email2": false,
+    "email2": true,
     "email3": false,
     "emailVerified": true,
     "emailSource": "https://guiapj.com.br/consulta-cnpj/42590808000116",
-    "emailVerifiedAt": "2026-09-15"
+    "emailVerifiedAt": "2026-09-15",
+    "date2": "2026-09-16"
   },
   {
     "name": "Morada das Bebbidas",
