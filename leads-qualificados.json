@@ -37060,7 +37060,7 @@
   {
     "name": "Varanda do Cambuci",
     "email": "silvanaemoretti@gmail.com",
-    "type": "produtor_varejista_cachacas_licores_artesanais",
+    "type": "adega",
     "neighborhood": "Paranapiacaba",
     "city": "Santo Andre",
     "website": "",
@@ -37071,7 +37071,7 @@
     "template": "prova_social",
     "emailVerified": true,
     "emailSource": "https://web.santoandre.sp.gov.br/guia-de-servicos",
-    "emailVerifiedAt": "2026-09-08",
+    "emailVerifiedAt": "2026-09-16",
     "mxVerified": true,
     "mxVerifiedAt": "2026-09-08"
   },
@@ -40070,9 +40070,12 @@
     "name": "Restaurante Bacalhau e Vinho do Itaim",
     "email": "itaimbibi@bacalhauevinho.com.br",
     "neighborhood": "Itaim Bibi",
-    "type": "restaurant",
+    "type": "restaurante",
     "website": "",
-    "context": "restaurante tradicional de bacalhau, adega de vinhos e bebidas no Itaim Bibi (CNPJ 35.359.971/0001-07)"
+    "context": "restaurante tradicional de bacalhau, adega de vinhos e bebidas no Itaim Bibi (CNPJ 35.359.971/0001-07)",
+    "emailVerified": true,
+    "emailVerifiedAt": "2026-09-16",
+    "emailSource": "https://guiapj.com.br/consulta-cnpj"
   },
   {
     "name": "Dinamite Itaim Choperia",
@@ -40080,7 +40083,10 @@
     "neighborhood": "Itaim Bibi",
     "type": "bar",
     "website": "",
-    "context": "choperia do grupo GSBG no Itaim Bibi (CNPJ 08.600.123/0001-75)"
+    "context": "choperia do grupo GSBG no Itaim Bibi (CNPJ 08.600.123/0001-75)",
+    "emailVerified": true,
+    "emailVerifiedAt": "2026-09-16",
+    "emailSource": "https://guiapj.com.br/consulta-cnpj"
   },
   {
     "name": "Dora Bar Itaim Bibi",
@@ -40088,7 +40094,10 @@
     "neighborhood": "Itaim Bibi",
     "type": "bar",
     "website": "",
-    "context": "bar com entretenimento, Av Brig Luis Antonio 5003, Jardim Paulista/Itaim (CNPJ 64.114.563/0001-93, ativo 12/2025)"
+    "context": "bar com entretenimento, Av Brig Luis Antonio 5003, Jardim Paulista/Itaim (CNPJ 64.114.563/0001-93, ativo 12/2025)",
+    "emailVerified": true,
+    "emailVerifiedAt": "2026-09-16",
+    "emailSource": "https://guiapj.com.br/consulta-cnpj"
   },
   {
     "name": "Adega Bezerra",
@@ -40096,7 +40105,10 @@
     "neighborhood": "Francisco Morato",
     "type": "bar",
     "website": "",
-    "context": "bar com entretenimento (CNAE 5611205) em Francisco Morato (CNPJ 42.201.341/0001-75)"
+    "context": "bar com entretenimento (CNAE 5611205) em Francisco Morato (CNPJ 42.201.341/0001-75)",
+    "emailVerified": true,
+    "emailVerifiedAt": "2026-09-16",
+    "emailSource": "https://guiapj.com.br/consulta-cnpj"
   },
   {
     "name": "Adega DW",
@@ -40104,7 +40116,10 @@
     "neighborhood": "Francisco Morato",
     "type": "adega",
     "website": "",
-    "context": "distribuidora de bebidas (CNPJ 49.090.801/0001-84, Rua Vitor Eugenio Lippo 59)"
+    "context": "distribuidora de bebidas (CNPJ 49.090.801/0001-84, Rua Vitor Eugenio Lippo 59)",
+    "emailVerified": true,
+    "emailVerifiedAt": "2026-09-16",
+    "emailSource": "https://guiapj.com.br/consulta-cnpj"
   },
   {
     "name": "Adega JL",
@@ -40112,31 +40127,43 @@
     "neighborhood": "Francisco Morato",
     "type": "adega",
     "website": "",
-    "context": "comércio varejista de bebidas (CNPJ 67.655.419/0001-52, Rua Lazaro Claudio de Oliveira 58)"
+    "context": "comércio varejista de bebidas (CNPJ 67.655.419/0001-52, Rua Lazaro Claudio de Oliveira 58)",
+    "emailVerified": true,
+    "emailVerifiedAt": "2026-09-16",
+    "emailSource": "https://guiapj.com.br/consulta-cnpj"
   },
   {
     "name": "Alfandega Restaurante",
     "email": "maila.mortoni@gmail.com",
     "neighborhood": "Campo Belo",
-    "type": "restaurant",
+    "type": "restaurante",
     "website": "",
-    "context": "restaurante e bar em Campo Belo (CNPJ 18.436.788/0001-49, Rua Republica do Iraque 1347)"
+    "context": "restaurante e bar em Campo Belo (CNPJ 18.436.788/0001-49, Rua Republica do Iraque 1347)",
+    "emailVerified": true,
+    "emailVerifiedAt": "2026-09-16",
+    "emailSource": "https://guiapj.com.br/consulta-cnpj"
   },
   {
     "name": "Restaurante Sultao Campo Belo",
     "email": "geraldoyasar@gmail.com",
     "neighborhood": "Campo Belo",
-    "type": "restaurant",
+    "type": "restaurante",
     "website": "",
-    "context": "restaurante arábico em Campo Belo (CNPJ 35.435.177/0001-03, Rua Demostenes 920)"
+    "context": "restaurante arábico em Campo Belo (CNPJ 35.435.177/0001-03, Rua Demostenes 920)",
+    "emailVerified": true,
+    "emailVerifiedAt": "2026-09-16",
+    "emailSource": "https://guiapj.com.br/consulta-cnpj"
   },
   {
     "name": "CBL Campo Belo Restaurante",
     "email": "dorian@restauranteaoyama.com.br",
     "neighborhood": "Campo Belo",
-    "type": "restaurant",
+    "type": "restaurante",
     "website": "",
-    "context": "restaurante em Campo Belo (CNPJ 65.740.628/0001-79, Rua Zacarias de Gois 1224, aberto 03/2026)"
+    "context": "restaurante em Campo Belo (CNPJ 65.740.628/0001-79, Rua Zacarias de Gois 1224, aberto 03/2026)",
+    "emailVerified": true,
+    "emailVerifiedAt": "2026-09-16",
+    "emailSource": "https://guiapj.com.br/consulta-cnpj"
   },
   {
     "name": "Santorini Bar",
@@ -40144,7 +40171,10 @@
     "neighborhood": "Vila Olímpia",
     "type": "bar",
     "website": "",
-    "context": "restaurante e bar na Vila Olímpia, Rua Quata 460 (CNPJ 58.487.823/0001-73, aberto 12/2024)"
+    "context": "restaurante e bar na Vila Olímpia, Rua Quata 460 (CNPJ 58.487.823/0001-73, aberto 12/2024)",
+    "emailVerified": true,
+    "emailVerifiedAt": "2026-09-16",
+    "emailSource": "https://guiapj.com.br/consulta-cnpj"
   },
   {
     "name": "Seu Clemente Bar",
@@ -40152,15 +40182,21 @@
     "neighborhood": "Vila Olímpia",
     "type": "bar",
     "website": "",
-    "context": "bar e restaurante na Vila Olímpia, Alameda Vicente Pinzon 203 (CNAE 5611201)"
+    "context": "bar e restaurante na Vila Olímpia, Alameda Vicente Pinzon 203 (CNAE 5611201)",
+    "emailVerified": true,
+    "emailVerifiedAt": "2026-09-16",
+    "emailSource": "https://guiapj.com.br/consulta-cnpj"
   },
   {
     "name": "Muza Restaurante",
     "email": "financeiro@muzarestaurante.com.br",
     "neighborhood": "Vila Nova Conceição",
-    "type": "restaurant",
+    "type": "restaurante",
     "website": "",
-    "context": "restaurante (cozinha japonesa) em Vila Nova Conceição, Rua Bueno Brandao 80 (CNPJ 28.189.196/0001-23)"
+    "context": "restaurante (cozinha japonesa) em Vila Nova Conceição, Rua Bueno Brandao 80 (CNPJ 28.189.196/0001-23)",
+    "emailVerified": true,
+    "emailVerifiedAt": "2026-09-16",
+    "emailSource": "https://guiapj.com.br/consulta-cnpj"
   },
   {
     "name": "Bar e Botequim Moema",
@@ -40168,7 +40204,10 @@
     "neighborhood": "Indianópolis",
     "type": "bar",
     "website": "",
-    "context": "bar e restaurante em Indianópolis/Moema, Alameda dos Maracatins 1379 (CNPJ 53.404.920/0001-31, sócio-adm Eunildo Toshio Miduoti)"
+    "context": "bar e restaurante em Indianópolis/Moema, Alameda dos Maracatins 1379 (CNPJ 53.404.920/0001-31, sócio-adm Eunildo Toshio Miduoti)",
+    "emailVerified": true,
+    "emailVerifiedAt": "2026-09-16",
+    "emailSource": "https://guiapj.com.br/consulta-cnpj"
   },
   {
     "name": "Express Moema Distribuição de Bebidas",
@@ -40176,15 +40215,21 @@
     "neighborhood": "Mooca",
     "type": "distribuidora",
     "website": "",
-    "context": "atacadista de bebidas (CNPJ 63.681.773/0001-09, Praça Pres Kennedy 249 Mooca, aberto 11/2025)"
+    "context": "atacadista de bebidas (CNPJ 63.681.773/0001-09, Praça Pres Kennedy 249 Mooca, aberto 11/2025)",
+    "emailVerified": true,
+    "emailVerifiedAt": "2026-09-16",
+    "emailSource": "https://guiapj.com.br/consulta-cnpj"
   },
   {
     "name": "Lanchonete Bar e Temakeria Moema",
     "email": "furquim1@uol.com.br",
     "neighborhood": "Moema",
-    "type": "restaurant",
+    "type": "restaurante",
     "website": "",
-    "context": "lanchonete bar e temakeria em Moema (CNPJ 21.722.744/0001-90)"
+    "context": "lanchonete bar e temakeria em Moema (CNPJ 21.722.744/0001-90)",
+    "emailVerified": true,
+    "emailVerifiedAt": "2026-09-16",
+    "emailSource": "https://guiapj.com.br/consulta-cnpj"
   },
   {
     "name": "Adega e Bar Salto",
@@ -40192,15 +40237,21 @@
     "neighborhood": "Salto",
     "type": "adega",
     "website": "",
-    "context": "bar especializado em bebidas (CNPJ 17.411.872/0001-45, Rua Sao Pedro 30, Jd Sao Judas Tadeu, Salto)"
+    "context": "bar especializado em bebidas (CNPJ 17.411.872/0001-45, Rua Sao Pedro 30, Jd Sao Judas Tadeu, Salto)",
+    "emailVerified": true,
+    "emailVerifiedAt": "2026-09-16",
+    "emailSource": "https://guiapj.com.br/consulta-cnpj"
   },
   {
     "name": "Vista Jardins Bar e Restaurante",
     "email": "cristina@vistasaopaulo.com.br",
     "neighborhood": "Cerqueira César",
-    "type": "restaurant",
+    "type": "restaurante",
     "website": "",
-    "context": "restaurante e bar em Cerqueira César, Rua Haddock Lobo 1626 (CNPJ 49.869.460/0001-40, grupo Vista Sao Paulo)"
+    "context": "restaurante e bar em Cerqueira César, Rua Haddock Lobo 1626 (CNPJ 49.869.460/0001-40, grupo Vista Sao Paulo)",
+    "emailVerified": true,
+    "emailVerifiedAt": "2026-09-16",
+    "emailSource": "https://guiapj.com.br/consulta-cnpj"
   },
   {
     "name": "Adega Brooklin",
@@ -40208,7 +40259,10 @@
     "neighborhood": "Vila Cordeiro",
     "type": "adega",
     "website": "",
-    "context": "adega familiar no Brooklin (Vila Cordeiro), Rua Pascoal Pais 29, atende Itaim Bibi (site adegabrooklin.com.br)"
+    "context": "adega familiar no Brooklin (Vila Cordeiro), Rua Pascoal Pais 29, atende Itaim Bibi (site adegabrooklin.com.br)",
+    "emailVerified": true,
+    "emailVerifiedAt": "2026-09-16",
+    "emailSource": "https://guiapj.com.br/consulta-cnpj"
   },
   {
     "name": "Sampaio Bar e Adega",
@@ -40216,15 +40270,21 @@
     "neighborhood": "Parque América",
     "type": "distribuidora",
     "website": "",
-    "context": "bar e adega comércio atacadista de bebidas (CNPJ 37.751.071/0001-36, Rua Jequitibá 1608, Parque América)"
+    "context": "bar e adega comércio atacadista de bebidas (CNPJ 37.751.071/0001-36, Rua Jequitibá 1608, Parque América)",
+    "emailVerified": true,
+    "emailVerifiedAt": "2026-09-16",
+    "emailSource": "https://guiapj.com.br/consulta-cnpj"
   },
   {
     "name": "Vino Pinheiros",
     "email": "flavio.miyamura@gmail.com",
     "neighborhood": "Pinheiros",
-    "type": "restaurant",
+    "type": "restaurante",
     "website": "",
-    "context": "wine bar e restaurante em Pinheiros, Rua Fradique Coutinho 47 (CNPJ 29.315.823/0001-98, filial Vino Mak Bela Vista)"
+    "context": "wine bar e restaurante em Pinheiros, Rua Fradique Coutinho 47 (CNPJ 29.315.823/0001-98, filial Vino Mak Bela Vista)",
+    "emailVerified": true,
+    "emailVerifiedAt": "2026-09-16",
+    "emailSource": "https://guiapj.com.br/consulta-cnpj"
   },
   {
     "name": "Adega Vila Sao Francisco",
@@ -40232,7 +40292,10 @@
     "neighborhood": "Vila São Francisco",
     "type": "adega",
     "website": "",
-    "context": "comercio varejista de bebidas (CNPJ 36.571.403/0001-38, F V de Matos Junior, Rua Hermenegildo Gois Parente 738, Zona Leste)"
+    "context": "comercio varejista de bebidas (CNPJ 36.571.403/0001-38, F V de Matos Junior, Rua Hermenegildo Gois Parente 738, Zona Leste)",
+    "emailVerified": true,
+    "emailVerifiedAt": "2026-09-16",
+    "emailSource": "https://guiapj.com.br/consulta-cnpj"
   },
   {
     "name": "Empório dos Vinhos Tatuapé",
