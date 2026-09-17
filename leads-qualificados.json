@@ -42042,5 +42042,35 @@
     "emailVerified": true,
     "emailSource": "https://casadosdados.com.br/solucao/cnpj/imperium-group-bar-ltda-58172153000104",
     "emailVerifiedAt": "2026-09-17"
+  },
+  {
+    "name": "Bar dos Drinks",
+    "email": "bardosdrinks@gmail.com",
+    "neighborhood": "Jardim Santa Cruz",
+    "type": "bar",
+    "website": "",
+    "context": "Bar dos Drinks em Sao Paulo (Avenida Masao Watanabe 815, Box 1, Jardim Santa Cruz - zona Norte), CNPJ 62.134.805/0001-85, ativo, aberto em 08/08/2025. CNAE 5611204 (bar sem entretenimento). Contato (11) 7036-8074.",
+    "date1": "2026-09-17",
+    "email1": false,
+    "email2": false,
+    "email3": false,
+    "emailVerified": true,
+    "emailSource": "https://mestregeo.com.br/cnpj/sp/sao-paulo/bar-dos-drinks-62134805000185",
+    "emailVerifiedAt": "2026-09-17"
+  },
+  {
+    "name": "Coquetel Bar Ltda",
+    "email": "nelsinho-soares@hotmail.com",
+    "neighborhood": "Bras",
+    "type": "bar",
+    "website": "",
+    "context": "Coquetel Bar Ltda em Sao Paulo (Rua Joao Teodoro 168, sobreloja, Bras), CNPJ 33.549.255/0001-67, ativo, aberto em 07/05/2019. CNAE 5611203 (lanchonete). Email corporativo do estabelecimento.",
+    "date1": "2026-09-17",
+    "email1": false,
+    "email2": false,
+    "email3": false,
+    "emailVerified": true,
+    "emailSource": "https://juridicoonline.com.br/empresa/33549255000167-coquetel-bar-ltda",
+    "emailVerifiedAt": "2026-09-17"
   }
 ]
