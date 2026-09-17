@@ -37073,7 +37073,9 @@
     "emailSource": "https://web.santoandre.sp.gov.br/guia-de-servicos",
     "emailVerifiedAt": "2026-09-16",
     "mxVerified": true,
-    "mxVerifiedAt": "2026-09-08"
+    "mxVerifiedAt": "2026-09-08",
+    "email1": true,
+    "date1": "2026-09-17"
   },
   {
     "name": "Restaurante Confraria do Cambuci",
@@ -40119,7 +40121,9 @@
     "context": "distribuidora de bebidas (CNPJ 49.090.801/0001-84, Rua Vitor Eugenio Lippo 59)",
     "emailVerified": true,
     "emailVerifiedAt": "2026-09-16",
-    "emailSource": "https://guiapj.com.br/consulta-cnpj"
+    "emailSource": "https://guiapj.com.br/consulta-cnpj",
+    "email1": true,
+    "date1": "2026-09-17"
   },
   {
     "name": "Adega JL",
@@ -40130,7 +40134,9 @@
     "context": "comércio varejista de bebidas (CNPJ 67.655.419/0001-52, Rua Lazaro Claudio de Oliveira 58)",
     "emailVerified": true,
     "emailVerifiedAt": "2026-09-16",
-    "emailSource": "https://guiapj.com.br/consulta-cnpj"
+    "emailSource": "https://guiapj.com.br/consulta-cnpj",
+    "email1": true,
+    "date1": "2026-09-17"
   },
   {
     "name": "Alfandega Restaurante",
@@ -40262,7 +40268,9 @@
     "context": "adega familiar no Brooklin (Vila Cordeiro), Rua Pascoal Pais 29, atende Itaim Bibi (site adegabrooklin.com.br)",
     "emailVerified": true,
     "emailVerifiedAt": "2026-09-16",
-    "emailSource": "https://guiapj.com.br/consulta-cnpj"
+    "emailSource": "https://guiapj.com.br/consulta-cnpj",
+    "email1": true,
+    "date1": "2026-09-17"
   },
   {
     "name": "Sampaio Bar e Adega",
