@@ -41978,5 +41978,35 @@
     "emailVerified": true,
     "emailSource": "https://maiscnpj.com.br/cnpj/63113097000169-bar-e-restaurante-do-chaves-ltda",
     "emailVerifiedAt": "2026-09-16"
+  },
+  {
+    "name": "Gomo Pinheiros Bar e Restaurante",
+    "email": "eduardo@bench.com.br",
+    "neighborhood": "Pinheiros",
+    "type": "bar",
+    "website": "",
+    "context": "Gomo Pinheiros Bar e Restaurante em Sao Paulo (Rua Sumidouro 138, Pinheiros), CNPJ 55.061.910/0001-76, aberto 09/05/2024, capital R$ 30.000. CNAEs 5611203, 5611201 e 5611204 (bar/restaurante).",
+    "date1": "2026-09-16",
+    "email1": false,
+    "email2": false,
+    "email3": false,
+    "emailVerified": true,
+    "emailSource": "https://casadosdados.com.br/solucao/cnpj/gomo-pinheiros-bar-e-restaurante-ltda-55061910000176",
+    "emailVerifiedAt": "2026-09-16"
+  },
+  {
+    "name": "Franco Gastro Bar",
+    "email": "francogastrobar200524@gmail.com",
+    "neighborhood": "Jardim Analia Franco",
+    "type": "bar",
+    "website": "",
+    "context": "Franco Gastro Bar em Sao Paulo (Rua Francisco Zicardi 539, Jardim Analia Franco), CNPJ 55.192.435/0001-77, aberto 20/05/2024, capital R$ 350.000. CNAEs 5611201, 5611204 (restaurante/bar) + tabacaria e delivery.",
+    "date1": "2026-09-16",
+    "email1": false,
+    "email2": false,
+    "email3": false,
+    "emailVerified": true,
+    "emailSource": "https://casadosdados.com.br/solucao/cnpj/franco-gastro-bar-ltda-55192435000177",
+    "emailVerifiedAt": "2026-09-16"
   }
 ]
