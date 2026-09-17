@@ -988,5 +988,99 @@
     "phone": "(11) 95858-5558",
     "source": "https://www.baressp.com.br/bares/vesuvio-beer-e-burger",
     "messageId": "3EB0E4CE0369AC908F988A"
+  },
+  {
+    "date": "2026-09-17",
+    "checkedAt": "2026-09-17T17:03:05.872Z",
+    "status": "not_on_whatsapp",
+    "name": "Sampa Adega",
+    "phone": "(11) 98402-3929",
+    "source": "https://www.sampaadega.com.br/"
+  },
+  {
+    "date": "2026-09-17",
+    "checkedAt": "2026-09-17T17:03:05.893Z",
+    "status": "not_on_whatsapp",
+    "name": "Adega Frimar",
+    "phone": "(11) 5219-3878",
+    "source": "https://mycelium.lat/"
+  },
+  {
+    "date": "2026-09-17",
+    "checkedAt": "2026-09-17T17:03:05.912Z",
+    "status": "not_on_whatsapp",
+    "name": "Sphera Lounge",
+    "phone": "(11) 97636-3908",
+    "source": "https://www.spheralounge.com.br/"
+  },
+  {
+    "date": "2026-09-17",
+    "checkedAt": "2026-09-17T17:03:05.933Z",
+    "status": "not_on_whatsapp",
+    "name": "Dentro Bar",
+    "phone": "(11) 94998-2925",
+    "source": "https://www.baressp.com.br/bares/dentro-bar"
+  },
+  {
+    "date": "2026-09-17",
+    "checkedAt": "2026-09-17T17:03:06.022Z",
+    "status": "not_on_whatsapp",
+    "name": "No Ponto Espeto & Bar",
+    "phone": "(11) 99011-3879",
+    "source": "https://baressp.com.br/bares/no-ponto-espeto-e-bar"
+  },
+  {
+    "date": "2026-09-17",
+    "acceptedAt": "2026-09-17T17:03:06.458Z",
+    "status": "accepted",
+    "name": "Rainha Vila Madalena",
+    "phone": "(11) 91292-1965",
+    "source": "https://www.baressp.com.br/bares/rainha-vila-madalena",
+    "messageId": "3EB0E724E35E8F155DFA83"
+  },
+  {
+    "date": "2026-09-17",
+    "acceptedAt": "2026-09-17T17:03:11.678Z",
+    "status": "accepted",
+    "name": "Bar do Ale",
+    "phone": "(11) 94739-5209",
+    "source": "https://www.baressp.com.br/bares/bar-do-ale",
+    "messageId": "3EB0D9D50FA9EE0BE9F6BE"
+  },
+  {
+    "date": "2026-09-17",
+    "acceptedAt": "2026-09-17T17:03:17.476Z",
+    "status": "accepted",
+    "name": "Steel Bar SP",
+    "phone": "(11) 98193-9970",
+    "source": "https://baressp.com.br/bares/steel-bar-sp",
+    "messageId": "3EB03ECFEA8CB844BD7066"
+  },
+  {
+    "date": "2026-09-17",
+    "acceptedAt": "2026-09-17T17:03:22.658Z",
+    "status": "accepted",
+    "name": "Bar Espeto Na Brasa",
+    "phone": "(11) 96751-2789",
+    "source": "https://www.baressp.com.br/bares/bar-espeto-na-brasa",
+    "messageId": "3EB0AAC4E5BC21B6FFF19C"
+  },
+  {
+    "date": "2026-09-17",
+    "acceptedAt": "2026-09-17T17:03:27.760Z",
+    "status": "accepted",
+    "name": "Altar Cozinha Afro Pop Ancestral",
+    "phone": "(81) 98744-0112",
+    "source": "https://www.baressp.com.br/bares/altar-cozinha-afro-pop-ancestral",
+    "messageId": "3EB0CF3DB5BF2E2CADB5E1"
+  },
+  {
+    "date": "2026-09-17",
+    "acceptedAt": "2026-09-17T17:03:32.972Z",
+    "status": "accepted",
+    "name": "Vinicola Urbana",
+    "phone": "(11) 98167-9556",
+    "source": "https://www.baressp.com.br/bares/vinicola-urbana",
+    "messageId": "3EB085DA673EA6A326BF8F"
   }
 ]
