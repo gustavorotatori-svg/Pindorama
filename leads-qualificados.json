@@ -41870,5 +41870,20 @@
     "emailVerified": true,
     "emailSource": "https://maiscnpj.com.br/cnpj/17865088000107",
     "emailVerifiedAt": "2026-09-16"
+  },
+  {
+    "name": "Itu Distribuidora de Bebidas",
+    "email": "contato@idealitu.com.br",
+    "neighborhood": "Jardim Aeroporto",
+    "type": "distribuidora",
+    "website": "",
+    "context": "Itu Distribuidora de Bebidas Varejo em Itu (Jardim Aeroporto), CNPJ 61.284.186/0001-42, ativa desde 12/06/2025, capital R$ 15.000. CNAE principal 4723700 (varejo de bebidas). Endereco: Avenida Senador Teotonio Vilela 71, galpao 6.",
+    "date1": "2026-09-16",
+    "email1": false,
+    "email2": false,
+    "email3": false,
+    "emailVerified": true,
+    "emailSource": "https://casadosdados.com.br/solucao/cnpj/itu-distribuidora-de-bebidas-varejo-ltda-61284186000142",
+    "emailVerifiedAt": "2026-09-16"
   }
 ]
