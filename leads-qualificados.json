@@ -41536,7 +41536,10 @@
     "email3": false,
     "emailVerified": true,
     "emailSource": "https://www.diariocidade.com/sp/sao-paulo/guia/adega-e-distribuidora-bento-guelfi-31654096000135/",
-    "emailVerifiedAt": "2026-09-15"
+    "emailVerifiedAt": "2026-09-15",
+    "doNotContact": true,
+    "bounced": true,
+    "bounceDate": "2026-09-17"
   },
   {
     "name": "Vieira Adega e Distribuidora de Bebidas",
