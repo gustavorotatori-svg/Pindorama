@@ -40246,7 +40246,9 @@
     "context": "bar especializado em bebidas (CNPJ 17.411.872/0001-45, Rua Sao Pedro 30, Jd Sao Judas Tadeu, Salto)",
     "emailVerified": true,
     "emailVerifiedAt": "2026-09-16",
-    "emailSource": "https://guiapj.com.br/consulta-cnpj"
+    "emailSource": "https://guiapj.com.br/consulta-cnpj",
+    "email1": true,
+    "date1": "2026-09-17"
   },
   {
     "name": "Vista Jardins Bar e Restaurante",
@@ -40303,7 +40305,9 @@
     "context": "comercio varejista de bebidas (CNPJ 36.571.403/0001-38, F V de Matos Junior, Rua Hermenegildo Gois Parente 738, Zona Leste)",
     "emailVerified": true,
     "emailVerifiedAt": "2026-09-16",
-    "emailSource": "https://guiapj.com.br/consulta-cnpj"
+    "emailSource": "https://guiapj.com.br/consulta-cnpj",
+    "email1": true,
+    "date1": "2026-09-17"
   },
   {
     "name": "Empório dos Vinhos Tatuapé",
@@ -41821,8 +41825,8 @@
     "type": "adega",
     "website": "",
     "context": "Adega Velber (fantasia Terraco das Bebidas) na Vila dos Remedios, SP, CNPJ 57.978.508/0001-86, ativa. CNAE principal 4723700 (varejo de bebidas). Endereco: Rua Antonio Ayrosa, CEP 05103-000.",
-    "date1": "2026-09-16",
-    "email1": false,
+    "date1": "2026-09-17",
+    "email1": true,
     "email2": false,
     "email3": false,
     "emailVerified": true,
