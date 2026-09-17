@@ -42008,5 +42008,35 @@
     "emailVerified": true,
     "emailSource": "https://casadosdados.com.br/solucao/cnpj/franco-gastro-bar-ltda-55192435000177",
     "emailVerifiedAt": "2026-09-16"
+  },
+  {
+    "name": "Caetanos Bar",
+    "email": "aeroporto@caetanosbar.com.br",
+    "neighborhood": "Campo Belo",
+    "type": "bar",
+    "website": "",
+    "context": "Caetanos Bar em Sao Paulo (Rua Vieira de Morais 1857, Campo Belo - unidade Zona Sul; ZN em Av. Eng. Caetano Alvares 5496, Mandaqui), CNPJ 48.498.178/0001-30, ativo. CNAE 5611203. Carta autoral de drinks assinada por Marco De La Roche, mais de 40 rotulos e cachaças premiadas. Contato via site caetanosbar.com.br.",
+    "date1": "2026-09-17",
+    "email1": false,
+    "email2": false,
+    "email3": false,
+    "emailVerified": true,
+    "emailSource": "https://casadosdados.com.br/solucao/cnpj/caetanos-bar-ltda-48498178000130",
+    "emailVerifiedAt": "2026-09-17"
+  },
+  {
+    "name": "Imperium Group Bar",
+    "email": "imperium_group@gmail.com",
+    "neighborhood": "Itaim Bibi",
+    "type": "bar",
+    "website": "",
+    "context": "Imperium Group Bar em Sao Paulo (Rua Tabaqua, Itaim Bibi), CNPJ 58.172.153/0001-04, ativo. CNAE principal 5611205 (bar com entretenimento) e secundario 5611201 (restaurante).",
+    "date1": "2026-09-17",
+    "email1": false,
+    "email2": false,
+    "email3": false,
+    "emailVerified": true,
+    "emailSource": "https://casadosdados.com.br/solucao/cnpj/imperium-group-bar-ltda-58172153000104",
+    "emailVerifiedAt": "2026-09-17"
   }
 ]
