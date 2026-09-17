@@ -39031,7 +39031,9 @@
     "email1": true,
     "date1": "2026-09-05",
     "email2": true,
-    "date2": "2026-09-13"
+    "date2": "2026-09-13",
+    "email3": true,
+    "date3": "2026-09-16"
   },
   {
     "name": "Adega Ultimo Gole",
@@ -39048,7 +39050,9 @@
     "email1": true,
     "date1": "2026-09-05",
     "email2": true,
-    "date2": "2026-09-13"
+    "date2": "2026-09-13",
+    "email3": true,
+    "date3": "2026-09-16"
   },
   {
     "name": "Adega Ice Beer",
@@ -39084,7 +39088,9 @@
     "email1": true,
     "date1": "2026-09-05",
     "email2": true,
-    "date2": "2026-09-13"
+    "date2": "2026-09-13",
+    "email3": true,
+    "date3": "2026-09-16"
   },
   {
     "name": "Adega e Distribuidora Nevada",
@@ -39104,7 +39110,9 @@
     "email1": true,
     "date1": "2026-09-06",
     "email2": true,
-    "date2": "2026-09-13"
+    "date2": "2026-09-13",
+    "email3": true,
+    "date3": "2026-09-16"
   },
   {
     "name": "Adega Flex",
@@ -39124,7 +39132,9 @@
     "email1": true,
     "date1": "2026-09-06",
     "email2": true,
-    "date2": "2026-09-13"
+    "date2": "2026-09-13",
+    "email3": true,
+    "date3": "2026-09-16"
   },
   {
     "name": "Adega de Bebidas Pai e Filho",
@@ -39144,7 +39154,9 @@
     "email1": true,
     "date1": "2026-09-06",
     "email2": true,
-    "date2": "2026-09-13"
+    "date2": "2026-09-13",
+    "email3": true,
+    "date3": "2026-09-16"
   },
   {
     "name": "Adega da Vila",
@@ -39164,7 +39176,9 @@
     "email1": true,
     "date1": "2026-09-06",
     "email2": true,
-    "date2": "2026-09-13"
+    "date2": "2026-09-13",
+    "email3": true,
+    "date3": "2026-09-16"
   },
   {
     "name": "Adega Isabella",
@@ -39184,7 +39198,9 @@
     "email1": true,
     "date1": "2026-09-06",
     "email2": true,
-    "date2": "2026-09-13"
+    "date2": "2026-09-13",
+    "email3": true,
+    "date3": "2026-09-16"
   },
   {
     "name": "Adega do Paje",
@@ -39225,7 +39241,9 @@
     "email1": true,
     "date1": "2026-09-06",
     "email2": true,
-    "date2": "2026-09-13"
+    "date2": "2026-09-13",
+    "email3": true,
+    "date3": "2026-09-16"
   },
   {
     "name": "Adega Dcharlys",
@@ -39245,7 +39263,9 @@
     "email1": true,
     "date1": "2026-09-06",
     "email2": true,
-    "date2": "2026-09-13"
+    "date2": "2026-09-13",
+    "email3": true,
+    "date3": "2026-09-16"
   },
   {
     "name": "Adega Distribuidora Stop",
@@ -39265,7 +39285,9 @@
     "email1": true,
     "date1": "2026-09-06",
     "email2": true,
-    "date2": "2026-09-13"
+    "date2": "2026-09-13",
+    "email3": true,
+    "date3": "2026-09-16"
   },
   {
     "name": "Adega TMJ (Bar e Adega TMJ Comercio de Bebidas)",
@@ -39282,7 +39304,9 @@
     "email1": true,
     "date1": "2026-09-08",
     "email2": true,
-    "date2": "2026-09-13"
+    "date2": "2026-09-13",
+    "email3": true,
+    "date3": "2026-09-16"
   },
   {
     "name": "Adega Mendes (Adega e Mercearia Mendes)",
@@ -39299,7 +39323,9 @@
     "email1": true,
     "date1": "2026-09-08",
     "email2": true,
-    "date2": "2026-09-13"
+    "date2": "2026-09-13",
+    "email3": true,
+    "date3": "2026-09-16"
   },
   {
     "name": "Adega Sao Lucas (Temos Tudo Comercio de Bebidas)",
@@ -39316,7 +39342,9 @@
     "email1": true,
     "date1": "2026-09-08",
     "email2": true,
-    "date2": "2026-09-13"
+    "date2": "2026-09-13",
+    "email3": true,
+    "date3": "2026-09-16"
   },
   {
     "name": "SV Adega e Bar Sem Saida",
@@ -39333,7 +39361,9 @@
     "email1": true,
     "date1": "2026-09-08",
     "email2": true,
-    "date2": "2026-09-13"
+    "date2": "2026-09-13",
+    "email3": true,
+    "date3": "2026-09-16"
   },
   {
     "name": "Adega Do Boy",
@@ -39350,7 +39380,9 @@
     "email1": true,
     "date1": "2026-09-08",
     "email2": true,
-    "date2": "2026-09-13"
+    "date2": "2026-09-13",
+    "email3": true,
+    "date3": "2026-09-16"
   },
   {
     "name": "Adega e Distribuidora R4 Band",
@@ -39385,7 +39417,9 @@
     "email1": true,
     "date1": "2026-09-08",
     "email2": true,
-    "date2": "2026-09-13"
+    "date2": "2026-09-13",
+    "email3": true,
+    "date3": "2026-09-16"
   },
   {
     "name": "Bar do Alemao Jundiai",
@@ -39402,7 +39436,9 @@
     "email1": true,
     "date1": "2026-09-08",
     "email2": true,
-    "date2": "2026-09-13"
+    "date2": "2026-09-13",
+    "email3": true,
+    "date3": "2026-09-16"
   },
   {
     "name": "Verace Cantina",
@@ -39419,7 +39455,9 @@
     "email1": true,
     "date1": "2026-09-08",
     "email2": true,
-    "date2": "2026-09-13"
+    "date2": "2026-09-13",
+    "email3": true,
+    "date3": "2026-09-16"
   },
   {
     "name": "Adega Dias (Erisberto Comercio de Bebidas)",
