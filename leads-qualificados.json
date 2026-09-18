@@ -42078,7 +42078,10 @@
     "email3": false,
     "emailVerified": true,
     "emailSource": "https://mestregeo.com.br/cnpj/sp/sao-paulo/bar-dos-drinks-62134805000185",
-    "emailVerifiedAt": "2026-09-17"
+    "emailVerifiedAt": "2026-09-17",
+    "doNotContact": true,
+    "bounced": true,
+    "bounceDate": "2026-09-18"
   },
   {
     "name": "Coquetel Bar Ltda",
