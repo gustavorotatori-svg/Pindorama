@@ -39856,7 +39856,9 @@
     "email1": true,
     "date1": "2026-09-11",
     "email2": true,
-    "date2": "2026-09-14"
+    "date2": "2026-09-14",
+    "email3": true,
+    "date3": "2026-09-18"
   },
   {
     "name": "Adega Inova",
@@ -39874,7 +39876,9 @@
     "email1": true,
     "date1": "2026-09-11",
     "email2": true,
-    "date2": "2026-09-14"
+    "date2": "2026-09-14",
+    "email3": true,
+    "date3": "2026-09-18"
   },
   {
     "name": "Adega e Conveniencia 471",
@@ -39892,7 +39896,9 @@
     "email1": true,
     "date1": "2026-09-11",
     "email2": true,
-    "date2": "2026-09-14"
+    "date2": "2026-09-14",
+    "email3": true,
+    "date3": "2026-09-18"
   },
   {
     "name": "Adega 247",
@@ -39910,7 +39916,9 @@
     "email1": true,
     "date1": "2026-09-11",
     "email2": true,
-    "date2": "2026-09-14"
+    "date2": "2026-09-14",
+    "email3": true,
+    "date3": "2026-09-18"
   },
   {
     "name": "Tomate Distribuidora de Bebidas",
