@@ -41937,7 +41937,10 @@
     "email3": false,
     "emailVerified": true,
     "emailSource": "https://casadosdados.com.br/solucao/cnpj/es-bar-e-drinks-comercio-ltda-66671540000105",
-    "emailVerifiedAt": "2026-09-16"
+    "emailVerifiedAt": "2026-09-16",
+    "doNotContact": true,
+    "bounced": true,
+    "bounceDate": "2026-09-17"
   },
   {
     "name": "Copenhague Bar Drinks",
@@ -42057,7 +42060,10 @@
     "email3": false,
     "emailVerified": true,
     "emailSource": "https://casadosdados.com.br/solucao/cnpj/imperium-group-bar-ltda-58172153000104",
-    "emailVerifiedAt": "2026-09-17"
+    "emailVerifiedAt": "2026-09-17",
+    "doNotContact": true,
+    "bounced": true,
+    "bounceDate": "2026-09-17"
   },
   {
     "name": "Bar dos Drinks",
