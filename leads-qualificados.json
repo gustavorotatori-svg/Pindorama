@@ -40137,7 +40137,10 @@
     "emailVerifiedAt": "2026-09-16",
     "emailSource": "https://guiapj.com.br/consulta-cnpj",
     "email1": true,
-    "date1": "2026-09-17"
+    "date1": "2026-09-17",
+    "doNotContact": true,
+    "bounced": true,
+    "bounceDate": "2026-09-18"
   },
   {
     "name": "Adega JL",
