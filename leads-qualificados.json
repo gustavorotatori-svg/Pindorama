@@ -42094,5 +42094,35 @@
     "emailVerified": true,
     "emailSource": "https://juridicoonline.com.br/empresa/33549255000167-coquetel-bar-ltda",
     "emailVerifiedAt": "2026-09-17"
+  },
+  {
+    "name": "Bar e Adega Vermelho Ltda",
+    "email": "rodrigoreisdesouza@gmail.com",
+    "neighborhood": "Consolacao",
+    "type": "bar",
+    "website": "",
+    "context": "Bar e Adega Vermelho em Sao Paulo (Consolacao), CNPJ 65.914.066/0001-32, ativo. CNAE principal 5611203 (lanchonete) e secundario 4723700 (comercio varejista de bebidas). Contato (11) 33715498.",
+    "date1": "2026-09-17",
+    "email1": false,
+    "email2": false,
+    "email3": false,
+    "emailVerified": true,
+    "emailSource": "https://casadosdados.com.br/solucao/cnpj/bar-e-adega-vermelho-ltda-65914066000132",
+    "emailVerifiedAt": "2026-09-17"
+  },
+  {
+    "name": "Emporio Adega Global Ltda",
+    "email": "emporioglobal04@gmail.com",
+    "neighborhood": "Jardim Umarizal",
+    "type": "emporio",
+    "website": "",
+    "context": "Emporio Adega Global em Sao Paulo (Jardim Umarizal, Avenida Anace 646, CEP 05755-090), CNPJ 63.012.885/0001-69, ativa desde 02/10/2025. CNAE principal 4712100 (mercearia/minimercado) e secundario 4723700 (comercio varejista de bebidas). Contato (11) 14081872.",
+    "date1": "2026-09-17",
+    "email1": false,
+    "email2": false,
+    "email3": false,
+    "emailVerified": true,
+    "emailSource": "https://casadosdados.com.br/solucao/cnpj/emporio-adega-global-ltda-63012885000169",
+    "emailVerifiedAt": "2026-09-17"
   }
 ]
