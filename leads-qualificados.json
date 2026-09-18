@@ -39796,7 +39796,9 @@
     "email1": true,
     "date1": "2026-09-11",
     "email2": true,
-    "date2": "2026-09-14"
+    "date2": "2026-09-14",
+    "email3": true,
+    "date3": "2026-09-17"
   },
   {
     "name": "AL da Concepcao Adega",
@@ -39814,7 +39816,9 @@
     "email1": true,
     "date1": "2026-09-11",
     "email2": true,
-    "date2": "2026-09-14"
+    "date2": "2026-09-14",
+    "email3": true,
+    "date3": "2026-09-17"
   },
   {
     "name": "Adega Do Man",
@@ -39832,7 +39836,9 @@
     "email1": true,
     "date1": "2026-09-11",
     "email2": true,
-    "date2": "2026-09-14"
+    "date2": "2026-09-14",
+    "email3": true,
+    "date3": "2026-09-17"
   },
   {
     "name": "Adega da Viela Guarulhos",
@@ -40077,7 +40083,9 @@
     "context": "restaurante tradicional de bacalhau, adega de vinhos e bebidas no Itaim Bibi (CNPJ 35.359.971/0001-07)",
     "emailVerified": true,
     "emailVerifiedAt": "2026-09-16",
-    "emailSource": "https://guiapj.com.br/consulta-cnpj"
+    "emailSource": "https://guiapj.com.br/consulta-cnpj",
+    "email1": true,
+    "date1": "2026-09-17"
   },
   {
     "name": "Dinamite Itaim Choperia",
@@ -40153,7 +40161,9 @@
     "context": "restaurante e bar em Campo Belo (CNPJ 18.436.788/0001-49, Rua Republica do Iraque 1347)",
     "emailVerified": true,
     "emailVerifiedAt": "2026-09-16",
-    "emailSource": "https://guiapj.com.br/consulta-cnpj"
+    "emailSource": "https://guiapj.com.br/consulta-cnpj",
+    "email1": true,
+    "date1": "2026-09-17"
   },
   {
     "name": "Restaurante Sultao Campo Belo",
@@ -40164,7 +40174,9 @@
     "context": "restaurante arábico em Campo Belo (CNPJ 35.435.177/0001-03, Rua Demostenes 920)",
     "emailVerified": true,
     "emailVerifiedAt": "2026-09-16",
-    "emailSource": "https://guiapj.com.br/consulta-cnpj"
+    "emailSource": "https://guiapj.com.br/consulta-cnpj",
+    "email1": true,
+    "date1": "2026-09-17"
   },
   {
     "name": "CBL Campo Belo Restaurante",
@@ -40175,7 +40187,9 @@
     "context": "restaurante em Campo Belo (CNPJ 65.740.628/0001-79, Rua Zacarias de Gois 1224, aberto 03/2026)",
     "emailVerified": true,
     "emailVerifiedAt": "2026-09-16",
-    "emailSource": "https://guiapj.com.br/consulta-cnpj"
+    "emailSource": "https://guiapj.com.br/consulta-cnpj",
+    "email1": true,
+    "date1": "2026-09-17"
   },
   {
     "name": "Santorini Bar",
@@ -40212,7 +40226,9 @@
     "context": "restaurante (cozinha japonesa) em Vila Nova Conceição, Rua Bueno Brandao 80 (CNPJ 28.189.196/0001-23)",
     "emailVerified": true,
     "emailVerifiedAt": "2026-09-16",
-    "emailSource": "https://guiapj.com.br/consulta-cnpj"
+    "emailSource": "https://guiapj.com.br/consulta-cnpj",
+    "email1": true,
+    "date1": "2026-09-17"
   },
   {
     "name": "Bar e Botequim Moema",
@@ -40249,7 +40265,9 @@
     "context": "lanchonete bar e temakeria em Moema (CNPJ 21.722.744/0001-90)",
     "emailVerified": true,
     "emailVerifiedAt": "2026-09-16",
-    "emailSource": "https://guiapj.com.br/consulta-cnpj"
+    "emailSource": "https://guiapj.com.br/consulta-cnpj",
+    "email1": true,
+    "date1": "2026-09-17"
   },
   {
     "name": "Adega e Bar Salto",
@@ -40273,7 +40291,9 @@
     "context": "restaurante e bar em Cerqueira César, Rua Haddock Lobo 1626 (CNPJ 49.869.460/0001-40, grupo Vista Sao Paulo)",
     "emailVerified": true,
     "emailVerifiedAt": "2026-09-16",
-    "emailSource": "https://guiapj.com.br/consulta-cnpj"
+    "emailSource": "https://guiapj.com.br/consulta-cnpj",
+    "email1": true,
+    "date1": "2026-09-17"
   },
   {
     "name": "Adega Brooklin",
@@ -40310,7 +40330,9 @@
     "context": "wine bar e restaurante em Pinheiros, Rua Fradique Coutinho 47 (CNPJ 29.315.823/0001-98, filial Vino Mak Bela Vista)",
     "emailVerified": true,
     "emailVerifiedAt": "2026-09-16",
-    "emailSource": "https://guiapj.com.br/consulta-cnpj"
+    "emailSource": "https://guiapj.com.br/consulta-cnpj",
+    "email1": true,
+    "date1": "2026-09-17"
   },
   {
     "name": "Adega Vila Sao Francisco",
@@ -42073,7 +42095,7 @@
     "website": "",
     "context": "Bar dos Drinks em Sao Paulo (Avenida Masao Watanabe 815, Box 1, Jardim Santa Cruz - zona Norte), CNPJ 62.134.805/0001-85, ativo, aberto em 08/08/2025. CNAE 5611204 (bar sem entretenimento). Contato (11) 7036-8074.",
     "date1": "2026-09-17",
-    "email1": false,
+    "email1": true,
     "email2": false,
     "email3": false,
     "emailVerified": true,
@@ -42088,7 +42110,7 @@
     "website": "",
     "context": "Coquetel Bar Ltda em Sao Paulo (Rua Joao Teodoro 168, sobreloja, Bras), CNPJ 33.549.255/0001-67, ativo, aberto em 07/05/2019. CNAE 5611203 (lanchonete). Email corporativo do estabelecimento.",
     "date1": "2026-09-17",
-    "email1": false,
+    "email1": true,
     "email2": false,
     "email3": false,
     "emailVerified": true,
@@ -42103,7 +42125,7 @@
     "website": "",
     "context": "Bar e Adega Vermelho em Sao Paulo (Consolacao), CNPJ 65.914.066/0001-32, ativo. CNAE principal 5611203 (lanchonete) e secundario 4723700 (comercio varejista de bebidas). Contato (11) 33715498.",
     "date1": "2026-09-17",
-    "email1": false,
+    "email1": true,
     "email2": false,
     "email3": false,
     "emailVerified": true,
@@ -42118,7 +42140,7 @@
     "website": "",
     "context": "Emporio Adega Global em Sao Paulo (Jardim Umarizal, Avenida Anace 646, CEP 05755-090), CNPJ 63.012.885/0001-69, ativa desde 02/10/2025. CNAE principal 4712100 (mercearia/minimercado) e secundario 4723700 (comercio varejista de bebidas). Contato (11) 14081872.",
     "date1": "2026-09-17",
-    "email1": false,
+    "email1": true,
     "email2": false,
     "email3": false,
     "emailVerified": true,
