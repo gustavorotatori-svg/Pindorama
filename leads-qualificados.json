@@ -42367,5 +42367,35 @@
     "emailVerified": true,
     "emailSource": "https://cnpjgo.com.br/cnpj/68948793000109",
     "emailVerifiedAt": "2026-09-18"
+  },
+  {
+    "name": "Bar e Adega Altas Horas",
+    "email": "maiconjacson84@gmail.com",
+    "neighborhood": "Vila Campanela",
+    "type": "bar",
+    "website": "",
+    "context": "CNAE 4729699+5611204 - bar/adega em SP Capital (Vila Campanela)",
+    "date1": "2026-09-18",
+    "email1": false,
+    "email2": false,
+    "email3": false,
+    "emailVerified": true,
+    "emailSource": "https://mestregeo.com.br/cnpj/sp/sao-paulo/bar-e-adega-altas-horas-52570548000170",
+    "emailVerifiedAt": "2026-09-18"
+  },
+  {
+    "name": "Distribuidora Adega Tapajo",
+    "email": "orglima@uol.com.br",
+    "neighborhood": "Jardim Barbosa",
+    "type": "distribuidora",
+    "website": "barrancoepires.com.br",
+    "context": "CNAE 5611204 - bar/adega em Guarulhos (matriz ativa)",
+    "date1": "2026-09-18",
+    "email1": false,
+    "email2": false,
+    "email3": false,
+    "emailVerified": true,
+    "emailSource": "https://guiapj.com.br/consulta-cnpj/55706841000100",
+    "emailVerifiedAt": "2026-09-18"
   }
 ]
