@@ -42397,5 +42397,35 @@
     "emailVerified": true,
     "emailSource": "https://guiapj.com.br/consulta-cnpj/55706841000100",
     "emailVerifiedAt": "2026-09-18"
+  },
+  {
+    "name": "Adega's Bar & Restaurante Ramos",
+    "email": "iogaramos1992@gmail.com",
+    "neighborhood": "Parque Novo Mundo",
+    "type": "bar",
+    "website": "",
+    "context": "CNAE 5611203 - bar/restaurante em SP Capital (Parque Novo Mundo), ativa ha 5 anos",
+    "date1": "2026-09-18",
+    "email1": false,
+    "email2": false,
+    "email3": false,
+    "emailVerified": true,
+    "emailSource": "https://juridicoonline.com.br/empresa/40441955000107-adega-ramos-bar-e-restaurante-ltda",
+    "emailVerifiedAt": "2026-09-18"
+  },
+  {
+    "name": "Nova Tiradentes Adega e Distribuidora",
+    "email": "lameuthaay@gmail.com",
+    "neighborhood": "Jardim Bom Clima",
+    "type": "distribuidora",
+    "website": "",
+    "context": "CNAE 4635499 - distribuidora de bebidas em Guarulhos",
+    "date1": "2026-09-18",
+    "email1": false,
+    "email2": false,
+    "email3": false,
+    "emailVerified": true,
+    "emailSource": "https://maiscnpj.com.br/cnpj/59350730000165-nova-tiradentes-adega-e-distribuidora-gru-ltda",
+    "emailVerifiedAt": "2026-09-18"
   }
 ]
