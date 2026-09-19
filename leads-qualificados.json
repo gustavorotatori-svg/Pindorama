@@ -42352,5 +42352,20 @@
     "emailVerified": true,
     "emailSource": "https://letsbeer.com.br",
     "emailVerifiedAt": "2026-09-18"
+  },
+  {
+    "name": "Gaivotas Bar / Pinheirinho Cerveja",
+    "email": "caleffi1207@gmail.com",
+    "neighborhood": "Pinheiros",
+    "type": "bar",
+    "website": "",
+    "context": "CNAE 5611203 - bar/lanchete em Pinheiros, SP Capital, ativa ha 20 anos",
+    "date1": "2026-09-18",
+    "email1": false,
+    "email2": false,
+    "email3": false,
+    "emailVerified": true,
+    "emailSource": "https://cnpjgo.com.br/cnpj/68948793000109",
+    "emailVerifiedAt": "2026-09-18"
   }
 ]
