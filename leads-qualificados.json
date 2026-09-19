@@ -42253,7 +42253,10 @@
     "email3": false,
     "emailVerified": true,
     "emailSource": "https://maiscnpj.com.br/cnpj/06338851000125-s-m-distribuidora-e-comercio-de-alimentos-ltda",
-    "emailVerifiedAt": "2026-09-18"
+    "emailVerifiedAt": "2026-09-18",
+    "doNotContact": true,
+    "bounced": true,
+    "bounceDate": "2026-09-18"
   },
   {
     "name": "E-Jr Distribuidora de Bebidas Ltda",
