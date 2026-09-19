@@ -42143,7 +42143,10 @@
     "email3": false,
     "emailVerified": true,
     "emailSource": "https://casadosdados.com.br/solucao/cnpj/elementar-bar-e-restaurante-ltda-61904176000162",
-    "emailVerifiedAt": "2026-09-18"
+    "emailVerifiedAt": "2026-09-18",
+    "doNotContact": true,
+    "bounced": true,
+    "bounceDate": "2026-09-18"
   },
   {
     "name": "Olho de Vidro Bar Ltda",
