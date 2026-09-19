@@ -37075,7 +37075,9 @@
     "mxVerified": true,
     "mxVerifiedAt": "2026-09-08",
     "email1": true,
-    "date1": "2026-09-17"
+    "date1": "2026-09-17",
+    "email2": true,
+    "date2": "2026-09-18"
   },
   {
     "name": "Restaurante Confraria do Cambuci",
@@ -39796,7 +39798,9 @@
     "email1": true,
     "date1": "2026-09-11",
     "email2": true,
-    "date2": "2026-09-14"
+    "date2": "2026-09-14",
+    "email3": true,
+    "date3": "2026-09-18"
   },
   {
     "name": "AL da Concepcao Adega",
@@ -39814,7 +39818,9 @@
     "email1": true,
     "date1": "2026-09-11",
     "email2": true,
-    "date2": "2026-09-14"
+    "date2": "2026-09-14",
+    "email3": true,
+    "date3": "2026-09-18"
   },
   {
     "name": "Adega Do Man",
@@ -39832,7 +39838,9 @@
     "email1": true,
     "date1": "2026-09-11",
     "email2": true,
-    "date2": "2026-09-14"
+    "date2": "2026-09-14",
+    "email3": true,
+    "date3": "2026-09-18"
   },
   {
     "name": "Adega da Viela Guarulhos",
@@ -39850,7 +39858,9 @@
     "email1": true,
     "date1": "2026-09-11",
     "email2": true,
-    "date2": "2026-09-14"
+    "date2": "2026-09-14",
+    "email3": true,
+    "date3": "2026-09-18"
   },
   {
     "name": "Adega Inova",
@@ -39868,7 +39878,9 @@
     "email1": true,
     "date1": "2026-09-11",
     "email2": true,
-    "date2": "2026-09-14"
+    "date2": "2026-09-14",
+    "email3": true,
+    "date3": "2026-09-18"
   },
   {
     "name": "Adega e Conveniencia 471",
@@ -39886,7 +39898,9 @@
     "email1": true,
     "date1": "2026-09-11",
     "email2": true,
-    "date2": "2026-09-14"
+    "date2": "2026-09-14",
+    "email3": true,
+    "date3": "2026-09-18"
   },
   {
     "name": "Adega 247",
@@ -39904,7 +39918,9 @@
     "email1": true,
     "date1": "2026-09-11",
     "email2": true,
-    "date2": "2026-09-14"
+    "date2": "2026-09-14",
+    "email3": true,
+    "date3": "2026-09-18"
   },
   {
     "name": "Tomate Distribuidora de Bebidas",
@@ -39922,7 +39938,9 @@
     "email1": true,
     "date1": "2026-09-11",
     "email2": true,
-    "date2": "2026-09-14"
+    "date2": "2026-09-14",
+    "email3": true,
+    "date3": "2026-09-18"
   },
   {
     "name": "JL Distribuidora e Adega",
@@ -39940,7 +39958,9 @@
     "email1": true,
     "date1": "2026-09-11",
     "email2": true,
-    "date2": "2026-09-14"
+    "date2": "2026-09-14",
+    "email3": true,
+    "date3": "2026-09-18"
   },
   {
     "name": "Adega Resenha",
@@ -39958,7 +39978,9 @@
     "email1": true,
     "date1": "2026-09-11",
     "email2": true,
-    "date2": "2026-09-14"
+    "date2": "2026-09-14",
+    "email3": true,
+    "date3": "2026-09-18"
   },
   {
     "name": "Adega Minas",
@@ -39976,7 +39998,9 @@
     "email1": true,
     "date1": "2026-09-11",
     "email2": true,
-    "date2": "2026-09-14"
+    "date2": "2026-09-14",
+    "email3": true,
+    "date3": "2026-09-18"
   },
   {
     "name": "Adega e Mercearia do Je",
@@ -39994,7 +40018,9 @@
     "email1": true,
     "date1": "2026-09-11",
     "email2": true,
-    "date2": "2026-09-14"
+    "date2": "2026-09-14",
+    "email3": true,
+    "date3": "2026-09-18"
   },
   {
     "name": "Adega Guimaraes",
@@ -40012,7 +40038,9 @@
     "email1": true,
     "date1": "2026-09-11",
     "email2": true,
-    "date2": "2026-09-14"
+    "date2": "2026-09-14",
+    "email3": true,
+    "date3": "2026-09-18"
   },
   {
     "name": "Adega Chapadao",
@@ -40030,7 +40058,9 @@
     "email1": true,
     "date1": "2026-09-11",
     "email2": true,
-    "date2": "2026-09-15"
+    "date2": "2026-09-15",
+    "email3": true,
+    "date3": "2026-09-18"
   },
   {
     "name": "Adega do Joca",
@@ -40048,7 +40078,9 @@
     "email1": true,
     "date1": "2026-09-11",
     "email2": true,
-    "date2": "2026-09-15"
+    "date2": "2026-09-15",
+    "email3": true,
+    "date3": "2026-09-18"
   },
   {
     "name": "Adega Leao",
@@ -40066,7 +40098,9 @@
     "email1": true,
     "date1": "2026-09-11",
     "email2": true,
-    "date2": "2026-09-15"
+    "date2": "2026-09-15",
+    "email3": true,
+    "date3": "2026-09-18"
   },
   {
     "name": "Restaurante Bacalhau e Vinho do Itaim",
@@ -40092,7 +40126,9 @@
     "emailVerifiedAt": "2026-09-16",
     "emailSource": "https://guiapj.com.br/consulta-cnpj",
     "email1": true,
-    "date1": "2026-09-17"
+    "date1": "2026-09-17",
+    "email2": true,
+    "date2": "2026-09-18"
   },
   {
     "name": "Dora Bar Itaim Bibi",
@@ -40105,7 +40141,9 @@
     "emailVerifiedAt": "2026-09-16",
     "emailSource": "https://guiapj.com.br/consulta-cnpj",
     "email1": true,
-    "date1": "2026-09-17"
+    "date1": "2026-09-17",
+    "email2": true,
+    "date2": "2026-09-18"
   },
   {
     "name": "Adega Bezerra",
@@ -40118,7 +40156,9 @@
     "emailVerifiedAt": "2026-09-16",
     "emailSource": "https://guiapj.com.br/consulta-cnpj",
     "email1": true,
-    "date1": "2026-09-17"
+    "date1": "2026-09-17",
+    "email2": true,
+    "date2": "2026-09-18"
   },
   {
     "name": "Adega DW",
@@ -40144,7 +40184,9 @@
     "emailVerifiedAt": "2026-09-16",
     "emailSource": "https://guiapj.com.br/consulta-cnpj",
     "email1": true,
-    "date1": "2026-09-17"
+    "date1": "2026-09-17",
+    "email2": true,
+    "date2": "2026-09-18"
   },
   {
     "name": "Alfandega Restaurante",
@@ -40155,7 +40197,9 @@
     "context": "restaurante e bar em Campo Belo (CNPJ 18.436.788/0001-49, Rua Republica do Iraque 1347)",
     "emailVerified": true,
     "emailVerifiedAt": "2026-09-16",
-    "emailSource": "https://guiapj.com.br/consulta-cnpj"
+    "emailSource": "https://guiapj.com.br/consulta-cnpj",
+    "email1": true,
+    "date1": "2026-09-18"
   },
   {
     "name": "Restaurante Sultao Campo Belo",
@@ -40166,7 +40210,9 @@
     "context": "restaurante ar├íbico em Campo Belo (CNPJ 35.435.177/0001-03, Rua Demostenes 920)",
     "emailVerified": true,
     "emailVerifiedAt": "2026-09-16",
-    "emailSource": "https://guiapj.com.br/consulta-cnpj"
+    "emailSource": "https://guiapj.com.br/consulta-cnpj",
+    "email1": true,
+    "date1": "2026-09-18"
   },
   {
     "name": "CBL Campo Belo Restaurante",
@@ -40177,7 +40223,9 @@
     "context": "restaurante em Campo Belo (CNPJ 65.740.628/0001-79, Rua Zacarias de Gois 1224, aberto 03/2026)",
     "emailVerified": true,
     "emailVerifiedAt": "2026-09-16",
-    "emailSource": "https://guiapj.com.br/consulta-cnpj"
+    "emailSource": "https://guiapj.com.br/consulta-cnpj",
+    "email1": true,
+    "date1": "2026-09-18"
   },
   {
     "name": "Santorini Bar",
@@ -40190,7 +40238,9 @@
     "emailVerifiedAt": "2026-09-16",
     "emailSource": "https://guiapj.com.br/consulta-cnpj",
     "email1": true,
-    "date1": "2026-09-17"
+    "date1": "2026-09-17",
+    "email2": true,
+    "date2": "2026-09-18"
   },
   {
     "name": "Seu Clemente Bar",
@@ -40203,7 +40253,9 @@
     "emailVerifiedAt": "2026-09-16",
     "emailSource": "https://guiapj.com.br/consulta-cnpj",
     "email1": true,
-    "date1": "2026-09-17"
+    "date1": "2026-09-17",
+    "email2": true,
+    "date2": "2026-09-18"
   },
   {
     "name": "Muza Restaurante",
@@ -40214,7 +40266,9 @@
     "context": "restaurante (cozinha japonesa) em Vila Nova Concei├º├úo, Rua Bueno Brandao 80 (CNPJ 28.189.196/0001-23)",
     "emailVerified": true,
     "emailVerifiedAt": "2026-09-16",
-    "emailSource": "https://guiapj.com.br/consulta-cnpj"
+    "emailSource": "https://guiapj.com.br/consulta-cnpj",
+    "email1": true,
+    "date1": "2026-09-18"
   },
   {
     "name": "Bar e Botequim Moema",
@@ -40227,7 +40281,9 @@
     "emailVerifiedAt": "2026-09-16",
     "emailSource": "https://guiapj.com.br/consulta-cnpj",
     "email1": true,
-    "date1": "2026-09-17"
+    "date1": "2026-09-17",
+    "email2": true,
+    "date2": "2026-09-18"
   },
   {
     "name": "Express Moema Distribui├º├úo de Bebidas",
@@ -40251,7 +40307,9 @@
     "context": "lanchonete bar e temakeria em Moema (CNPJ 21.722.744/0001-90)",
     "emailVerified": true,
     "emailVerifiedAt": "2026-09-16",
-    "emailSource": "https://guiapj.com.br/consulta-cnpj"
+    "emailSource": "https://guiapj.com.br/consulta-cnpj",
+    "email1": true,
+    "date1": "2026-09-18"
   },
   {
     "name": "Adega e Bar Salto",
@@ -40275,7 +40333,9 @@
     "context": "restaurante e bar em Cerqueira C├®sar, Rua Haddock Lobo 1626 (CNPJ 49.869.460/0001-40, grupo Vista Sao Paulo)",
     "emailVerified": true,
     "emailVerifiedAt": "2026-09-16",
-    "emailSource": "https://guiapj.com.br/consulta-cnpj"
+    "emailSource": "https://guiapj.com.br/consulta-cnpj",
+    "email1": true,
+    "date1": "2026-09-18"
   },
   {
     "name": "Adega Brooklin",
@@ -40312,7 +40372,9 @@
     "context": "wine bar e restaurante em Pinheiros, Rua Fradique Coutinho 47 (CNPJ 29.315.823/0001-98, filial Vino Mak Bela Vista)",
     "emailVerified": true,
     "emailVerifiedAt": "2026-09-16",
-    "emailSource": "https://guiapj.com.br/consulta-cnpj"
+    "emailSource": "https://guiapj.com.br/consulta-cnpj",
+    "email1": true,
+    "date1": "2026-09-18"
   },
   {
     "name": "Adega Vila Sao Francisco",
@@ -42122,8 +42184,8 @@
     "type": "emporio",
     "website": "",
     "context": "Emporio Adega Global em Sao Paulo (Jardim Umarizal, Avenida Anace 646, CEP 05755-090), CNPJ 63.012.885/0001-69, ativa desde 02/10/2025. CNAE principal 4712100 (mercearia/minimercado) e secundario 4723700 (comercio varejista de bebidas). Contato (11) 14081872.",
-    "date1": "2026-09-17",
-    "email1": false,
+    "date1": "2026-09-18",
+    "email1": true,
     "email2": false,
     "email3": false,
     "emailVerified": true,
@@ -42186,7 +42248,7 @@
     "website": "",
     "context": "S.M. Distribuidora de Alimentos em Sao Paulo (Vila Perus, Rua Antonio Bartolomeu 11, CEP 05204-200), CNPJ 06.338.851/0001-25, ativa desde 16/05/2022, capital R$ 800.000. CNAE principal 4691500 e secundario 4712100. Contato (11) 4395-0392.",
     "date1": "2026-09-18",
-    "email1": false,
+    "email1": true,
     "email2": false,
     "email3": false,
     "emailVerified": true,
@@ -42201,7 +42263,7 @@
     "website": "",
     "context": "E-Jr Distribuidora de Bebidas em Sao Paulo (Itaquera, Rua Luiz de Almeida Fernandes 188 Casa 02, CEP 08215-430), CNPJ 64.282.021/0001-20, ativa desde 05/01/2026. CNAE principal 4635499 (atacadista bebidas nao especificadas). Contato (11) 8156-1950.",
     "date1": "2026-09-18",
-    "email1": false,
+    "email1": true,
     "email2": false,
     "email3": false,
     "emailVerified": true,
