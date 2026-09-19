@@ -40296,7 +40296,9 @@
     "emailVerifiedAt": "2026-09-16",
     "emailSource": "https://guiapj.com.br/consulta-cnpj",
     "email1": true,
-    "date1": "2026-09-17"
+    "date1": "2026-09-17",
+    "email2": true,
+    "date2": "2026-09-19"
   },
   {
     "name": "Lanchonete Bar e Temakeria Moema",
@@ -42280,8 +42282,8 @@
     "type": "adega",
     "website": "",
     "context": "CNAE 4635499+4723700+5611204 - adega e bar em SP Capital",
-    "date1": "2026-09-18",
-    "email1": false,
+    "date1": "2026-09-19",
+    "email1": true,
     "email2": false,
     "email3": false,
     "emailVerified": true,
@@ -42301,7 +42303,10 @@
     "email3": false,
     "emailVerified": true,
     "emailSource": "https://consultas.plus/lista-de-empresas/sao-paulo/sao-paulo/52047229000185-adega-dvn-bar-e-lounge-ltda/",
-    "emailVerifiedAt": "2026-09-18"
+    "emailVerifiedAt": "2026-09-18",
+    "invalidEmail": true,
+    "invalidEmailReason": "domain_without_mx",
+    "invalidEmailDate": "2026-09-19"
   },
   {
     "name": "Adega Sao Pedro / I.R. Nunes",
@@ -42310,8 +42315,8 @@
     "type": "adega",
     "website": "",
     "context": "CNAE 4723700 - adega em Guarulhos",
-    "date1": "2026-09-18",
-    "email1": false,
+    "date1": "2026-09-19",
+    "email1": true,
     "email2": false,
     "email3": false,
     "emailVerified": true,
@@ -42325,8 +42330,8 @@
     "type": "bar",
     "website": "",
     "context": "CNAE 5611203 - bar/adega em SP Capital (Vila Zat), ativa 11 anos",
-    "date1": "2026-09-18",
-    "email1": false,
+    "date1": "2026-09-19",
+    "email1": true,
     "email2": false,
     "email3": false,
     "emailVerified": true,
