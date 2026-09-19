@@ -42337,5 +42337,20 @@
     "emailVerified": true,
     "emailSource": "https://juridicoonline.com.br/empresa/22624628000109-bar-adega-nossa-senhora-aparecida-ltda",
     "emailVerifiedAt": "2026-09-18"
+  },
+  {
+    "name": "Let's Beer Cervejas Artesanais",
+    "email": "operacao@letsbeer.com.br",
+    "neighborhood": "Vila Mariana",
+    "type": "bar",
+    "website": "",
+    "context": "Cervejaria artesanal bar - Vila Mariana, SP Capital",
+    "date1": "2026-09-18",
+    "email1": false,
+    "email2": false,
+    "email3": false,
+    "emailVerified": true,
+    "emailSource": "https://letsbeer.com.br",
+    "emailVerifiedAt": "2026-09-18"
   }
 ]
