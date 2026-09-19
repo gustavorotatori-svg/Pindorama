@@ -42174,5 +42174,20 @@
     "emailVerified": true,
     "emailSource": "https://cnpjgo.com.br/cnpj/37483482000198",
     "emailVerifiedAt": "2026-09-18"
+  },
+  {
+    "name": "S.M. Distribuidora Ltda",
+    "email": "sm.distribuidora.comercio.alimentos@gmail.com",
+    "neighborhood": "Vila Perus",
+    "type": "emporio",
+    "website": "",
+    "context": "S.M. Distribuidora de Alimentos em Sao Paulo (Vila Perus, Rua Antonio Bartolomeu 11, CEP 05204-200), CNPJ 06.338.851/0001-25, ativa desde 16/05/2022, capital R$ 800.000. CNAE principal 4691500 e secundario 4712100. Contato (11) 4395-0392.",
+    "date1": "2026-09-18",
+    "email1": false,
+    "email2": false,
+    "email3": false,
+    "emailVerified": true,
+    "emailSource": "https://maiscnpj.com.br/cnpj/06338851000125-s-m-distribuidora-e-comercio-de-alimentos-ltda",
+    "emailVerifiedAt": "2026-09-18"
   }
 ]
