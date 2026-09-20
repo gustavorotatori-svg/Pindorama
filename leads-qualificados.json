@@ -40888,11 +40888,12 @@
     "context": "comercio varejista de bebidas na Rua Nova Jerusalem 164, Chacara Santo Antonio, Sao Paulo (SP), tel (11) 8896-4972",
     "date1": "2026-09-15",
     "email1": true,
-    "email2": false,
+    "email2": true,
     "email3": false,
     "emailVerified": true,
     "emailSource": "https://guiapj.com.br/consulta-cnpj/40339563000123",
-    "emailVerifiedAt": "2026-09-15"
+    "emailVerifiedAt": "2026-09-15",
+    "date2": "2026-09-20"
   },
   {
     "name": "Adega Skinao",
@@ -40903,11 +40904,12 @@
     "context": "comercio varejista de bebidas na Rua Frei Atanasio Maatman 580, Vila Sao Paulo, Mogi das Cruzes (SP), tel (11) 99328-7880",
     "date1": "2026-09-15",
     "email1": true,
-    "email2": false,
+    "email2": true,
     "email3": false,
     "emailVerified": true,
     "emailSource": "https://guiapj.com.br/consulta-cnpj/54847274000140",
-    "emailVerifiedAt": "2026-09-15"
+    "emailVerifiedAt": "2026-09-15",
+    "date2": "2026-09-20"
   },
   {
     "name": "Adega Davila Formosa",
@@ -42506,7 +42508,10 @@
     "email3": false,
     "emailVerified": true,
     "emailSource": "https://guiapj.com.br",
-    "emailVerifiedAt": "2026-09-18"
+    "emailVerifiedAt": "2026-09-18",
+    "invalidEmail": true,
+    "invalidEmailReason": "domain_without_mx",
+    "invalidEmailDate": "2026-09-20"
   },
   {
     "name": "Bar e Restaurante O Postinho",
@@ -42515,8 +42520,8 @@
     "type": "bar",
     "website": "",
     "context": "CNAE adega/bar - SP Capital + Guarulhos",
-    "date1": "2026-09-18",
-    "email1": false,
+    "date1": "2026-09-20",
+    "email1": true,
     "email2": false,
     "email3": false,
     "emailVerified": true,
@@ -42530,8 +42535,8 @@
     "type": "adega",
     "website": "",
     "context": "CNAE adega/bar - SP Capital + Guarulhos",
-    "date1": "2026-09-18",
-    "email1": false,
+    "date1": "2026-09-20",
+    "email1": true,
     "email2": false,
     "email3": false,
     "emailVerified": true,
