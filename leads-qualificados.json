@@ -40920,11 +40920,12 @@
     "context": "comercio varejista de bebidas na Travessa Aldabra 8171, Vila Formosa, Sao Paulo (SP)",
     "date1": "2026-09-15",
     "email1": true,
-    "email2": false,
+    "email2": true,
     "email3": false,
     "emailVerified": true,
     "emailSource": "https://guiapj.com.br/consulta-cnpj/53645349000147",
-    "emailVerifiedAt": "2026-09-15"
+    "emailVerifiedAt": "2026-09-15",
+    "date2": "2026-09-20"
   },
   {
     "name": "Brasil Aguas Distribuidora",
@@ -40935,11 +40936,12 @@
     "context": "distribuidora de bebidas na Av Augusto Barassa 1351, Jardim Silvestre I, Amparo (SP), tel (11) 4038-0303",
     "date1": "2026-09-15",
     "email1": true,
-    "email2": false,
+    "email2": true,
     "email3": false,
     "emailVerified": true,
     "emailSource": "https://guiapj.com.br/consulta-cnpj/38152306000136",
-    "emailVerifiedAt": "2026-09-15"
+    "emailVerifiedAt": "2026-09-15",
+    "date2": "2026-09-20"
   },
   {
     "name": "JVF Adega",
