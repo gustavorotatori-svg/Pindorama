@@ -42492,5 +42492,50 @@
     "emailVerified": true,
     "emailSource": "https://maiscnpj.com.br/cnpj/59350730000165-nova-tiradentes-adega-e-distribuidora-gru-ltda",
     "emailVerifiedAt": "2026-09-18"
+  },
+  {
+    "name": "C.A.F Bar e Restaurante",
+    "email": "contato@wwwwhopp.com.br",
+    "neighborhood": "Macedo",
+    "type": "bar",
+    "website": "",
+    "context": "CNAE adega/bar - SP Capital + Guarulhos",
+    "date1": "2026-09-18",
+    "email1": false,
+    "email2": false,
+    "email3": false,
+    "emailVerified": true,
+    "emailSource": "https://guiapj.com.br",
+    "emailVerifiedAt": "2026-09-18"
+  },
+  {
+    "name": "Bar e Restaurante O Postinho",
+    "email": "opostinho@live.com",
+    "neighborhood": "Vila Galvão",
+    "type": "bar",
+    "website": "",
+    "context": "CNAE adega/bar - SP Capital + Guarulhos",
+    "date1": "2026-09-18",
+    "email1": false,
+    "email2": false,
+    "email3": false,
+    "emailVerified": true,
+    "emailSource": "https://guiapj.com.br",
+    "emailVerifiedAt": "2026-09-18"
+  },
+  {
+    "name": "Agua, Bebidas e CIA",
+    "email": "bebidas@gmail.com",
+    "neighborhood": "Tucuruvi",
+    "type": "adega",
+    "website": "",
+    "context": "CNAE adega/bar - SP Capital + Guarulhos",
+    "date1": "2026-09-18",
+    "email1": false,
+    "email2": false,
+    "email3": false,
+    "emailVerified": true,
+    "emailSource": "https://guiapj.com.br",
+    "emailVerifiedAt": "2026-09-18"
   }
 ]
