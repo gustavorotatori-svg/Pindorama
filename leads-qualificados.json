@@ -40369,7 +40369,10 @@
     "email1": true,
     "date1": "2026-09-17",
     "email2": true,
-    "date2": "2026-09-20"
+    "date2": "2026-09-20",
+    "doNotContact": true,
+    "bounced": true,
+    "bounceDate": "2026-09-20"
   },
   {
     "name": "Sampaio Bar e Adega",
@@ -40699,7 +40702,10 @@
     "emailVerified": true,
     "emailSource": "https://guiapj.com.br/consulta-cnpj/32124012000114",
     "emailVerifiedAt": "2026-09-15",
-    "date2": "2026-09-20"
+    "date2": "2026-09-20",
+    "doNotContact": true,
+    "bounced": true,
+    "bounceDate": "2026-09-20"
   },
   {
     "name": "Distribuidora de Bebidas e Alimentos",
@@ -40731,7 +40737,10 @@
     "emailVerified": true,
     "emailSource": "https://guiapj.com.br/consulta-cnpj/49672480000126",
     "emailVerifiedAt": "2026-09-15",
-    "date2": "2026-09-20"
+    "date2": "2026-09-20",
+    "doNotContact": true,
+    "bounced": true,
+    "bounceDate": "2026-09-20"
   },
   {
     "name": "Adega Revoada",
@@ -40779,7 +40788,10 @@
     "emailVerified": true,
     "emailSource": "https://guiapj.com.br/consulta-cnpj/45436835000127",
     "emailVerifiedAt": "2026-09-15",
-    "date2": "2026-09-20"
+    "date2": "2026-09-20",
+    "doNotContact": true,
+    "bounced": true,
+    "bounceDate": "2026-09-20"
   },
   {
     "name": "Projeto Agua",
@@ -40811,7 +40823,10 @@
     "emailVerified": true,
     "emailSource": "https://guiapj.com.br/consulta-cnpj/46574219000103",
     "emailVerifiedAt": "2026-09-15",
-    "date2": "2026-09-20"
+    "date2": "2026-09-20",
+    "doNotContact": true,
+    "bounced": true,
+    "bounceDate": "2026-09-20"
   },
   {
     "name": "Josmar Frederico Martinez",
@@ -40827,7 +40842,10 @@
     "emailVerified": true,
     "emailSource": "https://cnpj.tradexa.com.br/05006798000100",
     "emailVerifiedAt": "2026-09-15",
-    "date2": "2026-09-20"
+    "date2": "2026-09-20",
+    "doNotContact": true,
+    "bounced": true,
+    "bounceDate": "2026-09-20"
   },
   {
     "name": "Adega Kaiky",
