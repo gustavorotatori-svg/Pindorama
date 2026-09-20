@@ -40114,7 +40114,9 @@
     "emailVerifiedAt": "2026-09-16",
     "emailSource": "https://guiapj.com.br/consulta-cnpj",
     "email1": true,
-    "date1": "2026-09-18"
+    "date1": "2026-09-18",
+    "email2": true,
+    "date2": "2026-09-20"
   },
   {
     "name": "Dinamite Itaim Choperia",
@@ -40200,7 +40202,9 @@
     "emailVerifiedAt": "2026-09-16",
     "emailSource": "https://guiapj.com.br/consulta-cnpj",
     "email1": true,
-    "date1": "2026-09-18"
+    "date1": "2026-09-18",
+    "email2": true,
+    "date2": "2026-09-20"
   },
   {
     "name": "Restaurante Sultao Campo Belo",
@@ -40213,7 +40217,9 @@
     "emailVerifiedAt": "2026-09-16",
     "emailSource": "https://guiapj.com.br/consulta-cnpj",
     "email1": true,
-    "date1": "2026-09-18"
+    "date1": "2026-09-18",
+    "email2": true,
+    "date2": "2026-09-20"
   },
   {
     "name": "CBL Campo Belo Restaurante",
@@ -40226,7 +40232,9 @@
     "emailVerifiedAt": "2026-09-16",
     "emailSource": "https://guiapj.com.br/consulta-cnpj",
     "email1": true,
-    "date1": "2026-09-18"
+    "date1": "2026-09-18",
+    "email2": true,
+    "date2": "2026-09-20"
   },
   {
     "name": "Santorini Bar",
@@ -40269,7 +40277,9 @@
     "emailVerifiedAt": "2026-09-16",
     "emailSource": "https://guiapj.com.br/consulta-cnpj",
     "email1": true,
-    "date1": "2026-09-18"
+    "date1": "2026-09-18",
+    "email2": true,
+    "date2": "2026-09-20"
   },
   {
     "name": "Bar e Botequim Moema",
@@ -40312,7 +40322,9 @@
     "emailVerifiedAt": "2026-09-16",
     "emailSource": "https://guiapj.com.br/consulta-cnpj",
     "email1": true,
-    "date1": "2026-09-18"
+    "date1": "2026-09-18",
+    "email2": true,
+    "date2": "2026-09-20"
   },
   {
     "name": "Adega e Bar Salto",
@@ -40325,7 +40337,9 @@
     "emailVerifiedAt": "2026-09-16",
     "emailSource": "https://guiapj.com.br/consulta-cnpj",
     "email1": true,
-    "date1": "2026-09-17"
+    "date1": "2026-09-17",
+    "email2": true,
+    "date2": "2026-09-20"
   },
   {
     "name": "Vista Jardins Bar e Restaurante",
@@ -40338,7 +40352,9 @@
     "emailVerifiedAt": "2026-09-16",
     "emailSource": "https://guiapj.com.br/consulta-cnpj",
     "email1": true,
-    "date1": "2026-09-18"
+    "date1": "2026-09-18",
+    "email2": true,
+    "date2": "2026-09-20"
   },
   {
     "name": "Adega Brooklin",
@@ -40351,7 +40367,9 @@
     "emailVerifiedAt": "2026-09-16",
     "emailSource": "https://guiapj.com.br/consulta-cnpj",
     "email1": true,
-    "date1": "2026-09-17"
+    "date1": "2026-09-17",
+    "email2": true,
+    "date2": "2026-09-20"
   },
   {
     "name": "Sampaio Bar e Adega",
@@ -40364,7 +40382,9 @@
     "emailVerifiedAt": "2026-09-16",
     "emailSource": "https://guiapj.com.br/consulta-cnpj",
     "email1": true,
-    "date1": "2026-09-17"
+    "date1": "2026-09-17",
+    "email2": true,
+    "date2": "2026-09-20"
   },
   {
     "name": "Vino Pinheiros",
@@ -40377,7 +40397,9 @@
     "emailVerifiedAt": "2026-09-16",
     "emailSource": "https://guiapj.com.br/consulta-cnpj",
     "email1": true,
-    "date1": "2026-09-18"
+    "date1": "2026-09-18",
+    "email2": true,
+    "date2": "2026-09-20"
   },
   {
     "name": "Adega Vila Sao Francisco",
@@ -40390,7 +40412,9 @@
     "emailVerifiedAt": "2026-09-16",
     "emailSource": "https://guiapj.com.br/consulta-cnpj",
     "email1": true,
-    "date1": "2026-09-17"
+    "date1": "2026-09-17",
+    "email2": true,
+    "date2": "2026-09-20"
   },
   {
     "name": "Emp├│rio dos Vinhos Tatuap├®",
@@ -40457,11 +40481,12 @@
     "date1": "2026-09-15",
     "email1": true,
     "email2": true,
-    "email3": false,
+    "email3": true,
     "emailVerified": true,
     "emailSource": "https://guiapj.com.br/consulta-cnpj/22442723000183",
     "emailVerifiedAt": "2026-09-14",
-    "date2": "2026-09-16"
+    "date2": "2026-09-16",
+    "date3": "2026-09-20"
   },
   {
     "name": "Adega Quatro Garrafas",
@@ -40491,11 +40516,12 @@
     "date1": "2026-09-15",
     "email1": true,
     "email2": true,
-    "email3": false,
+    "email3": true,
     "emailVerified": true,
     "emailSource": "https://guiapj.com.br/consulta-cnpj/42590808000116",
     "emailVerifiedAt": "2026-09-15",
-    "date2": "2026-09-16"
+    "date2": "2026-09-16",
+    "date3": "2026-09-20"
   },
   {
     "name": "Morada das Bebbidas",
@@ -40506,11 +40532,12 @@
     "context": "comercio atacadista de bebidas com fracionamento na Rua Javas 235, Bom Retiro, Sao Paulo, tel (11) 5590-4286",
     "date1": "2026-09-15",
     "email1": true,
-    "email2": false,
+    "email2": true,
     "email3": false,
     "emailVerified": true,
     "emailSource": "https://guiapj.com.br/consulta-cnpj/49003086000103",
-    "emailVerifiedAt": "2026-09-15"
+    "emailVerifiedAt": "2026-09-15",
+    "date2": "2026-09-20"
   },
   {
     "name": "Adega Dantas Distribuidora",
@@ -40521,11 +40548,12 @@
     "context": "distribuidora de bebidas na Rua Leandro de Sevilha 419, Parque Novo Lar, Sao Paulo, tels 4105-1501 e 8686-5771",
     "date1": "2026-09-15",
     "email1": true,
-    "email2": false,
+    "email2": true,
     "email3": false,
     "emailVerified": true,
     "emailSource": "https://databrasil.net/empresas/15613897000104-ADEGA-DANTAS-DISTRIBUIDORA-DE-BEBIDAS-LTDA",
-    "emailVerifiedAt": "2026-09-15"
+    "emailVerifiedAt": "2026-09-15",
+    "date2": "2026-09-20"
   },
   {
     "name": "Adega do Morro",
@@ -40536,11 +40564,12 @@
     "context": "distribuidora de bebidas e mercearia na Rua Miguel Ferreira de Melo 391, Jardim Santo Andre, Sao Paulo, tel (11) 99392-8598",
     "date1": "2026-09-15",
     "email1": true,
-    "email2": false,
+    "email2": true,
     "email3": false,
     "emailVerified": true,
     "emailSource": "https://guiapj.com.br/consulta-cnpj/51371753000144",
-    "emailVerifiedAt": "2026-09-15"
+    "emailVerifiedAt": "2026-09-15",
+    "date2": "2026-09-20"
   },
   {
     "name": "Distribuidora e Adega Gomes",
@@ -40551,11 +40580,12 @@
     "context": "comercio varejista de bebidas na Rua Orfanato 522, Vila Prudente, Sao Paulo, tel (11) 99005-7308",
     "date1": "2026-09-15",
     "email1": true,
-    "email2": false,
+    "email2": true,
     "email3": false,
     "emailVerified": true,
     "emailSource": "https://guiapj.com.br/consulta-cnpj/45551123000159",
-    "emailVerifiedAt": "2026-09-15"
+    "emailVerifiedAt": "2026-09-15",
+    "date2": "2026-09-20"
   },
   {
     "name": "A Nossa Adega",
@@ -40566,11 +40596,12 @@
     "context": "comercio varejista de bebidas na Rua Tenente Antonio Batista 27A, Centro, Piracaia (SP), tel (11) 4766-8298",
     "date1": "2026-09-15",
     "email1": true,
-    "email2": false,
+    "email2": true,
     "email3": false,
     "emailVerified": true,
     "emailSource": "https://guiapj.com.br/consulta-cnpj/32346151000192",
-    "emailVerifiedAt": "2026-09-15"
+    "emailVerifiedAt": "2026-09-15",
+    "date2": "2026-09-20"
   },
   {
     "name": "JB Adega dos Mineiros",
@@ -40581,11 +40612,12 @@
     "context": "comercio varejista de bebidas na Rua Giacomo Jose Nechio 146, Jardim Lago Azul, Louveira (SP), tel (19) 99625-0776",
     "date1": "2026-09-15",
     "email1": true,
-    "email2": false,
+    "email2": true,
     "email3": false,
     "emailVerified": true,
     "emailSource": "https://guiapj.com.br/consulta-cnpj/48656885000108",
-    "emailVerifiedAt": "2026-09-15"
+    "emailVerifiedAt": "2026-09-15",
+    "date2": "2026-09-20"
   },
   {
     "name": "Adega 123",
@@ -40596,11 +40628,12 @@
     "context": "comercio varejista de bebidas e alimentos na Rua Brasil 218, Vila Isabel Eber, Jundiai (SP), tel (11) 3948-2020",
     "date1": "2026-09-15",
     "email1": true,
-    "email2": false,
+    "email2": true,
     "email3": false,
     "emailVerified": true,
     "emailSource": "https://guiapj.com.br/consulta-cnpj/42294704000164",
-    "emailVerifiedAt": "2026-09-15"
+    "emailVerifiedAt": "2026-09-15",
+    "date2": "2026-09-20"
   },
   {
     "name": "MLG Comercio de Bebidas",
@@ -40611,11 +40644,12 @@
     "context": "comercio varejista de bebidas na Rua Antonio Carlos Couto de Barros 380, Vila Bourbon, Campinas (SP), tel (19) 3751-3030",
     "date1": "2026-09-15",
     "email1": true,
-    "email2": false,
+    "email2": true,
     "email3": false,
     "emailVerified": true,
     "emailSource": "https://cnpj.tradexa.com.br/09074581000180",
-    "emailVerifiedAt": "2026-09-15"
+    "emailVerifiedAt": "2026-09-15",
+    "date2": "2026-09-20"
   },
   {
     "name": "Adega JSB",
@@ -40644,11 +40678,12 @@
     "context": "comercio varejista de bebidas na Rua Manoel Matheus 69, Centro, Vinhedo (SP), tel (19) 98253-1982",
     "date1": "2026-09-15",
     "email1": true,
-    "email2": false,
+    "email2": true,
     "email3": false,
     "emailVerified": true,
     "emailSource": "https://guiapj.com.br/consulta-cnpj/24728210000169",
-    "emailVerifiedAt": "2026-09-15"
+    "emailVerifiedAt": "2026-09-15",
+    "date2": "2026-09-20"
   },
   {
     "name": "Adega do Carijo",
@@ -40659,11 +40694,12 @@
     "context": "comercio varejista de bebidas na Rua da Lagoa 11, Vila Lourdes, Carapicui ba (SP), tel (11) 4163-3603",
     "date1": "2026-09-15",
     "email1": true,
-    "email2": false,
+    "email2": true,
     "email3": false,
     "emailVerified": true,
     "emailSource": "https://guiapj.com.br/consulta-cnpj/32124012000114",
-    "emailVerifiedAt": "2026-09-15"
+    "emailVerifiedAt": "2026-09-15",
+    "date2": "2026-09-20"
   },
   {
     "name": "Distribuidora de Bebidas e Alimentos",
@@ -40674,11 +40710,12 @@
     "context": "comercio varejista de bebidas na Rua Paraguai 21A, Jardim Helena, Carapicui ba (SP), tel (11) 3950-0457",
     "date1": "2026-09-15",
     "email1": true,
-    "email2": false,
+    "email2": true,
     "email3": false,
     "emailVerified": true,
     "emailSource": "https://guiapj.com.br/consulta-cnpj/56705217000151",
-    "emailVerifiedAt": "2026-09-15"
+    "emailVerifiedAt": "2026-09-15",
+    "date2": "2026-09-20"
   },
   {
     "name": "Distribuidora de Bebidas e Conveniencia Joao 23",
@@ -40689,11 +40726,12 @@
     "context": "comercio atacadista de bebidas, Av. Cid Nelson Jordano 662, Jardim Salete, Taboao da Serra (SP)",
     "date1": "2026-09-15",
     "email1": true,
-    "email2": false,
+    "email2": true,
     "email3": false,
     "emailVerified": true,
     "emailSource": "https://guiapj.com.br/consulta-cnpj/49672480000126",
-    "emailVerifiedAt": "2026-09-15"
+    "emailVerifiedAt": "2026-09-15",
+    "date2": "2026-09-20"
   },
   {
     "name": "Adega Revoada",
@@ -40704,11 +40742,12 @@
     "context": "comercio varejista de bebidas na Rua Liguria 678, Parque Novo Oratorio, Santo Andre (SP), tel (11) 5083-5044",
     "date1": "2026-09-15",
     "email1": true,
-    "email2": false,
+    "email2": true,
     "email3": false,
     "emailVerified": true,
     "emailSource": "https://guiapj.com.br/consulta-cnpj/43061850000102",
-    "emailVerifiedAt": "2026-09-15"
+    "emailVerifiedAt": "2026-09-15",
+    "date2": "2026-09-20"
   },
   {
     "name": "KL Distribuidora de Bebidas",
@@ -40719,11 +40758,12 @@
     "context": "comercio varejista de bebidas na Rua Saldanha da Gama 446, Jardim Moncoes, Santo Andre (SP), tel (11) 4109-1875",
     "date1": "2026-09-15",
     "email1": true,
-    "email2": false,
+    "email2": true,
     "email3": false,
     "emailVerified": true,
     "emailSource": "https://guiapj.com.br/consulta-cnpj/50730826000184",
-    "emailVerifiedAt": "2026-09-15"
+    "emailVerifiedAt": "2026-09-15",
+    "date2": "2026-09-20"
   },
   {
     "name": "Adega Iuri Lima",
@@ -40734,11 +40774,12 @@
     "context": "comercio varejista de bebidas na Rua Laplace 109, Vila Suica, Santo Andre (SP), tel (11) 97077-5466",
     "date1": "2026-09-15",
     "email1": true,
-    "email2": false,
+    "email2": true,
     "email3": false,
     "emailVerified": true,
     "emailSource": "https://guiapj.com.br/consulta-cnpj/45436835000127",
-    "emailVerifiedAt": "2026-09-15"
+    "emailVerifiedAt": "2026-09-15",
+    "date2": "2026-09-20"
   },
   {
     "name": "Projeto Agua",
@@ -40749,11 +40790,12 @@
     "context": "comercio varejista de bebidas na Rua S Carlos Borromeu 158, Vila Alpina, Sao Paulo (SP), tel (11) 99480-7201, site ativo",
     "date1": "2026-09-15",
     "email1": true,
-    "email2": false,
+    "email2": true,
     "email3": false,
     "emailVerified": true,
     "emailSource": "https://guiapj.com.br/consulta-cnpj/00119392000102",
-    "emailVerifiedAt": "2026-09-15"
+    "emailVerifiedAt": "2026-09-15",
+    "date2": "2026-09-20"
   },
   {
     "name": "Santropa Bebidas",
@@ -40764,11 +40806,12 @@
     "context": "comercio atacadista de bebidas com fracionamento, Estrada Tenente Marques 5440, Santana de Parnaiba (SP), tel (81) 8204-1974",
     "date1": "2026-09-15",
     "email1": true,
-    "email2": false,
+    "email2": true,
     "email3": false,
     "emailVerified": true,
     "emailSource": "https://guiapj.com.br/consulta-cnpj/46574219000103",
-    "emailVerifiedAt": "2026-09-15"
+    "emailVerifiedAt": "2026-09-15",
+    "date2": "2026-09-20"
   },
   {
     "name": "Josmar Frederico Martinez",
@@ -40779,11 +40822,12 @@
     "context": "comercio varejista de bebidas na R Jose Goncalves de Lima 8, Parque Via Norte, Campinas (SP), tel (19) 88099819",
     "date1": "2026-09-15",
     "email1": true,
-    "email2": false,
+    "email2": true,
     "email3": false,
     "emailVerified": true,
     "emailSource": "https://cnpj.tradexa.com.br/05006798000100",
-    "emailVerifiedAt": "2026-09-15"
+    "emailVerifiedAt": "2026-09-15",
+    "date2": "2026-09-20"
   },
   {
     "name": "Adega Kaiky",
@@ -40794,11 +40838,12 @@
     "context": "comercio varejista de bebidas na R Cairo 94, Chacaras R S Aleixo, Francisco Morato (SP), tel (11) 53615790",
     "date1": "2026-09-15",
     "email1": true,
-    "email2": false,
+    "email2": true,
     "email3": false,
     "emailVerified": true,
     "emailSource": "https://cnpj.tradexa.com.br/61713745000192",
-    "emailVerifiedAt": "2026-09-15"
+    "emailVerifiedAt": "2026-09-15",
+    "date2": "2026-09-20"
   },
   {
     "name": "Andrea Nunes Bebidas",
@@ -40809,11 +40854,12 @@
     "context": "comercio varejista de bebidas na R Odila Catan 266, Jardim Roberto, Osasco (SP), tel (11) 36058472",
     "date1": "2026-09-15",
     "email1": true,
-    "email2": false,
+    "email2": true,
     "email3": false,
     "emailVerified": true,
     "emailSource": "https://cnpj.tradexa.com.br/27157422000121",
-    "emailVerifiedAt": "2026-09-15"
+    "emailVerifiedAt": "2026-09-15",
+    "date2": "2026-09-20"
   },
   {
     "name": "AABJ Comercio de Bebidas",
