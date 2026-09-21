@@ -3,8 +3,8 @@ import { readFileSync, writeFileSync, existsSync } from 'fs';
 import { join, basename } from 'path';
 import { sendWithinEmailQuota } from './email-quota.mjs';
 
-const to = process.env.RELATORIO_TO || 'gustavorotatori@gmail.com';
-const cc = process.env.RELATORIO_CC || undefined;
+const to = process.env.RELATORIO_TO || 'gusrotatori@icloud.com';
+const cc = process.env.RELATORIO_CC || 'gustavorotatori@gmail.com';
 const timeZone = 'America/Sao_Paulo';
 const local = new Intl.DateTimeFormat('en-CA', {
   timeZone,
