@@ -41036,7 +41036,10 @@
     "emailVerified": true,
     "emailSource": "https://guiapj.com.br/consulta-cnpj/61903071000199",
     "emailVerifiedAt": "2026-09-15",
-    "date2": "2026-09-21"
+    "date2": "2026-09-21",
+    "doNotContact": true,
+    "bounced": true,
+    "bounceDate": "2026-09-21"
   },
   {
     "name": "Bebidas Zoza",
@@ -42548,7 +42551,10 @@
     "email3": false,
     "emailVerified": true,
     "emailSource": "https://guiapj.com.br",
-    "emailVerifiedAt": "2026-09-18"
+    "emailVerifiedAt": "2026-09-18",
+    "doNotContact": true,
+    "bounced": true,
+    "bounceDate": "2026-09-21"
   },
   {
     "name": "ADEGA NO GRAU",
@@ -43334,7 +43340,10 @@
     "email3": false,
     "emailVerified": true,
     "emailSource": "https://guiapj.com.br",
-    "emailVerifiedAt": "2026-09-20"
+    "emailVerifiedAt": "2026-09-20",
+    "doNotContact": true,
+    "bounced": true,
+    "bounceDate": "2026-09-21"
   },
   {
     "name": "Comercio de Bebidas e Mercearia MFL (Adega Replay)",
