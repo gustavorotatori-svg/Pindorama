@@ -783,7 +783,8 @@
     "evidence": "Perfil comercial atualizado em fevereiro de 2026 confirma pub ativo em Ribeirao Preto, com cervejaria propria, coqueteis, happy hour e musica ao vivo, e WhatsApp empresarial publicado.",
     "verifiedAt": "2026-08-22",
     "notBefore": "2026-09-16",
-    "status": "queued"
+    "status": "sent",
+    "sentAt": "2026-09-21T18:13:21.112Z"
   },
   {
     "name": "Boteco Tres Marias",
@@ -794,7 +795,8 @@
     "evidence": "Perfil comercial atualizado em marco de 2026 confirma bar e restaurante ativo no Jardim Tres Marias, voltado a happy hour, com bebidas e petiscos criativos, e WhatsApp empresarial publicado.",
     "verifiedAt": "2026-08-22",
     "notBefore": "2026-09-16",
-    "status": "queued"
+    "status": "sent",
+    "sentAt": "2026-09-21T18:13:26.317Z"
   },
   {
     "name": "Boteco Mandacaru",
@@ -805,7 +807,8 @@
     "evidence": "Perfil comercial atualizado em marco de 2026 confirma boteco ativo na Republica, com happy hour noturno, cervejas e petiscos, e WhatsApp empresarial publicado.",
     "verifiedAt": "2026-08-22",
     "notBefore": "2026-09-16",
-    "status": "queued"
+    "status": "sent",
+    "sentAt": "2026-09-21T18:13:32.179Z"
   },
   {
     "name": "NoBar Consolacao",
@@ -816,7 +819,8 @@
     "evidence": "Perfil comercial atualizado em abril de 2026 confirma bar e restaurante ativo na Consolacao, voltado a happy hour e cultura de botequim, e WhatsApp empresarial publicado.",
     "verifiedAt": "2026-08-22",
     "notBefore": "2026-09-16",
-    "status": "queued"
+    "status": "sent",
+    "sentAt": "2026-09-21T18:13:37.492Z"
   },
   {
     "name": "Boteco Vila Cruzeiro",
@@ -827,7 +831,8 @@
     "evidence": "Perfil comercial atualizado em novembro de 2025 confirma boteco ativo na Vila Cruzeiro, com drinks classicos, cervejas e porcoes autorais, e WhatsApp empresarial publicado.",
     "verifiedAt": "2026-08-22",
     "notBefore": "2026-09-16",
-    "status": "queued"
+    "status": "sent",
+    "sentAt": "2026-09-21T18:13:42.851Z"
   },
   {
     "name": "Boteco do Max Nola",
@@ -849,7 +854,8 @@
     "evidence": "Perfil comercial atualizado em abril de 2026 confirma bar e restaurante ativo na Vila Olimpia, com carta de drinks, coquetelaria e musica, e WhatsApp empresarial de reservas publicado.",
     "verifiedAt": "2026-08-22",
     "notBefore": "2026-09-16",
-    "status": "queued"
+    "status": "sent",
+    "sentAt": "2026-09-21T18:13:48.103Z"
   },
   {
     "name": "Old Town English Pub",

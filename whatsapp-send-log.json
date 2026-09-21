@@ -1082,5 +1082,107 @@
     "phone": "(11) 98167-9556",
     "source": "https://www.baressp.com.br/bares/vinicola-urbana",
     "messageId": "3EB085DA673EA6A326BF8F"
+  },
+  {
+    "date": "2026-09-21",
+    "checkedAt": "2026-09-21T18:13:20.229Z",
+    "status": "not_on_whatsapp",
+    "name": "Sampa Adega",
+    "phone": "(11) 98402-3929",
+    "source": "https://www.sampaadega.com.br/"
+  },
+  {
+    "date": "2026-09-21",
+    "checkedAt": "2026-09-21T18:13:20.254Z",
+    "status": "not_on_whatsapp",
+    "name": "Adega Frimar",
+    "phone": "(11) 5219-3878",
+    "source": "https://mycelium.lat/"
+  },
+  {
+    "date": "2026-09-21",
+    "checkedAt": "2026-09-21T18:13:20.279Z",
+    "status": "not_on_whatsapp",
+    "name": "Sphera Lounge",
+    "phone": "(11) 97636-3908",
+    "source": "https://www.spheralounge.com.br/"
+  },
+  {
+    "date": "2026-09-21",
+    "checkedAt": "2026-09-21T18:13:20.303Z",
+    "status": "not_on_whatsapp",
+    "name": "Dentro Bar",
+    "phone": "(11) 94998-2925",
+    "source": "https://www.baressp.com.br/bares/dentro-bar"
+  },
+  {
+    "date": "2026-09-21",
+    "checkedAt": "2026-09-21T18:13:20.398Z",
+    "status": "not_on_whatsapp",
+    "name": "No Ponto Espeto & Bar",
+    "phone": "(11) 99011-3879",
+    "source": "https://baressp.com.br/bares/no-ponto-espeto-e-bar"
+  },
+  {
+    "date": "2026-09-21",
+    "acceptedAt": "2026-09-21T18:13:21.112Z",
+    "status": "accepted",
+    "name": "Vila Dionisio Ribeirao Preto",
+    "phone": "(16) 98111-4455",
+    "source": "https://www.baressp.com.br/bares/vila-dionisio-ribeirao-preto",
+    "messageId": "3EB05B0547DA0528B3649C"
+  },
+  {
+    "date": "2026-09-21",
+    "acceptedAt": "2026-09-21T18:13:26.317Z",
+    "status": "accepted",
+    "name": "Boteco Tres Marias",
+    "phone": "(11) 95076-0178",
+    "source": "https://www.baressp.com.br/bares/boteco-tres-marias",
+    "messageId": "3EB0E2FAE6274C127EFD21"
+  },
+  {
+    "date": "2026-09-21",
+    "acceptedAt": "2026-09-21T18:13:32.179Z",
+    "status": "accepted",
+    "name": "Boteco Mandacaru",
+    "phone": "(11) 97836-2964",
+    "source": "https://www.baressp.com.br/bares/boteco-mandacaru",
+    "messageId": "3EB09431CE3A79BDEC8764"
+  },
+  {
+    "date": "2026-09-21",
+    "acceptedAt": "2026-09-21T18:13:37.492Z",
+    "status": "accepted",
+    "name": "NoBar Consolacao",
+    "phone": "(11) 99214-6934",
+    "source": "https://baressp.com.br/bares/nobar-consolacao",
+    "messageId": "3EB058504AC16AA7A4DD4C"
+  },
+  {
+    "date": "2026-09-21",
+    "acceptedAt": "2026-09-21T18:13:42.851Z",
+    "status": "accepted",
+    "name": "Boteco Vila Cruzeiro",
+    "phone": "(11) 96613-7994",
+    "source": "https://baressp.com.br/bares/boteco-vila-cruzeiro",
+    "messageId": "3EB0B3A7F49F28790EF29A"
+  },
+  {
+    "date": "2026-09-21",
+    "checkedAt": "2026-09-21T18:13:47.885Z",
+    "status": "not_on_whatsapp",
+    "name": "Boteco do Max Nola",
+    "phone": "(11) 99980-1876",
+    "source": "https://www.baressp.com.br/bares/boteco-do-max-nola-"
+  },
+  {
+    "date": "2026-09-21",
+    "acceptedAt": "2026-09-21T18:13:48.103Z",
+    "status": "accepted",
+    "name": "Tocha Bar & Brasa",
+    "phone": "(11) 97227-5376",
+    "source": "https://www.baressp.com.br/restaurantes/churrascarias/tocha-bar-e-brasa",
+    "messageId": "3EB02313ADD83C17A32F86"
   }
 ]
