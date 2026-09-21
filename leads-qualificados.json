@@ -42946,7 +42946,10 @@
     "email3": false,
     "emailVerified": true,
     "emailSource": "https://guiapj.com.br",
-    "emailVerifiedAt": "2026-09-20"
+    "emailVerifiedAt": "2026-09-20",
+    "doNotContact": true,
+    "bounced": true,
+    "bounceDate": "2026-09-21"
   },
   {
     "name": "SR SANTOS ADEGA BAR",
@@ -42961,7 +42964,10 @@
     "email3": false,
     "emailVerified": true,
     "emailSource": "https://guiapj.com.br",
-    "emailVerifiedAt": "2026-09-20"
+    "emailVerifiedAt": "2026-09-20",
+    "doNotContact": true,
+    "bounced": true,
+    "bounceDate": "2026-09-21"
   },
   {
     "name": "ADEGA G COMERCIO DE BEBIDAS",
@@ -42991,7 +42997,10 @@
     "email3": false,
     "emailVerified": true,
     "emailSource": "https://guiapj.com.br",
-    "emailVerifiedAt": "2026-09-20"
+    "emailVerifiedAt": "2026-09-20",
+    "doNotContact": true,
+    "bounced": true,
+    "bounceDate": "2026-09-21"
   },
   {
     "name": "CERVEJARIA DINASTIA",
@@ -43051,7 +43060,10 @@
     "email3": false,
     "emailVerified": true,
     "emailSource": "https://guiapj.com.br",
-    "emailVerifiedAt": "2026-09-20"
+    "emailVerifiedAt": "2026-09-20",
+    "doNotContact": true,
+    "bounced": true,
+    "bounceDate": "2026-09-21"
   },
   {
     "name": "RESTAURANTE AML DELIVERY",
@@ -43081,7 +43093,10 @@
     "email3": false,
     "emailVerified": true,
     "emailSource": "https://guiapj.com.br",
-    "emailVerifiedAt": "2026-09-20"
+    "emailVerifiedAt": "2026-09-20",
+    "doNotContact": true,
+    "bounced": true,
+    "bounceDate": "2026-09-21"
   },
   {
     "name": "HB RESTAURANTE",
@@ -43129,7 +43144,10 @@
     "email3": false,
     "emailVerified": true,
     "emailSource": "https://guiapj.com.br",
-    "emailVerifiedAt": "2026-09-20"
+    "emailVerifiedAt": "2026-09-20",
+    "doNotContact": true,
+    "bounced": true,
+    "bounceDate": "2026-09-21"
   },
   {
     "name": "O COSTELEIRO RESTAURANTE",
