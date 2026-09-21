@@ -16,7 +16,6 @@ on:
     - cron: '0 11 * * 0'
     - cron: '30 13 * * 0'
     - cron: '0 18 * * 0'
-    - cron: '0 11 * * 1'
 
 permissions:
   contents: write
@@ -29,6 +28,8 @@ jobs:
       TZ: America/Sao_Paulo
       GMAIL_USER: ${{ secrets.GMAIL_USER }}
       GMAIL_APP_PASSWORD: ${{ secrets.GMAIL_APP_PASSWORD }}
+      RELATORIO_TO: gusrotatori@icloud.com
+      RELATORIO_CC: gustavorotatori@gmail.com
     steps:
       - name: Checkout
         uses: actions/checkout@v4
