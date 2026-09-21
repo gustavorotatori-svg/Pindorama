@@ -40973,7 +40973,10 @@
     "emailVerified": true,
     "emailSource": "https://guiapj.com.br/consulta-cnpj/51784141000183",
     "emailVerifiedAt": "2026-09-15",
-    "date2": "2026-09-20"
+    "date2": "2026-09-20",
+    "doNotContact": true,
+    "bounced": true,
+    "bounceDate": "2026-09-20"
   },
   {
     "name": "Magno Comercio Atacadista de Bebidas",
@@ -40989,7 +40992,10 @@
     "emailVerified": true,
     "emailSource": "https://guiapj.com.br/consulta-cnpj/41517735000760",
     "emailVerifiedAt": "2026-09-15",
-    "date2": "2026-09-20"
+    "date2": "2026-09-20",
+    "doNotContact": true,
+    "bounced": true,
+    "bounceDate": "2026-09-20"
   },
   {
     "name": "Adega Distribuidora L & S",
@@ -41005,7 +41011,10 @@
     "emailVerified": true,
     "emailSource": "https://guiapj.com.br/consulta-cnpj/68170797000109",
     "emailVerifiedAt": "2026-09-15",
-    "date2": "2026-09-20"
+    "date2": "2026-09-20",
+    "doNotContact": true,
+    "bounced": true,
+    "bounceDate": "2026-09-20"
   },
   {
     "name": "Super D Distribuidora de Bebidas",
