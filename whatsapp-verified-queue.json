@@ -866,7 +866,8 @@
     "evidence": "Perfil comercial atualizado em marco de 2026 confirma pub ativo em Santo Andre, com chopes, cervejas importadas, coquetelaria criativa e musica ao vivo, e WhatsApp empresarial publicado.",
     "verifiedAt": "2026-08-22",
     "notBefore": "2026-09-16",
-    "status": "queued"
+    "status": "sent",
+    "sentAt": "2026-09-22T15:55:09.948Z"
   },
   {
     "name": "Frater's Pub",
@@ -877,7 +878,8 @@
     "evidence": "Perfil comercial atualizado em fevereiro de 2026 confirma pub ativo no centro de Sorocaba, com 12 torneiras de chope artesanal, drinks, vinhos, destilados e WhatsApp empresarial publicado.",
     "verifiedAt": "2026-08-22",
     "notBefore": "2026-09-16",
-    "status": "queued"
+    "status": "sent",
+    "sentAt": "2026-09-22T15:55:16.137Z"
   },
   {
     "name": "Esquina do Meio",
@@ -888,7 +890,8 @@
     "evidence": "Perfil comercial atualizado em abril de 2026 confirma bar ativo em Pinheiros, com happy hour, drinks, petiscos, chope e programacao musical, e WhatsApp empresarial publicado.",
     "verifiedAt": "2026-08-22",
     "notBefore": "2026-09-16",
-    "status": "queued"
+    "status": "sent",
+    "sentAt": "2026-09-22T15:55:22.824Z"
   },
   {
     "name": "Metro Pub",
@@ -899,7 +902,8 @@
     "evidence": "Perfil comercial atualizado em fevereiro de 2026 confirma pub ativo na Vila Guilhermina, com cervejas nacionais e importadas, gastronomia de pub, musica ao vivo e WhatsApp empresarial publicado.",
     "verifiedAt": "2026-08-22",
     "notBefore": "2026-09-16",
-    "status": "queued"
+    "status": "sent",
+    "sentAt": "2026-09-22T15:55:29.031Z"
   },
   {
     "name": "O Bretao Pub",
@@ -921,7 +925,8 @@
     "evidence": "Perfil comercial atualizado em abril de 2026 confirma bar ativo na Barra Funda, com coqueteis autorais, vinhos, cervejas artesanais, ambiente de balada com DJs e WhatsApp empresarial publicado.",
     "verifiedAt": "2026-08-22",
     "notBefore": "2026-09-16",
-    "status": "queued"
+    "status": "sent",
+    "sentAt": "2026-09-22T15:55:35.364Z"
   },
   {
     "name": "BlackPool Pub",
@@ -932,7 +937,8 @@
     "evidence": "Perfil comercial atualizado em fevereiro de 2026 confirma pub ativo no Tatuape, especializado em cervejas selecionadas e artesanais, com cinco torneiras e WhatsApp empresarial publicado.",
     "verifiedAt": "2026-08-22",
     "notBefore": "2026-09-16",
-    "status": "queued"
+    "status": "sent",
+    "sentAt": "2026-09-22T15:55:42.301Z"
   },
   {
     "name": "Bar do Cumpadi",

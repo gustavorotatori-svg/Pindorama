@@ -1184,5 +1184,115 @@
     "phone": "(11) 97227-5376",
     "source": "https://www.baressp.com.br/restaurantes/churrascarias/tocha-bar-e-brasa",
     "messageId": "3EB02313ADD83C17A32F86"
+  },
+  {
+    "date": "2026-09-22",
+    "checkedAt": "2026-09-22T15:55:06.943Z",
+    "status": "not_on_whatsapp",
+    "name": "Sampa Adega",
+    "phone": "(11) 98402-3929",
+    "source": "https://www.sampaadega.com.br/"
+  },
+  {
+    "date": "2026-09-22",
+    "checkedAt": "2026-09-22T15:55:07.106Z",
+    "status": "not_on_whatsapp",
+    "name": "Adega Frimar",
+    "phone": "(11) 5219-3878",
+    "source": "https://mycelium.lat/"
+  },
+  {
+    "date": "2026-09-22",
+    "checkedAt": "2026-09-22T15:55:07.270Z",
+    "status": "not_on_whatsapp",
+    "name": "Sphera Lounge",
+    "phone": "(11) 97636-3908",
+    "source": "https://www.spheralounge.com.br/"
+  },
+  {
+    "date": "2026-09-22",
+    "checkedAt": "2026-09-22T15:55:07.433Z",
+    "status": "not_on_whatsapp",
+    "name": "Dentro Bar",
+    "phone": "(11) 94998-2925",
+    "source": "https://www.baressp.com.br/bares/dentro-bar"
+  },
+  {
+    "date": "2026-09-22",
+    "checkedAt": "2026-09-22T15:55:07.773Z",
+    "status": "not_on_whatsapp",
+    "name": "No Ponto Espeto & Bar",
+    "phone": "(11) 99011-3879",
+    "source": "https://baressp.com.br/bares/no-ponto-espeto-e-bar"
+  },
+  {
+    "date": "2026-09-22",
+    "checkedAt": "2026-09-22T15:55:07.937Z",
+    "status": "not_on_whatsapp",
+    "name": "Boteco do Max Nola",
+    "phone": "(11) 99980-1876",
+    "source": "https://www.baressp.com.br/bares/boteco-do-max-nola-"
+  },
+  {
+    "date": "2026-09-22",
+    "acceptedAt": "2026-09-22T15:55:09.948Z",
+    "status": "accepted",
+    "name": "Old Town English Pub",
+    "phone": "(11) 99750-0989",
+    "source": "https://www.baressp.com.br/bares/old-town-english-pub",
+    "messageId": "3EB0F5AAFCDC2BFA641717"
+  },
+  {
+    "date": "2026-09-22",
+    "acceptedAt": "2026-09-22T15:55:16.137Z",
+    "status": "accepted",
+    "name": "Frater's Pub",
+    "phone": "(15) 99168-4529",
+    "source": "https://www.baressp.com.br/bares/fraters-pub",
+    "messageId": "3EB00AB647BB97C244D0EF"
+  },
+  {
+    "date": "2026-09-22",
+    "acceptedAt": "2026-09-22T15:55:22.824Z",
+    "status": "accepted",
+    "name": "Esquina do Meio",
+    "phone": "(11) 91140-0685",
+    "source": "https://www.baressp.com.br/bares/esquina-do-meio",
+    "messageId": "3EB02DC2BCF476209A9A0F"
+  },
+  {
+    "date": "2026-09-22",
+    "acceptedAt": "2026-09-22T15:55:29.031Z",
+    "status": "accepted",
+    "name": "Metro Pub",
+    "phone": "(11) 99883-7303",
+    "source": "https://www.baressp.com.br/bares/metro-pub",
+    "messageId": "3EB0EA9363AAD83A97BBDB"
+  },
+  {
+    "date": "2026-09-22",
+    "checkedAt": "2026-09-22T15:55:34.204Z",
+    "status": "not_on_whatsapp",
+    "name": "O Bretao Pub",
+    "phone": "(15) 99126-9981",
+    "source": "https://www.baressp.com.br/bares/o-bretao-pub"
+  },
+  {
+    "date": "2026-09-22",
+    "acceptedAt": "2026-09-22T15:55:35.364Z",
+    "status": "accepted",
+    "name": "Caracol Bar",
+    "phone": "(11) 99453-3957",
+    "source": "https://www.baressp.com.br/bares/caracol",
+    "messageId": "3EB03D87D6B20321BAB4C8"
+  },
+  {
+    "date": "2026-09-22",
+    "acceptedAt": "2026-09-22T15:55:42.301Z",
+    "status": "accepted",
+    "name": "BlackPool Pub",
+    "phone": "(11) 99474-8109",
+    "source": "https://www.baressp.com.br/bares/blackpool-pub",
+    "messageId": "3EB0E16FD7C8DD505BC015"
   }
 ]
