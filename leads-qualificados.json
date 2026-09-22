@@ -41573,7 +41573,10 @@
     "emailVerified": true,
     "emailSource": "https://maiscnpj.com.br/cnpj/26812452000161-hipervendas-distribuidora-de-bebidas-ltda",
     "emailVerifiedAt": "2026-09-15",
-    "date2": "2026-09-22"
+    "date2": "2026-09-22",
+    "doNotContact": true,
+    "bounced": true,
+    "bounceDate": "2026-09-22"
   },
   {
     "name": "EDI 3 Distribuidora de Bebidas",
@@ -41589,7 +41592,10 @@
     "emailVerified": true,
     "emailSource": "https://databrasil.net/empresas/32403710000159-EDI-3-DISTRIBUIDORA-DE-BEBIDAS-LTDA",
     "emailVerifiedAt": "2026-09-15",
-    "date2": "2026-09-22"
+    "date2": "2026-09-22",
+    "doNotContact": true,
+    "bounced": true,
+    "bounceDate": "2026-09-22"
   },
   {
     "name": "Distribuidora de Bebidas Cerejeira",
