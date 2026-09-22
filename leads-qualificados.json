@@ -44303,5 +44303,77 @@
     "emailVerified": true,
     "emailSource": "https://cnpj.biz/",
     "email1": false
+  },
+  {
+    "name": "Adega D'Autore",
+    "email": "contato@adegadautore.com.br",
+    "type": "adega",
+    "neighborhood": "Cambuí",
+    "context": "Adega/restaurante com carta de vinhos e destilados; Cambuí, Campinas/SP.",
+    "phone": "(19) 3307-3957",
+    "website": "https://adegadautore.com.br/contato/",
+    "emailVerified": true,
+    "emailSource": "https://adegadautore.com.br/contato/",
+    "email1": false
+  },
+  {
+    "name": "Adega Taruma",
+    "email": "adegataruma@gmail.com",
+    "type": "adega",
+    "neighborhood": "Jardim Taruma",
+    "context": "Adega/bar e tabacaria com delivery; Jardim Taruma, Jundiaí/SP.",
+    "phone": "(11) 2709-4457",
+    "website": "",
+    "emailVerified": true,
+    "emailSource": "https://www.diariocidade.com/sp/jundiai/guia/adega-taruma-24041974000181/",
+    "email1": false
+  },
+  {
+    "name": "Vinhos de Bicicleta",
+    "email": "contato@vinhosdebicicleta.com.br",
+    "type": "adega",
+    "neighborhood": "São José dos Campos",
+    "context": "Comércio de vinhos e bebidas; São José dos Campos/SP.",
+    "phone": "(12) 99140-2694",
+    "website": "https://vinhosdebicicleta.com.br",
+    "emailVerified": true,
+    "emailSource": "https://linkedin.com/company/vinhos-de-bicicleta",
+    "email1": false
+  },
+  {
+    "name": "Adega J.T.M.",
+    "email": "tehsoares2011@hotmail.com",
+    "type": "distribuidora",
+    "neighborhood": "Parque das Laranjeiras",
+    "context": "Distribuidora de bebidas (atacado); Parque das Laranjeiras, Sorocaba/SP.",
+    "phone": "(15) 9168-5158",
+    "website": "",
+    "emailVerified": true,
+    "emailSource": "https://distribuidorasdealimentos.com.br/sp/sorocaba/adega-j-t-m",
+    "email1": false
+  },
+  {
+    "name": "Adega Andriani",
+    "email": "maiaraa932@gmail.com",
+    "type": "adega",
+    "neighborhood": "Jundiaí",
+    "context": "Loja de bebidas (vinhos, uísques, destilados, cervejas); Jundiaí/SP.",
+    "phone": "",
+    "website": "https://adega-andriani.ueniweb.com/",
+    "emailVerified": false,
+    "emailSource": "https://adega-andriani.ueniweb.com/",
+    "email1": false
+  },
+  {
+    "name": "Armazém Campineiro Adega Empório e Tabacaria",
+    "email": "",
+    "type": "adega",
+    "neighborhood": "Jardim Nova Europa",
+    "context": "Adega/empório/tabacaria com delivery e degustações; Jardim Nova Europa, Campinas/SP.",
+    "phone": "(19) 98951-2800",
+    "website": "http://www.armazemcampineiro.com.br/",
+    "emailVerified": false,
+    "emailSource": "",
+    "email1": false
   }
 ]
