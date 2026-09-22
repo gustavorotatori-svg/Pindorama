@@ -41455,7 +41455,10 @@
     "emailVerified": true,
     "emailSource": "https://mestregeo.com.br/cnpj/sp/sao-paulo/adega-c-s-souza-distribuidora-de-bebidas-52855511000199",
     "emailVerifiedAt": "2026-09-15",
-    "date2": "2026-09-22"
+    "date2": "2026-09-22",
+    "doNotContact": true,
+    "bounced": true,
+    "bounceDate": "2026-09-22"
   },
   {
     "name": "Distribuidora Negri Atacadista",
@@ -41503,7 +41506,10 @@
     "emailVerified": true,
     "emailSource": "https://maiscnpj.com.br/cnpj/06099932000110-distribuidora-de-bebidas-master-sucos-ltda",
     "emailVerifiedAt": "2026-09-15",
-    "date2": "2026-09-22"
+    "date2": "2026-09-22",
+    "doNotContact": true,
+    "bounced": true,
+    "bounceDate": "2026-09-22"
   },
   {
     "name": "Mega Distribuidora de Bebidas",
