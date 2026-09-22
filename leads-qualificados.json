@@ -37083,7 +37083,9 @@
     "email1": true,
     "date1": "2026-09-17",
     "email2": true,
-    "date2": "2026-09-18"
+    "date2": "2026-09-18",
+    "email3": true,
+    "date3": "2026-09-22"
   },
   {
     "name": "Restaurante Confraria do Cambuci",
@@ -40137,7 +40139,9 @@
     "email1": true,
     "date1": "2026-09-17",
     "email2": true,
-    "date2": "2026-09-18"
+    "date2": "2026-09-18",
+    "email3": true,
+    "date3": "2026-09-22"
   },
   {
     "name": "Dora Bar Itaim Bibi",
@@ -40152,7 +40156,9 @@
     "email1": true,
     "date1": "2026-09-17",
     "email2": true,
-    "date2": "2026-09-18"
+    "date2": "2026-09-18",
+    "email3": true,
+    "date3": "2026-09-22"
   },
   {
     "name": "Adega Bezerra",
@@ -40167,7 +40173,9 @@
     "email1": true,
     "date1": "2026-09-17",
     "email2": true,
-    "date2": "2026-09-18"
+    "date2": "2026-09-18",
+    "email3": true,
+    "date3": "2026-09-22"
   },
   {
     "name": "Adega DW",
