@@ -949,7 +949,8 @@
     "evidence": "Perfil comercial atualizado em abril de 2026 confirma bar e restaurante ativo na Vila Isa, com happy hour, cervejas, drinks, coqueteis classicos e WhatsApp empresarial publicado.",
     "verifiedAt": "2026-08-22",
     "notBefore": "2026-09-16",
-    "status": "queued"
+    "status": "sent",
+    "sentAt": "2026-09-23T16:04:31.295Z"
   },
   {
     "name": "Jazzy Sushi House",
@@ -960,7 +961,8 @@
     "evidence": "Perfil comercial atualizado em fevereiro de 2026 confirma restaurante japones ativo no Campo Belo, com drinks autorais, ampla carta de vinhos e saques, e WhatsApp empresarial publicado.",
     "verifiedAt": "2026-08-22",
     "notBefore": "2026-09-16",
-    "status": "queued"
+    "status": "sent",
+    "sentAt": "2026-09-23T16:04:38.421Z"
   },
   {
     "name": "Almirante Bar e Restaurante",
@@ -971,7 +973,8 @@
     "evidence": "Perfil comercial atualizado em maio de 2026 confirma bar e restaurante ativo no Ipiranga, com gastronomia de boteco, cervejas, ambiente para encontros e WhatsApp empresarial publicado.",
     "verifiedAt": "2026-08-22",
     "notBefore": "2026-09-16",
-    "status": "queued"
+    "status": "sent",
+    "sentAt": "2026-09-23T16:04:45.467Z"
   },
   {
     "name": "Bambuteco",
@@ -982,7 +985,8 @@
     "evidence": "Perfil comercial atualizado em marco de 2026 confirma bar e restaurante ativo no Butanta, com happy hour, ambiente noturno, eventos e WhatsApp empresarial publicado.",
     "verifiedAt": "2026-08-22",
     "notBefore": "2026-09-16",
-    "status": "queued"
+    "status": "sent",
+    "sentAt": "2026-09-23T16:04:53.541Z"
   },
   {
     "name": "Bodega Pepito",
@@ -993,7 +997,8 @@
     "evidence": "Perfil comercial atualizado em fevereiro de 2026 confirma bodega e restaurante ativo em Pinheiros, com coqueteis classicos, ampla selecao de vinhos, vermute proprio e WhatsApp empresarial publicado.",
     "verifiedAt": "2026-08-22",
     "notBefore": "2026-09-16",
-    "status": "queued"
+    "status": "sent",
+    "sentAt": "2026-09-23T16:05:00.373Z"
   },
   {
     "name": "Quintal Bar SP",
@@ -1004,7 +1009,8 @@
     "evidence": "Perfil comercial atualizado em janeiro de 2026 confirma bar ativo no Tatuape, com carta de coqueteis, musica ao vivo, ambiente a ceu aberto e WhatsApp empresarial publicado.",
     "verifiedAt": "2026-08-22",
     "notBefore": "2026-09-16",
-    "status": "queued"
+    "status": "sent",
+    "sentAt": "2026-09-23T16:05:06.829Z"
   },
   {
     "name": "Chez Amis Bistro",

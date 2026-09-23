@@ -1294,5 +1294,115 @@
     "phone": "(11) 99474-8109",
     "source": "https://www.baressp.com.br/bares/blackpool-pub",
     "messageId": "3EB0E16FD7C8DD505BC015"
+  },
+  {
+    "date": "2026-09-23",
+    "checkedAt": "2026-09-23T16:04:28.209Z",
+    "status": "not_on_whatsapp",
+    "name": "Sampa Adega",
+    "phone": "(11) 98402-3929",
+    "source": "https://www.sampaadega.com.br/"
+  },
+  {
+    "date": "2026-09-23",
+    "checkedAt": "2026-09-23T16:04:28.375Z",
+    "status": "not_on_whatsapp",
+    "name": "Adega Frimar",
+    "phone": "(11) 5219-3878",
+    "source": "https://mycelium.lat/"
+  },
+  {
+    "date": "2026-09-23",
+    "checkedAt": "2026-09-23T16:04:28.535Z",
+    "status": "not_on_whatsapp",
+    "name": "Sphera Lounge",
+    "phone": "(11) 97636-3908",
+    "source": "https://www.spheralounge.com.br/"
+  },
+  {
+    "date": "2026-09-23",
+    "checkedAt": "2026-09-23T16:04:28.695Z",
+    "status": "not_on_whatsapp",
+    "name": "Dentro Bar",
+    "phone": "(11) 94998-2925",
+    "source": "https://www.baressp.com.br/bares/dentro-bar"
+  },
+  {
+    "date": "2026-09-23",
+    "checkedAt": "2026-09-23T16:04:29.013Z",
+    "status": "not_on_whatsapp",
+    "name": "No Ponto Espeto & Bar",
+    "phone": "(11) 99011-3879",
+    "source": "https://baressp.com.br/bares/no-ponto-espeto-e-bar"
+  },
+  {
+    "date": "2026-09-23",
+    "checkedAt": "2026-09-23T16:04:29.177Z",
+    "status": "not_on_whatsapp",
+    "name": "Boteco do Max Nola",
+    "phone": "(11) 99980-1876",
+    "source": "https://www.baressp.com.br/bares/boteco-do-max-nola-"
+  },
+  {
+    "date": "2026-09-23",
+    "checkedAt": "2026-09-23T16:04:29.419Z",
+    "status": "not_on_whatsapp",
+    "name": "O Bretao Pub",
+    "phone": "(15) 99126-9981",
+    "source": "https://www.baressp.com.br/bares/o-bretao-pub"
+  },
+  {
+    "date": "2026-09-23",
+    "acceptedAt": "2026-09-23T16:04:31.295Z",
+    "status": "accepted",
+    "name": "Bar do Cumpadi",
+    "phone": "(11) 2548-3447",
+    "source": "https://www.baressp.com.br/bares/bar-do-cumpadi-",
+    "messageId": "3EB011594252D61E822471"
+  },
+  {
+    "date": "2026-09-23",
+    "acceptedAt": "2026-09-23T16:04:38.421Z",
+    "status": "accepted",
+    "name": "Jazzy Sushi House",
+    "phone": "(11) 98979-0862",
+    "source": "https://baressp.com.br/restaurantes/japoneses/jazzy-sushi-house",
+    "messageId": "3EB02D09E527B40C03F713"
+  },
+  {
+    "date": "2026-09-23",
+    "acceptedAt": "2026-09-23T16:04:45.467Z",
+    "status": "accepted",
+    "name": "Almirante Bar e Restaurante",
+    "phone": "(11) 98462-8573",
+    "source": "https://www.baressp.com.br/bares/almirante-bar-e-restaurante",
+    "messageId": "3EB017659727CFCE823723"
+  },
+  {
+    "date": "2026-09-23",
+    "acceptedAt": "2026-09-23T16:04:53.541Z",
+    "status": "accepted",
+    "name": "Bambuteco",
+    "phone": "(11) 96843-9697",
+    "source": "https://baressp.com.br/restaurantes/bar-e-restaurante/bambuteco",
+    "messageId": "3EB04B3A353856839EB247"
+  },
+  {
+    "date": "2026-09-23",
+    "acceptedAt": "2026-09-23T16:05:00.373Z",
+    "status": "accepted",
+    "name": "Bodega Pepito",
+    "phone": "(11) 94313-1569",
+    "source": "https://baressp.com.br/restaurantes/espanhois/bodega-pepito",
+    "messageId": "3EB0C8214FAA8F57868704"
+  },
+  {
+    "date": "2026-09-23",
+    "acceptedAt": "2026-09-23T16:05:06.829Z",
+    "status": "accepted",
+    "name": "Quintal Bar SP",
+    "phone": "(11) 93953-4202",
+    "source": "https://baressp.com.br/bares/quintal-bar-sp",
+    "messageId": "3EB0658E1A76CADC2CADF7"
   }
 ]
