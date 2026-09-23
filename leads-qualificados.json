@@ -42049,7 +42049,10 @@
     "emailVerified": true,
     "emailSource": "https://maiscnpj.com.br/cnpj/63461722000163",
     "emailVerifiedAt": "2026-09-16",
-    "date2": "2026-09-23"
+    "date2": "2026-09-23",
+    "doNotContact": true,
+    "bounced": true,
+    "bounceDate": "2026-09-23"
   },
   {
     "name": "Emporio Morada das Bebidas",
