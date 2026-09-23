@@ -42357,11 +42357,12 @@
     "context": "Coquetel Bar Ltda em Sao Paulo (Rua Joao Teodoro 168, sobreloja, Bras), CNPJ 33.549.255/0001-67, ativo, aberto em 07/05/2019. CNAE 5611203 (lanchonete). Email corporativo do estabelecimento.",
     "date1": "2026-09-18",
     "email1": true,
-    "email2": false,
+    "email2": true,
     "email3": false,
     "emailVerified": true,
     "emailSource": "https://juridicoonline.com.br/empresa/33549255000167-coquetel-bar-ltda",
-    "emailVerifiedAt": "2026-09-17"
+    "emailVerifiedAt": "2026-09-17",
+    "date2": "2026-09-23"
   },
   {
     "name": "Bar e Adega Vermelho Ltda",
@@ -42372,11 +42373,12 @@
     "context": "Bar e Adega Vermelho em Sao Paulo (Consolacao), CNPJ 65.914.066/0001-32, ativo. CNAE principal 5611203 (lanchonete) e secundario 4723700 (comercio varejista de bebidas). Contato (11) 33715498.",
     "date1": "2026-09-18",
     "email1": true,
-    "email2": false,
+    "email2": true,
     "email3": false,
     "emailVerified": true,
     "emailSource": "https://casadosdados.com.br/solucao/cnpj/bar-e-adega-vermelho-ltda-65914066000132",
-    "emailVerifiedAt": "2026-09-17"
+    "emailVerifiedAt": "2026-09-17",
+    "date2": "2026-09-23"
   },
   {
     "name": "Emporio Adega Global Ltda",
@@ -42387,11 +42389,12 @@
     "context": "Emporio Adega Global em Sao Paulo (Jardim Umarizal, Avenida Anace 646, CEP 05755-090), CNPJ 63.012.885/0001-69, ativa desde 02/10/2025. CNAE principal 4712100 (mercearia/minimercado) e secundario 4723700 (comercio varejista de bebidas). Contato (11) 14081872.",
     "date1": "2026-09-18",
     "email1": true,
-    "email2": false,
+    "email2": true,
     "email3": false,
     "emailVerified": true,
     "emailSource": "https://casadosdados.com.br/solucao/cnpj/emporio-adega-global-ltda-63012885000169",
-    "emailVerifiedAt": "2026-09-17"
+    "emailVerifiedAt": "2026-09-17",
+    "date2": "2026-09-23"
   },
   {
     "name": "Elementar Bar e Restaurante Ltda",
@@ -42420,11 +42423,12 @@
     "context": "Olho de Vidro Bar em Sao Paulo (Pinheiros, Rua Mourato Coelho 1168, CEP 05417-002), CNPJ 65.331.543/0001-37, ativa desde 24/02/2026. CNAE 5611204 (bar) e 4723700 (bebidas). Contato (11) 30377947.",
     "date1": "2026-09-18",
     "email1": true,
-    "email2": false,
+    "email2": true,
     "email3": false,
     "emailVerified": true,
     "emailSource": "https://casadosdados.com.br/solucao/cnpj/olho-de-vidro-bar-ltda-65331543000137",
-    "emailVerifiedAt": "2026-09-18"
+    "emailVerifiedAt": "2026-09-18",
+    "date2": "2026-09-23"
   },
   {
     "name": "Barreto & Barreto Bebidas Ltda",
@@ -42435,11 +42439,12 @@
     "context": "Barreto & Barreto Bebidas / Adega do Gordao em Sao Paulo (Gleba do Pessego, Rua Malmequer-do-Campo 950, CEP 08265-380, Guarulhos), CNPJ 37.483.482/0001-98, ativa desde 22/06/2020. CNAE 5611204 (bar) e 4635499 (atacadista bebidas). Contato (11) 79742035 / 30071827.",
     "date1": "2026-09-18",
     "email1": true,
-    "email2": false,
+    "email2": true,
     "email3": false,
     "emailVerified": true,
     "emailSource": "https://cnpjgo.com.br/cnpj/37483482000198",
-    "emailVerifiedAt": "2026-09-18"
+    "emailVerifiedAt": "2026-09-18",
+    "date2": "2026-09-23"
   },
   {
     "name": "S.M. Distribuidora Ltda",
@@ -42468,11 +42473,12 @@
     "context": "E-Jr Distribuidora de Bebidas em Sao Paulo (Itaquera, Rua Luiz de Almeida Fernandes 188 Casa 02, CEP 08215-430), CNPJ 64.282.021/0001-20, ativa desde 05/01/2026. CNAE principal 4635499 (atacadista bebidas nao especificadas). Contato (11) 8156-1950.",
     "date1": "2026-09-18",
     "email1": true,
-    "email2": false,
+    "email2": true,
     "email3": false,
     "emailVerified": true,
     "emailSource": "https://juridicoonline.com.br/empresa/64282021000120-e-jr-distribuidora-de-bebidas-ltda",
-    "emailVerifiedAt": "2026-09-18"
+    "emailVerifiedAt": "2026-09-18",
+    "date2": "2026-09-23"
   },
   {
     "name": "4 M - Adega e Bar LTDA",
@@ -42483,11 +42489,12 @@
     "context": "CNAE 4635499+4723700+5611204 - adega e bar em SP Capital",
     "date1": "2026-09-19",
     "email1": true,
-    "email2": false,
+    "email2": true,
     "email3": false,
     "emailVerified": true,
     "emailSource": "https://cnpjaberto.com.br/cnpj/59413835000116",
-    "emailVerifiedAt": "2026-09-18"
+    "emailVerifiedAt": "2026-09-18",
+    "date2": "2026-09-23"
   },
   {
     "name": "Adega Dvn Bar E Lounge Ltda",
