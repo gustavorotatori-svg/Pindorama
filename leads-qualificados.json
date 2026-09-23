@@ -40331,7 +40331,9 @@
     "email1": true,
     "date1": "2026-09-17",
     "email2": true,
-    "date2": "2026-09-19"
+    "date2": "2026-09-19",
+    "email3": true,
+    "date3": "2026-09-23"
   },
   {
     "name": "Lanchonete Bar e Temakeria Moema",
@@ -41670,11 +41672,12 @@
     "context": "Adega em S├úo Paulo (Vila Buarque), raz├úo N.A. Miranda Bebidas, com├®rcio varejista de bebidas, ativa desde 04/02/2019.",
     "date1": "2026-09-15",
     "email1": true,
-    "email2": false,
+    "email2": true,
     "email3": false,
     "emailVerified": true,
     "emailSource": "https://www.diariocidade.com/sp/sao-paulo/guia/adega-da-major-32648409000105/",
-    "emailVerifiedAt": "2026-09-15"
+    "emailVerifiedAt": "2026-09-15",
+    "date2": "2026-09-23"
   },
   {
     "name": "Solute Distribuidora de Bebidas",
@@ -41685,11 +41688,12 @@
     "context": "Distribuidora de bebidas em S├úo Paulo (Catumbi), ativa desde 17/08/2023.",
     "date1": "2026-09-15",
     "email1": true,
-    "email2": false,
+    "email2": true,
     "email3": false,
     "emailVerified": true,
     "emailSource": "https://juridicoonline.com.br/empresa/51852486000127-solute-distribuidora-de-bebidas-ltda",
-    "emailVerifiedAt": "2026-09-15"
+    "emailVerifiedAt": "2026-09-15",
+    "date2": "2026-09-23"
   },
   {
     "name": "Adega Central Distribuidora de Bebidas",
@@ -41700,11 +41704,12 @@
     "context": "Adega e distribuidora de bebidas em Salto (Vila Nova), com├®rcio varejista CNAE 4723700, ativa.",
     "date1": "2026-09-15",
     "email1": true,
-    "email2": false,
+    "email2": true,
     "email3": false,
     "emailVerified": true,
     "emailSource": "https://casadosdados.com.br/solucao/cnpj/adega-central-distribuidora-de-bebidas-ltda-66221214000104",
-    "emailVerifiedAt": "2026-09-15"
+    "emailVerifiedAt": "2026-09-15",
+    "date2": "2026-09-23"
   },
   {
     "name": "Adega e Distribuidora Chega La",
