@@ -106,7 +106,7 @@ function suppressInvalidEmail(email, reason) {
 const TEMPLATES = {
   email1_consultivo: `Ol\u00e1 {nome},
 
-Vi que {contexto} e pensei que a Pindorama faria sentido para voc\u00eas.
+Primeiro pedido bonificado para teste \u2014 voc\u00eas testam sem risco.\n\nVi que {contexto} e pensei que a Pindorama faria sentido para voc\u00eas.
 
 Somos uma cacha\u00e7a artesanal premium produzida em fazenda pr\u00f3pria no Vale do Caf\u00e9 (RJ). Al\u00e9m de atender hot\u00e9is como Fasano, Hilton e Rosewood, oferecemos um pacote completo para bares e restaurantes:
 
@@ -120,7 +120,7 @@ Gostaria de saber se voc\u00eas trabalham com cacha\u00e7a no card\u00e1pio e se
 Posso passar mais detalhes ou agendar uma visita?`,
   email1_prova_social: `Ol\u00e1 {nome},
 
-Vi que {contexto} e gostaria de apresentar a Pindorama.
+Primeiro pedido bonificado para teste \u2014 voc\u00eas testam sem risco.\n\nVi que {contexto} e gostaria de apresentar a Pindorama.
 
 J\u00e1 estamos em contato com grupos como Fasano, Hilton e Rosewood, e a aceita\u00e7\u00e3o tem sido excelente. Produzimos cacha\u00e7a artesanal premium em fazenda pr\u00f3pria no Vale do Caf\u00e9 (RJ).
 
@@ -134,7 +134,7 @@ Nosso diferencial \u00e9 o suporte completo ao parceiro:
 Voc\u00eas teriam interesse em conhecer nossa linha e o que oferecemos?`,
   email1_pergunta: `Ol\u00e1 {nome},
 
-Vi que {contexto} e fiquei curioso \u2014 voc\u00eas trabalham com cacha\u00e7a no card\u00e1pio atual?
+Primeiro pedido bonificado para teste \u2014 voc\u00eas testam sem risco.\n\nVi que {contexto} e fiquei curioso \u2014 voc\u00eas trabalham com cacha\u00e7a no card\u00e1pio atual?
 
 Sou o Gustavo, da Pindorama. Produzimos cacha\u00e7a artesanal premium no Vale do Caf\u00e9 (RJ) e oferecemos um suporte completo para bares e restaurantes:
 
@@ -197,7 +197,7 @@ function pickTemplate(lead, step) {
 
 function getSubject(lead, step) {
   if (step === 'email1') {
-    return SUBJECTS[lead.type] || 'Cacha\u00e7a artesanal premium Pindorama';
+    return SUBJECTS[lead.type] || 'Primeiro pedido bonificado para teste \u2014 Pindorama';
   }
   if (step === 'email2') return 'Sobre a Pindorama';
   return '\u00daltimo contato \u2014 oferta especial de lan\u00e7amento Pindorama';
