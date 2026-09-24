@@ -1,6 +1,8 @@
 name: Followup Quentes Pindorama
 on:
   workflow_dispatch:
+permissions:
+  contents: write
 jobs:
   run-followup:
     runs-on: ubuntu-latest
