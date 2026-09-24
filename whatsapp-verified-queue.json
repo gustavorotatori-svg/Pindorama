@@ -1021,7 +1021,8 @@
     "evidence": "Perfil comercial atualizado em abril de 2026 confirma bistro ativo em Cerqueira Cesar, com carta de vinhos e coqueteis classicos, operacao diaria e WhatsApp empresarial de reservas publicado.",
     "verifiedAt": "2026-08-22",
     "notBefore": "2026-09-16",
-    "status": "queued"
+    "status": "sent",
+    "sentAt": "2026-09-24T13:41:21.231Z"
   },
   {
     "name": "Grainne's Irish Pub",
@@ -1032,7 +1033,8 @@
     "evidence": "Perfil comercial atualizado em fevereiro de 2026 confirma pub irlandes ativo no Cambui, com cervejas importadas, ampla carta de destilados, adega climatizada, musica ao vivo e WhatsApp empresarial publicado.",
     "verifiedAt": "2026-08-22",
     "notBefore": "2026-09-16",
-    "status": "queued"
+    "status": "sent",
+    "sentAt": "2026-09-24T13:41:26.885Z"
   },
   {
     "name": "LITA Wine Bar",
@@ -1043,7 +1045,8 @@
     "evidence": "Perfil comercial atualizado em marco de 2026 confirma wine bar ativo em Pinheiros, com mais de 400 rotulos, vermute na torneira, degustacoes e WhatsApp empresarial publicado.",
     "verifiedAt": "2026-08-22",
     "notBefore": "2026-09-16",
-    "status": "queued"
+    "status": "sent",
+    "sentAt": "2026-09-24T13:41:32.512Z"
   },
   {
     "name": "Silo Vinho",
@@ -1054,7 +1057,8 @@
     "evidence": "Perfil comercial atualizado em marco de 2026 confirma wine bar ativo na Barra Funda, com curadoria de vinhos organicos, biodinamicos e naturais, programacao com DJs e WhatsApp empresarial publicado.",
     "verifiedAt": "2026-08-22",
     "notBefore": "2026-09-16",
-    "status": "queued"
+    "status": "sent",
+    "sentAt": "2026-09-24T13:41:38.837Z"
   },
   {
     "name": "Vinhetta Cozinha Vinho e Jazz",
@@ -1065,7 +1069,8 @@
     "evidence": "Perfil comercial atualizado em abril de 2026 confirma restaurante e wine bar ativo na Vila Olimpia, com ampla carta de vinhos italianos, jazz ao vivo e WhatsApp empresarial publicado.",
     "verifiedAt": "2026-08-22",
     "notBefore": "2026-09-16",
-    "status": "queued"
+    "status": "sent",
+    "sentAt": "2026-09-24T13:41:44.573Z"
   },
   {
     "name": "Tisco Bar",
@@ -1076,7 +1081,8 @@
     "evidence": "Perfil comercial atualizado em abril de 2026 confirma bar ativo em Santa Cecilia, com operacao noturna, politica de rolha para vinhos e WhatsApp empresarial publicado.",
     "verifiedAt": "2026-08-22",
     "notBefore": "2026-09-16",
-    "status": "queued"
+    "status": "sent",
+    "sentAt": "2026-09-24T13:41:50.206Z"
   },
   {
     "name": "Platter & Co",

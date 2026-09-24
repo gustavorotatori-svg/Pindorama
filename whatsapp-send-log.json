@@ -1404,5 +1404,115 @@
     "phone": "(11) 93953-4202",
     "source": "https://baressp.com.br/bares/quintal-bar-sp",
     "messageId": "3EB0658E1A76CADC2CADF7"
+  },
+  {
+    "date": "2026-09-24",
+    "checkedAt": "2026-09-24T13:41:19.935Z",
+    "status": "not_on_whatsapp",
+    "name": "Sampa Adega",
+    "phone": "(11) 98402-3929",
+    "source": "https://www.sampaadega.com.br/"
+  },
+  {
+    "date": "2026-09-24",
+    "checkedAt": "2026-09-24T13:41:20.012Z",
+    "status": "not_on_whatsapp",
+    "name": "Adega Frimar",
+    "phone": "(11) 5219-3878",
+    "source": "https://mycelium.lat/"
+  },
+  {
+    "date": "2026-09-24",
+    "checkedAt": "2026-09-24T13:41:20.087Z",
+    "status": "not_on_whatsapp",
+    "name": "Sphera Lounge",
+    "phone": "(11) 97636-3908",
+    "source": "https://www.spheralounge.com.br/"
+  },
+  {
+    "date": "2026-09-24",
+    "checkedAt": "2026-09-24T13:41:20.161Z",
+    "status": "not_on_whatsapp",
+    "name": "Dentro Bar",
+    "phone": "(11) 94998-2925",
+    "source": "https://www.baressp.com.br/bares/dentro-bar"
+  },
+  {
+    "date": "2026-09-24",
+    "checkedAt": "2026-09-24T13:41:20.237Z",
+    "status": "not_on_whatsapp",
+    "name": "No Ponto Espeto & Bar",
+    "phone": "(11) 99011-3879",
+    "source": "https://baressp.com.br/bares/no-ponto-espeto-e-bar"
+  },
+  {
+    "date": "2026-09-24",
+    "checkedAt": "2026-09-24T13:41:20.312Z",
+    "status": "not_on_whatsapp",
+    "name": "Boteco do Max Nola",
+    "phone": "(11) 99980-1876",
+    "source": "https://www.baressp.com.br/bares/boteco-do-max-nola-"
+  },
+  {
+    "date": "2026-09-24",
+    "checkedAt": "2026-09-24T13:41:20.420Z",
+    "status": "not_on_whatsapp",
+    "name": "O Bretao Pub",
+    "phone": "(15) 99126-9981",
+    "source": "https://www.baressp.com.br/bares/o-bretao-pub"
+  },
+  {
+    "date": "2026-09-24",
+    "acceptedAt": "2026-09-24T13:41:21.231Z",
+    "status": "accepted",
+    "name": "Chez Amis Bistro",
+    "phone": "(11) 94504-4541",
+    "source": "https://www.baressp.com.br/restaurantes/franceses/chez-amis-bistro",
+    "messageId": "3EB013FE267C4FA621B7F9"
+  },
+  {
+    "date": "2026-09-24",
+    "acceptedAt": "2026-09-24T13:41:26.885Z",
+    "status": "accepted",
+    "name": "Grainne's Irish Pub",
+    "phone": "(19) 99931-9099",
+    "source": "https://baressp.com.br/bares/grainnes-irish-pub",
+    "messageId": "3EB0CABB75810253C2531E"
+  },
+  {
+    "date": "2026-09-24",
+    "acceptedAt": "2026-09-24T13:41:32.512Z",
+    "status": "accepted",
+    "name": "LITA Wine Bar",
+    "phone": "(11) 99886-2384",
+    "source": "https://baressp.com.br/bares/lita",
+    "messageId": "3EB0CFB2FC6B590F24550C"
+  },
+  {
+    "date": "2026-09-24",
+    "acceptedAt": "2026-09-24T13:41:38.837Z",
+    "status": "accepted",
+    "name": "Silo Vinho",
+    "phone": "(11) 99754-1432",
+    "source": "https://baressp.com.br/bares/silo-vinho",
+    "messageId": "3EB037DBCEBF9BE69DC0F5"
+  },
+  {
+    "date": "2026-09-24",
+    "acceptedAt": "2026-09-24T13:41:44.573Z",
+    "status": "accepted",
+    "name": "Vinhetta Cozinha Vinho e Jazz",
+    "phone": "(11) 94293-8671",
+    "source": "https://baressp.com.br/restaurantes/espanhois/vinhetta",
+    "messageId": "3EB0CCB7B075C00DA4FE34"
+  },
+  {
+    "date": "2026-09-24",
+    "acceptedAt": "2026-09-24T13:41:50.206Z",
+    "status": "accepted",
+    "name": "Tisco Bar",
+    "phone": "(11) 97280-7864",
+    "source": "https://www.baressp.com.br/bares/tisco-bar",
+    "messageId": "3EB0BE9F8F477CF5C22750"
   }
 ]
