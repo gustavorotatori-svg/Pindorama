@@ -40124,7 +40124,9 @@
     "email1": true,
     "date1": "2026-09-18",
     "email2": true,
-    "date2": "2026-09-20"
+    "date2": "2026-09-20",
+    "email3": true,
+    "date3": "2026-09-24"
   },
   {
     "name": "Dinamite Itaim Choperia",
@@ -40220,7 +40222,9 @@
     "email1": true,
     "date1": "2026-09-18",
     "email2": true,
-    "date2": "2026-09-20"
+    "date2": "2026-09-20",
+    "email3": true,
+    "date3": "2026-09-24"
   },
   {
     "name": "Restaurante Sultao Campo Belo",
@@ -40235,7 +40239,9 @@
     "email1": true,
     "date1": "2026-09-18",
     "email2": true,
-    "date2": "2026-09-20"
+    "date2": "2026-09-20",
+    "email3": true,
+    "date3": "2026-09-24"
   },
   {
     "name": "CBL Campo Belo Restaurante",
@@ -40250,7 +40256,9 @@
     "email1": true,
     "date1": "2026-09-18",
     "email2": true,
-    "date2": "2026-09-20"
+    "date2": "2026-09-20",
+    "email3": true,
+    "date3": "2026-09-24"
   },
   {
     "name": "Santorini Bar",
