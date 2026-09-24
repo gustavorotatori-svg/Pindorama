@@ -42697,11 +42697,12 @@
     "context": "CNAE adega/bar - SP Capital + Guarulhos",
     "date1": "2026-09-20",
     "email1": true,
-    "email2": false,
+    "email2": true,
     "email3": false,
     "emailVerified": true,
     "emailSource": "https://guiapj.com.br",
-    "emailVerifiedAt": "2026-09-18"
+    "emailVerifiedAt": "2026-09-18",
+    "date2": "2026-09-24"
   },
   {
     "name": "Agua, Bebidas e CIA",
@@ -42730,11 +42731,12 @@
     "context": "CNAE adega - Guarulhos",
     "date1": "2026-09-21",
     "email1": true,
-    "email2": false,
+    "email2": true,
     "email3": false,
     "emailVerified": true,
     "emailSource": "https://guiapj.com.br",
-    "emailVerifiedAt": "2026-09-20"
+    "emailVerifiedAt": "2026-09-20",
+    "date2": "2026-09-24"
   },
   {
     "name": "JJV DISTRIBUIDORA",
@@ -42745,11 +42747,12 @@
     "context": "CNAE distribuidora - Guarulhos",
     "date1": "2026-09-21",
     "email1": true,
-    "email2": false,
+    "email2": true,
     "email3": false,
     "emailVerified": true,
     "emailSource": "https://guiapj.com.br",
-    "emailVerifiedAt": "2026-09-20"
+    "emailVerifiedAt": "2026-09-20",
+    "date2": "2026-09-24"
   },
   {
     "name": "ADEGA DO MANE",
@@ -42760,11 +42763,12 @@
     "context": "CNAE adega - Guarulhos",
     "date1": "2026-09-21",
     "email1": true,
-    "email2": false,
+    "email2": true,
     "email3": false,
     "emailVerified": true,
     "emailSource": "https://guiapj.com.br",
-    "emailVerifiedAt": "2026-09-20"
+    "emailVerifiedAt": "2026-09-20",
+    "date2": "2026-09-24"
   },
   {
     "name": "XIBATA BEBIDAS",
@@ -42791,11 +42795,12 @@
     "context": "CNAE adega - Guarulhos",
     "date1": "2026-09-21",
     "email1": true,
-    "email2": false,
+    "email2": true,
     "email3": false,
     "emailVerified": true,
     "emailSource": "https://guiapj.com.br",
-    "emailVerifiedAt": "2026-09-20"
+    "emailVerifiedAt": "2026-09-20",
+    "date2": "2026-09-24"
   },
   {
     "name": "ADEGA TIO PATINHAS",
@@ -42822,11 +42827,12 @@
     "context": "CNAE loja bebidas - Guarulhos",
     "date1": "2026-09-21",
     "email1": true,
-    "email2": false,
+    "email2": true,
     "email3": false,
     "emailVerified": true,
     "emailSource": "https://guiapj.com.br",
-    "emailVerifiedAt": "2026-09-20"
+    "emailVerifiedAt": "2026-09-20",
+    "date2": "2026-09-24"
   },
   {
     "name": "REAL ADEGA",
@@ -42837,11 +42843,12 @@
     "context": "CNAE bar - Guarulhos",
     "date1": "2026-09-21",
     "email1": true,
-    "email2": false,
+    "email2": true,
     "email3": false,
     "emailVerified": true,
     "emailSource": "https://guiapj.com.br",
-    "emailVerifiedAt": "2026-09-20"
+    "emailVerifiedAt": "2026-09-20",
+    "date2": "2026-09-24"
   },
   {
     "name": "ESTRELA DO SUL COMERCIO DE BEBIDAS",
@@ -43429,11 +43436,12 @@
     "context": "CNAE adega/distribuidora - SP/Guarulhos/ABC",
     "date1": "2026-09-20",
     "email1": false,
-    "email2": false,
+    "email2": true,
     "email3": false,
     "emailVerified": true,
     "emailSource": "https://guiapj.com.br",
-    "emailVerifiedAt": "2026-09-20"
+    "emailVerifiedAt": "2026-09-20",
+    "date2": "2026-09-24"
   },
   {
     "name": "ADEGA DO ALEMAO",
