@@ -40307,7 +40307,9 @@
     "email1": true,
     "date1": "2026-09-18",
     "email2": true,
-    "date2": "2026-09-20"
+    "date2": "2026-09-20",
+    "email3": true,
+    "date3": "2026-09-24"
   },
   {
     "name": "Bar e Botequim Moema",
@@ -40356,7 +40358,9 @@
     "email1": true,
     "date1": "2026-09-18",
     "email2": true,
-    "date2": "2026-09-20"
+    "date2": "2026-09-20",
+    "email3": true,
+    "date3": "2026-09-24"
   },
   {
     "name": "Adega e Bar Salto",
@@ -40371,7 +40375,9 @@
     "email1": true,
     "date1": "2026-09-17",
     "email2": true,
-    "date2": "2026-09-20"
+    "date2": "2026-09-20",
+    "email3": true,
+    "date3": "2026-09-24"
   },
   {
     "name": "Vista Jardins Bar e Restaurante",
@@ -40386,7 +40392,9 @@
     "email1": true,
     "date1": "2026-09-18",
     "email2": true,
-    "date2": "2026-09-20"
+    "date2": "2026-09-20",
+    "email3": true,
+    "date3": "2026-09-24"
   },
   {
     "name": "Adega Brooklin",
@@ -40419,7 +40427,9 @@
     "email1": true,
     "date1": "2026-09-17",
     "email2": true,
-    "date2": "2026-09-20"
+    "date2": "2026-09-20",
+    "email3": true,
+    "date3": "2026-09-24"
   },
   {
     "name": "Vino Pinheiros",
@@ -40434,7 +40444,9 @@
     "email1": true,
     "date1": "2026-09-18",
     "email2": true,
-    "date2": "2026-09-20"
+    "date2": "2026-09-20",
+    "email3": true,
+    "date3": "2026-09-24"
   },
   {
     "name": "Adega Vila Sao Francisco",
@@ -40449,7 +40461,9 @@
     "email1": true,
     "date1": "2026-09-17",
     "email2": true,
-    "date2": "2026-09-20"
+    "date2": "2026-09-20",
+    "email3": true,
+    "date3": "2026-09-24"
   },
   {
     "name": "Emp├│rio dos Vinhos Tatuap├®",
@@ -40568,11 +40582,12 @@
     "date1": "2026-09-15",
     "email1": true,
     "email2": true,
-    "email3": false,
+    "email3": true,
     "emailVerified": true,
     "emailSource": "https://guiapj.com.br/consulta-cnpj/49003086000103",
     "emailVerifiedAt": "2026-09-15",
-    "date2": "2026-09-20"
+    "date2": "2026-09-20",
+    "date3": "2026-09-24"
   },
   {
     "name": "Adega Dantas Distribuidora",
@@ -40584,11 +40599,12 @@
     "date1": "2026-09-15",
     "email1": true,
     "email2": true,
-    "email3": false,
+    "email3": true,
     "emailVerified": true,
     "emailSource": "https://databrasil.net/empresas/15613897000104-ADEGA-DANTAS-DISTRIBUIDORA-DE-BEBIDAS-LTDA",
     "emailVerifiedAt": "2026-09-15",
-    "date2": "2026-09-20"
+    "date2": "2026-09-20",
+    "date3": "2026-09-24"
   },
   {
     "name": "Adega do Morro",
@@ -40600,11 +40616,12 @@
     "date1": "2026-09-15",
     "email1": true,
     "email2": true,
-    "email3": false,
+    "email3": true,
     "emailVerified": true,
     "emailSource": "https://guiapj.com.br/consulta-cnpj/51371753000144",
     "emailVerifiedAt": "2026-09-15",
-    "date2": "2026-09-20"
+    "date2": "2026-09-20",
+    "date3": "2026-09-24"
   },
   {
     "name": "Distribuidora e Adega Gomes",
@@ -40616,11 +40633,12 @@
     "date1": "2026-09-15",
     "email1": true,
     "email2": true,
-    "email3": false,
+    "email3": true,
     "emailVerified": true,
     "emailSource": "https://guiapj.com.br/consulta-cnpj/45551123000159",
     "emailVerifiedAt": "2026-09-15",
-    "date2": "2026-09-20"
+    "date2": "2026-09-20",
+    "date3": "2026-09-24"
   },
   {
     "name": "A Nossa Adega",
@@ -40632,11 +40650,12 @@
     "date1": "2026-09-15",
     "email1": true,
     "email2": true,
-    "email3": false,
+    "email3": true,
     "emailVerified": true,
     "emailSource": "https://guiapj.com.br/consulta-cnpj/32346151000192",
     "emailVerifiedAt": "2026-09-15",
-    "date2": "2026-09-20"
+    "date2": "2026-09-20",
+    "date3": "2026-09-24"
   },
   {
     "name": "JB Adega dos Mineiros",
@@ -40648,11 +40667,12 @@
     "date1": "2026-09-15",
     "email1": true,
     "email2": true,
-    "email3": false,
+    "email3": true,
     "emailVerified": true,
     "emailSource": "https://guiapj.com.br/consulta-cnpj/48656885000108",
     "emailVerifiedAt": "2026-09-15",
-    "date2": "2026-09-20"
+    "date2": "2026-09-20",
+    "date3": "2026-09-24"
   },
   {
     "name": "Adega 123",
@@ -40664,11 +40684,12 @@
     "date1": "2026-09-15",
     "email1": true,
     "email2": true,
-    "email3": false,
+    "email3": true,
     "emailVerified": true,
     "emailSource": "https://guiapj.com.br/consulta-cnpj/42294704000164",
     "emailVerifiedAt": "2026-09-15",
-    "date2": "2026-09-20"
+    "date2": "2026-09-20",
+    "date3": "2026-09-24"
   },
   {
     "name": "MLG Comercio de Bebidas",
@@ -40680,11 +40701,12 @@
     "date1": "2026-09-15",
     "email1": true,
     "email2": true,
-    "email3": false,
+    "email3": true,
     "emailVerified": true,
     "emailSource": "https://cnpj.tradexa.com.br/09074581000180",
     "emailVerifiedAt": "2026-09-15",
-    "date2": "2026-09-20"
+    "date2": "2026-09-20",
+    "date3": "2026-09-24"
   },
   {
     "name": "Adega JSB",
@@ -40714,11 +40736,12 @@
     "date1": "2026-09-15",
     "email1": true,
     "email2": true,
-    "email3": false,
+    "email3": true,
     "emailVerified": true,
     "emailSource": "https://guiapj.com.br/consulta-cnpj/24728210000169",
     "emailVerifiedAt": "2026-09-15",
-    "date2": "2026-09-20"
+    "date2": "2026-09-20",
+    "date3": "2026-09-24"
   },
   {
     "name": "Adega do Carijo",
@@ -40749,11 +40772,12 @@
     "date1": "2026-09-15",
     "email1": true,
     "email2": true,
-    "email3": false,
+    "email3": true,
     "emailVerified": true,
     "emailSource": "https://guiapj.com.br/consulta-cnpj/56705217000151",
     "emailVerifiedAt": "2026-09-15",
-    "date2": "2026-09-20"
+    "date2": "2026-09-20",
+    "date3": "2026-09-24"
   },
   {
     "name": "Distribuidora de Bebidas e Conveniencia Joao 23",
@@ -40784,11 +40808,12 @@
     "date1": "2026-09-15",
     "email1": true,
     "email2": true,
-    "email3": false,
+    "email3": true,
     "emailVerified": true,
     "emailSource": "https://guiapj.com.br/consulta-cnpj/43061850000102",
     "emailVerifiedAt": "2026-09-15",
-    "date2": "2026-09-20"
+    "date2": "2026-09-20",
+    "date3": "2026-09-24"
   },
   {
     "name": "KL Distribuidora de Bebidas",
@@ -40800,11 +40825,12 @@
     "date1": "2026-09-15",
     "email1": true,
     "email2": true,
-    "email3": false,
+    "email3": true,
     "emailVerified": true,
     "emailSource": "https://guiapj.com.br/consulta-cnpj/50730826000184",
     "emailVerifiedAt": "2026-09-15",
-    "date2": "2026-09-20"
+    "date2": "2026-09-20",
+    "date3": "2026-09-24"
   },
   {
     "name": "Adega Iuri Lima",
@@ -40835,11 +40861,12 @@
     "date1": "2026-09-15",
     "email1": true,
     "email2": true,
-    "email3": false,
+    "email3": true,
     "emailVerified": true,
     "emailSource": "https://guiapj.com.br/consulta-cnpj/00119392000102",
     "emailVerifiedAt": "2026-09-15",
-    "date2": "2026-09-20"
+    "date2": "2026-09-20",
+    "date3": "2026-09-24"
   },
   {
     "name": "Santropa Bebidas",
@@ -40889,11 +40916,12 @@
     "date1": "2026-09-15",
     "email1": true,
     "email2": true,
-    "email3": false,
+    "email3": true,
     "emailVerified": true,
     "emailSource": "https://cnpj.tradexa.com.br/61713745000192",
     "emailVerifiedAt": "2026-09-15",
-    "date2": "2026-09-20"
+    "date2": "2026-09-20",
+    "date3": "2026-09-24"
   },
   {
     "name": "Andrea Nunes Bebidas",
@@ -40905,11 +40933,12 @@
     "date1": "2026-09-15",
     "email1": true,
     "email2": true,
-    "email3": false,
+    "email3": true,
     "emailVerified": true,
     "emailSource": "https://cnpj.tradexa.com.br/27157422000121",
     "emailVerifiedAt": "2026-09-15",
-    "date2": "2026-09-20"
+    "date2": "2026-09-20",
+    "date3": "2026-09-24"
   },
   {
     "name": "AABJ Comercio de Bebidas",
@@ -40921,11 +40950,12 @@
     "date1": "2026-09-15",
     "email1": true,
     "email2": true,
-    "email3": false,
+    "email3": true,
     "emailVerified": true,
     "emailSource": "https://guiapj.com.br/consulta-cnpj/40339563000123",
     "emailVerifiedAt": "2026-09-15",
-    "date2": "2026-09-20"
+    "date2": "2026-09-20",
+    "date3": "2026-09-24"
   },
   {
     "name": "Adega Skinao",
@@ -40937,11 +40967,12 @@
     "date1": "2026-09-15",
     "email1": true,
     "email2": true,
-    "email3": false,
+    "email3": true,
     "emailVerified": true,
     "emailSource": "https://guiapj.com.br/consulta-cnpj/54847274000140",
     "emailVerifiedAt": "2026-09-15",
-    "date2": "2026-09-20"
+    "date2": "2026-09-20",
+    "date3": "2026-09-24"
   },
   {
     "name": "Adega Davila Formosa",
@@ -40953,11 +40984,12 @@
     "date1": "2026-09-15",
     "email1": true,
     "email2": true,
-    "email3": false,
+    "email3": true,
     "emailVerified": true,
     "emailSource": "https://guiapj.com.br/consulta-cnpj/53645349000147",
     "emailVerifiedAt": "2026-09-15",
-    "date2": "2026-09-20"
+    "date2": "2026-09-20",
+    "date3": "2026-09-24"
   },
   {
     "name": "Brasil Aguas Distribuidora",
@@ -40969,11 +41001,12 @@
     "date1": "2026-09-15",
     "email1": true,
     "email2": true,
-    "email3": false,
+    "email3": true,
     "emailVerified": true,
     "emailSource": "https://guiapj.com.br/consulta-cnpj/38152306000136",
     "emailVerifiedAt": "2026-09-15",
-    "date2": "2026-09-20"
+    "date2": "2026-09-20",
+    "date3": "2026-09-24"
   },
   {
     "name": "JVF Adega",
@@ -40985,11 +41018,12 @@
     "date1": "2026-09-15",
     "email1": true,
     "email2": true,
-    "email3": false,
+    "email3": true,
     "emailVerified": true,
     "emailSource": "https://guiapj.com.br/consulta-cnpj/58283426000180",
     "emailVerifiedAt": "2026-09-15",
-    "date2": "2026-09-20"
+    "date2": "2026-09-20",
+    "date3": "2026-09-24"
   },
   {
     "name": "Distribuidora e Comercio Jessica",
@@ -42531,11 +42565,12 @@
     "context": "CNAE 4723700 - adega em Guarulhos",
     "date1": "2026-09-19",
     "email1": true,
-    "email2": false,
+    "email2": true,
     "email3": false,
     "emailVerified": true,
     "emailSource": "https://guiapj.com.br/consulta-cnpj/29026431000109",
-    "emailVerifiedAt": "2026-09-18"
+    "emailVerifiedAt": "2026-09-18",
+    "date2": "2026-09-24"
   },
   {
     "name": "Bar Adega Nossa Senhora Aparecida",
@@ -42546,11 +42581,12 @@
     "context": "CNAE 5611203 - bar/adega em SP Capital (Vila Zat), ativa 11 anos",
     "date1": "2026-09-19",
     "email1": true,
-    "email2": false,
+    "email2": true,
     "email3": false,
     "emailVerified": true,
     "emailSource": "https://juridicoonline.com.br/empresa/22624628000109-bar-adega-nossa-senhora-aparecida-ltda",
-    "emailVerifiedAt": "2026-09-18"
+    "emailVerifiedAt": "2026-09-18",
+    "date2": "2026-09-24"
   },
   {
     "name": "Gaivotas Bar / Pinheirinho Cerveja",
@@ -42561,11 +42597,12 @@
     "context": "CNAE 5611203 - bar/lanchete em Pinheiros, SP Capital, ativa ha 20 anos",
     "date1": "2026-09-19",
     "email1": true,
-    "email2": false,
+    "email2": true,
     "email3": false,
     "emailVerified": true,
     "emailSource": "https://cnpjgo.com.br/cnpj/68948793000109",
-    "emailVerifiedAt": "2026-09-18"
+    "emailVerifiedAt": "2026-09-18",
+    "date2": "2026-09-24"
   },
   {
     "name": "Bar e Adega Altas Horas",
@@ -42576,11 +42613,12 @@
     "context": "CNAE 4729699+5611204 - bar/adega em SP Capital (Vila Campanela)",
     "date1": "2026-09-19",
     "email1": true,
-    "email2": false,
+    "email2": true,
     "email3": false,
     "emailVerified": true,
     "emailSource": "https://mestregeo.com.br/cnpj/sp/sao-paulo/bar-e-adega-altas-horas-52570548000170",
-    "emailVerifiedAt": "2026-09-18"
+    "emailVerifiedAt": "2026-09-18",
+    "date2": "2026-09-24"
   },
   {
     "name": "Distribuidora Adega Tapajo",
@@ -42591,11 +42629,12 @@
     "context": "CNAE 5611204 - bar/adega em Guarulhos (matriz ativa)",
     "date1": "2026-09-19",
     "email1": true,
-    "email2": false,
+    "email2": true,
     "email3": false,
     "emailVerified": true,
     "emailSource": "https://guiapj.com.br/consulta-cnpj/55706841000100",
-    "emailVerifiedAt": "2026-09-18"
+    "emailVerifiedAt": "2026-09-18",
+    "date2": "2026-09-24"
   },
   {
     "name": "Adega's Bar & Restaurante Ramos",
@@ -42606,11 +42645,12 @@
     "context": "CNAE 5611203 - bar/restaurante em SP Capital (Parque Novo Mundo), ativa ha 5 anos",
     "date1": "2026-09-19",
     "email1": true,
-    "email2": false,
+    "email2": true,
     "email3": false,
     "emailVerified": true,
     "emailSource": "https://juridicoonline.com.br/empresa/40441955000107-adega-ramos-bar-e-restaurante-ltda",
-    "emailVerifiedAt": "2026-09-18"
+    "emailVerifiedAt": "2026-09-18",
+    "date2": "2026-09-24"
   },
   {
     "name": "Nova Tiradentes Adega e Distribuidora",
@@ -42621,11 +42661,12 @@
     "context": "CNAE 4635499 - distribuidora de bebidas em Guarulhos",
     "date1": "2026-09-19",
     "email1": true,
-    "email2": false,
+    "email2": true,
     "email3": false,
     "emailVerified": true,
     "emailSource": "https://maiscnpj.com.br/cnpj/59350730000165-nova-tiradentes-adega-e-distribuidora-gru-ltda",
-    "emailVerifiedAt": "2026-09-18"
+    "emailVerifiedAt": "2026-09-18",
+    "date2": "2026-09-24"
   },
   {
     "name": "C.A.F Bar e Restaurante",
@@ -43370,11 +43411,12 @@
     "context": "CNAE adega/distribuidora - SP/Guarulhos/ABC",
     "date1": "2026-09-20",
     "email1": false,
-    "email2": false,
+    "email2": true,
     "email3": false,
     "emailVerified": true,
     "emailSource": "https://guiapj.com.br",
-    "emailVerifiedAt": "2026-09-20"
+    "emailVerifiedAt": "2026-09-20",
+    "date2": "2026-09-24"
   },
   {
     "name": "JJ DISTRIBUIDORA",
