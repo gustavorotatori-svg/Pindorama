@@ -42986,11 +42986,12 @@
     "context": "CNAE distribuidora - Osasco",
     "date1": "2026-09-21",
     "email1": true,
-    "email2": false,
+    "email2": true,
     "email3": false,
     "emailVerified": true,
     "emailSource": "https://guiapj.com.br",
-    "emailVerifiedAt": "2026-09-20"
+    "emailVerifiedAt": "2026-09-20",
+    "date2": "2026-09-25"
   },
   {
     "name": "LANCHONETTE CHEIRO BOM",
@@ -43001,11 +43002,12 @@
     "context": "CNAE bar - Osasco",
     "date1": "2026-09-21",
     "email1": true,
-    "email2": false,
+    "email2": true,
     "email3": false,
     "emailVerified": true,
     "emailSource": "https://guiapj.com.br",
-    "emailVerifiedAt": "2026-09-20"
+    "emailVerifiedAt": "2026-09-20",
+    "date2": "2026-09-25"
   },
   {
     "name": "SPACO RESTAURANTE",
@@ -43016,11 +43018,12 @@
     "context": "CNAE restaurante - Osasco",
     "date1": "2026-09-21",
     "email1": true,
-    "email2": false,
+    "email2": true,
     "email3": false,
     "emailVerified": true,
     "emailSource": "https://guiapj.com.br",
-    "emailVerifiedAt": "2026-09-20"
+    "emailVerifiedAt": "2026-09-20",
+    "date2": "2026-09-25"
   },
   {
     "name": "BOTECO DO PAPA",
