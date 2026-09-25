@@ -44528,5 +44528,23 @@
     "emailVerified": false,
     "emailSource": "",
     "email1": false
+  },
+  {
+    "name": "Decanter",
+    "email": "janete.neckel@decanter.com.br",
+    "type": "distribuidora",
+    "neighborhood": "",
+    "context": "Importadora/distribuidora de vinhos; contato da área de compras indicado pelo canal de vendas ao consumidor.",
+    "phone": "",
+    "website": "https://www.decanter.com.br",
+    "emailVerified": false,
+    "emailSource": "resposta recebida 2026-09-25",
+    "email1": true,
+    "date1": "2026-09-25",
+    "template": "consultivo",
+    "responded": true,
+    "responseDate": "2026-09-25",
+    "response": "Canal de vendas ao consumidor respondeu e indicou a área de compras: janete.neckel@decanter.com.br. Apresentação enviada em 2026-09-25.",
+    "respostaFollowupDate": "2026-09-25"
   }
 ]
