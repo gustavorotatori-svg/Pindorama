@@ -42923,11 +42923,12 @@
     "context": "CNAE emporio - Guarulhos",
     "date1": "2026-09-21",
     "email1": true,
-    "email2": false,
+    "email2": true,
     "email3": false,
     "emailVerified": true,
     "emailSource": "https://guiapj.com.br",
-    "emailVerifiedAt": "2026-09-20"
+    "emailVerifiedAt": "2026-09-20",
+    "date2": "2026-09-25"
   },
   {
     "name": "RR ADEGA BAR E TABACARIA",
@@ -42938,11 +42939,12 @@
     "context": "CNAE bar - Guarulhos",
     "date1": "2026-09-21",
     "email1": true,
-    "email2": false,
+    "email2": true,
     "email3": false,
     "emailVerified": true,
     "emailSource": "https://guiapj.com.br",
-    "emailVerifiedAt": "2026-09-20"
+    "emailVerifiedAt": "2026-09-20",
+    "date2": "2026-09-25"
   },
   {
     "name": "WINE LOVERS COMERCIO DE VINHOS",
@@ -42953,11 +42955,12 @@
     "context": "CNAE adega - Osasco",
     "date1": "2026-09-21",
     "email1": true,
-    "email2": false,
+    "email2": true,
     "email3": false,
     "emailVerified": true,
     "emailSource": "https://guiapj.com.br",
-    "emailVerifiedAt": "2026-09-20"
+    "emailVerifiedAt": "2026-09-20",
+    "date2": "2026-09-25"
   },
   {
     "name": "ADEGA E DISTRIBUIDORA NEVADA",
@@ -43028,11 +43031,12 @@
     "context": "CNAE bar - Osasco",
     "date1": "2026-09-21",
     "email1": true,
-    "email2": false,
+    "email2": true,
     "email3": false,
     "emailVerified": true,
     "emailSource": "https://guiapj.com.br",
-    "emailVerifiedAt": "2026-09-20"
+    "emailVerifiedAt": "2026-09-20",
+    "date2": "2026-09-25"
   },
   {
     "name": "ADEGA TERRA NOVA",
@@ -43043,11 +43047,12 @@
     "context": "CNAE restaurante - Sao Bernardo",
     "date1": "2026-09-21",
     "email1": true,
-    "email2": false,
+    "email2": true,
     "email3": false,
     "emailVerified": true,
     "emailSource": "https://guiapj.com.br",
-    "emailVerifiedAt": "2026-09-20"
+    "emailVerifiedAt": "2026-09-20",
+    "date2": "2026-09-25"
   },
   {
     "name": "DRCARDOSO ADEGA E BAR",
@@ -43058,11 +43063,12 @@
     "context": "CNAE adega - Mairu",
     "date1": "2026-09-21",
     "email1": true,
-    "email2": false,
+    "email2": true,
     "email3": false,
     "emailVerified": true,
     "emailSource": "https://guiapj.com.br",
-    "emailVerifiedAt": "2026-09-20"
+    "emailVerifiedAt": "2026-09-20",
+    "date2": "2026-09-25"
   },
   {
     "name": "ADEGA E DISTRIBUIDORA DO MARLEY",
@@ -43088,11 +43094,12 @@
     "context": "CNAE adega - SP Capital",
     "date1": "2026-09-21",
     "email1": true,
-    "email2": false,
+    "email2": true,
     "email3": false,
     "emailVerified": true,
     "emailSource": "https://guiapj.com.br",
-    "emailVerifiedAt": "2026-09-20"
+    "emailVerifiedAt": "2026-09-20",
+    "date2": "2026-09-25"
   },
   {
     "name": "ADEGA GS COMERCIO DE BEBIDAS",
@@ -43103,11 +43110,12 @@
     "context": "CNAE adega - SP Capital",
     "date1": "2026-09-21",
     "email1": true,
-    "email2": false,
+    "email2": true,
     "email3": false,
     "emailVerified": true,
     "emailSource": "https://guiapj.com.br",
-    "emailVerifiedAt": "2026-09-20"
+    "emailVerifiedAt": "2026-09-20",
+    "date2": "2026-09-25"
   },
   {
     "name": "JB MERCADO & ADEGA",
@@ -43154,11 +43162,12 @@
     "context": "CNAE adega - SP Capital",
     "date1": "2026-09-21",
     "email1": true,
-    "email2": false,
+    "email2": true,
     "email3": false,
     "emailVerified": true,
     "emailSource": "https://guiapj.com.br",
-    "emailVerifiedAt": "2026-09-20"
+    "emailVerifiedAt": "2026-09-20",
+    "date2": "2026-09-25"
   },
   {
     "name": "F&C BAR E RESTAURANTE",
@@ -43187,11 +43196,12 @@
     "context": "CNAE cervejaria - SP Capital",
     "date1": "2026-09-21",
     "email1": true,
-    "email2": false,
+    "email2": true,
     "email3": false,
     "emailVerified": true,
     "emailSource": "https://guiapj.com.br",
-    "emailVerifiedAt": "2026-09-20"
+    "emailVerifiedAt": "2026-09-20",
+    "date2": "2026-09-25"
   },
   {
     "name": "CORA BAR E RESTAURANTE",
@@ -43202,11 +43212,12 @@
     "context": "CNAE bar - SP Capital",
     "date1": "2026-09-21",
     "email1": true,
-    "email2": false,
+    "email2": true,
     "email3": false,
     "emailVerified": true,
     "emailSource": "https://guiapj.com.br",
-    "emailVerifiedAt": "2026-09-20"
+    "emailVerifiedAt": "2026-09-20",
+    "date2": "2026-09-25"
   },
   {
     "name": "BAR E RESTAURANTE 564",
@@ -43217,11 +43228,12 @@
     "context": "CNAE bar - SP Capital",
     "date1": "2026-09-21",
     "email1": true,
-    "email2": false,
+    "email2": true,
     "email3": false,
     "emailVerified": true,
     "emailSource": "https://guiapj.com.br",
-    "emailVerifiedAt": "2026-09-20"
+    "emailVerifiedAt": "2026-09-20",
+    "date2": "2026-09-25"
   },
   {
     "name": "ESQUINA BAR E RESTAURANTE",
@@ -43250,11 +43262,12 @@
     "context": "CNAE restaurante - SP Capital",
     "date1": "2026-09-21",
     "email1": true,
-    "email2": false,
+    "email2": true,
     "email3": false,
     "emailVerified": true,
     "emailSource": "https://guiapj.com.br",
-    "emailVerifiedAt": "2026-09-20"
+    "emailVerifiedAt": "2026-09-20",
+    "date2": "2026-09-25"
   },
   {
     "name": "PMA RESTAURANTE ARABE",
@@ -43301,11 +43314,12 @@
     "context": "CNAE restaurante - SP Capital",
     "date1": "2026-09-21",
     "email1": true,
-    "email2": false,
+    "email2": true,
     "email3": false,
     "emailVerified": true,
     "emailSource": "https://guiapj.com.br",
-    "emailVerifiedAt": "2026-09-20"
+    "emailVerifiedAt": "2026-09-20",
+    "date2": "2026-09-25"
   },
   {
     "name": "BRAESPO RESTAURANTE",
@@ -43334,11 +43348,12 @@
     "context": "CNAE restaurante - SP Capital",
     "date1": "2026-09-21",
     "email1": true,
-    "email2": false,
+    "email2": true,
     "email3": false,
     "emailVerified": true,
     "emailSource": "https://guiapj.com.br",
-    "emailVerifiedAt": "2026-09-20"
+    "emailVerifiedAt": "2026-09-20",
+    "date2": "2026-09-25"
   },
   {
     "name": "GARFFO SANTO RESTAURANTE",
@@ -43349,11 +43364,12 @@
     "context": "CNAE restaurante - SP Capital",
     "date1": "2026-09-21",
     "email1": true,
-    "email2": false,
+    "email2": true,
     "email3": false,
     "emailVerified": true,
     "emailSource": "https://guiapj.com.br",
-    "emailVerifiedAt": "2026-09-20"
+    "emailVerifiedAt": "2026-09-20",
+    "date2": "2026-09-25"
   },
   {
     "name": "NORDESTINOS SERRA GRANDE",
@@ -43364,11 +43380,12 @@
     "context": "CNAE restaurante - SP Capital",
     "date1": "2026-09-21",
     "email1": true,
-    "email2": false,
+    "email2": true,
     "email3": false,
     "emailVerified": true,
     "emailSource": "https://guiapj.com.br",
-    "emailVerifiedAt": "2026-09-20"
+    "emailVerifiedAt": "2026-09-20",
+    "date2": "2026-09-25"
   },
   {
     "name": "MAIS DISTRIBUIDORA DE BEBIDAS",
@@ -43379,11 +43396,12 @@
     "context": "CNAE distribuidora - SP Capital",
     "date1": "2026-09-21",
     "email1": true,
-    "email2": false,
+    "email2": true,
     "email3": false,
     "emailVerified": true,
     "emailSource": "https://guiapj.com.br",
-    "emailVerifiedAt": "2026-09-20"
+    "emailVerifiedAt": "2026-09-20",
+    "date2": "2026-09-25"
   },
   {
     "name": "BEBILAR COMERCIAL",
@@ -43394,11 +43412,12 @@
     "context": "CNAE distribuidora - SP Capital",
     "date1": "2026-09-21",
     "email1": true,
-    "email2": false,
+    "email2": true,
     "email3": false,
     "emailVerified": true,
     "emailSource": "https://guiapj.com.br",
-    "emailVerifiedAt": "2026-09-20"
+    "emailVerifiedAt": "2026-09-20",
+    "date2": "2026-09-25"
   },
   {
     "name": "GARFFO SANTO",
@@ -43409,11 +43428,12 @@
     "context": "CNAE adega/distribuidora - SP/Guarulhos/ABC",
     "date1": "2026-09-21",
     "email1": true,
-    "email2": false,
+    "email2": true,
     "email3": false,
     "emailVerified": true,
     "emailSource": "https://guiapj.com.br",
-    "emailVerifiedAt": "2026-09-20"
+    "emailVerifiedAt": "2026-09-20",
+    "date2": "2026-09-25"
   },
   {
     "name": "ADEGA SAO PEDRO",
@@ -43456,11 +43476,12 @@
     "context": "CNAE adega/distribuidora - SP/Guarulhos/ABC",
     "date1": "2026-09-21",
     "email1": true,
-    "email2": false,
+    "email2": true,
     "email3": false,
     "emailVerified": true,
     "emailSource": "https://guiapj.com.br",
-    "emailVerifiedAt": "2026-09-20"
+    "emailVerifiedAt": "2026-09-20",
+    "date2": "2026-09-25"
   },
   {
     "name": "ADEGA DO MARLEY",
@@ -43486,11 +43507,12 @@
     "context": "CNAE adega/distribuidora - SP/Guarulhos/ABC",
     "date1": "2026-09-20",
     "email1": false,
-    "email2": false,
+    "email2": true,
     "email3": false,
     "emailVerified": true,
     "emailSource": "https://guiapj.com.br",
-    "emailVerifiedAt": "2026-09-20"
+    "emailVerifiedAt": "2026-09-20",
+    "date2": "2026-09-25"
   },
   {
     "name": "ADEGA GS",
@@ -43501,11 +43523,12 @@
     "context": "CNAE adega/distribuidora - SP/Guarulhos/ABC",
     "date1": "2026-09-20",
     "email1": false,
-    "email2": false,
+    "email2": true,
     "email3": false,
     "emailVerified": true,
     "emailSource": "https://guiapj.com.br",
-    "emailVerifiedAt": "2026-09-20"
+    "emailVerifiedAt": "2026-09-20",
+    "date2": "2026-09-25"
   },
   {
     "name": "WS ADEGA",
