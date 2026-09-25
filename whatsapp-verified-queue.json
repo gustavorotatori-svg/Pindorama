@@ -1093,7 +1093,8 @@
     "evidence": "Perfil comercial atualizado em julho de 2026 confirma restaurante e listening wine bar ativo no Jardim Paulista, com vinhos em taca, delivery, eventos e WhatsApp empresarial publicado.",
     "verifiedAt": "2026-08-22",
     "notBefore": "2026-09-16",
-    "status": "queued"
+    "status": "sent",
+    "sentAt": "2026-09-25T13:36:02.659Z"
   },
   {
     "name": "Vino! Higienopolis",
@@ -1104,7 +1105,8 @@
     "evidence": "Perfil comercial atualizado em abril de 2026 confirma wine bar e restaurante ativo em Higienopolis, com vinhos em taca, coquetelaria, pizzas artesanais e WhatsApp empresarial publicado.",
     "verifiedAt": "2026-08-22",
     "notBefore": "2026-09-16",
-    "status": "queued"
+    "status": "sent",
+    "sentAt": "2026-09-25T13:36:07.916Z"
   },
   {
     "name": "Ogni Giorno Moema",
@@ -1115,7 +1117,8 @@
     "evidence": "Perfil comercial atualizado em junho de 2026 confirma restaurante italiano ativo em Moema, com cerca de 40 rotulos de vinhos, operacao de almoco e jantar e WhatsApp empresarial publicado.",
     "verifiedAt": "2026-08-22",
     "notBefore": "2026-09-16",
-    "status": "queued"
+    "status": "sent",
+    "sentAt": "2026-09-25T13:36:13.198Z"
   },
   {
     "name": "Enoteca Decanter",
@@ -1126,7 +1129,8 @@
     "evidence": "Perfil comercial atualizado em fevereiro de 2026 confirma enoteca ativa com loja, wine bar, sala de degustacao e WhatsApp empresarial publicado.",
     "verifiedAt": "2026-08-22",
     "notBefore": "2026-09-16",
-    "status": "queued"
+    "status": "sent",
+    "sentAt": "2026-09-25T13:36:18.731Z"
   },
   {
     "name": "Bra Bra Amauri",
@@ -1137,7 +1141,8 @@
     "evidence": "Perfil comercial atualizado em marco de 2026 confirma bar e restaurante ativo no Itaim Bibi, com carta de cerca de 30 rotulos de vinho e WhatsApp empresarial publicado.",
     "verifiedAt": "2026-08-22",
     "notBefore": "2026-09-16",
-    "status": "queued"
+    "status": "sent",
+    "sentAt": "2026-09-25T13:36:23.992Z"
   },
   {
     "name": "Famiglia Geraci",
@@ -1148,7 +1153,8 @@
     "evidence": "Perfil comercial atualizado em abril de 2026 confirma restaurante italiano ativo na Vila Olimpia, com vinhos em taca e garrafa, delivery, eventos e WhatsApp empresarial publicado.",
     "verifiedAt": "2026-08-22",
     "notBefore": "2026-09-16",
-    "status": "queued"
+    "status": "sent",
+    "sentAt": "2026-09-25T13:36:29.337Z"
   },
   {
     "name": "Hifi Community",

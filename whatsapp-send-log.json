@@ -1514,5 +1514,115 @@
     "phone": "(11) 97280-7864",
     "source": "https://www.baressp.com.br/bares/tisco-bar",
     "messageId": "3EB0BE9F8F477CF5C22750"
+  },
+  {
+    "date": "2026-09-25",
+    "checkedAt": "2026-09-25T13:36:01.884Z",
+    "status": "not_on_whatsapp",
+    "name": "Sampa Adega",
+    "phone": "(11) 98402-3929",
+    "source": "https://www.sampaadega.com.br/"
+  },
+  {
+    "date": "2026-09-25",
+    "checkedAt": "2026-09-25T13:36:01.921Z",
+    "status": "not_on_whatsapp",
+    "name": "Adega Frimar",
+    "phone": "(11) 5219-3878",
+    "source": "https://mycelium.lat/"
+  },
+  {
+    "date": "2026-09-25",
+    "checkedAt": "2026-09-25T13:36:01.959Z",
+    "status": "not_on_whatsapp",
+    "name": "Sphera Lounge",
+    "phone": "(11) 97636-3908",
+    "source": "https://www.spheralounge.com.br/"
+  },
+  {
+    "date": "2026-09-25",
+    "checkedAt": "2026-09-25T13:36:01.996Z",
+    "status": "not_on_whatsapp",
+    "name": "Dentro Bar",
+    "phone": "(11) 94998-2925",
+    "source": "https://www.baressp.com.br/bares/dentro-bar"
+  },
+  {
+    "date": "2026-09-25",
+    "checkedAt": "2026-09-25T13:36:02.104Z",
+    "status": "not_on_whatsapp",
+    "name": "No Ponto Espeto & Bar",
+    "phone": "(11) 99011-3879",
+    "source": "https://baressp.com.br/bares/no-ponto-espeto-e-bar"
+  },
+  {
+    "date": "2026-09-25",
+    "checkedAt": "2026-09-25T13:36:02.141Z",
+    "status": "not_on_whatsapp",
+    "name": "Boteco do Max Nola",
+    "phone": "(11) 99980-1876",
+    "source": "https://www.baressp.com.br/bares/boteco-do-max-nola-"
+  },
+  {
+    "date": "2026-09-25",
+    "checkedAt": "2026-09-25T13:36:02.179Z",
+    "status": "not_on_whatsapp",
+    "name": "O Bretao Pub",
+    "phone": "(15) 99126-9981",
+    "source": "https://www.baressp.com.br/bares/o-bretao-pub"
+  },
+  {
+    "date": "2026-09-25",
+    "acceptedAt": "2026-09-25T13:36:02.659Z",
+    "status": "accepted",
+    "name": "Platter & Co",
+    "phone": "(11) 98947-6125",
+    "source": "https://www.baressp.com.br/restaurantes/cozinha-contemporanea/platter-e-co",
+    "messageId": "3EB0204AD78D0251C76957"
+  },
+  {
+    "date": "2026-09-25",
+    "acceptedAt": "2026-09-25T13:36:07.916Z",
+    "status": "accepted",
+    "name": "Vino! Higienopolis",
+    "phone": "(11) 93383-7977",
+    "source": "https://www.baressp.com.br/restaurantes/enotecas/vino-higienopolis",
+    "messageId": "3EB0459863B69F340473A1"
+  },
+  {
+    "date": "2026-09-25",
+    "acceptedAt": "2026-09-25T13:36:13.198Z",
+    "status": "accepted",
+    "name": "Ogni Giorno Moema",
+    "phone": "(11) 92484-0232",
+    "source": "https://www.baressp.com.br/restaurantes/italianos/ogni-giorno-moema",
+    "messageId": "3EB078BF2EF9FAE8A84ED5"
+  },
+  {
+    "date": "2026-09-25",
+    "acceptedAt": "2026-09-25T13:36:18.731Z",
+    "status": "accepted",
+    "name": "Enoteca Decanter",
+    "phone": "(11) 99736-3280",
+    "source": "https://www.baressp.com.br/restaurantes/enotecas/enoteca-decanter-",
+    "messageId": "3EB09F3497881B18D9F510"
+  },
+  {
+    "date": "2026-09-25",
+    "acceptedAt": "2026-09-25T13:36:23.992Z",
+    "status": "accepted",
+    "name": "Bra Bra Amauri",
+    "phone": "(11) 91837-1995",
+    "source": "https://www.baressp.com.br/restaurantes/bar-e-restaurante/bra-bra-amauri",
+    "messageId": "3EB04FE880DEB468AD86C4"
+  },
+  {
+    "date": "2026-09-25",
+    "acceptedAt": "2026-09-25T13:36:29.337Z",
+    "status": "accepted",
+    "name": "Famiglia Geraci",
+    "phone": "(11) 98569-6969",
+    "source": "https://baressp.com.br/restaurantes/italianos/famiglia-geraci",
+    "messageId": "3EB0DF8A674002BDE7C77D"
   }
 ]
