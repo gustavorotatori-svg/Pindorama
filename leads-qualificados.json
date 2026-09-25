@@ -42859,11 +42859,12 @@
     "context": "CNAE distribuidora - Guarulhos",
     "date1": "2026-09-21",
     "email1": true,
-    "email2": false,
+    "email2": true,
     "email3": false,
     "emailVerified": true,
     "emailSource": "https://guiapj.com.br",
-    "emailVerifiedAt": "2026-09-20"
+    "emailVerifiedAt": "2026-09-20",
+    "date2": "2026-09-25"
   },
   {
     "name": "ADEGA ELENCO",
@@ -42874,11 +42875,12 @@
     "context": "CNAE adega - Guarulhos",
     "date1": "2026-09-21",
     "email1": true,
-    "email2": false,
+    "email2": true,
     "email3": false,
     "emailVerified": true,
     "emailSource": "https://guiapj.com.br",
-    "emailVerifiedAt": "2026-09-20"
+    "emailVerifiedAt": "2026-09-20",
+    "date2": "2026-09-25"
   },
   {
     "name": "R&O COMERCIO IMPORTACAO E DISTRIBUICAO",
@@ -42889,11 +42891,12 @@
     "context": "CNAE distribuidora - Guarulhos",
     "date1": "2026-09-21",
     "email1": true,
-    "email2": false,
+    "email2": true,
     "email3": false,
     "emailVerified": true,
     "emailSource": "https://guiapj.com.br",
-    "emailVerifiedAt": "2026-09-20"
+    "emailVerifiedAt": "2026-09-20",
+    "date2": "2026-09-25"
   },
   {
     "name": "DANIELA MARIA DA SILVA",
@@ -42904,11 +42907,12 @@
     "context": "CNAE loja bebidas - Guarulhos",
     "date1": "2026-09-21",
     "email1": true,
-    "email2": false,
+    "email2": true,
     "email3": false,
     "emailVerified": true,
     "emailSource": "https://guiapj.com.br",
-    "emailVerifiedAt": "2026-09-20"
+    "emailVerifiedAt": "2026-09-20",
+    "date2": "2026-09-25"
   },
   {
     "name": "MAGIA DOS GRAOS EMPORIO",
