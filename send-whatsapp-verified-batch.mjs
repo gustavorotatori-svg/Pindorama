@@ -74,7 +74,7 @@ for (const target of eligible) {
     writeFileSync(logFile, JSON.stringify(log, null, 2));
     continue;
   }
-  const message = `Olá! Sou o Gustavo, da Pindorama, cachaça artesanal premium do Vale do Café (RJ). Vi o trabalho da ${target.name} e Primeiro pedido bonificado para teste: voc\u00eas experimentam nossa cacha\u00e7a artesanal premium do Vale do Caf\u00e9 (RJ) sem risco. Vi o trabalho da ${target.name} e acredito que nossa linha pode combinar com a operação de vocês. Oferecemos amostra gratuita, treinamento da equipe, degustadora, bonificação no primeiro pedido, frete CIF e pagamento em 21 dias. Posso enviar a apresentação e a tabela comercial? Se não houver interesse, me avise e não volto a contatar por aqui.`;
+  const message = `Olá! Sou o Gustavo, da Pindorama — cachaça artesanal premium do Vale do Café (RJ), a mesma de Fasano, Hilton e Rosewood. Quero mandar uma amostra grátis para a ${target.name} testar, com o primeiro pedido bonificado. Posso combinar o envio? Se não interessar, me avisa que não volto a chamar.`;
   const result = await sendText(`${number}@s.whatsapp.net`, message);
   const messageId = result?.key?.id || null;
   const lead = leads.find((item) => item.name === target.name);

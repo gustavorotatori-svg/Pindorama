@@ -104,87 +104,67 @@ function suppressInvalidEmail(email, reason) {
 }
 
 const TEMPLATES = {
-  email1_consultivo: `Ol\u00e1 {nome},
+  email1_consultivo: `Olá {nome},
 
-Primeiro pedido bonificado para teste \u2014 voc\u00eas testam sem risco.\n\nVi que {contexto} e pensei que a Pindorama faria sentido para voc\u00eas.
+Vi que {contexto}.
 
-Somos uma cacha\u00e7a artesanal premium produzida em fazenda pr\u00f3pria no Vale do Caf\u00e9 (RJ). Al\u00e9m de atender hot\u00e9is como Fasano, Hilton e Rosewood, oferecemos um pacote completo para bares e restaurantes:
+Sou o Gustavo, da Pindorama — cachaça artesanal premium de fazenda própria no Vale do Café (RJ), a mesma que atende Fasano, Hilton e Rosewood.
 
-\u2022 Amostra gr\u00e1tis para conhecer a linha
-\u2022 Degustadoras para fazer a\u00e7\u00f5es no seu estabelecimento
-\u2022 Treinamento para sua equipe sobre o produto
-\u2022 Bonifica\u00e7\u00e3o no primeiro pedido teste
+Quero colocar nossa linha aí sem risco nenhum para você:
 
-Gostaria de saber se voc\u00eas trabalham com cacha\u00e7a no card\u00e1pio e se estariam abertos a conhecer nosso modelo.
+• Amostra grátis para provar antes de decidir
+• Primeiro pedido bonificado para teste
+• Degustadora e treinamento da equipe por nossa conta
 
-Posso passar mais detalhes ou agendar uma visita?`,
-  email1_prova_social: `Ol\u00e1 {nome},
+Topa? Me passa o melhor endereço de entrega que mando a amostra esta semana.`,
+  email1_prova_social: `Olá {nome},
 
-Primeiro pedido bonificado para teste \u2014 voc\u00eas testam sem risco.\n\nVi que {contexto} e gostaria de apresentar a Pindorama.
+Vi que {contexto}.
 
-J\u00e1 estamos em contato com grupos como Fasano, Hilton e Rosewood, e a aceita\u00e7\u00e3o tem sido excelente. Produzimos cacha\u00e7a artesanal premium em fazenda pr\u00f3pria no Vale do Caf\u00e9 (RJ).
+Fasano, Hilton e Rosewood já trabalham com a Pindorama — e estou abrindo a mesma condição para poucas casas da região:
 
-Nosso diferencial \u00e9 o suporte completo ao parceiro:
+• Amostra grátis para avaliação
+• Primeiro pedido bonificado para teste
+• Degustadora e treinamento inclusos
 
-\u2022 Amostra gr\u00e1tis para avalia\u00e7\u00e3o
-\u2022 Degustadoras para a\u00e7\u00f5es no sal\u00e3o
-\u2022 Treinamento da equipe
-\u2022 Bonifica\u00e7\u00e3o no pedido teste
+Quer que eu reserve uma amostra para vocês? É só me passar o endereço de entrega.`,
+  email1_pergunta: `Olá {nome},
 
-Voc\u00eas teriam interesse em conhecer nossa linha e o que oferecemos?`,
-  email1_pergunta: `Ol\u00e1 {nome},
+Pergunta rápida: vocês já têm uma cachaça premium no cardápio?
 
-Primeiro pedido bonificado para teste \u2014 voc\u00eas testam sem risco.\n\nVi que {contexto} e fiquei curioso \u2014 voc\u00eas trabalham com cacha\u00e7a no card\u00e1pio atual?
+Sou o Gustavo, da Pindorama (Vale do Café, RJ). Vi que {contexto} — e para casas assim ofereço:
 
-Sou o Gustavo, da Pindorama. Produzimos cacha\u00e7a artesanal premium no Vale do Caf\u00e9 (RJ) e oferecemos um suporte completo para bares e restaurantes:
+• Amostra grátis para testar
+• Primeiro pedido bonificado
+• Frete CIF e 21 dias para pagar
 
-\u2022 Amostra gr\u00e1tis para testar a linha
-\u2022 Degustadoras para a\u00e7\u00f5es com seus clientes
-\u2022 Treinamento para gar\u00e7ons e equipe
-\u2022 Bonifica\u00e7\u00e3o no primeiro pedido
+Mando a amostra esta semana? Me passa o endereço.`,
+  email2: `Olá {nome},
 
-Faz sentido para voc\u00eas conhecer?
+Semana passada te escrevi sobre a Pindorama e não tive retorno — normal, caixa cheia.
 
-Vale uma troca de ideia r\u00e1pida?`,
-  email2: `Ol\u00e1 {nome},
+Resumo em 3 linhas: cachaça artesanal premium (a mesma de Fasano, Hilton e Rosewood), amostra grátis para provar e primeiro pedido bonificado para teste. Zero risco.
 
-Tudo bem? Semana passada entrei em contato apresentando a Pindorama.
+Mando a amostra para qual endereço?`,
+  email3: `Olá {nome},
 
-Al\u00e9m da cacha\u00e7a artesanal premium, queria refor\u00e7ar o que oferecemos para parceiros:
+Último contato — prometo não insistir depois deste.
 
-\u2022 Amostra gr\u00e1tis para conhecer a linha
-\u2022 Degustadoras para a\u00e7\u00f5es no estabelecimento
-\u2022 Treinamento completo para equipe
-\u2022 Bonifica\u00e7\u00e3o no primeiro pedido teste
+Deixo a porta aberta: amostra grátis + primeiro pedido bonificado para teste, quando fizer sentido para vocês. Basta responder este e-mail.
 
-Gostaria de saber se faz sentido para o card\u00e1pio de voc\u00eas. Posso passar os detalhes ou agendar uma visita para conversarmos.`,
-  email3: `Ol\u00e1 {nome},
-
-Esse \u00e9 meu \u00faltimo contato \u2014 n\u00e3o quero perder a chance de voc\u00eas conhecerem a Pindorama.
-
-Nosso pacote completo para parceiros:
-
-\u2022 Amostra gr\u00e1tis para avalia\u00e7\u00e3o
-\u2022 Degustadoras para a\u00e7\u00f5es no sal\u00e3o
-\u2022 Treinamento da equipe
-\u2022 Bonifica\u00e7\u00e3o no primeiro pedido
-\u2022 Frete CIF e pagamento em 21 dias
-
-Se quiser testar, \u00e9 s\u00f3 me enviar os dados cadastrais que emito a NF de Amostra Gr\u00e1tis.
-
-Pode responder esse email ou me ligar.`
+Sucesso aí!`
 };
 
 Object.keys(TEMPLATES).forEach(k => { TEMPLATES[k] += SIGNATURE; });
 
 const SUBJECTS = {
-  bar: 'Cacha\u00e7a artesanal premium para seu bar',
-  restaurante: 'Cacha\u00e7a artesanal premium para seu restaurante',
-  adega: 'Cacha\u00e7a artesanal premium para sua adega',
-  loja_bebidas: 'Cacha\u00e7a artesanal premium para sua loja de bebidas',
-  distribuidora: 'Cacha\u00e7a Pindorama para sua distribuidora de bebidas',
-  hotel: 'Cacha\u00e7a artesanal premium para seu hotel',
-  balada: 'Cacha\u00e7a Pindorama para sua balada'
+  bar: 'Amostra gr\u00e1tis + pedido bonificado para seu bar',
+  restaurante: 'Amostra gr\u00e1tis + pedido bonificado para seu restaurante',
+  adega: 'Amostra gr\u00e1tis + pedido bonificado para sua adega',
+  loja_bebidas: 'Amostra gr\u00e1tis + pedido bonificado para sua loja',
+  distribuidora: 'Amostra gr\u00e1tis + pedido bonificado para sua distribuidora',
+  hotel: 'Amostra gr\u00e1tis + pedido bonificado para seu hotel',
+  balada: 'Amostra gr\u00e1tis + pedido bonificado para sua balada'
 };
 
 function pickTemplate(lead, step) {
@@ -199,7 +179,7 @@ function getSubject(lead, step) {
   if (step === 'email1') {
     return SUBJECTS[lead.type] || 'Primeiro pedido bonificado para teste \u2014 Pindorama';
   }
-  if (step === 'email2') return 'Sobre a Pindorama';
+  if (step === 'email2') return 'Sobre a amostra gr\u00e1tis Pindorama';
   return '\u00daltimo contato \u2014 oferta especial de lan\u00e7amento Pindorama';
 }
 
