@@ -116,7 +116,14 @@ Quero colocar nossa linha aí sem risco nenhum para você:
 • Primeiro pedido bonificado para teste
 • Degustadora e treinamento da equipe por nossa conta
 
-Topa? Me passa o melhor endereço de entrega que mando a amostra esta semana.`,
+Topa? Para mandar a amostra grátis, responda com:
+
+• Nome do responsável
+• Endereço completo de entrega (rua, número, complemento, bairro, cidade, CEP)
+• CNPJ da casa
+• WhatsApp para combinar a entrega
+
+Mando esta semana.`,
   email1_prova_social: `Olá {nome},
 
 Vi que {contexto}.
@@ -127,7 +134,14 @@ Fasano, Hilton e Rosewood já trabalham com a Pindorama — e estou abrindo a me
 • Primeiro pedido bonificado para teste
 • Degustadora e treinamento inclusos
 
-Quer que eu reserve uma amostra para vocês? É só me passar o endereço de entrega.`,
+Topa? Para mandar a amostra grátis, responda com:
+
+• Nome do responsável
+• Endereço completo de entrega (rua, número, complemento, bairro, cidade, CEP)
+• CNPJ da casa
+• WhatsApp para combinar a entrega
+
+Mando esta semana.`,
   email1_pergunta: `Olá {nome},
 
 Pergunta rápida: vocês já têm uma cachaça premium no cardápio?
@@ -138,7 +152,14 @@ Sou o Gustavo, da Pindorama (Vale do Café, RJ). Vi que {contexto} — e para ca
 • Primeiro pedido bonificado
 • Frete CIF e 21 dias para pagar
 
-Mando a amostra esta semana? Me passa o endereço.`,
+Topa? Para mandar a amostra grátis, responda com:
+
+• Nome do responsável
+• Endereço completo de entrega (rua, número, complemento, bairro, cidade, CEP)
+• CNPJ da casa
+• WhatsApp para combinar a entrega
+
+Mando esta semana.`,
   email2: `Olá {nome},
 
 Semana passada te escrevi sobre a Pindorama e não tive retorno — normal, caixa cheia.
