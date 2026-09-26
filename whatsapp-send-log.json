@@ -1624,5 +1624,196 @@
     "phone": "(11) 98569-6969",
     "source": "https://baressp.com.br/restaurantes/italianos/famiglia-geraci",
     "messageId": "3EB0DF8A674002BDE7C77D"
+  },
+  {
+    "date": "2026-09-26",
+    "checkedAt": "2026-09-26T13:52:57.356Z",
+    "status": "not_on_whatsapp",
+    "name": "Sampa Adega",
+    "phone": "(11) 98402-3929",
+    "source": "https://www.sampaadega.com.br/"
+  },
+  {
+    "date": "2026-09-26",
+    "checkedAt": "2026-09-26T13:52:57.375Z",
+    "status": "not_on_whatsapp",
+    "name": "Adega Frimar",
+    "phone": "(11) 5219-3878",
+    "source": "https://mycelium.lat/"
+  },
+  {
+    "date": "2026-09-26",
+    "checkedAt": "2026-09-26T13:52:57.394Z",
+    "status": "not_on_whatsapp",
+    "name": "Sphera Lounge",
+    "phone": "(11) 97636-3908",
+    "source": "https://www.spheralounge.com.br/"
+  },
+  {
+    "date": "2026-09-26",
+    "checkedAt": "2026-09-26T13:52:57.413Z",
+    "status": "not_on_whatsapp",
+    "name": "Dentro Bar",
+    "phone": "(11) 94998-2925",
+    "source": "https://www.baressp.com.br/bares/dentro-bar"
+  },
+  {
+    "date": "2026-09-26",
+    "checkedAt": "2026-09-26T13:52:57.511Z",
+    "status": "not_on_whatsapp",
+    "name": "No Ponto Espeto & Bar",
+    "phone": "(11) 99011-3879",
+    "source": "https://baressp.com.br/bares/no-ponto-espeto-e-bar"
+  },
+  {
+    "date": "2026-09-26",
+    "checkedAt": "2026-09-26T13:52:57.529Z",
+    "status": "not_on_whatsapp",
+    "name": "Boteco do Max Nola",
+    "phone": "(11) 99980-1876",
+    "source": "https://www.baressp.com.br/bares/boteco-do-max-nola-"
+  },
+  {
+    "date": "2026-09-26",
+    "checkedAt": "2026-09-26T13:52:57.548Z",
+    "status": "not_on_whatsapp",
+    "name": "O Bretao Pub",
+    "phone": "(15) 99126-9981",
+    "source": "https://www.baressp.com.br/bares/o-bretao-pub"
+  },
+  {
+    "date": "2026-09-26",
+    "acceptedAt": "2026-09-26T13:52:58.042Z",
+    "status": "accepted",
+    "name": "Hifi Community",
+    "phone": "(11) 91782-0896",
+    "source": "https://www.baressp.com.br/restaurantes/bar-e-restaurante/hifi-community",
+    "messageId": "3EB0043DC2E064A4672E7D"
+  },
+  {
+    "date": "2026-09-26",
+    "acceptedAt": "2026-09-26T13:53:03.263Z",
+    "status": "accepted",
+    "name": "Coxixo",
+    "phone": "(11) 92049-7108",
+    "source": "https://www.baressp.com.br/restaurantes/bar-e-restaurante/coxixo",
+    "messageId": "3EB0BE41C86474F1BE7A00"
+  },
+  {
+    "date": "2026-09-26",
+    "acceptedAt": "2026-09-26T13:53:08.702Z",
+    "status": "accepted",
+    "name": "Aura Gastrobar",
+    "phone": "(11) 93916-8837",
+    "source": "https://www.baressp.com.br/restaurantes/bar-e-restaurante/aura-gastrobar",
+    "messageId": "3EB0D6942A8D3126702645"
+  },
+  {
+    "date": "2026-09-26",
+    "acceptedAt": "2026-09-26T13:53:14.071Z",
+    "status": "accepted",
+    "name": "Esquina Aroeira",
+    "phone": "(11) 2359-3809",
+    "source": "https://www.baressp.com.br/restaurantes/bar-e-restaurante/esquina-aroeira",
+    "messageId": "3EB0E35C6D59626C1F6133"
+  },
+  {
+    "date": "2026-09-26",
+    "acceptedAt": "2026-09-26T13:53:19.506Z",
+    "status": "accepted",
+    "name": "Espeto Bom",
+    "phone": "(11) 94725-5612",
+    "source": "https://www.baressp.com.br/restaurantes/bar-e-restaurante/espeto-bom",
+    "messageId": "3EB03488E42A4F04BAE364"
+  },
+  {
+    "date": "2026-09-26",
+    "acceptedAt": "2026-09-26T13:53:24.879Z",
+    "status": "accepted",
+    "name": "Gu'San Shopping Continental",
+    "phone": "(11) 91454-0205",
+    "source": "https://www.baressp.com.br/restaurantes/japoneses/gusan-shopping-continental",
+    "messageId": "3EB0C527317DD8A0E6B0B1"
+  },
+  {
+    "date": "2026-09-26",
+    "acceptedAt": "2026-09-26T13:53:32.210Z",
+    "status": "accepted",
+    "name": "Bar Brahma Paulista",
+    "phone": "(11) 94746-2664",
+    "source": "https://baressp.com.br/bares/bar-brahma-paulista",
+    "messageId": "3EB09ECEC403A51271E785"
+  },
+  {
+    "date": "2026-09-26",
+    "acceptedAt": "2026-09-26T13:53:38.631Z",
+    "status": "accepted",
+    "name": "Vaca Viuva Choperia",
+    "phone": "(11) 99110-5916",
+    "source": "https://baressp.com.br/bares/vaca-viuva",
+    "messageId": "3EB0464EA359D9B6159193"
+  },
+  {
+    "date": "2026-09-26",
+    "acceptedAt": "2026-09-26T13:53:43.843Z",
+    "status": "accepted",
+    "name": "Partisans Pub",
+    "phone": "(11) 99271-2759",
+    "source": "https://www.baressp.com.br/bares/partisans-pub",
+    "messageId": "3EB075F6D8C36D194EFC42"
+  },
+  {
+    "date": "2026-09-26",
+    "acceptedAt": "2026-09-26T13:53:49.186Z",
+    "status": "accepted",
+    "name": "Bistrot de Ville Vila Mariana",
+    "phone": "(11) 98348-3472",
+    "source": "https://baressp.com.br/restaurantes/franceses/bistrot-de-ville-vila-mariana",
+    "messageId": "3EB0785061BB1D53E3231F"
+  },
+  {
+    "date": "2026-09-26",
+    "acceptedAt": "2026-09-26T13:53:54.417Z",
+    "status": "accepted",
+    "name": "Bar do Vital",
+    "phone": "(11) 98754-9923",
+    "source": "https://www.baressp.com.br/bares/bar-do-vital",
+    "messageId": "3EB0050A3ADB081CF186D3"
+  },
+  {
+    "date": "2026-09-26",
+    "acceptedAt": "2026-09-26T13:53:59.727Z",
+    "status": "accepted",
+    "name": "Quintal da Casemiro",
+    "phone": "(11) 97779-3867",
+    "source": "https://baressp.com.br/bares/quintal-da-casemiro",
+    "messageId": "3EB0F1D665579ACD2A69E7"
+  },
+  {
+    "date": "2026-09-26",
+    "acceptedAt": "2026-09-26T13:54:05.120Z",
+    "status": "accepted",
+    "name": "W3 Restaurante Jaragua",
+    "phone": "(11) 97481-6296",
+    "source": "https://www.baressp.com.br/restaurantes/cozinha-contemporanea/w3-restaurante",
+    "messageId": "3EB0CAEA860F1BB0C1AEA5"
+  },
+  {
+    "date": "2026-09-26",
+    "acceptedAt": "2026-09-26T13:54:10.440Z",
+    "status": "accepted",
+    "name": "Malibu Park Aclimacao",
+    "phone": "(11) 91114-0817",
+    "source": "https://www.baressp.com.br/restaurantes/brasileiros/malibu-park-aclimacao",
+    "messageId": "3EB04608266B01BC24212F"
+  },
+  {
+    "date": "2026-09-26",
+    "acceptedAt": "2026-09-26T13:54:15.968Z",
+    "status": "accepted",
+    "name": "Praca Figueiras Gastrobar",
+    "phone": "(11) 4509-0121",
+    "source": "https://www.pracafigueiras.com.br/",
+    "messageId": "3EB04D18F1A34AA44BDD54"
   }
 ]
