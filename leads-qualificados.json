@@ -41419,11 +41419,12 @@
     "date1": "2026-09-15",
     "email1": true,
     "email2": true,
-    "email3": false,
+    "email3": true,
     "emailVerified": true,
     "emailSource": "https://guiapj.com.br/consulta-cnpj/62363797000149",
     "emailVerifiedAt": "2026-09-15",
-    "date2": "2026-09-22"
+    "date2": "2026-09-22",
+    "date3": "2026-09-26"
   },
   {
     "name": "Distribuidora de Bebidas JD",
@@ -41435,11 +41436,12 @@
     "date1": "2026-09-15",
     "email1": true,
     "email2": true,
-    "email3": false,
+    "email3": true,
     "emailVerified": true,
     "emailSource": "https://databrasil.net/empresas/32771544000224-DISTRIBUIDORA-DE-BEBIDAS-JD-LTDA",
     "emailVerifiedAt": "2026-09-15",
-    "date2": "2026-09-22"
+    "date2": "2026-09-22",
+    "date3": "2026-09-26"
   },
   {
     "name": "Bramon Distribuidora de Bebidas",
@@ -41451,11 +41453,12 @@
     "date1": "2026-09-15",
     "email1": true,
     "email2": true,
-    "email3": false,
+    "email3": true,
     "emailVerified": true,
     "emailSource": "https://databrasil.net/empresas/00472325000177-BRAMON-DISTRIBUIDORA-DE-BEBIDAS-LTDA",
     "emailVerifiedAt": "2026-09-15",
-    "date2": "2026-09-22"
+    "date2": "2026-09-22",
+    "date3": "2026-09-26"
   },
   {
     "name": "Borin Distribuidora de Bebidas",
