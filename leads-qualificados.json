@@ -41470,11 +41470,12 @@
     "date1": "2026-09-15",
     "email1": true,
     "email2": true,
-    "email3": false,
+    "email3": true,
     "emailVerified": true,
     "emailSource": "https://databrasil.net/empresas/33233613000128-BORIN-DISTRIBUIDORA-DE-BEBIDAS-LTDA",
     "emailVerifiedAt": "2026-09-15",
-    "date2": "2026-09-22"
+    "date2": "2026-09-22",
+    "date3": "2026-09-26"
   },
   {
     "name": "Dopi Distribuidora de Bebidas e Alimentos",
@@ -41486,11 +41487,12 @@
     "date1": "2026-09-15",
     "email1": true,
     "email2": true,
-    "email3": false,
+    "email3": true,
     "emailVerified": true,
     "emailSource": "https://maiscnpj.com.br/cnpj/15391793000194-dopi-distribuidora-de-bebidas-e-alimentos-ltda",
     "emailVerifiedAt": "2026-09-15",
-    "date2": "2026-09-22"
+    "date2": "2026-09-22",
+    "date3": "2026-09-26"
   },
   {
     "name": "Isalex Distribuidora de Bebidas",
@@ -41502,11 +41504,12 @@
     "date1": "2026-09-15",
     "email1": true,
     "email2": true,
-    "email3": false,
+    "email3": true,
     "emailVerified": true,
     "emailSource": "https://databrasil.net/empresas/41283911000150-ISALEX-DISTRIBUIDORA-DE-BEBIDAS-LTDA",
     "emailVerifiedAt": "2026-09-15",
-    "date2": "2026-09-22"
+    "date2": "2026-09-22",
+    "date3": "2026-09-26"
   },
   {
     "name": "Adega C S Souza Distribuidora de Bebidas",
@@ -41537,11 +41540,12 @@
     "date1": "2026-09-15",
     "email1": true,
     "email2": true,
-    "email3": false,
+    "email3": true,
     "emailVerified": true,
     "emailSource": "https://mestregeo.com.br/cnpj/sp/sao-bernardo-do-campo/distribuidora-negri-atacadista-63917096000339",
     "emailVerifiedAt": "2026-09-15",
-    "date2": "2026-09-22"
+    "date2": "2026-09-22",
+    "date3": "2026-09-26"
   },
   {
     "name": "Mestre Das Bebidas",
@@ -41553,11 +41557,12 @@
     "date1": "2026-09-15",
     "email1": true,
     "email2": true,
-    "email3": false,
+    "email3": true,
     "emailVerified": true,
     "emailSource": "https://www.diariocidade.com/sp/campinas/guia/mestre-das-bebidas-27504112000136/",
     "emailVerifiedAt": "2026-09-15",
-    "date2": "2026-09-22"
+    "date2": "2026-09-22",
+    "date3": "2026-09-26"
   },
   {
     "name": "Distribuidora de Bebidas Master Sucos",
@@ -41588,11 +41593,12 @@
     "date1": "2026-09-15",
     "email1": true,
     "email2": true,
-    "email3": false,
+    "email3": true,
     "emailVerified": true,
     "emailSource": "https://maiscnpj.com.br/cnpj/04737613000167-mega-distribuidora-de-bebidas-ltda",
     "emailVerifiedAt": "2026-09-15",
-    "date2": "2026-09-22"
+    "date2": "2026-09-22",
+    "date3": "2026-09-26"
   },
   {
     "name": "JF de Sousa Adega",
@@ -41604,11 +41610,12 @@
     "date1": "2026-09-15",
     "email1": true,
     "email2": true,
-    "email3": false,
+    "email3": true,
     "emailVerified": true,
     "emailSource": "https://databrasil.net/empresas/40021957000139-JF-DE-SOUSA-ADEGA-LTDA",
     "emailVerifiedAt": "2026-09-15",
-    "date2": "2026-09-22"
+    "date2": "2026-09-22",
+    "date3": "2026-09-26"
   },
   {
     "name": "Adega Dois Irmaos",
@@ -41620,11 +41627,12 @@
     "date1": "2026-09-15",
     "email1": true,
     "email2": true,
-    "email3": false,
+    "email3": true,
     "emailVerified": true,
     "emailSource": "https://databrasil.net/empresas/32294558000113-ADEGA-DOIS-IRMAOS-LTDA",
     "emailVerifiedAt": "2026-09-15",
-    "date2": "2026-09-22"
+    "date2": "2026-09-22",
+    "date3": "2026-09-26"
   },
   {
     "name": "Hipervendas Distribuidora de Bebidas",
@@ -41674,11 +41682,12 @@
     "date1": "2026-09-15",
     "email1": true,
     "email2": true,
-    "email3": false,
+    "email3": true,
     "emailVerified": true,
     "emailSource": "https://databrasil.net/empresas/41000460000105-DISTRIBUIDORA-DE-BEBIDAS-CEREJEIRA-LTDA",
     "emailVerifiedAt": "2026-09-15",
-    "date2": "2026-09-22"
+    "date2": "2026-09-22",
+    "date3": "2026-09-26"
   },
   {
     "name": "Distribuidora de Bebidas Formosa",
@@ -41690,11 +41699,12 @@
     "date1": "2026-09-15",
     "email1": true,
     "email2": true,
-    "email3": false,
+    "email3": true,
     "emailVerified": true,
     "emailSource": "https://www.diariocidade.com/sp/sorocaba/guia/distribuidora-de-bebidas-formosa-30643223000138/",
     "emailVerifiedAt": "2026-09-15",
-    "date2": "2026-09-22"
+    "date2": "2026-09-22",
+    "date3": "2026-09-26"
   },
   {
     "name": "Distribuidora de Bebidas dos Amigos",
@@ -41706,11 +41716,12 @@
     "date1": "2026-09-15",
     "email1": true,
     "email2": true,
-    "email3": false,
+    "email3": true,
     "emailVerified": true,
     "emailSource": "https://mestregeo.com.br/cnpj/sp/atibaia/distribuidora-de-bebidas-dos-amigos-02992300000120",
     "emailVerifiedAt": "2026-09-15",
-    "date2": "2026-09-22"
+    "date2": "2026-09-22",
+    "date3": "2026-09-26"
   },
   {
     "name": "Solut Distribuidora de Bebidas",
@@ -41722,11 +41733,12 @@
     "date1": "2026-09-15",
     "email1": true,
     "email2": true,
-    "email3": false,
+    "email3": true,
     "emailVerified": true,
     "emailSource": "https://www.diariocidade.com/sp/barueri/guia/solut-distribuidora-de-bebidas-21400006000126/",
     "emailVerifiedAt": "2026-09-15",
-    "date2": "2026-09-22"
+    "date2": "2026-09-22",
+    "date3": "2026-09-26"
   },
   {
     "name": "Adega da Major",
