@@ -44613,5 +44613,89 @@
     "responseDate": "2026-09-25",
     "response": "Canal de vendas ao consumidor respondeu e indicou a área de compras: janete.neckel@decanter.com.br. Apresentação enviada em 2026-09-25.",
     "respostaFollowupDate": "2026-09-25"
+  },
+  {
+    "name": "Botequim de Barão",
+    "email": "botequimdebarao@gmail.com",
+    "type": "bar",
+    "neighborhood": "Barão Geraldo",
+    "context": "Bar/boteco com delivery; Barão Geraldo, Campinas/SP.",
+    "phone": "(19) 99658-2999",
+    "website": "",
+    "emailVerified": true,
+    "emailSource": "https://www.solutudo.com.br/empresas/sp/campinas/bares-pubs/botequim-de-barao-bar-e-lanchonete-ltda-727165",
+    "email1": false
+  },
+  {
+    "name": "Edú Bar de Minas",
+    "email": "",
+    "type": "bar",
+    "neighborhood": "Jardim Nossa Sra. Auxiliadora",
+    "context": "Bar mineiro tradicional há 18 anos; Campinas/SP.",
+    "phone": "(19) 99975-1171",
+    "website": "https://edubardeminas.com.br/",
+    "emailVerified": false,
+    "emailSource": "",
+    "email1": false
+  },
+  {
+    "name": "Boteco Vidottinho Cambuí",
+    "email": "",
+    "type": "bar",
+    "neighborhood": "Cambuí",
+    "context": "Boteco raiz, chopp e feijoada, 220 lugares; Cambuí, Campinas/SP.",
+    "phone": "(19) 97179-8148",
+    "website": "https://www.vidottinho.com.br/cambui",
+    "emailVerified": false,
+    "emailSource": "",
+    "email1": false
+  },
+  {
+    "name": "Boteco São Bento Cambuí",
+    "email": "",
+    "type": "bar",
+    "neighborhood": "Cambuí",
+    "context": "Boteco no Cambuí; Campinas/SP.",
+    "phone": "(19) 3259-1674",
+    "website": "",
+    "emailVerified": false,
+    "emailSource": "",
+    "email1": false
+  },
+  {
+    "name": "Boteco do Pezão",
+    "email": "",
+    "type": "bar",
+    "neighborhood": "Campinas",
+    "context": "Boteco com delivery; R. Evaristo da Veiga, Campinas/SP.",
+    "phone": "(19) 3208-4070",
+    "website": "",
+    "emailVerified": false,
+    "emailSource": "",
+    "email1": false
+  },
+  {
+    "name": "Boteco do Sidi",
+    "email": "",
+    "type": "bar",
+    "neighborhood": "São Bernardo",
+    "context": "Boteco; São Bernardo, Campinas/SP.",
+    "phone": "(19) 98383-9385",
+    "website": "",
+    "emailVerified": false,
+    "emailSource": "",
+    "email1": false
+  },
+  {
+    "name": "Boteco Vidottinho Bandeiras",
+    "email": "",
+    "type": "bar",
+    "neighborhood": "Campinas",
+    "context": "Unidade Shopping Bandeiras; Campinas/SP.",
+    "phone": "(19) 99678-4410",
+    "website": "https://www.vidottinho.com.br/sobre",
+    "emailVerified": false,
+    "emailSource": "",
+    "email1": false
   }
 ]
