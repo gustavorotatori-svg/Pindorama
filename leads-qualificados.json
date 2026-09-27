@@ -41750,11 +41750,12 @@
     "date1": "2026-09-15",
     "email1": true,
     "email2": true,
-    "email3": false,
+    "email3": true,
     "emailVerified": true,
     "emailSource": "https://www.diariocidade.com/sp/sao-paulo/guia/adega-da-major-32648409000105/",
     "emailVerifiedAt": "2026-09-15",
-    "date2": "2026-09-23"
+    "date2": "2026-09-23",
+    "date3": "2026-09-26"
   },
   {
     "name": "Solute Distribuidora de Bebidas",
@@ -41766,11 +41767,12 @@
     "date1": "2026-09-15",
     "email1": true,
     "email2": true,
-    "email3": false,
+    "email3": true,
     "emailVerified": true,
     "emailSource": "https://juridicoonline.com.br/empresa/51852486000127-solute-distribuidora-de-bebidas-ltda",
     "emailVerifiedAt": "2026-09-15",
-    "date2": "2026-09-23"
+    "date2": "2026-09-23",
+    "date3": "2026-09-26"
   },
   {
     "name": "Adega Central Distribuidora de Bebidas",
@@ -41782,11 +41784,12 @@
     "date1": "2026-09-15",
     "email1": true,
     "email2": true,
-    "email3": false,
+    "email3": true,
     "emailVerified": true,
     "emailSource": "https://casadosdados.com.br/solucao/cnpj/adega-central-distribuidora-de-bebidas-ltda-66221214000104",
     "emailVerifiedAt": "2026-09-15",
-    "date2": "2026-09-23"
+    "date2": "2026-09-23",
+    "date3": "2026-09-26"
   },
   {
     "name": "Adega e Distribuidora Chega La",
@@ -41798,11 +41801,12 @@
     "date1": "2026-09-15",
     "email1": true,
     "email2": true,
-    "email3": false,
+    "email3": true,
     "emailVerified": true,
     "emailSource": "https://mestregeo.com.br/cnpj/sp/sao-paulo/adega-e-distribuidora-chega-la-21408726000138",
     "emailVerifiedAt": "2026-09-15",
-    "date2": "2026-09-23"
+    "date2": "2026-09-23",
+    "date3": "2026-09-26"
   },
   {
     "name": "Distribuidora de Bebidas S├úo Paulo RGS",
@@ -41814,11 +41818,12 @@
     "date1": "2026-09-15",
     "email1": true,
     "email2": true,
-    "email3": false,
+    "email3": true,
     "emailVerified": true,
     "emailSource": "https://guiapj.com.br/consulta-cnpj/63333006000109",
     "emailVerifiedAt": "2026-09-15",
-    "date2": "2026-09-23"
+    "date2": "2026-09-23",
+    "date3": "2026-09-26"
   },
   {
     "name": "LAD Distribuidora (Adega Farol Drinks)",
@@ -41830,11 +41835,12 @@
     "date1": "2026-09-15",
     "email1": true,
     "email2": true,
-    "email3": false,
+    "email3": true,
     "emailVerified": true,
     "emailSource": "https://databrasil.net/empresas/39419025000160-LAD-DISTRIBUIDORA-DE-BEBIDAS-E-ALIMENTOS-LTDA",
     "emailVerifiedAt": "2026-09-15",
-    "date2": "2026-09-23"
+    "date2": "2026-09-23",
+    "date3": "2026-09-26"
   },
   {
     "name": "Adega Lusa",
@@ -41846,11 +41852,12 @@
     "date1": "2026-09-15",
     "email1": true,
     "email2": true,
-    "email3": false,
+    "email3": true,
     "emailVerified": true,
     "emailSource": "https://maiscnpj.com.br/cnpj/37570848000166-adega-lusa-ltda",
     "emailVerifiedAt": "2026-09-15",
-    "date2": "2026-09-23"
+    "date2": "2026-09-23",
+    "date3": "2026-09-26"
   },
   {
     "name": "Adega e Distribuidora Bento Guelfi",
@@ -41880,11 +41887,12 @@
     "date1": "2026-09-15",
     "email1": true,
     "email2": true,
-    "email3": false,
+    "email3": true,
     "emailVerified": true,
     "emailSource": "https://mestregeo.com.br/cnpj/sp/santo-andre/vieira-adega-e-distribuidora-de-bebidas-55930919000176",
     "emailVerifiedAt": "2026-09-15",
-    "date2": "2026-09-23"
+    "date2": "2026-09-23",
+    "date3": "2026-09-26"
   },
   {
     "name": "Adega Lima",
@@ -41914,11 +41922,12 @@
     "date1": "2026-09-15",
     "email1": true,
     "email2": true,
-    "email3": false,
+    "email3": true,
     "emailVerified": true,
     "emailSource": "https://casadosdados.com.br/solucao/cnpj/",
     "emailVerifiedAt": "2026-09-15",
-    "date2": "2026-09-23"
+    "date2": "2026-09-23",
+    "date3": "2026-09-26"
   },
   {
     "name": "Dep├│sito de Bebidas Adega 228",
@@ -41930,11 +41939,12 @@
     "date1": "2026-09-15",
     "email1": true,
     "email2": true,
-    "email3": false,
+    "email3": true,
     "emailVerified": true,
     "emailSource": "https://casadosdados.com.br/solucao/cnpj/",
     "emailVerifiedAt": "2026-09-15",
-    "date2": "2026-09-23"
+    "date2": "2026-09-23",
+    "date3": "2026-09-26"
   },
   {
     "name": "Adega Seu Z├®",
@@ -41946,11 +41956,12 @@
     "date1": "2026-09-15",
     "email1": true,
     "email2": true,
-    "email3": false,
+    "email3": true,
     "emailVerified": true,
     "emailSource": "https://casadosdados.com.br/solucao/cnpj/",
     "emailVerifiedAt": "2026-09-15",
-    "date2": "2026-09-23"
+    "date2": "2026-09-23",
+    "date3": "2026-09-26"
   },
   {
     "name": "RP Adega e Distribuidora",
