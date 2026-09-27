@@ -58,5 +58,14 @@
     "status": "accepted",
     "messageId": "<8010cab4-ed39-53d0-9cb8-c9f6e1542ca8@gmail.com>",
     "to": "gusrotatori@icloud.com"
+  },
+  {
+    "date": "2026-09-27",
+    "weekKey": "2026-09-27",
+    "acceptedAt": "2026-09-27T15:30:26.607Z",
+    "status": "accepted",
+    "messageId": "<02fa387e-5e68-8d17-fe48-fcb6dc377341@gmail.com>",
+    "to": "gusrotatori@icloud.com",
+    "cc": "gustavorotatori@gmail.com"
   }
 ]
