@@ -42367,11 +42367,12 @@
     "date1": "2026-09-17",
     "email1": true,
     "email2": true,
-    "email3": false,
+    "email3": true,
     "emailVerified": true,
     "emailSource": "https://maiscnpj.com.br/cnpj/63113097000169-bar-e-restaurante-do-chaves-ltda",
     "emailVerifiedAt": "2026-09-16",
-    "date2": "2026-09-23"
+    "date2": "2026-09-23",
+    "date3": "2026-09-27"
   },
   {
     "name": "Gomo Pinheiros Bar e Restaurante",
@@ -42383,11 +42384,12 @@
     "date1": "2026-09-17",
     "email1": true,
     "email2": true,
-    "email3": false,
+    "email3": true,
     "emailVerified": true,
     "emailSource": "https://casadosdados.com.br/solucao/cnpj/gomo-pinheiros-bar-e-restaurante-ltda-55061910000176",
     "emailVerifiedAt": "2026-09-16",
-    "date2": "2026-09-23"
+    "date2": "2026-09-23",
+    "date3": "2026-09-27"
   },
   {
     "name": "Franco Gastro Bar",
@@ -42399,11 +42401,12 @@
     "date1": "2026-09-17",
     "email1": true,
     "email2": true,
-    "email3": false,
+    "email3": true,
     "emailVerified": true,
     "emailSource": "https://casadosdados.com.br/solucao/cnpj/franco-gastro-bar-ltda-55192435000177",
     "emailVerifiedAt": "2026-09-16",
-    "date2": "2026-09-23"
+    "date2": "2026-09-23",
+    "date3": "2026-09-27"
   },
   {
     "name": "Caetanos Bar",
@@ -42415,11 +42418,12 @@
     "date1": "2026-09-17",
     "email1": true,
     "email2": true,
-    "email3": false,
+    "email3": true,
     "emailVerified": true,
     "emailSource": "https://casadosdados.com.br/solucao/cnpj/caetanos-bar-ltda-48498178000130",
     "emailVerifiedAt": "2026-09-17",
-    "date2": "2026-09-23"
+    "date2": "2026-09-23",
+    "date3": "2026-09-27"
   },
   {
     "name": "Imperium Group Bar",
@@ -42467,11 +42471,12 @@
     "date1": "2026-09-18",
     "email1": true,
     "email2": true,
-    "email3": false,
+    "email3": true,
     "emailVerified": true,
     "emailSource": "https://juridicoonline.com.br/empresa/33549255000167-coquetel-bar-ltda",
     "emailVerifiedAt": "2026-09-17",
-    "date2": "2026-09-23"
+    "date2": "2026-09-23",
+    "date3": "2026-09-27"
   },
   {
     "name": "Bar e Adega Vermelho Ltda",
@@ -42483,11 +42488,12 @@
     "date1": "2026-09-18",
     "email1": true,
     "email2": true,
-    "email3": false,
+    "email3": true,
     "emailVerified": true,
     "emailSource": "https://casadosdados.com.br/solucao/cnpj/bar-e-adega-vermelho-ltda-65914066000132",
     "emailVerifiedAt": "2026-09-17",
-    "date2": "2026-09-23"
+    "date2": "2026-09-23",
+    "date3": "2026-09-27"
   },
   {
     "name": "Emporio Adega Global Ltda",
@@ -42499,11 +42505,12 @@
     "date1": "2026-09-18",
     "email1": true,
     "email2": true,
-    "email3": false,
+    "email3": true,
     "emailVerified": true,
     "emailSource": "https://casadosdados.com.br/solucao/cnpj/emporio-adega-global-ltda-63012885000169",
     "emailVerifiedAt": "2026-09-17",
-    "date2": "2026-09-23"
+    "date2": "2026-09-23",
+    "date3": "2026-09-27"
   },
   {
     "name": "Elementar Bar e Restaurante Ltda",
@@ -42533,11 +42540,12 @@
     "date1": "2026-09-18",
     "email1": true,
     "email2": true,
-    "email3": false,
+    "email3": true,
     "emailVerified": true,
     "emailSource": "https://casadosdados.com.br/solucao/cnpj/olho-de-vidro-bar-ltda-65331543000137",
     "emailVerifiedAt": "2026-09-18",
-    "date2": "2026-09-23"
+    "date2": "2026-09-23",
+    "date3": "2026-09-27"
   },
   {
     "name": "Barreto & Barreto Bebidas Ltda",
@@ -42549,11 +42557,12 @@
     "date1": "2026-09-18",
     "email1": true,
     "email2": true,
-    "email3": false,
+    "email3": true,
     "emailVerified": true,
     "emailSource": "https://cnpjgo.com.br/cnpj/37483482000198",
     "emailVerifiedAt": "2026-09-18",
-    "date2": "2026-09-23"
+    "date2": "2026-09-23",
+    "date3": "2026-09-27"
   },
   {
     "name": "S.M. Distribuidora Ltda",
@@ -42583,11 +42592,12 @@
     "date1": "2026-09-18",
     "email1": true,
     "email2": true,
-    "email3": false,
+    "email3": true,
     "emailVerified": true,
     "emailSource": "https://juridicoonline.com.br/empresa/64282021000120-e-jr-distribuidora-de-bebidas-ltda",
     "emailVerifiedAt": "2026-09-18",
-    "date2": "2026-09-23"
+    "date2": "2026-09-23",
+    "date3": "2026-09-27"
   },
   {
     "name": "4 M - Adega e Bar LTDA",
@@ -42599,11 +42609,12 @@
     "date1": "2026-09-19",
     "email1": true,
     "email2": true,
-    "email3": false,
+    "email3": true,
     "emailVerified": true,
     "emailSource": "https://cnpjaberto.com.br/cnpj/59413835000116",
     "emailVerifiedAt": "2026-09-18",
-    "date2": "2026-09-23"
+    "date2": "2026-09-23",
+    "date3": "2026-09-27"
   },
   {
     "name": "Adega Dvn Bar E Lounge Ltda",
