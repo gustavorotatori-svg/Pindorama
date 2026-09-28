@@ -44895,5 +44895,53 @@
     "emailVerified": true,
     "emailSource": "https://www.diariocidade.com/sp/sorocaba/guia/adega-central-35876131000111/",
     "email1": false
+  },
+  {
+    "name": "Bar e Choperia Quarteto Fantástico",
+    "email": "brasiliacontabil@live.com",
+    "type": "bar",
+    "neighborhood": "Boqueirão",
+    "context": "Bar e choperia; Boqueirão, Santos/SP.",
+    "phone": "(13) 3221-8532",
+    "website": "",
+    "emailVerified": true,
+    "emailSource": "https://www.diariocidade.com/sp/santos/guia/bar-e-choperia-quarteto-fantastico-ltda-30024058000136/",
+    "email1": false
+  },
+  {
+    "name": "Everaldos Bar",
+    "email": "everaldotstsantos@gmail.com",
+    "type": "bar",
+    "neighborhood": "Macuco",
+    "context": "Bar; Macuco, Santos/SP.",
+    "phone": "(13) 3227-5824",
+    "website": "",
+    "emailVerified": true,
+    "emailSource": "https://www.diariocidade.com/sp/santos/guia/everaldos-bar-24593023000115/",
+    "email1": false
+  },
+  {
+    "name": "Barão do Gonzaga Chopperia",
+    "email": "",
+    "type": "bar",
+    "neighborhood": "Gonzaga",
+    "context": "Chopperia; Gonzaga, Santos/SP.",
+    "phone": "(13) 3307-6520",
+    "website": "",
+    "emailVerified": false,
+    "emailSource": "",
+    "email1": false
+  },
+  {
+    "name": "Quintal Bar e Restaurante Santos",
+    "email": "",
+    "type": "bar",
+    "neighborhood": "Boqueirão",
+    "context": "Bar e restaurante; Boqueirão, Santos/SP.",
+    "phone": "(13) 3223-2297",
+    "website": "",
+    "emailVerified": false,
+    "emailSource": "",
+    "email1": false
   }
 ]
