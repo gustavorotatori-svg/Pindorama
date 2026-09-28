@@ -1815,5 +1815,228 @@
     "phone": "(11) 4509-0121",
     "source": "https://www.pracafigueiras.com.br/",
     "messageId": "3EB04D18F1A34AA44BDD54"
+  },
+  {
+    "date": "2026-09-28",
+    "checkedAt": "2026-09-28T12:54:51.628Z",
+    "status": "not_on_whatsapp",
+    "name": "Sampa Adega",
+    "phone": "(11) 98402-3929",
+    "source": "https://www.sampaadega.com.br/"
+  },
+  {
+    "date": "2026-09-28",
+    "checkedAt": "2026-09-28T12:54:51.790Z",
+    "status": "not_on_whatsapp",
+    "name": "Adega Frimar",
+    "phone": "(11) 5219-3878",
+    "source": "https://mycelium.lat/"
+  },
+  {
+    "date": "2026-09-28",
+    "checkedAt": "2026-09-28T12:54:51.951Z",
+    "status": "not_on_whatsapp",
+    "name": "Sphera Lounge",
+    "phone": "(11) 97636-3908",
+    "source": "https://www.spheralounge.com.br/"
+  },
+  {
+    "date": "2026-09-28",
+    "checkedAt": "2026-09-28T12:54:52.112Z",
+    "status": "not_on_whatsapp",
+    "name": "Dentro Bar",
+    "phone": "(11) 94998-2925",
+    "source": "https://www.baressp.com.br/bares/dentro-bar"
+  },
+  {
+    "date": "2026-09-28",
+    "checkedAt": "2026-09-28T12:54:52.442Z",
+    "status": "not_on_whatsapp",
+    "name": "No Ponto Espeto & Bar",
+    "phone": "(11) 99011-3879",
+    "source": "https://baressp.com.br/bares/no-ponto-espeto-e-bar"
+  },
+  {
+    "date": "2026-09-28",
+    "checkedAt": "2026-09-28T12:54:52.604Z",
+    "status": "not_on_whatsapp",
+    "name": "Boteco do Max Nola",
+    "phone": "(11) 99980-1876",
+    "source": "https://www.baressp.com.br/bares/boteco-do-max-nola-"
+  },
+  {
+    "date": "2026-09-28",
+    "checkedAt": "2026-09-28T12:54:52.765Z",
+    "status": "not_on_whatsapp",
+    "name": "O Bretao Pub",
+    "phone": "(15) 99126-9981",
+    "source": "https://www.baressp.com.br/bares/o-bretao-pub"
+  },
+  {
+    "date": "2026-09-28",
+    "checkedAt": "2026-09-28T12:54:52.927Z",
+    "status": "not_on_whatsapp",
+    "name": "Nossa Distribuidora Bebidas",
+    "phone": "(11) 99950-3806",
+    "source": "https://nossadistribuidorabebidas.com.br/"
+  },
+  {
+    "date": "2026-09-28",
+    "checkedAt": "2026-09-28T12:54:53.191Z",
+    "status": "not_on_whatsapp",
+    "name": "Adega Imperador",
+    "phone": "(11) 98135-5842",
+    "source": "https://adegaimperador.com.br/adegaimperador/adegaimperador/pages/contato"
+  },
+  {
+    "date": "2026-09-28",
+    "checkedAt": "2026-09-28T12:54:53.462Z",
+    "status": "not_on_whatsapp",
+    "name": "FG7 Bebidas",
+    "phone": "(11) 94787-0025",
+    "source": "https://www.fg7bebidas.com.br/"
+  },
+  {
+    "date": "2026-09-28",
+    "checkedAt": "2026-09-28T12:54:53.625Z",
+    "status": "not_on_whatsapp",
+    "name": "Adega Vibe Beer",
+    "phone": "(11) 99325-4279",
+    "source": "https://www.cardapio.datacaixa.com.br/loja=1516"
+  },
+  {
+    "date": "2026-09-28",
+    "acceptedAt": "2026-09-28T12:54:55.718Z",
+    "status": "accepted",
+    "name": "Schneider Bebidas",
+    "phone": "(19) 98430-0102",
+    "source": "https://schneiderbebidas.com.br/",
+    "messageId": "3EB07976014B975282A2CF"
+  },
+  {
+    "date": "2026-09-28",
+    "acceptedAt": "2026-09-28T12:55:02.569Z",
+    "status": "accepted",
+    "name": "Adega Don Green",
+    "phone": "(11) 92081-4746",
+    "source": "https://don-green.odoo.com/",
+    "messageId": "3EB0FD90B7C84B3D3DB3C9"
+  },
+  {
+    "date": "2026-09-28",
+    "acceptedAt": "2026-09-28T12:55:09.635Z",
+    "status": "accepted",
+    "name": "Adega Copao na Mao",
+    "phone": "(11) 99793-4801",
+    "source": "https://comercioitapevi.com.br/adega-de-copao-na-mao/",
+    "messageId": "3EB0F08A1B2C2A8464B75B"
+  },
+  {
+    "date": "2026-09-28",
+    "acceptedAt": "2026-09-28T12:55:16.480Z",
+    "status": "accepted",
+    "name": "Adega Boys Drinks",
+    "phone": "(11) 94951-5951",
+    "source": "https://adegaboysdrinks.alfalabs.com.br/",
+    "messageId": "3EB00D6A5B6B92C75C2F32"
+  },
+  {
+    "date": "2026-09-28",
+    "acceptedAt": "2026-09-28T12:55:23.509Z",
+    "status": "accepted",
+    "name": "Santa Ritta Grill",
+    "phone": "(11) 96360-1593",
+    "source": "https://www.santarittagrill.com.br/cachaca-seleta",
+    "messageId": "3EB038A2E2E98EBA34EC65"
+  },
+  {
+    "date": "2026-09-28",
+    "acceptedAt": "2026-09-28T12:55:30.365Z",
+    "status": "accepted",
+    "name": "TEGOM Distribuidora de Bebidas e Alimentos",
+    "phone": "(11) 96845-4563",
+    "source": "https://tegom.com.br/",
+    "messageId": "3EB026172365A5E0458499"
+  },
+  {
+    "date": "2026-09-28",
+    "acceptedAt": "2026-09-28T12:55:36.915Z",
+    "status": "accepted",
+    "name": "Distribuidora Santo Expedito",
+    "phone": "(11) 97383-8369",
+    "source": "https://santoexpeditodistribuidora.com.br/localizacao",
+    "messageId": "3EB0AD63E19A1CDD9FD4CC"
+  },
+  {
+    "date": "2026-09-28",
+    "acceptedAt": "2026-09-28T12:55:43.773Z",
+    "status": "accepted",
+    "name": "Bertin Distribuidora",
+    "phone": "(15) 99660-7177",
+    "source": "https://bertindistribuidora.com.br/landing-page/bertin-express/",
+    "messageId": "3EB0902240D40AEEC402A2"
+  },
+  {
+    "date": "2026-09-28",
+    "acceptedAt": "2026-09-28T12:55:50.367Z",
+    "status": "accepted",
+    "name": "Adega e Distribuidora W&A",
+    "phone": "(11) 95478-7878",
+    "source": "https://starfood.com.br/adegaedistribuidorawea",
+    "messageId": "3EB05128238CFF9C5D5E6C"
+  },
+  {
+    "date": "2026-09-28",
+    "acceptedAt": "2026-09-28T12:55:56.438Z",
+    "status": "accepted",
+    "name": "Memoria Bar Campinas",
+    "phone": "(19) 99892-2639",
+    "source": "https://memoriabarcampinas.com/",
+    "messageId": "3EB01894B16D77C6D8AE3F"
+  },
+  {
+    "date": "2026-09-28",
+    "acceptedAt": "2026-09-28T12:56:03.246Z",
+    "status": "accepted",
+    "name": "Smeat Gastrobar",
+    "phone": "(19) 99880-5368",
+    "source": "https://smeat.com.br/",
+    "messageId": "3EB06E4125EB064DAFD1AC"
+  },
+  {
+    "date": "2026-09-28",
+    "acceptedAt": "2026-09-28T12:56:10.094Z",
+    "status": "accepted",
+    "name": "Edu Bar de Minas",
+    "phone": "(19) 99975-1171",
+    "source": "https://edubardeminas.com.br/cardapio.html",
+    "messageId": "3EB0963E80127AEAB66785"
+  },
+  {
+    "date": "2026-09-28",
+    "acceptedAt": "2026-09-28T12:56:16.811Z",
+    "status": "accepted",
+    "name": "Taberna do Bruxo",
+    "phone": "(19) 99132-1888",
+    "source": "https://www.tabernadobruxo.com.br/",
+    "messageId": "3EB0E4D5F890E0B45B55B8"
+  },
+  {
+    "date": "2026-09-28",
+    "acceptedAt": "2026-09-28T12:56:22.892Z",
+    "status": "accepted",
+    "name": "Tropical Adega e Distribuidora",
+    "phone": "(19) 99821-5763",
+    "source": "https://www.lojalocal.com/27821162000147",
+    "messageId": "3EB0D4CB95F40319541D92"
+  },
+  {
+    "date": "2026-09-28",
+    "acceptedAt": "2026-09-28T12:56:28.865Z",
+    "status": "accepted",
+    "name": "Embaixada do Chopp Campinas",
+    "phone": "(19) 98118-8701",
+    "source": "https://embaixadadochopp.com.br/",
+    "messageId": "3EB0C6A835DDC4D8022C92"
   }
 ]

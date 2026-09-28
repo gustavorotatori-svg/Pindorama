@@ -37628,7 +37628,10 @@
     "email2": true,
     "date2": "2026-09-01",
     "email3": true,
-    "date3": "2026-09-09"
+    "date3": "2026-09-09",
+    "whatsappSent": true,
+    "whatsappDate": "2026-09-28",
+    "whatsappSource": "https://schneiderbebidas.com.br/"
   },
   {
     "name": "Adega Caca",
@@ -37827,7 +37830,10 @@
     "phoneVerifiedAt": "2026-08-31",
     "verifiedAt": "2026-08-31",
     "status": "qualified_phone_only",
-    "email1": false
+    "email1": false,
+    "whatsappSent": true,
+    "whatsappDate": "2026-09-28",
+    "whatsappSource": "https://adegaboysdrinks.alfalabs.com.br/"
   },
   {
     "name": "Adega Thiga's",
@@ -37949,7 +37955,10 @@
     "webChannelVerifiedAt": "2026-08-31",
     "verifiedAt": "2026-08-31",
     "status": "qualified_web_only",
-    "email1": false
+    "email1": false,
+    "whatsappSent": true,
+    "whatsappDate": "2026-09-28",
+    "whatsappSource": "https://starfood.com.br/adegaedistribuidorawea"
   },
   {
     "name": "Adega Imperador",

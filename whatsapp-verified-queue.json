@@ -1580,7 +1580,8 @@
     "evidence": "Site oficial ativo consultado em agosto de 2026 publica o WhatsApp empresarial para reservas e confirma emporio em Sousas, Campinas, com destilados, vinhos, cervejas premium e operacao de retirada na loja. Fato: canal empresarial e mix de destilados publicados. Inferencia: potencial de recompra e inclusao de cachaca premium.",
     "verifiedAt": "2026-08-27",
     "notBefore": "2026-08-27",
-    "status": "queued"
+    "status": "sent",
+    "sentAt": "2026-09-28T12:54:55.718Z"
   },
   {
     "name": "Casa Pires Emporio",
@@ -1602,7 +1603,8 @@
     "evidence": "Site empresarial ativo consultado em agosto de 2026 confirma adega e distribuidora de bebidas em Barueri, com cervejas, uisques, gins, combos, loja fisica e telefone empresarial publicado. Fato: operacao ativa, mix de bebidas e canal empresarial. Inferencia: potencial de recompra e inclusao de cachaca premium.",
     "verifiedAt": "2026-08-28",
     "notBefore": "2026-08-29",
-    "status": "queued"
+    "status": "sent",
+    "sentAt": "2026-09-28T12:55:02.569Z"
   },
   {
     "name": "Adega Copao na Mao",
@@ -1613,7 +1615,8 @@
     "evidence": "Pagina empresarial atualizada consultada em agosto de 2026 confirma adega ativa em Itapevi, delivery por WhatsApp e iFood, cervejas nacionais e importadas, tequila e outros itens de bebidas, loja fisica e horario publicado. Fato: operacao ativa, delivery e canal empresarial. Inferencia: potencial de compra recorrente e inclusao de cachaca premium.",
     "verifiedAt": "2026-08-28",
     "notBefore": "2026-08-29",
-    "status": "queued"
+    "status": "sent",
+    "sentAt": "2026-09-28T12:55:09.635Z"
   },
   {
     "name": "Adega Boys Drinks",
@@ -1624,7 +1627,8 @@
     "evidence": "Catalogo empresarial ativo consultado em agosto de 2026 confirma adega e delivery em Diadema, WhatsApp empresarial publicado, horario de operacao e oferta de bebidas incluindo Busca Vida, bebida mista de cachaca artesanal com limao e mel. Fato: operacao ativa, canal empresarial e produto a base de cachaca. Inferencia: potencial de recompra e inclusao de cachaca premium.",
     "verifiedAt": "2026-08-28",
     "notBefore": "2026-08-29",
-    "status": "queued"
+    "status": "sent",
+    "sentAt": "2026-09-28T12:55:16.480Z"
   },
   {
     "name": "Santa Ritta Grill",
@@ -1635,7 +1639,8 @@
     "evidence": "Site oficial ativo consultado em agosto de 2026 confirma restaurante e gastrobar em Bonsucesso, Guarulhos, WhatsApp empresarial publicado e carta de destilados com cachacas Seleta, Busca Vida, Santo Grau, Nega Fulo, Espirito de Minas e Salinas. Fato: operacao ativa, canal empresarial e varias cachacas no cardapio. Inferencia: alto potencial de recompra e teste de cachaca premium.",
     "verifiedAt": "2026-08-28",
     "notBefore": "2026-08-29",
-    "status": "queued"
+    "status": "sent",
+    "sentAt": "2026-09-28T12:55:23.509Z"
   },
   {
     "name": "TEGOM Distribuidora de Bebidas e Alimentos",
@@ -1646,7 +1651,8 @@
     "evidence": "Site oficial consultado em agosto de 2026 confirma distribuidora em Embu das Artes com mais de 10 anos, galpao de 2.000 m2, frota propria, atendimento a adegas, bares, restaurantes e mercados, alem de portfolio com cachacas, destilados, vinhos, cervejas e coqueteis. Fato: operacao B2B, canal empresarial e categorias aderentes publicados. Inferencia: forte potencial de compra recorrente em volume.",
     "verifiedAt": "2026-08-29",
     "notBefore": "2026-08-29",
-    "status": "queued"
+    "status": "sent",
+    "sentAt": "2026-09-28T12:55:30.365Z"
   },
   {
     "name": "Distribuidora Santo Expedito",
@@ -1657,7 +1663,8 @@
     "evidence": "Site oficial ativo consultado em agosto de 2026 confirma distribuidora em Itapecerica da Serra, venda no atacado, entrega, canal empresarial para mensagens e portfolio de bebidas em geral, vinhos e destilados. Fato: operacao ativa, canal empresarial e oferta atacadista publicados. Inferencia: potencial de compra recorrente e inclusao de cachaca premium.",
     "verifiedAt": "2026-08-29",
     "notBefore": "2026-08-29",
-    "status": "queued"
+    "status": "sent",
+    "sentAt": "2026-09-28T12:55:36.915Z"
   },
   {
     "name": "Bertin Distribuidora",
@@ -1668,7 +1675,8 @@
     "evidence": "Site oficial ativo consultado em agosto de 2026 confirma distribuidora e loja em Sorocaba, atendimento empresarial por WhatsApp, precos diferenciados no atacado e catalogo amplo de cachacas ouro, prata e saborizadas, incluindo rotulos premium. Fato: operacao ativa, canal empresarial, atacado e extensa categoria de cachacas publicados. Inferencia: alto potencial de recompra e avaliacao de novo fornecedor.",
     "verifiedAt": "2026-08-29",
     "notBefore": "2026-08-29",
-    "status": "queued"
+    "status": "sent",
+    "sentAt": "2026-09-28T12:55:43.773Z"
   },
   {
     "name": "Adega e Distribuidora W&A",
@@ -1679,7 +1687,8 @@
     "evidence": "Cardapio empresarial ativo consultado em agosto de 2026 confirma adega e distribuidora em Itaquaquecetuba, WhatsApp publicado e oferta atual de cachacas, gin, whisky, vodka, vinhos, cervejas, drinks prontos e combos. Fato: operacao ativa, canal empresarial e categorias aderentes publicadas. Inferencia: potencial de recompra e inclusao de cachaca premium.",
     "verifiedAt": "2026-08-29",
     "notBefore": "2026-08-29",
-    "status": "queued"
+    "status": "sent",
+    "sentAt": "2026-09-28T12:55:50.367Z"
   },
   {
     "name": "Memoria Bar Campinas",
@@ -1690,7 +1699,8 @@
     "evidence": "Site oficial ativo consultado em agosto de 2026 confirma bar no Cambui fundado pelo bartender Ed Carneiro, com alta coquetelaria, drinks autorais, eventos, reservas e telefone empresarial publicado. Fato: operacao ativa, responsavel identificado, coquetelaria e canal empresarial publicados. Inferencia: potencial de uso da Pindorama em carta autoral, degustacao e eventos.",
     "verifiedAt": "2026-08-29",
     "notBefore": "2026-08-29",
-    "status": "queued"
+    "status": "sent",
+    "sentAt": "2026-09-28T12:55:56.438Z"
   },
   {
     "name": "Smeat Gastrobar",
@@ -1701,7 +1711,8 @@
     "evidence": "Site oficial ativo consultado em agosto de 2026 confirma gastrobar em Campinas com carta de drinks autorais, almoco e jantar, musica ao vivo, salao privativo para eventos corporativos e WhatsApp empresarial publicado. Fato: operacao ativa, coquetelaria, eventos e canal empresarial publicados. Inferencia: potencial de uso da Pindorama na carta, em degustacoes e confraternizacoes.",
     "verifiedAt": "2026-08-29",
     "notBefore": "2026-08-29",
-    "status": "queued"
+    "status": "sent",
+    "sentAt": "2026-09-28T12:56:03.246Z"
   },
   {
     "name": "Edu Bar de Minas",
@@ -1712,7 +1723,8 @@
     "evidence": "Site oficial ativo consultado em agosto de 2026 confirma bar mineiro em Campinas com operacao diaria no almoco e a noite, WhatsApp empresarial publicado e categoria de cachaca no cardapio. Fato: operacao ativa, canal empresarial e venda de cachaca publicados. Inferencia: potencial de recompra e ampliacao da carta com linha Pindorama.",
     "verifiedAt": "2026-08-29",
     "notBefore": "2026-08-29",
-    "status": "queued"
+    "status": "sent",
+    "sentAt": "2026-09-28T12:56:10.094Z"
   },
   {
     "name": "Taberna do Bruxo",
@@ -1723,7 +1735,8 @@
     "evidence": "Site oficial ativo consultado em agosto de 2026 confirma taberna tematica em Barao Geraldo, Campinas, com drinks, porcoes, eventos de aniversario, reservas, horario semanal e WhatsApp empresarial publicado. Fato: operacao ativa, bebidas, eventos e canal empresarial publicados. Inferencia: potencial de uso da Pindorama em drinks tematicos e comemoracoes.",
     "verifiedAt": "2026-08-29",
     "notBefore": "2026-08-29",
-    "status": "queued"
+    "status": "sent",
+    "sentAt": "2026-09-28T12:56:16.811Z"
   },
   {
     "name": "Tropical Adega e Distribuidora",
@@ -1734,7 +1747,8 @@
     "evidence": "Pagina comercial atualizada consultada em agosto de 2026 confirma adega e distribuidora em Vila Boa Vista, Campinas, com endereco, horario de funcionamento e WhatsApp empresarial para pedidos. Fato: operacao ativa, segmento prioritario e canal empresarial publicados. Inferencia: potencial de recompra e inclusao de cachaca premium no mix.",
     "verifiedAt": "2026-08-29",
     "notBefore": "2026-08-29",
-    "status": "queued"
+    "status": "sent",
+    "sentAt": "2026-09-28T12:56:22.892Z"
   },
   {
     "name": "Embaixada do Chopp Campinas",
@@ -1745,7 +1759,8 @@
     "evidence": "Site oficial ativo consultado em agosto de 2026 confirma bar em Campinas com chopps, bebidas, petiscos, happy hour, funcionamento de segunda a sabado e WhatsApp empresarial para reservas. Fato: operacao ativa, consumo de bebidas e canal empresarial publicados. Inferencia: potencial de ampliar o mix com cachaca e caipirinhas Pindorama.",
     "verifiedAt": "2026-08-29",
     "notBefore": "2026-08-29",
-    "status": "queued"
+    "status": "sent",
+    "sentAt": "2026-09-28T12:56:28.865Z"
   },
   {
     "name": "Cambuci Forno e Mesa",
