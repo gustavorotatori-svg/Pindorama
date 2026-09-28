@@ -44739,5 +44739,53 @@
     "emailVerified": false,
     "emailSource": "",
     "email1": false
+  },
+  {
+    "name": "Caçarola Restaurante e Rotisserie",
+    "email": "contato@cacarola.com.br",
+    "type": "restaurante",
+    "neighborhood": "Cambuí",
+    "context": "Restaurante e rotisserie de comida caseira; Cambuí, Campinas/SP.",
+    "phone": "(19) 99155-1252",
+    "website": "https://cacarola.com.br/",
+    "emailVerified": true,
+    "emailSource": "https://cacarola.com.br/",
+    "email1": false
+  },
+  {
+    "name": "Fazenda Atalaia Loja Cambuí",
+    "email": "contato@fazendaatalaia.com",
+    "type": "emporio",
+    "neighborhood": "Cambuí",
+    "context": "Loja de gastronomia artesanal (queijaria, restaurante, eventos); Cambuí, Campinas/SP.",
+    "phone": "(19) 98258-0281",
+    "website": "https://fazendaatalaiaamparo.com.br/lojas/",
+    "emailVerified": true,
+    "emailSource": "https://fazendaatalaiaamparo.com.br/lojas/",
+    "email1": false
+  },
+  {
+    "name": "Chutoro Restaurante Japonês",
+    "email": "contato@chutoro.com.br",
+    "type": "restaurante",
+    "neighborhood": "Campinas",
+    "context": "Restaurante japonês/rodízio; Campinas/SP.",
+    "phone": "(19) 3325-8992",
+    "website": "https://chutoro.com.br/rodiziojaponescampinas/",
+    "emailVerified": true,
+    "emailSource": "https://chutoro.com.br/rodiziojaponescampinas/",
+    "email1": false
+  },
+  {
+    "name": "Nashi Restaurante",
+    "email": "contato@nashi.com.br",
+    "type": "restaurante",
+    "neighborhood": "Nova Campinas",
+    "context": "Restaurante; Nova Campinas, Campinas/SP.",
+    "phone": "(19) 3254-0359",
+    "website": "http://nashi.com.br/contato/",
+    "emailVerified": true,
+    "emailSource": "http://nashi.com.br/contato/",
+    "email1": false
   }
 ]
