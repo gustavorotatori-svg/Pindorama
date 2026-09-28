@@ -45027,5 +45027,53 @@
     "emailVerified": false,
     "emailSource": "",
     "email1": false
+  },
+  {
+    "name": "Roldão Atacadista",
+    "email": "roldao@roldao.com.br",
+    "type": "supermercado",
+    "neighborhood": "Guarulhos",
+    "context": "Rede atacadista (Guarulhos/SP); canal fornecedor.",
+    "phone": "(11) 5095-4000",
+    "website": "https://www.roldao.com.br",
+    "emailVerified": true,
+    "emailSource": "https://cnpjcheck.com.br/empresa/roldao-auto-servico-comercio-de-alimentos-s-a-grupo-roldao-s-a-05800256000954",
+    "email1": true,
+    "date1": "2026-09-28",
+    "template": "consultivo",
+    "responded": false,
+    "respostaFollowupDate": ""
+  },
+  {
+    "name": "Sonda Supermercados",
+    "email": "tiago.gomes@sonda.com.br",
+    "type": "supermercado",
+    "neighborhood": "São Vicente",
+    "context": "Rede de supermercados (Baixada/SP); contato comercial.",
+    "phone": "(13) 3569-1360",
+    "website": "https://sonda.com.br",
+    "emailVerified": true,
+    "emailSource": "https://casadosdados.com.br/solucao/cnpj/sonda-supermercados-exportacao-e-importacao-sa-01937635001820",
+    "email1": true,
+    "date1": "2026-09-28",
+    "template": "consultivo",
+    "responded": false,
+    "respostaFollowupDate": ""
+  },
+  {
+    "name": "Castelão Supermercados",
+    "email": "fornecedor@castelao.com.br",
+    "type": "supermercado",
+    "neighborhood": "Jabaquara",
+    "context": "Rede supermercadista (SP); canal seja-fornecedor.",
+    "phone": "(11) 5033-9300",
+    "website": "http://www.castelao.com.br/seja-fornecedor",
+    "emailVerified": true,
+    "emailSource": "http://www.castelao.com.br/seja-fornecedor",
+    "email1": true,
+    "date1": "2026-09-28",
+    "template": "consultivo",
+    "responded": false,
+    "respostaFollowupDate": ""
   }
 ]
