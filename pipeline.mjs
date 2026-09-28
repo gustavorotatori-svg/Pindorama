@@ -83,7 +83,8 @@ function verifiedFirstContact(lead) {
   if (lead.emailVerified !== true) return false;
   const source = String(lead.emailSource || '').trim();
   const verifiedAt = String(lead.emailVerifiedAt || '').trim();
-  if (!/^https?:\/\//i.test(source) || !/^\d{4}-\d{2}-\d{2}$/.test(verifiedAt)) return false;
+  const trustedSource = /^https?:\/\//i.test(source) || /cnpja|econodata|prospec/i.test(source);
+if (!trustedSource || !/^\d{4}-\d{2}-\d{2}$/.test(verifiedAt)) return false;
   const ageDays = daysDiff(verifiedAt);
   return ageDays >= 0 && ageDays <= 90;
 }
