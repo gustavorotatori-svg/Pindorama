@@ -45046,7 +45046,7 @@
   },
   {
     "name": "Sonda Supermercados",
-    "email": "tiago.gomes@sonda.com.br",
+    "email": "emerson.silva@sonda.com.br",
     "type": "supermercado",
     "neighborhood": "São Vicente",
     "context": "Rede de supermercados (Baixada/SP); contato comercial.",
@@ -45057,8 +45057,10 @@
     "email1": true,
     "date1": "2026-09-28",
     "template": "consultivo",
-    "responded": false,
-    "respostaFollowupDate": ""
+    "responded": true,
+    "respostaFollowupDate": "2026-09-28",
+    "responseDate": "2026-09-28",
+    "response": "Tiago Gomes desligado; auto-reply indicou Emerson Silva e Rafaela Santos. Reenviado em 2026-09-28."
   },
   {
     "name": "Castelão Supermercados",
