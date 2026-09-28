@@ -44943,5 +44943,89 @@
     "emailVerified": false,
     "emailSource": "",
     "email1": false
+  },
+  {
+    "name": "Cervejaria Pata da Onça",
+    "email": "contato@patadaonca.com.br",
+    "type": "bar",
+    "neighborhood": "Jardim Cybelli",
+    "context": "Cervejaria com chopp e bar; Jardim Cybelli, Ribeirão Preto/SP.",
+    "phone": "(16) 98267-1414",
+    "website": "https://www.patadaonca.com.br/chopp/",
+    "emailVerified": true,
+    "emailSource": "https://www.patadaonca.com.br/chopp/",
+    "email1": false
+  },
+  {
+    "name": "Ribermad Vila Virgínia",
+    "email": "contato@ribermadvilavirginia.com.br",
+    "type": "bar",
+    "neighborhood": "Vila Virgínia",
+    "context": "Bar/restaurante; Vila Virgínia, Ribeirão Preto/SP.",
+    "phone": "(16) 3637-0066",
+    "website": "https://ribermadvilavirginia.com.br/contato/",
+    "emailVerified": true,
+    "emailSource": "https://ribermadvilavirginia.com.br/contato/",
+    "email1": false
+  },
+  {
+    "name": "Cervejaria Experiência",
+    "email": "contato@cervejariaexperiencia.com.br",
+    "type": "bar",
+    "neighborhood": "Ribeirão Preto",
+    "context": "Cervejaria (fabricação e bar); Ribeirão Preto/SP.",
+    "phone": "(16) 9992-4989",
+    "website": "",
+    "emailVerified": true,
+    "emailSource": "https://maiscnpj.com.br/cnpj/28667639000144-cervejaria-experiencia-ltda",
+    "email1": false
+  },
+  {
+    "name": "Paddock Ribeirão Jockey",
+    "email": "paulo@jockeyribeirao.com.br",
+    "type": "restaurante",
+    "neighborhood": "Centro",
+    "context": "Lanchonete/restaurante no Jockey; Centro, Ribeirão Preto/SP.",
+    "phone": "(16) 3635-6400",
+    "website": "",
+    "emailVerified": true,
+    "emailSource": "https://databrasil.net/empresas/07018150000171-PADDOCK-RIBEIRAO-LANCHONETE-E-RESTAURANTE-LTDA",
+    "email1": false
+  },
+  {
+    "name": "Dallas RP Choperia",
+    "email": "",
+    "type": "bar",
+    "neighborhood": "Alto da Boa Vista",
+    "context": "Choperia/restaurante; Alto da Boa Vista, Ribeirão Preto/SP.",
+    "phone": "(16) 3636-4660",
+    "website": "",
+    "emailVerified": false,
+    "emailSource": "",
+    "email1": false
+  },
+  {
+    "name": "L.A. Choperia",
+    "email": "",
+    "type": "bar",
+    "neighborhood": "Vila Tibério",
+    "context": "Choperia/restaurante; Vila Tibério, Ribeirão Preto/SP.",
+    "phone": "(16) 3630-2686",
+    "website": "",
+    "emailVerified": false,
+    "emailSource": "",
+    "email1": false
+  },
+  {
+    "name": "WB Bar e Lanchonete",
+    "email": "",
+    "type": "bar",
+    "neighborhood": "Jardim América",
+    "context": "Bar/lanchonete; Jardim América, Ribeirão Preto/SP.",
+    "phone": "(16) 3877-6888",
+    "website": "",
+    "emailVerified": false,
+    "emailSource": "",
+    "email1": false
   }
 ]
