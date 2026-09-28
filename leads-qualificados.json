@@ -44787,5 +44787,113 @@
     "emailVerified": true,
     "emailSource": "http://nashi.com.br/contato/",
     "email1": false
+  },
+  {
+    "name": "Frater's Pub",
+    "email": "contato@fraterspub.com.br",
+    "type": "bar",
+    "neighborhood": "Sorocaba",
+    "context": "Bar de cerveja artesanal; Sorocaba/SP.",
+    "phone": "(15) 99168-4529",
+    "website": "https://www.fraterspub.com.br/",
+    "emailVerified": true,
+    "emailSource": "https://www.fraterspub.com.br/",
+    "email1": false
+  },
+  {
+    "name": "Cervejaria Imperatriz Sorocaba",
+    "email": "contato@imperatrizcervejaria.com.br",
+    "type": "bar",
+    "neighborhood": "Vila Haro",
+    "context": "Cervejaria com quintal e delivery; Vila Haro, Sorocaba/SP.",
+    "phone": "(15) 99670-0021",
+    "website": "https://cervejariasorocaba.com.br/",
+    "emailVerified": true,
+    "emailSource": "https://cervejariasorocaba.com.br/",
+    "email1": false
+  },
+  {
+    "name": "Santo Legado Café",
+    "email": "contato@santolegadocafe.com.br",
+    "type": "café",
+    "neighborhood": "Jardim Paulistano",
+    "context": "Café; Jardim Paulistano, Sorocaba/SP.",
+    "phone": "(15) 98189-0142",
+    "website": "https://santolegadocafe.com.br/",
+    "emailVerified": true,
+    "emailSource": "https://santolegadocafe.com.br/",
+    "email1": false
+  },
+  {
+    "name": "Asteroid Bar",
+    "email": "contato@asteroid.art.br",
+    "type": "balada",
+    "neighborhood": "Jardim Santa Rosália",
+    "context": "Balada/bar com pista e deck; Jardim Santa Rosália, Sorocaba/SP.",
+    "phone": "(15) 3329-2767",
+    "website": "https://www.baressp.com.br/baladas/asteroid-bar",
+    "emailVerified": true,
+    "emailSource": "https://www.baressp.com.br/baladas/asteroid-bar",
+    "email1": false
+  },
+  {
+    "name": "Adega Garagem Sorocaba",
+    "email": "adegagaragemsorocaba@gmail.com",
+    "type": "adega",
+    "neighborhood": "Sorocaba",
+    "context": "Adega; Sorocaba/SP.",
+    "phone": "(15) 3234-2043",
+    "website": "https://cruzdesavoia.wixsite.com/adegagaragem/contato",
+    "emailVerified": true,
+    "emailSource": "https://cruzdesavoia.wixsite.com/adegagaragem/contato",
+    "email1": false
+  },
+  {
+    "name": "Adega Vitória Régia",
+    "email": "contatoadegavitoria@gmail.com",
+    "type": "adega",
+    "neighborhood": "Parque Vitória Régia",
+    "context": "Adega/distribuidora; Parque Vitória Régia, Sorocaba/SP.",
+    "phone": "(11) 5041-7226",
+    "website": "",
+    "emailVerified": true,
+    "emailSource": "https://www.diariocidade.com/sp/sorocaba/guia/adega-vitoria-regia-28971482000146/",
+    "email1": false
+  },
+  {
+    "name": "Adega Moraes",
+    "email": "guarau@splicenet.com.br",
+    "type": "adega",
+    "neighborhood": "Parque Manchester",
+    "context": "Adega/distribuidora; Parque Manchester, Sorocaba/SP.",
+    "phone": "(15) 3221-8055",
+    "website": "",
+    "emailVerified": true,
+    "emailSource": "https://www.diariocidade.com/sp/sorocaba/guia/adega-moraes-19093938000121/",
+    "email1": false
+  },
+  {
+    "name": "Empório Éden",
+    "email": "suelimag@uol.com.br",
+    "type": "distribuidora",
+    "neighborhood": "Jardim Edem",
+    "context": "Distribuidora/atacado alimentar; Jardim Edem, Sorocaba/SP.",
+    "phone": "(15) 99108-0841",
+    "website": "",
+    "emailVerified": true,
+    "emailSource": "https://distribuidorasdealimentos.com.br/sp/sorocaba/emporio-eden",
+    "email1": false
+  },
+  {
+    "name": "Adega Central Sorocaba",
+    "email": "denildeferreirasantos@gmail.com",
+    "type": "adega",
+    "neighborhood": "Central Parque",
+    "context": "Adega/lanchonete; Central Parque, Sorocaba/SP.",
+    "phone": "(15) 3037-6197",
+    "website": "",
+    "emailVerified": true,
+    "emailSource": "https://www.diariocidade.com/sp/sorocaba/guia/adega-central-35876131000111/",
+    "email1": false
   }
 ]
