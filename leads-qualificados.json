@@ -45080,5 +45080,53 @@
     "template": "consultivo",
     "responded": false,
     "respostaFollowupDate": ""
+  },
+  {
+    "name": "Adega e Empório JR Piracicaba",
+    "email": "saoluizcontabil@terra.com.br",
+    "type": "adega",
+    "neighborhood": "Vila Areão",
+    "context": "Adega/empório distribuidora; Vila Areão, Piracicaba/SP.",
+    "phone": "(19) 3421-1421",
+    "website": "",
+    "emailVerified": true,
+    "emailSource": "https://www.diariocidade.com/sp/piracicaba/guia/adega-e-emporio-jr-ltda-10371643000103/",
+    "email1": false
+  },
+  {
+    "name": "Santa Adega Limeira",
+    "email": "",
+    "type": "adega",
+    "neighborhood": "Jardim Santa Amália",
+    "context": "Adega; Jardim Santa Amália, Limeira/SP.",
+    "phone": "(19) 98702-8527",
+    "website": "",
+    "emailVerified": false,
+    "emailSource": "",
+    "email1": false
+  },
+  {
+    "name": "Adega 100 Limites São Carlos",
+    "email": "",
+    "type": "adega",
+    "neighborhood": "Jardim Paulistano",
+    "context": "Adega curadoria de rótulos nacionais; Jardim Paulistano, São Carlos/SP.",
+    "phone": "(16) 3413-8309",
+    "website": "",
+    "emailVerified": false,
+    "emailSource": "",
+    "email1": false
+  },
+  {
+    "name": "Empório da Cerveja Piracicaba",
+    "email": "",
+    "type": "emporio",
+    "neighborhood": "Vila Rezende",
+    "context": "Empório de bebidas; Vila Rezende, Piracicaba/SP.",
+    "phone": "(19) 3927-2002",
+    "website": "",
+    "emailVerified": false,
+    "emailSource": "",
+    "email1": false
   }
 ]
