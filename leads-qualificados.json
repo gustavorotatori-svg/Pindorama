@@ -42644,11 +42644,12 @@
     "date1": "2026-09-19",
     "email1": true,
     "email2": true,
-    "email3": false,
+    "email3": true,
     "emailVerified": true,
     "emailSource": "https://guiapj.com.br/consulta-cnpj/29026431000109",
     "emailVerifiedAt": "2026-09-18",
-    "date2": "2026-09-24"
+    "date2": "2026-09-24",
+    "date3": "2026-09-27"
   },
   {
     "name": "Bar Adega Nossa Senhora Aparecida",
@@ -42660,11 +42661,12 @@
     "date1": "2026-09-19",
     "email1": true,
     "email2": true,
-    "email3": false,
+    "email3": true,
     "emailVerified": true,
     "emailSource": "https://juridicoonline.com.br/empresa/22624628000109-bar-adega-nossa-senhora-aparecida-ltda",
     "emailVerifiedAt": "2026-09-18",
-    "date2": "2026-09-24"
+    "date2": "2026-09-24",
+    "date3": "2026-09-27"
   },
   {
     "name": "Gaivotas Bar / Pinheirinho Cerveja",
@@ -42676,11 +42678,12 @@
     "date1": "2026-09-19",
     "email1": true,
     "email2": true,
-    "email3": false,
+    "email3": true,
     "emailVerified": true,
     "emailSource": "https://cnpjgo.com.br/cnpj/68948793000109",
     "emailVerifiedAt": "2026-09-18",
-    "date2": "2026-09-24"
+    "date2": "2026-09-24",
+    "date3": "2026-09-27"
   },
   {
     "name": "Bar e Adega Altas Horas",
@@ -42692,11 +42695,12 @@
     "date1": "2026-09-19",
     "email1": true,
     "email2": true,
-    "email3": false,
+    "email3": true,
     "emailVerified": true,
     "emailSource": "https://mestregeo.com.br/cnpj/sp/sao-paulo/bar-e-adega-altas-horas-52570548000170",
     "emailVerifiedAt": "2026-09-18",
-    "date2": "2026-09-24"
+    "date2": "2026-09-24",
+    "date3": "2026-09-27"
   },
   {
     "name": "Distribuidora Adega Tapajo",
@@ -42708,11 +42712,12 @@
     "date1": "2026-09-19",
     "email1": true,
     "email2": true,
-    "email3": false,
+    "email3": true,
     "emailVerified": true,
     "emailSource": "https://guiapj.com.br/consulta-cnpj/55706841000100",
     "emailVerifiedAt": "2026-09-18",
-    "date2": "2026-09-24"
+    "date2": "2026-09-24",
+    "date3": "2026-09-27"
   },
   {
     "name": "Adega's Bar & Restaurante Ramos",
@@ -42724,11 +42729,12 @@
     "date1": "2026-09-19",
     "email1": true,
     "email2": true,
-    "email3": false,
+    "email3": true,
     "emailVerified": true,
     "emailSource": "https://juridicoonline.com.br/empresa/40441955000107-adega-ramos-bar-e-restaurante-ltda",
     "emailVerifiedAt": "2026-09-18",
-    "date2": "2026-09-24"
+    "date2": "2026-09-24",
+    "date3": "2026-09-27"
   },
   {
     "name": "Nova Tiradentes Adega e Distribuidora",
@@ -42740,11 +42746,12 @@
     "date1": "2026-09-19",
     "email1": true,
     "email2": true,
-    "email3": false,
+    "email3": true,
     "emailVerified": true,
     "emailSource": "https://maiscnpj.com.br/cnpj/59350730000165-nova-tiradentes-adega-e-distribuidora-gru-ltda",
     "emailVerifiedAt": "2026-09-18",
-    "date2": "2026-09-24"
+    "date2": "2026-09-24",
+    "date3": "2026-09-27"
   },
   {
     "name": "C.A.F Bar e Restaurante",
@@ -42774,11 +42781,12 @@
     "date1": "2026-09-20",
     "email1": true,
     "email2": true,
-    "email3": false,
+    "email3": true,
     "emailVerified": true,
     "emailSource": "https://guiapj.com.br",
     "emailVerifiedAt": "2026-09-18",
-    "date2": "2026-09-24"
+    "date2": "2026-09-24",
+    "date3": "2026-09-27"
   },
   {
     "name": "Agua, Bebidas e CIA",
@@ -42808,11 +42816,12 @@
     "date1": "2026-09-21",
     "email1": true,
     "email2": true,
-    "email3": false,
+    "email3": true,
     "emailVerified": true,
     "emailSource": "https://guiapj.com.br",
     "emailVerifiedAt": "2026-09-20",
-    "date2": "2026-09-24"
+    "date2": "2026-09-24",
+    "date3": "2026-09-27"
   },
   {
     "name": "JJV DISTRIBUIDORA",
@@ -42824,11 +42833,12 @@
     "date1": "2026-09-21",
     "email1": true,
     "email2": true,
-    "email3": false,
+    "email3": true,
     "emailVerified": true,
     "emailSource": "https://guiapj.com.br",
     "emailVerifiedAt": "2026-09-20",
-    "date2": "2026-09-24"
+    "date2": "2026-09-24",
+    "date3": "2026-09-27"
   },
   {
     "name": "ADEGA DO MANE",
@@ -42840,11 +42850,12 @@
     "date1": "2026-09-21",
     "email1": true,
     "email2": true,
-    "email3": false,
+    "email3": true,
     "emailVerified": true,
     "emailSource": "https://guiapj.com.br",
     "emailVerifiedAt": "2026-09-20",
-    "date2": "2026-09-24"
+    "date2": "2026-09-24",
+    "date3": "2026-09-27"
   },
   {
     "name": "XIBATA BEBIDAS",
@@ -42873,11 +42884,12 @@
     "date1": "2026-09-21",
     "email1": true,
     "email2": true,
-    "email3": false,
+    "email3": true,
     "emailVerified": true,
     "emailSource": "https://guiapj.com.br",
     "emailVerifiedAt": "2026-09-20",
-    "date2": "2026-09-24"
+    "date2": "2026-09-24",
+    "date3": "2026-09-27"
   },
   {
     "name": "ADEGA TIO PATINHAS",
@@ -43526,11 +43538,12 @@
     "date1": "2026-09-20",
     "email1": false,
     "email2": true,
-    "email3": false,
+    "email3": true,
     "emailVerified": true,
     "emailSource": "https://guiapj.com.br",
     "emailVerifiedAt": "2026-09-20",
-    "date2": "2026-09-24"
+    "date2": "2026-09-24",
+    "date3": "2026-09-27"
   },
   {
     "name": "JJ DISTRIBUIDORA",
@@ -43542,11 +43555,12 @@
     "date1": "2026-09-20",
     "email1": false,
     "email2": true,
-    "email3": false,
+    "email3": true,
     "emailVerified": true,
     "emailSource": "https://guiapj.com.br",
     "emailVerifiedAt": "2026-09-20",
-    "date2": "2026-09-24"
+    "date2": "2026-09-24",
+    "date3": "2026-09-27"
   },
   {
     "name": "ADEGA DO ALEMAO",
