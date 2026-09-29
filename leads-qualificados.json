@@ -45140,5 +45140,65 @@
     "emailVerified": false,
     "emailSource": "",
     "email1": false
+  },
+  {
+    "name": "Matagal Bar",
+    "email": "matagalcwb@gmail.com",
+    "type": "bar",
+    "neighborhood": "Batel",
+    "context": "Bar com feijoada; Batel, Curitiba/PR.",
+    "phone": "(41) 98525-9307",
+    "website": "https://matagalbar.com.br/",
+    "emailVerified": true,
+    "emailSource": "https://matagalbar.com.br/",
+    "email1": false
+  },
+  {
+    "name": "Brasileirinho Bar Restaurante",
+    "email": "",
+    "type": "bar",
+    "neighborhood": "São Francisco",
+    "context": "Boteco boêmio, feijoada de domingo; São Francisco, Curitiba/PR.",
+    "phone": "",
+    "website": "",
+    "emailVerified": false,
+    "emailSource": "",
+    "email1": false
+  },
+  {
+    "name": "Bar do Baiano",
+    "email": "",
+    "type": "bar",
+    "neighborhood": "Pompeia",
+    "context": "Bar tradicional, feijoada sazonal; Pompeia, Belo Horizonte/MG.",
+    "phone": "(31) 3467-7999",
+    "website": "https://portalbelohorizonte.com.br/barescomalma/2024/bar-do-baiano",
+    "emailVerified": false,
+    "emailSource": "",
+    "email1": false
+  },
+  {
+    "name": "Bar Cida Floramar",
+    "email": "",
+    "type": "bar",
+    "neighborhood": "Floramar",
+    "context": "Bar tradicional; Floramar, Belo Horizonte/MG.",
+    "phone": "(31) 3434-8715",
+    "website": "",
+    "emailVerified": false,
+    "emailSource": "",
+    "email1": false
+  },
+  {
+    "name": "Churrascaria Espeto Dourado",
+    "email": "",
+    "type": "bar",
+    "neighborhood": "Santa Felicidade",
+    "context": "Churrascaria com feijoada; Santa Felicidade, Curitiba/PR.",
+    "phone": "(41) 3372-1288",
+    "website": "",
+    "emailVerified": false,
+    "emailSource": "",
+    "email1": false
   }
 ]
