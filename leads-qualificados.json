@@ -44222,7 +44222,10 @@
     "email3": false,
     "emailVerified": true,
     "emailSource": "prospeccao padarias/mercados",
-    "emailVerifiedAt": "2026-09-21"
+    "emailVerifiedAt": "2026-09-21",
+    "doNotContact": true,
+    "bounced": true,
+    "bounceDate": "2026-09-29"
   },
   {
     "name": "Doval Padaria e Confeitaria",
@@ -44252,7 +44255,10 @@
     "email3": false,
     "emailVerified": true,
     "emailSource": "prospeccao padarias/mercados",
-    "emailVerifiedAt": "2026-09-21"
+    "emailVerifiedAt": "2026-09-21",
+    "doNotContact": true,
+    "bounced": true,
+    "bounceDate": "2026-09-29"
   },
   {
     "name": "Super Baratão Supermercados",
@@ -44282,7 +44288,10 @@
     "email3": false,
     "emailVerified": true,
     "emailSource": "prospeccao padarias/mercados",
-    "emailVerifiedAt": "2026-09-21"
+    "emailVerifiedAt": "2026-09-21",
+    "doNotContact": true,
+    "bounced": true,
+    "bounceDate": "2026-09-29"
   },
   {
     "name": "Padaria Paozito",
