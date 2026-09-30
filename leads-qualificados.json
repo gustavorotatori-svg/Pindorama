@@ -44044,11 +44044,12 @@
     "context": "Padaria/Mercado/Supermercado - SP e ABC - prospeccao",
     "date1": "2026-09-28",
     "email1": true,
-    "email2": false,
+    "email2": true,
     "email3": false,
     "emailVerified": true,
     "emailSource": "prospeccao padarias/mercados",
-    "emailVerifiedAt": "2026-09-21"
+    "emailVerifiedAt": "2026-09-21",
+    "date2": "2026-09-30"
   },
   {
     "name": "Supermercado Lisboa",
@@ -44059,11 +44060,12 @@
     "context": "Padaria/Mercado/Supermercado - SP e ABC - prospeccao",
     "date1": "2026-09-28",
     "email1": true,
-    "email2": false,
+    "email2": true,
     "email3": false,
     "emailVerified": true,
     "emailSource": "prospeccao padarias/mercados",
-    "emailVerifiedAt": "2026-09-21"
+    "emailVerifiedAt": "2026-09-21",
+    "date2": "2026-09-30"
   },
   {
     "name": "Padaria Flora",
@@ -44074,11 +44076,12 @@
     "context": "Padaria/Mercado/Supermercado - SP e ABC - prospeccao",
     "date1": "2026-09-28",
     "email1": true,
-    "email2": false,
+    "email2": true,
     "email3": false,
     "emailVerified": true,
     "emailSource": "prospeccao padarias/mercados",
-    "emailVerifiedAt": "2026-09-21"
+    "emailVerifiedAt": "2026-09-21",
+    "date2": "2026-09-30"
   },
   {
     "name": "Padaria Requinte de Osasco",
@@ -44089,11 +44092,12 @@
     "context": "Padaria/Mercado/Supermercado - SP e ABC - prospeccao",
     "date1": "2026-09-28",
     "email1": true,
-    "email2": false,
+    "email2": true,
     "email3": false,
     "emailVerified": true,
     "emailSource": "prospeccao padarias/mercados",
-    "emailVerifiedAt": "2026-09-21"
+    "emailVerifiedAt": "2026-09-21",
+    "date2": "2026-09-30"
   },
   {
     "name": "Padaria e Pizzaria Oliveira",
@@ -44104,11 +44108,12 @@
     "context": "Padaria/Mercado/Supermercado - SP e ABC - prospeccao",
     "date1": "2026-09-28",
     "email1": true,
-    "email2": false,
+    "email2": true,
     "email3": false,
     "emailVerified": true,
     "emailSource": "prospeccao padarias/mercados",
-    "emailVerifiedAt": "2026-09-21"
+    "emailVerifiedAt": "2026-09-21",
+    "date2": "2026-09-30"
   },
   {
     "name": "Mercado Tudo Mais Barato",
@@ -44149,11 +44154,12 @@
     "context": "Padaria/Mercado/Supermercado - SP e ABC - prospeccao",
     "date1": "2026-09-28",
     "email1": true,
-    "email2": false,
+    "email2": true,
     "email3": false,
     "emailVerified": true,
     "emailSource": "prospeccao padarias/mercados",
-    "emailVerifiedAt": "2026-09-21"
+    "emailVerifiedAt": "2026-09-21",
+    "date2": "2026-09-30"
   },
   {
     "name": "Padaria Tranza",
@@ -44164,11 +44170,12 @@
     "context": "Padaria/Mercado/Supermercado - SP e ABC - prospeccao",
     "date1": "2026-09-28",
     "email1": true,
-    "email2": false,
+    "email2": true,
     "email3": false,
     "emailVerified": true,
     "emailSource": "prospeccao padarias/mercados",
-    "emailVerifiedAt": "2026-09-21"
+    "emailVerifiedAt": "2026-09-21",
+    "date2": "2026-09-30"
   },
   {
     "name": "Senhor Pão de Queijo",
@@ -44179,11 +44186,12 @@
     "context": "Padaria/Mercado/Supermercado - SP e ABC - prospeccao",
     "date1": "2026-09-28",
     "email1": true,
-    "email2": false,
+    "email2": true,
     "email3": false,
     "emailVerified": true,
     "emailSource": "prospeccao padarias/mercados",
-    "emailVerifiedAt": "2026-09-21"
+    "emailVerifiedAt": "2026-09-21",
+    "date2": "2026-09-30"
   },
   {
     "name": "Padaria Assembleia II",
@@ -44227,11 +44235,12 @@
     "context": "Padaria/Mercado/Supermercado - SP e ABC - prospeccao",
     "date1": "2026-09-28",
     "email1": true,
-    "email2": false,
+    "email2": true,
     "email3": false,
     "emailVerified": true,
     "emailSource": "prospeccao padarias/mercados",
-    "emailVerifiedAt": "2026-09-21"
+    "emailVerifiedAt": "2026-09-21",
+    "date2": "2026-09-30"
   },
   {
     "name": "Padaria Pão Nosso",
@@ -44431,11 +44440,12 @@
     "context": "Padaria/Mercado/Supermercado - SP e ABC - prospeccao",
     "date1": "2026-09-28",
     "email1": true,
-    "email2": false,
+    "email2": true,
     "email3": false,
     "emailVerified": true,
     "emailSource": "prospeccao padarias/mercados",
-    "emailVerifiedAt": "2026-09-21"
+    "emailVerifiedAt": "2026-09-21",
+    "date2": "2026-09-30"
   },
   {
     "name": "Mercado do Povo",
