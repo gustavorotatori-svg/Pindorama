@@ -43769,12 +43769,13 @@
     "type": "adega",
     "date1": "2026-09-28",
     "email1": true,
-    "email2": false,
+    "email2": true,
     "email3": false,
     "emailVerified": true,
     "emailSource": "CNPJa/Econodata prospection",
     "emailVerifiedAt": "2026-09-21",
-    "context": "Prospeccao SP capital - Parque Taipas"
+    "context": "Prospeccao SP capital - Parque Taipas",
+    "date2": "2026-09-30"
   },
   {
     "name": "RF Distribuidora de Bebidas e Alimentos",
@@ -43783,12 +43784,13 @@
     "type": "distribuidora",
     "date1": "2026-09-28",
     "email1": true,
-    "email2": false,
+    "email2": true,
     "email3": false,
     "emailVerified": true,
     "emailSource": "CNPJa/Econodata prospection",
     "emailVerifiedAt": "2026-09-21",
-    "context": "Prospeccao SP capital - Jardim Vilas Boas (Grajaú)"
+    "context": "Prospeccao SP capital - Jardim Vilas Boas (Grajaú)",
+    "date2": "2026-09-30"
   },
   {
     "name": "N.K Distribuidora de Bebidas",
@@ -43797,12 +43799,13 @@
     "type": "distribuidora",
     "date1": "2026-09-28",
     "email1": true,
-    "email2": false,
+    "email2": true,
     "email3": false,
     "emailVerified": true,
     "emailSource": "CNPJa/Econodata prospection",
     "emailVerifiedAt": "2026-09-21",
-    "context": "Prospeccao SP capital - Itaim Paulista"
+    "context": "Prospeccao SP capital - Itaim Paulista",
+    "date2": "2026-09-30"
   },
   {
     "name": "F T Distribuidora de Bebidas (F T Adega e Tabacaria)",
@@ -43811,12 +43814,13 @@
     "type": "adega",
     "date1": "2026-09-28",
     "email1": true,
-    "email2": false,
+    "email2": true,
     "email3": false,
     "emailVerified": true,
     "emailSource": "CNPJa/Econodata prospection",
     "emailVerifiedAt": "2026-09-21",
-    "context": "Prospeccao SP capital - Vila Maria Luisa (Perus)"
+    "context": "Prospeccao SP capital - Vila Maria Luisa (Perus)",
+    "date2": "2026-09-30"
   },
   {
     "name": "Padaria Pão de Ouro",
@@ -43862,11 +43866,12 @@
     "context": "Padaria/Mercado/Supermercado - SP e ABC - prospeccao",
     "date1": "2026-09-28",
     "email1": true,
-    "email2": false,
+    "email2": true,
     "email3": false,
     "emailVerified": true,
     "emailSource": "prospeccao padarias/mercados",
-    "emailVerifiedAt": "2026-09-21"
+    "emailVerifiedAt": "2026-09-21",
+    "date2": "2026-09-30"
   },
   {
     "name": "Nema Padaria (Vila Mariana)",
@@ -43877,11 +43882,12 @@
     "context": "Padaria/Mercado/Supermercado - SP e ABC - prospeccao",
     "date1": "2026-09-28",
     "email1": true,
-    "email2": false,
+    "email2": true,
     "email3": false,
     "emailVerified": true,
     "emailSource": "prospeccao padarias/mercados",
-    "emailVerifiedAt": "2026-09-21"
+    "emailVerifiedAt": "2026-09-21",
+    "date2": "2026-09-30"
   },
   {
     "name": "Benjamin A Padaria",
@@ -43892,11 +43898,12 @@
     "context": "Padaria/Mercado/Supermercado - SP e ABC - prospeccao",
     "date1": "2026-09-28",
     "email1": true,
-    "email2": false,
+    "email2": true,
     "email3": false,
     "emailVerified": true,
     "emailSource": "prospeccao padarias/mercados",
-    "emailVerifiedAt": "2026-09-21"
+    "emailVerifiedAt": "2026-09-21",
+    "date2": "2026-09-30"
   },
   {
     "name": "Empório Carmignani",
@@ -43907,11 +43914,12 @@
     "context": "Padaria/Mercado/Supermercado - SP e ABC - prospeccao",
     "date1": "2026-09-28",
     "email1": true,
-    "email2": false,
+    "email2": true,
     "email3": false,
     "emailVerified": true,
     "emailSource": "prospeccao padarias/mercados",
-    "emailVerifiedAt": "2026-09-21"
+    "emailVerifiedAt": "2026-09-21",
+    "date2": "2026-09-30"
   },
   {
     "name": "Empório Tartufo",
@@ -43922,11 +43930,12 @@
     "context": "Padaria/Mercado/Supermercado - SP e ABC - prospeccao",
     "date1": "2026-09-28",
     "email1": true,
-    "email2": false,
+    "email2": true,
     "email3": false,
     "emailVerified": true,
     "emailSource": "prospeccao padarias/mercados",
-    "emailVerifiedAt": "2026-09-21"
+    "emailVerifiedAt": "2026-09-21",
+    "date2": "2026-09-30"
   },
   {
     "name": "Empório Mercadão Lapa",
@@ -43937,11 +43946,12 @@
     "context": "Padaria/Mercado/Supermercado - SP e ABC - prospeccao",
     "date1": "2026-09-28",
     "email1": true,
-    "email2": false,
+    "email2": true,
     "email3": false,
     "emailVerified": true,
     "emailSource": "prospeccao padarias/mercados",
-    "emailVerifiedAt": "2026-09-21"
+    "emailVerifiedAt": "2026-09-21",
+    "date2": "2026-09-30"
   },
   {
     "name": "Padaria Munhoz",
@@ -43952,11 +43962,12 @@
     "context": "Padaria/Mercado/Supermercado - SP e ABC - prospeccao",
     "date1": "2026-09-28",
     "email1": true,
-    "email2": false,
+    "email2": true,
     "email3": false,
     "emailVerified": true,
     "emailSource": "prospeccao padarias/mercados",
-    "emailVerifiedAt": "2026-09-21"
+    "emailVerifiedAt": "2026-09-21",
+    "date2": "2026-09-30"
   },
   {
     "name": "Padaria Favos D'Mel",
@@ -43967,11 +43978,12 @@
     "context": "Padaria/Mercado/Supermercado - SP e ABC - prospeccao",
     "date1": "2026-09-28",
     "email1": true,
-    "email2": false,
+    "email2": true,
     "email3": false,
     "emailVerified": true,
     "emailSource": "prospeccao padarias/mercados",
-    "emailVerifiedAt": "2026-09-21"
+    "emailVerifiedAt": "2026-09-21",
+    "date2": "2026-09-30"
   },
   {
     "name": "Padaria e Confeitaria JRB",
