@@ -43694,12 +43694,13 @@
     "type": "adega",
     "date1": "2026-09-28",
     "email1": true,
-    "email2": false,
+    "email2": true,
     "email3": false,
     "emailVerified": true,
     "emailSource": "CNPJa/Econodata prospection",
     "emailVerifiedAt": "2026-09-21",
-    "context": "Prospeccao SP capital - Cidade Nova Sao Miguel"
+    "context": "Prospeccao SP capital - Cidade Nova Sao Miguel",
+    "date2": "2026-09-29"
   },
   {
     "name": "Adega GS LTDA (Sao Filipe Neri)",
@@ -43708,12 +43709,13 @@
     "type": "adega",
     "date1": "2026-09-28",
     "email1": true,
-    "email2": false,
+    "email2": true,
     "email3": false,
     "emailVerified": true,
     "emailSource": "CNPJa/Econodata prospection",
     "emailVerifiedAt": "2026-09-21",
-    "context": "Prospeccao SP capital - Zona Norte"
+    "context": "Prospeccao SP capital - Zona Norte",
+    "date2": "2026-09-29"
   },
   {
     "name": "Adega King Comercio e Distribuidora de Bebidas",
@@ -43722,12 +43724,13 @@
     "type": "adega",
     "date1": "2026-09-28",
     "email1": true,
-    "email2": false,
+    "email2": true,
     "email3": false,
     "emailVerified": true,
     "emailSource": "CNPJa/Econodata prospection",
     "emailVerifiedAt": "2026-09-21",
-    "context": "Prospeccao SP capital - Vila Tolstoi"
+    "context": "Prospeccao SP capital - Vila Tolstoi",
+    "date2": "2026-09-29"
   },
   {
     "name": "Adega Bulldog Distribuidora de Bebidas",
@@ -43736,12 +43739,13 @@
     "type": "adega",
     "date1": "2026-09-28",
     "email1": true,
-    "email2": false,
+    "email2": true,
     "email3": false,
     "emailVerified": true,
     "emailSource": "CNPJa/Econodata prospection",
     "emailVerifiedAt": "2026-09-21",
-    "context": "Prospeccao SP capital - Jardim Vista Alegre"
+    "context": "Prospeccao SP capital - Jardim Vista Alegre",
+    "date2": "2026-09-29"
   },
   {
     "name": "Adega e Tabacaria Barao",
@@ -43750,12 +43754,13 @@
     "type": "adega",
     "date1": "2026-09-28",
     "email1": true,
-    "email2": false,
+    "email2": true,
     "email3": false,
     "emailVerified": true,
     "emailSource": "CNPJa/Econodata prospection",
     "emailVerifiedAt": "2026-09-21",
-    "context": "Prospeccao SP capital - Sao Mateus"
+    "context": "Prospeccao SP capital - Sao Mateus",
+    "date2": "2026-09-29"
   },
   {
     "name": "Mercearia Adega e Acougue Mendes",
