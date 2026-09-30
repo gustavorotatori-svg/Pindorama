@@ -44012,11 +44012,12 @@
     "context": "Padaria/Mercado/Supermercado - SP e ABC - prospeccao",
     "date1": "2026-09-28",
     "email1": true,
-    "email2": false,
+    "email2": true,
     "email3": false,
     "emailVerified": true,
     "emailSource": "prospeccao padarias/mercados",
-    "emailVerifiedAt": "2026-09-21"
+    "emailVerifiedAt": "2026-09-21",
+    "date2": "2026-09-30"
   },
   {
     "name": "Padaria Sagres de Guarulhos",
@@ -44027,11 +44028,12 @@
     "context": "Padaria/Mercado/Supermercado - SP e ABC - prospeccao",
     "date1": "2026-09-28",
     "email1": true,
-    "email2": false,
+    "email2": true,
     "email3": false,
     "emailVerified": true,
     "emailSource": "prospeccao padarias/mercados",
-    "emailVerifiedAt": "2026-09-21"
+    "emailVerifiedAt": "2026-09-21",
+    "date2": "2026-09-30"
   },
   {
     "name": "Paulipão - Pães",

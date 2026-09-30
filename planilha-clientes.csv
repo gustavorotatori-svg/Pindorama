@@ -2546,7 +2546,7 @@ Emporio Bella Mattina;cafebellamattina@gmail.com;;(11) 98915-8299;Jundiai;Traviu
 Adega do Portugues;adega.portugues@terra.com.br;;(11) 4584-1128;Jundiai;Ivoturucaia;adega_vinhos_licores_destilados;2026-08-30;2026-09-01;2026-09-09;
 Emporio Sao Luis;contato@emporiosaoluis.com.br;;(11) 2219-2147;Sao Paulo;Mooca;emporio_bebidas_cachacas_premium;2026-08-30;2026-09-01;2026-09-09;
 Schneider Bebidas;comercial@schneiderbebidas.com.br;(19) 98430-0102;(19) 98430-0102;Campinas;Sousas;emporio_bebidas_destilados;2026-08-30;2026-09-01;2026-09-09;2026-09-28
-Adega Caca;contato@adegacaca.com.br;;(16) 99051-0533;Franca;Jardim California;adega_online_cachacas_premium;2026-08-30;2026-09-01;2026-09-09;
+Adega Caca;contato@adegacaca.com.br;(16) 99051-0533;(16) 99051-0533;Franca;Jardim California;adega_online_cachacas_premium;2026-08-30;2026-09-01;2026-09-09;2026-09-30
 Don Fernandes;cachacadonfernandes@gmail.com;;(11) 97837-2275;Sao Paulo;;loja_online_cachacas_premium;2026-08-30;2026-09-01;2026-09-09;
 Cachacas Brasileiras;contato@cachacasbrasileiras.com.br;;;Bauru;;loja_online_cachacas;2026-08-30;2026-09-01;2026-09-09;
 Sabor da Fonte;contato@sabordafonte.com.br;;(11) 98044-8848;Sao Paulo;;emporio_online_produtos_artesanais_cachacas;2026-08-30;2026-09-01;2026-09-09;
@@ -2591,9 +2591,9 @@ FG7 Bebidas;site@fg7bebidas.com.br;;(11) 94787-0025;Sao Paulo;;loja_bebidas;2026
 JMatos Bebidas;comercial@jmatosbebidas.com.br;;+55 (11) 2373-2970;;Mirandopolis;distribuidora;2026-09-04;2026-09-10;2026-09-14;
 Pezasa Distribuidora de Bebidas;distribuidora@pezasa.com.br;;(17) 3353-8703;Sao Jose do Rio Preto;Chacara Jockey Club;distribuidora_bebidas_cachacas;2026-09-04;2026-09-10;2026-09-14;
 Buteco em Casa Campinas;;;(19) 99965-1244;Campinas;;buffet_eventos_bar_caipirinhas;;;;
-Taxi Beer Drinks Express;contato@taxibeer.com.br;;(19) 99759-4747;Campinas;Gramado;delivery_adega_bebidas_cachacas;2026-09-04;2026-09-10;2026-09-14;
-Taberna do Portuga;;;(19) 98848-9812;Campinas;Sao Quirino;bar_restaurante_cachacas_caipirinhas;;;;
-Nova Adega Jundiai;;;(11) 96719-4844;Jundiai;Vila Progresso;adega_delivery_cachacas_destilados;;;;
+Taxi Beer Drinks Express;contato@taxibeer.com.br;(19) 99759-4747;(19) 99759-4747;Campinas;Gramado;delivery_adega_bebidas_cachacas;2026-09-04;2026-09-10;2026-09-14;2026-09-30
+Taberna do Portuga;;(19) 98848-9812;(19) 98848-9812;Campinas;Sao Quirino;bar_restaurante_cachacas_caipirinhas;;;;2026-09-30
+Nova Adega Jundiai;;(11) 96719-4844;(11) 96719-4844;Jundiai;Vila Progresso;adega_delivery_cachacas_destilados;;;;2026-09-30
 Vinicola e Adega Castanho;contato@vinicolacastanho.com.br;;(11) 4863-0930;Jundiai;Castanho;vinicola_adega_cachacas_eventos;2026-09-04;2026-09-10;2026-09-14;
 Adega Santa Cecilia;adegasantacecilia@adegasantacecilia.com.br;;(11) 4582-6891;Jundiai;Traviu;adega_vinicola_cachacas_bistro;2026-09-04;;;
 Adega Meireles;adegameireles@bol.com.br;;(11) 4338-3735;Av Dr Jose Fornari, 1499 - Ferrazopolis, Sao Bernardo do Campo;Ferrazopolis;adega;2026-09-04;2026-09-10;2026-09-14;
@@ -2895,8 +2895,8 @@ Empório Tartufo;pedidos@emporiotartufo.com.br;;;;Moema;emporio;2026-09-28;2026-
 Empório Mercadão Lapa;contato@emporiomercadaolapa.com.br;;;;Lapa;emporio;2026-09-28;2026-09-30;;
 Padaria Munhoz;munhozpaes@hotmail.com;;;;Guarulhos;padaria;2026-09-28;2026-09-30;;
 Padaria Favos D'Mel;loja1@favosdmel.com.br;;;;Picanço;padaria;2026-09-28;2026-09-30;;
-Padaria e Confeitaria JRB;jrb.padaria@gmail.com;;;;Jardim Paraventi;padaria;2026-09-28;;;
-Padaria Sagres de Guarulhos;padariasagresdeguarulhos@gmail.com;;;;Macedo;padaria;2026-09-28;;;
+Padaria e Confeitaria JRB;jrb.padaria@gmail.com;;;;Jardim Paraventi;padaria;2026-09-28;2026-09-30;;
+Padaria Sagres de Guarulhos;padariasagresdeguarulhos@gmail.com;;;;Macedo;padaria;2026-09-28;2026-09-30;;
 Paulipão - Pães;comercial@paulipao.com.br;;;;Cumbica;padaria;2026-09-28;;;
 Supermercado Lisboa;supermercadoslisboa@gmail.com;;;;Osasco;supermercado;2026-09-28;;;
 Padaria Flora;paes_doces_flora@terra.com.br;;;;Osasco;padaria;2026-09-28;;;
