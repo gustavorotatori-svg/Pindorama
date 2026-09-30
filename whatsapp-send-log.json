@@ -2038,5 +2038,236 @@
     "phone": "(19) 98118-8701",
     "source": "https://embaixadadochopp.com.br/",
     "messageId": "3EB0C6A835DDC4D8022C92"
+  },
+  {
+    "date": "2026-09-30",
+    "checkedAt": "2026-09-30T13:54:19.523Z",
+    "status": "not_on_whatsapp",
+    "name": "Sampa Adega",
+    "phone": "(11) 98402-3929",
+    "source": "https://www.sampaadega.com.br/"
+  },
+  {
+    "date": "2026-09-30",
+    "checkedAt": "2026-09-30T13:54:19.706Z",
+    "status": "not_on_whatsapp",
+    "name": "Adega Frimar",
+    "phone": "(11) 5219-3878",
+    "source": "https://mycelium.lat/"
+  },
+  {
+    "date": "2026-09-30",
+    "checkedAt": "2026-09-30T13:54:19.889Z",
+    "status": "not_on_whatsapp",
+    "name": "Sphera Lounge",
+    "phone": "(11) 97636-3908",
+    "source": "https://www.spheralounge.com.br/"
+  },
+  {
+    "date": "2026-09-30",
+    "checkedAt": "2026-09-30T13:54:20.074Z",
+    "status": "not_on_whatsapp",
+    "name": "Dentro Bar",
+    "phone": "(11) 94998-2925",
+    "source": "https://www.baressp.com.br/bares/dentro-bar"
+  },
+  {
+    "date": "2026-09-30",
+    "checkedAt": "2026-09-30T13:54:20.437Z",
+    "status": "not_on_whatsapp",
+    "name": "No Ponto Espeto & Bar",
+    "phone": "(11) 99011-3879",
+    "source": "https://baressp.com.br/bares/no-ponto-espeto-e-bar"
+  },
+  {
+    "date": "2026-09-30",
+    "checkedAt": "2026-09-30T13:54:20.728Z",
+    "status": "not_on_whatsapp",
+    "name": "Boteco do Max Nola",
+    "phone": "(11) 99980-1876",
+    "source": "https://www.baressp.com.br/bares/boteco-do-max-nola-"
+  },
+  {
+    "date": "2026-09-30",
+    "checkedAt": "2026-09-30T13:54:21.040Z",
+    "status": "not_on_whatsapp",
+    "name": "O Bretao Pub",
+    "phone": "(15) 99126-9981",
+    "source": "https://www.baressp.com.br/bares/o-bretao-pub"
+  },
+  {
+    "date": "2026-09-30",
+    "checkedAt": "2026-09-30T13:54:21.223Z",
+    "status": "not_on_whatsapp",
+    "name": "Nossa Distribuidora Bebidas",
+    "phone": "(11) 99950-3806",
+    "source": "https://nossadistribuidorabebidas.com.br/"
+  },
+  {
+    "date": "2026-09-30",
+    "checkedAt": "2026-09-30T13:54:21.516Z",
+    "status": "not_on_whatsapp",
+    "name": "Adega Imperador",
+    "phone": "(11) 98135-5842",
+    "source": "https://adegaimperador.com.br/adegaimperador/adegaimperador/pages/contato"
+  },
+  {
+    "date": "2026-09-30",
+    "checkedAt": "2026-09-30T13:54:21.831Z",
+    "status": "not_on_whatsapp",
+    "name": "FG7 Bebidas",
+    "phone": "(11) 94787-0025",
+    "source": "https://www.fg7bebidas.com.br/"
+  },
+  {
+    "date": "2026-09-30",
+    "checkedAt": "2026-09-30T13:54:22.054Z",
+    "status": "not_on_whatsapp",
+    "name": "Adega Vibe Beer",
+    "phone": "(11) 99325-4279",
+    "source": "https://www.cardapio.datacaixa.com.br/loja=1516"
+  },
+  {
+    "date": "2026-09-30",
+    "acceptedAt": "2026-09-30T13:54:24.152Z",
+    "status": "accepted",
+    "name": "Cambuci Forno e Mesa",
+    "phone": "(19) 99888-5577",
+    "source": "https://cambucifornoemesa.com.br/",
+    "messageId": "3EB073F3BDDDA839E8CEDA"
+  },
+  {
+    "date": "2026-09-30",
+    "acceptedAt": "2026-09-30T13:54:30.459Z",
+    "status": "accepted",
+    "name": "Tico & Teco Distribuidora de Bebidas",
+    "phone": "(19) 99549-9198",
+    "source": "https://distribuidoraticoeteco.com.br/",
+    "messageId": "3EB075B57AFE89ADA02C7A"
+  },
+  {
+    "date": "2026-09-30",
+    "acceptedAt": "2026-09-30T13:54:37.621Z",
+    "status": "accepted",
+    "name": "Distribuidora Queiroz",
+    "phone": "(19) 99276-1364",
+    "source": "https://distribuidoraqueiroz.com.br/",
+    "messageId": "3EB091CBDA775BA01B5F6E"
+  },
+  {
+    "date": "2026-09-30",
+    "acceptedAt": "2026-09-30T13:54:43.960Z",
+    "status": "accepted",
+    "name": "CBA Bebidas",
+    "phone": "(19) 98872-0736",
+    "source": "https://cbabebidas.com.br/contato/",
+    "messageId": "3EB074BBBCEACE505AB7B4"
+  },
+  {
+    "date": "2026-09-30",
+    "acceptedAt": "2026-09-30T13:54:50.988Z",
+    "status": "accepted",
+    "name": "ServLar Campinas",
+    "phone": "(19) 98113-1900",
+    "source": "https://www.servlarcps.com.br/",
+    "messageId": "3EB00DE860196818C96AC7"
+  },
+  {
+    "date": "2026-09-30",
+    "acceptedAt": "2026-09-30T13:54:57.215Z",
+    "status": "accepted",
+    "name": "Taxi Beer Drinks Express",
+    "phone": "(19) 99759-4747",
+    "source": "https://www.taxibeer.com.br/",
+    "messageId": "3EB05286D080913CDB1B11"
+  },
+  {
+    "date": "2026-09-30",
+    "acceptedAt": "2026-09-30T13:55:04.315Z",
+    "status": "accepted",
+    "name": "Vinhedos do Brasil",
+    "phone": "(11) 4210-4488",
+    "source": "https://vinhedosdobrasil.com.br/contato/",
+    "messageId": "3EB0840EA35EDB00A43619"
+  },
+  {
+    "date": "2026-09-30",
+    "checkedAt": "2026-09-30T13:55:09.514Z",
+    "status": "not_on_whatsapp",
+    "name": "Nossa Adega Distribuidora",
+    "phone": "(19) 3627-0260",
+    "source": "https://casadosdados.com.br/solucao/cnpj/nossa-adega-distribuidora-de-bebidas-ltda-42380510000181"
+  },
+  {
+    "date": "2026-09-30",
+    "acceptedAt": "2026-09-30T13:55:11.373Z",
+    "status": "accepted",
+    "name": "Simus Bebidas",
+    "phone": "(15) 99740-5521",
+    "source": "https://www.simusbebidas.com.br/",
+    "messageId": "3EB0919154B2E0A690AFD2"
+  },
+  {
+    "date": "2026-09-30",
+    "acceptedAt": "2026-09-30T13:55:18.507Z",
+    "status": "accepted",
+    "name": "Adega Caca",
+    "phone": "(16) 99051-0533",
+    "source": "https://www.adegacaca.com.br/",
+    "messageId": "3EB0A7193735F83567F6C1"
+  },
+  {
+    "date": "2026-09-30",
+    "acceptedAt": "2026-09-30T13:55:25.381Z",
+    "status": "accepted",
+    "name": "Taberna do Portuga",
+    "phone": "(19) 98848-9812",
+    "source": "https://tabernadoportuga.com.br/bebidas/",
+    "messageId": "3EB0284A3C9E4A07A6F9E4"
+  },
+  {
+    "date": "2026-09-30",
+    "acceptedAt": "2026-09-30T13:55:32.043Z",
+    "status": "accepted",
+    "name": "Muru Pimentas Especiais",
+    "phone": "(19) 99892-2182",
+    "source": "https://www.murupimentas.com.br/",
+    "messageId": "3EB00920F3B4371C51146C"
+  },
+  {
+    "date": "2026-09-30",
+    "acceptedAt": "2026-09-30T13:55:39.359Z",
+    "status": "accepted",
+    "name": "Nova Adega Jundiai",
+    "phone": "(11) 96719-4844",
+    "source": "https://cardapio.datacaixa.com.br/loja%3D12845",
+    "messageId": "3EB03482ECA1ADF2B960DE"
+  },
+  {
+    "date": "2026-09-30",
+    "acceptedAt": "2026-09-30T13:55:46.267Z",
+    "status": "accepted",
+    "name": "Rino Beer Growler & Craft",
+    "phone": "(15) 3411-9908",
+    "source": "https://rinobeer.com.br/",
+    "messageId": "3EB0100C5F69A2F60C1253"
+  },
+  {
+    "date": "2026-09-30",
+    "acceptedAt": "2026-09-30T13:55:53.072Z",
+    "status": "accepted",
+    "name": "Quiero Cafe Campinas",
+    "phone": "(19) 99429-0661",
+    "source": "https://quierocafe.com.br/unidade/campinas-sp/",
+    "messageId": "3EB05E08EE82B2CDE076E6"
+  },
+  {
+    "date": "2026-09-30",
+    "acceptedAt": "2026-09-30T13:56:00.582Z",
+    "status": "accepted",
+    "name": "Estacao Jundiahy",
+    "phone": "(11) 98618-7956",
+    "source": "https://estacaojundiahy.com.br/",
+    "messageId": "3EB02E95A42DA4AD49D4F7"
   }
 ]

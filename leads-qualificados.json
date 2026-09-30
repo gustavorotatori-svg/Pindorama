@@ -37660,7 +37660,10 @@
     "email2": true,
     "date2": "2026-09-01",
     "email3": true,
-    "date3": "2026-09-09"
+    "date3": "2026-09-09",
+    "whatsappSent": true,
+    "whatsappDate": "2026-09-30",
+    "whatsappSource": "https://www.adegacaca.com.br/"
   },
   {
     "name": "Don Fernandes",
@@ -38657,7 +38660,10 @@
     "email2": true,
     "date2": "2026-09-10",
     "email3": true,
-    "date3": "2026-09-14"
+    "date3": "2026-09-14",
+    "whatsappSent": true,
+    "whatsappDate": "2026-09-30",
+    "whatsappSource": "https://www.taxibeer.com.br/"
   },
   {
     "name": "Taberna do Portuga",
@@ -38674,7 +38680,10 @@
     "phoneVerifiedAt": "2026-09-02",
     "verifiedAt": "2026-09-02",
     "status": "uncontacted",
-    "template": "consultivo"
+    "template": "consultivo",
+    "whatsappSent": true,
+    "whatsappDate": "2026-09-30",
+    "whatsappSource": "https://tabernadoportuga.com.br/bebidas/"
   },
   {
     "name": "Nova Adega Jundiai",
@@ -38691,7 +38700,10 @@
     "phoneVerifiedAt": "2026-09-02",
     "verifiedAt": "2026-09-02",
     "status": "uncontacted",
-    "template": "consultivo"
+    "template": "consultivo",
+    "whatsappSent": true,
+    "whatsappDate": "2026-09-30",
+    "whatsappSource": "https://cardapio.datacaixa.com.br/loja%3D12845"
   },
   {
     "name": "Vinicola e Adega Castanho",
