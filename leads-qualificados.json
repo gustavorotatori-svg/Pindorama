@@ -43919,7 +43919,10 @@
     "emailVerified": true,
     "emailSource": "prospeccao padarias/mercados",
     "emailVerifiedAt": "2026-09-21",
-    "date2": "2026-09-30"
+    "date2": "2026-09-30",
+    "doNotContact": true,
+    "bounced": true,
+    "bounceDate": "2026-09-30"
   },
   {
     "name": "Empório Tartufo",
@@ -43983,7 +43986,10 @@
     "emailVerified": true,
     "emailSource": "prospeccao padarias/mercados",
     "emailVerifiedAt": "2026-09-21",
-    "date2": "2026-09-30"
+    "date2": "2026-09-30",
+    "doNotContact": true,
+    "bounced": true,
+    "bounceDate": "2026-09-30"
   },
   {
     "name": "Padaria e Confeitaria JRB",
