@@ -1796,7 +1796,12 @@
     "verifiedAt": "2026-08-29",
     "notBefore": "2026-08-29",
     "status": "sent",
-    "sentAt": "2026-09-30T13:54:37.621Z"
+    "sentAt": "2026-09-30T13:54:37.621Z",
+    "doNotContact": true,
+    "noInterest": true,
+    "noInterestDate": "2026-09-30",
+    "noInterestObs": "respondeu: Por hora nao temos interesse",
+    "recontactAfter": "2027-03-30"
   },
   {
     "name": "CBA Bebidas",
@@ -1869,7 +1874,14 @@
     "verifiedAt": "2026-08-29",
     "notBefore": "2026-08-29",
     "status": "sent",
-    "sentAt": "2026-09-30T13:55:11.373Z"
+    "sentAt": "2026-09-30T13:55:11.373Z",
+    "responded": true,
+    "hot": true,
+    "contactName": "Helder",
+    "contactEmail": "heldercogo@simusbebidas.com.br",
+    "contactRole": "responsavel por compras",
+    "respondedAt": "2026-09-30",
+    "responseObs": "passou o e-mail do responsavel por compras"
   },
   {
     "name": "Adega Caca",
