@@ -44124,11 +44124,12 @@
     "context": "Padaria/Mercado/Supermercado - SP e ABC - prospeccao",
     "date1": "2026-09-29",
     "email1": true,
-    "email2": false,
+    "email2": true,
     "email3": false,
     "emailVerified": true,
     "emailSource": "prospeccao padarias/mercados",
-    "emailVerifiedAt": "2026-09-21"
+    "emailVerifiedAt": "2026-09-21",
+    "date2": "2026-09-30"
   },
   {
     "name": "Mercado Beira Rio",
@@ -44220,11 +44221,12 @@
     "context": "Padaria/Mercado/Supermercado - SP e ABC - prospeccao",
     "date1": "2026-09-29",
     "email1": true,
-    "email2": false,
+    "email2": true,
     "email3": false,
     "emailVerified": true,
     "emailSource": "prospeccao padarias/mercados",
-    "emailVerifiedAt": "2026-09-21"
+    "emailVerifiedAt": "2026-09-21",
+    "date2": "2026-09-30"
   },
   {
     "name": "Supermercados Joanin",
@@ -44251,11 +44253,12 @@
     "context": "Padaria/Mercado/Supermercado - SP e ABC - prospeccao",
     "date1": "2026-09-29",
     "email1": true,
-    "email2": false,
+    "email2": true,
     "email3": false,
     "emailVerified": true,
     "emailSource": "prospeccao padarias/mercados",
-    "emailVerifiedAt": "2026-09-21"
+    "emailVerifiedAt": "2026-09-21",
+    "date2": "2026-09-30"
   },
   {
     "name": "Padaria da Vila",
@@ -44266,11 +44269,12 @@
     "context": "Padaria/Mercado/Supermercado - SP e ABC - prospeccao",
     "date1": "2026-09-29",
     "email1": true,
-    "email2": false,
+    "email2": true,
     "email3": false,
     "emailVerified": true,
     "emailSource": "prospeccao padarias/mercados",
-    "emailVerifiedAt": "2026-09-21"
+    "emailVerifiedAt": "2026-09-21",
+    "date2": "2026-09-30"
   },
   {
     "name": "Mercado e Padaria Bom Pastor",
@@ -44314,11 +44318,12 @@
     "context": "Padaria/Mercado/Supermercado - SP e ABC - prospeccao",
     "date1": "2026-09-29",
     "email1": true,
-    "email2": false,
+    "email2": true,
     "email3": false,
     "emailVerified": true,
     "emailSource": "prospeccao padarias/mercados",
-    "emailVerifiedAt": "2026-09-21"
+    "emailVerifiedAt": "2026-09-21",
+    "date2": "2026-09-30"
   },
   {
     "name": "Tudo Maravilha Supermercado",
@@ -44347,11 +44352,12 @@
     "context": "Padaria/Mercado/Supermercado - SP e ABC - prospeccao",
     "date1": "2026-09-29",
     "email1": true,
-    "email2": false,
+    "email2": true,
     "email3": false,
     "emailVerified": true,
     "emailSource": "prospeccao padarias/mercados",
-    "emailVerifiedAt": "2026-09-21"
+    "emailVerifiedAt": "2026-09-21",
+    "date2": "2026-09-30"
   },
   {
     "name": "Padaria Chega Mais",
@@ -44380,11 +44386,12 @@
     "context": "Padaria/Mercado/Supermercado - SP e ABC - prospeccao",
     "date1": "2026-09-29",
     "email1": true,
-    "email2": false,
+    "email2": true,
     "email3": false,
     "emailVerified": true,
     "emailSource": "prospeccao padarias/mercados",
-    "emailVerifiedAt": "2026-09-21"
+    "emailVerifiedAt": "2026-09-21",
+    "date2": "2026-09-30"
   },
   {
     "name": "Padaria e Mercado Estrela",
@@ -44410,11 +44417,12 @@
     "context": "Padaria/Mercado/Supermercado - SP e ABC - prospeccao",
     "date1": "2026-09-29",
     "email1": true,
-    "email2": false,
+    "email2": true,
     "email3": false,
     "emailVerified": true,
     "emailSource": "prospeccao padarias/mercados",
-    "emailVerifiedAt": "2026-09-21"
+    "emailVerifiedAt": "2026-09-21",
+    "date2": "2026-09-30"
   },
   {
     "name": "Mercado Padaria Maria Clara",
@@ -44425,11 +44433,12 @@
     "context": "Padaria/Mercado/Supermercado - SP e ABC - prospeccao",
     "date1": "2026-09-29",
     "email1": true,
-    "email2": false,
+    "email2": true,
     "email3": false,
     "emailVerified": true,
     "emailSource": "prospeccao padarias/mercados",
-    "emailVerifiedAt": "2026-09-21"
+    "emailVerifiedAt": "2026-09-21",
+    "date2": "2026-09-30"
   },
   {
     "name": "Padaria Chip's",
