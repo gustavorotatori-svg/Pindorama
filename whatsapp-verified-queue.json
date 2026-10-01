@@ -2674,5 +2674,49 @@
     "verifiedAt": "2026-09-08",
     "notBefore": "2026-09-08",
     "status": "queued"
+  },
+  {
+    "name": "Baños Bebidas",
+    "phone": "(19) 99426-2433",
+    "type": "distribuidora",
+    "city": "Campinas",
+    "source": "https://www.banosbebidas.com.br/",
+    "evidence": "Site oficial de distribuidora de bebidas em Campinas, Ponte Preta. WhatsApp (19) 99426-2433 / (19) 3325-2945.",
+    "verifiedAt": "2026-10-01",
+    "notBefore": "2026-10-01",
+    "status": "queued"
+  },
+  {
+    "name": "Casa da Feijoada Sorocaba",
+    "phone": "(15) 99266-7945",
+    "type": "bar",
+    "city": "Sorocaba",
+    "source": "https://casadafeijoadasorocaba.com.br/",
+    "evidence": "Site oficial de feijoada em Sorocaba, entregas qui/sab/dom. WhatsApp (15) 99266-7945.",
+    "verifiedAt": "2026-10-01",
+    "notBefore": "2026-10-01",
+    "status": "queued"
+  },
+  {
+    "name": "Candreva Bar",
+    "phone": "(19) 98388-1760",
+    "type": "bar",
+    "city": "Campinas",
+    "source": "https://barcandreva.com.br/",
+    "evidence": "Bar mais tradicional de Campinas desde 1964, 5 unidades, feijoada e torresmo. Tel (19) 98388-1760 / (19) 3232-7361.",
+    "verifiedAt": "2026-10-01",
+    "notBefore": "2026-10-01",
+    "status": "queued"
+  },
+  {
+    "name": "Boró Botequim",
+    "phone": "(19) 98330-5573",
+    "type": "bar",
+    "city": "Campinas",
+    "source": "https://www.instagram.com/borobotequim",
+    "evidence": "Botequim em Campinas (Av. Palmital, 129), feijoada, pet friendly. Tel (19) 98330-5573.",
+    "verifiedAt": "2026-10-01",
+    "notBefore": "2026-10-01",
+    "status": "queued"
   }
 ]

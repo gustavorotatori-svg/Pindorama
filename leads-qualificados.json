@@ -45294,5 +45294,29 @@
     "emailVerified": false,
     "emailSource": "",
     "email1": false
+  },
+  {
+    "name": "Boteco Vidottinho",
+    "email": "fabricio@vidottinho.com.br",
+    "neighborhood": "Cambuí",
+    "type": "bar",
+    "website": "https://www.vidottinho.com.br/",
+    "context": "Bar raiz de Campinas desde 2017, 2 unidades (Cambuí e Shopping Bandeiras), feijoada qui/sab/dom, música ao vivo, eventos corporativos. WhatsApp (19) 97106-5890.",
+    "city": "Campinas",
+    "phone": "(19) 97106-5890",
+    "source": "https://www.vidottinho.com.br/",
+    "evidence": "Site oficial confirma 2 unidades, feijoada, eventos corporativos e e-mail de contato fabricio@vidottinho.com.br."
+  },
+  {
+    "name": "Ideias Gourmet Buffet",
+    "email": "diretoria@ideiasgourmet.com.br",
+    "neighborhood": "Botafogo",
+    "type": "buffet",
+    "website": "https://ideiasgourmet.com.br/",
+    "context": "Buffet e mesa gastronômica de feijoada, atende todo interior e grande SP. Tel (19) 3368-1408 / (19) 99429-7272.",
+    "city": "Campinas",
+    "phone": "(19) 3368-1408",
+    "source": "https://ideiasgourmet.com.br/",
+    "evidence": "Site oficial publica e-mails diretoria@ e atendimento@ideiasgourmet.com.br e cobertura regional."
   }
 ]
