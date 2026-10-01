@@ -45311,7 +45311,9 @@
     "evidence": "Site oficial confirma 2 unidades, feijoada, eventos corporativos e e-mail de contato fabricio@vidottinho.com.br.",
     "emailVerified": true,
     "emailSource": "https://www.vidottinho.com.br/",
-    "emailVerifiedAt": "2026-10-01"
+    "emailVerifiedAt": "2026-10-01",
+    "email1": true,
+    "date1": "2026-10-01"
   },
   {
     "name": "Ideias Gourmet Buffet",
@@ -45326,6 +45328,8 @@
     "evidence": "Site oficial publica e-mails diretoria@ e atendimento@ideiasgourmet.com.br e cobertura regional.",
     "emailVerified": true,
     "emailSource": "https://ideiasgourmet.com.br/",
-    "emailVerifiedAt": "2026-10-01"
+    "emailVerifiedAt": "2026-10-01",
+    "email1": true,
+    "date1": "2026-10-01"
   }
 ]
