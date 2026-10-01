@@ -44922,7 +44922,8 @@
     "website": "https://cervejariasorocaba.com.br/",
     "emailVerified": true,
     "emailSource": "https://cervejariasorocaba.com.br/",
-    "email1": false
+    "email1": true,
+    "date1": "2026-10-01"
   },
   {
     "name": "Santo Legado Café",
@@ -45425,7 +45426,9 @@
     "source": "https://databrasil.net/empresas/26950100000253-BEG-DESTILARIA-COMERCIO-E-DISTRIBUICAO-DE-BEBIDAS--LTDA",
     "emailVerified": true,
     "emailSource": "https://databrasil.net/empresas/26950100000253-BEG-DESTILARIA-COMERCIO-E-DISTRIBUICAO-DE-BEBIDAS--LTDA",
-    "emailVerifiedAt": "2026-10-01"
+    "emailVerifiedAt": "2026-10-01",
+    "email1": true,
+    "date1": "2026-10-01"
   },
   {
     "name": "Yolanda Botequim",
@@ -45453,6 +45456,8 @@
     "source": "https://cervejariasorocaba.com.br/quintal-da-imperatriz/",
     "emailVerified": true,
     "emailSource": "https://cervejariasorocaba.com.br/quintal-da-imperatriz/",
-    "emailVerifiedAt": "2026-10-01"
+    "emailVerifiedAt": "2026-10-01",
+    "email1": true,
+    "date1": "2026-10-01"
   }
 ]
