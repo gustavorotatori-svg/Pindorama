@@ -45459,5 +45459,47 @@
     "emailVerifiedAt": "2026-10-01",
     "email1": true,
     "date1": "2026-10-01"
+  },
+  {
+    "name": "Izidoro Botequim",
+    "email": "izidorobotequim@gmail.com",
+    "neighborhood": "Parque do Colégio",
+    "type": "bar",
+    "website": "https://turismo.jundiai.sp.gov.br/gastronomia/bares-e-choperias/izidoro-botequim/",
+    "context": "Botequim em Jundiaí, drinks, porções e música ao vivo. Tel (11) 4521-0613.",
+    "city": "Jundiaí",
+    "phone": "(11) 4521-0613",
+    "source": "https://turismo.jundiai.sp.gov.br/gastronomia/bares-e-choperias/izidoro-botequim/",
+    "emailVerified": true,
+    "emailSource": "https://turismo.jundiai.sp.gov.br/gastronomia/bares-e-choperias/izidoro-botequim/",
+    "emailVerifiedAt": "2026-10-01"
+  },
+  {
+    "name": "Bar do Alemão",
+    "email": "contato@bardoalemaojundiai.com.br",
+    "neighborhood": "Jardim Brasil",
+    "type": "bar",
+    "website": "https://bardoalemaojundiai.com.br/",
+    "context": "Bar e restaurante desde 1902 (Itu), franquia em Jundiaí. Tel (11) 4521-4236.",
+    "city": "Jundiaí",
+    "phone": "(11) 4521-4236",
+    "source": "https://bardoalemaojundiai.com.br/",
+    "emailVerified": true,
+    "emailSource": "https://bardoalemaojundiai.com.br/",
+    "emailVerifiedAt": "2026-10-01"
+  },
+  {
+    "name": "Ameri Adega de Bebidas",
+    "email": "nloliv68distribuidora@gmail.com",
+    "neighborhood": "Antonio Zanaga",
+    "type": "adega",
+    "website": "https://maiscnpj.com.br/cnpj/65864893000169-ameri-adega-de-bebidas-ltda",
+    "context": "Adega de bebidas em Americana. Tel (19) 8739-2291.",
+    "city": "Americana",
+    "phone": "(19) 8739-2291",
+    "source": "https://maiscnpj.com.br/cnpj/65864893000169-ameri-adega-de-bebidas-ltda",
+    "emailVerified": true,
+    "emailSource": "https://maiscnpj.com.br/cnpj/65864893000169-ameri-adega-de-bebidas-ltda",
+    "emailVerifiedAt": "2026-10-01"
   }
 ]

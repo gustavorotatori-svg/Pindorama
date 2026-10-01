@@ -2773,5 +2773,38 @@
     "verifiedAt": "2026-10-01",
     "notBefore": "2026-10-01",
     "status": "queued"
+  },
+  {
+    "name": "Barros Distribuidora",
+    "phone": "(19) 99457-5206",
+    "type": "distribuidora",
+    "city": "Sumaré",
+    "source": "https://barrosbebidas.com.br/",
+    "evidence": "Distribuidora de bebidas desde 1987, unidades em Sumaré e Piracicaba.",
+    "verifiedAt": "2026-10-01",
+    "notBefore": "2026-10-01",
+    "status": "queued"
+  },
+  {
+    "name": "Adega 68",
+    "phone": "(19) 99457-5206",
+    "type": "adega",
+    "city": "Hortolândia",
+    "source": "https://www.adega68.com.br/",
+    "evidence": "Distribuidora de bebidas, 5 unidades em Hortolândia e Sumaré. Tel (19) 99457-5206.",
+    "verifiedAt": "2026-10-01",
+    "notBefore": "2026-10-01",
+    "status": "queued"
+  },
+  {
+    "name": "Boteco do Bene",
+    "phone": "(11) 91261-9774",
+    "type": "bar",
+    "city": "Jundiaí",
+    "source": "https://www.botecodobene.com.br/",
+    "evidence": "Boteco em Jundiaí, petiscos e drinks. Tel (11) 91261-9774.",
+    "verifiedAt": "2026-10-01",
+    "notBefore": "2026-10-01",
+    "status": "queued"
   }
 ]
