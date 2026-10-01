@@ -2269,5 +2269,244 @@
     "phone": "(11) 98618-7956",
     "source": "https://estacaojundiahy.com.br/",
     "messageId": "3EB02E95A42DA4AD49D4F7"
+  },
+  {
+    "date": "2026-10-01",
+    "checkedAt": "2026-10-01T18:26:59.793Z",
+    "status": "not_on_whatsapp",
+    "name": "Sampa Adega",
+    "phone": "(11) 98402-3929",
+    "source": "https://www.sampaadega.com.br/"
+  },
+  {
+    "date": "2026-10-01",
+    "checkedAt": "2026-10-01T18:26:59.812Z",
+    "status": "not_on_whatsapp",
+    "name": "Adega Frimar",
+    "phone": "(11) 5219-3878",
+    "source": "https://mycelium.lat/"
+  },
+  {
+    "date": "2026-10-01",
+    "checkedAt": "2026-10-01T18:26:59.836Z",
+    "status": "not_on_whatsapp",
+    "name": "Sphera Lounge",
+    "phone": "(11) 97636-3908",
+    "source": "https://www.spheralounge.com.br/"
+  },
+  {
+    "date": "2026-10-01",
+    "checkedAt": "2026-10-01T18:26:59.857Z",
+    "status": "not_on_whatsapp",
+    "name": "Dentro Bar",
+    "phone": "(11) 94998-2925",
+    "source": "https://www.baressp.com.br/bares/dentro-bar"
+  },
+  {
+    "date": "2026-10-01",
+    "checkedAt": "2026-10-01T18:26:59.878Z",
+    "status": "not_on_whatsapp",
+    "name": "No Ponto Espeto & Bar",
+    "phone": "(11) 99011-3879",
+    "source": "https://baressp.com.br/bares/no-ponto-espeto-e-bar"
+  },
+  {
+    "date": "2026-10-01",
+    "checkedAt": "2026-10-01T18:26:59.897Z",
+    "status": "not_on_whatsapp",
+    "name": "Boteco do Max Nola",
+    "phone": "(11) 99980-1876",
+    "source": "https://www.baressp.com.br/bares/boteco-do-max-nola-"
+  },
+  {
+    "date": "2026-10-01",
+    "checkedAt": "2026-10-01T18:26:59.916Z",
+    "status": "not_on_whatsapp",
+    "name": "O Bretao Pub",
+    "phone": "(15) 99126-9981",
+    "source": "https://www.baressp.com.br/bares/o-bretao-pub"
+  },
+  {
+    "date": "2026-10-01",
+    "checkedAt": "2026-10-01T18:26:59.936Z",
+    "status": "not_on_whatsapp",
+    "name": "Nossa Distribuidora Bebidas",
+    "phone": "(11) 99950-3806",
+    "source": "https://nossadistribuidorabebidas.com.br/"
+  },
+  {
+    "date": "2026-10-01",
+    "checkedAt": "2026-10-01T18:26:59.959Z",
+    "status": "not_on_whatsapp",
+    "name": "Adega Imperador",
+    "phone": "(11) 98135-5842",
+    "source": "https://adegaimperador.com.br/adegaimperador/adegaimperador/pages/contato"
+  },
+  {
+    "date": "2026-10-01",
+    "checkedAt": "2026-10-01T18:27:00.043Z",
+    "status": "not_on_whatsapp",
+    "name": "FG7 Bebidas",
+    "phone": "(11) 94787-0025",
+    "source": "https://www.fg7bebidas.com.br/"
+  },
+  {
+    "date": "2026-10-01",
+    "checkedAt": "2026-10-01T18:27:00.062Z",
+    "status": "not_on_whatsapp",
+    "name": "Adega Vibe Beer",
+    "phone": "(11) 99325-4279",
+    "source": "https://www.cardapio.datacaixa.com.br/loja=1516"
+  },
+  {
+    "date": "2026-10-01",
+    "checkedAt": "2026-10-01T18:27:00.081Z",
+    "status": "not_on_whatsapp",
+    "name": "Nossa Adega Distribuidora",
+    "phone": "(19) 3627-0260",
+    "source": "https://casadosdados.com.br/solucao/cnpj/nossa-adega-distribuidora-de-bebidas-ltda-42380510000181"
+  },
+  {
+    "date": "2026-10-01",
+    "acceptedAt": "2026-10-01T18:27:00.715Z",
+    "status": "accepted",
+    "name": "Hipica Parrilla",
+    "phone": "(19) 99176-0048",
+    "source": "https://hipica.com.br/restaurantes/hipica-parrilla/",
+    "messageId": "3EB03AC27DCE3485BC84A5"
+  },
+  {
+    "date": "2026-10-01",
+    "acceptedAt": "2026-10-01T18:27:06.408Z",
+    "status": "accepted",
+    "name": "Coco Bambu Sorocaba",
+    "phone": "(15) 99799-5320",
+    "source": "https://www.cocobambu.com/unidades/cb-sorocaba",
+    "messageId": "3EB0E17A36662544A70154"
+  },
+  {
+    "date": "2026-10-01",
+    "acceptedAt": "2026-10-01T18:27:11.852Z",
+    "status": "accepted",
+    "name": "Cao Veio Sorocaba",
+    "phone": "(15) 3199-3899",
+    "source": "https://linktr.ee/caoveiosorocaba",
+    "messageId": "3EB0B56A3F9AA4EEC01618"
+  },
+  {
+    "date": "2026-10-01",
+    "acceptedAt": "2026-10-01T18:27:17.373Z",
+    "status": "accepted",
+    "name": "Vollare Pizzeria",
+    "phone": "(15) 99779-1077",
+    "source": "https://vollarepizzeria.com.br/",
+    "messageId": "3EB0F13D590F820F5BD2FA"
+  },
+  {
+    "date": "2026-10-01",
+    "acceptedAt": "2026-10-01T18:27:22.723Z",
+    "status": "accepted",
+    "name": "Adega2Bigode",
+    "phone": "(19) 99567-9661",
+    "source": "https://linktr.ee/Adega2Bigode",
+    "messageId": "3EB0D554950039DD6BA27F"
+  },
+  {
+    "date": "2026-10-01",
+    "acceptedAt": "2026-10-01T18:27:27.866Z",
+    "status": "accepted",
+    "name": "Hanami Restaurante",
+    "phone": "(15) 99116-5909",
+    "source": "https://hanamirestaurante.com.br/",
+    "messageId": "3EB0F5F486BCB5DF6C0D78"
+  },
+  {
+    "date": "2026-10-01",
+    "acceptedAt": "2026-10-01T18:27:33.462Z",
+    "status": "accepted",
+    "name": "New York Bar 41",
+    "phone": "(15) 99684-2933",
+    "source": "https://newyorkbar41.com.br/",
+    "messageId": "3EB0237131435BE75AC445"
+  },
+  {
+    "date": "2026-10-01",
+    "acceptedAt": "2026-10-01T18:27:38.731Z",
+    "status": "accepted",
+    "name": "Resenha Vossoroca / RES Gastro Bar",
+    "phone": "(15) 99127-3000",
+    "source": "https://agendasorocaba.com.br/resenha-2/",
+    "messageId": "3EB0F44353016A55C49C8E"
+  },
+  {
+    "date": "2026-10-01",
+    "acceptedAt": "2026-10-01T18:27:44.216Z",
+    "status": "accepted",
+    "name": "Finestra Del Vino",
+    "phone": "(15) 99812-8104",
+    "source": "https://finestradelvino.com.br/",
+    "messageId": "3EB060C54F167E27876B05"
+  },
+  {
+    "date": "2026-10-01",
+    "acceptedAt": "2026-10-01T18:27:49.727Z",
+    "status": "accepted",
+    "name": "MENU Cozinha & Vinho",
+    "phone": "(15) 99784-7433",
+    "source": "https://menucozinhaevinho.com.br/",
+    "messageId": "3EB0F952140852B7DBD20E"
+  },
+  {
+    "date": "2026-10-01",
+    "acceptedAt": "2026-10-01T18:27:55.097Z",
+    "status": "accepted",
+    "name": "Winemporium Vinhos",
+    "phone": "(15) 99125-0441",
+    "source": "https://winemporium.com.br/",
+    "messageId": "3EB0EB6B8AB1DD3B314A77"
+  },
+  {
+    "date": "2026-10-01",
+    "acceptedAt": "2026-10-01T18:28:00.576Z",
+    "status": "accepted",
+    "name": "Enoleg Comercio e Importacao",
+    "phone": "(19) 99804-0401",
+    "source": "https://enoleg.com.br/",
+    "messageId": "3EB0903F723E809E509A23"
+  },
+  {
+    "date": "2026-10-01",
+    "acceptedAt": "2026-10-01T18:28:06.069Z",
+    "status": "accepted",
+    "name": "Vino Bianco",
+    "phone": "(11) 98564-6912",
+    "source": "https://www.vinobianco.com.br/",
+    "messageId": "3EB0EEDD767EEF8D37AB22"
+  },
+  {
+    "date": "2026-10-01",
+    "checkedAt": "2026-10-01T18:28:11.103Z",
+    "status": "not_on_whatsapp",
+    "name": "Decanter Vinhos Sorocaba",
+    "phone": "(15) 99659-6540",
+    "source": "https://br.linkedin.com/company/decanter-vinhos-sorocaba"
+  },
+  {
+    "date": "2026-10-01",
+    "acceptedAt": "2026-10-01T18:28:11.363Z",
+    "status": "accepted",
+    "name": "Bar do Argentino",
+    "phone": "(15) 99795-2609",
+    "source": "https://bardoargentino.com.br/",
+    "messageId": "3EB090D17DF643409E5804"
+  },
+  {
+    "date": "2026-10-01",
+    "acceptedAt": "2026-10-01T18:28:16.809Z",
+    "status": "accepted",
+    "name": "Maria Madame Cestas",
+    "phone": "(15) 3327-6170",
+    "source": "https://www.mariamadame.com.br/",
+    "messageId": "3EB0B2102424284FD0E9D5"
   }
 ]

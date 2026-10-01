@@ -38451,7 +38451,10 @@
     "verifiedAt": "2026-09-02",
     "status": "qualified_phone_web",
     "email1": false,
-    "whatsapp1": false
+    "whatsapp1": false,
+    "whatsappSent": true,
+    "whatsappDate": "2026-10-01",
+    "whatsappSource": "https://hanamirestaurante.com.br/"
   },
   {
     "name": "Wanel Beach",
@@ -38495,7 +38498,10 @@
     "verifiedAt": "2026-09-02",
     "status": "qualified_phone_web",
     "email1": false,
-    "whatsapp1": false
+    "whatsapp1": false,
+    "whatsappSent": true,
+    "whatsappDate": "2026-10-01",
+    "whatsappSource": "https://newyorkbar41.com.br/"
   },
   {
     "name": "Bertin Bebidas",
