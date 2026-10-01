@@ -45412,5 +45412,47 @@
     "emailVerifiedAt": "2026-10-01",
     "email1": true,
     "date1": "2026-10-01"
+  },
+  {
+    "name": "BEG Destilaria",
+    "email": "fsantoro@beggin.com.br",
+    "neighborhood": "Jardim Proença",
+    "type": "distribuidora",
+    "website": "https://databrasil.net/empresas/26950100000253-BEG-DESTILARIA-COMERCIO-E-DISTRIBUICAO-DE-BEBIDAS--LTDA",
+    "context": "Destilaria e distribuidora de bebidas em Campinas. Tel (19) 421-0779.",
+    "city": "Campinas",
+    "phone": "(19) 421-0779",
+    "source": "https://databrasil.net/empresas/26950100000253-BEG-DESTILARIA-COMERCIO-E-DISTRIBUICAO-DE-BEBIDAS--LTDA",
+    "emailVerified": true,
+    "emailSource": "https://databrasil.net/empresas/26950100000253-BEG-DESTILARIA-COMERCIO-E-DISTRIBUICAO-DE-BEBIDAS--LTDA",
+    "emailVerifiedAt": "2026-10-01"
+  },
+  {
+    "name": "Yolanda Botequim",
+    "email": "matriz@yolandaclub.com.br",
+    "neighborhood": "Jd. Gonçalves",
+    "type": "bar",
+    "website": "https://www.yolandaclub.com.br/",
+    "context": "Botequim em Sorocaba, reservas e eventos. Tel (15) 99612-0837.",
+    "city": "Sorocaba",
+    "phone": "(15) 99612-0837",
+    "source": "https://www.yolandaclub.com.br/",
+    "emailVerified": true,
+    "emailSource": "https://www.yolandaclub.com.br/",
+    "emailVerifiedAt": "2026-10-01"
+  },
+  {
+    "name": "Quintal da Imperatriz",
+    "email": "contato@imperatrizcervejaria.com.br",
+    "neighborhood": "Vila Haro",
+    "type": "bar",
+    "website": "https://cervejariasorocaba.com.br/quintal-da-imperatriz/",
+    "context": "Cervejaria e bar em Sorocaba, música ao vivo. Tel (15) 99670-0021.",
+    "city": "Sorocaba",
+    "phone": "(15) 99670-0021",
+    "source": "https://cervejariasorocaba.com.br/quintal-da-imperatriz/",
+    "emailVerified": true,
+    "emailSource": "https://cervejariasorocaba.com.br/quintal-da-imperatriz/",
+    "emailVerifiedAt": "2026-10-01"
   }
 ]

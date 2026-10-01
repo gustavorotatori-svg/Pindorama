@@ -2751,5 +2751,27 @@
     "verifiedAt": "2026-10-01",
     "notBefore": "2026-10-01",
     "status": "queued"
+  },
+  {
+    "name": "Botequim do Nino",
+    "phone": "(15) 99136-0098",
+    "type": "bar",
+    "city": "Sorocaba",
+    "source": "https://botequimdonino.com.br/",
+    "evidence": "Botequim em Sorocaba desde 2020. Tel (15) 99136-0098.",
+    "verifiedAt": "2026-10-01",
+    "notBefore": "2026-10-01",
+    "status": "queued"
+  },
+  {
+    "name": "Estação Valinhos Distribuidora",
+    "phone": "(19) 99941-5949",
+    "type": "distribuidora",
+    "city": "Valinhos",
+    "source": "https://guiapj.com.br/consulta-cnpj/40991860000159",
+    "evidence": "Distribuidora de bebidas em Valinhos. Tel (19) 99941-5949.",
+    "verifiedAt": "2026-10-01",
+    "notBefore": "2026-10-01",
+    "status": "queued"
   }
 ]
