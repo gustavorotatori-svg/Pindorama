@@ -45518,7 +45518,10 @@
     "source": "https://srboteco.com.br/",
     "emailVerified": true,
     "emailSource": "https://srboteco.com.br/",
-    "emailVerifiedAt": "2026-10-01"
+    "emailVerifiedAt": "2026-10-01",
+    "invalidEmail": true,
+    "invalidEmailReason": "domain_without_mx",
+    "invalidEmailDate": "2026-10-01"
   },
   {
     "name": "Nosso Boteko",
@@ -45532,7 +45535,9 @@
     "source": "https://nossoboteko.com.br",
     "emailVerified": true,
     "emailSource": "https://nossoboteko.com.br",
-    "emailVerifiedAt": "2026-10-01"
+    "emailVerifiedAt": "2026-10-01",
+    "email1": true,
+    "date1": "2026-10-01"
   },
   {
     "name": "Tristão e Isolda",
@@ -45546,6 +45551,8 @@
     "source": "https://tritao-e-isolda-bar-medieval.ueniweb.com/",
     "emailVerified": true,
     "emailSource": "https://tritao-e-isolda-bar-medieval.ueniweb.com/",
-    "emailVerifiedAt": "2026-10-01"
+    "emailVerifiedAt": "2026-10-01",
+    "email1": true,
+    "date1": "2026-10-01"
   }
 ]
