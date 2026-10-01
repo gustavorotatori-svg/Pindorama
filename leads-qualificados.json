@@ -45505,5 +45505,47 @@
     "emailVerifiedAt": "2026-10-01",
     "email1": true,
     "date1": "2026-10-01"
+  },
+  {
+    "name": "Sr. Boteco",
+    "email": "contato@srboteco.com",
+    "neighborhood": "Limeira",
+    "type": "bar",
+    "website": "https://srboteco.com.br/",
+    "context": "Boteco tradicional em Limeira desde 2017, petiscos e bebidas. Tel (19) 99414-7021.",
+    "city": "Limeira",
+    "phone": "(19) 99414-7021",
+    "source": "https://srboteco.com.br/",
+    "emailVerified": true,
+    "emailSource": "https://srboteco.com.br/",
+    "emailVerifiedAt": "2026-10-01"
+  },
+  {
+    "name": "Nosso Boteko",
+    "email": "contato@nossoboteko.com.br",
+    "neighborhood": "Vila Claudia",
+    "type": "bar",
+    "website": "https://nossoboteko.com.br",
+    "context": "Boteco em Limeira, porções, cervejas e caipirinhas. Tel (19) 3701-4757.",
+    "city": "Limeira",
+    "phone": "(19) 3701-4757",
+    "source": "https://nossoboteko.com.br",
+    "emailVerified": true,
+    "emailSource": "https://nossoboteko.com.br",
+    "emailVerifiedAt": "2026-10-01"
+  },
+  {
+    "name": "Tristão e Isolda",
+    "email": "cidauncont@outlook.com",
+    "neighborhood": "Jardim Piratininga",
+    "type": "bar",
+    "website": "https://tritao-e-isolda-bar-medieval.ueniweb.com/",
+    "context": "Bar e bistrô medieval em Limeira. Tel (19) 98155-5567.",
+    "city": "Limeira",
+    "phone": "(19) 98155-5567",
+    "source": "https://tritao-e-isolda-bar-medieval.ueniweb.com/",
+    "emailVerified": true,
+    "emailSource": "https://tritao-e-isolda-bar-medieval.ueniweb.com/",
+    "emailVerifiedAt": "2026-10-01"
   }
 ]
