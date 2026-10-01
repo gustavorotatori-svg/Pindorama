@@ -2718,5 +2718,38 @@
     "verifiedAt": "2026-10-01",
     "notBefore": "2026-10-01",
     "status": "queued"
+  },
+  {
+    "name": "Emporio e Cachaçaria Amburana",
+    "phone": "(19) 3258-4726",
+    "type": "emporio",
+    "city": "Campinas",
+    "source": "https://www.locaisdobrasil.com.br/encontre/fornecedor-de-bebidas/campinas-sp/emporio-e-cachacaria-amburana-ltda/6579ac0f7a7db0f2b821cf02",
+    "evidence": "Maior loja de cachaça do Brasil, 2000+ rótulos. Tel (19) 3258-4726.",
+    "verifiedAt": "2026-10-01",
+    "notBefore": "2026-10-01",
+    "status": "queued"
+  },
+  {
+    "name": "Empório D Primeiro",
+    "phone": "(19) 99713-3853",
+    "type": "emporio",
+    "city": "Campinas",
+    "source": "https://emporiodprimeira.com.br/loja",
+    "evidence": "Empório em Campinas, Rua São Bento 140. Tel (19) 99713-3853.",
+    "verifiedAt": "2026-10-01",
+    "notBefore": "2026-10-01",
+    "status": "queued"
+  },
+  {
+    "name": "Edú Bar de Minas",
+    "phone": "(19) 3241-5018",
+    "type": "bar",
+    "city": "Campinas",
+    "source": "https://edubardeminas.com.br/",
+    "evidence": "Bar mineiro em Campinas há 18 anos. Tel (19) 3241-5018 / (19) 99975-1171.",
+    "verifiedAt": "2026-10-01",
+    "notBefore": "2026-10-01",
+    "status": "queued"
   }
 ]
