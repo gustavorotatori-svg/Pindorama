@@ -45553,6 +45553,9 @@
     "emailSource": "https://tritao-e-isolda-bar-medieval.ueniweb.com/",
     "emailVerifiedAt": "2026-10-01",
     "email1": true,
-    "date1": "2026-10-01"
+    "date1": "2026-10-01",
+    "doNotContact": true,
+    "bounced": true,
+    "bounceDate": "2026-10-01"
   }
 ]
