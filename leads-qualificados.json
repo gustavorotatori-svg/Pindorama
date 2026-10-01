@@ -45344,7 +45344,9 @@
     "source": "https://emporiovinhomaisvinhos.com.br/",
     "emailVerified": true,
     "emailSource": "https://emporiovinhomaisvinhos.com.br/",
-    "emailVerifiedAt": "2026-10-01"
+    "emailVerifiedAt": "2026-10-01",
+    "email1": true,
+    "date1": "2026-10-01"
   },
   {
     "name": "Empório Artesanal Sorocaba",
@@ -45358,7 +45360,10 @@
     "source": "https://contato163415.wixsite.com/emporioartesanal",
     "emailVerified": true,
     "emailSource": "https://contato163415.wixsite.com/emporioartesanal",
-    "emailVerifiedAt": "2026-10-01"
+    "emailVerifiedAt": "2026-10-01",
+    "invalidEmail": true,
+    "invalidEmailReason": "domain_without_mx",
+    "invalidEmailDate": "2026-10-01"
   },
   {
     "name": "Bar do Dito",
@@ -45372,7 +45377,9 @@
     "source": "https://bardodito.com/",
     "emailVerified": true,
     "emailSource": "https://bardodito.com/",
-    "emailVerifiedAt": "2026-10-01"
+    "emailVerifiedAt": "2026-10-01",
+    "email1": true,
+    "date1": "2026-10-01"
   },
   {
     "name": "Restaurante Velho Valentim",
@@ -45386,7 +45393,9 @@
     "source": "https://velhovalentim.com.br/",
     "emailVerified": true,
     "emailSource": "https://velhovalentim.com.br/",
-    "emailVerifiedAt": "2026-10-01"
+    "emailVerifiedAt": "2026-10-01",
+    "email1": true,
+    "date1": "2026-10-01"
   },
   {
     "name": "Entre Taças Winebar",
@@ -45400,6 +45409,8 @@
     "source": "https://www.entretacas.com.br/",
     "emailVerified": true,
     "emailSource": "https://www.entretacas.com.br/",
-    "emailVerifiedAt": "2026-10-01"
+    "emailVerifiedAt": "2026-10-01",
+    "email1": true,
+    "date1": "2026-10-01"
   }
 ]
