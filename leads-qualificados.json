@@ -45724,7 +45724,9 @@
     "source": "https://botecosaoconrado.com.br/",
     "emailVerified": true,
     "emailSource": "https://botecosaoconrado.com.br/",
-    "emailVerifiedAt": "2026-10-01"
+    "emailVerifiedAt": "2026-10-01",
+    "email1": true,
+    "date1": "2026-10-02"
   },
   {
     "name": "BAR MARTINA",
@@ -45752,6 +45754,8 @@
     "source": "https://oliviobar.com.br/",
     "emailVerified": true,
     "emailSource": "https://oliviobar.com.br/",
-    "emailVerifiedAt": "2026-10-01"
+    "emailVerifiedAt": "2026-10-01",
+    "email1": true,
+    "date1": "2026-10-02"
   }
 ]
