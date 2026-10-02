@@ -45570,7 +45570,9 @@
     "source": "https://zippyentretenimento.com.br/firma",
     "emailVerified": true,
     "emailSource": "https://zippyentretenimento.com.br/firma",
-    "emailVerifiedAt": "2026-10-01"
+    "emailVerifiedAt": "2026-10-01",
+    "email1": true,
+    "date1": "2026-10-02"
   },
   {
     "name": "Estação Barão",
@@ -45584,7 +45586,9 @@
     "source": "http://estacaobarao.com.br/",
     "emailVerified": true,
     "emailSource": "http://estacaobarao.com.br/",
-    "emailVerifiedAt": "2026-10-01"
+    "emailVerifiedAt": "2026-10-01",
+    "email1": true,
+    "date1": "2026-10-02"
   },
   {
     "name": "Nossa Adega Distribuidora",
@@ -45598,6 +45602,8 @@
     "source": "https://distribuidorasdealimentos.com.br/sp/campinas/nossa-adega-distribuidora",
     "emailVerified": true,
     "emailSource": "https://distribuidorasdealimentos.com.br/sp/campinas/nossa-adega-distribuidora",
-    "emailVerifiedAt": "2026-10-01"
+    "emailVerifiedAt": "2026-10-01",
+    "email1": true,
+    "date1": "2026-10-02"
   }
 ]
