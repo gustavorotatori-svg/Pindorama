@@ -45618,7 +45618,9 @@
     "source": "https://botequimsa.com.br/",
     "emailVerified": true,
     "emailSource": "https://botequimsa.com.br/",
-    "emailVerifiedAt": "2026-10-01"
+    "emailVerifiedAt": "2026-10-01",
+    "email1": true,
+    "date1": "2026-10-02"
   },
   {
     "name": "Armazém São Caetano",
@@ -45646,7 +45648,9 @@
     "source": "https://paraibas-bar.ueniweb.com/",
     "emailVerified": true,
     "emailSource": "https://paraibas-bar.ueniweb.com/",
-    "emailVerifiedAt": "2026-10-01"
+    "emailVerifiedAt": "2026-10-01",
+    "email1": true,
+    "date1": "2026-10-02"
   },
   {
     "name": "ONE BARTENDER",
