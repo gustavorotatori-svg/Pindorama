@@ -45711,5 +45711,47 @@
     "emailVerifiedAt": "2026-10-01",
     "email1": true,
     "date1": "2026-10-02"
+  },
+  {
+    "name": "São Conrado Bar",
+    "email": "atendimento@gruposaints.com.br",
+    "neighborhood": "Pinheiros",
+    "type": "bar",
+    "website": "https://botecosaoconrado.com.br/",
+    "context": "Bar em Pinheiros e Itaim, chopp, coquetéis autorais, drinks. Tel (11) 3167-7774.",
+    "city": "São Paulo",
+    "phone": "(11) 3167-7774",
+    "source": "https://botecosaoconrado.com.br/",
+    "emailVerified": true,
+    "emailSource": "https://botecosaoconrado.com.br/",
+    "emailVerifiedAt": "2026-10-01"
+  },
+  {
+    "name": "BAR MARTINA",
+    "email": "contato@grupo-ftr.com",
+    "neighborhood": "Pinheiros",
+    "type": "bar",
+    "website": "https://martinabar.com.br/",
+    "context": "Bar em Pinheiros, drinks autorais, alta coquetelaria. Tel (11) 4327-4645.",
+    "city": "São Paulo",
+    "phone": "(11) 4327-4645",
+    "source": "https://martinabar.com.br/",
+    "emailVerified": true,
+    "emailSource": "https://martinabar.com.br/",
+    "emailVerifiedAt": "2026-10-01"
+  },
+  {
+    "name": "Olívio Bar",
+    "email": "ola@oliviobar.com.br",
+    "neighborhood": "Vila Madalena",
+    "type": "bar",
+    "website": "https://oliviobar.com.br/",
+    "context": "Bar em Vila Madalena, drinks autorais, exclusivos. Tel (11) 4680-2967.",
+    "city": "São Paulo",
+    "phone": "(11) 4680-2967",
+    "source": "https://oliviobar.com.br/",
+    "emailVerified": true,
+    "emailSource": "https://oliviobar.com.br/",
+    "emailVerifiedAt": "2026-10-01"
   }
 ]
