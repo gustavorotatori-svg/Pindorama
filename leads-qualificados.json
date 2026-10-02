@@ -45818,6 +45818,9 @@
     "emailSource": "https://villacaetanos.com.br/",
     "emailVerifiedAt": "2026-10-01",
     "email1": true,
-    "date1": "2026-10-02"
+    "date1": "2026-10-02",
+    "doNotContact": true,
+    "bounced": true,
+    "bounceDate": "2026-10-02"
   }
 ]
