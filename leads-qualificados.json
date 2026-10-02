@@ -45770,7 +45770,9 @@
     "source": "https://feirinhabar.com.br/",
     "emailVerified": true,
     "emailSource": "https://feirinhabar.com.br/",
-    "emailVerifiedAt": "2026-10-01"
+    "emailVerifiedAt": "2026-10-01",
+    "email1": true,
+    "date1": "2026-10-02"
   },
   {
     "name": "Praça São Lourenço",
@@ -45784,7 +45786,9 @@
     "source": "https://pracasaolourenco.com.br/",
     "emailVerified": true,
     "emailSource": "https://pracasaolourenco.com.br/",
-    "emailVerifiedAt": "2026-10-01"
+    "emailVerifiedAt": "2026-10-01",
+    "email1": true,
+    "date1": "2026-10-02"
   },
   {
     "name": "Bar Original",
@@ -45812,6 +45816,8 @@
     "source": "https://villacaetanos.com.br/",
     "emailVerified": true,
     "emailSource": "https://villacaetanos.com.br/",
-    "emailVerifiedAt": "2026-10-01"
+    "emailVerifiedAt": "2026-10-01",
+    "email1": true,
+    "date1": "2026-10-02"
   }
 ]
