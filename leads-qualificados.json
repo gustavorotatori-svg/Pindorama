@@ -45678,7 +45678,9 @@
     "source": "http://www.eutuelesbar.com.br/",
     "emailVerified": true,
     "emailSource": "http://www.eutuelesbar.com.br/",
-    "emailVerifiedAt": "2026-10-01"
+    "emailVerifiedAt": "2026-10-01",
+    "email1": true,
+    "date1": "2026-10-02"
   },
   {
     "name": "Boteco São Bento",
@@ -45706,6 +45708,8 @@
     "source": "https://piraja.com.br/",
     "emailVerified": true,
     "emailSource": "https://piraja.com.br/",
-    "emailVerifiedAt": "2026-10-01"
+    "emailVerifiedAt": "2026-10-01",
+    "email1": true,
+    "date1": "2026-10-02"
   }
 ]
