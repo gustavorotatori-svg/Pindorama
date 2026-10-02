@@ -45665,5 +45665,47 @@
     "emailVerified": true,
     "emailSource": "https://onebartender.com.br/",
     "emailVerifiedAt": "2026-10-01"
+  },
+  {
+    "name": "Eu Tu Eles",
+    "email": "reservas@eutuelesbar.com.br",
+    "neighborhood": "Itaim Bibi",
+    "type": "bar",
+    "website": "http://www.eutuelesbar.com.br/",
+    "context": "Bar com drinks autorais, caipirinhas em dois tamanhos. Tel (11) 3071-4535.",
+    "city": "São Paulo",
+    "phone": "(11) 3071-4535",
+    "source": "http://www.eutuelesbar.com.br/",
+    "emailVerified": true,
+    "emailSource": "http://www.eutuelesbar.com.br/",
+    "emailVerifiedAt": "2026-10-01"
+  },
+  {
+    "name": "Boteco São Bento",
+    "email": "contato@gsbg.com.br",
+    "neighborhood": "Vila Madalena",
+    "type": "bar",
+    "website": "https://botecosaobento.com.br/",
+    "context": "Boteco tradicional em Vila Madalena e Itaim, chopp gelado, caipirinhas variadas. Tel (11) 3167-7774.",
+    "city": "São Paulo",
+    "phone": "(11) 3167-7774",
+    "source": "https://botecosaobento.com.br/",
+    "emailVerified": true,
+    "emailSource": "https://botecosaobento.com.br/",
+    "emailVerifiedAt": "2026-10-01"
+  },
+  {
+    "name": "Pirajá",
+    "email": "contato@piraja.com.br",
+    "neighborhood": "Pinheiros",
+    "type": "bar",
+    "website": "https://piraja.com.br/",
+    "context": "Bar com caipirinhas autorais (rapadura, caju, morango), várias unidades em SP. Tel (11) 5555-2042.",
+    "city": "São Paulo",
+    "phone": "(11) 5555-2042",
+    "source": "https://piraja.com.br/",
+    "emailVerified": true,
+    "emailSource": "https://piraja.com.br/",
+    "emailVerifiedAt": "2026-10-01"
   }
 ]
