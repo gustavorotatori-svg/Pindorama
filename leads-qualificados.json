@@ -45557,5 +45557,47 @@
     "doNotContact": true,
     "bounced": true,
     "bounceDate": "2026-10-01"
+  },
+  {
+    "name": "Firma Bar",
+    "email": "contato.firmacambui@gmail.com",
+    "neighborhood": "Cambuí",
+    "type": "bar",
+    "website": "https://zippyentretenimento.com.br/firma",
+    "context": "Gastropub em Cambuí, Campinas. Tel (19) 3239-6054.",
+    "city": "Campinas",
+    "phone": "(19) 3239-6054",
+    "source": "https://zippyentretenimento.com.br/firma",
+    "emailVerified": true,
+    "emailSource": "https://zippyentretenimento.com.br/firma",
+    "emailVerifiedAt": "2026-10-01"
+  },
+  {
+    "name": "Estação Barão",
+    "email": "contato@estacaobarao.com.br",
+    "neighborhood": "Barão Geraldo",
+    "type": "bar",
+    "website": "http://estacaobarao.com.br/",
+    "context": "Bar e restaurante em Barão Geraldo, Campinas. Tel (19) 99109-1080.",
+    "city": "Campinas",
+    "phone": "(19) 99109-1080",
+    "source": "http://estacaobarao.com.br/",
+    "emailVerified": true,
+    "emailSource": "http://estacaobarao.com.br/",
+    "emailVerifiedAt": "2026-10-01"
+  },
+  {
+    "name": "Nossa Adega Distribuidora",
+    "email": "nossaadega.campinas@gmail.com",
+    "neighborhood": "Parque São Quirino",
+    "type": "distribuidora",
+    "website": "https://distribuidorasdealimentos.com.br/sp/campinas/nossa-adega-distribuidora",
+    "context": "Distribuidora de bebidas em Campinas. Tel (19) 3627-0260.",
+    "city": "Campinas",
+    "phone": "(19) 3627-0260",
+    "source": "https://distribuidorasdealimentos.com.br/sp/campinas/nossa-adega-distribuidora",
+    "emailVerified": true,
+    "emailSource": "https://distribuidorasdealimentos.com.br/sp/campinas/nossa-adega-distribuidora",
+    "emailVerifiedAt": "2026-10-01"
   }
 ]
