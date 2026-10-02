@@ -45757,5 +45757,61 @@
     "emailVerifiedAt": "2026-10-01",
     "email1": true,
     "date1": "2026-10-02"
+  },
+  {
+    "name": "Feirinha Bar",
+    "email": "contato@feirinhabar.com.br",
+    "neighborhood": "Vila Olímpia",
+    "type": "bar",
+    "website": "https://feirinhabar.com.br/",
+    "context": "Bar em Vila Olímpia, drinks autorais, música ao vivo, feira de rua. Tel (11) 91606-9292.",
+    "city": "São Paulo",
+    "phone": "(11) 91606-9292",
+    "source": "https://feirinhabar.com.br/",
+    "emailVerified": true,
+    "emailSource": "https://feirinhabar.com.br/",
+    "emailVerifiedAt": "2026-10-01"
+  },
+  {
+    "name": "Praça São Lourenço",
+    "email": "reservas@pracasaolourenco.com.br",
+    "neighborhood": "Vila Olímpia",
+    "type": "bar",
+    "website": "https://pracasaolourenco.com.br/",
+    "context": "Bar em Vila Olímpia, caipirinhas autorais, cachaça artesanal. Tel (11) 3053-9300.",
+    "city": "São Paulo",
+    "phone": "(11) 3053-9300",
+    "source": "https://pracasaolourenco.com.br/",
+    "emailVerified": true,
+    "emailSource": "https://pracasaolourenco.com.br/",
+    "emailVerifiedAt": "2026-10-01"
+  },
+  {
+    "name": "Bar Original",
+    "email": "contato@ciatc.com.br",
+    "neighborhood": "Moema",
+    "type": "bar",
+    "website": "https://baroriginal.com.br/",
+    "context": "Bar em Moema, chopp, caipirinhas, petiscos clássicos. Tel (11) 5093-9486.",
+    "city": "São Paulo",
+    "phone": "(11) 5093-9486",
+    "source": "https://baroriginal.com.br/",
+    "emailVerified": true,
+    "emailSource": "https://baroriginal.com.br/",
+    "emailVerifiedAt": "2026-10-01"
+  },
+  {
+    "name": "Villa Caetanos",
+    "email": "reservas@villacaetanos.com.br",
+    "neighborhood": "Imirim",
+    "type": "bar",
+    "website": "https://villacaetanos.com.br/",
+    "context": "Bar e restaurante em Imirim, chopp, drinks, espaço kids. Tel (11) 2959-2305.",
+    "city": "São Paulo",
+    "phone": "(11) 2959-2305",
+    "source": "https://villacaetanos.com.br/",
+    "emailVerified": true,
+    "emailSource": "https://villacaetanos.com.br/",
+    "emailVerifiedAt": "2026-10-01"
   }
 ]
