@@ -45605,5 +45605,61 @@
     "emailVerifiedAt": "2026-10-01",
     "email1": true,
     "date1": "2026-10-02"
+  },
+  {
+    "name": "Botequim Jardim",
+    "email": "contato@botequimsa.com.br",
+    "neighborhood": "Jardim",
+    "type": "bar",
+    "website": "https://botequimsa.com.br/",
+    "context": "Botequim em Santo André, drinques autorais, caipirinhas exóticas, música ao vivo. Tel (11) 4992-7011.",
+    "city": "Santo André",
+    "phone": "(11) 4992-7011",
+    "source": "https://botequimsa.com.br/",
+    "emailVerified": true,
+    "emailSource": "https://botequimsa.com.br/",
+    "emailVerifiedAt": "2026-10-01"
+  },
+  {
+    "name": "Armazém São Caetano",
+    "email": "armazemscs@hotmail.com",
+    "neighborhood": "Santa Paula",
+    "type": "bar",
+    "website": "https://armazemsaocaetano.com.br/",
+    "context": "Bar e restaurante em São Caetano, drinks autorais, carta de drinks. Tel (11) 4228-3292.",
+    "city": "São Caetano do Sul",
+    "phone": "(11) 4228-3292",
+    "source": "https://armazemsaocaetano.com.br/",
+    "emailVerified": true,
+    "emailSource": "https://armazemsaocaetano.com.br/",
+    "emailVerifiedAt": "2026-10-01"
+  },
+  {
+    "name": "Paraibas Bar",
+    "email": "jaiso.vieira@bol.com.br",
+    "neighborhood": "Centro",
+    "type": "bar",
+    "website": "https://paraibas-bar.ueniweb.com/",
+    "context": "Bar e restaurante em Osasco, cervejas artesanais, vinhos, destilados. Tel (11) 95923-9497.",
+    "city": "Osasco",
+    "phone": "(11) 95923-9497",
+    "source": "https://paraibas-bar.ueniweb.com/",
+    "emailVerified": true,
+    "emailSource": "https://paraibas-bar.ueniweb.com/",
+    "emailVerifiedAt": "2026-10-01"
+  },
+  {
+    "name": "ONE BARTENDER",
+    "email": "eventos@onebartender.com.br",
+    "neighborhood": "Umuarama",
+    "type": "bar",
+    "website": "https://onebartender.com.br/",
+    "context": "Serviço de bar de caipirinhas para eventos em Osasco e Grande SP. Tel (11) 3685-0326.",
+    "city": "Osasco",
+    "phone": "(11) 3685-0326",
+    "source": "https://onebartender.com.br/",
+    "emailVerified": true,
+    "emailSource": "https://onebartender.com.br/",
+    "emailVerifiedAt": "2026-10-01"
   }
 ]
