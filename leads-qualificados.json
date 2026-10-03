@@ -43716,12 +43716,13 @@
     "date1": "2026-09-28",
     "email1": true,
     "email2": true,
-    "email3": false,
+    "email3": true,
     "emailVerified": true,
     "emailSource": "CNPJa/Econodata prospection",
     "emailVerifiedAt": "2026-09-21",
     "context": "Prospeccao SP capital - Cidade Nova Sao Miguel",
-    "date2": "2026-09-29"
+    "date2": "2026-09-29",
+    "date3": "2026-10-02"
   },
   {
     "name": "Adega GS LTDA (Sao Filipe Neri)",
@@ -43731,12 +43732,13 @@
     "date1": "2026-09-28",
     "email1": true,
     "email2": true,
-    "email3": false,
+    "email3": true,
     "emailVerified": true,
     "emailSource": "CNPJa/Econodata prospection",
     "emailVerifiedAt": "2026-09-21",
     "context": "Prospeccao SP capital - Zona Norte",
-    "date2": "2026-09-29"
+    "date2": "2026-09-29",
+    "date3": "2026-10-02"
   },
   {
     "name": "Adega King Comercio e Distribuidora de Bebidas",
@@ -43746,12 +43748,13 @@
     "date1": "2026-09-28",
     "email1": true,
     "email2": true,
-    "email3": false,
+    "email3": true,
     "emailVerified": true,
     "emailSource": "CNPJa/Econodata prospection",
     "emailVerifiedAt": "2026-09-21",
     "context": "Prospeccao SP capital - Vila Tolstoi",
-    "date2": "2026-09-29"
+    "date2": "2026-09-29",
+    "date3": "2026-10-02"
   },
   {
     "name": "Adega Bulldog Distribuidora de Bebidas",
@@ -43761,12 +43764,13 @@
     "date1": "2026-09-28",
     "email1": true,
     "email2": true,
-    "email3": false,
+    "email3": true,
     "emailVerified": true,
     "emailSource": "CNPJa/Econodata prospection",
     "emailVerifiedAt": "2026-09-21",
     "context": "Prospeccao SP capital - Jardim Vista Alegre",
-    "date2": "2026-09-29"
+    "date2": "2026-09-29",
+    "date3": "2026-10-02"
   },
   {
     "name": "Adega e Tabacaria Barao",
@@ -43776,12 +43780,13 @@
     "date1": "2026-09-28",
     "email1": true,
     "email2": true,
-    "email3": false,
+    "email3": true,
     "emailVerified": true,
     "emailSource": "CNPJa/Econodata prospection",
     "emailVerifiedAt": "2026-09-21",
     "context": "Prospeccao SP capital - Sao Mateus",
-    "date2": "2026-09-29"
+    "date2": "2026-09-29",
+    "date3": "2026-10-02"
   },
   {
     "name": "Mercearia Adega e Acougue Mendes",
@@ -44923,7 +44928,9 @@
     "emailVerified": true,
     "emailSource": "https://cervejariasorocaba.com.br/",
     "email1": true,
-    "date1": "2026-10-01"
+    "date1": "2026-10-01",
+    "email2": true,
+    "date2": "2026-10-02"
   },
   {
     "name": "Santo Legado Café",
@@ -45314,7 +45321,9 @@
     "emailSource": "https://www.vidottinho.com.br/",
     "emailVerifiedAt": "2026-10-01",
     "email1": true,
-    "date1": "2026-10-01"
+    "date1": "2026-10-01",
+    "email2": true,
+    "date2": "2026-10-02"
   },
   {
     "name": "Ideias Gourmet Buffet",
@@ -45331,7 +45340,9 @@
     "emailSource": "https://ideiasgourmet.com.br/",
     "emailVerifiedAt": "2026-10-01",
     "email1": true,
-    "date1": "2026-10-01"
+    "date1": "2026-10-01",
+    "email2": true,
+    "date2": "2026-10-02"
   },
   {
     "name": "Empório Vinho + Vinhos",
@@ -45347,7 +45358,9 @@
     "emailSource": "https://emporiovinhomaisvinhos.com.br/",
     "emailVerifiedAt": "2026-10-01",
     "email1": true,
-    "date1": "2026-10-01"
+    "date1": "2026-10-01",
+    "email2": true,
+    "date2": "2026-10-02"
   },
   {
     "name": "Empório Artesanal Sorocaba",
@@ -45380,7 +45393,9 @@
     "emailSource": "https://bardodito.com/",
     "emailVerifiedAt": "2026-10-01",
     "email1": true,
-    "date1": "2026-10-01"
+    "date1": "2026-10-01",
+    "email2": true,
+    "date2": "2026-10-02"
   },
   {
     "name": "Restaurante Velho Valentim",
@@ -45396,7 +45411,9 @@
     "emailSource": "https://velhovalentim.com.br/",
     "emailVerifiedAt": "2026-10-01",
     "email1": true,
-    "date1": "2026-10-01"
+    "date1": "2026-10-01",
+    "email2": true,
+    "date2": "2026-10-02"
   },
   {
     "name": "Entre Taças Winebar",
@@ -45412,7 +45429,9 @@
     "emailSource": "https://www.entretacas.com.br/",
     "emailVerifiedAt": "2026-10-01",
     "email1": true,
-    "date1": "2026-10-01"
+    "date1": "2026-10-01",
+    "email2": true,
+    "date2": "2026-10-02"
   },
   {
     "name": "BEG Destilaria",
@@ -45428,7 +45447,9 @@
     "emailSource": "https://databrasil.net/empresas/26950100000253-BEG-DESTILARIA-COMERCIO-E-DISTRIBUICAO-DE-BEBIDAS--LTDA",
     "emailVerifiedAt": "2026-10-01",
     "email1": true,
-    "date1": "2026-10-01"
+    "date1": "2026-10-01",
+    "email2": true,
+    "date2": "2026-10-02"
   },
   {
     "name": "Yolanda Botequim",
@@ -45458,7 +45479,9 @@
     "emailSource": "https://cervejariasorocaba.com.br/quintal-da-imperatriz/",
     "emailVerifiedAt": "2026-10-01",
     "email1": true,
-    "date1": "2026-10-01"
+    "date1": "2026-10-01",
+    "email2": true,
+    "date2": "2026-10-02"
   },
   {
     "name": "Izidoro Botequim",
@@ -45474,7 +45497,9 @@
     "emailSource": "https://turismo.jundiai.sp.gov.br/gastronomia/bares-e-choperias/izidoro-botequim/",
     "emailVerifiedAt": "2026-10-01",
     "email1": true,
-    "date1": "2026-10-01"
+    "date1": "2026-10-01",
+    "email2": true,
+    "date2": "2026-10-02"
   },
   {
     "name": "Bar do Alemão",
@@ -45504,7 +45529,9 @@
     "emailSource": "https://maiscnpj.com.br/cnpj/65864893000169-ameri-adega-de-bebidas-ltda",
     "emailVerifiedAt": "2026-10-01",
     "email1": true,
-    "date1": "2026-10-01"
+    "date1": "2026-10-01",
+    "email2": true,
+    "date2": "2026-10-02"
   },
   {
     "name": "Sr. Boteco",
@@ -45537,7 +45564,9 @@
     "emailSource": "https://nossoboteko.com.br",
     "emailVerifiedAt": "2026-10-01",
     "email1": true,
-    "date1": "2026-10-01"
+    "date1": "2026-10-01",
+    "email2": true,
+    "date2": "2026-10-02"
   },
   {
     "name": "Tristão e Isolda",
