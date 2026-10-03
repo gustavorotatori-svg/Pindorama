@@ -2806,5 +2806,115 @@
     "verifiedAt": "2026-10-01",
     "notBefore": "2026-10-01",
     "status": "queued"
+  },
+  {
+    "name": "Bolsao Distribuidora",
+    "phone": "(11) 91870-7946",
+    "type": "distribuidora_bebidas_cachacas",
+    "city": "Guarulhos",
+    "source": "https://bolsaodistribuidora.com/contato.php",
+    "evidence": "Site oficial consultado em 01/09/2026 confirma distribuidora ativa desde 2003, entrega para toda a regiao de Sao Paulo e litoral, catalogo de destilados e destaque atual de Cachaca Popular Velho Barreiro 910 ml. Fato: segmento prioritario, territorio valido, operacao recente, WhatsApp e email empresarial publicados e venda comprovada de cachaca. Inferencia: forte aderencia para apresentar a Pindorama ao responsavel por compras e avaliar inclusao no mix com potencial de recompra B2B.",
+    "verifiedAt": "2026-10-03",
+    "notBefore": "2026-10-03",
+    "status": "queued"
+  },
+  {
+    "name": "Adega e Distribuidora Nevada",
+    "phone": "(11) 6575-3122",
+    "type": "distribuidora",
+    "city": "Osasco",
+    "source": "https://maiscnpj.com.br/cnpj/50483476000107",
+    "evidence": "Adega e distribuidora de bebidas; CNPJ 50.483.476/0001-07; fundada 2023; atacadista de bebidas",
+    "verifiedAt": "2026-10-03",
+    "notBefore": "2026-10-03",
+    "status": "queued"
+  },
+  {
+    "name": "Adega Flex",
+    "phone": "(11) 8675-2183",
+    "type": "distribuidora",
+    "city": "Osasco",
+    "source": "https://www.diariocidade.com/sp/osasco/guia/adega-flex-34294665000177/",
+    "evidence": "Distribuidora de bebidas; CNPJ 34.294.665/0001-77; fundada 2019; com├®rcio varejista de bebidas",
+    "verifiedAt": "2026-10-03",
+    "notBefore": "2026-10-03",
+    "status": "queued"
+  },
+  {
+    "name": "Adega de Bebidas Pai e Filho",
+    "phone": "(11) 5657-1074",
+    "type": "distribuidora",
+    "city": "Barueri",
+    "source": "https://www.diariocidade.com/sp/barueri/guia/adega-de-bebidas-pai-e-filho-ltda-44512386000196/",
+    "evidence": "Distribuidora de bebidas; CNPJ 44.512.386/0001-96; fundada 2021; com├®rcio varejista de bebidas",
+    "verifiedAt": "2026-10-03",
+    "notBefore": "2026-10-03",
+    "status": "queued"
+  },
+  {
+    "name": "Adega da Vila",
+    "phone": "(11) 4198-9844",
+    "type": "distribuidora",
+    "city": "Barueri",
+    "source": "https://www.diariocidade.com/sp/barueri/guia/adega-da-vila-24291928000130/",
+    "evidence": "Distribuidora de bebidas; CNPJ 24.292.928/0001-30; fundada 2016; atacadista com fracionamento",
+    "verifiedAt": "2026-10-03",
+    "notBefore": "2026-10-03",
+    "status": "queued"
+  },
+  {
+    "name": "Adega Isabella",
+    "phone": "(11) 7101-8004",
+    "type": "distribuidora",
+    "city": "Barueri",
+    "source": "https://www.diariocidade.com/sp/barueri/guia/adega-isabella-45703570000186/",
+    "evidence": "Distribuidora e com├®rcio de bebidas; CNPJ 45.703.570/0001-86; fundada 2022; com├®rcio varejista de bebidas",
+    "verifiedAt": "2026-10-03",
+    "notBefore": "2026-10-03",
+    "status": "queued"
+  },
+  {
+    "name": "Adega do Paje",
+    "phone": "(11) 9989-2146",
+    "type": "distribuidora",
+    "city": "Barueri",
+    "source": "https://www.diariocidade.com/sp/barueri/guia/adega-do-paje-36320814000150/",
+    "evidence": "Distribuidora de bebidas; CNPJ 36.320.814/0001-50; fundada 2020; com├®rcio varejista de bebidas",
+    "verifiedAt": "2026-10-03",
+    "notBefore": "2026-10-03",
+    "status": "queued"
+  },
+  {
+    "name": "Adega do Alem├úo Comercial",
+    "phone": "(11) 9479-6215",
+    "type": "distribuidora",
+    "city": "Cotia",
+    "source": "https://www.diariocidade.com/sp/cotia/guia/adega-do-alemao-comercial-ltda-67928051000159/",
+    "evidence": "Adega e distribuidora; CNPJ 67.928.051/0001-59; fundada 1992; atacadista de bebidas h├í 33 anos",
+    "verifiedAt": "2026-10-03",
+    "notBefore": "2026-10-03",
+    "status": "queued"
+  },
+  {
+    "name": "Adega Dcharlys",
+    "phone": "(11) 7546-4513",
+    "type": "adega",
+    "city": "Cotia",
+    "source": "https://www.diariocidade.com/sp/cotia/guia/adega-dcharlys-eireli-43087821000110/",
+    "evidence": "Adega e bar; CNPJ 43.087.821/0001-10; fundada 2021; com├®rcio varejista de bebidas",
+    "verifiedAt": "2026-10-03",
+    "notBefore": "2026-10-03",
+    "status": "queued"
+  },
+  {
+    "name": "Adega Distribuidora Stop",
+    "phone": "(11) 8276-1409",
+    "type": "distribuidora",
+    "city": "Embu das Artes",
+    "source": "https://www.solutudo.com.br/empresas/sp/embu-das-artes/depositos-de-bebidas/adega-distribuidora-stop-13937792",
+    "evidence": "Dep├│sito de bebidas/distribuidora; CNPJ 28.356.119/0001-10; fundada 2017",
+    "verifiedAt": "2026-10-03",
+    "notBefore": "2026-10-03",
+    "status": "queued"
   }
 ]
