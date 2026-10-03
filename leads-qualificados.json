@@ -670,7 +670,9 @@
     "emailSource": "https://www.onebartender.com.br/bartenders/servico-de-bartenders/servico-de-bartender-para-congresso/servico-de-bartender-para-festa-guarulhos",
     "emailVerifiedAt": "2026-08-16",
     "address": "Atendimento em Sao Paulo e Guarulhos/SP",
-    "template": "consultivo"
+    "template": "consultivo",
+    "email1": true,
+    "date1": "2026-10-03"
   },
   {
     "name": "Eu Tu Eles",
@@ -700,7 +702,9 @@
     "source": "https://botecosaobento.com.br/",
     "emailVerified": true,
     "emailSource": "https://botecosaobento.com.br/",
-    "emailVerifiedAt": "2026-10-03"
+    "emailVerifiedAt": "2026-10-03",
+    "email1": true,
+    "date1": "2026-10-03"
   },
   {
     "name": "Pirajá",
@@ -746,7 +750,9 @@
     "source": "https://martinabar.com.br/",
     "emailVerified": true,
     "emailSource": "https://martinabar.com.br/",
-    "emailVerifiedAt": "2026-10-03"
+    "emailVerifiedAt": "2026-10-03",
+    "email1": true,
+    "date1": "2026-10-03"
   },
   {
     "name": "Olívio Bar",
@@ -808,7 +814,9 @@
     "source": "https://baroriginal.com.br/",
     "emailVerified": true,
     "emailSource": "https://baroriginal.com.br/",
-    "emailVerifiedAt": "2026-10-03"
+    "emailVerifiedAt": "2026-10-03",
+    "email1": true,
+    "date1": "2026-10-03"
   },
   {
     "name": "Villa Caetanos",
@@ -841,7 +849,9 @@
     "emailVerifiedAt": "2026-08-12",
     "mxVerified": true,
     "neighborhood": "",
-    "template": "prova_social"
+    "template": "prova_social",
+    "email1": true,
+    "date1": "2026-10-03"
   },
   {
     "name": "G&T Bar",
@@ -1052,7 +1062,9 @@
     "emailVerified": true,
     "emailSource": "https://bernadette.casa/",
     "emailVerifiedAt": "2026-08-15",
-    "template": "consultivo"
+    "template": "consultivo",
+    "email1": true,
+    "date1": "2026-10-03"
   },
   {
     "name": "Habanero Bar",
@@ -1066,7 +1078,9 @@
     "emailVerified": true,
     "emailSource": "https://habanerobar.com.br/",
     "emailVerifiedAt": "2026-08-15",
-    "template": "consultivo"
+    "template": "consultivo",
+    "email1": true,
+    "date1": "2026-10-03"
   },
   {
     "name": "Santana Bar",
@@ -1080,7 +1094,9 @@
     "emailVerified": true,
     "emailSource": "https://vejasp.abril.com.br/coluna/notas-etilicas/comer-e-beber-santana-viagem-2025/",
     "emailVerifiedAt": "2026-08-15",
-    "template": "consultivo"
+    "template": "consultivo",
+    "email1": true,
+    "date1": "2026-10-03"
   },
   {
     "name": "Anexo Pinheiros",
@@ -1094,7 +1110,9 @@
     "emailVerified": true,
     "emailSource": "https://www.anexopinheiros.com.br/",
     "emailVerifiedAt": "2026-08-15",
-    "template": "consultivo"
+    "template": "consultivo",
+    "email1": true,
+    "date1": "2026-10-03"
   },
   {
     "name": "Tribal Bebidas Brasileiras",
@@ -1108,7 +1126,9 @@
     "emailVerified": true,
     "emailSource": "https://tribalbebidas.com.br/entre-em-contato/",
     "emailVerifiedAt": "2026-08-15",
-    "template": "consultivo"
+    "template": "consultivo",
+    "email1": true,
+    "date1": "2026-10-03"
   },
   {
     "name": "Alquimia Cocktail",
@@ -1122,7 +1142,9 @@
     "emailVerified": true,
     "emailSource": "https://alquimiacocktail.com.br/",
     "emailVerifiedAt": "2026-08-15",
-    "template": "consultivo"
+    "template": "consultivo",
+    "email1": true,
+    "date1": "2026-10-03"
   },
   {
     "name": "New Cia Experience & Drinks",
@@ -1136,7 +1158,9 @@
     "emailVerified": true,
     "emailSource": "https://newcia.com.br/sobre/",
     "emailVerifiedAt": "2026-08-15",
-    "template": "consultivo"
+    "template": "consultivo",
+    "email1": true,
+    "date1": "2026-10-03"
   },
   {
     "name": "Feline Bartender",
@@ -1163,7 +1187,9 @@
     "emailVerified": true,
     "emailSource": "https://theviewbar.com.br/contato-sao-paulo/",
     "emailVerifiedAt": "2026-08-15",
-    "template": "consultivo"
+    "template": "consultivo",
+    "email1": true,
+    "date1": "2026-10-03"
   },
   {
     "name": "Elo Drinks",
@@ -1177,7 +1203,9 @@
     "emailVerified": true,
     "emailSource": "https://elodrinks.com.br/",
     "emailVerifiedAt": "2026-08-16",
-    "template": "consultivo"
+    "template": "consultivo",
+    "email1": true,
+    "date1": "2026-10-03"
   },
   {
     "name": "Drink Bartenders",
@@ -1191,7 +1219,9 @@
     "emailVerified": true,
     "emailSource": "https://www.drinkbartenders.com.br/",
     "emailVerifiedAt": "2026-08-16",
-    "template": "consultivo"
+    "template": "consultivo",
+    "email1": true,
+    "date1": "2026-10-03"
   },
   {
     "name": "Brazen Bar",
@@ -1205,7 +1235,9 @@
     "emailVerified": true,
     "emailSource": "https://www.brazenbar.com.br/",
     "emailVerifiedAt": "2026-08-16",
-    "template": "consultivo"
+    "template": "consultivo",
+    "email1": true,
+    "date1": "2026-10-03"
   },
   {
     "name": "R&M Bartenders",
@@ -1219,7 +1251,9 @@
     "emailVerified": true,
     "emailSource": "https://www.rembartenders.com.br/",
     "emailVerifiedAt": "2026-08-16",
-    "template": "consultivo"
+    "template": "consultivo",
+    "email1": true,
+    "date1": "2026-10-03"
   },
   {
     "name": "Damasco Bar e Drinks",
@@ -1233,7 +1267,9 @@
     "emailVerified": true,
     "emailSource": "https://bardrinkseventos.com.br/",
     "emailVerifiedAt": "2026-08-16",
-    "template": "consultivo"
+    "template": "consultivo",
+    "email1": true,
+    "date1": "2026-10-03"
   },
   {
     "name": "APTK Spirits Eventos",
@@ -1247,7 +1283,9 @@
     "emailVerified": true,
     "emailSource": "https://aptkspirits.com/faca-seu-evento/",
     "emailVerifiedAt": "2026-08-16",
-    "template": "consultivo"
+    "template": "consultivo",
+    "email1": true,
+    "date1": "2026-10-03"
   },
   {
     "name": "Top Mais Drinks",
@@ -1356,7 +1394,9 @@
     "emailVerified": true,
     "emailSource": "https://showbartenders.com.br/",
     "emailVerifiedAt": "2026-08-16",
-    "template": "consultivo"
+    "template": "consultivo",
+    "email1": true,
+    "date1": "2026-10-03"
   },
   {
     "name": "Doja Producoes",
@@ -1383,7 +1423,9 @@
     "emailVerified": true,
     "emailSource": "https://dcecoquetelaria.com.br/contato/",
     "emailVerifiedAt": "2026-08-16",
-    "template": "consultivo"
+    "template": "consultivo",
+    "email1": true,
+    "date1": "2026-10-03"
   },
   {
     "name": "Connect Bartenders",
@@ -1397,7 +1439,9 @@
     "emailVerified": true,
     "emailSource": "https://connectbartenders.com.br/landing-page/",
     "emailVerifiedAt": "2026-08-16",
-    "template": "consultivo"
+    "template": "consultivo",
+    "email1": true,
+    "date1": "2026-10-03"
   },
   {
     "name": "Sky Hall Terrace Bar",
@@ -1411,7 +1455,9 @@
     "emailVerified": true,
     "emailSource": "https://skyhall.com.br/terrace-bar/",
     "emailVerifiedAt": "2026-08-16",
-    "template": "consultivo"
+    "template": "consultivo",
+    "email1": true,
+    "date1": "2026-10-03"
   },
   {
     "name": "Double Bar Eventos",
@@ -1425,7 +1471,9 @@
     "emailVerified": true,
     "emailSource": "https://www.fazendaparaizoitu.com.br/wp-content/uploads/2026/01/2026-Guia-de-Fornecedores-Faz-Paraizo-Itu.pdf_3e254ed0-269a-4db1-b9e9-f77e557a9ab3.pdf",
     "emailVerifiedAt": "2026-08-16",
-    "template": "consultivo"
+    "template": "consultivo",
+    "email1": true,
+    "date1": "2026-10-03"
   },
   {
     "name": "Balli Bartenders",
@@ -1452,7 +1500,9 @@
     "emailVerified": true,
     "emailSource": "https://aceitosim.com.br/conceito-bar",
     "emailVerifiedAt": "2026-08-16",
-    "template": "consultivo"
+    "template": "consultivo",
+    "email1": true,
+    "date1": "2026-10-03"
   },
   {
     "name": "Hotel Panamby Sao Paulo",
@@ -1479,7 +1529,9 @@
     "emailVerified": true,
     "emailSource": "https://www.agaridrinks.com.br/contato",
     "emailVerifiedAt": "2026-08-16",
-    "template": "consultivo"
+    "template": "consultivo",
+    "email1": true,
+    "date1": "2026-10-03"
   },
   {
     "name": "1966 PUB & Cocktail Bar",
@@ -1493,7 +1545,9 @@
     "emailVerified": true,
     "emailSource": "https://www.1966pub.com.br/",
     "emailVerifiedAt": "2026-08-16",
-    "template": "consultivo"
+    "template": "consultivo",
+    "email1": true,
+    "date1": "2026-10-03"
   },
   {
     "name": "Santa Oca Bar",
@@ -1534,7 +1588,9 @@
     "emailVerified": true,
     "emailSource": "https://dbartenders.com/",
     "emailVerifiedAt": "2026-08-16",
-    "template": "consultivo"
+    "template": "consultivo",
+    "email1": true,
+    "date1": "2026-10-03"
   },
   {
     "name": "MADZ Eventos",
@@ -1548,7 +1604,9 @@
     "emailVerified": true,
     "emailSource": "https://www.madzeventos.com.br/",
     "emailVerifiedAt": "2026-08-16",
-    "template": "consultivo"
+    "template": "consultivo",
+    "email1": true,
+    "date1": "2026-10-03"
   },
   {
     "name": "Mr Cocktail Eventos",
@@ -1576,7 +1634,9 @@
     "emailVerified": true,
     "emailSource": "https://casahibrida.com.br/",
     "emailVerifiedAt": "2026-08-16",
-    "template": "consultivo"
+    "template": "consultivo",
+    "email1": true,
+    "date1": "2026-10-03"
   },
   {
     "name": "Curtica Bar",
@@ -1632,7 +1692,9 @@
     "emailVerified": true,
     "emailSource": "https://bar2go.com.br/",
     "emailVerifiedAt": "2026-08-16",
-    "template": "consultivo"
+    "template": "consultivo",
+    "email1": true,
+    "date1": "2026-10-03"
   },
   {
     "name": "Bourbon Convention Hotel Santos",
@@ -1660,7 +1722,9 @@
     "emailVerified": true,
     "emailSource": "https://www.xbar.com.br/",
     "emailVerifiedAt": "2026-08-16",
-    "template": "consultivo"
+    "template": "consultivo",
+    "email1": true,
+    "date1": "2026-10-03"
   },
   {
     "name": "Adega Don Marte",
@@ -1674,7 +1738,9 @@
     "emailVerified": true,
     "emailSource": "https://adegamartins.com.br/contato/",
     "emailVerifiedAt": "2026-08-16",
-    "template": "consultivo"
+    "template": "consultivo",
+    "email1": true,
+    "date1": "2026-10-03"
   },
   {
     "name": "Life Drinks e Eventos",
@@ -1688,7 +1754,9 @@
     "emailVerified": true,
     "emailSource": "https://www.lifedrinkseventos.com.br/fale-conosco/",
     "emailVerifiedAt": "2026-08-16",
-    "template": "consultivo"
+    "template": "consultivo",
+    "email1": true,
+    "date1": "2026-10-03"
   },
   {
     "name": "Fashion Bartenders",
@@ -1702,7 +1770,9 @@
     "emailVerified": true,
     "emailSource": "https://www.fashionbartenders.com.br/barman-para-eventos-em-santo-andre.php",
     "emailVerifiedAt": "2026-08-16",
-    "template": "consultivo"
+    "template": "consultivo",
+    "email1": true,
+    "date1": "2026-10-03"
   },
   {
     "name": "Z Eventos",
@@ -1744,7 +1814,9 @@
     "emailVerified": true,
     "emailSource": "https://www.barmanparafestas.com.br/contato/",
     "emailVerifiedAt": "2026-08-16",
-    "template": "consultivo"
+    "template": "consultivo",
+    "email1": true,
+    "date1": "2026-10-03"
   },
   {
     "name": "Caledonia Whisky & Co.",
@@ -1758,7 +1830,9 @@
     "emailVerified": true,
     "emailSource": "https://caledoniawhiskyco.com.br/contato/",
     "emailVerifiedAt": "2026-08-16",
-    "template": "consultivo"
+    "template": "consultivo",
+    "email1": true,
+    "date1": "2026-10-03"
   },
   {
     "name": "K-Bar e Karaokê",
@@ -1772,7 +1846,9 @@
     "emailVerified": true,
     "emailSource": "https://k-bar.com.br/",
     "emailVerifiedAt": "2026-08-16",
-    "template": "consultivo"
+    "template": "consultivo",
+    "email1": true,
+    "date1": "2026-10-03"
   },
   {
     "name": "Mister Drinks",
@@ -1786,7 +1862,9 @@
     "emailVerified": true,
     "emailSource": "https://mister.net.br/mister-drinks/",
     "emailVerifiedAt": "2026-08-16",
-    "template": "consultivo"
+    "template": "consultivo",
+    "email1": true,
+    "date1": "2026-10-03"
   },
   {
     "name": "São Paulo Urban Distillery",
@@ -1814,7 +1892,9 @@
     "emailVerified": true,
     "emailSource": "https://brasilbartender.com.br/servicos.html",
     "emailVerifiedAt": "2026-08-16",
-    "template": "consultivo"
+    "template": "consultivo",
+    "email1": true,
+    "date1": "2026-10-03"
   },
   {
     "name": "Vedê Coquetelaria & Arte",
@@ -1828,7 +1908,9 @@
     "emailVerified": true,
     "emailSource": "https://vedebar.com.br/",
     "emailVerifiedAt": "2026-08-16",
-    "template": "consultivo"
+    "template": "consultivo",
+    "email1": true,
+    "date1": "2026-10-03"
   },
   {
     "name": "Yummy Cocktails",
@@ -1842,7 +1924,9 @@
     "emailVerified": true,
     "emailSource": "https://www.yummycocktails.com.br/",
     "emailVerifiedAt": "2026-08-16",
-    "template": "consultivo"
+    "template": "consultivo",
+    "email1": true,
+    "date1": "2026-10-03"
   },
   {
     "name": "Cervejaria Rei do Malte",
@@ -1884,7 +1968,9 @@
     "emailVerified": true,
     "emailSource": "https://theblackhorse.com.br/contato/",
     "emailVerifiedAt": "2026-08-16",
-    "template": "consultivo"
+    "template": "consultivo",
+    "email1": true,
+    "date1": "2026-10-03"
   },
   {
     "name": "Beco Alfas",
@@ -1996,7 +2082,9 @@
     "emailVerified": true,
     "emailSource": "https://www.choppgermaniabarueri.com.br/contato/",
     "emailVerifiedAt": "2026-08-17",
-    "template": "consultivo"
+    "template": "consultivo",
+    "email1": true,
+    "date1": "2026-10-03"
   },
   {
     "name": "Adega Rubi",
@@ -2010,7 +2098,9 @@
     "emailVerified": true,
     "emailSource": "https://www.adegarubi.com.br/Contato",
     "emailVerifiedAt": "2026-08-17",
-    "template": "consultivo"
+    "template": "consultivo",
+    "email1": true,
+    "date1": "2026-10-03"
   },
   {
     "name": "Royal Bebidas",
@@ -2024,7 +2114,9 @@
     "emailVerified": true,
     "emailSource": "https://www.royalbebidas.com/contato",
     "emailVerifiedAt": "2026-08-17",
-    "template": "consultivo"
+    "template": "consultivo",
+    "email1": true,
+    "date1": "2026-10-03"
   },
   {
     "name": "Palácio dos Vinhos",
@@ -2038,7 +2130,9 @@
     "emailVerified": true,
     "emailSource": "https://www.palaciodosvinhos.com.br/contato",
     "emailVerifiedAt": "2026-08-17",
-    "template": "consultivo"
+    "template": "consultivo",
+    "email1": true,
+    "date1": "2026-10-03"
   },
   {
     "name": "Distribuidora Cotia",
@@ -2052,7 +2146,9 @@
     "emailVerified": true,
     "emailSource": "https://www.distribuidoracotia.com/nossas-lojas",
     "emailVerifiedAt": "2026-08-17",
-    "template": "consultivo"
+    "template": "consultivo",
+    "email1": true,
+    "date1": "2026-10-03"
   },
   {
     "name": "Cofig Distribuidora",
@@ -2066,7 +2162,9 @@
     "emailVerified": true,
     "emailSource": "https://cofigdistribuidora.com.br/contato/",
     "emailVerifiedAt": "2026-08-17",
-    "template": "consultivo"
+    "template": "consultivo",
+    "email1": true,
+    "date1": "2026-10-03"
   },
   {
     "name": "Maxx Indústria de Bebidas",
@@ -2080,7 +2178,9 @@
     "emailVerified": true,
     "emailSource": "https://www.naturamaxx.com.br/",
     "emailVerifiedAt": "2026-08-17",
-    "template": "consultivo"
+    "template": "consultivo",
+    "email1": true,
+    "date1": "2026-10-03"
   },
   {
     "name": "The Wine Spot",
@@ -2094,7 +2194,9 @@
     "emailVerified": true,
     "emailSource": "https://thewinespot.com.br/",
     "emailVerifiedAt": "2026-08-17",
-    "template": "consultivo"
+    "template": "consultivo",
+    "email1": true,
+    "date1": "2026-10-03"
   },
   {
     "name": "Central Osasco",
@@ -2108,7 +2210,9 @@
     "emailVerified": true,
     "emailSource": "https://centralosasco.com.br/contato.aspx",
     "emailVerifiedAt": "2026-08-17",
-    "template": "consultivo"
+    "template": "consultivo",
+    "email1": true,
+    "date1": "2026-10-03"
   },
   {
     "name": "Central Wine",
@@ -2122,7 +2226,9 @@
     "emailVerified": true,
     "emailSource": "https://www.centralwine.com.br/",
     "emailVerifiedAt": "2026-08-17",
-    "template": "consultivo"
+    "template": "consultivo",
+    "email1": true,
+    "date1": "2026-10-03"
   },
   {
     "name": "Taça Cheia Bar e Restaurante",
@@ -2248,7 +2354,9 @@
     "emailVerified": true,
     "emailSource": "https://rapidochopp.com.br/contato/",
     "emailVerifiedAt": "2026-08-18",
-    "template": "consultivo"
+    "template": "consultivo",
+    "email1": true,
+    "date1": "2026-10-03"
   },
   {
     "name": "Adega Caramuru",
@@ -2262,7 +2370,9 @@
     "emailVerified": true,
     "emailSource": "https://adega-caramuru.webnode.page/",
     "emailVerifiedAt": "2026-08-18",
-    "template": "consultivo"
+    "template": "consultivo",
+    "email1": true,
+    "date1": "2026-10-03"
   },
   {
     "name": "Boiadeiro Grill Diadema",
