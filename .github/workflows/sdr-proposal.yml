@@ -1,12 +1,17 @@
 name: SDR Proposal Send
 on:
   workflow_dispatch:
+    inputs:
+      lead_email:
+        description: 'Email do lead para enviar proposta'
+        required: true
+        type: string
 
 permissions:
   contents: write
 
 jobs:
-  run-proposal:
+  send-proposal:
     runs-on: ubuntu-latest
     timeout-minutes: 10
     env:
@@ -19,17 +24,20 @@ jobs:
         with:
           node-version: 20
       - run: npm ci --no-audit --no-fund
-      - run: node sdr_proposal_send.mjs
+      - name: Send Proposal
+        run: node sdr_proposal_send.mjs "${{ github.event.inputs.lead_email }}"
       - name: Commit & Push
         run: |
           git config user.name "pindorama-bot"
           git config user.email "pindorama-bot@users.noreply.github.com"
           git add leads-qualificados.json
           if ! git diff --cached --quiet; then
-            git commit -m "sdr: propostas enviadas $(date -u +%Y-%m-%d)"
+            git commit -m "sdr: proposta enviada $(date -u +%Y-%m-%d)"
             for i in 1 2 3; do
               git pull --rebase origin master && git push origin HEAD:master && break
               [ "$i" = "3" ] && exit 1
               sleep 2
             done
+          else
+            echo "Sem alterações"
           fi
