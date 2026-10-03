@@ -44591,8 +44591,9 @@
     "website": "",
     "emailVerified": true,
     "emailSource": "https://cnpj.biz/",
-    "email1": false,
-    "emailVerifiedAt": "2026-10-03"
+    "email1": true,
+    "emailVerifiedAt": "2026-10-03",
+    "date1": "2026-10-03"
   },
   {
     "name": "Empório Milla",
@@ -44631,7 +44632,10 @@
     "emailVerified": true,
     "emailSource": "https://cnpj.biz/",
     "email1": false,
-    "emailVerifiedAt": "2026-10-03"
+    "emailVerifiedAt": "2026-10-03",
+    "invalidEmail": true,
+    "invalidEmailReason": "domain_without_mx",
+    "invalidEmailDate": "2026-10-03"
   },
   {
     "name": "Adega Lapena Campinas",
@@ -44643,8 +44647,9 @@
     "website": "",
     "emailVerified": true,
     "emailSource": "https://cnpj.biz/",
-    "email1": false,
-    "emailVerifiedAt": "2026-10-03"
+    "email1": true,
+    "emailVerifiedAt": "2026-10-03",
+    "date1": "2026-10-03"
   },
   {
     "name": "Adega Ponto Certo Vila Mariana",
@@ -44656,8 +44661,9 @@
     "website": "",
     "emailVerified": true,
     "emailSource": "https://cnpj.biz/",
-    "email1": false,
-    "emailVerifiedAt": "2026-10-03"
+    "email1": true,
+    "emailVerifiedAt": "2026-10-03",
+    "date1": "2026-10-03"
   },
   {
     "name": "Adega Campinas Delivery",
@@ -44670,7 +44676,10 @@
     "emailVerified": true,
     "emailSource": "https://cnpj.biz/",
     "email1": false,
-    "emailVerifiedAt": "2026-10-03"
+    "emailVerifiedAt": "2026-10-03",
+    "invalidEmail": true,
+    "invalidEmailReason": "domain_without_mx",
+    "invalidEmailDate": "2026-10-03"
   },
   {
     "name": "Supermercados Avenida Sorocaba",
@@ -44709,7 +44718,10 @@
     "emailVerified": true,
     "emailSource": "https://adegadautore.com.br/contato/",
     "email1": false,
-    "emailVerifiedAt": "2026-10-03"
+    "emailVerifiedAt": "2026-10-03",
+    "invalidEmail": true,
+    "invalidEmailReason": "domain_without_mx",
+    "invalidEmailDate": "2026-10-03"
   },
   {
     "name": "Adega Taruma",
@@ -44721,8 +44733,9 @@
     "website": "",
     "emailVerified": true,
     "emailSource": "https://www.diariocidade.com/sp/jundiai/guia/adega-taruma-24041974000181/",
-    "email1": false,
-    "emailVerifiedAt": "2026-10-03"
+    "email1": true,
+    "emailVerifiedAt": "2026-10-03",
+    "date1": "2026-10-03"
   },
   {
     "name": "Vinhos de Bicicleta",
@@ -44734,8 +44747,9 @@
     "website": "https://vinhosdebicicleta.com.br",
     "emailVerified": true,
     "emailSource": "https://linkedin.com/company/vinhos-de-bicicleta",
-    "email1": false,
-    "emailVerifiedAt": "2026-10-03"
+    "email1": true,
+    "emailVerifiedAt": "2026-10-03",
+    "date1": "2026-10-03"
   },
   {
     "name": "Adega J.T.M.",
@@ -44747,8 +44761,9 @@
     "website": "",
     "emailVerified": true,
     "emailSource": "https://distribuidorasdealimentos.com.br/sp/sorocaba/adega-j-t-m",
-    "email1": false,
-    "emailVerifiedAt": "2026-10-03"
+    "email1": true,
+    "emailVerifiedAt": "2026-10-03",
+    "date1": "2026-10-03"
   },
   {
     "name": "Adega Andriani",
@@ -44887,8 +44902,9 @@
     "website": "https://cacarola.com.br/",
     "emailVerified": true,
     "emailSource": "https://cacarola.com.br/",
-    "email1": false,
-    "emailVerifiedAt": "2026-10-03"
+    "email1": true,
+    "emailVerifiedAt": "2026-10-03",
+    "date1": "2026-10-03"
   },
   {
     "name": "Fazenda Atalaia Loja Cambuí",
@@ -44939,8 +44955,9 @@
     "website": "https://www.fraterspub.com.br/",
     "emailVerified": true,
     "emailSource": "https://www.fraterspub.com.br/",
-    "email1": false,
-    "emailVerifiedAt": "2026-10-03"
+    "email1": true,
+    "emailVerifiedAt": "2026-10-03",
+    "date1": "2026-10-03"
   },
   {
     "name": "Cervejaria Imperatriz Sorocaba",
@@ -44981,7 +44998,10 @@
     "emailVerified": true,
     "emailSource": "https://www.baressp.com.br/baladas/asteroid-bar",
     "email1": false,
-    "emailVerifiedAt": "2026-10-03"
+    "emailVerifiedAt": "2026-10-03",
+    "invalidEmail": true,
+    "invalidEmailReason": "domain_without_mx",
+    "invalidEmailDate": "2026-10-03"
   },
   {
     "name": "Adega Garagem Sorocaba",
@@ -44993,8 +45013,9 @@
     "website": "https://cruzdesavoia.wixsite.com/adegagaragem/contato",
     "emailVerified": true,
     "emailSource": "https://cruzdesavoia.wixsite.com/adegagaragem/contato",
-    "email1": false,
-    "emailVerifiedAt": "2026-10-03"
+    "email1": true,
+    "emailVerifiedAt": "2026-10-03",
+    "date1": "2026-10-03"
   },
   {
     "name": "Adega Vitória Régia",
@@ -45006,8 +45027,9 @@
     "website": "",
     "emailVerified": true,
     "emailSource": "https://www.diariocidade.com/sp/sorocaba/guia/adega-vitoria-regia-28971482000146/",
-    "email1": false,
-    "emailVerifiedAt": "2026-10-03"
+    "email1": true,
+    "emailVerifiedAt": "2026-10-03",
+    "date1": "2026-10-03"
   },
   {
     "name": "Adega Moraes",
@@ -45019,8 +45041,9 @@
     "website": "",
     "emailVerified": true,
     "emailSource": "https://www.diariocidade.com/sp/sorocaba/guia/adega-moraes-19093938000121/",
-    "email1": false,
-    "emailVerifiedAt": "2026-10-03"
+    "email1": true,
+    "emailVerifiedAt": "2026-10-03",
+    "date1": "2026-10-03"
   },
   {
     "name": "Empório Éden",
@@ -45032,8 +45055,9 @@
     "website": "",
     "emailVerified": true,
     "emailSource": "https://distribuidorasdealimentos.com.br/sp/sorocaba/emporio-eden",
-    "email1": false,
-    "emailVerifiedAt": "2026-10-03"
+    "email1": true,
+    "emailVerifiedAt": "2026-10-03",
+    "date1": "2026-10-03"
   },
   {
     "name": "Adega Central Sorocaba",
@@ -45045,8 +45069,9 @@
     "website": "",
     "emailVerified": true,
     "emailSource": "https://www.diariocidade.com/sp/sorocaba/guia/adega-central-35876131000111/",
-    "email1": false,
-    "emailVerifiedAt": "2026-10-03"
+    "email1": true,
+    "emailVerifiedAt": "2026-10-03",
+    "date1": "2026-10-03"
   },
   {
     "name": "Bar e Choperia Quarteto Fantástico",
@@ -45058,8 +45083,9 @@
     "website": "",
     "emailVerified": true,
     "emailSource": "https://www.diariocidade.com/sp/santos/guia/bar-e-choperia-quarteto-fantastico-ltda-30024058000136/",
-    "email1": false,
-    "emailVerifiedAt": "2026-10-03"
+    "email1": true,
+    "emailVerifiedAt": "2026-10-03",
+    "date1": "2026-10-03"
   },
   {
     "name": "Everaldos Bar",
@@ -45108,8 +45134,9 @@
     "website": "https://www.patadaonca.com.br/chopp/",
     "emailVerified": true,
     "emailSource": "https://www.patadaonca.com.br/chopp/",
-    "email1": false,
-    "emailVerifiedAt": "2026-10-03"
+    "email1": true,
+    "emailVerifiedAt": "2026-10-03",
+    "date1": "2026-10-03"
   },
   {
     "name": "Ribermad Vila Virgínia",
@@ -45121,8 +45148,9 @@
     "website": "https://ribermadvilavirginia.com.br/contato/",
     "emailVerified": true,
     "emailSource": "https://ribermadvilavirginia.com.br/contato/",
-    "email1": false,
-    "emailVerifiedAt": "2026-10-03"
+    "email1": true,
+    "emailVerifiedAt": "2026-10-03",
+    "date1": "2026-10-03"
   },
   {
     "name": "Cervejaria Experiência",
@@ -45134,8 +45162,9 @@
     "website": "",
     "emailVerified": true,
     "emailSource": "https://maiscnpj.com.br/cnpj/28667639000144-cervejaria-experiencia-ltda",
-    "email1": false,
-    "emailVerifiedAt": "2026-10-03"
+    "email1": true,
+    "emailVerifiedAt": "2026-10-03",
+    "date1": "2026-10-03"
   },
   {
     "name": "Paddock Ribeirão Jockey",
@@ -45246,8 +45275,9 @@
     "website": "",
     "emailVerified": true,
     "emailSource": "https://www.diariocidade.com/sp/piracicaba/guia/adega-e-emporio-jr-ltda-10371643000103/",
-    "email1": false,
-    "emailVerifiedAt": "2026-10-03"
+    "email1": true,
+    "emailVerifiedAt": "2026-10-03",
+    "date1": "2026-10-03"
   },
   {
     "name": "Santa Adega Limeira",
@@ -45295,8 +45325,9 @@
     "website": "https://matagalbar.com.br/",
     "emailVerified": true,
     "emailSource": "https://matagalbar.com.br/",
-    "email1": false,
-    "emailVerifiedAt": "2026-10-03"
+    "email1": true,
+    "emailVerifiedAt": "2026-10-03",
+    "date1": "2026-10-03"
   },
   {
     "name": "Brasileirinho Bar Restaurante",
