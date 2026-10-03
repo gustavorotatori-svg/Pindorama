@@ -44,9 +44,9 @@ Praça São Lourenço;reservas@pracasaolourenco.com.br;;(11) 3053-9300;São Paul
 Bar Original;contato@ciatc.com.br;;(11) 5093-9486;São Paulo;Moema;bar;2026-10-03;;;
 Villa Caetanos;reservas@villacaetanos.com.br;;(11) 2959-2305;São Paulo;Imirim;bar;2026-10-02;;;
 Distribuidora de Bebidas JG;vendas@distribuidorajg.com.br;;;São Bernardo do Campo;;distribuidora;2026-10-03;;;
-G&T Bar;info@gtginbar.com.br;;;São Paulo;Jardins;bar;;;;
-WixBar;comercial4@wixbartenders.com.br;;;São Paulo;;bar;;;;
-703 Coquetelaria;contato@703coquetelaria.com.br;;;São Paulo;;bar;;;;
+G&T Bar;info@gtginbar.com.br;;;São Paulo;Jardins;bar;2026-10-03;;;
+WixBar;comercial4@wixbartenders.com.br;;;São Paulo;;bar;2026-10-03;;;
+703 Coquetelaria;contato@703coquetelaria.com.br;;;São Paulo;;bar;2026-10-03;;;
 Arte Vieira Coquetelaria;contato@artevieira.com;;;São Paulo;;bar;;;;
 Drink Me Co.;eventos@drinkmeco.com.br;;;Sorocaba;;bar;;;;
 Fancy Bar;comercial@fancybar.com.br;;;São Paulo;;bar;;;;
@@ -119,10 +119,10 @@ Yummy Cocktails;contato@yummycocktails.com.br;;(11) 99225-1091;Rua Valentim Dal 
 Cervejaria Rei do Malte;cervejariareidomalte@gmail.com;;(15) 3141-9264;Avenida Ipanema, 4300 - Jardim Novo Horizonte - Sorocaba;Jardim Novo Horizonte;bar;;;;
 Villa BBM Gastrobar;comercial@villabbm.com;;;Alphaville - Barueri;Alphaville;bar;;;;
 The Black Horse;theblackhorse@theblackhorse.com.br;;(11) 99186-6930;Avenida Copacabana, 148 - Alphaville - Barueri;Alphaville;bar;2026-10-03;;;
-Beco Alfas;contato@becoalfas.com.br;;(11) 2291-4891;Avenida Aruanã, 484 - Tamboré - Barueri;Tamboré;bar;;;;
+Beco Alfas;contato@becoalfas.com.br;;(11) 2291-4891;Avenida Aruanã, 484 - Tamboré - Barueri;Tamboré;bar;2026-10-03;;;
 Tortellini Restaurante e Pizzaria;contato@tortellini.com.br;;;Calçada Sirius, 31 - Centro de Apoio II - Alphaville - Santana de Parnaíba;Alphaville;restaurante;;;;
-O Posto Bar e Restaurante;contato@opostobar.com.br;;(11) 4551-4290;Rua José Félix de Oliveira, 1133 - Chácara Granja Velha - Cotia;Chácara Granja Velha;bar;;;;
-Beer Place Tap House;info@beerplace.com.br;;(11) 97276-3704;Rua Paraná, 112 - Santana de Parnaíba;Santana de Parnaíba;bar;;;;
+O Posto Bar e Restaurante;contato@opostobar.com.br;;(11) 4551-4290;Rua José Félix de Oliveira, 1133 - Chácara Granja Velha - Cotia;Chácara Granja Velha;bar;2026-10-03;;;
+Beer Place Tap House;info@beerplace.com.br;;(11) 97276-3704;Rua Paraná, 112 - Santana de Parnaíba;Santana de Parnaíba;bar;2026-10-03;;;
 Pedra Branca Jandira;jandira@restaurantepedrabranca.com.br;;(11) 4619-2363;Rua Milton Alves, 1000 - Jardim Alvorada - Jandira;Jardim Alvorada;restaurante;;;;
 Alemão Bar e Bistrô;alemaobarebistro@outlook.com;;(11) 4142-4110;Rua José Avelino da Costa, 1 - Jardim da Rainha - Itapevi;Jardim da Rainha;bar;;;;
 Bendita Areia;contato@benditaareia.com.br;;;Avenida Eleutério Marçal dos Santos, 531 - Itapevi;Itapevi;bar;;;;
@@ -136,12 +136,12 @@ Maxx Indústria de Bebidas;naturamaxx1@gmail.com;;(11) 99875-7789;Rodovia Bunjir
 The Wine Spot;loja@thewinespot.com.br;;(11) 91569-0164;Avenida Sagitário, 138, térreo, lojas 6 e 7 - Alphaville Conde II - Barueri;Alphaville Conde II;adega;2026-10-03;;;
 Central Osasco;sac@centralosasco.com.br;;(11) 3652-5440;Avenida Maria Campos, 190 - Centro - Osasco;Centro;distribuidora;2026-10-03;;;
 Central Wine;centralwine@centralwine.com.br;;(11) 4616-8188;Avenida Professor José Barreto, 1010, lojas 9 e 10 - Centro - Cotia;Centro;adega;2026-10-03;;;
-Taça Cheia Bar e Restaurante;contato@tacacheia.com;;(11) 4556-1646;Rua Açucena, 728 - Jardim das Flores - Osasco;Jardim das Flores;bar;;;;
+Taça Cheia Bar e Restaurante;contato@tacacheia.com;;(11) 4556-1646;Rua Açucena, 728 - Jardim das Flores - Osasco;Jardim das Flores;bar;2026-10-03;;;
 Pizzaria Nostra Carapicuíba;wl.2020pizzaria@gmail.com;;(11) 4188-7934;Estrada da Gabiroba, 670 - Jardim Primavera - Carapicuíba;Jardim Primavera;restaurante;;;;
 Restaurante Cantinho do Tempero Jandira;cantinhodotempero@hotmail.com;;(11) 95992-8765;Rua Joaquim da Silva Lima, 120 - Vila Santa Rosa - Jandira;Vila Santa Rosa;restaurante;;;;
 A Quinta do Mirante;aquintadomirante@gmail.com;;(11) 94838-3010;Rua Minerva, 674 - Santana de Parnaíba;Centro;restaurante;;;;
 Savana Alphaville;contato@salaosavana.com.br;;(11) 96963-6963;Avenida Alphanorte, 2200 - Alphaville - Santana de Parnaíba;Alphaville;buffet;;;;
-Pacha Pizza Bar;contato@pachabar.com.br;;(11) 94719-1645;Rua Elizabetta Lips, 11 - Jardim Bontempo - Taboão da Serra;Jardim Bontempo;bar;;;;
+Pacha Pizza Bar;contato@pachabar.com.br;;(11) 94719-1645;Rua Elizabetta Lips, 11 - Jardim Bontempo - Taboão da Serra;Jardim Bontempo;bar;2026-10-03;;;
 O Taboão 2 Restaurante e Delivery;contato@otaboao2.com;;(11) 4701-4675;Avenida Paulo Ayres, 470 - Parque Pinheiros - Taboão da Serra;Parque Pinheiros;restaurante;;;;
 Zao Sushi Taboão;zaotaboao@gmail.com;;(11) 4701-0201;Avenida Doutor José Maciel, 658 - Jardim Maria Rosa - Taboão da Serra;Jardim Maria Rosa;restaurante;;;;
 Rápido Chopp Taboão da Serra;vendas@rapidochopp.com.br;;(11) 91347-5323;Avenida Intercontinental, 761 - Jardim Frei Galvão - Taboão da Serra;Jardim Frei Galvão;distribuidora;2026-10-03;;;
@@ -150,4 +150,4 @@ Boiadeiro Grill Diadema;contato@boiadeirogrill.com.br;;(11) 4075-2248;Avenida Do
 Gaia Restaurante;contato@gaiarestaurante.com.br;;(11) 4396-5606;Rua Mateos Demarchi, 145 - Demarchi - São Bernardo do Campo;Demarchi;restaurante;;;;
 Cantinho do Luiz;contato@cantinhodoluiz.com.br;;(11) 4354-0311;Avenida Amazonas, 168 - Riacho Grande - São Bernardo do Campo;Riacho Grande;restaurante;;;;
 Fahrenheit JK Iguatemi;marketing@restf.com.br;;(11) 3152-6040;Avenida Presidente Juscelino Kubitschek, 2041 - Shopping JK Iguatemi, 3o piso - Vila Olimpia - Sao Paulo;Vila Olimpia;restaurante;;;;
-Seen Restaurant & Bar;reservas@seensp.com;;+55 11 91635-3751;Alameda Santos, 1437 - 23º andar - São Paulo;Jardins;bar;;;;
+Seen Restaurant & Bar;reservas@seensp.com;;+55 11 91635-3751;Alameda Santos, 1437 - 23º andar - São Paulo;Jardins;bar;2026-10-03;;;
