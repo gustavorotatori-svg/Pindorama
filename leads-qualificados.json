@@ -1423,7 +1423,10 @@
     "sample_feedback": null,
     "next_followup": "2026-10-05",
     "deal_value": null,
-    "notes": ""
+    "notes": "",
+    "doNotContact": true,
+    "bounced": true,
+    "bounceDate": "2026-10-03"
   },
   {
     "name": "São Conrado Bar",
@@ -4291,7 +4294,10 @@
     "deal_value": null,
     "notes": "",
     "email1": true,
-    "date1": "2026-10-03"
+    "date1": "2026-10-03",
+    "doNotContact": true,
+    "bounced": true,
+    "bounceDate": "2026-10-03"
   },
   {
     "name": "Tortellini Restaurante e Pizzaria",
