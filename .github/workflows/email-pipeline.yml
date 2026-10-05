@@ -40,15 +40,6 @@ jobs:
         if: steps.npm-cache.outputs.cache-hit != 'true'
         run: npm ci --no-audit --no-fund
 
-      - name: Importar fila curada de bares de drinks
-        run: |
-          node pipeline.mjs --add-file leads-verificados-2026-08-12.json
-          node pipeline.mjs --add-file leads-verificados-2026-08-13-drinks.json
-          node pipeline.mjs --add-file leads-verificados-2026-08-14.json
-          node pipeline.mjs --add-file leads-verificados-2026-08-15-augusta.json
-          node pipeline.mjs --add-file leads-verificados-2026-08-15-cocktail-bars.json
-          node pipeline.mjs --add-file leads-verificados-2026-08-20-tripadvisor.json
-
       - name: Pipeline (somente destinatarios verificados + followups)
         run: node pipeline.mjs --all
 
