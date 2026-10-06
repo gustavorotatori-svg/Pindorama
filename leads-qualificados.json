@@ -5523,7 +5523,10 @@
     "sample_feedback": null,
     "next_followup": "2026-10-05",
     "deal_value": null,
-    "notes": ""
+    "notes": "",
+    "invalidEmail": true,
+    "invalidEmailReason": "permanent_recipient_error",
+    "invalidEmailDate": "2026-10-06"
   },
   {
     "name": "Boiadeiro Grill Diadema",
@@ -5705,7 +5708,10 @@
     "deal_value": null,
     "notes": "",
     "email1": true,
-    "date1": "2026-10-03"
+    "date1": "2026-10-03",
+    "invalidEmail": true,
+    "invalidEmailReason": "permanent_recipient_error",
+    "invalidEmailDate": "2026-10-06"
   },
   {
     "name": "Eulália Casa de Samba",
