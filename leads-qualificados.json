@@ -5859,5 +5859,21 @@
     "emailVerified": true,
     "emailSource": "https://distribuidorajg.com.br/distribuidora-de-bebidas-em-barueri/",
     "emailVerifiedAt": "2026-10-05"
+  },
+  {
+    "name": "All Shopping das Bebidas - Alphaville",
+    "type": "adega",
+    "neighborhood": "Alphaville",
+    "phone": "(11) 945481746",
+    "whatsapp": "(11) 945481746",
+    "email": "",
+    "emailVerified": false,
+    "email1": false,
+    "whatsappSent": true,
+    "whatsappDate": "2026-10-06",
+    "whatsappSource": "https://www.shoppingdasbebidas.com.br/",
+    "responded": true,
+    "responseDate": "2026-10-06",
+    "response": "Lead respondeu no WhatsApp e pediu para continuar contato no número (11) 945481746."
   }
 ]

@@ -1592,7 +1592,8 @@
     "evidence": "Site oficial ativo consultado em agosto de 2026 publica o WhatsApp empresarial, confirma operacao desde 2018, loja aberta de segunda a sabado, adega, destilados, cachacas, cervejas, eventos e degustacoes.",
     "verifiedAt": "2026-08-27",
     "notBefore": "2026-08-27",
-    "status": "queued"
+    "status": "sent",
+    "sentAt": "2026-10-06T19:38:30.221Z"
   },
   {
     "name": "Adega Don Green",
@@ -2167,7 +2168,8 @@
     "evidence": "Site oficial ativo consultado em 29/08/2026 confirma operacao em Sorocaba, CNPJ e endereco publicados, catalogo de cestas e presentes, pagina dedicada a presentes corporativos, entregas comerciais e WhatsApp empresarial. Fato: operacao ativa recente, varejo de presentes e cestas, atendimento corporativo, entrega e canal empresarial explicitamente publicados; resultados oficiais do catalogo mostram cestas com vinho. Inferencia: potencial para incluir a Pindorama em cestas premium e presentes corporativos com bebidas brasileiras.",
     "verifiedAt": "2026-08-29",
     "notBefore": "2026-08-29",
-    "status": "queued"
+    "status": "sent",
+    "sentAt": "2026-10-06T19:38:36.260Z"
   },
   {
     "name": "Adega Lisboa",
@@ -2178,7 +2180,8 @@
     "evidence": "Site oficial ativo consultado em 29/08/2026 confirma adega, distribuidora e delivery no Jardim Sao Guilherme, em Sorocaba, com whisky, vodka, cervejas, refrigerantes, destilados, vinhos e copoes preparados na hora; informa entrega rapida em Sorocaba e regiao, horario de segunda a domingo, endereco e telefone empresarial. Fato: operacao ativa recente, amplo mix de bebidas alcoolicas, destilados e vinhos, delivery, festas e canal empresarial publicados. Inferencia: perfil prioritario com recompra recorrente e potencial para testar a Pindorama no varejo, em doses e copoes.",
     "verifiedAt": "2026-08-29",
     "notBefore": "2026-08-29",
-    "status": "queued"
+    "status": "sent",
+    "sentAt": "2026-10-06T19:38:42.353Z"
   },
   {
     "name": "Emporio Laham",
@@ -2189,7 +2192,8 @@
     "evidence": "Diretorio comercial regional e guias empresariais consultados em 29/08/2026 confirmam operacao no Mercadao Campolim, em Sorocaba, com queijos, vinhos, massas artesanais, molhos, temperos e carnes nobres, alem de delivery e WhatsApp empresarial; cadastro empresarial recente confirma a empresa ativa e o mesmo telefone. Fato: operacao ativa recente, vinhos no mix, empório gourmet, delivery, endereco e canal empresarial publicados. Inferencia: publico de maior valor e combinacao com queijos favorecem teste e recompra da Pindorama como destilado brasileiro premium.",
     "verifiedAt": "2026-08-29",
     "notBefore": "2026-08-29",
-    "status": "queued"
+    "status": "sent",
+    "sentAt": "2026-10-06T19:38:48.435Z"
   },
   {
     "name": "Barracao da Cachaca",
@@ -2200,7 +2204,8 @@
     "evidence": "Site oficial ativo consultado em 29/08/2026 publica loja no Centro de Sorocaba, telefone empresarial e catalogo de cachacas artesanais de diferentes origens, estilos e madeiras, incluindo Salinas, jambu e produtos para degustacao ou presente; cadastro comercial atualizado em fevereiro de 2026 confirma fornecimento e representacao de bebidas, horario de segunda a sabado e sete anos de mercado. Fato: operacao ativa recente, especializacao em cachaca, variedade de produtores, varejo e representacao, endereco e canal empresarial publicados. Inferencia: comprador altamente aderente para avaliar a Pindorama como novo rotulo brasileiro premium no portfolio.",
     "verifiedAt": "2026-08-29",
     "notBefore": "2026-08-29",
-    "status": "queued"
+    "status": "sent",
+    "sentAt": "2026-10-06T19:38:54.425Z"
   },
   {
     "name": "TEREM Emporio",
@@ -2211,7 +2216,8 @@
     "evidence": "Site oficial ativo consultado em 29/08/2026 confirma e-commerce e empório em Sorocaba, CNPJ e telefone empresarial publicados, com categorias de vinhos tintos, brancos, roses, espumantes, doces e destilados, selecao de rotulos brasileiros e internacionais, kits, acessorios e promocoes vigentes. Fato: operacao ativa recente, venda online, destilados e amplo portfolio de vinhos, kits para presente, endereco e canal empresarial publicados. Inferencia: comprador de bebidas premium com potencial de testar a Pindorama no e-commerce, no empório e em kits.",
     "verifiedAt": "2026-08-29",
     "notBefore": "2026-08-29",
-    "status": "queued"
+    "status": "sent",
+    "sentAt": "2026-10-06T19:39:00.477Z"
   },
   {
     "name": "Crazy Hookah",
@@ -2222,7 +2228,8 @@
     "evidence": "Site oficial ativo consultado em 29/08/2026 confirma bar em Sorocaba com drinks e bebidas, ambiente climatizado, musica, reservas, eventos e aniversarios; publica endereco e link direto para WhatsApp empresarial, cujo destino confirma o numero registrado. Fato: operacao ativa recente, venda de drinks e bebidas, publico noturno, eventos, reservas, endereco e canal empresarial publicados. Inferencia: potencial para testar a Pindorama em caipirinhas ou drinks da casa e em comemoracoes.",
     "verifiedAt": "2026-08-29",
     "notBefore": "2026-08-29",
-    "status": "queued"
+    "status": "sent",
+    "sentAt": "2026-10-06T19:39:06.177Z"
   },
   {
     "name": "Adega Duarte",
@@ -2233,7 +2240,8 @@
     "evidence": "Perfil comercial atualizado em agosto de 2026 e diretorios empresariais consultados em 29/08/2026 confirmam adega e bar de vinhos em funcionamento diario em Sorocaba, com varias marcas de cerveja, consumo no local, retirada, delivery, musica ao vivo e festas de aniversario; endereco e numero celular empresarial coincidem entre as fontes. Fato: operacao ativa recente, bebidas alcoolicas, cervejas e vinhos, publico presencial, delivery, eventos e canal empresarial publicados. Inferencia: potencial de recompra e de testar a Pindorama no varejo ou servida em doses e drinks.",
     "verifiedAt": "2026-08-29",
     "notBefore": "2026-08-29",
-    "status": "queued"
+    "status": "sent",
+    "sentAt": "2026-10-06T19:39:11.872Z"
   },
   {
     "name": "Adega Sao Bento",
@@ -2255,7 +2263,8 @@
     "evidence": "Perfis comerciais e pagina de delivery consultados em 29/08/2026 confirmam bar e adega ativo em Sorocaba, classificado como bar de coqueteis, com cervejas, gin e outras bebidas no catalogo, consumo no local, retirada, delivery rapido, cardapio variado e telefone empresarial; o perfil foi atualizado em julho de 2026 e o iFood segue ativo. Fato: operacao ativa recente, bebidas alcoolicas e coqueteis, delivery, publico presencial, endereco e canal empresarial publicados. Inferencia: potencial para testar a Pindorama em drinks, doses e vendas da adega, com recompra apoiada pelo delivery.",
     "verifiedAt": "2026-08-29",
     "notBefore": "2026-08-29",
-    "status": "queued"
+    "status": "sent",
+    "sentAt": "2026-10-06T19:39:18.142Z"
   },
   {
     "name": "Adega Jr Lucci",
@@ -2266,7 +2275,8 @@
     "evidence": "Perfil comercial atualizado em agosto de 2026, inventario turistico municipal e guia de adegas consultados em 29/08/2026 confirmam adega e bar em funcionamento de terca a domingo em Sorocaba, com bebidas geladas, cervejas, espetinhos, consumo no local, retirada, delivery, musica ao vivo e festas de aniversario; endereco, Instagram e telefone empresarial coincidem entre as fontes. Fato: operacao ativa recente, varejo e consumo de bebidas alcoolicas, delivery, eventos, endereco e canal empresarial publicados. Inferencia: potencial para testar a Pindorama em doses, caipirinhas ou drinks e gerar recompra pelo movimento noturno.",
     "verifiedAt": "2026-08-29",
     "notBefore": "2026-08-29",
-    "status": "queued"
+    "status": "sent",
+    "sentAt": "2026-10-06T19:39:23.845Z"
   },
   {
     "name": "Adega do Vado",
@@ -2277,7 +2287,8 @@
     "evidence": "Perfis comerciais e cadastro empresarial consultados em 29/08/2026 confirmam adega ativa em Sorocaba desde 2009, classificada como loja de vinhos, fornecedora e atacadista de bebidas alcoolicas, com operacao de terca a domingo, delivery por iFood, Instagram e WhatsApp empresarial; Receita Federal consultada em 2026 confirma situacao ativa e comercio varejista de bebidas. Fato: operacao ativa recente, varejo e atacado de bebidas alcoolicas, delivery, longevidade e canal empresarial publicados. Inferencia: perfil prioritario com potencial de recompra e de incluir a Pindorama no mix da loja.",
     "verifiedAt": "2026-08-29",
     "notBefore": "2026-08-29",
-    "status": "queued"
+    "status": "sent",
+    "sentAt": "2026-10-06T19:39:29.828Z"
   },
   {
     "name": "Alpha Distribuidora",
@@ -2299,7 +2310,8 @@
     "evidence": "Site oficial consultado em 29/08/2026 publica unidade All Delivery em Alphaville/Barueri, endereco na Avenida Jurua 387, operacao com entrega e retirada em loja e WhatsApp empresarial. Fato: varejo e delivery de bebidas com unidade local e canal empresarial explicitamente publicados. Inferencia: perfil prioritario com potencial de incluir a Pindorama no mix e gerar recompra por loja e delivery.",
     "verifiedAt": "2026-08-29",
     "notBefore": "2026-08-31",
-    "status": "queued"
+    "status": "sent",
+    "sentAt": "2026-10-06T19:39:36.109Z"
   },
   {
     "name": "Adega do Graxa - Loja 01",
@@ -2310,7 +2322,8 @@
     "evidence": "Linktree oficial consultado em 29/08/2026, ativo desde 2024, publica duas lojas em Embu das Artes, operacao Adega 24 Horas do Graxa, delivery, enderecos, Instagram e WhatsApp direto da Loja 01. Fato: adega ativa, duas unidades, horario 24h, delivery e canal empresarial explicitamente publicado. Inferencia: perfil prioritario com potencial de recompra e de testar a Pindorama em varejo, doses e delivery.",
     "verifiedAt": "2026-08-29",
     "notBefore": "2026-08-31",
-    "status": "queued"
+    "status": "sent",
+    "sentAt": "2026-10-06T19:39:42.001Z"
   },
   {
     "name": "Nova Aguas da Serra",
@@ -2321,7 +2334,8 @@
     "evidence": "Site oficial consultado em 29/08/2026 confirma distribuidora ativa desde 2013, duas unidades em Itapecerica da Serra, catalogo com cervejas e destilados, entrega, clientes empresariais publicados e WhatsApp direto. Fato: operacao ativa recente, duas unidades, destilados vendidos, entrega e canal empresarial explicitamente publicado. Inferencia: potencial de compra recorrente e de incluir a Pindorama no portfolio das duas unidades.",
     "verifiedAt": "2026-08-29",
     "notBefore": "2026-08-31",
-    "status": "queued"
+    "status": "sent",
+    "sentAt": "2026-10-06T19:39:48.063Z"
   },
   {
     "name": "Adega Santo Gole",
@@ -2332,7 +2346,8 @@
     "evidence": "Site oficial consultado em 29/08/2026 confirma loja web aberta, unidade fisica no Centro de Mogi das Cruzes, delivery diario das 10h as 23h, entretenimento com sinuca, telefone empresarial e email de vendas publicados. Fato: operacao ativa recente, loja fisica e online, delivery diario, publico presencial e canal empresarial explicito. Inferencia: potencial para vender Pindorama em garrafa, doses ou drinks e gerar recompra pelo delivery e movimento da loja.",
     "verifiedAt": "2026-08-29",
     "notBefore": "2026-08-31",
-    "status": "queued"
+    "status": "sent",
+    "sentAt": "2026-10-06T19:39:53.887Z"
   },
   {
     "name": "GF Adega",
