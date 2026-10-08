@@ -1213,7 +1213,9 @@
     "sample_feedback": null,
     "next_followup": "2026-10-05",
     "deal_value": null,
-    "notes": ""
+    "notes": "",
+    "email2": true,
+    "date2": "2026-10-08"
   },
   {
     "name": "Armazém São Caetano",
@@ -1246,7 +1248,9 @@
     "sample_feedback": null,
     "next_followup": null,
     "deal_value": null,
-    "notes": ""
+    "notes": "",
+    "email1": true,
+    "date1": "2026-10-08"
   },
   {
     "name": "Paraibas Bar",
@@ -1281,7 +1285,9 @@
     "sample_feedback": null,
     "next_followup": "2026-10-05",
     "deal_value": null,
-    "notes": ""
+    "notes": "",
+    "email2": true,
+    "date2": "2026-10-08"
   },
   {
     "name": "One Bartender",
@@ -1318,7 +1324,9 @@
     "sample_feedback": null,
     "next_followup": "2026-10-05",
     "deal_value": null,
-    "notes": ""
+    "notes": "",
+    "email2": true,
+    "date2": "2026-10-08"
   },
   {
     "name": "Eu Tu Eles",
@@ -1353,7 +1361,9 @@
     "sample_feedback": null,
     "next_followup": "2026-10-05",
     "deal_value": null,
-    "notes": ""
+    "notes": "",
+    "email2": true,
+    "date2": "2026-10-08"
   },
   {
     "name": "Boteco São Bento",
@@ -1388,7 +1398,9 @@
     "sample_feedback": null,
     "next_followup": "2026-10-05",
     "deal_value": null,
-    "notes": ""
+    "notes": "",
+    "email2": true,
+    "date2": "2026-10-08"
   },
   {
     "name": "Pirajá",
@@ -1461,7 +1473,9 @@
     "sample_feedback": null,
     "next_followup": "2026-10-05",
     "deal_value": null,
-    "notes": ""
+    "notes": "",
+    "email2": true,
+    "date2": "2026-10-08"
   },
   {
     "name": "BAR MARTINA",
@@ -1496,7 +1510,9 @@
     "sample_feedback": null,
     "next_followup": "2026-10-05",
     "deal_value": null,
-    "notes": ""
+    "notes": "",
+    "email2": true,
+    "date2": "2026-10-08"
   },
   {
     "name": "Olívio Bar",
@@ -1531,7 +1547,9 @@
     "sample_feedback": null,
     "next_followup": "2026-10-05",
     "deal_value": null,
-    "notes": ""
+    "notes": "",
+    "email2": true,
+    "date2": "2026-10-08"
   },
   {
     "name": "Feirinha Bar",
@@ -1566,7 +1584,9 @@
     "sample_feedback": null,
     "next_followup": "2026-10-05",
     "deal_value": null,
-    "notes": ""
+    "notes": "",
+    "email2": true,
+    "date2": "2026-10-08"
   },
   {
     "name": "Praça São Lourenço",
@@ -1601,7 +1621,9 @@
     "sample_feedback": null,
     "next_followup": "2026-10-05",
     "deal_value": null,
-    "notes": ""
+    "notes": "",
+    "email2": true,
+    "date2": "2026-10-08"
   },
   {
     "name": "Bar Original",
@@ -1636,7 +1658,9 @@
     "sample_feedback": null,
     "next_followup": "2026-10-05",
     "deal_value": null,
-    "notes": ""
+    "notes": "",
+    "email2": true,
+    "date2": "2026-10-08"
   },
   {
     "name": "Villa Caetanos",
@@ -1709,7 +1733,9 @@
     "sample_feedback": null,
     "next_followup": "2026-10-05",
     "deal_value": null,
-    "notes": ""
+    "notes": "",
+    "email2": true,
+    "date2": "2026-10-08"
   },
   {
     "name": "G&T Bar",
@@ -1744,7 +1770,9 @@
     "deal_value": null,
     "notes": "",
     "email1": true,
-    "date1": "2026-10-03"
+    "date1": "2026-10-03",
+    "email2": true,
+    "date2": "2026-10-08"
   },
   {
     "name": "WixBar",
@@ -1779,7 +1807,9 @@
     "deal_value": null,
     "notes": "",
     "email1": true,
-    "date1": "2026-10-03"
+    "date1": "2026-10-03",
+    "email2": true,
+    "date2": "2026-10-08"
   },
   {
     "name": "703 Coquetelaria",
@@ -1814,7 +1844,9 @@
     "deal_value": null,
     "notes": "",
     "email1": true,
-    "date1": "2026-10-03"
+    "date1": "2026-10-03",
+    "email2": true,
+    "date2": "2026-10-08"
   },
   {
     "name": "Arte Vieira Coquetelaria",
@@ -1847,7 +1879,9 @@
     "sample_feedback": null,
     "next_followup": null,
     "deal_value": null,
-    "notes": ""
+    "notes": "",
+    "email1": true,
+    "date1": "2026-10-08"
   },
   {
     "name": "Drink Me Co.",
@@ -1880,7 +1914,9 @@
     "sample_feedback": null,
     "next_followup": null,
     "deal_value": null,
-    "notes": ""
+    "notes": "",
+    "email1": true,
+    "date1": "2026-10-08"
   },
   {
     "name": "Fancy Bar",
@@ -1913,7 +1949,9 @@
     "sample_feedback": null,
     "next_followup": null,
     "deal_value": null,
-    "notes": ""
+    "notes": "",
+    "email1": true,
+    "date1": "2026-10-08"
   },
   {
     "name": "Sarau Bar",
@@ -1949,7 +1987,9 @@
     "notes": "",
     "responded": true,
     "responseDate": "2026-10-06",
-    "response": "Marco Antonio (gerência) respondeu: já têm cachaças Pindorama em estoque. Lead já é cliente."
+    "response": "Marco Antonio (gerência) respondeu: já têm cachaças Pindorama em estoque. Lead já é cliente.",
+    "email1": true,
+    "date1": "2026-10-08"
   },
   {
     "name": "Lupe Bar e Restaurante",
@@ -1982,7 +2022,9 @@
     "sample_feedback": null,
     "next_followup": null,
     "deal_value": null,
-    "notes": ""
+    "notes": "",
+    "email1": true,
+    "date1": "2026-10-08"
   },
   {
     "name": "Pepper Drinks",
@@ -2015,7 +2057,9 @@
     "sample_feedback": null,
     "next_followup": null,
     "deal_value": null,
-    "notes": ""
+    "notes": "",
+    "email1": true,
+    "date1": "2026-10-08"
   },
   {
     "name": "Gaspar Bar e Praça",
@@ -2048,7 +2092,9 @@
     "sample_feedback": null,
     "next_followup": null,
     "deal_value": null,
-    "notes": ""
+    "notes": "",
+    "email1": true,
+    "date1": "2026-10-08"
   },
   {
     "name": "DOPA Bar",
@@ -2081,7 +2127,9 @@
     "sample_feedback": null,
     "next_followup": null,
     "deal_value": null,
-    "notes": ""
+    "notes": "",
+    "email1": true,
+    "date1": "2026-10-08"
   },
   {
     "name": "Buffet Uriel",
@@ -2114,7 +2162,9 @@
     "sample_feedback": null,
     "next_followup": null,
     "deal_value": null,
-    "notes": ""
+    "notes": "",
+    "email1": true,
+    "date1": "2026-10-08"
   },
   {
     "name": "Le Roof",
@@ -2147,7 +2197,9 @@
     "sample_feedback": null,
     "next_followup": null,
     "deal_value": null,
-    "notes": ""
+    "notes": "",
+    "email1": true,
+    "date1": "2026-10-08"
   },
   {
     "name": "Clube Outs",
@@ -2181,7 +2233,9 @@
     "sample_feedback": null,
     "next_followup": null,
     "deal_value": null,
-    "notes": ""
+    "notes": "",
+    "email1": true,
+    "date1": "2026-10-08"
   },
   {
     "name": "Bernadette - Casa da Dette",
@@ -2216,7 +2270,9 @@
     "sample_feedback": null,
     "next_followup": "2026-10-05",
     "deal_value": null,
-    "notes": ""
+    "notes": "",
+    "email2": true,
+    "date2": "2026-10-08"
   },
   {
     "name": "Habanero Bar",
@@ -2251,7 +2307,9 @@
     "sample_feedback": null,
     "next_followup": "2026-10-05",
     "deal_value": null,
-    "notes": ""
+    "notes": "",
+    "email2": true,
+    "date2": "2026-10-08"
   },
   {
     "name": "Santana Bar",
@@ -2286,7 +2344,9 @@
     "sample_feedback": null,
     "next_followup": "2026-10-05",
     "deal_value": null,
-    "notes": ""
+    "notes": "",
+    "email2": true,
+    "date2": "2026-10-08"
   },
   {
     "name": "Anexo Pinheiros",
@@ -2321,7 +2381,9 @@
     "sample_feedback": null,
     "next_followup": "2026-10-05",
     "deal_value": null,
-    "notes": ""
+    "notes": "",
+    "email2": true,
+    "date2": "2026-10-08"
   },
   {
     "name": "Tribal Bebidas Brasileiras",
@@ -2356,7 +2418,9 @@
     "sample_feedback": null,
     "next_followup": "2026-10-05",
     "deal_value": null,
-    "notes": ""
+    "notes": "",
+    "email2": true,
+    "date2": "2026-10-08"
   },
   {
     "name": "Alquimia Cocktail",
@@ -2391,7 +2455,9 @@
     "sample_feedback": null,
     "next_followup": "2026-10-05",
     "deal_value": null,
-    "notes": ""
+    "notes": "",
+    "email2": true,
+    "date2": "2026-10-08"
   },
   {
     "name": "New Cia Experience & Drinks",
@@ -2426,7 +2492,9 @@
     "sample_feedback": null,
     "next_followup": "2026-10-05",
     "deal_value": null,
-    "notes": ""
+    "notes": "",
+    "email2": true,
+    "date2": "2026-10-08"
   },
   {
     "name": "Feline Bartender",
@@ -2458,7 +2526,9 @@
     "sample_feedback": null,
     "next_followup": null,
     "deal_value": null,
-    "notes": ""
+    "notes": "",
+    "email1": true,
+    "date1": "2026-10-08"
   },
   {
     "name": "The View Bar",
@@ -2493,7 +2563,9 @@
     "sample_feedback": null,
     "next_followup": "2026-10-05",
     "deal_value": null,
-    "notes": ""
+    "notes": "",
+    "email2": true,
+    "date2": "2026-10-08"
   },
   {
     "name": "Elo Drinks",
@@ -2528,7 +2600,9 @@
     "sample_feedback": null,
     "next_followup": "2026-10-05",
     "deal_value": null,
-    "notes": ""
+    "notes": "",
+    "email2": true,
+    "date2": "2026-10-08"
   },
   {
     "name": "Drink Bartenders",
@@ -2563,7 +2637,9 @@
     "sample_feedback": null,
     "next_followup": "2026-10-05",
     "deal_value": null,
-    "notes": ""
+    "notes": "",
+    "email2": true,
+    "date2": "2026-10-08"
   },
   {
     "name": "Brazen Bar",
@@ -2598,7 +2674,9 @@
     "sample_feedback": null,
     "next_followup": "2026-10-05",
     "deal_value": null,
-    "notes": ""
+    "notes": "",
+    "email2": true,
+    "date2": "2026-10-08"
   },
   {
     "name": "R&M Bartenders",
@@ -2633,7 +2711,9 @@
     "sample_feedback": null,
     "next_followup": "2026-10-05",
     "deal_value": null,
-    "notes": ""
+    "notes": "",
+    "email2": true,
+    "date2": "2026-10-08"
   },
   {
     "name": "Damasco Bar e Drinks",
@@ -2668,7 +2748,9 @@
     "sample_feedback": null,
     "next_followup": "2026-10-05",
     "deal_value": null,
-    "notes": ""
+    "notes": "",
+    "email2": true,
+    "date2": "2026-10-08"
   },
   {
     "name": "APTK Spirits Eventos",
@@ -2703,7 +2785,9 @@
     "sample_feedback": null,
     "next_followup": "2026-10-05",
     "deal_value": null,
-    "notes": ""
+    "notes": "",
+    "email2": true,
+    "date2": "2026-10-08"
   },
   {
     "name": "Top Mais Drinks",
@@ -2736,7 +2820,9 @@
     "sample_feedback": null,
     "next_followup": null,
     "deal_value": null,
-    "notes": ""
+    "notes": "",
+    "email1": true,
+    "date1": "2026-10-08"
   },
   {
     "name": "Chapa Drinks",
@@ -2768,7 +2854,9 @@
     "sample_feedback": null,
     "next_followup": null,
     "deal_value": null,
-    "notes": ""
+    "notes": "",
+    "email1": true,
+    "date1": "2026-10-08"
   },
   {
     "name": "Casa Oliver",
@@ -2800,7 +2888,9 @@
     "sample_feedback": null,
     "next_followup": null,
     "deal_value": null,
-    "notes": ""
+    "notes": "",
+    "email1": true,
+    "date1": "2026-10-08"
   },
   {
     "name": "VIP Drinks",
@@ -2833,7 +2923,9 @@
     "sample_feedback": null,
     "next_followup": null,
     "deal_value": null,
-    "notes": ""
+    "notes": "",
+    "email1": true,
+    "date1": "2026-10-08"
   },
   {
     "name": "Primal Bartenders",
@@ -2866,7 +2958,9 @@
     "sample_feedback": null,
     "next_followup": null,
     "deal_value": null,
-    "notes": ""
+    "notes": "",
+    "email1": true,
+    "date1": "2026-10-08"
   },
   {
     "name": "Drinks Bartender",
@@ -2898,7 +2992,9 @@
     "sample_feedback": null,
     "next_followup": null,
     "deal_value": null,
-    "notes": ""
+    "notes": "",
+    "email1": true,
+    "date1": "2026-10-08"
   },
   {
     "name": "WDG Events",
@@ -2931,7 +3027,9 @@
     "sample_feedback": null,
     "next_followup": null,
     "deal_value": null,
-    "notes": ""
+    "notes": "",
+    "email1": true,
+    "date1": "2026-10-08"
   },
   {
     "name": "ShowBartenders",
@@ -2966,7 +3064,9 @@
     "sample_feedback": null,
     "next_followup": "2026-10-05",
     "deal_value": null,
-    "notes": ""
+    "notes": "",
+    "email2": true,
+    "date2": "2026-10-08"
   },
   {
     "name": "Doja Producoes",
@@ -2998,7 +3098,9 @@
     "sample_feedback": null,
     "next_followup": null,
     "deal_value": null,
-    "notes": ""
+    "notes": "",
+    "email1": true,
+    "date1": "2026-10-08"
   },
   {
     "name": "DCE Coquetelaria",
@@ -3033,7 +3135,9 @@
     "sample_feedback": null,
     "next_followup": "2026-10-05",
     "deal_value": null,
-    "notes": ""
+    "notes": "",
+    "email2": true,
+    "date2": "2026-10-08"
   },
   {
     "name": "Connect Bartenders",
@@ -3068,7 +3172,9 @@
     "sample_feedback": null,
     "next_followup": "2026-10-05",
     "deal_value": null,
-    "notes": ""
+    "notes": "",
+    "email2": true,
+    "date2": "2026-10-08"
   },
   {
     "name": "Sky Hall Terrace Bar",
@@ -3170,7 +3276,9 @@
     "sample_feedback": null,
     "next_followup": null,
     "deal_value": null,
-    "notes": ""
+    "notes": "",
+    "email1": true,
+    "date1": "2026-10-08"
   },
   {
     "name": "Conceito Bar",
@@ -3237,7 +3345,9 @@
     "sample_feedback": null,
     "next_followup": null,
     "deal_value": null,
-    "notes": ""
+    "notes": "",
+    "email1": true,
+    "date1": "2026-10-08"
   },
   {
     "name": "Agari Drinks",
@@ -3340,7 +3450,9 @@
     "sample_feedback": null,
     "next_followup": null,
     "deal_value": null,
-    "notes": ""
+    "notes": "",
+    "email1": true,
+    "date1": "2026-10-08"
   },
   {
     "name": "Urbana Coquetelaria",
@@ -3372,7 +3484,9 @@
     "sample_feedback": null,
     "next_followup": null,
     "deal_value": null,
-    "notes": ""
+    "notes": "",
+    "email1": true,
+    "date1": "2026-10-08"
   },
   {
     "name": "Dbartenders",
@@ -3475,7 +3589,9 @@
     "sample_feedback": null,
     "next_followup": null,
     "deal_value": null,
-    "notes": ""
+    "notes": "",
+    "email1": true,
+    "date1": "2026-10-08"
   },
   {
     "name": "Casa Hibrida",
@@ -3543,7 +3659,9 @@
     "sample_feedback": null,
     "next_followup": null,
     "deal_value": null,
-    "notes": ""
+    "notes": "",
+    "email1": true,
+    "date1": "2026-10-08"
   },
   {
     "name": "All Party Eventos",
@@ -3609,7 +3727,9 @@
     "sample_feedback": null,
     "next_followup": null,
     "deal_value": null,
-    "notes": ""
+    "notes": "",
+    "email1": true,
+    "date1": "2026-10-08"
   },
   {
     "name": "Bar2Go",
@@ -3677,7 +3797,9 @@
     "sample_feedback": null,
     "next_followup": null,
     "deal_value": null,
-    "notes": ""
+    "notes": "",
+    "email1": true,
+    "date1": "2026-10-08"
   },
   {
     "name": "XBAR",
@@ -3850,7 +3972,9 @@
     "sample_feedback": null,
     "next_followup": null,
     "deal_value": null,
-    "notes": ""
+    "notes": "",
+    "email1": true,
+    "date1": "2026-10-08"
   },
   {
     "name": "Recanto Santa Rita",
@@ -3883,7 +4007,9 @@
     "sample_feedback": null,
     "next_followup": null,
     "deal_value": null,
-    "notes": ""
+    "notes": "",
+    "email1": true,
+    "date1": "2026-10-08"
   },
   {
     "name": "Barman Para Festas",
@@ -4056,7 +4182,9 @@
     "sample_feedback": null,
     "next_followup": null,
     "deal_value": null,
-    "notes": ""
+    "notes": "",
+    "email1": true,
+    "date1": "2026-10-08"
   },
   {
     "name": "Brasil Bartender",
@@ -4194,7 +4322,9 @@
     "sample_feedback": null,
     "next_followup": null,
     "deal_value": null,
-    "notes": ""
+    "notes": "",
+    "email1": true,
+    "date1": "2026-10-08"
   },
   {
     "name": "Villa BBM Gastrobar",
@@ -4227,7 +4357,9 @@
     "sample_feedback": null,
     "next_followup": null,
     "deal_value": null,
-    "notes": ""
+    "notes": "",
+    "email1": true,
+    "date1": "2026-10-08"
   },
   {
     "name": "The Black Horse",
@@ -4333,7 +4465,9 @@
     "sample_feedback": null,
     "next_followup": null,
     "deal_value": null,
-    "notes": ""
+    "notes": "",
+    "email1": true,
+    "date1": "2026-10-08"
   },
   {
     "name": "O Posto Bar e Restaurante",
@@ -4436,7 +4570,9 @@
     "sample_feedback": null,
     "next_followup": null,
     "deal_value": null,
-    "notes": ""
+    "notes": "",
+    "email1": true,
+    "date1": "2026-10-08"
   },
   {
     "name": "Alemão Bar e Bistrô",
@@ -4469,7 +4605,9 @@
     "sample_feedback": null,
     "next_followup": null,
     "deal_value": null,
-    "notes": ""
+    "notes": "",
+    "email1": true,
+    "date1": "2026-10-08"
   },
   {
     "name": "Bendita Areia",
@@ -4502,7 +4640,9 @@
     "sample_feedback": null,
     "next_followup": null,
     "deal_value": null,
-    "notes": ""
+    "notes": "",
+    "email1": true,
+    "date1": "2026-10-08"
   },
   {
     "name": "Lig Chopp Germânia Barueri",
@@ -4920,7 +5060,9 @@
     "sample_feedback": null,
     "next_followup": null,
     "deal_value": null,
-    "notes": ""
+    "notes": "",
+    "email1": true,
+    "date1": "2026-10-08"
   },
   {
     "name": "Restaurante Cantinho do Tempero Jandira",
@@ -4953,7 +5095,9 @@
     "sample_feedback": null,
     "next_followup": null,
     "deal_value": null,
-    "notes": ""
+    "notes": "",
+    "email1": true,
+    "date1": "2026-10-08"
   },
   {
     "name": "A Quinta do Mirante",
@@ -4986,7 +5130,9 @@
     "sample_feedback": null,
     "next_followup": null,
     "deal_value": null,
-    "notes": ""
+    "notes": "",
+    "email1": true,
+    "date1": "2026-10-08"
   },
   {
     "name": "Savana Alphaville",
@@ -5019,7 +5165,9 @@
     "sample_feedback": null,
     "next_followup": null,
     "deal_value": null,
-    "notes": ""
+    "notes": "",
+    "email1": true,
+    "date1": "2026-10-08"
   },
   {
     "name": "Pacha Pizza Bar",
@@ -5087,7 +5235,9 @@
     "sample_feedback": null,
     "next_followup": null,
     "deal_value": null,
-    "notes": ""
+    "notes": "",
+    "email1": true,
+    "date1": "2026-10-08"
   },
   {
     "name": "Zao Sushi Taboão",
@@ -5120,7 +5270,9 @@
     "sample_feedback": null,
     "next_followup": null,
     "deal_value": null,
-    "notes": ""
+    "notes": "",
+    "email1": true,
+    "date1": "2026-10-08"
   },
   {
     "name": "Rápido Chopp Taboão da Serra",
@@ -5223,7 +5375,9 @@
     "sample_feedback": null,
     "next_followup": null,
     "deal_value": null,
-    "notes": ""
+    "notes": "",
+    "email1": true,
+    "date1": "2026-10-08"
   },
   {
     "name": "Gaia Restaurante",
@@ -5256,7 +5410,9 @@
     "sample_feedback": null,
     "next_followup": null,
     "deal_value": null,
-    "notes": ""
+    "notes": "",
+    "email1": true,
+    "date1": "2026-10-08"
   },
   {
     "name": "Cantinho do Luiz",
@@ -5289,7 +5445,9 @@
     "sample_feedback": null,
     "next_followup": null,
     "deal_value": null,
-    "notes": ""
+    "notes": "",
+    "email1": true,
+    "date1": "2026-10-08"
   },
   {
     "name": "Fahrenheit JK Iguatemi",
@@ -5322,7 +5480,9 @@
     "sample_feedback": null,
     "next_followup": null,
     "deal_value": null,
-    "notes": ""
+    "notes": "",
+    "email1": true,
+    "date1": "2026-10-08"
   },
   {
     "name": "Seen Restaurant & Bar",
@@ -5374,7 +5534,9 @@
     "source": "https://eulaliasamba.com.br/",
     "emailVerified": true,
     "emailSource": "https://eulaliasamba.com.br/",
-    "emailVerifiedAt": "2026-10-05"
+    "emailVerifiedAt": "2026-10-05",
+    "email1": true,
+    "date1": "2026-10-08"
   },
   {
     "name": "Come Here Restaurante",
@@ -5388,7 +5550,9 @@
     "source": "https://pracasaolourenco.com.br/",
     "emailVerified": true,
     "emailSource": "https://pracasaolourenco.com.br/",
-    "emailVerifiedAt": "2026-10-05"
+    "emailVerifiedAt": "2026-10-05",
+    "email2": true,
+    "date2": "2026-10-08"
   },
   {
     "name": "Itarema Bar e Restaurante",
@@ -5402,7 +5566,10 @@
     "source": "https://facebook.com/1544510642546394",
     "emailVerified": true,
     "emailSource": "https://facebook.com/1544510642546394",
-    "emailVerifiedAt": "2026-10-05"
+    "emailVerifiedAt": "2026-10-05",
+    "invalidEmail": true,
+    "invalidEmailReason": "domain_without_mx",
+    "invalidEmailDate": "2026-10-08"
   },
   {
     "name": "Caipirinha do Famoso",
@@ -5416,7 +5583,10 @@
     "source": "https://facebook.com/111300648494807",
     "emailVerified": true,
     "emailSource": "https://facebook.com/111300648494807",
-    "emailVerifiedAt": "2026-10-05"
+    "emailVerifiedAt": "2026-10-05",
+    "invalidEmail": true,
+    "invalidEmailReason": "domain_without_mx",
+    "invalidEmailDate": "2026-10-08"
   },
   {
     "name": "FB Point das Caipirinhas",
@@ -5430,7 +5600,10 @@
     "source": "https://wa.me/5511985378145",
     "emailVerified": true,
     "emailSource": "https://wa.me/5511985378145",
-    "emailVerifiedAt": "2026-10-05"
+    "emailVerifiedAt": "2026-10-05",
+    "invalidEmail": true,
+    "invalidEmailReason": "domain_without_mx",
+    "invalidEmailDate": "2026-10-08"
   },
   {
     "name": "Caipirinha da Espumas",
@@ -5444,7 +5617,10 @@
     "source": "https://instagram.com/caipirinha_da_espumas",
     "emailVerified": true,
     "emailSource": "https://instagram.com/caipirinha_da_espumas",
-    "emailVerifiedAt": "2026-10-05"
+    "emailVerifiedAt": "2026-10-05",
+    "invalidEmail": true,
+    "invalidEmailReason": "domain_without_mx",
+    "invalidEmailDate": "2026-10-08"
   },
   {
     "name": "Adega Beer",
@@ -5458,7 +5634,10 @@
     "source": "https://www.guiatelefone.com/barueri-sp/distribuidores-de-alimentos-e-bebidas/2658949/adega-beer",
     "emailVerified": true,
     "emailSource": "https://www.guiatelefone.com/barueri-sp/distribuidores-de-alimentos-e-bebidas/2658949/adega-beer",
-    "emailVerifiedAt": "2026-10-05"
+    "emailVerifiedAt": "2026-10-05",
+    "invalidEmail": true,
+    "invalidEmailReason": "domain_without_mx",
+    "invalidEmailDate": "2026-10-08"
   },
   {
     "name": "Adega Paulista",
@@ -5472,7 +5651,9 @@
     "source": "https://www.diariocidade.com/sp/barueri/guia/adega-paulista-45565299000160/",
     "emailVerified": true,
     "emailSource": "https://www.diariocidade.com/sp/barueri/guia/adega-paulista-45565299000160/",
-    "emailVerifiedAt": "2026-10-05"
+    "emailVerifiedAt": "2026-10-05",
+    "email1": true,
+    "date1": "2026-10-08"
   },
   {
     "name": "JG Bebidas Barueri",
@@ -5486,7 +5667,9 @@
     "source": "https://distribuidorajg.com.br/distribuidora-de-bebidas-em-barueri/",
     "emailVerified": true,
     "emailSource": "https://distribuidorajg.com.br/distribuidora-de-bebidas-em-barueri/",
-    "emailVerifiedAt": "2026-10-05"
+    "emailVerifiedAt": "2026-10-05",
+    "email2": true,
+    "date2": "2026-10-08"
   },
   {
     "name": "All Shopping das Bebidas - Alphaville",
@@ -5535,7 +5718,8 @@
     "mxVerified": true,
     "phone": "(11) 3628-0699 / (11) 97150-7043",
     "template": "consultivo",
-    "email1": false
+    "email1": true,
+    "date1": "2026-10-08"
   },
   {
     "name": "Fazenda Capoava",
@@ -5551,7 +5735,8 @@
     "mxVerified": true,
     "phone": "(11) 2118-4100 / (11) 2118-4142 / (11) 91407-6803",
     "template": "consultivo",
-    "email1": false
+    "email1": true,
+    "date1": "2026-10-08"
   },
   {
     "name": "Hotel Fazenda Vale do Sol",
@@ -5567,7 +5752,8 @@
     "mxVerified": true,
     "phone": "(19) 3842-9800 / (19) 4040-4257",
     "template": "consultivo",
-    "email1": false
+    "email1": true,
+    "date1": "2026-10-08"
   },
   {
     "name": "Hotel Fazenda Morada do Verde",
@@ -5583,7 +5769,8 @@
     "mxVerified": true,
     "phone": "(11) 4812-9800 / (11) 99160-8909",
     "template": "consultivo",
-    "email1": false
+    "email1": true,
+    "date1": "2026-10-08"
   },
   {
     "name": "Hotel Pousada Jaguariúna",
@@ -5599,7 +5786,8 @@
     "mxVerified": true,
     "phone": "(19) 3837-1557 / 9776-494 / 9779-7030",
     "template": "consultivo",
-    "email1": false
+    "email1": true,
+    "date1": "2026-10-08"
   },
   {
     "name": "Hotel Estância Atibainha",
@@ -5615,7 +5803,8 @@
     "mxVerified": true,
     "phone": "(11) 2075-7200",
     "template": "consultivo",
-    "email1": false
+    "email1": true,
+    "date1": "2026-10-08"
   },
   {
     "name": "Pousada Fazenda Maristela",
@@ -5631,7 +5820,8 @@
     "mxVerified": true,
     "phone": "(11) 99928-9229",
     "template": "consultivo",
-    "email1": false
+    "email1": true,
+    "date1": "2026-10-08"
   },
   {
     "name": "Pouso Abaré",
@@ -5647,7 +5837,8 @@
     "mxVerified": true,
     "phone": "(12) 3042-2875",
     "template": "consultivo",
-    "email1": false
+    "email1": true,
+    "date1": "2026-10-08"
   },
   {
     "name": "Hotel Pousada Vivendas do Sol e Mar",
@@ -5663,7 +5854,8 @@
     "mxVerified": true,
     "phone": "(12) 3884-2998 / (12) 99641-7662",
     "template": "consultivo",
-    "email1": false
+    "email1": true,
+    "date1": "2026-10-08"
   },
   {
     "name": "Ubatuba Praia Hotel",
@@ -5679,7 +5871,8 @@
     "mxVerified": true,
     "phone": "(12) 99205-8111",
     "template": "consultivo",
-    "email1": false
+    "email1": true,
+    "date1": "2026-10-08"
   },
   {
     "name": "Buffet Vó Landa",
@@ -5695,7 +5888,8 @@
     "mxVerified": true,
     "phone": "(15) 3233-4455",
     "template": "consultivo",
-    "email1": false
+    "email1": true,
+    "date1": "2026-10-08"
   },
   {
     "name": "Buffet Sorocaba",
@@ -5711,7 +5905,8 @@
     "mxVerified": true,
     "phone": "(15) 99133-0093",
     "template": "consultivo",
-    "email1": false
+    "email1": true,
+    "date1": "2026-10-08"
   },
   {
     "name": "Buffet Rocha's",
@@ -5727,7 +5922,8 @@
     "mxVerified": true,
     "phone": "(19) 97413-0190",
     "template": "consultivo",
-    "email1": false
+    "email1": true,
+    "date1": "2026-10-08"
   },
   {
     "name": "Angelino's Buffet",
@@ -5743,7 +5939,8 @@
     "mxVerified": true,
     "phone": "(19) 98109-5032",
     "template": "consultivo",
-    "email1": false
+    "email1": true,
+    "date1": "2026-10-08"
   },
   {
     "name": "Suprema",
@@ -5759,7 +5956,8 @@
     "mxVerified": true,
     "phone": "(16) 99714-4806",
     "template": "consultivo",
-    "email1": false
+    "email1": true,
+    "date1": "2026-10-08"
   },
   {
     "name": "BDL Alimentação",
@@ -5775,7 +5973,8 @@
     "mxVerified": true,
     "phone": "(14) 3202-6144 / (14) 99895-2850",
     "template": "consultivo",
-    "email1": false
+    "email1": true,
+    "date1": "2026-10-08"
   },
   {
     "name": "Kentinha Refeições",
@@ -5791,7 +5990,8 @@
     "mxVerified": true,
     "phone": "(19) 3845-4539 / (19) 99884-2148",
     "template": "consultivo",
-    "email1": false
+    "email1": true,
+    "date1": "2026-10-08"
   },
   {
     "name": "Restaurante Olímpia",
@@ -5807,6 +6007,7 @@
     "mxVerified": true,
     "phone": "(13) 3237-6416 / (13) 3239-1575 / (13) 99717-4599",
     "template": "consultivo",
-    "email1": false
+    "email1": true,
+    "date1": "2026-10-08"
   }
 ]
