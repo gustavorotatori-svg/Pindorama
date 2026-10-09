@@ -280,7 +280,10 @@
     "sample_feedback": null,
     "next_followup": null,
     "deal_value": null,
-    "notes": ""
+    "notes": "",
+    "whatsappSent": true,
+    "whatsappDate": "2026-10-09",
+    "whatsappSource": "https://cardapio.datacaixa.com.br/loja%3D12164"
   },
   {
     "name": "Adega Joinha",
@@ -6083,7 +6086,33 @@
     "mxVerified": true,
     "phone": "(13) 3237-6416 / (13) 3239-1575 / (13) 99717-4599",
     "template": "consultivo",
+<<<<<<< HEAD
     "email1": true,
     "date1": "2026-10-08"
+=======
+    "email1": false
+  },
+  {
+    "name": "Cesta Premium",
+    "type": "catering",
+    "email": "contato@cestapremium.com.br",
+    "neighborhood": "",
+    "city": "",
+    "context": "Cesta de presente/bebidas. Lead respondeu via WhatsApp e pediu email.",
+    "website": "",
+    "emailVerified": true,
+    "emailSource": "https://api.whatsapp.com/",
+    "emailVerifiedAt": "2026-10-08",
+    "mxVerified": true,
+    "phone": "(11) 94551-8264",
+    "whatsapp": "(11) 94551-8264",
+    "template": "consultivo",
+    "email1": true,
+    "whatsappSent": true,
+    "whatsappDate": "2026-10-08",
+    "date1": "2026-10-08",
+    "responded": true,
+    "responseDate": "2026-10-08"
+>>>>>>> 82bd8bc (leads: Cesta Premium email1 + WA 15/15 enviados 09/10)
   }
 ]

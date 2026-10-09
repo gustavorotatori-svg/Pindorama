@@ -2604,7 +2604,8 @@
     "evidence": "Pagina empresarial local consultada em 30/08/2026 confirma bar e restaurante ativo no Jardim Guedala, com mais de cem rotulos de cachacas artesanais, drinks, petiscos, horario recente, endereco e WhatsApp empresarial publicado. Fato: operacao ativa, carta extensa de cachacas artesanais, consumo no local e canal empresarial explicito. Inferencia: encaixe muito forte para degustacao da Pindorama, inclusao por dose ou garrafa e recompra pelo giro de uma casa especializada.",
     "verifiedAt": "2026-08-30",
     "notBefore": "2026-08-31",
-    "status": "queued"
+    "status": "sent",
+    "sentAt": "2026-10-09T13:10:07.888Z"
   },
   {
     "name": "Casa Zilanna Mercearia Idish",
@@ -2626,7 +2627,8 @@
     "evidence": "Pagina comercial atualizada consultada em 30/08/2026 confirma adega ativa em Braganca Paulista, com venda e delivery proprio de cervejas, gin, whisky, vodka, cachaca e outros destilados, alem de WhatsApp empresarial publicado. Fato: operacao ativa recente, venda explicita de cachaca, delivery, ponto fisico e canal empresarial publicados. Inferencia: encaixe direto para testar a Pindorama no mix de garrafas e doses, com potencial de recompra pelo giro do delivery e do balcao.",
     "verifiedAt": "2026-08-30",
     "notBefore": "2026-08-31",
-    "status": "queued"
+    "status": "sent",
+    "sentAt": "2026-10-09T13:10:14.485Z"
   },
   {
     "name": "Emporio Paulista Produtos Artesanais",
@@ -2637,7 +2639,8 @@
     "evidence": "Loja oficial consultada em 30/08/2026 confirma e-commerce ativo em 2026 voltado a produtos artesanais de Serra Negra, com categoria propria de cachacas, kits premium, varios rotulos com preco e compra online, alem de WhatsApp empresarial publicado. Fato: operacao ativa recente, venda explicita de cachacas e kits, e-commerce transacional e canal empresarial publicado. Inferencia: encaixe forte para avaliar a Pindorama como novo rotulo artesanal e item de kit, com recompra apoiada pelo alcance online.",
     "verifiedAt": "2026-08-30",
     "notBefore": "2026-08-31",
-    "status": "queued"
+    "status": "sent",
+    "sentAt": "2026-10-09T13:10:20.769Z"
   },
   {
     "name": "Emporio Bella Mattina",
@@ -2648,7 +2651,8 @@
     "evidence": "Portal oficial de Turismo de Jundiai e cadastro ativo consultados em 30/08/2026 confirmam emporio de produtos artesanais em operacao no bairro Traviu, com vinhos, sucos, licores, cachacas, massas artesanais e WhatsApp empresarial publicado. Fato: operacao ativa recente, venda explicita de cachacas e produtos regionais, ponto fisico e canal empresarial verificados. Inferencia: encaixe plausivel para a Pindorama como produto regional premium e item de presente, com recompra apoiada pelo fluxo de turismo rural e pelo emporio.",
     "verifiedAt": "2026-08-30",
     "notBefore": "2026-08-31",
-    "status": "queued"
+    "status": "sent",
+    "sentAt": "2026-10-09T13:10:26.983Z"
   },
   {
     "name": "Don Fernandes",
@@ -2659,7 +2663,8 @@
     "evidence": "Site oficial consultado em 30/08/2026 confirma loja online especializada em cachacas de alambique premium, kits para presente e acessorios, com entrega nacional, empresa verificada pelo Procon SP e WhatsApp empresarial publicado. Fato: operacao ativa recente, venda explicita de cachacas premium e kits, e-commerce transacional e canal empresarial verificado. Inferencia: encaixe muito forte para avaliar a Pindorama como novo rotulo artesanal e item de presente, com potencial de recompra apoiado pelo alcance nacional.",
     "verifiedAt": "2026-08-30",
     "notBefore": "2026-08-31",
-    "status": "queued"
+    "status": "sent",
+    "sentAt": "2026-10-09T13:10:33.791Z"
   },
   {
     "name": "Sabor da Fonte",
@@ -2670,7 +2675,8 @@
     "evidence": "Site oficial consultado em 30/08/2026 confirma e-commerce ativo de produtos artesanais brasileiros, categoria de cachacas, kits de degustacao com diferentes rotulos, avaliacoes de 2026 e WhatsApp empresarial publicado. Fato: operacao ativa recente, venda de cachacas e kits, territorio valido e canal empresarial verificado. Inferencia: encaixe forte para a Pindorama como rotulo artesanal e item de kit, com potencial de recompra no varejo online.",
     "verifiedAt": "2026-08-30",
     "notBefore": "2026-08-31",
-    "status": "queued"
+    "status": "sent",
+    "sentAt": "2026-10-09T13:10:40.316Z"
   },
   {
     "name": "Bicho Bebe Bebidas",
@@ -2681,7 +2687,8 @@
     "evidence": "Cardapio empresarial consultado em 30/08/2026 confirma distribuidora ativa em Cotia, CNPJ publicado, delivery, retirada, categorias de cachacas, destilados, drinks prontos e WhatsApp empresarial. Fato: operacao ativa recente, venda explicita de cachacas, territorio valido e canal empresarial verificado. Inferencia: encaixe direto para a Pindorama no mix de delivery e balcao, com potencial de recompra pelo giro recorrente de bebidas.",
     "verifiedAt": "2026-08-30",
     "notBefore": "2026-08-31",
-    "status": "queued"
+    "status": "sent",
+    "sentAt": "2026-10-09T13:10:47.172Z"
   },
   {
     "name": "Adega e Tabacaria Itaquera",
@@ -2692,7 +2699,8 @@
     "evidence": "Catalogo digital empresarial rastreado em 01/09/2026 confirma adega e tabacaria em Itaquera com bebidas, delivery, categoria explicita de cachaca e WhatsApp empresarial publicado. Fato: territorio valido, canal empresarial publicado e venda comprovada de cachaca. Inferencia: aderencia plausivel para testar a Pindorama no mix da adega e no delivery recorrente.",
     "verifiedAt": "2026-09-01",
     "notBefore": "2026-09-01",
-    "status": "queued"
+    "status": "sent",
+    "sentAt": "2026-10-09T13:10:54.031Z"
   },
   {
     "name": "Locale Caffé (Compras Carla)",
@@ -2703,7 +2711,8 @@
     "evidence": "Resposta da empresa via WhatsApp (08/09): depto compras com Carla, +55 11 93491-9261.",
     "verifiedAt": "2026-09-08",
     "notBefore": "2026-09-08",
-    "status": "queued"
+    "status": "sent",
+    "sentAt": "2026-10-09T13:11:00.783Z"
   },
   {
     "name": "Baños Bebidas",
@@ -2714,7 +2723,8 @@
     "evidence": "Site oficial de distribuidora de bebidas em Campinas, Ponte Preta. WhatsApp (19) 99426-2433 / (19) 3325-2945.",
     "verifiedAt": "2026-10-01",
     "notBefore": "2026-10-01",
-    "status": "queued"
+    "status": "sent",
+    "sentAt": "2026-10-09T13:11:07.621Z"
   },
   {
     "name": "Casa da Feijoada Sorocaba",
@@ -2725,7 +2735,8 @@
     "evidence": "Site oficial de feijoada em Sorocaba, entregas qui/sab/dom. WhatsApp (15) 99266-7945.",
     "verifiedAt": "2026-10-01",
     "notBefore": "2026-10-01",
-    "status": "queued"
+    "status": "sent",
+    "sentAt": "2026-10-09T13:11:14.222Z"
   },
   {
     "name": "Candreva Bar",
@@ -2736,7 +2747,8 @@
     "evidence": "Bar mais tradicional de Campinas desde 1964, 5 unidades, feijoada e torresmo. Tel (19) 98388-1760 / (19) 3232-7361.",
     "verifiedAt": "2026-10-01",
     "notBefore": "2026-10-01",
-    "status": "queued"
+    "status": "sent",
+    "sentAt": "2026-10-09T13:11:20.964Z"
   },
   {
     "name": "Boró Botequim",
@@ -2747,7 +2759,8 @@
     "evidence": "Botequim em Campinas (Av. Palmital, 129), feijoada, pet friendly. Tel (19) 98330-5573.",
     "verifiedAt": "2026-10-01",
     "notBefore": "2026-10-01",
-    "status": "queued"
+    "status": "sent",
+    "sentAt": "2026-10-09T13:11:27.132Z"
   },
   {
     "name": "Emporio e Cachaçaria Amburana",
@@ -2758,7 +2771,8 @@
     "evidence": "Maior loja de cachaça do Brasil, 2000+ rótulos. Tel (19) 3258-4726.",
     "verifiedAt": "2026-10-01",
     "notBefore": "2026-10-01",
-    "status": "queued"
+    "status": "sent",
+    "sentAt": "2026-10-09T13:11:33.330Z"
   },
   {
     "name": "Empório D Primeiro",
@@ -2769,7 +2783,8 @@
     "evidence": "Empório em Campinas, Rua São Bento 140. Tel (19) 99713-3853.",
     "verifiedAt": "2026-10-01",
     "notBefore": "2026-10-01",
-    "status": "queued"
+    "status": "sent",
+    "sentAt": "2026-10-09T13:11:39.931Z"
   },
   {
     "name": "Edú Bar de Minas",
