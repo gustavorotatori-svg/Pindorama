@@ -6246,5 +6246,42 @@
     "template": "consultivo",
     "email1": true,
     "date1": "2026-10-09"
+  },
+  {
+    "name": "Adega Caldeira Drink's e Tabacaria",
+    "type": "adega",
+    "neighborhood": "",
+    "city": "",
+    "email": "",
+    "phone": "(11) 98247-4637",
+    "whatsapp": "(11) 98247-4637",
+    "whatsappSent": true,
+    "whatsappDate": "2026-10-09",
+    "responded": true,
+    "responseDate": "2026-10-09",
+    "response": "Lead respondeu: não tem interesse. Não contatar novamente.",
+    "doNotContact": true,
+    "sdr_stage": "contatado",
+    "sdr_last_activity": "2026-10-09",
+    "email1": false
+  },
+  {
+    "name": "Quintal da Casemiro",
+    "type": "bar",
+    "neighborhood": "",
+    "city": "",
+    "email": "",
+    "phone": "(11) 97455-2604",
+    "whatsapp": "(11) 97455-2604",
+    "whatsappSent": true,
+    "whatsappDate": "2026-09-26",
+    "email1": false,
+    "responded": true,
+    "responseDate": "2026-10-09",
+    "response": "Lead respondeu: está fechado no momento. Falar com Marcia (11) 97455-2604.",
+    "sdr_stage": "contatado",
+    "sdr_last_activity": "2026-10-09",
+    "sdr_next_action": "Ligar para Marcia (11) 97455-2604",
+    "sdr_next_action_date": "2026-10-10"
   }
 ]
