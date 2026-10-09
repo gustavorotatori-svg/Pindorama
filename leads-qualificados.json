@@ -6125,7 +6125,8 @@
     "emailVerifiedAt": "2026-10-09",
     "mxVerified": true,
     "template": "consultivo",
-    "email1": false
+    "email1": true,
+    "date1": "2026-10-09"
   },
   {
     "name": "Adega Zaidan",
@@ -6141,7 +6142,8 @@
     "emailVerifiedAt": "2026-10-09",
     "mxVerified": true,
     "template": "consultivo",
-    "email1": false
+    "email1": true,
+    "date1": "2026-10-09"
   },
   {
     "name": "Adega Escalada",
@@ -6157,7 +6159,8 @@
     "emailVerifiedAt": "2026-10-09",
     "mxVerified": true,
     "template": "consultivo",
-    "email1": false
+    "email1": true,
+    "date1": "2026-10-09"
   },
   {
     "name": "Bar Adega Distribuidora",
@@ -6173,7 +6176,8 @@
     "emailVerifiedAt": "2026-10-09",
     "mxVerified": true,
     "template": "consultivo",
-    "email1": false
+    "email1": true,
+    "date1": "2026-10-09"
   },
   {
     "name": "Adega Dantas Distribuidora",
@@ -6189,7 +6193,8 @@
     "emailVerifiedAt": "2026-10-09",
     "mxVerified": true,
     "template": "consultivo",
-    "email1": false
+    "email1": true,
+    "date1": "2026-10-09"
   },
   {
     "name": "Adega Bosque Distribuidora",
@@ -6205,7 +6210,8 @@
     "emailVerifiedAt": "2026-10-09",
     "mxVerified": true,
     "template": "consultivo",
-    "email1": false
+    "email1": true,
+    "date1": "2026-10-09"
   },
   {
     "name": "MM Adega e Distribuidora",
@@ -6221,7 +6227,8 @@
     "emailVerifiedAt": "2026-10-09",
     "mxVerified": true,
     "template": "consultivo",
-    "email1": false
+    "email1": true,
+    "date1": "2026-10-09"
   },
   {
     "name": "Adega e Distribuidora Marques",
@@ -6237,6 +6244,7 @@
     "emailVerifiedAt": "2026-10-09",
     "mxVerified": true,
     "template": "consultivo",
-    "email1": false
+    "email1": true,
+    "date1": "2026-10-09"
   }
 ]
