@@ -1253,7 +1253,9 @@
     "deal_value": null,
     "notes": "",
     "email1": true,
-    "date1": "2026-10-08"
+    "date1": "2026-10-08",
+    "email2": true,
+    "date2": "2026-10-09"
   },
   {
     "name": "Paraibas Bar",
@@ -1884,7 +1886,9 @@
     "deal_value": null,
     "notes": "",
     "email1": true,
-    "date1": "2026-10-08"
+    "date1": "2026-10-08",
+    "email2": true,
+    "date2": "2026-10-09"
   },
   {
     "name": "Drink Me Co.",
@@ -1919,7 +1923,9 @@
     "deal_value": null,
     "notes": "",
     "email1": true,
-    "date1": "2026-10-08"
+    "date1": "2026-10-08",
+    "email2": true,
+    "date2": "2026-10-09"
   },
   {
     "name": "Fancy Bar",
@@ -1954,7 +1960,9 @@
     "deal_value": null,
     "notes": "",
     "email1": true,
-    "date1": "2026-10-08"
+    "date1": "2026-10-08",
+    "email2": true,
+    "date2": "2026-10-09"
   },
   {
     "name": "Sarau Bar",
@@ -2027,7 +2035,9 @@
     "deal_value": null,
     "notes": "",
     "email1": true,
-    "date1": "2026-10-08"
+    "date1": "2026-10-08",
+    "email2": true,
+    "date2": "2026-10-09"
   },
   {
     "name": "Pepper Drinks",
@@ -2062,7 +2072,9 @@
     "deal_value": null,
     "notes": "",
     "email1": true,
-    "date1": "2026-10-08"
+    "date1": "2026-10-08",
+    "email2": true,
+    "date2": "2026-10-09"
   },
   {
     "name": "Gaspar Bar e Praça",
@@ -2097,7 +2109,9 @@
     "deal_value": null,
     "notes": "",
     "email1": true,
-    "date1": "2026-10-08"
+    "date1": "2026-10-08",
+    "email2": true,
+    "date2": "2026-10-09"
   },
   {
     "name": "DOPA Bar",
@@ -2132,7 +2146,9 @@
     "deal_value": null,
     "notes": "",
     "email1": true,
-    "date1": "2026-10-08"
+    "date1": "2026-10-08",
+    "email2": true,
+    "date2": "2026-10-09"
   },
   {
     "name": "Buffet Uriel",
@@ -2167,7 +2183,9 @@
     "deal_value": null,
     "notes": "",
     "email1": true,
-    "date1": "2026-10-08"
+    "date1": "2026-10-08",
+    "email2": true,
+    "date2": "2026-10-09"
   },
   {
     "name": "Le Roof",
@@ -2202,7 +2220,9 @@
     "deal_value": null,
     "notes": "",
     "email1": true,
-    "date1": "2026-10-08"
+    "date1": "2026-10-08",
+    "email2": true,
+    "date2": "2026-10-09"
   },
   {
     "name": "Clube Outs",
@@ -2238,7 +2258,9 @@
     "deal_value": null,
     "notes": "",
     "email1": true,
-    "date1": "2026-10-08"
+    "date1": "2026-10-08",
+    "email2": true,
+    "date2": "2026-10-09"
   },
   {
     "name": "Bernadette - Casa da Dette",
@@ -2531,7 +2553,9 @@
     "deal_value": null,
     "notes": "",
     "email1": true,
-    "date1": "2026-10-08"
+    "date1": "2026-10-08",
+    "email2": true,
+    "date2": "2026-10-09"
   },
   {
     "name": "The View Bar",
@@ -2825,7 +2849,9 @@
     "deal_value": null,
     "notes": "",
     "email1": true,
-    "date1": "2026-10-08"
+    "date1": "2026-10-08",
+    "email2": true,
+    "date2": "2026-10-09"
   },
   {
     "name": "Chapa Drinks",
@@ -2859,7 +2885,9 @@
     "deal_value": null,
     "notes": "",
     "email1": true,
-    "date1": "2026-10-08"
+    "date1": "2026-10-08",
+    "email2": true,
+    "date2": "2026-10-09"
   },
   {
     "name": "Casa Oliver",
@@ -2893,7 +2921,9 @@
     "deal_value": null,
     "notes": "",
     "email1": true,
-    "date1": "2026-10-08"
+    "date1": "2026-10-08",
+    "email2": true,
+    "date2": "2026-10-09"
   },
   {
     "name": "VIP Drinks",
@@ -2928,7 +2958,9 @@
     "deal_value": null,
     "notes": "",
     "email1": true,
-    "date1": "2026-10-08"
+    "date1": "2026-10-08",
+    "email2": true,
+    "date2": "2026-10-09"
   },
   {
     "name": "Primal Bartenders",
@@ -2963,7 +2995,9 @@
     "deal_value": null,
     "notes": "",
     "email1": true,
-    "date1": "2026-10-08"
+    "date1": "2026-10-08",
+    "email2": true,
+    "date2": "2026-10-09"
   },
   {
     "name": "Drinks Bartender",
@@ -2997,7 +3031,9 @@
     "deal_value": null,
     "notes": "",
     "email1": true,
-    "date1": "2026-10-08"
+    "date1": "2026-10-08",
+    "email2": true,
+    "date2": "2026-10-09"
   },
   {
     "name": "WDG Events",
@@ -3032,7 +3068,9 @@
     "deal_value": null,
     "notes": "",
     "email1": true,
-    "date1": "2026-10-08"
+    "date1": "2026-10-08",
+    "email2": true,
+    "date2": "2026-10-09"
   },
   {
     "name": "ShowBartenders",
@@ -3103,7 +3141,9 @@
     "deal_value": null,
     "notes": "",
     "email1": true,
-    "date1": "2026-10-08"
+    "date1": "2026-10-08",
+    "email2": true,
+    "date2": "2026-10-09"
   },
   {
     "name": "DCE Coquetelaria",
@@ -3285,7 +3325,9 @@
     "deal_value": null,
     "notes": "",
     "email1": true,
-    "date1": "2026-10-08"
+    "date1": "2026-10-08",
+    "email2": true,
+    "date2": "2026-10-09"
   },
   {
     "name": "Conceito Bar",
@@ -3356,7 +3398,9 @@
     "deal_value": null,
     "notes": "",
     "email1": true,
-    "date1": "2026-10-08"
+    "date1": "2026-10-08",
+    "email2": true,
+    "date2": "2026-10-09"
   },
   {
     "name": "Agari Drinks",
@@ -3465,7 +3509,9 @@
     "deal_value": null,
     "notes": "",
     "email1": true,
-    "date1": "2026-10-08"
+    "date1": "2026-10-08",
+    "email2": true,
+    "date2": "2026-10-09"
   },
   {
     "name": "Urbana Coquetelaria",
@@ -3499,7 +3545,9 @@
     "deal_value": null,
     "notes": "",
     "email1": true,
-    "date1": "2026-10-08"
+    "date1": "2026-10-08",
+    "email2": true,
+    "date2": "2026-10-09"
   },
   {
     "name": "Dbartenders",
@@ -3608,7 +3656,9 @@
     "deal_value": null,
     "notes": "",
     "email1": true,
-    "date1": "2026-10-08"
+    "date1": "2026-10-08",
+    "email2": true,
+    "date2": "2026-10-09"
   },
   {
     "name": "Casa Hibrida",
@@ -3680,7 +3730,9 @@
     "deal_value": null,
     "notes": "",
     "email1": true,
-    "date1": "2026-10-08"
+    "date1": "2026-10-08",
+    "email2": true,
+    "date2": "2026-10-09"
   },
   {
     "name": "All Party Eventos",
@@ -3748,7 +3800,9 @@
     "deal_value": null,
     "notes": "",
     "email1": true,
-    "date1": "2026-10-08"
+    "date1": "2026-10-08",
+    "email2": true,
+    "date2": "2026-10-09"
   },
   {
     "name": "Bar2Go",
@@ -3820,7 +3874,9 @@
     "deal_value": null,
     "notes": "",
     "email1": true,
-    "date1": "2026-10-08"
+    "date1": "2026-10-08",
+    "email2": true,
+    "date2": "2026-10-09"
   },
   {
     "name": "XBAR",
@@ -4003,7 +4059,9 @@
     "deal_value": null,
     "notes": "",
     "email1": true,
-    "date1": "2026-10-08"
+    "date1": "2026-10-08",
+    "email2": true,
+    "date2": "2026-10-09"
   },
   {
     "name": "Recanto Santa Rita",
@@ -4038,7 +4096,9 @@
     "deal_value": null,
     "notes": "",
     "email1": true,
-    "date1": "2026-10-08"
+    "date1": "2026-10-08",
+    "email2": true,
+    "date2": "2026-10-09"
   },
   {
     "name": "Barman Para Festas",
@@ -4221,7 +4281,9 @@
     "deal_value": null,
     "notes": "",
     "email1": true,
-    "date1": "2026-10-08"
+    "date1": "2026-10-08",
+    "email2": true,
+    "date2": "2026-10-09"
   },
   {
     "name": "Brasil Bartender",
@@ -4367,7 +4429,9 @@
     "deal_value": null,
     "notes": "",
     "email1": true,
-    "date1": "2026-10-08"
+    "date1": "2026-10-08",
+    "email2": true,
+    "date2": "2026-10-09"
   },
   {
     "name": "Villa BBM Gastrobar",
@@ -4402,7 +4466,9 @@
     "deal_value": null,
     "notes": "",
     "email1": true,
-    "date1": "2026-10-08"
+    "date1": "2026-10-08",
+    "email2": true,
+    "date2": "2026-10-09"
   },
   {
     "name": "The Black Horse",
@@ -4512,7 +4578,9 @@
     "deal_value": null,
     "notes": "",
     "email1": true,
-    "date1": "2026-10-08"
+    "date1": "2026-10-08",
+    "email2": true,
+    "date2": "2026-10-09"
   },
   {
     "name": "O Posto Bar e Restaurante",
@@ -4621,7 +4689,9 @@
     "deal_value": null,
     "notes": "",
     "email1": true,
-    "date1": "2026-10-08"
+    "date1": "2026-10-08",
+    "email2": true,
+    "date2": "2026-10-09"
   },
   {
     "name": "Alemão Bar e Bistrô",
@@ -4656,7 +4726,9 @@
     "deal_value": null,
     "notes": "",
     "email1": true,
-    "date1": "2026-10-08"
+    "date1": "2026-10-08",
+    "email2": true,
+    "date2": "2026-10-09"
   },
   {
     "name": "Bendita Areia",
@@ -4691,7 +4763,9 @@
     "deal_value": null,
     "notes": "",
     "email1": true,
-    "date1": "2026-10-08"
+    "date1": "2026-10-08",
+    "email2": true,
+    "date2": "2026-10-09"
   },
   {
     "name": "Lig Chopp Germânia Barueri",
@@ -5133,7 +5207,9 @@
     "deal_value": null,
     "notes": "",
     "email1": true,
-    "date1": "2026-10-08"
+    "date1": "2026-10-08",
+    "email2": true,
+    "date2": "2026-10-09"
   },
   {
     "name": "Restaurante Cantinho do Tempero Jandira",
@@ -5168,7 +5244,9 @@
     "deal_value": null,
     "notes": "",
     "email1": true,
-    "date1": "2026-10-08"
+    "date1": "2026-10-08",
+    "email2": true,
+    "date2": "2026-10-09"
   },
   {
     "name": "A Quinta do Mirante",
@@ -5203,7 +5281,9 @@
     "deal_value": null,
     "notes": "",
     "email1": true,
-    "date1": "2026-10-08"
+    "date1": "2026-10-08",
+    "email2": true,
+    "date2": "2026-10-09"
   },
   {
     "name": "Savana Alphaville",
@@ -5238,7 +5318,9 @@
     "deal_value": null,
     "notes": "",
     "email1": true,
-    "date1": "2026-10-08"
+    "date1": "2026-10-08",
+    "email2": true,
+    "date2": "2026-10-09"
   },
   {
     "name": "Pacha Pizza Bar",
@@ -5310,7 +5392,9 @@
     "deal_value": null,
     "notes": "",
     "email1": true,
-    "date1": "2026-10-08"
+    "date1": "2026-10-08",
+    "email2": true,
+    "date2": "2026-10-09"
   },
   {
     "name": "Zao Sushi Taboão",
@@ -5345,7 +5429,9 @@
     "deal_value": null,
     "notes": "",
     "email1": true,
-    "date1": "2026-10-08"
+    "date1": "2026-10-08",
+    "email2": true,
+    "date2": "2026-10-09"
   },
   {
     "name": "Rápido Chopp Taboão da Serra",
@@ -5454,7 +5540,9 @@
     "deal_value": null,
     "notes": "",
     "email1": true,
-    "date1": "2026-10-08"
+    "date1": "2026-10-08",
+    "email2": true,
+    "date2": "2026-10-09"
   },
   {
     "name": "Gaia Restaurante",
@@ -5489,7 +5577,9 @@
     "deal_value": null,
     "notes": "",
     "email1": true,
-    "date1": "2026-10-08"
+    "date1": "2026-10-08",
+    "email2": true,
+    "date2": "2026-10-09"
   },
   {
     "name": "Cantinho do Luiz",
@@ -5524,7 +5614,9 @@
     "deal_value": null,
     "notes": "",
     "email1": true,
-    "date1": "2026-10-08"
+    "date1": "2026-10-08",
+    "email2": true,
+    "date2": "2026-10-09"
   },
   {
     "name": "Fahrenheit JK Iguatemi",
@@ -5559,7 +5651,9 @@
     "deal_value": null,
     "notes": "",
     "email1": true,
-    "date1": "2026-10-08"
+    "date1": "2026-10-08",
+    "email2": true,
+    "date2": "2026-10-09"
   },
   {
     "name": "Seen Restaurant & Bar",
@@ -5615,7 +5709,9 @@
     "emailSource": "https://eulaliasamba.com.br/",
     "emailVerifiedAt": "2026-10-05",
     "email1": true,
-    "date1": "2026-10-08"
+    "date1": "2026-10-08",
+    "email2": true,
+    "date2": "2026-10-09"
   },
   {
     "name": "Come Here Restaurante",
@@ -5732,7 +5828,9 @@
     "emailSource": "https://www.diariocidade.com/sp/barueri/guia/adega-paulista-45565299000160/",
     "emailVerifiedAt": "2026-10-05",
     "email1": true,
-    "date1": "2026-10-08"
+    "date1": "2026-10-08",
+    "email2": true,
+    "date2": "2026-10-09"
   },
   {
     "name": "JG Bebidas Barueri",
@@ -5798,7 +5896,9 @@
     "phone": "(11) 3628-0699 / (11) 97150-7043",
     "template": "consultivo",
     "email1": true,
-    "date1": "2026-10-08"
+    "date1": "2026-10-08",
+    "email2": true,
+    "date2": "2026-10-09"
   },
   {
     "name": "Fazenda Capoava",
@@ -5815,7 +5915,9 @@
     "phone": "(11) 2118-4100 / (11) 2118-4142 / (11) 91407-6803",
     "template": "consultivo",
     "email1": true,
-    "date1": "2026-10-08"
+    "date1": "2026-10-08",
+    "email2": true,
+    "date2": "2026-10-09"
   },
   {
     "name": "Hotel Fazenda Vale do Sol",
@@ -5832,7 +5934,9 @@
     "phone": "(19) 3842-9800 / (19) 4040-4257",
     "template": "consultivo",
     "email1": true,
-    "date1": "2026-10-08"
+    "date1": "2026-10-08",
+    "email2": true,
+    "date2": "2026-10-09"
   },
   {
     "name": "Hotel Fazenda Morada do Verde",
@@ -5849,7 +5953,9 @@
     "phone": "(11) 4812-9800 / (11) 99160-8909",
     "template": "consultivo",
     "email1": true,
-    "date1": "2026-10-08"
+    "date1": "2026-10-08",
+    "email2": true,
+    "date2": "2026-10-09"
   },
   {
     "name": "Hotel Pousada Jaguariúna",
@@ -5866,7 +5972,9 @@
     "phone": "(19) 3837-1557 / 9776-494 / 9779-7030",
     "template": "consultivo",
     "email1": true,
-    "date1": "2026-10-08"
+    "date1": "2026-10-08",
+    "email2": true,
+    "date2": "2026-10-09"
   },
   {
     "name": "Hotel Estância Atibainha",
