@@ -40939,11 +40939,12 @@
     "date1": "2026-09-15",
     "email1": true,
     "email2": true,
-    "email3": false,
+    "email3": true,
     "emailVerified": true,
     "emailSource": "https://guiapj.com.br/consulta-cnpj/43061850000102",
     "emailVerifiedAt": "2026-09-15",
-    "date2": "2026-09-20"
+    "date2": "2026-09-20",
+    "date3": "2026-10-10"
   },
   {
     "name": "KL Distribuidora de Bebidas",
@@ -40955,11 +40956,12 @@
     "date1": "2026-09-15",
     "email1": true,
     "email2": true,
-    "email3": false,
+    "email3": true,
     "emailVerified": true,
     "emailSource": "https://guiapj.com.br/consulta-cnpj/50730826000184",
     "emailVerifiedAt": "2026-09-15",
-    "date2": "2026-09-20"
+    "date2": "2026-09-20",
+    "date3": "2026-10-10"
   },
   {
     "name": "Adega Iuri Lima",
@@ -40990,11 +40992,12 @@
     "date1": "2026-09-15",
     "email1": true,
     "email2": true,
-    "email3": false,
+    "email3": true,
     "emailVerified": true,
     "emailSource": "https://guiapj.com.br/consulta-cnpj/00119392000102",
     "emailVerifiedAt": "2026-09-15",
-    "date2": "2026-09-20"
+    "date2": "2026-09-20",
+    "date3": "2026-10-10"
   },
   {
     "name": "Santropa Bebidas",
@@ -41044,11 +41047,12 @@
     "date1": "2026-09-15",
     "email1": true,
     "email2": true,
-    "email3": false,
+    "email3": true,
     "emailVerified": true,
     "emailSource": "https://cnpj.tradexa.com.br/61713745000192",
     "emailVerifiedAt": "2026-09-15",
-    "date2": "2026-09-20"
+    "date2": "2026-09-20",
+    "date3": "2026-10-10"
   },
   {
     "name": "Andrea Nunes Bebidas",
@@ -41060,11 +41064,12 @@
     "date1": "2026-09-15",
     "email1": true,
     "email2": true,
-    "email3": false,
+    "email3": true,
     "emailVerified": true,
     "emailSource": "https://cnpj.tradexa.com.br/27157422000121",
     "emailVerifiedAt": "2026-09-15",
-    "date2": "2026-09-20"
+    "date2": "2026-09-20",
+    "date3": "2026-10-10"
   },
   {
     "name": "AABJ Comercio de Bebidas",
@@ -41075,11 +41080,12 @@
     "context": "comercio varejista de bebidas na Rua Nova Jerusalem 164, Chacara Santo Antonio, Sao Paulo (SP), tel (11) 8896-4972",
     "date1": "2026-09-15",
     "email1": true,
-    "email2": false,
+    "email2": true,
     "email3": false,
     "emailVerified": true,
     "emailSource": "https://guiapj.com.br/consulta-cnpj/40339563000123",
-    "emailVerifiedAt": "2026-09-15"
+    "emailVerifiedAt": "2026-09-15",
+    "date2": "2026-10-10"
   },
   {
     "name": "Adega Skinao",
@@ -41090,11 +41096,12 @@
     "context": "comercio varejista de bebidas na Rua Frei Atanasio Maatman 580, Vila Sao Paulo, Mogi das Cruzes (SP), tel (11) 99328-7880",
     "date1": "2026-09-15",
     "email1": true,
-    "email2": false,
+    "email2": true,
     "email3": false,
     "emailVerified": true,
     "emailSource": "https://guiapj.com.br/consulta-cnpj/54847274000140",
-    "emailVerifiedAt": "2026-09-15"
+    "emailVerifiedAt": "2026-09-15",
+    "date2": "2026-10-10"
   },
   {
     "name": "Adega Davila Formosa",
@@ -41105,11 +41112,12 @@
     "context": "comercio varejista de bebidas na Travessa Aldabra 8171, Vila Formosa, Sao Paulo (SP)",
     "date1": "2026-09-15",
     "email1": true,
-    "email2": false,
+    "email2": true,
     "email3": false,
     "emailVerified": true,
     "emailSource": "https://guiapj.com.br/consulta-cnpj/53645349000147",
-    "emailVerifiedAt": "2026-09-15"
+    "emailVerifiedAt": "2026-09-15",
+    "date2": "2026-10-10"
   },
   {
     "name": "Brasil Aguas Distribuidora",
@@ -41120,11 +41128,12 @@
     "context": "distribuidora de bebidas na Av Augusto Barassa 1351, Jardim Silvestre I, Amparo (SP), tel (11) 4038-0303",
     "date1": "2026-09-15",
     "email1": true,
-    "email2": false,
+    "email2": true,
     "email3": false,
     "emailVerified": true,
     "emailSource": "https://guiapj.com.br/consulta-cnpj/38152306000136",
-    "emailVerifiedAt": "2026-09-15"
+    "emailVerifiedAt": "2026-09-15",
+    "date2": "2026-10-10"
   },
   {
     "name": "JVF Adega",
@@ -41135,11 +41144,12 @@
     "context": "comercio atacadista de bebidas na Rua dos Calangos 373, Parque Doroteia, Sao Paulo (SP), tel (11) 6023-7285",
     "date1": "2026-09-15",
     "email1": true,
-    "email2": false,
+    "email2": true,
     "email3": false,
     "emailVerified": true,
     "emailSource": "https://guiapj.com.br/consulta-cnpj/58283426000180",
-    "emailVerifiedAt": "2026-09-15"
+    "emailVerifiedAt": "2026-09-15",
+    "date2": "2026-10-10"
   },
   {
     "name": "Distribuidora e Comercio Jessica",
@@ -41210,11 +41220,12 @@
     "context": "comercio atacadista de cerveja, chope e refrigerante, Av Roberto Pinto Sobrinho 181, Indl Mazzei, Osasco (SP), tel (11) 99240-6688",
     "date1": "2026-09-15",
     "email1": true,
-    "email2": false,
+    "email2": true,
     "email3": false,
     "emailVerified": true,
     "emailSource": "https://guiapj.com.br/consulta-cnpj/62184266000199",
-    "emailVerifiedAt": "2026-09-15"
+    "emailVerifiedAt": "2026-09-15",
+    "date2": "2026-10-10"
   },
   {
     "name": "Xibata Bebidas",
@@ -41225,11 +41236,12 @@
     "context": "Xibata Distribuidora de Produtos e Bebidas, comercio atacadista de bebidas, Rua Maria Paula Motta 684, Jardim Presidente Dutra, Guarulhos (SP), tel (11) 2440-8259",
     "date1": "2026-09-15",
     "email1": true,
-    "email2": false,
+    "email2": true,
     "email3": false,
     "emailVerified": true,
     "emailSource": "https://guiapj.com.br/consulta-cnpj/54086896000100",
-    "emailVerifiedAt": "2026-09-15"
+    "emailVerifiedAt": "2026-09-15",
+    "date2": "2026-10-10"
   },
   {
     "name": "BR JC Distribuidora de Bebidas",
@@ -41240,11 +41252,12 @@
     "context": "BR JC Distribuicao de Bebidas, Alameda Rio Negro 503 Sala 2020, Alphaville Centro Industrial, Barueri (SP), tel (13) 98849-2613",
     "date1": "2026-09-15",
     "email1": true,
-    "email2": false,
+    "email2": true,
     "email3": false,
     "emailVerified": true,
     "emailSource": "https://guiapj.com.br/consulta-cnpj/59696961000125",
-    "emailVerifiedAt": "2026-09-15"
+    "emailVerifiedAt": "2026-09-15",
+    "date2": "2026-10-10"
   },
   {
     "name": "MH Atacadista",
@@ -41255,11 +41268,12 @@
     "context": "comercio atacadista de cerveja, chope e refrigerante, Rua Itaparantim 789, Jardim Presidente Dutra, Guarulhos (SP), tel (11) 4210-1778",
     "date1": "2026-09-15",
     "email1": true,
-    "email2": false,
+    "email2": true,
     "email3": false,
     "emailVerified": true,
     "emailSource": "https://guiapj.com.br/consulta-cnpj/37973882000181",
-    "emailVerifiedAt": "2026-09-15"
+    "emailVerifiedAt": "2026-09-15",
+    "date2": "2026-10-10"
   },
   {
     "name": "Santa Adega II",
@@ -41270,11 +41284,12 @@
     "context": "Santa Adega Comercio de Bebidas (filial Santa Adega II), comercio varejista de bebidas, Av Francisco Monteiro 1256, Santana, Ribeirao Pires (SP), tel (11) 97577-1734",
     "date1": "2026-09-15",
     "email1": true,
-    "email2": false,
+    "email2": true,
     "email3": false,
     "emailVerified": true,
     "emailSource": "https://guiapj.com.br/consulta-cnpj/37729965000200",
-    "emailVerifiedAt": "2026-09-15"
+    "emailVerifiedAt": "2026-09-15",
+    "date2": "2026-10-10"
   },
   {
     "name": "Lions Bebidas em Geral",
@@ -41285,11 +41300,12 @@
     "context": "comercio varejista de bebidas, Av Benvenuto Bagnara 522, Jardim Zaira, Maua (SP), tel (11) 4436-0780",
     "date1": "2026-09-15",
     "email1": true,
-    "email2": false,
+    "email2": true,
     "email3": false,
     "emailVerified": true,
     "emailSource": "https://guiapj.com.br/consulta-cnpj/62551823000162",
-    "emailVerifiedAt": "2026-09-15"
+    "emailVerifiedAt": "2026-09-15",
+    "date2": "2026-10-10"
   },
   {
     "name": "JP Carvalho Adega e Distribuidora de Bebidas",
@@ -41300,11 +41316,12 @@
     "context": "comercio varejista de bebidas, Rua SD Dona Catarina s/n, Dona Catarina, Mairinque (SP), tel (11) 3384-1040",
     "date1": "2026-09-15",
     "email1": true,
-    "email2": false,
+    "email2": true,
     "email3": false,
     "emailVerified": true,
     "emailSource": "https://guiapj.com.br/consulta-cnpj/13093404000119",
-    "emailVerifiedAt": "2026-09-15"
+    "emailVerifiedAt": "2026-09-15",
+    "date2": "2026-10-10"
   },
   {
     "name": "DPJ Comercio de Bebidas e Graos",
@@ -41315,11 +41332,12 @@
     "context": "comercio varejista de bebidas, Rua Dr David Zoilo Morandini 805, Jardim Paulista II, Jundiai (SP), tel (11) 6863-3450",
     "date1": "2026-09-15",
     "email1": true,
-    "email2": false,
+    "email2": true,
     "email3": false,
     "emailVerified": true,
     "emailSource": "https://guiapj.com.br/consulta-cnpj/40247281000104",
-    "emailVerifiedAt": "2026-09-15"
+    "emailVerifiedAt": "2026-09-15",
+    "date2": "2026-10-10"
   },
   {
     "name": "AR Adega",
@@ -41330,11 +41348,12 @@
     "context": "comercio atacadista de bebidas, Rua Laura Jacques Garcia 234, Jardim Palmira, Guarulhos (SP), tel (11) 99991-3957",
     "date1": "2026-09-15",
     "email1": true,
-    "email2": false,
+    "email2": true,
     "email3": false,
     "emailVerified": true,
     "emailSource": "https://guiapj.com.br/consulta-cnpj/59711038000115",
-    "emailVerifiedAt": "2026-09-15"
+    "emailVerifiedAt": "2026-09-15",
+    "date2": "2026-10-10"
   },
   {
     "name": "J A Teixeira Distribuidora de Bebidas",
@@ -41345,11 +41364,12 @@
     "context": "comercio varejista de bebidas com atacado secundario, Jardim Sao Carlos, Zona Leste, Sao Paulo (SP), tel (11) 4141-3112",
     "date1": "2026-09-15",
     "email1": true,
-    "email2": false,
+    "email2": true,
     "email3": false,
     "emailVerified": true,
     "emailSource": "https://databrasil.net/empresas/46730433000101-J-A-TEIXEIRA-DISTRIBUIDORA-DE-BEBIDAS-ATACADO-E-VAREJO-LIMITADA",
-    "emailVerifiedAt": "2026-09-15"
+    "emailVerifiedAt": "2026-09-15",
+    "date2": "2026-10-10"
   },
   {
     "name": "Emporio Vila Sao Paulo",
@@ -41360,11 +41380,12 @@
     "context": "Emporio Vila Sao Paulo, comercio varejista de bebidas com fracionamento secundario, Vila Sao Paulo, Sao Paulo (SP), tel (11) 2344-8100",
     "date1": "2026-09-15",
     "email1": true,
-    "email2": false,
+    "email2": true,
     "email3": false,
     "emailVerified": true,
     "emailSource": "https://databrasil.net/empresas/39994647000111-EMPORIO-VILA-SAO-PAULO-LTDA",
-    "emailVerifiedAt": "2026-09-15"
+    "emailVerifiedAt": "2026-09-15",
+    "date2": "2026-10-10"
   },
   {
     "name": "StoreBeer Comercio de Bebidas",
@@ -41375,11 +41396,12 @@
     "context": "StoreBeer, comercio atacadista de cerveja, chope e refrigerante, Vila Ursulina, Itaquaquecetuba (SP), tel (11) 4649-0244",
     "date1": "2026-09-15",
     "email1": true,
-    "email2": false,
+    "email2": true,
     "email3": false,
     "emailVerified": true,
     "emailSource": "https://databrasil.net/empresas/21045375000148-STOREBEER-COMERCIO-DE-BEBIDAS-LTDA",
-    "emailVerifiedAt": "2026-09-15"
+    "emailVerifiedAt": "2026-09-15",
+    "date2": "2026-10-10"
   },
   {
     "name": "FRM Distribuidora",
@@ -41390,11 +41412,12 @@
     "context": "FRM Distribuidora de Bebidas e Adega, comercio atacadista de bebidas, Rua Antonio de Oliveira Salazar 233, Jardim Sao Salvador, Taboao da Serra (SP), tel (11) 1181-6472",
     "date1": "2026-09-15",
     "email1": true,
-    "email2": false,
+    "email2": true,
     "email3": false,
     "emailVerified": true,
     "emailSource": "https://guiapj.com.br/consulta-cnpj/51974285000100",
-    "emailVerifiedAt": "2026-09-15"
+    "emailVerifiedAt": "2026-09-15",
+    "date2": "2026-10-10"
   },
   {
     "name": "Imperio das Bebidas Distribuidora",
@@ -41405,11 +41428,12 @@
     "context": "Imperio das Bebidas Distribuidora (filial), comercio atacadista de bebidas com fracionamento, Alameda Rio Negro 503 Sala 302, Alphaville, Barueri (SP), tel (19) 99971-8400",
     "date1": "2026-09-15",
     "email1": true,
-    "email2": false,
+    "email2": true,
     "email3": false,
     "emailVerified": true,
     "emailSource": "https://guiapj.com.br/consulta-cnpj/50239501000284",
-    "emailVerifiedAt": "2026-09-15"
+    "emailVerifiedAt": "2026-09-15",
+    "date2": "2026-10-10"
   },
   {
     "name": "Carbu Bebidas",
@@ -41420,11 +41444,12 @@
     "context": "Carbu Distribuidora de Bebidas, comercio atacadista de bebidas com fracionamento, Av Cdsa Elisabeth de Robiano 920, Tatuape, Sao Paulo (SP), tel (11) 97400-1657",
     "date1": "2026-09-15",
     "email1": true,
-    "email2": false,
+    "email2": true,
     "email3": false,
     "emailVerified": true,
     "emailSource": "https://guiapj.com.br/consulta-cnpj/57616497000194",
-    "emailVerifiedAt": "2026-09-15"
+    "emailVerifiedAt": "2026-09-15",
+    "date2": "2026-10-10"
   },
   {
     "name": "Distribuidora Araujo",
@@ -42800,7 +42825,9 @@
     "emailVerified": true,
     "emailSource": "https://monicacatering.com.br",
     "emailVerifiedAt": "2026-10-10",
-    "template": "consultivo"
+    "template": "consultivo",
+    "email1": true,
+    "date1": "2026-10-10"
   },
   {
     "name": "RP Catering",
@@ -42815,7 +42842,9 @@
     "emailVerified": true,
     "emailSource": "https://rpcatering.com.br",
     "emailVerifiedAt": "2026-10-10",
-    "template": "consultivo"
+    "template": "consultivo",
+    "email1": true,
+    "date1": "2026-10-10"
   },
   {
     "name": "La Fenix Buffet",
@@ -42830,7 +42859,9 @@
     "emailVerified": true,
     "emailSource": "https://lafenixbuffet.com.br",
     "emailVerifiedAt": "2026-10-10",
-    "template": "consultivo"
+    "template": "consultivo",
+    "email1": true,
+    "date1": "2026-10-10"
   },
   {
     "name": "Buffet SP",
@@ -42845,7 +42876,9 @@
     "emailVerified": true,
     "emailSource": "https://buffetsp.com",
     "emailVerifiedAt": "2026-10-10",
-    "template": "consultivo"
+    "template": "consultivo",
+    "email1": true,
+    "date1": "2026-10-10"
   },
   {
     "name": "Da Terra Gastronomia",
@@ -42860,7 +42893,9 @@
     "emailVerified": true,
     "emailSource": "https://www.daterragastronomia.com.br",
     "emailVerifiedAt": "2026-10-10",
-    "template": "consultivo"
+    "template": "consultivo",
+    "email1": true,
+    "date1": "2026-10-10"
   },
   {
     "name": "Verrine Buffet",
@@ -42875,7 +42910,9 @@
     "emailVerified": true,
     "emailSource": "https://www.verrinebuffet.com.br",
     "emailVerifiedAt": "2026-10-10",
-    "template": "consultivo"
+    "template": "consultivo",
+    "email1": true,
+    "date1": "2026-10-10"
   },
   {
     "name": "Plena Eventos",
@@ -42890,7 +42927,9 @@
     "emailVerified": true,
     "emailSource": "https://plenaeventos.com.br",
     "emailVerifiedAt": "2026-10-10",
-    "template": "consultivo"
+    "template": "consultivo",
+    "email1": true,
+    "date1": "2026-10-10"
   },
   {
     "name": "Buffet Spazio",
@@ -42905,7 +42944,9 @@
     "emailVerified": true,
     "emailSource": "https://buffetspazio.com.br",
     "emailVerifiedAt": "2026-10-10",
-    "template": "consultivo"
+    "template": "consultivo",
+    "email1": true,
+    "date1": "2026-10-10"
   },
   {
     "name": "Buffet Campinas",
@@ -42920,7 +42961,9 @@
     "emailVerified": true,
     "emailSource": "https://buffetcampinas.com/contato",
     "emailVerifiedAt": "2026-10-10",
-    "template": "consultivo"
+    "template": "consultivo",
+    "email1": true,
+    "date1": "2026-10-10"
   },
   {
     "name": "Buffet Fua",
@@ -42935,7 +42978,9 @@
     "emailVerified": true,
     "emailSource": "https://www.buffetfua.com.br/contato",
     "emailVerifiedAt": "2026-10-10",
-    "template": "consultivo"
+    "template": "consultivo",
+    "email1": true,
+    "date1": "2026-10-10"
   },
   {
     "name": "Mont Blanc Buffet e Eventos",
@@ -42950,7 +42995,9 @@
     "emailVerified": true,
     "emailSource": "http://montblancbuffet.com.br/contato",
     "emailVerifiedAt": "2026-10-10",
-    "template": "consultivo"
+    "template": "consultivo",
+    "email1": true,
+    "date1": "2026-10-10"
   },
   {
     "name": "Angelino's Buffet",
@@ -42965,7 +43012,9 @@
     "emailVerified": true,
     "emailSource": "https://www.angelinos.com.br",
     "emailVerifiedAt": "2026-10-10",
-    "template": "consultivo"
+    "template": "consultivo",
+    "email1": true,
+    "date1": "2026-10-10"
   },
   {
     "name": "Buffet Casa Bellini",
@@ -42980,7 +43029,9 @@
     "emailVerified": true,
     "emailSource": "https://buffetcasabellini.com.br",
     "emailVerifiedAt": "2026-10-10",
-    "template": "consultivo"
+    "template": "consultivo",
+    "email1": true,
+    "date1": "2026-10-10"
   },
   {
     "name": "Buffet Sorocaba",
@@ -42995,7 +43046,9 @@
     "emailVerified": true,
     "emailSource": "https://buffetsorocaba.com/contato",
     "emailVerifiedAt": "2026-10-10",
-    "template": "consultivo"
+    "template": "consultivo",
+    "email1": true,
+    "date1": "2026-10-10"
   },
   {
     "name": "SJP Buffet e Gastronomia",
@@ -43010,7 +43063,9 @@
     "emailVerified": true,
     "emailSource": "https://sjpbuffetegastronomia.com.br",
     "emailVerifiedAt": "2026-10-10",
-    "template": "consultivo"
+    "template": "consultivo",
+    "email1": true,
+    "date1": "2026-10-10"
   },
   {
     "name": "Buffet Boteco e Cia",
@@ -43025,7 +43080,9 @@
     "emailVerified": true,
     "emailSource": "https://www.organizandoeventos.com.br/SP/Sao-Jose-dos-Campos/Buffet-em-Domicilio.htm",
     "emailVerifiedAt": "2026-10-10",
-    "template": "consultivo"
+    "template": "consultivo",
+    "email1": true,
+    "date1": "2026-10-10"
   },
   {
     "name": "Cook Hall Buffet",
@@ -43040,7 +43097,9 @@
     "emailVerified": true,
     "emailSource": "https://www.cookhallbuffet.com.br",
     "emailVerifiedAt": "2026-10-10",
-    "template": "consultivo"
+    "template": "consultivo",
+    "email1": true,
+    "date1": "2026-10-10"
   },
   {
     "name": "Terra do Nunca Buffet e Eventos",
@@ -43055,7 +43114,9 @@
     "emailVerified": true,
     "emailSource": "https://terradonuncabuffeteventos.com.br/contato",
     "emailVerifiedAt": "2026-10-10",
-    "template": "consultivo"
+    "template": "consultivo",
+    "email1": true,
+    "date1": "2026-10-10"
   },
   {
     "name": "Buffet Asher",
@@ -43070,7 +43131,9 @@
     "emailVerified": true,
     "emailSource": "https://www.buffetasher.com.br",
     "emailVerifiedAt": "2026-10-10",
-    "template": "consultivo"
+    "template": "consultivo",
+    "email1": true,
+    "date1": "2026-10-10"
   },
   {
     "name": "Menu Buffet",
@@ -43085,6 +43148,8 @@
     "emailVerified": true,
     "emailSource": "https://www.menubuffet.com.br",
     "emailVerifiedAt": "2026-10-10",
-    "template": "consultivo"
+    "template": "consultivo",
+    "email1": true,
+    "date1": "2026-10-10"
   }
 ]
