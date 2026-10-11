@@ -43242,7 +43242,9 @@
     "neighborhood": "Vila Formosa",
     "city": "São Paulo",
     "state": "SP",
-    "phone": "(11) 99739-4676"
+    "phone": "(11) 99739-4676",
+    "email1": true,
+    "date1": "2026-10-11"
   },
   {
     "name": "Star Place Buffet",
@@ -43255,7 +43257,9 @@
     "neighborhood": "Centro",
     "city": "Mogi das Cruzes",
     "state": "SP",
-    "phone": "(11) 99516-7544"
+    "phone": "(11) 99516-7544",
+    "email1": true,
+    "date1": "2026-10-11"
   },
   {
     "name": "Doces Motivos Buffet",
@@ -43268,7 +43272,9 @@
     "neighborhood": "São Paulo",
     "city": "São Paulo",
     "state": "SP",
-    "phone": "(11) 98284-6598"
+    "phone": "(11) 98284-6598",
+    "email1": true,
+    "date1": "2026-10-11"
   },
   {
     "name": "Buffet Q Art",
@@ -43281,7 +43287,9 @@
     "neighborhood": "São Paulo",
     "city": "São Paulo",
     "state": "SP",
-    "phone": "(11) 2593-4705"
+    "phone": "(11) 2593-4705",
+    "email1": true,
+    "date1": "2026-10-11"
   },
   {
     "name": "Espaço Buffet São Paulo",
@@ -43294,6 +43302,8 @@
     "neighborhood": "Cidade Intercap",
     "city": "Taboão da Serra",
     "state": "SP",
-    "phone": "(11) 97114-6170"
+    "phone": "(11) 97114-6170",
+    "email1": true,
+    "date1": "2026-10-11"
   }
 ]
