@@ -1,0 +1,67 @@
+[
+  {
+    "name": "Febba's Buffet & Eventos",
+    "type": "buffet",
+    "email": "contato@febbasbuffet.com.br",
+    "emailVerified": true,
+    "emailVerifiedAt": "2026-10-11",
+    "emailSource": "https://febbasbuffet.com.br/",
+    "context": "Festa completa: gastronomia, decoração, DJ, cenografia, telão e assessoria, com sede própria na Vila Formosa (SP). Ideal para casamentos, corporativos, debutantes e aniversários.",
+    "neighborhood": "Vila Formosa",
+    "city": "São Paulo",
+    "state": "SP",
+    "phone": "(11) 99739-4676"
+  },
+  {
+    "name": "Star Place Buffet",
+    "type": "buffet",
+    "email": "starplacecontato@gmail.com",
+    "emailVerified": true,
+    "emailVerifiedAt": "2026-10-11",
+    "emailSource": "https://buffetstarplace.com.br/contato",
+    "context": "Espaço para festas e eventos no Centro de Mogi das Cruzes, com equipe de consultores e estrutura completa para celebrações com excelência.",
+    "neighborhood": "Centro",
+    "city": "Mogi das Cruzes",
+    "state": "SP",
+    "phone": "(11) 99516-7544"
+  },
+  {
+    "name": "Doces Motivos Buffet",
+    "type": "buffet",
+    "email": "contato@docesmotivosbuffet.com.br",
+    "emailVerified": true,
+    "emailVerifiedAt": "2026-10-11",
+    "emailSource": "https://docesmotivosbuffet.com.br/",
+    "context": "Buffet corporativo em SP: coffee break, welcome coffee, almoços/jantares, bolos e doces, com atendimento a SP capital, litoral e interior.",
+    "neighborhood": "São Paulo",
+    "city": "São Paulo",
+    "state": "SP",
+    "phone": "(11) 98284-6598"
+  },
+  {
+    "name": "Buffet Q Art",
+    "type": "buffet",
+    "email": "buffetqart@hotmail.com",
+    "emailVerified": true,
+    "emailVerifiedAt": "2026-10-11",
+    "emailSource": "https://www.buffetqart.com.br/entre-em-contato",
+    "context": "Atende toda a região de São Paulo e proximidades com serviços de buffet para eventos, orçamento conforme número de convidados.",
+    "neighborhood": "São Paulo",
+    "city": "São Paulo",
+    "state": "SP",
+    "phone": "(11) 2593-4705"
+  },
+  {
+    "name": "Espaço Buffet São Paulo",
+    "type": "buffet",
+    "email": "contato@espacobuffetsaopaulo.com.br",
+    "emailVerified": true,
+    "emailVerifiedAt": "2026-10-11",
+    "emailSource": "https://espacobuffetsaopaulo.com.br/",
+    "context": "Espaço sofisticado em Taboão da Serra para casamentos, aniversários e eventos corporativos, capacidade até 500 convidados, 30 anos de atuação.",
+    "neighborhood": "Cidade Intercap",
+    "city": "Taboão da Serra",
+    "state": "SP",
+    "phone": "(11) 97114-6170"
+  }
+]
