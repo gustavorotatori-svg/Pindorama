@@ -44,7 +44,7 @@ export default function Dashboard() {
   return (
     <div className="dashboard">
       <div className="header">
-        <h1>Pindorama</h1>
+        <img src="/logo.svg" alt="Pindorama" style={{ width: '280px', height: 'auto', marginBottom: '16px' }} />
         <p>Dashboard de Prospecção — Cachaça Artesanal</p>
         <div className="update-time">
           Atualizado: {new Date(data.lastUpdate).toLocaleString('pt-BR')}

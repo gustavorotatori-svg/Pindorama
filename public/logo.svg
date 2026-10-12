@@ -1,0 +1,38 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 400 120" width="400" height="120">
+  <defs>
+    <linearGradient id="gold" x1="0%" y1="0%" x2="100%" y2="100%">
+      <stop offset="0%" style="stop-color:#d4a574"/>
+      <stop offset="50%" style="stop-color:#f0d0a0"/>
+      <stop offset="100%" style="stop-color:#b8860b"/>
+    </linearGradient>
+    <linearGradient id="dark" x1="0%" y1="0%" x2="0%" y2="100%">
+      <stop offset="0%" style="stop-color:#1a1a2e"/>
+      <stop offset="100%" style="stop-color:#0f0f1a"/>
+    </linearGradient>
+  </defs>
+
+  <rect width="400" height="120" rx="12" fill="url(#dark)"/>
+
+  <circle cx="60" cy="60" r="35" fill="none" stroke="url(#gold)" stroke-width="2"/>
+  <circle cx="60" cy="60" r="28" fill="none" stroke="#d4a574" stroke-width="1" opacity="0.5"/>
+
+  <path d="M60 32 L60 88 M45 45 L75 45 M45 75 L75 75" stroke="#d4a574" stroke-width="1.5" opacity="0.6"/>
+  <path d="M48 38 Q60 30 72 38 Q60 46 48 38" fill="#d4a574" opacity="0.8"/>
+
+  <text x="110" y="55" font-family="Georgia, serif" font-size="28" font-weight="bold" fill="url(#gold)" letter-spacing="2">
+    PINDORAMA
+  </text>
+
+  <text x="110" y="80" font-family="Georgia, serif" font-size="16" fill="#e8e8f0" letter-spacing="1">
+    Gustavo
+  </text>
+
+  <text x="110" y="98" font-family="Georgia, serif" font-size="10" fill="#8888a8" letter-spacing="0.5">
+    Cachaça Artesanal · Vale do Café
+  </text>
+
+  <line x1="110" y1="65" x2="350" y2="65" stroke="#d4a574" stroke-width="0.5" opacity="0.3"/>
+
+  <path d="M360 45 L370 60 L360 75 L350 60 Z" fill="none" stroke="#d4a574" stroke-width="1.5" opacity="0.6"/>
+  <circle cx="360" cy="60" r="3" fill="#d4a574" opacity="0.8"/>
+</svg>
