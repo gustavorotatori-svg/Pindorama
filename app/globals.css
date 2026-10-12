@@ -249,8 +249,37 @@ body {
   transition: width 0.5s ease;
 }
 
+.filters {
+  display: flex;
+  gap: 12px;
+  margin-bottom: 20px;
+  flex-wrap: wrap;
+}
+
+.filters select {
+  background: var(--card);
+  color: var(--text);
+  border: 1px solid var(--border);
+  border-radius: 8px;
+  padding: 10px 16px;
+  font-size: 0.9rem;
+  cursor: pointer;
+  transition: all 0.2s ease;
+}
+
+.filters select:hover {
+  border-color: var(--accent);
+}
+
+.filters select:focus {
+  outline: none;
+  border-color: var(--accent);
+  box-shadow: 0 0 0 2px var(--accent-glow);
+}
+
 @media (max-width: 768px) {
   .dashboard { padding: 16px; }
   .header h1 { font-size: 1.8rem; }
   .grid { grid-template-columns: 1fr; }
+  .filters { flex-direction: column; }
 }
