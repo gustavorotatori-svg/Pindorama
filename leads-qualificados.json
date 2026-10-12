@@ -42906,7 +42906,9 @@
     "emailVerifiedAt": "2026-10-10",
     "template": "consultivo",
     "email1": true,
-    "date1": "2026-10-10"
+    "date1": "2026-10-10",
+    "email2": true,
+    "date2": "2026-10-12"
   },
   {
     "name": "RP Catering",
@@ -42923,7 +42925,9 @@
     "emailVerifiedAt": "2026-10-10",
     "template": "consultivo",
     "email1": true,
-    "date1": "2026-10-10"
+    "date1": "2026-10-10",
+    "email2": true,
+    "date2": "2026-10-12"
   },
   {
     "name": "La Fenix Buffet",
@@ -42940,7 +42944,9 @@
     "emailVerifiedAt": "2026-10-10",
     "template": "consultivo",
     "email1": true,
-    "date1": "2026-10-10"
+    "date1": "2026-10-10",
+    "email2": true,
+    "date2": "2026-10-12"
   },
   {
     "name": "Buffet SP",
@@ -42957,7 +42963,9 @@
     "emailVerifiedAt": "2026-10-10",
     "template": "consultivo",
     "email1": true,
-    "date1": "2026-10-10"
+    "date1": "2026-10-10",
+    "email2": true,
+    "date2": "2026-10-12"
   },
   {
     "name": "Da Terra Gastronomia",
@@ -42974,7 +42982,9 @@
     "emailVerifiedAt": "2026-10-10",
     "template": "consultivo",
     "email1": true,
-    "date1": "2026-10-10"
+    "date1": "2026-10-10",
+    "email2": true,
+    "date2": "2026-10-12"
   },
   {
     "name": "Verrine Buffet",
@@ -42991,7 +43001,9 @@
     "emailVerifiedAt": "2026-10-10",
     "template": "consultivo",
     "email1": true,
-    "date1": "2026-10-10"
+    "date1": "2026-10-10",
+    "email2": true,
+    "date2": "2026-10-12"
   },
   {
     "name": "Plena Eventos",
@@ -43008,7 +43020,9 @@
     "emailVerifiedAt": "2026-10-10",
     "template": "consultivo",
     "email1": true,
-    "date1": "2026-10-10"
+    "date1": "2026-10-10",
+    "email2": true,
+    "date2": "2026-10-12"
   },
   {
     "name": "Buffet Spazio",
@@ -43025,7 +43039,9 @@
     "emailVerifiedAt": "2026-10-10",
     "template": "consultivo",
     "email1": true,
-    "date1": "2026-10-10"
+    "date1": "2026-10-10",
+    "email2": true,
+    "date2": "2026-10-12"
   },
   {
     "name": "Buffet Campinas",
@@ -43042,7 +43058,9 @@
     "emailVerifiedAt": "2026-10-10",
     "template": "consultivo",
     "email1": true,
-    "date1": "2026-10-10"
+    "date1": "2026-10-10",
+    "email2": true,
+    "date2": "2026-10-12"
   },
   {
     "name": "Buffet Fua",
@@ -43059,7 +43077,9 @@
     "emailVerifiedAt": "2026-10-10",
     "template": "consultivo",
     "email1": true,
-    "date1": "2026-10-10"
+    "date1": "2026-10-10",
+    "email2": true,
+    "date2": "2026-10-12"
   },
   {
     "name": "Mont Blanc Buffet e Eventos",
@@ -43076,7 +43096,9 @@
     "emailVerifiedAt": "2026-10-10",
     "template": "consultivo",
     "email1": true,
-    "date1": "2026-10-10"
+    "date1": "2026-10-10",
+    "email2": true,
+    "date2": "2026-10-12"
   },
   {
     "name": "Angelino's Buffet",
@@ -43093,7 +43115,9 @@
     "emailVerifiedAt": "2026-10-10",
     "template": "consultivo",
     "email1": true,
-    "date1": "2026-10-10"
+    "date1": "2026-10-10",
+    "email2": true,
+    "date2": "2026-10-12"
   },
   {
     "name": "Buffet Casa Bellini",
@@ -43110,7 +43134,9 @@
     "emailVerifiedAt": "2026-10-10",
     "template": "consultivo",
     "email1": true,
-    "date1": "2026-10-10"
+    "date1": "2026-10-10",
+    "email2": true,
+    "date2": "2026-10-12"
   },
   {
     "name": "Buffet Sorocaba",
@@ -43127,7 +43153,9 @@
     "emailVerifiedAt": "2026-10-10",
     "template": "consultivo",
     "email1": true,
-    "date1": "2026-10-10"
+    "date1": "2026-10-10",
+    "email2": true,
+    "date2": "2026-10-12"
   },
   {
     "name": "SJP Buffet e Gastronomia",
@@ -43144,7 +43172,9 @@
     "emailVerifiedAt": "2026-10-10",
     "template": "consultivo",
     "email1": true,
-    "date1": "2026-10-10"
+    "date1": "2026-10-10",
+    "email2": true,
+    "date2": "2026-10-12"
   },
   {
     "name": "Buffet Boteco e Cia",
@@ -43161,7 +43191,9 @@
     "emailVerifiedAt": "2026-10-10",
     "template": "consultivo",
     "email1": true,
-    "date1": "2026-10-10"
+    "date1": "2026-10-10",
+    "email2": true,
+    "date2": "2026-10-12"
   },
   {
     "name": "Cook Hall Buffet",
@@ -43178,7 +43210,9 @@
     "emailVerifiedAt": "2026-10-10",
     "template": "consultivo",
     "email1": true,
-    "date1": "2026-10-10"
+    "date1": "2026-10-10",
+    "email2": true,
+    "date2": "2026-10-12"
   },
   {
     "name": "Terra do Nunca Buffet e Eventos",
@@ -43195,7 +43229,9 @@
     "emailVerifiedAt": "2026-10-10",
     "template": "consultivo",
     "email1": true,
-    "date1": "2026-10-10"
+    "date1": "2026-10-10",
+    "email2": true,
+    "date2": "2026-10-12"
   },
   {
     "name": "Buffet Asher",
@@ -43212,7 +43248,9 @@
     "emailVerifiedAt": "2026-10-10",
     "template": "consultivo",
     "email1": true,
-    "date1": "2026-10-10"
+    "date1": "2026-10-10",
+    "email2": true,
+    "date2": "2026-10-12"
   },
   {
     "name": "Menu Buffet",
@@ -43229,7 +43267,9 @@
     "emailVerifiedAt": "2026-10-10",
     "template": "consultivo",
     "email1": true,
-    "date1": "2026-10-10"
+    "date1": "2026-10-10",
+    "email2": true,
+    "date2": "2026-10-12"
   },
   {
     "name": "Febba's Buffet & Eventos",
