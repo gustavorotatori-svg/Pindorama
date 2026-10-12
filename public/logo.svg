@@ -1,38 +1,55 @@
-<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 500 140" width="500" height="140">
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 600 160" width="600" height="160">
   <defs>
-    <linearGradient id="gold" x1="0%" y1="0%" x2="100%" y2="100%">
-      <stop offset="0%" style="stop-color:#d4a574"/>
-      <stop offset="50%" style="stop-color:#f0d0a0"/>
+    <linearGradient id="goldGrad" x1="0%" y1="0%" x2="100%" y2="100%">
+      <stop offset="0%" style="stop-color:#f0d0a0"/>
+      <stop offset="40%" style="stop-color:#d4a574"/>
       <stop offset="100%" style="stop-color:#b8860b"/>
     </linearGradient>
-    <linearGradient id="dark" x1="0%" y1="0%" x2="0%" y2="100%">
+    <linearGradient id="bgGrad" x1="0%" y1="0%" x2="0%" y2="100%">
       <stop offset="0%" style="stop-color:#1a1a2e"/>
       <stop offset="100%" style="stop-color:#0f0f1a"/>
     </linearGradient>
+    <filter id="glow">
+      <feGaussianBlur stdDeviation="2" result="coloredBlur"/>
+      <feMerge>
+        <feMergeNode in="coloredBlur"/>
+        <feMergeNode in="SourceGraphic"/>
+      </feMerge>
+    </filter>
   </defs>
 
-  <rect width="500" height="140" rx="16" fill="url(#dark)"/>
+  <rect width="600" height="160" rx="20" fill="url(#bgGrad)"/>
+  <rect x="2" y="2" width="596" height="156" rx="18" fill="none" stroke="url(#goldGrad)" stroke-width="2" opacity="0.6"/>
 
-  <circle cx="70" cy="70" r="42" fill="none" stroke="url(#gold)" stroke-width="2.5"/>
-  <circle cx="70" cy="70" r="34" fill="none" stroke="#d4a574" stroke-width="1" opacity="0.5"/>
+  <circle cx="80" cy="80" r="50" fill="none" stroke="url(#goldGrad)" stroke-width="3" filter="url(#glow)"/>
+  <circle cx="80" cy="80" r="40" fill="none" stroke="#d4a574" stroke-width="1.5" opacity="0.4"/>
 
-  <path d="M70 38 L70 102 M52 52 L88 52 M52 88 L88 88" stroke="#d4a574" stroke-width="1.5" opacity="0.6"/>
-  <path d="M56 46 Q70 36 84 46 Q70 56 56 46" fill="#d4a574" opacity="0.9"/>
+  <path d="M80 45 L80 115 M58 60 L102 60 M58 100 L102 100" stroke="#d4a574" stroke-width="2" opacity="0.7"/>
+  <path d="M62 52 Q80 40 98 52 Q80 64 62 52" fill="#d4a574" opacity="0.9"/>
+  <circle cx="80" cy="80" r="6" fill="#d4a574"/>
 
-  <text x="130" y="58" font-family="Georgia, serif" font-size="32" font-weight="bold" fill="url(#gold)" letter-spacing="3">
+  <text x="150" y="62" font-family="Georgia, 'Times New Roman', serif" font-size="38" font-weight="bold" fill="url(#goldGrad)" letter-spacing="4" filter="url(#glow)">
     PINDORAMA
   </text>
 
-  <text x="130" y="88" font-family="Georgia, serif" font-size="22" fill="#f0d0a0" letter-spacing="2">
+  <text x="150" y="100" font-family="Georgia, 'Times New Roman', serif" font-size="30" font-weight="bold" fill="#f0d0a0" letter-spacing="3">
     Gustavo
   </text>
 
-  <text x="130" y="110" font-family="Georgia, serif" font-size="11" fill="#8888a8" letter-spacing="1">
-    Cachaça Artesanal · Vale do Café · RJ
+  <text x="150" y="125" font-family="Georgia, 'Times New Roman', serif" font-size="13" fill="#8888a8" letter-spacing="2">
+    Cachaça Artesanal Premium
   </text>
 
-  <line x1="130" y1="70" x2="460" y2="70" stroke="#d4a574" stroke-width="0.5" opacity="0.3"/>
+  <text x="150" y="142" font-family="Georgia, 'Times New Roman', serif" font-size="11" fill="#666680" letter-spacing="1">
+    Vale do Café · Rio de Janeiro
+  </text>
 
-  <path d="M470 52 L482 70 L470 88 L458 70 Z" fill="none" stroke="#d4a574" stroke-width="2" opacity="0.7"/>
-  <circle cx="470" cy="70" r="4" fill="#d4a574"/>
+  <line x1="150" y1="75" x2="560" y2="75" stroke="url(#goldGrad)" stroke-width="1" opacity="0.4"/>
+
+  <path d="M570 55 L585 80 L570 105 L555 80 Z" fill="none" stroke="url(#goldGrad)" stroke-width="2.5" opacity="0.8"/>
+  <circle cx="570" cy="80" r="5" fill="url(#goldGrad)" filter="url(#glow)"/>
+
+  <text x="460" y="140" font-family="Georgia, serif" font-size="10" fill="#666680" letter-spacing="1" text-anchor="end">
+    Prospecção & Vendas
+  </text>
 </svg>
