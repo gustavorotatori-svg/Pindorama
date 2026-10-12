@@ -5,7 +5,13 @@ const ROOT = process.cwd();
 const leads = JSON.parse(readFileSync(join(ROOT, 'leads-qualificados.json'), 'utf8'));
 const waLog = JSON.parse(readFileSync(join(ROOT, 'whatsapp-send-log.json'), 'utf8'));
 
-const today = new Date().toISOString().split('T')[0];
+const now = new Date();
+const today = now.toISOString().split('T')[0];
+const weekAgo = new Date(now - 7 * 86400000).toISOString().split('T')[0];
+const monthStart = today.slice(0, 8) + '01';
+const yearStart = today.slice(0, 4) + '-01-01';
+
+const inRange = (dateStr, start, end) => dateStr && dateStr >= start && dateStr <= end;
 
 const daily = {};
 for (let i = 13; i >= 0; i--) {
@@ -29,6 +35,26 @@ const neighborhoods = {};
 leads.forEach((l) => {
   const n = l.neighborhood || l.city || 'Sem bairro';
   neighborhoods[n] = (neighborhoods[n] || 0) + 1;
+});
+
+const segments = {};
+leads.forEach((l) => {
+  const s = l.type || 'outro';
+  if (!segments[s]) segments[s] = { total: 0, email1: 0, responded: 0 };
+  segments[s].total++;
+  if (l.email1) segments[s].email1++;
+  if (l.responded) segments[s].responded++;
+});
+
+const weekLeads = leads.filter((l) => inRange(l.date1, weekAgo, today) || inRange(l.date2, weekAgo, today) || inRange(l.date3, weekAgo, today));
+const monthLeads = leads.filter((l) => inRange(l.date1, monthStart, today) || inRange(l.date2, monthStart, today) || inRange(l.date3, monthStart, today));
+const yearLeads = leads.filter((l) => inRange(l.date1, yearStart, today) || inRange(l.date2, yearStart, today) || inRange(l.date3, yearStart, today));
+
+const countEmails = (list) => ({
+  email1: list.filter((l) => l.email1).length,
+  email2: list.filter((l) => l.email2).length,
+  email3: list.filter((l) => l.email3).length,
+  total: list.filter((l) => l.email1).length + list.filter((l) => l.email2).length + list.filter((l) => l.email3).length,
 });
 
 const data = {
@@ -87,7 +113,13 @@ const data = {
     email3: leads.filter((l) => l.email3).length,
     responded: leads.filter((l) => l.responded).length,
   },
+  week: { leads: weekLeads.length, emails: countEmails(weekLeads), responses: weekLeads.filter((l) => l.responded).length },
+  month: { leads: monthLeads.length, emails: countEmails(monthLeads), responses: monthLeads.filter((l) => l.responded).length },
+  year: { leads: yearLeads.length, emails: countEmails(yearLeads), responses: yearLeads.filter((l) => l.responded).length },
+  segments: Object.entries(segments)
+    .sort((a, b) => b[1].total - a[1].total)
+    .map(([name, s]) => ({ name, ...s })),
 };
 
 writeFileSync(join(ROOT, 'dashboard-data.json'), JSON.stringify(data, null, 2));
-console.log('dashboard-data.json gerado:', data.totalLeads, 'leads,', data.emails.total, 'emails');
+console.log('dashboard-data.json:', data.totalLeads, 'leads | semana:', data.leads?.length || weekLeads.length, '| mês:', monthLeads.length, '| ano:', yearLeads.length);

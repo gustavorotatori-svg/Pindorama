@@ -1,5 +1,5 @@
 {
-  "lastUpdate": "2026-10-12T00:36:39.675Z",
+  "lastUpdate": "2026-10-12T13:05:29.848Z",
   "totalLeads": 2855,
   "allLeads": [
     {
@@ -27829,8 +27829,8 @@
     "total": 4917
   },
   "whatsapp": {
-    "today": 0,
-    "total": 217
+    "today": 1,
+    "total": 218
   },
   "responses": 11,
   "pending": 1,
@@ -27889,7 +27889,7 @@
     },
     {
       "date": "2026-10-12",
-      "count": 0
+      "count": 72
     }
   ],
   "topNeighborhoods": [
@@ -28015,5 +28015,475 @@
     "email2": 1419,
     "email3": 693,
     "responded": 11
-  }
+  },
+  "week": {
+    "leads": 156,
+    "emails": {
+      "email1": 156,
+      "email2": 130,
+      "email3": 35,
+      "total": 321
+    },
+    "responses": 0
+  },
+  "month": {
+    "leads": 156,
+    "emails": {
+      "email1": 156,
+      "email2": 130,
+      "email3": 35,
+      "total": 321
+    },
+    "responses": 0
+  },
+  "year": {
+    "leads": 2807,
+    "emails": {
+      "email1": 2805,
+      "email2": 1419,
+      "email3": 693,
+      "total": 4917
+    },
+    "responses": 11
+  },
+  "segments": [
+    {
+      "name": "restaurante",
+      "total": 1887,
+      "email1": 1886,
+      "responded": 5
+    },
+    {
+      "name": "bar",
+      "total": 462,
+      "email1": 460,
+      "responded": 0
+    },
+    {
+      "name": "adega",
+      "total": 216,
+      "email1": 213,
+      "responded": 2
+    },
+    {
+      "name": "distribuidora",
+      "total": 133,
+      "email1": 131,
+      "responded": 1
+    },
+    {
+      "name": "buffet",
+      "total": 26,
+      "email1": 26,
+      "responded": 0
+    },
+    {
+      "name": "balada",
+      "total": 15,
+      "email1": 15,
+      "responded": 0
+    },
+    {
+      "name": "loja_bebidas",
+      "total": 13,
+      "email1": 13,
+      "responded": 0
+    },
+    {
+      "name": "hotel",
+      "total": 10,
+      "email1": 9,
+      "responded": 2
+    },
+    {
+      "name": "catering",
+      "total": 6,
+      "email1": 6,
+      "responded": 1
+    },
+    {
+      "name": "atacadista",
+      "total": 4,
+      "email1": 4,
+      "responded": 0
+    },
+    {
+      "name": "bar_restaurante_cachacas_caipirinhas",
+      "total": 4,
+      "email1": 3,
+      "responded": 0
+    },
+    {
+      "name": "distribuidora_bebidas_cachacas",
+      "total": 4,
+      "email1": 4,
+      "responded": 0
+    },
+    {
+      "name": "emporio",
+      "total": 4,
+      "email1": 4,
+      "responded": 0
+    },
+    {
+      "name": "outro",
+      "total": 3,
+      "email1": 2,
+      "responded": 0
+    },
+    {
+      "name": "adega_delivery_cachacas_destilados",
+      "total": 3,
+      "email1": 0,
+      "responded": 0
+    },
+    {
+      "name": "emporio_ecommerce_cachacas_premium",
+      "total": 3,
+      "email1": 1,
+      "responded": 0
+    },
+    {
+      "name": "supermercado",
+      "total": 2,
+      "email1": 1,
+      "responded": 0
+    },
+    {
+      "name": "loja_bebidas_chopp_cachacas_eventos",
+      "total": 2,
+      "email1": 1,
+      "responded": 0
+    },
+    {
+      "name": "emporio_produtos_artesanais_cachacas",
+      "total": 2,
+      "email1": 1,
+      "responded": 0
+    },
+    {
+      "name": "restaurante_caipirinhas_cachaca",
+      "total": 2,
+      "email1": 0,
+      "responded": 0
+    },
+    {
+      "name": "cafeteria",
+      "total": 2,
+      "email1": 0,
+      "responded": 0
+    },
+    {
+      "name": "distribuidor",
+      "total": 1,
+      "email1": 1,
+      "responded": 0
+    },
+    {
+      "name": "experiencias_e_eventos",
+      "total": 1,
+      "email1": 1,
+      "responded": 0
+    },
+    {
+      "name": "bar_restaurante_cachaca_cambuci",
+      "total": 1,
+      "email1": 1,
+      "responded": 0
+    },
+    {
+      "name": "restaurante_bebidas_cambuci",
+      "total": 1,
+      "email1": 1,
+      "responded": 0
+    },
+    {
+      "name": "emporio_bebidas_cachaca",
+      "total": 1,
+      "email1": 1,
+      "responded": 0
+    },
+    {
+      "name": "loja_distribuidora_bebidas_destilados",
+      "total": 1,
+      "email1": 1,
+      "responded": 0
+    },
+    {
+      "name": "emporio_bar_cachacas_destilados",
+      "total": 1,
+      "email1": 1,
+      "responded": 0
+    },
+    {
+      "name": "kits_presentes_corporativos_bebidas",
+      "total": 1,
+      "email1": 1,
+      "responded": 0
+    },
+    {
+      "name": "adega_loja_bebidas_cachacas",
+      "total": 1,
+      "email1": 0,
+      "responded": 0
+    },
+    {
+      "name": "adega_cachacas_artesanais_destilados",
+      "total": 1,
+      "email1": 0,
+      "responded": 0
+    },
+    {
+      "name": "adega_tabacaria_cachacas_destilados",
+      "total": 1,
+      "email1": 1,
+      "responded": 0
+    },
+    {
+      "name": "distribuidora_destilaria_cachacas_artesanais",
+      "total": 1,
+      "email1": 0,
+      "responded": 0
+    },
+    {
+      "name": "bar_restaurante_cachacas_artesanais",
+      "total": 1,
+      "email1": 0,
+      "responded": 0
+    },
+    {
+      "name": "emporio_mercearia_cachacas_artesanais",
+      "total": 1,
+      "email1": 0,
+      "responded": 0
+    },
+    {
+      "name": "emporio_online_cachacas_produtos_artesanais",
+      "total": 1,
+      "email1": 1,
+      "responded": 0
+    },
+    {
+      "name": "emporio_adega_cachacas_premium",
+      "total": 1,
+      "email1": 1,
+      "responded": 0
+    },
+    {
+      "name": "distribuidora_emporio_cachacas_bebidas",
+      "total": 1,
+      "email1": 1,
+      "responded": 0
+    },
+    {
+      "name": "adega_vinhos_licores_destilados",
+      "total": 1,
+      "email1": 1,
+      "responded": 0
+    },
+    {
+      "name": "emporio_bebidas_cachacas_premium",
+      "total": 1,
+      "email1": 1,
+      "responded": 0
+    },
+    {
+      "name": "emporio_bebidas_destilados",
+      "total": 1,
+      "email1": 1,
+      "responded": 0
+    },
+    {
+      "name": "adega_online_cachacas_premium",
+      "total": 1,
+      "email1": 1,
+      "responded": 0
+    },
+    {
+      "name": "loja_online_cachacas_premium",
+      "total": 1,
+      "email1": 1,
+      "responded": 0
+    },
+    {
+      "name": "loja_online_cachacas",
+      "total": 1,
+      "email1": 1,
+      "responded": 0
+    },
+    {
+      "name": "emporio_online_produtos_artesanais_cachacas",
+      "total": 1,
+      "email1": 1,
+      "responded": 0
+    },
+    {
+      "name": "distribuidora_delivery_cachacas_destilados",
+      "total": 1,
+      "email1": 0,
+      "responded": 0
+    },
+    {
+      "name": "adega_delivery_destilados",
+      "total": 1,
+      "email1": 0,
+      "responded": 0
+    },
+    {
+      "name": "adega_bar_delivery_cachaca_coquetelaria",
+      "total": 1,
+      "email1": 0,
+      "responded": 0
+    },
+    {
+      "name": "adega_delivery_cachacas_aperitivos",
+      "total": 1,
+      "email1": 0,
+      "responded": 0
+    },
+    {
+      "name": "adega_emporio_delivery_cachacas_destilados",
+      "total": 1,
+      "email1": 0,
+      "responded": 0
+    },
+    {
+      "name": "adega_delivery_cachacas_aguardentes_destilados",
+      "total": 1,
+      "email1": 0,
+      "responded": 0
+    },
+    {
+      "name": "adega_mercearia_delivery_destilados_cachaca",
+      "total": 1,
+      "email1": 0,
+      "responded": 0
+    },
+    {
+      "name": "adega_delivery_24h_cachaca_destilados",
+      "total": 1,
+      "email1": 0,
+      "responded": 0
+    },
+    {
+      "name": "adega_delivery_cachaca_artesanal",
+      "total": 1,
+      "email1": 0,
+      "responded": 0
+    },
+    {
+      "name": "adega_distribuidora_delivery_cachaca_destilados",
+      "total": 1,
+      "email1": 0,
+      "responded": 0
+    },
+    {
+      "name": "adega_delivery_cachacas_premium_destilados",
+      "total": 1,
+      "email1": 0,
+      "responded": 0
+    },
+    {
+      "name": "adega_delivery_destilados_vinhos_cervejas",
+      "total": 1,
+      "email1": 0,
+      "responded": 0
+    },
+    {
+      "name": "bar_restaurante_delivery_batidas_cachaca",
+      "total": 1,
+      "email1": 0,
+      "responded": 0
+    },
+    {
+      "name": "restaurante_delivery_caipirinha_cachaca",
+      "total": 1,
+      "email1": 0,
+      "responded": 0
+    },
+    {
+      "name": "adega_delivery_cachaca_destilados",
+      "total": 1,
+      "email1": 0,
+      "responded": 0
+    },
+    {
+      "name": "bar_restaurante_caipirinha_batida_cachaca",
+      "total": 1,
+      "email1": 0,
+      "responded": 0
+    },
+    {
+      "name": "bar_emporio_cachacas_artesanais_eventos",
+      "total": 1,
+      "email1": 1,
+      "responded": 0
+    },
+    {
+      "name": "emporio_ecommerce_produtos_artesanais_cachacas",
+      "total": 1,
+      "email1": 0,
+      "responded": 0
+    },
+    {
+      "name": "distribuidora_atacado_cachacas_destilados",
+      "total": 1,
+      "email1": 0,
+      "responded": 0
+    },
+    {
+      "name": "loja_ecommerce_cachacas_artesanais_premium",
+      "total": 1,
+      "email1": 0,
+      "responded": 0
+    },
+    {
+      "name": "distribuidora_bebidas",
+      "total": 1,
+      "email1": 1,
+      "responded": 0
+    },
+    {
+      "name": "distribuidora_atacado_bebidas_cachacas",
+      "total": 1,
+      "email1": 1,
+      "responded": 0
+    },
+    {
+      "name": "clube_esportivo_bar_caipirinhas",
+      "total": 1,
+      "email1": 0,
+      "responded": 0
+    },
+    {
+      "name": "bar_caipirinhas_cachaca_eventos",
+      "total": 1,
+      "email1": 0,
+      "responded": 0
+    },
+    {
+      "name": "buffet_eventos_bar_caipirinhas",
+      "total": 1,
+      "email1": 0,
+      "responded": 0
+    },
+    {
+      "name": "delivery_adega_bebidas_cachacas",
+      "total": 1,
+      "email1": 1,
+      "responded": 0
+    },
+    {
+      "name": "vinicola_adega_cachacas_eventos",
+      "total": 1,
+      "email1": 1,
+      "responded": 0
+    },
+    {
+      "name": "adega_vinicola_cachacas_bistro",
+      "total": 1,
+      "email1": 1,
+      "responded": 0
+    }
+  ]
 }

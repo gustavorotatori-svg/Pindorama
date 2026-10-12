@@ -2806,7 +2806,8 @@
     "evidence": "Botequim em Sorocaba desde 2020. Tel (15) 99136-0098.",
     "verifiedAt": "2026-10-01",
     "notBefore": "2026-10-01",
-    "status": "queued"
+    "status": "sent",
+    "sentAt": "2026-10-10T13:12:11.029Z"
   },
   {
     "name": "Estação Valinhos Distribuidora",
@@ -2817,7 +2818,8 @@
     "evidence": "Distribuidora de bebidas em Valinhos. Tel (19) 99941-5949.",
     "verifiedAt": "2026-10-01",
     "notBefore": "2026-10-01",
-    "status": "queued"
+    "status": "sent",
+    "sentAt": "2026-10-10T13:12:17.251Z"
   },
   {
     "name": "Barros Distribuidora",
@@ -2828,7 +2830,8 @@
     "evidence": "Distribuidora de bebidas desde 1987, unidades em Sumaré e Piracicaba.",
     "verifiedAt": "2026-10-01",
     "notBefore": "2026-10-01",
-    "status": "queued"
+    "status": "sent",
+    "sentAt": "2026-10-10T13:12:24.385Z"
   },
   {
     "name": "Adega 68",
@@ -2839,7 +2842,8 @@
     "evidence": "Distribuidora de bebidas, 5 unidades em Hortolândia e Sumaré. Tel (19) 99457-5206.",
     "verifiedAt": "2026-10-01",
     "notBefore": "2026-10-01",
-    "status": "queued"
+    "status": "sent",
+    "sentAt": "2026-10-10T13:12:29.752Z"
   },
   {
     "name": "Boteco do Bene",
@@ -2861,7 +2865,8 @@
     "evidence": "Site oficial consultado em 01/09/2026 confirma distribuidora ativa desde 2003, entrega para toda a regiao de Sao Paulo e litoral, catalogo de destilados e destaque atual de Cachaca Popular Velho Barreiro 910 ml. Fato: segmento prioritario, territorio valido, operacao recente, WhatsApp e email empresarial publicados e venda comprovada de cachaca. Inferencia: forte aderencia para apresentar a Pindorama ao responsavel por compras e avaliar inclusao no mix com potencial de recompra B2B.",
     "verifiedAt": "2026-10-03",
     "notBefore": "2026-10-03",
-    "status": "queued"
+    "status": "sent",
+    "sentAt": "2026-10-10T13:12:36.279Z"
   },
   {
     "name": "Adega e Distribuidora Nevada",
@@ -2883,7 +2888,8 @@
     "evidence": "Distribuidora de bebidas; CNPJ 34.294.665/0001-77; fundada 2019; com├®rcio varejista de bebidas",
     "verifiedAt": "2026-10-03",
     "notBefore": "2026-10-03",
-    "status": "queued"
+    "status": "sent",
+    "sentAt": "2026-10-10T13:12:42.872Z"
   },
   {
     "name": "Adega de Bebidas Pai e Filho",
@@ -2916,7 +2922,8 @@
     "evidence": "Distribuidora e com├®rcio de bebidas; CNPJ 45.703.570/0001-86; fundada 2022; com├®rcio varejista de bebidas",
     "verifiedAt": "2026-10-03",
     "notBefore": "2026-10-03",
-    "status": "queued"
+    "status": "sent",
+    "sentAt": "2026-10-10T13:12:48.942Z"
   },
   {
     "name": "Adega do Paje",
@@ -2960,6 +2967,207 @@
     "evidence": "Dep├│sito de bebidas/distribuidora; CNPJ 28.356.119/0001-10; fundada 2017",
     "verifiedAt": "2026-10-03",
     "notBefore": "2026-10-03",
+    "status": "queued"
+  },
+  {
+    "name": "Freitas Bebidas",
+    "phone": "(11) 2959-2659",
+    "type": "distribuidora",
+    "city": "São Paulo",
+    "source": "https://freitasbebidas.com.br/",
+    "verifiedAt": "2026-08-27",
+    "notBefore": "2026-10-12",
+    "status": "queued"
+  },
+  {
+    "name": "PP Sucre├î┬ü",
+    "phone": "1199734-8435",
+    "type": "restaurante",
+    "city": "São Paulo",
+    "source": "https://www.instagram.com/ppsucre/",
+    "verifiedAt": "2026-09-05",
+    "notBefore": "2026-10-12",
+    "status": "queued"
+  },
+  {
+    "name": "CANTAGALO BURGER",
+    "phone": "(11)2097-2830/(11)98941-7059 / 1199195-8439 JOYCE // 1197087-6367 LARI",
+    "type": "restaurante",
+    "city": "São Paulo",
+    "source": "https://www.instagram.com/cantagaloburger/",
+    "verifiedAt": "2026-09-05",
+    "notBefore": "2026-10-12",
+    "status": "queued"
+  },
+  {
+    "name": "DOCK BURGER",
+    "phone": "11 2478-8948",
+    "type": "restaurante",
+    "city": "São Paulo",
+    "source": "https://www.instagram.com/dckburger/",
+    "verifiedAt": "2026-09-05",
+    "notBefore": "2026-10-12",
+    "status": "queued"
+  },
+  {
+    "name": "COME ON BURGER",
+    "phone": "99400-5696 PEDRO/ 985591131 / (11) 5082-1645",
+    "type": "restaurante",
+    "city": "São Paulo",
+    "source": "https://www.instagram.com/comeonburger/",
+    "verifiedAt": "2026-09-05",
+    "notBefore": "2026-10-12",
+    "status": "queued"
+  },
+  {
+    "name": "RAW BURGER N BAR",
+    "phone": "3032-3610/ 1199937-3214",
+    "type": "restaurante",
+    "city": "São Paulo",
+    "source": "https://www.instagram.com/raw.burger/?hl=pt-br",
+    "verifiedAt": "2026-09-05",
+    "notBefore": "2026-10-12",
+    "status": "queued"
+  },
+  {
+    "name": "HAMBURGUERIA TRADI",
+    "phone": "11 2339 7107 / 23397077 / 11 952934711 Lierson",
+    "type": "restaurante",
+    "city": "São Paulo",
+    "source": "https://www.instagram.com/hamburgueriatradi/",
+    "verifiedAt": "2026-09-05",
+    "notBefore": "2026-10-12",
+    "status": "queued"
+  },
+  {
+    "name": "Gringo├ó┬Ç┬Ös Fried Chicken",
+    "phone": "3722-3816 / 11 958391663",
+    "type": "restaurante",
+    "city": "São Paulo",
+    "source": "https://www.instagram.com/gringos.friedchicken/",
+    "verifiedAt": "2026-09-05",
+    "notBefore": "2026-10-12",
+    "status": "queued"
+  },
+  {
+    "name": "HUTO",
+    "phone": "5052-6804/  5041-6809  /  3071-3765 /  98134-9488 FABIO HONDA",
+    "type": "restaurante",
+    "city": "São Paulo",
+    "source": "https://www.instagram.com/grupo_huto/",
+    "verifiedAt": "2026-09-05",
+    "notBefore": "2026-10-12",
+    "status": "queued"
+  },
+  {
+    "name": "Sushi Casa Verde",
+    "phone": "2592-4456",
+    "type": "restaurante",
+    "city": "São Paulo",
+    "source": "https://www.instagram.com/sushicasaverde/",
+    "verifiedAt": "2026-09-05",
+    "notBefore": "2026-10-12",
+    "status": "queued"
+  },
+  {
+    "name": "Tokyo paradaisu",
+    "phone": "1194230-2485",
+    "type": "restaurante",
+    "city": "São Paulo",
+    "source": "https://www.instagram.com/tokyoparadaisu/",
+    "verifiedAt": "2026-09-05",
+    "notBefore": "2026-10-12",
+    "status": "queued"
+  },
+  {
+    "name": "IMAKAY",
+    "phone": "3078-7786",
+    "type": "restaurante",
+    "city": "São Paulo",
+    "source": "https://www.instagram.com/imakaysaopaulo/",
+    "verifiedAt": "2026-09-05",
+    "notBefore": "2026-10-12",
+    "status": "sent",
+    "sentAt": "2026-10-12T13:02:29.152Z"
+  },
+  {
+    "name": "Itoya Sushi",
+    "phone": "N TEM",
+    "type": "restaurante",
+    "city": "São Paulo",
+    "source": "https://www.instagram.com/itoyasushivilamaria/",
+    "verifiedAt": "2026-09-05",
+    "notBefore": "2026-10-12",
+    "status": "queued"
+  },
+  {
+    "name": "Nestor Pizzaria Gastron├â┬┤mica",
+    "phone": "11 2084-8282",
+    "type": "restaurante",
+    "city": "São Paulo",
+    "source": "https://www.instagram.com/nestorpizzariagastro/",
+    "verifiedAt": "2026-09-05",
+    "notBefore": "2026-10-12",
+    "status": "queued"
+  },
+  {
+    "name": "Santa Fe├î┬ü A Costela",
+    "phone": "2613-7467 / 11-94762-1808 NETO",
+    "type": "restaurante",
+    "city": "São Paulo",
+    "source": "https://www.instagram.com/santafeacostela/?hl=pt-br",
+    "verifiedAt": "2026-09-05",
+    "notBefore": "2026-10-12",
+    "status": "queued"
+  },
+  {
+    "name": "Santa Fe├î┬ü O Cupim",
+    "phone": "2594-3426 / 11-94762-1808 NETO",
+    "type": "restaurante",
+    "city": "São Paulo",
+    "source": "https://www.instagram.com/santafeocupim/",
+    "verifiedAt": "2026-09-05",
+    "notBefore": "2026-10-12",
+    "status": "queued"
+  },
+  {
+    "name": "Santa Fe Vila Leopoldina",
+    "phone": "2649-7041 / 11-94762-1808 NETO",
+    "type": "restaurante",
+    "city": "São Paulo",
+    "source": "https://www.instagram.com/santafegrelhados/",
+    "verifiedAt": "2026-09-05",
+    "notBefore": "2026-10-12",
+    "status": "queued"
+  },
+  {
+    "name": "Nativas Grill Sa├î┬âo Paulo",
+    "phone": "11 2213-8222",
+    "type": "restaurante",
+    "city": "São Paulo",
+    "source": "https://www.instagram.com/nativasgrillsaopaulo/",
+    "verifiedAt": "2026-09-05",
+    "notBefore": "2026-10-12",
+    "status": "queued"
+  },
+  {
+    "name": "Nativas Grill Vila Mariana",
+    "phone": "5555-7489",
+    "type": "restaurante",
+    "city": "São Paulo",
+    "source": "https://www.instagram.com/nativasgrillvilamariana/",
+    "verifiedAt": "2026-09-05",
+    "notBefore": "2026-10-12",
+    "status": "queued"
+  },
+  {
+    "name": "THE LITTLE COFFEE SHOP",
+    "phone": "2385-5430",
+    "type": "restaurante",
+    "city": "São Paulo",
+    "source": "https://www.instagram.com/thelittlecoffeeshop/",
+    "verifiedAt": "2026-09-05",
+    "notBefore": "2026-10-12",
     "status": "queued"
   }
 ]
