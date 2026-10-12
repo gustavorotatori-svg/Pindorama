@@ -32876,7 +32876,10 @@
     "email2": true,
     "date2": "2026-09-08",
     "email3": true,
-    "date3": "2026-09-12"
+    "date3": "2026-09-12",
+    "whatsappSent": true,
+    "whatsappDate": "2026-10-12",
+    "whatsappSource": "https://www.instagram.com/imakaysaopaulo/"
   },
   {
     "name": "Itoya Sushi",
