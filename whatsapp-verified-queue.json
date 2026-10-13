@@ -3169,5 +3169,27 @@
     "verifiedAt": "2026-09-05",
     "notBefore": "2026-10-12",
     "status": "queued"
+  },
+  {
+    "name": "P├â┬úo de alho do tio nico",
+    "phone": "1191295-0460 LOJA/ 011964258080 Nicolas",
+    "type": "restaurante",
+    "city": "São Paulo",
+    "source": "https://www.instagram.com/paodealhodotionico/",
+    "verifiedAt": "2026-09-05",
+    "notBefore": "2026-10-13",
+    "status": "queued",
+    "digits": "119129504600"
+  },
+  {
+    "name": "Sorveteria do Centro",
+    "phone": "11 941980318 / 934719201 carol / 11996882296 fl├â┬ívia",
+    "type": "restaurante",
+    "city": "São Paulo",
+    "source": "https://www.instagram.com/sorveteriadocentrosp/",
+    "verifiedAt": "2026-09-05",
+    "notBefore": "2026-10-13",
+    "status": "queued",
+    "digits": "119419803189"
   }
 ]
