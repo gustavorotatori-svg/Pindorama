@@ -43287,7 +43287,9 @@
     "state": "SP",
     "phone": "(11) 99739-4676",
     "email1": true,
-    "date1": "2026-10-11"
+    "date1": "2026-10-11",
+    "email2": true,
+    "date2": "2026-10-12"
   },
   {
     "name": "Star Place Buffet",
@@ -43302,7 +43304,9 @@
     "state": "SP",
     "phone": "(11) 99516-7544",
     "email1": true,
-    "date1": "2026-10-11"
+    "date1": "2026-10-11",
+    "email2": true,
+    "date2": "2026-10-12"
   },
   {
     "name": "Doces Motivos Buffet",
@@ -43317,7 +43321,9 @@
     "state": "SP",
     "phone": "(11) 98284-6598",
     "email1": true,
-    "date1": "2026-10-11"
+    "date1": "2026-10-11",
+    "email2": true,
+    "date2": "2026-10-12"
   },
   {
     "name": "Buffet Q Art",
@@ -43332,7 +43338,9 @@
     "state": "SP",
     "phone": "(11) 2593-4705",
     "email1": true,
-    "date1": "2026-10-11"
+    "date1": "2026-10-11",
+    "email2": true,
+    "date2": "2026-10-12"
   },
   {
     "name": "Espaço Buffet São Paulo",
@@ -43347,6 +43355,8 @@
     "state": "SP",
     "phone": "(11) 97114-6170",
     "email1": true,
-    "date1": "2026-10-11"
+    "date1": "2026-10-11",
+    "email2": true,
+    "date2": "2026-10-12"
   }
 ]
