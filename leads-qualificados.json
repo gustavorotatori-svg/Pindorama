@@ -34736,7 +34736,9 @@
       "role": null,
       "source": "Resposta por email de WDG Events em 30/08/2026"
     },
-    "respostaFollowupDate": "2026-09-04"
+    "respostaFollowupDate": "2026-09-04",
+    "email2": true,
+    "date2": "2026-10-13"
   },
   {
     "name": "Lab Bar Eventos",
@@ -35233,7 +35235,9 @@
     "responded": false,
     "responseDate": null,
     "response": null,
-    "responseNote": "Resposta recebida em 31/08/2026: contato encaminhado ao setor de compras. Proximo passo manual: aguardar retorno do comprador; nenhum follow-up automatico enviado."
+    "responseNote": "Resposta recebida em 31/08/2026: contato encaminhado ao setor de compras. Proximo passo manual: aguardar retorno do comprador; nenhum follow-up automatico enviado.",
+    "email2": true,
+    "date2": "2026-10-13"
   },
   {
     "name": "Bar2Go",
@@ -35278,7 +35282,9 @@
     "responded": false,
     "responseDate": null,
     "response": null,
-    "responseNote": "Resposta recebida em 31/08/2026: solicitacao encaminhada internamente a equipe do hotel. Proximo passo manual: aguardar retorno; nenhum follow-up automatico enviado."
+    "responseNote": "Resposta recebida em 31/08/2026: solicitacao encaminhada internamente a equipe do hotel. Proximo passo manual: aguardar retorno; nenhum follow-up automatico enviado.",
+    "email2": true,
+    "date2": "2026-10-13"
   },
   {
     "name": "XBAR",
@@ -36684,7 +36690,9 @@
     "interestNote": "Interesse comercial explicito em conversar sobre parceria e possivel inclusao da Pindorama no portfolio especializado.",
     "nextStep": "Retomar manualmente com Silvio Luiz Parente para combinar conversa e oferecer amostra ou degustacao.",
     "automationIncident": "Email2 foi enviado em 2026-08-29 apos a resposta positiva de 2026-08-25; bloquear novos follow-ups automaticos.",
-    "respostaFollowupDate": "2026-09-04"
+    "respostaFollowupDate": "2026-09-04",
+    "email3": true,
+    "date3": "2026-10-13"
   },
   {
     "name": "Grill & Brasa",
