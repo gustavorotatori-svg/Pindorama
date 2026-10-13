@@ -862,13 +862,14 @@
     "interested": true,
     "interestDate": "2026-07-31",
     "interestNote": "Ghirag: pediu tabela de pre├ºos e condi├º├Áes comerciais; querem conhecer a linha; pediram se fatura por SP ou RJ (resposta: RJ). Tabela e condi├º├Áes enviadas em 31/07. Aguardando dados p/ NF de amostra.",
-    "response": "Pediu tabela de pre├ºos e condi├º├Áes comerciais - enviei resposta com tabela + condi├º├Áes (31/07)",
-    "responded": true,
-    "responseDate": "2026-07-31",
+    "response": null,
+    "responded": false,
+    "responseDate": null,
     "notes": [
       "31/07 #2: Ghirag perguntou sobre DIFAL 21%, posicionamento vs cacha├ºas <R e Magalu <R, e se Cobra Coral ├® jabuticaba. Respondido com: sem DIFAL para contribuinte (ICMS interestadual 12% + cr├®dito, NF modelo p/ confer├¬ncia), posicionamento artesanal premium + pol├¡tica de pre├ºo firme p/ proteger canal, Cobra Coral = jabuticaba confirmado. Aguardando dados p/ NF de amostra."
     ],
-    "respostaFollowupDate": "2026-09-04"
+    "respostaFollowupDate": "2026-09-04",
+    "emailVerifiedAt": "2026-10-13"
   },
   {
     "name": "Adega do Louro",
@@ -2259,9 +2260,11 @@
     "email1": true,
     "date1": "2026-08-02",
     "askedCadastro": true,
-    "responded": true,
-    "responseDate": "2026-08-04",
-    "respostaFollowupDate": "2026-09-04"
+    "responded": false,
+    "responseDate": null,
+    "respostaFollowupDate": "2026-09-04",
+    "response": null,
+    "emailVerifiedAt": "2026-10-13"
   },
   {
     "name": "Kanguru Supermercado (Mega Adega)",
@@ -8462,9 +8465,12 @@
     "date1": "2026-08-02",
     "email2": true,
     "date2": "2026-08-06",
-    "responded": true,
+    "responded": false,
     "doNotContact": true,
-    "doNotContactReason": "Cliente j├í atendido pela marca Pindorama; n├úo prospectar nem enviar follow-up."
+    "doNotContactReason": "Cliente j├í atendido pela marca Pindorama; n├úo prospectar nem enviar follow-up.",
+    "responseDate": null,
+    "response": null,
+    "emailVerifiedAt": "2026-10-13"
   },
   {
     "name": "MOCOT├â┬ô AQUI",
@@ -8480,9 +8486,12 @@
     "date1": "2026-08-02",
     "email2": true,
     "date2": "2026-08-06",
-    "responded": true,
+    "responded": false,
     "doNotContact": true,
-    "doNotContactReason": "Cliente j├í atendido pela marca Pindorama; n├úo prospectar nem enviar follow-up."
+    "doNotContactReason": "Cliente j├í atendido pela marca Pindorama; n├úo prospectar nem enviar follow-up.",
+    "responseDate": null,
+    "response": null,
+    "emailVerifiedAt": "2026-10-13"
   },
   {
     "name": "BRIGADEIRO DOCERIA & CAF├â┬ë",
@@ -8527,9 +8536,11 @@
     "email1": true,
     "date1": "2026-08-02",
     "askedCadastro": true,
-    "responded": true,
-    "responseDate": "2026-08-04",
-    "respostaFollowupDate": "2026-09-04"
+    "responded": false,
+    "responseDate": null,
+    "respostaFollowupDate": "2026-09-04",
+    "response": null,
+    "emailVerifiedAt": "2026-10-13"
   },
   {
     "name": "CASA GODINHO",
@@ -22260,9 +22271,12 @@
     "website": "",
     "email1": true,
     "date1": "2026-08-08",
-    "responded": true,
+    "responded": false,
     "doNotContact": true,
-    "doNotContactReason": "Cliente j├í atendido pela marca Pindorama; n├úo prospectar nem enviar follow-up."
+    "doNotContactReason": "Cliente j├í atendido pela marca Pindorama; n├úo prospectar nem enviar follow-up.",
+    "responseDate": null,
+    "response": null,
+    "emailVerifiedAt": "2026-10-13"
   },
   {
     "name": "Betsy",
@@ -22316,9 +22330,11 @@
     "email1": true,
     "date1": "2026-08-08",
     "askedCadastro": true,
-    "responded": true,
-    "responseDate": "2026-08-09",
-    "respostaFollowupDate": "2026-09-04"
+    "responded": false,
+    "responseDate": null,
+    "respostaFollowupDate": "2026-09-04",
+    "response": null,
+    "emailVerifiedAt": "2026-10-13"
   },
   {
     "name": "BOTTEGA 21",
@@ -34710,9 +34726,9 @@
     "messageId1": "<7defdaf9-9c11-cf48-a938-73f3abbcebb0@gmail.com>",
     "interested": true,
     "interestDate": "2026-08-30",
-    "responded": true,
-    "responseDate": "2026-08-30",
-    "response": "WDG Events confirmou abertura para parceria e indicou Andre para alinhamento pelo telefone 12 98231-7356.",
+    "responded": false,
+    "responseDate": null,
+    "response": null,
     "interestNote": "Resposta recebida em 30/08/2026 21:33 BRT: 'Claro, podemos sim fazer boas parcerias. Adiciona o Andre, pode alinhar com ele.' Proximo passo manual: contatar Andre em (12) 98231-7356; nenhum cargo foi informado e nenhum follow-up automatico foi enviado.",
     "referredContact": {
       "name": "Andre",
@@ -35214,9 +35230,9 @@
     "date1": "2026-08-30",
     "status": "responded_routed",
     "messageId1": "<8196237e-6674-d3bb-bbf1-d1fb9f4223c7@gmail.com>",
-    "responded": true,
-    "responseDate": "2026-08-31",
-    "response": "Isabela Brandao, Coordenadora de Eventos, encaminhou a apresentacao ao setor de compras do Vitoria Concept Campinas.",
+    "responded": false,
+    "responseDate": null,
+    "response": null,
     "responseNote": "Resposta recebida em 31/08/2026: contato encaminhado ao setor de compras. Proximo passo manual: aguardar retorno do comprador; nenhum follow-up automatico enviado."
   },
   {
@@ -35259,9 +35275,9 @@
     "date1": "2026-08-30",
     "status": "responded_routed",
     "messageId1": "<df97bbdf-eeb2-86f3-826b-a0e02a123834@gmail.com>",
-    "responded": true,
-    "responseDate": "2026-08-31",
-    "response": "Central de Reservas Bourbon informou que direcionou a solicitacao para a equipe do Bourbon Convention Hotel Santos, copiada no email, para analise e retorno.",
+    "responded": false,
+    "responseDate": null,
+    "response": null,
     "responseNote": "Resposta recebida em 31/08/2026: solicitacao encaminhada internamente a equipe do hotel. Proximo passo manual: aguardar retorno; nenhum follow-up automatico enviado."
   },
   {
@@ -36662,9 +36678,9 @@
     "date1": "2026-08-24",
     "email2": true,
     "date2": "2026-08-29",
-    "responded": true,
-    "responseDate": "2026-08-25",
-    "response": "Silvio Luiz Parente informou que a Bendita Dose e um ecommerce especializado exclusivamente em cachacas premium e extra premium e se mostrou aberto a conversar sobre parceria.",
+    "responded": false,
+    "responseDate": null,
+    "response": null,
     "interestNote": "Interesse comercial explicito em conversar sobre parceria e possivel inclusao da Pindorama no portfolio especializado.",
     "nextStep": "Retomar manualmente com Silvio Luiz Parente para combinar conversa e oferecer amostra ou degustacao.",
     "automationIncident": "Email2 foi enviado em 2026-08-29 apos a resposta positiva de 2026-08-25; bloquear novos follow-ups automaticos.",
