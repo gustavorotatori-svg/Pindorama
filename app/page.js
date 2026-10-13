@@ -1,6 +1,6 @@
 'use client';
 
-import { useEffect, useState, useMemo } from 'react';
+import { useEffect, useState } from 'react';
 
 export default function Dashboard() {
   const [data, setData] = useState(null);
@@ -17,29 +17,6 @@ export default function Dashboard() {
       })
       .catch(() => setLoading(false));
   }, []);
-
-  const filtered = useMemo(() => {
-    if (!data) return null;
-    const matchDate = (dateStr) => {
-      if (!dateStr) return false;
-      if (year !== 'all' && !dateStr.startsWith(year)) return false;
-      if (month !== 'all') {
-        const y = year === 'all' ? dateStr.slice(0, 4) : year;
-        if (!dateStr.startsWith(`${y}-${month}`)) return false;
-      }
-      return true;
-    };
-    const leadsFiltered = data.allLeads.filter((l) => matchDate(l.date1) || matchDate(l.date2) || matchDate(l.date3));
-    const emails1 = leadsFiltered.filter((l) => l.email1 && matchDate(l.date1)).length;
-    const emails2 = leadsFiltered.filter((l) => l.email2 && matchDate(l.date2)).length;
-    const emails3 = leadsFiltered.filter((l) => l.email3 && matchDate(l.date3)).length;
-    return {
-      totalLeads: leadsFiltered.length,
-      emails: { email1: emails1, email2: emails2, email3: emails3, total: emails1 + emails2 + emails3 },
-      responses: leadsFiltered.filter((l) => l.responded && matchDate(l.responseDate)).length,
-      pending: leadsFiltered.filter((l) => !l.email1 && !l.invalidEmail && !l.doNotContact && l.email && l.emailVerified).length,
-    };
-  }, [data, year, month]);
 
   if (loading || !data) {
     return (
@@ -60,10 +37,8 @@ export default function Dashboard() {
   return (
     <div className="dashboard">
       <div className="header">
-        <div className="logo-text">
-          <span className="logo-pindorama">PINDORAMA</span>
-          <span className="logo-gustavo">Gustavo</span>
-        </div>
+        <h1>PINDORAMA</h1>
+        <h2>Gustavo</h2>
         <p>Dashboard de Prospecção — Cachaça Artesanal</p>
         <div className="update-time">Atualizado: {new Date(data.lastUpdate).toLocaleString('pt-BR')}</div>
       </div>
@@ -83,26 +58,26 @@ export default function Dashboard() {
         <div className="card green">
           <div className="card-label">Semana</div>
           <div className="card-value">{data.week.emails.total}</div>
-          <div className="card-sub">{data.week.leads} leads · {data.week.responses} respostas</div>
+          <div className="card-sub">{data.week.leads} leads · {data.week.emails.responses} respostas</div>
         </div>
         <div className="card blue">
           <div className="card-label">Mês</div>
           <div className="card-value">{data.month.emails.total}</div>
-          <div className="card-sub">{data.month.leads} leads · {data.month.responses} respostas</div>
+          <div className="card-sub">{data.month.leads} leads · {data.month.emails.responses} respostas</div>
         </div>
         <div className="card purple">
           <div className="card-label">Ano (YTD)</div>
           <div className="card-value">{data.year.emails.total}</div>
-          <div className="card-sub">{data.year.leads} leads · {data.year.responses} respostas</div>
+          <div className="card-sub">{data.year.leads} leads · {data.year.emails.responses} respostas</div>
         </div>
         <div className="card accent">
           <div className="card-label">Total Leads</div>
-          <div className="card-value">{filtered.totalLeads}</div>
-          <div className="card-sub">{filtered.emails.total} emails no período</div>
+          <div className="card-value">{data.totalLeads}</div>
+          <div className="card-sub">{data.emails.total} emails no total</div>
         </div>
         <div className="card orange">
           <div className="card-label">Pendentes</div>
-          <div className="card-value">{filtered.pending}</div>
+          <div className="card-value">{data.pending}</div>
           <div className="card-sub">aguardando envio</div>
         </div>
       </div>
