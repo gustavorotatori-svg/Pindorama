@@ -1,6 +1,6 @@
 {
-  "lastUpdate": "2026-10-15T16:48:07.242Z",
-  "totalLeads": 2863,
+  "lastUpdate": "2026-10-15T21:14:33.247Z",
+  "totalLeads": 3122,
   "allLeads": [
     {
       "name": "Bar do Nerso",
@@ -28058,21 +28058,2555 @@
       "city": "São Paulo",
       "email": "reservas@asnovicas.com.br",
       "emailVerified": true,
+      "email1": true,
+      "date1": "2026-10-15"
+    },
+    {
+      "name": "Open Chopp",
+      "type": "distribuidora",
+      "neighborhood": "Taboão da Serra",
+      "city": "São Paulo",
+      "email": "contato@choppexpress.com.br",
+      "emailVerified": true,
+      "email1": true,
+      "date1": "2026-10-15"
+    },
+    {
+      "name": "Milfont Distribuidora",
+      "type": "distribuidora",
+      "neighborhood": "Monte Alegre",
+      "city": "Taboão da Serra",
+      "email": "comercial@milfontdistribuidora.com.br",
+      "emailVerified": true,
+      "email1": true,
+      "date1": "2026-10-15"
+    },
+    {
+      "name": "Adega do Kinho",
+      "type": "adega",
+      "neighborhood": "Jardim Sao Bernardo",
+      "city": "São Paulo",
+      "email": "contato@elementadega.com.br",
+      "emailVerified": true,
+      "email1": true,
+      "date1": "2026-10-15"
+    },
+    {
+      "name": "LassuÌ",
+      "type": "restaurante",
+      "neighborhood": "",
+      "city": "São Paulo",
+      "email": "contato@lassurestaurante.com",
+      "emailVerified": true,
+      "email1": true,
+      "date1": "2026-10-15"
+    },
+    {
+      "name": "Gorooh Burguer",
+      "type": "restaurante",
+      "neighborhood": "",
+      "city": "São Paulo",
+      "email": "adm@goroohburguer.com.br",
+      "emailVerified": true,
+      "email1": true,
+      "date1": "2026-10-15"
+    },
+    {
+      "name": "Milk & Mellow",
+      "type": "restaurante",
+      "neighborhood": "",
+      "city": "São Paulo",
+      "email": "jorge@alvk.com.br",
+      "emailVerified": true,
+      "email1": true,
+      "date1": "2026-10-15"
+    },
+    {
+      "name": "BLACK TRUNCK BRASIL",
+      "type": "restaurante",
+      "neighborhood": "",
+      "city": "São Paulo",
+      "email": "financeiro@blacktrunkbrasil.com.br",
+      "emailVerified": true,
+      "email1": true,
+      "date1": "2026-10-15"
+    },
+    {
+      "name": "ANTONIETTA CUCINA",
+      "type": "restaurante",
+      "neighborhood": "",
+      "city": "São Paulo",
+      "email": "contato@regionaljacaranda.com.br",
+      "emailVerified": true,
+      "email1": true,
+      "date1": "2026-10-15"
+    },
+    {
+      "name": "BIO - COMER SAUDÃVEL",
+      "type": "restaurante",
+      "neighborhood": "",
+      "city": "São Paulo",
+      "email": "adm@restaurantebio.com.br",
+      "emailVerified": true,
+      "email1": true,
+      "date1": "2026-10-15"
+    },
+    {
+      "name": "CIAO! VINO & BIRRA",
+      "type": "restaurante",
+      "neighborhood": "",
+      "city": "São Paulo",
+      "email": "ciao@ciaovinoebirra.com.br",
+      "emailVerified": true,
+      "email1": false
+    },
+    {
+      "name": "KAÃ RESTAURANTE",
+      "type": "restaurante",
+      "neighborhood": "",
+      "city": "São Paulo",
+      "email": "contato@kaarestaurante.com.br",
+      "emailVerified": true,
+      "email1": true,
+      "date1": "2026-10-15"
+    },
+    {
+      "name": "Doceria Food Shop",
+      "type": "restaurante",
+      "neighborhood": "",
+      "city": "São Paulo",
+      "email": "contato@doceriafoodshop.com.br",
+      "emailVerified": true,
+      "email1": true,
+      "date1": "2026-10-15"
+    },
+    {
+      "name": "AteliÃª Dona Formiga",
+      "type": "restaurante",
+      "neighborhood": "",
+      "city": "São Paulo",
+      "email": "contato@ateliedonaformiga.com.br",
+      "emailVerified": true,
+      "email1": true,
+      "date1": "2026-10-15"
+    },
+    {
+      "name": "Esquina do Fuad",
+      "type": "restaurante",
+      "neighborhood": "",
+      "city": "São Paulo",
+      "email": "contato@esquinagrill.com.br",
+      "emailVerified": true,
+      "email1": true,
+      "date1": "2026-10-15"
+    },
+    {
+      "name": "LAPIN CAFÃ ET BISTROT",
+      "type": "restaurante",
+      "neighborhood": "",
+      "city": "São Paulo",
+      "email": "compras@lapinrestaurante.com.br",
+      "emailVerified": true,
+      "email1": true,
+      "date1": "2026-10-15"
+    },
+    {
+      "name": "Black`n Load CafÃ©s Especiais",
+      "type": "restaurante",
+      "neighborhood": "",
+      "city": "São Paulo",
+      "email": "contato@blacknload.com",
+      "emailVerified": true,
+      "email1": true,
+      "date1": "2026-10-15"
+    },
+    {
+      "name": "Partisans Pub",
+      "type": "bar",
+      "neighborhood": "",
+      "city": "São Paulo",
+      "email": "contato@partisanspub.com.br",
+      "emailVerified": true,
+      "email1": true,
+      "date1": "2026-10-15"
+    },
+    {
+      "name": "Pita Bar e Kebab",
+      "type": "restaurante",
+      "neighborhood": "",
+      "city": "São Paulo",
+      "email": "contato@pita.com.br",
+      "emailVerified": true,
+      "email1": true,
+      "date1": "2026-10-15"
+    },
+    {
+      "name": "el CarbÃ³n",
+      "type": "restaurante",
+      "neighborhood": "",
+      "city": "São Paulo",
+      "email": "contato@elcarbon.com.br",
+      "emailVerified": true,
+      "email1": true,
+      "date1": "2026-10-15"
+    },
+    {
+      "name": "TIMO CUCINA",
+      "type": "restaurante",
+      "neighborhood": "",
+      "city": "São Paulo",
+      "email": "contato@timorestaurante.com.br",
+      "emailVerified": true,
+      "email1": true,
+      "date1": "2026-10-15"
+    },
+    {
+      "name": "TEA CONNECTION",
+      "type": "restaurante",
+      "neighborhood": "",
+      "city": "São Paulo",
+      "email": "oi@teaconnection.com.br",
+      "emailVerified": true,
+      "email1": true,
+      "date1": "2026-10-15"
+    },
+    {
+      "name": "PASTAGRANO",
+      "type": "restaurante",
+      "neighborhood": "",
+      "city": "São Paulo",
+      "email": "atendimento@pastagrano.com.br",
+      "emailVerified": true,
+      "email1": true,
+      "date1": "2026-10-15"
+    },
+    {
+      "name": "MONTE LÃBANO",
+      "type": "restaurante",
+      "neighborhood": "",
+      "city": "São Paulo",
+      "email": "contato@gastronomiamontelibano.com.br",
+      "emailVerified": true,
+      "email1": true,
+      "date1": "2026-10-15"
+    },
+    {
+      "name": "LE BON GÃTEAU",
+      "type": "restaurante",
+      "neighborhood": "",
+      "city": "São Paulo",
+      "email": "eliana@lebongateau.com.br",
+      "emailVerified": true,
+      "email1": true,
+      "date1": "2026-10-15"
+    },
+    {
+      "name": "NOX SANDUÃCHE BAR",
+      "type": "restaurante",
+      "neighborhood": "",
+      "city": "São Paulo",
+      "email": "atendimento@noxsanduichebar.com",
+      "emailVerified": true,
+      "email1": true,
+      "date1": "2026-10-15"
+    },
+    {
+      "name": "PRIME BEEF",
+      "type": "restaurante",
+      "neighborhood": "",
+      "city": "São Paulo",
+      "email": "sac@primebeef.com.br",
+      "emailVerified": true,
+      "email1": true,
+      "date1": "2026-10-15"
+    },
+    {
+      "name": "Lolla Meets Fire",
+      "type": "restaurante",
+      "neighborhood": "",
+      "city": "São Paulo",
+      "email": "contato@lollameetsfire.com.br",
+      "emailVerified": true,
+      "email1": true,
+      "date1": "2026-10-15"
+    },
+    {
+      "name": "Padaria Leticia",
+      "type": "restaurante",
+      "neighborhood": "",
+      "city": "São Paulo",
+      "email": "contatos@padarialeticia.com.br",
+      "emailVerified": true,
+      "email1": true,
+      "date1": "2026-10-15"
+    },
+    {
+      "name": "Canto da cerva",
+      "type": "adega",
+      "neighborhood": "",
+      "city": "São Paulo",
+      "email": "contato@cantodacerva.com.br",
+      "emailVerified": true,
+      "email1": true,
+      "date1": "2026-10-15"
+    },
+    {
+      "name": "NATTU Restaurante",
+      "type": "restaurante",
+      "neighborhood": "",
+      "city": "São Paulo",
+      "email": "marketing@fivecapital.com.br",
+      "emailVerified": true,
+      "email1": true,
+      "date1": "2026-10-15"
+    },
+    {
+      "name": "TEAKETTLE",
+      "type": "restaurante",
+      "neighborhood": "",
+      "city": "São Paulo",
+      "email": "eventos@teakettle.com.br",
+      "emailVerified": true,
+      "email1": true,
+      "date1": "2026-10-15"
+    },
+    {
+      "name": "Purple berry",
+      "type": "restaurante",
+      "neighborhood": "",
+      "city": "São Paulo",
+      "email": "pedro.rossa@purpleberry.com.br",
+      "emailVerified": true,
+      "email1": true,
+      "date1": "2026-10-15"
+    },
+    {
+      "name": "GUADALAJARA MEXICAN FOOD",
+      "type": "restaurante",
+      "neighborhood": "",
+      "city": "São Paulo",
+      "email": "contato@guadalajaramexicanfood.com.br",
+      "emailVerified": true,
+      "email1": true,
+      "date1": "2026-10-15"
+    },
+    {
+      "name": "PINA",
+      "type": "restaurante",
+      "neighborhood": "",
+      "city": "São Paulo",
+      "email": "info@pina.restaurant",
+      "emailVerified": true,
+      "email1": false
+    },
+    {
+      "name": "BAROLO TRATTORIA",
+      "type": "restaurante",
+      "neighborhood": "",
+      "city": "São Paulo",
+      "email": "reservas@barolotrattoriasp.com.br",
+      "emailVerified": true,
+      "email1": true,
+      "date1": "2026-10-15"
+    },
+    {
+      "name": "Cantina San Marco",
+      "type": "restaurante",
+      "neighborhood": "",
+      "city": "São Paulo",
+      "email": "sanmarco@cantinasanmarco.com.br",
+      "emailVerified": true,
+      "email1": false
+    },
+    {
+      "name": "CÃR",
+      "type": "restaurante",
+      "neighborhood": "",
+      "city": "São Paulo",
+      "email": "contato@corgastronomia.com.br",
+      "emailVerified": true,
+      "email1": true,
+      "date1": "2026-10-15"
+    },
+    {
+      "name": "SERAFINA",
+      "type": "restaurante",
+      "neighborhood": "",
+      "city": "São Paulo",
+      "email": "contato@serafinarestaurante.com.br",
+      "emailVerified": true,
+      "email1": true,
+      "date1": "2026-10-15"
+    },
+    {
+      "name": "HAKKEN",
+      "type": "restaurante",
+      "neighborhood": "",
+      "city": "São Paulo",
+      "email": "comercial@hakken.com.br",
+      "emailVerified": true,
+      "email1": true,
+      "date1": "2026-10-15"
+    },
+    {
+      "name": "SENSI",
+      "type": "restaurante",
+      "neighborhood": "",
+      "city": "São Paulo",
+      "email": "contato@burgertable.com.br",
+      "emailVerified": true,
+      "email1": true,
+      "date1": "2026-10-15"
+    },
+    {
+      "name": "Rancho da TraÃ­ra",
+      "type": "restaurante",
+      "neighborhood": "",
+      "city": "São Paulo",
+      "email": "mogi@ranchotraira.com.br",
+      "emailVerified": true,
+      "email1": true,
+      "date1": "2026-10-15"
+    },
+    {
+      "name": "JAPA SUSHI E BAR",
+      "type": "restaurante",
+      "neighborhood": "",
+      "city": "São Paulo",
+      "email": "contato@japasushi.com.br",
+      "emailVerified": true,
+      "email1": true,
+      "date1": "2026-10-15"
+    },
+    {
+      "name": "Rota do AcarajÃ©",
+      "type": "restaurante",
+      "neighborhood": "",
+      "city": "São Paulo",
+      "email": "restaurante@rotadoacarajã©.com.br",
+      "emailVerified": true,
+      "email1": true,
+      "date1": "2026-10-15"
+    },
+    {
+      "name": "Brado Restaurante",
+      "type": "restaurante",
+      "neighborhood": "",
+      "city": "São Paulo",
+      "email": "brado@bradorestaurante.com.br",
+      "emailVerified": true,
+      "email1": false
+    },
+    {
+      "name": "JAPS",
+      "type": "restaurante",
+      "neighborhood": "",
+      "city": "São Paulo",
+      "email": "marketing@grupojaps.com.br",
+      "emailVerified": true,
+      "email1": true,
+      "date1": "2026-10-15"
+    },
+    {
+      "name": "MURAKAMI - chef Tsuyoshi Murakami",
+      "type": "restaurante",
+      "neighborhood": "",
+      "city": "São Paulo",
+      "email": "suzana@murakami.net.br",
+      "emailVerified": true,
+      "email1": true,
+      "date1": "2026-10-15"
+    },
+    {
+      "name": "Restaurante DÃ´ CulinÃ¡ria Japonesa",
+      "type": "restaurante",
+      "neighborhood": "",
+      "city": "São Paulo",
+      "email": "contato@doculinariajaponesa.com.br",
+      "emailVerified": true,
+      "email1": true,
+      "date1": "2026-10-15"
+    },
+    {
+      "name": "ARAGON",
+      "type": "restaurante",
+      "neighborhood": "",
+      "city": "São Paulo",
+      "email": "wori@aragonrestaurante.com.br",
+      "emailVerified": true,
+      "email1": true,
+      "date1": "2026-10-15"
+    },
+    {
+      "name": "Panificadora Vila Monumento",
+      "type": "restaurante",
+      "neighborhood": "",
+      "city": "São Paulo",
+      "email": "atendimento@panificadoravilamonumento.com.br",
+      "emailVerified": true,
+      "email1": false
+    },
+    {
+      "name": "Boteco Coutinho",
+      "type": "restaurante",
+      "neighborhood": "",
+      "city": "São Paulo",
+      "email": "contato@botecocoutinho.com.br",
+      "emailVerified": true,
+      "email1": true,
+      "date1": "2026-10-15"
+    },
+    {
+      "name": "MoDi Gastronomia",
+      "type": "restaurante",
+      "neighborhood": "",
+      "city": "São Paulo",
+      "email": "fernanda@modi.net.br",
+      "emailVerified": true,
+      "email1": true,
+      "date1": "2026-10-15"
+    },
+    {
+      "name": "TASCA DO ZÃ E DA MARIA",
+      "type": "restaurante",
+      "neighborhood": "",
+      "city": "São Paulo",
+      "email": "tascazemaria@globomail.com",
+      "emailVerified": true,
+      "email1": true,
+      "date1": "2026-10-15"
+    },
+    {
+      "name": "WHAT`S ON TAP",
+      "type": "adega",
+      "neighborhood": "",
+      "city": "São Paulo",
+      "email": "contato@wot.com.br",
+      "emailVerified": true,
+      "email1": true,
+      "date1": "2026-10-15"
+    },
+    {
+      "name": "Pizzaria Monte Vero",
+      "type": "restaurante",
+      "neighborhood": "",
+      "city": "São Paulo",
+      "email": "contato@pizzariamontevero.com.br",
+      "emailVerified": true,
+      "email1": true,
+      "date1": "2026-10-15"
+    },
+    {
+      "name": "CAVA BAR",
+      "type": "restaurante",
+      "neighborhood": "",
+      "city": "São Paulo",
+      "email": "contato@cavabar.com.br",
+      "emailVerified": true,
+      "email1": true,
+      "date1": "2026-10-15"
+    },
+    {
+      "name": "BOTECO SÃO PAULO",
+      "type": "bar",
+      "neighborhood": "",
+      "city": "São Paulo",
+      "email": "botecosaopaulo@botecosaopaulo.com.br",
+      "emailVerified": true,
+      "email1": false
+    },
+    {
+      "name": "NOW BURGER",
+      "type": "restaurante",
+      "neighborhood": "",
+      "city": "São Paulo",
+      "email": "sac@nowburger.com.br",
+      "emailVerified": true,
+      "email1": true,
+      "date1": "2026-10-15"
+    },
+    {
+      "name": "Santo Xis",
+      "type": "restaurante",
+      "neighborhood": "",
+      "city": "São Paulo",
+      "email": "contato@santoxis.com",
+      "emailVerified": true,
+      "email1": true,
+      "date1": "2026-10-15"
+    },
+    {
+      "name": "The Xtreme Burger",
+      "type": "restaurante",
+      "neighborhood": "",
+      "city": "São Paulo",
+      "email": "contato@txburger.com.br",
+      "emailVerified": true,
+      "email1": true,
+      "date1": "2026-10-15"
+    },
+    {
+      "name": "MUDA ORGANIC BURGER & BAR",
+      "type": "restaurante",
+      "neighborhood": "",
+      "city": "São Paulo",
+      "email": "mkt@mudaburger.com.br",
+      "emailVerified": true,
+      "email1": true,
+      "date1": "2026-10-15"
+    },
+    {
+      "name": "Bendito BBQ & Burger",
+      "type": "restaurante",
+      "neighborhood": "",
+      "city": "São Paulo",
+      "email": "contato@benditorockburger.com.br",
+      "emailVerified": true,
+      "email1": true,
+      "date1": "2026-10-15"
+    },
+    {
+      "name": "TRI BURGER",
+      "type": "restaurante",
+      "neighborhood": "",
+      "city": "São Paulo",
+      "email": "contato@3burger.com.br",
+      "emailVerified": true,
+      "email1": true,
+      "date1": "2026-10-15"
+    },
+    {
+      "name": "Depot 4 Grilled Burger",
+      "type": "restaurante",
+      "neighborhood": "",
+      "city": "São Paulo",
+      "email": "ipiranga@depot4.com.br",
+      "emailVerified": true,
+      "email1": true,
+      "date1": "2026-10-15"
+    },
+    {
+      "name": "Padaria Manuella",
+      "type": "restaurante",
+      "neighborhood": "",
+      "city": "São Paulo",
+      "email": "contato@padariamanuella.com.br",
+      "emailVerified": true,
+      "email1": false
+    },
+    {
+      "name": "BURGER FUN",
+      "type": "restaurante",
+      "neighborhood": "",
+      "city": "São Paulo",
+      "email": "contato.bf@burguerfun.com.br",
+      "emailVerified": true,
+      "email1": true,
+      "date1": "2026-10-15"
+    },
+    {
+      "name": "La Gloria Pizza Bar",
+      "type": "restaurante",
+      "neighborhood": "",
+      "city": "São Paulo",
+      "email": "lagloria@lagloriapizzabar.com.br",
+      "emailVerified": true,
+      "email1": true,
+      "date1": "2026-10-15"
+    },
+    {
+      "name": "BAR DO ARNESTO",
+      "type": "bar",
+      "neighborhood": "",
+      "city": "São Paulo",
+      "email": "paulo@bardoarnesto.com.br",
+      "emailVerified": true,
+      "email1": true,
+      "date1": "2026-10-15"
+    },
+    {
+      "name": "Bao bar",
+      "type": "bar",
+      "neighborhood": "",
+      "city": "São Paulo",
+      "email": "contato@baobarsp.com.br",
+      "emailVerified": true,
+      "email1": true,
+      "date1": "2026-10-15"
+    },
+    {
+      "name": "TÃRREO BAR",
+      "type": "bar",
+      "neighborhood": "",
+      "city": "São Paulo",
+      "email": "arouche@terreobar.com.br",
+      "emailVerified": true,
+      "email1": true,
+      "date1": "2026-10-15"
+    },
+    {
+      "name": "Tonkotsu Barikote RAMEN MARU",
+      "type": "restaurante",
+      "neighborhood": "",
+      "city": "São Paulo",
+      "email": "maru@ramenmaru.com.br",
+      "emailVerified": true,
+      "email1": true,
+      "date1": "2026-10-15"
+    },
+    {
+      "name": "Mag Market",
+      "type": "restaurante",
+      "neighborhood": "",
+      "city": "São Paulo",
+      "email": "pedidos@magmarket.com.br",
+      "emailVerified": true,
+      "email1": true,
+      "date1": "2026-10-15"
+    },
+    {
+      "name": "Coffee Lab",
+      "type": "restaurante",
+      "neighborhood": "",
+      "city": "São Paulo",
+      "email": "contato@coffelab.com.br",
+      "emailVerified": true,
+      "email1": true,
+      "date1": "2026-10-15"
+    },
+    {
+      "name": "TEMAKI BROTHERS",
+      "type": "restaurante",
+      "neighborhood": "",
+      "city": "São Paulo",
+      "email": "temakibrothers@temakibrothers.com.br",
+      "emailVerified": true,
+      "email1": true,
+      "date1": "2026-10-15"
+    },
+    {
+      "name": "Mangaba",
+      "type": "restaurante",
+      "neighborhood": "",
+      "city": "São Paulo",
+      "email": "administrativo@mangabarestaurante.com.br",
+      "emailVerified": true,
+      "email1": true,
+      "date1": "2026-10-15"
+    },
+    {
+      "name": "BIER & BIER",
+      "type": "adega",
+      "neighborhood": "",
+      "city": "São Paulo",
+      "email": "contato@bierbier.com.br",
+      "emailVerified": true,
+      "email1": true,
+      "date1": "2026-10-15"
+    },
+    {
+      "name": "SA Cozinha Japonesa",
+      "type": "restaurante",
+      "neighborhood": "",
+      "city": "São Paulo",
+      "email": "francine@sacozinhajaponesa.com.br",
+      "emailVerified": true,
+      "email1": true,
+      "date1": "2026-10-15"
+    },
+    {
+      "name": "Trattoria Nacional",
+      "type": "restaurante",
+      "neighborhood": "",
+      "city": "São Paulo",
+      "email": "marketing@trattorianacional.com.br",
+      "emailVerified": true,
+      "email1": true,
+      "date1": "2026-10-15"
+    },
+    {
+      "name": "Nanuky Sushi",
+      "type": "restaurante",
+      "neighborhood": "",
+      "city": "São Paulo",
+      "email": "contato@muresushi.com.br",
+      "emailVerified": true,
+      "email1": true,
+      "date1": "2026-10-15"
+    },
+    {
+      "name": "Bottled Dog",
+      "type": "adega",
+      "neighborhood": "",
+      "city": "São Paulo",
+      "email": "contato@bottleddog.com",
+      "emailVerified": true,
+      "email1": true,
+      "date1": "2026-10-15"
+    },
+    {
+      "name": "SOW CAKE LOUNGE",
+      "type": "restaurante",
+      "neighborhood": "",
+      "city": "São Paulo",
+      "email": "contato@sowcakelounge.com",
+      "emailVerified": true,
+      "email1": true,
+      "date1": "2026-10-15"
+    },
+    {
+      "name": "BBC Container",
+      "type": "restaurante",
+      "neighborhood": "",
+      "city": "São Paulo",
+      "email": "juliana@bbcburger.com.br",
+      "emailVerified": true,
+      "email1": true,
+      "date1": "2026-10-15"
+    },
+    {
+      "name": "AE! Cozinha",
+      "type": "restaurante",
+      "neighborhood": "",
+      "city": "São Paulo",
+      "email": "contato@aecozinha.com.br",
+      "emailVerified": true,
+      "email1": true,
+      "date1": "2026-10-15"
+    },
+    {
+      "name": "TGI Fridays Brasil",
+      "type": "restaurante",
+      "neighborhood": "",
+      "city": "São Paulo",
+      "email": "marketing@tgifridaysbrasil.com.br",
+      "emailVerified": true,
+      "email1": true,
+      "date1": "2026-10-15"
+    },
+    {
+      "name": "Chef Koji Yokomizo",
+      "type": "restaurante",
+      "neighborhood": "",
+      "city": "São Paulo",
+      "email": "bykoji@bykojimorumbi.com.br",
+      "emailVerified": true,
+      "email1": true,
+      "date1": "2026-10-15"
+    },
+    {
+      "name": "ðððððððððð ðð ðð...",
+      "type": "restaurante",
+      "neighborhood": "",
+      "city": "São Paulo",
+      "email": "restaurante@strogonoffdavaleria.com",
+      "emailVerified": true,
+      "email1": true,
+      "date1": "2026-10-15"
+    },
+    {
+      "name": "EspaÃ§o ArimbÃ¡",
+      "type": "restaurante",
+      "neighborhood": "",
+      "city": "São Paulo",
+      "email": "contato@arimbarestaurante.com.br",
+      "emailVerified": true,
+      "email1": true,
+      "date1": "2026-10-15"
+    },
+    {
+      "name": "Nanako",
+      "type": "restaurante",
+      "neighborhood": "",
+      "city": "São Paulo",
+      "email": "restaurante@nanako.com.br",
+      "emailVerified": true,
+      "email1": true,
+      "date1": "2026-10-15"
+    },
+    {
+      "name": "Burger 700",
+      "type": "restaurante",
+      "neighborhood": "",
+      "city": "São Paulo",
+      "email": "contato@burger700.com.br",
+      "emailVerified": true,
+      "email1": true,
+      "date1": "2026-10-15"
+    },
+    {
+      "name": "MUNDIBAR",
+      "type": "restaurante",
+      "neighborhood": "",
+      "city": "São Paulo",
+      "email": "luciano@mundibar.com.br",
+      "emailVerified": true,
+      "email1": true,
+      "date1": "2026-10-15"
+    },
+    {
+      "name": "BURGER MATCH",
+      "type": "restaurante",
+      "neighborhood": "",
+      "city": "São Paulo",
+      "email": "camila@burgermatch.com.br",
+      "emailVerified": true,
+      "email1": true,
+      "date1": "2026-10-15"
+    },
+    {
+      "name": "El Mariachi",
+      "type": "restaurante",
+      "neighborhood": "",
+      "city": "São Paulo",
+      "email": "contato@cantinaelmariachi.com.br",
+      "emailVerified": true,
+      "email1": true,
+      "date1": "2026-10-15"
+    },
+    {
+      "name": "Greentable",
+      "type": "restaurante",
+      "neighborhood": "",
+      "city": "São Paulo",
+      "email": "financeiro@gtrestaurante.com",
+      "emailVerified": true,
+      "email1": true,
+      "date1": "2026-10-15"
+    },
+    {
+      "name": "Jolly Restaurante & Pizzaria",
+      "type": "restaurante",
+      "neighborhood": "",
+      "city": "São Paulo",
+      "email": "michelle@jollypizzaria.com.br",
+      "emailVerified": true,
+      "email1": true,
+      "date1": "2026-10-15"
+    },
+    {
+      "name": "BOTECO VIRIATO",
+      "type": "bar",
+      "neighborhood": "",
+      "city": "São Paulo",
+      "email": "adm@botecoviriato.com.br",
+      "emailVerified": true,
+      "email1": true,
+      "date1": "2026-10-15"
+    },
+    {
+      "name": "Temakeria Paulista",
+      "type": "restaurante",
+      "neighborhood": "",
+      "city": "São Paulo",
+      "email": "contato@temakeriapaulista.com.br",
+      "emailVerified": true,
+      "email1": true,
+      "date1": "2026-10-15"
+    },
+    {
+      "name": "BOX ST. BURGER BAR",
+      "type": "restaurante",
+      "neighborhood": "",
+      "city": "São Paulo",
+      "email": "boxst@boxst.com.br",
+      "emailVerified": true,
+      "email1": true,
+      "date1": "2026-10-15"
+    },
+    {
+      "name": "Yakissoba Mix Sushi",
+      "type": "restaurante",
+      "neighborhood": "",
+      "city": "São Paulo",
+      "email": "contato@yakissobamix.com.br",
+      "emailVerified": true,
+      "email1": true,
+      "date1": "2026-10-15"
+    },
+    {
+      "name": "BRAVO BAR MOOCA",
+      "type": "bar",
+      "neighborhood": "",
+      "city": "São Paulo",
+      "email": "reservas@bravobar.com.br",
+      "emailVerified": true,
+      "email1": true,
+      "date1": "2026-10-15"
+    },
+    {
+      "name": "Mila",
+      "type": "restaurante",
+      "neighborhood": "",
+      "city": "São Paulo",
+      "email": "mila@otito.com.br",
+      "emailVerified": true,
+      "email1": true,
+      "date1": "2026-10-15"
+    },
+    {
+      "name": "FÃRNO",
+      "type": "restaurante",
+      "neighborhood": "",
+      "city": "São Paulo",
+      "email": "pedro@garagemdopadeiro.com",
+      "emailVerified": true,
+      "email1": true,
+      "date1": "2026-10-15"
+    },
+    {
+      "name": "VORTEX BREWHOUSE",
+      "type": "bar",
+      "neighborhood": "",
+      "city": "São Paulo",
+      "email": "gerencia@cervejariavortex.com.br",
+      "emailVerified": true,
+      "email1": true,
+      "date1": "2026-10-15"
+    },
+    {
+      "name": "FAIRE LA BOMBE",
+      "type": "restaurante",
+      "neighborhood": "",
+      "city": "São Paulo",
+      "email": "contato@labombe.com.br",
+      "emailVerified": true,
+      "email1": true,
+      "date1": "2026-10-15"
+    },
+    {
+      "name": "GENUÃNO BAR",
+      "type": "bar",
+      "neighborhood": "",
+      "city": "São Paulo",
+      "email": "genuino@genuinochopp.com.br",
+      "emailVerified": true,
+      "email1": true,
+      "date1": "2026-10-15"
+    },
+    {
+      "name": "HB - Hamburgueria & Cia",
+      "type": "restaurante",
+      "neighborhood": "",
+      "city": "São Paulo",
+      "email": "faleconosco@hbcia.com.br",
+      "emailVerified": true,
+      "email1": true,
+      "date1": "2026-10-15"
+    },
+    {
+      "name": "B Factory Hamburgueria",
+      "type": "restaurante",
+      "neighborhood": "",
+      "city": "São Paulo",
+      "email": "contato@bfactorybrasil.com.br",
+      "emailVerified": true,
+      "email1": true,
+      "date1": "2026-10-15"
+    },
+    {
+      "name": "Hi Pokee",
+      "type": "restaurante",
+      "neighborhood": "",
+      "city": "São Paulo",
+      "email": "contato@hi-pokee.com",
+      "emailVerified": true,
+      "email1": true,
+      "date1": "2026-10-15"
+    },
+    {
+      "name": "Huahine",
+      "type": "restaurante",
+      "neighborhood": "",
+      "city": "São Paulo",
+      "email": "contato@huahinesushi.com.br",
+      "emailVerified": true,
+      "email1": true,
+      "date1": "2026-10-15"
+    },
+    {
+      "name": "ArmazÃ©n Paulista",
+      "type": "bar",
+      "neighborhood": "",
+      "city": "São Paulo",
+      "email": "bar@armazenpaulista.com.br",
+      "emailVerified": true,
+      "email1": true,
+      "date1": "2026-10-15"
+    },
+    {
+      "name": "MiCi Restaurante",
+      "type": "restaurante",
+      "neighborhood": "",
+      "city": "São Paulo",
+      "email": "contato@micirestaurante.com.br",
+      "emailVerified": true,
+      "email1": true,
+      "date1": "2026-10-15"
+    },
+    {
+      "name": "Caos Brasilis",
+      "type": "restaurante",
+      "neighborhood": "",
+      "city": "São Paulo",
+      "email": "contato@caosbrasilis.com.br",
+      "emailVerified": true,
+      "email1": true,
+      "date1": "2026-10-15"
+    },
+    {
+      "name": "Hilda Botequim",
+      "type": "bar",
+      "neighborhood": "",
+      "city": "São Paulo",
+      "email": "falecom@hildabotequim.com",
+      "emailVerified": true,
+      "email1": true,
+      "date1": "2026-10-15"
+    },
+    {
+      "name": "AMBURGUI BR",
+      "type": "restaurante",
+      "neighborhood": "",
+      "city": "São Paulo",
+      "email": "wag@amburgui.com.br",
+      "emailVerified": true,
+      "email1": true,
+      "date1": "2026-10-15"
+    },
+    {
+      "name": "GRAND CRU VINHOS",
+      "type": "restaurante",
+      "neighborhood": "",
+      "city": "São Paulo",
+      "email": "contato@extasia.com.br",
+      "emailVerified": true,
+      "email1": true,
+      "date1": "2026-10-15"
+    },
+    {
+      "name": "Estela Passoni",
+      "type": "restaurante",
+      "neighborhood": "",
+      "city": "São Paulo",
+      "email": "contato@estelapassioni.com",
+      "emailVerified": true,
+      "email1": true,
+      "date1": "2026-10-15"
+    },
+    {
+      "name": "Farfalla Restaurante Pizzaria",
+      "type": "restaurante",
+      "neighborhood": "",
+      "city": "São Paulo",
+      "email": "farfalla@farfalla.com.br",
+      "emailVerified": true,
+      "email1": true,
+      "date1": "2026-10-15"
+    },
+    {
+      "name": "SANDOUI",
+      "type": "restaurante",
+      "neighborhood": "",
+      "city": "São Paulo",
+      "email": "contato@sandoui.com.br",
+      "emailVerified": true,
+      "email1": true,
+      "date1": "2026-10-15"
+    },
+    {
+      "name": "TonToNi",
+      "type": "restaurante",
+      "neighborhood": "",
+      "city": "São Paulo",
+      "email": "contato@tontosp.com.br",
+      "emailVerified": true,
+      "email1": true,
+      "date1": "2026-10-15"
+    },
+    {
+      "name": "NirÃ¡ Sushi",
+      "type": "restaurante",
+      "neighborhood": "",
+      "city": "São Paulo",
+      "email": "contato@nirasushi.com.br",
+      "emailVerified": true,
+      "email1": true,
+      "date1": "2026-10-15"
+    },
+    {
+      "name": "CHARCO",
+      "type": "restaurante",
+      "neighborhood": "",
+      "city": "São Paulo",
+      "email": "adm@charcorestaurante.com.br",
+      "emailVerified": true,
+      "email1": true,
+      "date1": "2026-10-15"
+    },
+    {
+      "name": "QUINTANA",
+      "type": "bar",
+      "neighborhood": "",
+      "city": "São Paulo",
+      "email": "gerencia@botica.bar",
+      "emailVerified": true,
+      "email1": true,
+      "date1": "2026-10-15"
+    },
+    {
+      "name": "C6 BURGER",
+      "type": "restaurante",
+      "neighborhood": "",
+      "city": "São Paulo",
+      "email": "gerencia@c6burger.com",
+      "emailVerified": true,
+      "email1": true,
+      "date1": "2026-10-15"
+    },
+    {
+      "name": "VERÃSSIMO BAR",
+      "type": "bar",
+      "neighborhood": "",
+      "city": "São Paulo",
+      "email": "comunicacao@cgc.bar",
+      "emailVerified": true,
+      "email1": true,
+      "date1": "2026-10-15"
+    },
+    {
+      "name": "THE HIT",
+      "type": "restaurante",
+      "neighborhood": "",
+      "city": "São Paulo",
+      "email": "contato@thehitburguer.com.br",
+      "emailVerified": true,
+      "email1": true,
+      "date1": "2026-10-15"
+    },
+    {
+      "name": "NILO BURGERS",
+      "type": "restaurante",
+      "neighborhood": "",
+      "city": "São Paulo",
+      "email": "contato@niloburgers.com.br",
+      "emailVerified": true,
+      "email1": true,
+      "date1": "2026-10-15"
+    },
+    {
+      "name": "Bistrot Venuto",
+      "type": "restaurante",
+      "neighborhood": "",
+      "city": "São Paulo",
+      "email": "reservas@venutosp.com.br",
+      "emailVerified": true,
+      "email1": true,
+      "date1": "2026-10-15"
+    },
+    {
+      "name": "Garage Burger",
+      "type": "restaurante",
+      "neighborhood": "",
+      "city": "São Paulo",
+      "email": "garageburger@garageburger.com.br",
+      "emailVerified": true,
+      "email1": true,
+      "date1": "2026-10-15"
+    },
+    {
+      "name": "Charada Burguer",
+      "type": "restaurante",
+      "neighborhood": "",
+      "city": "São Paulo",
+      "email": "contato@charadaburguer.com.br",
+      "emailVerified": true,
+      "email1": true,
+      "date1": "2026-10-15"
+    },
+    {
+      "name": "PORTO LUNA",
+      "type": "bar",
+      "neighborhood": "",
+      "city": "São Paulo",
+      "email": "reservas@portolunabar.com.br",
+      "emailVerified": true,
+      "email1": true,
+      "date1": "2026-10-15"
+    },
+    {
+      "name": "Eataly Brasil",
+      "type": "restaurante",
+      "neighborhood": "",
+      "city": "São Paulo",
+      "email": "informacoes@eataly.com.br",
+      "emailVerified": true,
+      "email1": true,
+      "date1": "2026-10-15"
+    },
+    {
+      "name": "BON CAFÃ",
+      "type": "restaurante",
+      "neighborhood": "",
+      "city": "São Paulo",
+      "email": "bon@bonrestaurante.com.br",
+      "emailVerified": true,
+      "email1": true,
+      "date1": "2026-10-15"
+    },
+    {
+      "name": "Zi Tereza Di Napoli",
+      "type": "restaurante",
+      "neighborhood": "",
+      "city": "São Paulo",
+      "email": "jardins@ziterezadinapoli.com.br",
+      "emailVerified": true,
+      "email1": true,
+      "date1": "2026-10-15"
+    },
+    {
+      "name": "MAKOTO",
+      "type": "restaurante",
+      "neighborhood": "",
+      "city": "São Paulo",
+      "email": "supervisordhops@makoto.com.br",
+      "emailVerified": true,
+      "email1": true,
+      "date1": "2026-10-15"
+    },
+    {
+      "name": "RABO DI GALO",
+      "type": "bar",
+      "neighborhood": "",
+      "city": "São Paulo",
+      "email": "saopaulo.marketing@rofewoodhotels.com",
+      "emailVerified": true,
+      "email1": true,
+      "date1": "2026-10-15"
+    },
+    {
+      "name": "RAMONA",
+      "type": "restaurante",
+      "neighborhood": "",
+      "city": "São Paulo",
+      "email": "contato@casaramona.com.br",
+      "emailVerified": true,
+      "email1": true,
+      "date1": "2026-10-15"
+    },
+    {
+      "name": "Bar das Patroas",
+      "type": "bar",
+      "neighborhood": "",
+      "city": "São Paulo",
+      "email": "contato@umoment.com.br",
+      "emailVerified": true,
+      "email1": true,
+      "date1": "2026-10-15"
+    },
+    {
+      "name": "BOSSA",
+      "type": "restaurante",
+      "neighborhood": "",
+      "city": "São Paulo",
+      "email": "contato@bossasp.com.br",
+      "emailVerified": true,
+      "email1": true,
+      "date1": "2026-10-15"
+    },
+    {
+      "name": "Cafe Donut's",
+      "type": "restaurante",
+      "neighborhood": "",
+      "city": "São Paulo",
+      "email": "sac.cafedonuts@cfcentral.com.br",
+      "emailVerified": true,
+      "email1": true,
+      "date1": "2026-10-15"
+    },
+    {
+      "name": "ECLAIR BAR",
+      "type": "bar",
+      "neighborhood": "",
+      "city": "São Paulo",
+      "email": "eclair@eclairbar.com.br",
+      "emailVerified": true,
+      "email1": true,
+      "date1": "2026-10-15"
+    },
+    {
+      "name": "Griffinn CafÃ© & Afins",
+      "type": "restaurante",
+      "neighborhood": "",
+      "city": "São Paulo",
+      "email": "contato@griffinncafeeafins.com",
+      "emailVerified": true,
+      "email1": true,
+      "date1": "2026-10-15"
+    },
+    {
+      "name": "Porco Paulista Bar",
+      "type": "restaurante",
+      "neighborhood": "",
+      "city": "São Paulo",
+      "email": "contato@porcopaulistabar.com.br",
+      "emailVerified": true,
+      "email1": true,
+      "date1": "2026-10-15"
+    },
+    {
+      "name": "Prego Cucina",
+      "type": "restaurante",
+      "neighborhood": "",
+      "city": "São Paulo",
+      "email": "adm@pregocucina.com",
+      "emailVerified": true,
+      "email1": true,
+      "date1": "2026-10-15"
+    },
+    {
+      "name": "Nope Loaded Burger",
+      "type": "restaurante",
+      "neighborhood": "",
+      "city": "São Paulo",
+      "email": "gerencia@nopeburguers.com",
+      "emailVerified": true,
+      "email1": true,
+      "date1": "2026-10-15"
+    },
+    {
+      "name": "Vila Milagro",
+      "type": "restaurante",
+      "neighborhood": "",
+      "city": "São Paulo",
+      "email": "contato@vilamilagro.com.br",
+      "emailVerified": true,
+      "email1": true,
+      "date1": "2026-10-15"
+    },
+    {
+      "name": "Davo Cozinha",
+      "type": "restaurante",
+      "neighborhood": "",
+      "city": "São Paulo",
+      "email": "contato@davocozinha.com",
+      "emailVerified": true,
+      "email1": true,
+      "date1": "2026-10-15"
+    },
+    {
+      "name": "Container Food Market",
+      "type": "restaurante",
+      "neighborhood": "",
+      "city": "São Paulo",
+      "email": "contato@cfm84.com.br",
+      "emailVerified": true,
+      "email1": true,
+      "date1": "2026-10-15"
+    },
+    {
+      "name": "Vito's Pizza",
+      "type": "restaurante",
+      "neighborhood": "",
+      "city": "São Paulo",
+      "email": "victor@vitospizza.com.br",
+      "emailVerified": true,
+      "email1": true,
+      "date1": "2026-10-15"
+    },
+    {
+      "name": "BOTECO 28",
+      "type": "bar",
+      "neighborhood": "",
+      "city": "São Paulo",
+      "email": "adm@bardacidade.com.br",
+      "emailVerified": true,
+      "email1": true,
+      "date1": "2026-10-15"
+    },
+    {
+      "name": "IaiaÌ Cave aÌ Manger",
+      "type": "adega",
+      "neighborhood": "",
+      "city": "São Paulo",
+      "email": "contato@iaiacaveamanger.com.br",
+      "emailVerified": true,
+      "email1": true,
+      "date1": "2026-10-15"
+    },
+    {
+      "name": "Axado drinks",
+      "type": "restaurante",
+      "neighborhood": "",
+      "city": "São Paulo",
+      "email": "contato@axadorestaurante.com.br",
+      "emailVerified": true,
+      "email1": true,
+      "date1": "2026-10-15"
+    },
+    {
+      "name": "Ston Bar",
+      "type": "restaurante",
+      "neighborhood": "",
+      "city": "São Paulo",
+      "email": "marketing@stonbar.com.br",
+      "emailVerified": true,
+      "email1": true,
+      "date1": "2026-10-15"
+    },
+    {
+      "name": "SFORNO",
+      "type": "restaurante",
+      "neighborhood": "",
+      "city": "São Paulo",
+      "email": "info@sfornobrasil.com",
+      "emailVerified": true,
+      "email1": true,
+      "date1": "2026-10-15"
+    },
+    {
+      "name": "tem umami!",
+      "type": "restaurante",
+      "neighborhood": "",
+      "city": "São Paulo",
+      "email": "danilo@temumami.com.br",
+      "emailVerified": true,
+      "email1": true,
+      "date1": "2026-10-15"
+    },
+    {
+      "name": "Sweet Pimenta",
+      "type": "restaurante",
+      "neighborhood": "",
+      "city": "São Paulo",
+      "email": "eventos@sweetpimenta.com.br",
+      "emailVerified": true,
+      "email1": true,
+      "date1": "2026-10-15"
+    },
+    {
+      "name": "Restaurante Saru Sushi",
+      "type": "restaurante",
+      "neighborhood": "",
+      "city": "São Paulo",
+      "email": "contato@sarusushi.com.br",
+      "emailVerified": true,
+      "email1": true,
+      "date1": "2026-10-15"
+    },
+    {
+      "name": "Casa Florida Restaurante",
+      "type": "restaurante",
+      "neighborhood": "",
+      "city": "São Paulo",
+      "email": "contato@restaurantecasaflorida.com.br",
+      "emailVerified": true,
+      "email1": true,
+      "date1": "2026-10-15"
+    },
+    {
+      "name": "Merci Brasserie",
+      "type": "restaurante",
+      "neighborhood": "",
+      "city": "São Paulo",
+      "email": "reservas@villaanalia.com.br",
+      "emailVerified": true,
+      "email1": true,
+      "date1": "2026-10-15"
+    },
+    {
+      "name": "Faronella Pizzaria",
+      "type": "restaurante",
+      "neighborhood": "",
+      "city": "São Paulo",
+      "email": "faronella@faronella.com.br",
+      "emailVerified": true,
+      "email1": true,
+      "date1": "2026-10-15"
+    },
+    {
+      "name": "Art Bar Speakeasy",
+      "type": "bar",
+      "neighborhood": "",
+      "city": "São Paulo",
+      "email": "marketing@artbarspeakeasy.com.br",
+      "emailVerified": true,
+      "email1": true,
+      "date1": "2026-10-15"
+    },
+    {
+      "name": "D-KINGS DOGUERIA",
+      "type": "restaurante",
+      "neighborhood": "",
+      "city": "São Paulo",
+      "email": "contato@dkingsguarulhos.com.br",
+      "emailVerified": true,
+      "email1": true,
+      "date1": "2026-10-15"
+    },
+    {
+      "name": "Sukiyaki House",
+      "type": "restaurante",
+      "neighborhood": "",
+      "city": "São Paulo",
+      "email": "sukiyakihouse@sukiyakihouse.com.br",
+      "emailVerified": true,
+      "email1": true,
+      "date1": "2026-10-15"
+    },
+    {
+      "name": "DoÌzo",
+      "type": "restaurante",
+      "neighborhood": "",
+      "city": "São Paulo",
+      "email": "contato@dozogastronomia.com.br",
+      "emailVerified": true,
+      "email1": true,
+      "date1": "2026-10-15"
+    },
+    {
+      "name": "Boulevard EmpÃ³rio",
+      "type": "restaurante",
+      "neighborhood": "",
+      "city": "São Paulo",
+      "email": "contato@emporioboulevard.com",
+      "emailVerified": true,
+      "email1": true,
+      "date1": "2026-10-15"
+    },
+    {
+      "name": "CREATIVE GASTRONOMIA",
+      "type": "restaurante",
+      "neighborhood": "",
+      "city": "São Paulo",
+      "email": "atendimento@creativeworld.com.br",
+      "emailVerified": true,
+      "email1": true,
+      "date1": "2026-10-15"
+    },
+    {
+      "name": "G&T GIN BAR",
+      "type": "bar",
+      "neighborhood": "",
+      "city": "São Paulo",
+      "email": "info@gtginbar.com",
+      "emailVerified": true,
+      "email1": true,
+      "date1": "2026-10-15"
+    },
+    {
+      "name": "Eat Asia",
+      "type": "restaurante",
+      "neighborhood": "",
+      "city": "São Paulo",
+      "email": "contato@eatasia.com.br",
+      "emailVerified": true,
+      "email1": true,
+      "date1": "2026-10-15"
+    },
+    {
+      "name": "POP DONUTS",
+      "type": "restaurante",
+      "neighborhood": "",
+      "city": "São Paulo",
+      "email": "pinheiros@popdonuts.com.br",
+      "emailVerified": true,
+      "email1": true,
+      "date1": "2026-10-15"
+    },
+    {
+      "name": "SOLARA BAR",
+      "type": "restaurante",
+      "neighborhood": "",
+      "city": "São Paulo",
+      "email": "oi@solarabar.com.br",
+      "emailVerified": true,
+      "email1": true,
+      "date1": "2026-10-15"
+    },
+    {
+      "name": "EmpoÌrio Brownie",
+      "type": "restaurante",
+      "neighborhood": "",
+      "city": "São Paulo",
+      "email": "falecom@emporiobrownie.com.br",
+      "emailVerified": true,
+      "email1": true,
+      "date1": "2026-10-15"
+    },
+    {
+      "name": "CHÃ YÃ",
+      "type": "restaurante",
+      "neighborhood": "",
+      "city": "São Paulo",
+      "email": "contato@chaye.com.br",
+      "emailVerified": true,
+      "email1": true,
+      "date1": "2026-10-15"
+    },
+    {
+      "name": "Cariri Cocktail",
+      "type": "restaurante",
+      "neighborhood": "",
+      "city": "São Paulo",
+      "email": "sergio@drinkstogo.com.br",
+      "emailVerified": true,
+      "email1": true,
+      "date1": "2026-10-15"
+    },
+    {
+      "name": "La Coppa Ristorante",
+      "type": "restaurante",
+      "neighborhood": "",
+      "city": "São Paulo",
+      "email": "marketing@brasagastronomia.com.br",
+      "emailVerified": true,
+      "email1": true,
+      "date1": "2026-10-15"
+    },
+    {
+      "name": "Bocca Nera",
+      "type": "adega",
+      "neighborhood": "",
+      "city": "São Paulo",
+      "email": "contato@boccanerabar.com",
+      "emailVerified": true,
+      "email1": true,
+      "date1": "2026-10-15"
+    },
+    {
+      "name": "Dasian",
+      "type": "restaurante",
+      "neighborhood": "",
+      "city": "São Paulo",
+      "email": "contato@dasian.com.br",
+      "emailVerified": true,
+      "email1": true,
+      "date1": "2026-10-15"
+    },
+    {
+      "name": "ATTO",
+      "type": "restaurante",
+      "neighborhood": "",
+      "city": "São Paulo",
+      "email": "contato@attorestaurante.com.br",
+      "emailVerified": true,
+      "email1": true,
+      "date1": "2026-10-15"
+    },
+    {
+      "name": "Candy Sushi Bar & Club",
+      "type": "bar",
+      "neighborhood": "",
+      "city": "São Paulo",
+      "email": "atendimento@candysp.com.br",
+      "emailVerified": true,
+      "email1": true,
+      "date1": "2026-10-15"
+    },
+    {
+      "name": "Bonita Bar e Cozinha",
+      "type": "restaurante",
+      "neighborhood": "",
+      "city": "São Paulo",
+      "email": "eventosbonita@bonitabar.com.br",
+      "emailVerified": true,
+      "email1": true,
+      "date1": "2026-10-15"
+    },
+    {
+      "name": "Pizzaria Quattrata",
+      "type": "restaurante",
+      "neighborhood": "",
+      "city": "São Paulo",
+      "email": "contato@pizzariaquattrata.com.br",
+      "emailVerified": true,
+      "email1": true,
+      "date1": "2026-10-15"
+    },
+    {
+      "name": "Buteco da Carne",
+      "type": "bar",
+      "neighborhood": "",
+      "city": "São Paulo",
+      "email": "osvaldo.domingos@butecodacarne.com.br",
+      "emailVerified": true,
+      "email1": true,
+      "date1": "2026-10-15"
+    },
+    {
+      "name": "Balada Mix SÃ£o Paulo",
+      "type": "restaurante",
+      "neighborhood": "",
+      "city": "São Paulo",
+      "email": "bdiniz@baladamixsp.com.br",
+      "emailVerified": true,
+      "email1": true,
+      "date1": "2026-10-15"
+    },
+    {
+      "name": "BARCELONA PÃES",
+      "type": "restaurante",
+      "neighborhood": "",
+      "city": "São Paulo",
+      "email": "barcelona@barcelonapaes.com.br",
+      "emailVerified": true,
+      "email1": true,
+      "date1": "2026-10-15"
+    },
+    {
+      "name": "A CASA DA PIZZA ESTUFADA",
+      "type": "restaurante",
+      "neighborhood": "",
+      "city": "São Paulo",
+      "email": "aletorres@acasadapizzaestufada.com.br",
+      "emailVerified": true,
+      "email1": true,
+      "date1": "2026-10-15"
+    },
+    {
+      "name": "Bar Em Nome do Pai",
+      "type": "bar",
+      "neighborhood": "",
+      "city": "São Paulo",
+      "email": "contato@baremnomedopai.com.br",
+      "emailVerified": true,
+      "email1": true,
+      "date1": "2026-10-15"
+    },
+    {
+      "name": "Paiol Urbano Osasco",
+      "type": "bar",
+      "neighborhood": "",
+      "city": "São Paulo",
+      "email": "paiolurbanoosasco@paiolurbano.com",
+      "emailVerified": true,
+      "email1": true,
+      "date1": "2026-10-15"
+    },
+    {
+      "name": "PRIME GOLDEN POTATO",
+      "type": "restaurante",
+      "neighborhood": "",
+      "city": "São Paulo",
+      "email": "marketing@primegoldenpotato.com.br",
+      "emailVerified": true,
+      "email1": true,
+      "date1": "2026-10-15"
+    },
+    {
+      "name": "Verttoni",
+      "type": "restaurante",
+      "neighborhood": "",
+      "city": "São Paulo",
+      "email": "massasartesanais@verttoni.com.br",
+      "emailVerified": true,
+      "email1": true,
+      "date1": "2026-10-15"
+    },
+    {
+      "name": "Farol Cervejaria e Gourmet",
+      "type": "restaurante",
+      "neighborhood": "",
+      "city": "São Paulo",
+      "email": "contato@farolgourmet.com.br",
+      "emailVerified": true,
+      "email1": true,
+      "date1": "2026-10-15"
+    },
+    {
+      "name": "Marinna Gastronomia",
+      "type": "restaurante",
+      "neighborhood": "",
+      "city": "São Paulo",
+      "email": "contato@marinnagastronomia.com.br",
+      "emailVerified": true,
+      "email1": true,
+      "date1": "2026-10-15"
+    },
+    {
+      "name": "Genuino Bar",
+      "type": "bar",
+      "neighborhood": "",
+      "city": "São Paulo",
+      "email": "nelsinho@genuinochopp.com.br",
+      "emailVerified": true,
+      "email1": true,
+      "date1": "2026-10-15"
+    },
+    {
+      "name": "Restaurante Malagueta",
+      "type": "restaurante",
+      "neighborhood": "",
+      "city": "São Paulo",
+      "email": "contato@restaurantemalagueta.com.br",
+      "emailVerified": true,
+      "email1": false
+    },
+    {
+      "name": "TORNEIRA BAR",
+      "type": "bar",
+      "neighborhood": "",
+      "city": "São Paulo",
+      "email": "adm@torneirabar.com.br",
+      "emailVerified": true,
+      "email1": true,
+      "date1": "2026-10-15"
+    },
+    {
+      "name": "Dultier",
+      "type": "restaurante",
+      "neighborhood": "",
+      "city": "São Paulo",
+      "email": "contato@dultier.com.br",
+      "emailVerified": true,
+      "email1": false
+    },
+    {
+      "name": "Vaca CaiÃ§ara",
+      "type": "bar",
+      "neighborhood": "",
+      "city": "São Paulo",
+      "email": "contato@vacacaicara.com.br",
+      "emailVerified": true,
+      "email1": true,
+      "date1": "2026-10-15"
+    },
+    {
+      "name": "MomÃ´zinho",
+      "type": "restaurante",
+      "neighborhood": "",
+      "city": "São Paulo",
+      "email": "laura@labiamidias.com",
+      "emailVerified": true,
+      "email1": false
+    },
+    {
+      "name": "Ministro - Bar e Restaurante",
+      "type": "bar",
+      "neighborhood": "",
+      "city": "São Paulo",
+      "email": "contato@ministrobarerestaurante.com.br",
+      "emailVerified": true,
+      "email1": true,
+      "date1": "2026-10-15"
+    },
+    {
+      "name": "Filomena CafeÌ BistroÌ",
+      "type": "restaurante",
+      "neighborhood": "",
+      "city": "São Paulo",
+      "email": "contato@filomenacafebistro.com.br",
+      "emailVerified": true,
+      "email1": false
+    },
+    {
+      "name": "ð£ðð­ð­ðð¥ðð ð ðð ð ð ð...",
+      "type": "restaurante",
+      "neighborhood": "",
+      "city": "São Paulo",
+      "email": "contato@pizzeriamammaconcetta.com.br",
+      "emailVerified": true,
+      "email1": false
+    },
+    {
+      "name": "PARADISO CASA COMIDA",
+      "type": "restaurante",
+      "neighborhood": "",
+      "city": "São Paulo",
+      "email": "alessandro@paradisocasacomida.com.br",
+      "emailVerified": true,
+      "email1": false
+    },
+    {
+      "name": "AMOR DE CHURROS",
+      "type": "restaurante",
+      "neighborhood": "",
+      "city": "São Paulo",
+      "email": "amordechurros@amordechurros.com.br",
+      "emailVerified": true,
+      "email1": false
+    },
+    {
+      "name": "Dhomus",
+      "type": "restaurante",
+      "neighborhood": "",
+      "city": "São Paulo",
+      "email": "contato@dhomus.com.br",
+      "emailVerified": true,
+      "email1": false
+    },
+    {
+      "name": "Clos Bar a Vin & BistroÌ",
+      "type": "bar",
+      "neighborhood": "",
+      "city": "São Paulo",
+      "email": "contato@closwinebar.com.br",
+      "emailVerified": true,
+      "email1": true,
+      "date1": "2026-10-15"
+    },
+    {
+      "name": "Baco Dvino Wine Bar",
+      "type": "adega",
+      "neighborhood": "",
+      "city": "São Paulo",
+      "email": "raphael@dbacowinebar.com",
+      "emailVerified": true,
+      "email1": true,
+      "date1": "2026-10-15"
+    },
+    {
+      "name": "DOCEVIE",
+      "type": "restaurante",
+      "neighborhood": "",
+      "city": "São Paulo",
+      "email": "marketing@docevie.com.br",
+      "emailVerified": true,
+      "email1": false
+    },
+    {
+      "name": "CITRINO BAR",
+      "type": "bar",
+      "neighborhood": "",
+      "city": "São Paulo",
+      "email": "contato@citrinobar.com.br",
+      "emailVerified": true,
+      "email1": true,
+      "date1": "2026-10-15"
+    },
+    {
+      "name": "Cuattro EstaÃ§Ãµes",
+      "type": "restaurante",
+      "neighborhood": "",
+      "city": "São Paulo",
+      "email": "douglas@cuattroestacoes.com.br",
+      "emailVerified": true,
+      "email1": false
+    },
+    {
+      "name": "Stop Dog",
+      "type": "restaurante",
+      "neighborhood": "",
+      "city": "São Paulo",
+      "email": "contato@lanchesstopdog.com.br",
+      "emailVerified": true,
+      "email1": false
+    },
+    {
+      "name": "Bar do Quintal",
+      "type": "bar",
+      "neighborhood": "",
+      "city": "São Paulo",
+      "email": "comercial@quintalpatroas.com.br",
+      "emailVerified": true,
+      "email1": true,
+      "date1": "2026-10-15"
+    },
+    {
+      "name": "Giro Ristobar",
+      "type": "restaurante",
+      "neighborhood": "",
+      "city": "São Paulo",
+      "email": "adm@giroristobar.com.br",
+      "emailVerified": true,
+      "email1": false
+    },
+    {
+      "name": "Restaurante Vila CafÃ©",
+      "type": "restaurante",
+      "neighborhood": "",
+      "city": "São Paulo",
+      "email": "vilacafe@220.com",
+      "emailVerified": true,
+      "email1": false
+    },
+    {
+      "name": "Cangote Sorvetes",
+      "type": "restaurante",
+      "neighborhood": "",
+      "city": "São Paulo",
+      "email": "contato@cangoteservetes.com.br",
+      "emailVerified": true,
+      "email1": false
+    },
+    {
+      "name": "Sidequest XP",
+      "type": "restaurante",
+      "neighborhood": "",
+      "city": "São Paulo",
+      "email": "contato@sidequest-xp.com.br",
+      "emailVerified": true,
+      "email1": false
+    },
+    {
+      "name": "ðð§ð¡ð ðð¥ð§ ððð¥",
+      "type": "bar",
+      "neighborhood": "",
+      "city": "São Paulo",
+      "email": "faleconosco@btnk.art.br",
+      "emailVerified": true,
+      "email1": true,
+      "date1": "2026-10-15"
+    },
+    {
+      "name": "EspacÌ§o Manakah",
+      "type": "bar",
+      "neighborhood": "",
+      "city": "São Paulo",
+      "email": "contato@manakah.com.br",
+      "emailVerified": true,
+      "email1": true,
+      "date1": "2026-10-15"
+    },
+    {
+      "name": "Beerwings Pub",
+      "type": "bar",
+      "neighborhood": "",
+      "city": "São Paulo",
+      "email": "beerwings@beerwings.com.br",
+      "emailVerified": true,
+      "email1": true,
+      "date1": "2026-10-15"
+    },
+    {
+      "name": "BurgerBits Hamburgueria",
+      "type": "restaurante",
+      "neighborhood": "",
+      "city": "São Paulo",
+      "email": "contato@burgerbits.com.br",
+      "emailVerified": true,
+      "email1": false
+    },
+    {
+      "name": "FRITZÂ® - Santo AndreÌ",
+      "type": "bar",
+      "neighborhood": "",
+      "city": "São Paulo",
+      "email": "contato@fritzsantoandre.com.br",
+      "emailVerified": true,
+      "email1": true,
+      "date1": "2026-10-15"
+    },
+    {
+      "name": "Bar e Hamburgueria Jardim",
+      "type": "bar",
+      "neighborhood": "",
+      "city": "São Paulo",
+      "email": "adm@hamburgueriajardim.com.br",
+      "emailVerified": true,
+      "email1": true,
+      "date1": "2026-10-15"
+    },
+    {
+      "name": "Tanoshimi",
+      "type": "restaurante",
+      "neighborhood": "",
+      "city": "São Paulo",
+      "email": "henrique@duboie.com.br",
+      "emailVerified": true,
+      "email1": false
+    },
+    {
+      "name": "Zombie Burger",
+      "type": "restaurante",
+      "neighborhood": "",
+      "city": "São Paulo",
+      "email": "contato@zombieburger.com.br",
+      "emailVerified": true,
+      "email1": false
+    },
+    {
+      "name": "EdoÌ Sushi Bar",
+      "type": "restaurante",
+      "neighborhood": "",
+      "city": "São Paulo",
+      "email": "contato@edoushibar.com.br",
+      "emailVerified": true,
+      "email1": false
+    },
+    {
+      "name": "Boteco Brazuka",
+      "type": "bar",
+      "neighborhood": "",
+      "city": "São Paulo",
+      "email": "contato@botecobrazuka.com.br",
+      "emailVerified": true,
+      "email1": true,
+      "date1": "2026-10-15"
+    },
+    {
+      "name": "SAN MARCO",
+      "type": "restaurante",
+      "neighborhood": "",
+      "city": "São Paulo",
+      "email": "contato@sanmarconepizzaria.com.br",
+      "emailVerified": true,
+      "email1": false
+    },
+    {
+      "name": "garoupa frutos do mar",
+      "type": "restaurante",
+      "neighborhood": "",
+      "city": "São Paulo",
+      "email": "atendimento@garoupafrutosdomar.com",
+      "emailVerified": true,
+      "email1": false
+    },
+    {
+      "name": "Kensei Sushi Bar",
+      "type": "restaurante",
+      "neighborhood": "",
+      "city": "São Paulo",
+      "email": "social@kenseisushibar.com.br",
+      "emailVerified": true,
+      "email1": false
+    },
+    {
+      "name": "EstaÃ§Ã£o Leopoldina",
+      "type": "restaurante",
+      "neighborhood": "",
+      "city": "São Paulo",
+      "email": "adm@estacaoleopoldina.com.br",
+      "emailVerified": true,
+      "email1": false
+    },
+    {
+      "name": "Tamagochi Sushi Garden",
+      "type": "restaurante",
+      "neighborhood": "",
+      "city": "São Paulo",
+      "email": "carlos@tamagochi.com.br",
+      "emailVerified": true,
+      "email1": false
+    },
+    {
+      "name": "La Revolucion Bar",
+      "type": "bar",
+      "neighborhood": "",
+      "city": "São Paulo",
+      "email": "contato@larevolucionbar.com.br",
+      "emailVerified": true,
+      "email1": true,
+      "date1": "2026-10-15"
+    },
+    {
+      "name": "EspacÌ§oâ¢724",
+      "type": "restaurante",
+      "neighborhood": "",
+      "city": "São Paulo",
+      "email": "atendimento@espaco724.com.br",
+      "emailVerified": true,
+      "email1": false
+    },
+    {
+      "name": "Fica a Dica Gastrobar",
+      "type": "bar",
+      "neighborhood": "",
+      "city": "São Paulo",
+      "email": "ola@ficaadicabar.com.br",
+      "emailVerified": true,
+      "email1": true,
+      "date1": "2026-10-15"
+    },
+    {
+      "name": "Sr. Temaki CulinÃ¡ria Japonesa",
+      "type": "restaurante",
+      "neighborhood": "",
+      "city": "São Paulo",
+      "email": "adm@senhortemaki.com.br",
+      "emailVerified": true,
+      "email1": false
+    },
+    {
+      "name": "Underground Gastro Bar",
+      "type": "restaurante",
+      "neighborhood": "",
+      "city": "São Paulo",
+      "email": "bbq@underbbq.com.br",
+      "emailVerified": true,
+      "email1": false
+    },
+    {
+      "name": "Quintal das Figueiras",
+      "type": "bar",
+      "neighborhood": "",
+      "city": "São Paulo",
+      "email": "contato@quintaldasfigueiras.com.br",
+      "emailVerified": true,
+      "email1": true,
+      "date1": "2026-10-15"
+    },
+    {
+      "name": "Asami Sushi SA",
+      "type": "restaurante",
+      "neighborhood": "",
+      "city": "São Paulo",
+      "email": "contato@asamisushi.com.br",
+      "emailVerified": true,
+      "email1": false
+    },
+    {
+      "name": "I LOVE",
+      "type": "restaurante",
+      "neighborhood": "",
+      "city": "São Paulo",
+      "email": "contato@iloveacaiburger.com",
+      "emailVerified": true,
+      "email1": false
+    },
+    {
+      "name": "Terumi Sushi MauaÌ",
+      "type": "restaurante",
+      "neighborhood": "",
+      "city": "São Paulo",
+      "email": "contato@terumisushi.com.br",
+      "emailVerified": true,
+      "email1": false
+    },
+    {
+      "name": "SoÌ Santo Bar",
+      "type": "bar",
+      "neighborhood": "",
+      "city": "São Paulo",
+      "email": "contato@sosantobar.com.br",
+      "emailVerified": true,
+      "email1": true,
+      "date1": "2026-10-15"
+    },
+    {
+      "name": "Maxi Frango",
+      "type": "restaurante",
+      "neighborhood": "",
+      "city": "São Paulo",
+      "email": "sac@maxifrango.com.br",
+      "emailVerified": true,
+      "email1": false
+    },
+    {
+      "name": "Smashân Tasty",
+      "type": "restaurante",
+      "neighborhood": "",
+      "city": "São Paulo",
+      "email": "contato@smashtasty.com",
+      "emailVerified": true,
+      "email1": false
+    },
+    {
+      "name": "Mansion XV",
+      "type": "restaurante",
+      "neighborhood": "",
+      "city": "São Paulo",
+      "email": "contato@mansionxv.com.br",
+      "emailVerified": true,
+      "email1": false
+    },
+    {
+      "name": "NANICA",
+      "type": "restaurante",
+      "neighborhood": "",
+      "city": "São Paulo",
+      "email": "administrativo@nanicabrasil.com",
+      "emailVerified": true,
+      "email1": false
+    },
+    {
+      "name": "MAIS BURGUINHO",
+      "type": "restaurante",
+      "neighborhood": "",
+      "city": "São Paulo",
+      "email": "contato@maisburguinho.com.br",
+      "emailVerified": true,
+      "email1": false
+    },
+    {
+      "name": "BurgUp Hamburgueria",
+      "type": "restaurante",
+      "neighborhood": "",
+      "city": "São Paulo",
+      "email": "contato@burgup.com.br",
+      "emailVerified": true,
+      "email1": false
+    },
+    {
+      "name": "PANTCHOÂ´S HOUSE BURGER",
+      "type": "restaurante",
+      "neighborhood": "",
+      "city": "São Paulo",
+      "email": "contato@pantchoshouse.com.br",
+      "emailVerified": true,
+      "email1": false
+    },
+    {
+      "name": "ALL_IN SMOKED TASTE",
+      "type": "restaurante",
+      "neighborhood": "",
+      "city": "São Paulo",
+      "email": "adm@allinburger.com.br",
+      "emailVerified": true,
+      "email1": false
+    },
+    {
+      "name": "SAN DO IT",
+      "type": "restaurante",
+      "neighborhood": "",
+      "city": "São Paulo",
+      "email": "contato@sandoit.com.br",
+      "emailVerified": true,
+      "email1": false
+    },
+    {
+      "name": "ESTAÃÃO",
+      "type": "bar",
+      "neighborhood": "",
+      "city": "São Paulo",
+      "email": "atendimento@oestacao.com.br",
+      "emailVerified": true,
+      "email1": true,
+      "date1": "2026-10-15"
+    },
+    {
+      "name": "DoDuda",
+      "type": "restaurante",
+      "neighborhood": "",
+      "city": "São Paulo",
+      "email": "atendimento@doduda.com.br",
+      "emailVerified": true,
+      "email1": false
+    },
+    {
+      "name": "Drosophyla",
+      "type": "bar",
+      "neighborhood": "",
+      "city": "São Paulo",
+      "email": "drosophyla@drosophyla.com",
+      "emailVerified": true,
+      "email1": true,
+      "date1": "2026-10-15"
+    },
+    {
+      "name": "TRABUCA",
+      "type": "bar",
+      "neighborhood": "",
+      "city": "São Paulo",
+      "email": "contato@trabuca.com.br",
+      "emailVerified": true,
+      "email1": true,
+      "date1": "2026-10-15"
+    },
+    {
+      "name": "Prainha Trambuca",
+      "type": "bar",
+      "neighborhood": "",
+      "city": "São Paulo",
+      "email": "prainha@trabuca.com.br",
+      "emailVerified": true,
+      "email1": true,
+      "date1": "2026-10-15"
+    },
+    {
+      "name": "SUPLICY CAFÃS ESPECIAIS",
+      "type": "restaurante",
+      "neighborhood": "",
+      "city": "São Paulo",
+      "email": "sarita.ronchi@suplicycafes.com.br",
+      "emailVerified": true,
+      "email1": false
+    },
+    {
+      "name": "JacarandaÌ",
+      "type": "restaurante",
+      "neighborhood": "",
+      "city": "São Paulo",
+      "email": "contato@grupofamiliafreitas.com.br",
+      "emailVerified": true,
+      "email1": false
+    },
+    {
+      "name": "A Selva Bar",
+      "type": "bar",
+      "neighborhood": "Cambuí",
+      "city": "São Paulo",
+      "email": "contato@aselva.com.br",
+      "emailVerified": true,
+      "email1": false
+    },
+    {
+      "name": "Venda Dona Noêmia",
+      "type": "bar",
+      "neighborhood": "Sorocaba",
+      "city": "São Paulo",
+      "email": "contato@vendadonanoemia.com.br",
+      "emailVerified": true,
+      "email1": false
+    },
+    {
+      "name": "Gaman'T Sushi Bar",
+      "type": "bar",
+      "neighborhood": "Alphaville",
+      "city": "São Paulo",
+      "email": "contato@gamant.com.br",
+      "emailVerified": true,
+      "email1": false
+    },
+    {
+      "name": "The Bull Pub Granja Viana",
+      "type": "bar",
+      "neighborhood": "Granja Viana",
+      "city": "São Paulo",
+      "email": "contato@thebullpubgv.com",
+      "emailVerified": true,
+      "email1": false
+    },
+    {
+      "name": "Distacado Distribuidora",
+      "type": "distribuidora",
+      "neighborhood": "Alphaville",
+      "city": "São Paulo",
+      "email": "contato@distacado.com.br",
+      "emailVerified": true,
+      "email1": false
+    },
+    {
+      "name": "Colibrí Distribuidora Food Service",
+      "type": "distribuidora",
+      "neighborhood": "Presidente Altino",
+      "city": "São Paulo",
+      "email": "contato@colibridistribuidora.com.br",
+      "emailVerified": true,
+      "email1": false
+    },
+    {
+      "name": "Rosso Pizza",
+      "type": "restaurante",
+      "neighborhood": "Centro",
+      "city": "São Paulo",
+      "email": "contato@rossopizza.com.br",
+      "emailVerified": true,
+      "email1": false
+    },
+    {
+      "name": "Le Sorelle Gastronomia",
+      "type": "restaurante",
+      "neighborhood": "São Bernardo do Campo",
+      "city": "São Paulo",
+      "email": "contato@lsgastronomia.com.br",
+      "emailVerified": true,
       "email1": false
     }
   ],
   "emails": {
-    "email1": 2812,
+    "email1": 3015,
     "email2": 1447,
     "email3": 788,
-    "total": 5047
+    "total": 5250
   },
   "whatsapp": {
     "today": 0,
     "total": 218
   },
   "responses": 0,
-  "pending": 2,
+  "pending": 58,
   "daily": [
     {
       "date": "2026-10-02",
@@ -28128,7 +30662,7 @@
     },
     {
       "date": "2026-10-15",
-      "count": 7
+      "count": 210
     }
   ],
   "topNeighborhoods": [
@@ -28137,8 +30671,12 @@
       "count": 2202
     },
     {
+      "name": "São Paulo",
+      "count": 253
+    },
+    {
       "name": "Centro",
-      "count": 25
+      "count": 26
     },
     {
       "name": "Pinheiros",
@@ -28153,12 +30691,12 @@
       "count": 20
     },
     {
-      "name": "Itaim Bibi",
-      "count": 12
+      "name": "Alphaville",
+      "count": 13
     },
     {
-      "name": "Alphaville",
-      "count": 11
+      "name": "Itaim Bibi",
+      "count": 12
     },
     {
       "name": "Campo Belo",
@@ -28175,143 +30713,121 @@
     {
       "name": "Consolacao",
       "count": 8
-    },
-    {
-      "name": "S├úo Paulo",
-      "count": 7
     }
   ],
   "recentLeads": [
     {
-      "name": "Adega & Cia",
+      "name": "Point das Bebidas"
+    },
+    {
+      "name": "Adega Morais",
       "type": "adega",
-      "neighborhood": "Cotia",
-      "city": "São Paulo",
-      "email1": true
+      "neighborhood": "Barueri"
     },
     {
-      "name": "DEAG Alphaville",
+      "name": "Confianca Atacadista de Bebidas",
       "type": "distribuidora",
-      "neighborhood": "Alphaville",
-      "city": "Barueri",
-      "email1": true
+      "neighborhood": "Sapopemba"
     },
     {
-      "name": "BEC Bar",
+      "name": "Nossa Distribuidora Bebidas",
+      "type": "distribuidora",
+      "neighborhood": "Osasco"
+    },
+    {
+      "name": "Mont Cristo Wine Bar",
       "type": "bar",
-      "neighborhood": "Pinheiros",
-      "city": "São Paulo",
-      "email1": true
+      "neighborhood": "Jardim"
     },
     {
-      "name": "The Juniper 44",
-      "type": "bar",
-      "neighborhood": "Itaim Bibi",
-      "city": "São Paulo",
-      "email1": true
-    },
-    {
-      "name": "São Conrado Bar",
-      "type": "bar",
-      "neighborhood": "Pinheiros",
-      "city": "São Paulo",
-      "email1": true
-    },
-    {
-      "name": "Bar Jobim",
-      "type": "bar",
-      "neighborhood": "Moema",
-      "city": "São Paulo",
-      "email1": true
-    },
-    {
-      "name": "Barbq Moema",
-      "type": "bar",
-      "neighborhood": "Moema",
-      "city": "São Paulo",
-      "email1": true
-    },
-    {
-      "name": "As Noviças Café Colonial",
-      "type": "restaurante",
-      "neighborhood": "Moema",
-      "city": "São Paulo",
-      "email1": false
-    },
-    {
-      "name": "Degusti Vinhos",
+      "name": "Casa Porto D'Vino",
       "type": "adega",
-      "neighborhood": "Moema",
-      "responded": false,
-      "email1": true
+      "neighborhood": "Campestre"
     },
     {
-      "name": "Freitas Bebidas",
-      "type": "distribuidora",
-      "neighborhood": "Tucuruvi",
-      "email1": true
+      "name": "Supermercados Peg Pese",
+      "type": "supermercado",
+      "neighborhood": "Grande Sao Paulo"
+    },
+    {
+      "name": "Adega Sky Blue",
+      "type": "adega_loja_bebidas_cachacas",
+      "neighborhood": "Lajeado",
+      "city": "Sao Paulo"
+    },
+    {
+      "name": "Germania Freguesia",
+      "type": "loja_bebidas_chopp_cachacas_eventos",
+      "neighborhood": "Vila Albertina",
+      "city": "Sao Paulo"
+    },
+    {
+      "name": "Adega Bolinha",
+      "type": "adega_cachacas_artesanais_destilados",
+      "neighborhood": "Vila Progredior",
+      "city": "Sao Paulo"
     }
   ],
   "funnel": {
-    "leads": 2863,
-    "email1": 2812,
+    "leads": 3122,
+    "email1": 3015,
     "email2": 1447,
     "email3": 788,
     "responded": 0
   },
   "week": {
-    "leads": 166,
+    "leads": 369,
     "emails": {
-      "email1": 166,
+      "email1": 369,
       "email2": 159,
       "email3": 130,
-      "total": 455
+      "total": 658
     },
     "responses": 0
   },
   "month": {
-    "leads": 167,
+    "leads": 370,
     "emails": {
-      "email1": 167,
+      "email1": 370,
       "email2": 159,
       "email3": 130,
-      "total": 456
+      "total": 659
     },
     "responses": 0
   },
   "year": {
-    "leads": 2814,
+    "leads": 3017,
     "emails": {
-      "email1": 2812,
+      "email1": 3015,
       "email2": 1447,
       "email3": 788,
-      "total": 5047
+      "total": 5250
     },
     "responses": 0
   },
   "segments": [
     {
       "name": "restaurante",
-      "total": 1888,
-      "email1": 1886,
+      "total": 2086,
+      "email1": 2035,
       "responded": 0
     },
     {
       "name": "bar",
-      "total": 467,
-      "email1": 465,
+      "total": 516,
+      "email1": 509,
       "responded": 0
     },
     {
       "name": "adega",
-      "total": 217,
-      "email1": 214,
+      "total": 225,
+      "email1": 222,
       "responded": 0
     },
     {
       "name": "distribuidora",
-      "total": 134,
-      "email1": 132,
+      "total": 138,
+      "email1": 134,
       "responded": 0
     },
     {
