@@ -43561,5 +43561,53 @@
     "mxVerified": true,
     "template": "consultivo",
     "email1": false
+  },
+  {
+    "name": "Bar Jobim",
+    "email": "barjobimgrupohungry@hotmail.com",
+    "type": "bar",
+    "neighborhood": "Moema",
+    "city": "São Paulo",
+    "website": "https://gazeta24h.com/bar-jobim-e-garota-da-vila",
+    "context": "Bar em Moema, música ao vivo, pet friendly.",
+    "phone": "(11) 2628-3748",
+    "emailVerified": true,
+    "emailSource": "https://gazeta24h.com/bar-jobim-e-garota-da-vila",
+    "emailVerifiedAt": "2026-10-15",
+    "mxVerified": true,
+    "template": "consultivo",
+    "email1": false
+  },
+  {
+    "name": "Barbq Moema",
+    "email": "barbq@barbqmoema.com.br",
+    "type": "bar",
+    "neighborhood": "Moema",
+    "city": "São Paulo",
+    "website": "https://barbqmoema.com.br",
+    "context": "Bar e açaí em Moema, espetinhos e costela BBQ.",
+    "phone": "(11) 2307-9703",
+    "emailVerified": true,
+    "emailSource": "https://barbqmoema.com.br",
+    "emailVerifiedAt": "2026-10-15",
+    "mxVerified": true,
+    "template": "consultivo",
+    "email1": false
+  },
+  {
+    "name": "As Noviças Café Colonial",
+    "email": "reservas@asnovicas.com.br",
+    "type": "restaurante",
+    "neighborhood": "Moema",
+    "city": "São Paulo",
+    "website": "https://asnovicascafecolonial.com.br",
+    "context": "Café colonial em Moema, fundado há 31 anos.",
+    "phone": "(11) 5096-0879",
+    "emailVerified": true,
+    "emailSource": "https://asnovicascafecolonial.com.br",
+    "emailVerifiedAt": "2026-10-15",
+    "mxVerified": true,
+    "template": "consultivo",
+    "email1": false
   }
 ]
