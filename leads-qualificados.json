@@ -43496,7 +43496,8 @@
     "emailVerifiedAt": "2026-10-15",
     "mxVerified": true,
     "template": "consultivo",
-    "email1": false
+    "email1": true,
+    "date1": "2026-10-15"
   },
   {
     "name": "DEAG Alphaville",
@@ -43512,7 +43513,8 @@
     "emailVerifiedAt": "2026-10-15",
     "mxVerified": true,
     "template": "consultivo",
-    "email1": false
+    "email1": true,
+    "date1": "2026-10-15"
   },
   {
     "name": "BEC Bar",
@@ -43528,7 +43530,8 @@
     "emailVerifiedAt": "2026-10-15",
     "mxVerified": true,
     "template": "consultivo",
-    "email1": false
+    "email1": true,
+    "date1": "2026-10-15"
   },
   {
     "name": "The Juniper 44",
@@ -43544,7 +43547,8 @@
     "emailVerifiedAt": "2026-10-15",
     "mxVerified": true,
     "template": "consultivo",
-    "email1": false
+    "email1": true,
+    "date1": "2026-10-15"
   },
   {
     "name": "São Conrado Bar",
@@ -43560,7 +43564,8 @@
     "emailVerifiedAt": "2026-10-15",
     "mxVerified": true,
     "template": "consultivo",
-    "email1": false
+    "email1": true,
+    "date1": "2026-10-15"
   },
   {
     "name": "Bar Jobim",
@@ -43576,7 +43581,8 @@
     "emailVerifiedAt": "2026-10-15",
     "mxVerified": true,
     "template": "consultivo",
-    "email1": false
+    "email1": true,
+    "date1": "2026-10-15"
   },
   {
     "name": "Barbq Moema",
@@ -43592,7 +43598,8 @@
     "emailVerifiedAt": "2026-10-15",
     "mxVerified": true,
     "template": "consultivo",
-    "email1": false
+    "email1": true,
+    "date1": "2026-10-15"
   },
   {
     "name": "As Noviças Café Colonial",
