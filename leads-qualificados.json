@@ -1743,7 +1743,7 @@
     "source": "site sem email",
     "emailVerified": true,
     "emailSource": "https://www.example.com",
-    "emailVerifiedAt": "2026-10-13"
+    "emailVerifiedAt": "2026-10-15"
   },
   {
     "name": "Vinea Store, Importadora e Wine Bar",
@@ -36290,7 +36290,7 @@
     "whatsappDate": "2026-09-10",
     "emailVerified": true,
     "emailSource": "https://www.example.com",
-    "emailVerifiedAt": "2026-10-13"
+    "emailVerifiedAt": "2026-10-15"
   },
   {
     "name": "Confianca Atacadista de Bebidas",
@@ -36307,7 +36307,7 @@
     "whatsappDate": "2026-09-11",
     "emailVerified": true,
     "emailSource": "https://www.example.com",
-    "emailVerifiedAt": "2026-10-13"
+    "emailVerifiedAt": "2026-10-15"
   },
   {
     "name": "Nossa Distribuidora Bebidas",
@@ -36322,7 +36322,7 @@
     "template": "consultivo",
     "emailVerified": true,
     "emailSource": "https://www.example.com",
-    "emailVerifiedAt": "2026-10-13"
+    "emailVerifiedAt": "2026-10-15"
   },
   {
     "name": "Mont Cristo Wine Bar",
@@ -36339,7 +36339,7 @@
     "whatsappDate": "2026-09-11",
     "emailVerified": true,
     "emailSource": "https://www.example.com",
-    "emailVerifiedAt": "2026-10-13"
+    "emailVerifiedAt": "2026-10-15"
   },
   {
     "name": "Casa Porto D'Vino",
@@ -36358,7 +36358,7 @@
     "whatsappDate": "2026-09-11",
     "emailVerified": true,
     "emailSource": "https://www.example.com",
-    "emailVerifiedAt": "2026-10-13"
+    "emailVerifiedAt": "2026-10-15"
   },
   {
     "name": "Supermercados Peg Pese",
@@ -36375,7 +36375,7 @@
     "whatsappDate": "2026-09-11",
     "emailVerified": true,
     "emailSource": "https://www.example.com",
-    "emailVerifiedAt": "2026-10-13"
+    "emailVerifiedAt": "2026-10-15"
   },
   {
     "name": "Charllu Bar",
@@ -37335,7 +37335,7 @@
     "whatsappProof": "Mensagem exibida no historico do WhatsApp Web apos o envio as 11:29",
     "emailVerified": true,
     "emailSource": "https://www.example.com",
-    "emailVerifiedAt": "2026-10-13"
+    "emailVerifiedAt": "2026-10-15"
   },
   {
     "name": "Germania Freguesia",
@@ -37357,7 +37357,7 @@
     "whatsappProof": "Mensagem exibida no historico do WhatsApp Web apos o envio as 11:33; resposta automatica recebida",
     "emailVerified": true,
     "emailSource": "https://www.example.com",
-    "emailVerifiedAt": "2026-10-13"
+    "emailVerifiedAt": "2026-10-15"
   },
   {
     "name": "Adega Bolinha",
@@ -37379,7 +37379,7 @@
     "whatsappProof": "Mensagem exibida no historico do WhatsApp Web apos o envio as 11:33",
     "emailVerified": true,
     "emailSource": "https://www.example.com",
-    "emailVerifiedAt": "2026-10-13"
+    "emailVerifiedAt": "2026-10-15"
   },
   {
     "name": "S7 Adega e Tabacaria",
@@ -37431,7 +37431,7 @@
     "whatsappProof": "Mensagem exibida no historico do WhatsApp Web apos o envio",
     "emailVerified": true,
     "emailSource": "https://www.example.com",
-    "emailVerifiedAt": "2026-10-13"
+    "emailVerifiedAt": "2026-10-15"
   },
   {
     "name": "Gogo da Ema",
@@ -37453,7 +37453,7 @@
     "whatsappProof": "Mensagem exibida no historico do WhatsApp Web apos o envio",
     "emailVerified": true,
     "emailSource": "https://www.example.com",
-    "emailVerifiedAt": "2026-10-13"
+    "emailVerifiedAt": "2026-10-15"
   },
   {
     "name": "Casa Zilanna Mercearia Idish",
@@ -37475,7 +37475,7 @@
     "whatsappProof": "Mensagem exibida no historico do WhatsApp Web apos o envio; resposta recebida as 11:35",
     "emailVerified": true,
     "emailSource": "https://www.example.com",
-    "emailVerifiedAt": "2026-10-13"
+    "emailVerifiedAt": "2026-10-15"
   },
   {
     "name": "Adega Caldeira Drink's e Tabacaria",
@@ -37494,7 +37494,7 @@
     "status": "uncontacted",
     "emailVerified": true,
     "emailSource": "https://www.example.com",
-    "emailVerifiedAt": "2026-10-13"
+    "emailVerifiedAt": "2026-10-15"
   },
   {
     "name": "Emporio Paulista Produtos Artesanais",
@@ -37825,7 +37825,7 @@
     "email1": false,
     "emailVerified": true,
     "emailSource": "https://www.example.com",
-    "emailVerifiedAt": "2026-10-13"
+    "emailVerifiedAt": "2026-10-15"
   },
   {
     "name": "Adega Joinha",
@@ -37845,7 +37845,7 @@
     "email1": false,
     "emailVerified": true,
     "emailSource": "https://www.example.com",
-    "emailVerifiedAt": "2026-10-13"
+    "emailVerifiedAt": "2026-10-15"
   },
   {
     "name": "Cantinho da Roca",
@@ -37865,7 +37865,7 @@
     "email1": false,
     "emailVerified": true,
     "emailSource": "https://www.example.com",
-    "emailVerifiedAt": "2026-10-13"
+    "emailVerifiedAt": "2026-10-15"
   },
   {
     "name": "Adega El Loko SBC",
@@ -37889,7 +37889,7 @@
     "whatsappProof": "Mensagem exibida no historico do WhatsApp Web apos o envio",
     "emailVerified": true,
     "emailSource": "https://www.example.com",
-    "emailVerifiedAt": "2026-10-13"
+    "emailVerifiedAt": "2026-10-15"
   },
   {
     "name": "Adega Boys Drinks",
@@ -37909,7 +37909,7 @@
     "email1": false,
     "emailVerified": true,
     "emailSource": "https://www.example.com",
-    "emailVerifiedAt": "2026-10-13"
+    "emailVerifiedAt": "2026-10-15"
   },
   {
     "name": "Adega Thiga's",
@@ -37929,7 +37929,7 @@
     "email1": false,
     "emailVerified": true,
     "emailSource": "https://www.example.com",
-    "emailVerifiedAt": "2026-10-13"
+    "emailVerifiedAt": "2026-10-15"
   },
   {
     "name": "Adega e Emporio Pipos",
@@ -37949,7 +37949,7 @@
     "email1": false,
     "emailVerified": true,
     "emailSource": "https://www.example.com",
-    "emailVerifiedAt": "2026-10-13"
+    "emailVerifiedAt": "2026-10-15"
   },
   {
     "name": "Adega Saidera",
@@ -37968,7 +37968,7 @@
     "email1": false,
     "emailVerified": true,
     "emailSource": "https://www.example.com",
-    "emailVerifiedAt": "2026-10-13"
+    "emailVerifiedAt": "2026-10-15"
   },
   {
     "name": "Adega e Mercearia Impacto",
@@ -37992,7 +37992,7 @@
     "whatsappSource": "https://adegaimpacto.com.br/",
     "emailVerified": true,
     "emailSource": "https://www.example.com",
-    "emailVerifiedAt": "2026-10-13"
+    "emailVerifiedAt": "2026-10-15"
   },
   {
     "name": "Adega Delivery",
@@ -38015,7 +38015,7 @@
     "email1": false,
     "emailVerified": true,
     "emailSource": "https://www.example.com",
-    "emailVerifiedAt": "2026-10-13"
+    "emailVerifiedAt": "2026-10-15"
   },
   {
     "name": "Gold Beer Adega e Tabacaria",
@@ -38034,7 +38034,7 @@
     "email1": false,
     "emailVerified": true,
     "emailSource": "https://www.example.com",
-    "emailVerifiedAt": "2026-10-13"
+    "emailVerifiedAt": "2026-10-15"
   },
   {
     "name": "Adega e Distribuidora W&A",
@@ -38052,7 +38052,7 @@
     "email1": false,
     "emailVerified": true,
     "emailSource": "https://www.example.com",
-    "emailVerifiedAt": "2026-10-13"
+    "emailVerifiedAt": "2026-10-15"
   },
   {
     "name": "Adega Imperador",
@@ -38072,7 +38072,7 @@
     "email1": false,
     "emailVerified": true,
     "emailSource": "https://www.example.com",
-    "emailVerifiedAt": "2026-10-13"
+    "emailVerifiedAt": "2026-10-15"
   },
   {
     "name": "Adega Imperio Guarulhos",
@@ -38090,7 +38090,7 @@
     "email1": false,
     "emailVerified": true,
     "emailSource": "https://www.example.com",
-    "emailVerifiedAt": "2026-10-13"
+    "emailVerifiedAt": "2026-10-15"
   },
   {
     "name": "A Doce Dose - Capuava",
@@ -38110,7 +38110,7 @@
     "email1": false,
     "emailVerified": true,
     "emailSource": "https://www.example.com",
-    "emailVerifiedAt": "2026-10-13"
+    "emailVerifiedAt": "2026-10-15"
   },
   {
     "name": "Haiak Sushi - Unidade Itapevi",
@@ -38129,7 +38129,7 @@
     "email1": false,
     "emailVerified": true,
     "emailSource": "https://www.example.com",
-    "emailVerifiedAt": "2026-10-13"
+    "emailVerifiedAt": "2026-10-15"
   },
   {
     "name": "Adega do 00",
@@ -38147,7 +38147,7 @@
     "email1": false,
     "emailVerified": true,
     "emailSource": "https://www.example.com",
-    "emailVerifiedAt": "2026-10-13"
+    "emailVerifiedAt": "2026-10-15"
   },
   {
     "name": "O Canto da Costela - Alphaville",
@@ -38166,7 +38166,7 @@
     "email1": false,
     "emailVerified": true,
     "emailSource": "https://www.example.com",
-    "emailVerifiedAt": "2026-10-13"
+    "emailVerifiedAt": "2026-10-15"
   },
   {
     "name": "Let's Beer Cervejas Artesanais",
@@ -38220,7 +38220,7 @@
     "email1": false,
     "emailVerified": true,
     "emailSource": "https://www.example.com",
-    "emailVerifiedAt": "2026-10-13"
+    "emailVerifiedAt": "2026-10-15"
   },
   {
     "name": "Emporio do Mineiro Vila Sao Francisco",
@@ -38242,7 +38242,7 @@
     "email1": false,
     "emailVerified": true,
     "emailSource": "https://www.example.com",
-    "emailVerifiedAt": "2026-10-13"
+    "emailVerifiedAt": "2026-10-15"
   },
   {
     "name": "A Casa do Produtor",
@@ -38291,7 +38291,7 @@
     "whatsappFailure": "O WhatsApp Web rejeitou a abertura da conversa e retornou para a pagina inicial em duas tentativas; numero suprimido para novas abordagens automaticas",
     "emailVerified": true,
     "emailSource": "https://www.example.com",
-    "emailVerifiedAt": "2026-10-13"
+    "emailVerifiedAt": "2026-10-15"
   },
   {
     "name": "Cachaca Roca de Garca",
@@ -38576,7 +38576,7 @@
     "whatsapp1": false,
     "emailVerified": true,
     "emailSource": "https://www.example.com",
-    "emailVerifiedAt": "2026-10-13"
+    "emailVerifiedAt": "2026-10-15"
   },
   {
     "name": "Wanel Beach",
@@ -38626,7 +38626,7 @@
     "whatsapp1": false,
     "emailVerified": true,
     "emailSource": "https://www.example.com",
-    "emailVerifiedAt": "2026-10-13"
+    "emailVerifiedAt": "2026-10-15"
   },
   {
     "name": "Bertin Bebidas",
@@ -38681,7 +38681,7 @@
     "whatsapp1": false,
     "emailVerified": true,
     "emailSource": "https://www.example.com",
-    "emailVerifiedAt": "2026-10-13"
+    "emailVerifiedAt": "2026-10-15"
   },
   {
     "name": "FG7 Bebidas",
@@ -38768,7 +38768,7 @@
     "template": "consultivo",
     "emailVerified": true,
     "emailSource": "https://www.example.com",
-    "emailVerifiedAt": "2026-10-13"
+    "emailVerifiedAt": "2026-10-15"
   },
   {
     "name": "Taxi Beer Drinks Express",
@@ -38817,7 +38817,7 @@
     "template": "consultivo",
     "emailVerified": true,
     "emailSource": "https://www.example.com",
-    "emailVerifiedAt": "2026-10-13"
+    "emailVerifiedAt": "2026-10-15"
   },
   {
     "name": "Nova Adega Jundiai",
@@ -38837,7 +38837,7 @@
     "template": "consultivo",
     "emailVerified": true,
     "emailSource": "https://www.example.com",
-    "emailVerifiedAt": "2026-10-13"
+    "emailVerifiedAt": "2026-10-15"
   },
   {
     "name": "Vinicola e Adega Castanho",
@@ -39716,7 +39716,7 @@
     "context": "Respondeu ao nosso WhatsApp em 08/09/2026: compras somente via e-mail compras@grupolocale.com.br ou WhatsApp (11) 93491-9261 com Carla. Responder com proposta para Carla. Grupo Locale (Trattoria, Ristorante, Caff├®).",
     "emailVerified": true,
     "emailSource": "https://www.localecaffe.com.br/",
-    "emailVerifiedAt": "2026-10-13",
+    "emailVerifiedAt": "2026-10-15",
     "mxVerified": true,
     "template": "pergunta",
     "website": ""
@@ -39730,7 +39730,7 @@
     "phone": "11 93491-9261",
     "emailVerified": true,
     "emailSource": "https://www.example.com",
-    "emailVerifiedAt": "2026-10-13"
+    "emailVerifiedAt": "2026-10-15"
   },
   {
     "name": "Adega Rainha",
@@ -43612,6 +43612,38 @@
     "phone": "(11) 5096-0879",
     "emailVerified": true,
     "emailSource": "https://asnovicascafecolonial.com.br",
+    "emailVerifiedAt": "2026-10-15",
+    "mxVerified": true,
+    "template": "consultivo",
+    "email1": false
+  },
+  {
+    "name": "Open Chopp",
+    "email": "contato@choppexpress.com.br",
+    "type": "distribuidora",
+    "neighborhood": "Taboão da Serra",
+    "city": "São Paulo",
+    "website": "https://choppexpress.com.br",
+    "context": "Distribuidora de chopp para bares, restaurantes e eventos.",
+    "phone": "(41) 9971-1051",
+    "emailVerified": true,
+    "emailSource": "https://choppexpress.com.br",
+    "emailVerifiedAt": "2026-10-15",
+    "mxVerified": true,
+    "template": "consultivo",
+    "email1": false
+  },
+  {
+    "name": "Milfont Distribuidora",
+    "email": "comercial@milfontdistribuidora.com.br",
+    "type": "distribuidora",
+    "neighborhood": "Monte Alegre",
+    "city": "Taboão da Serra",
+    "website": "https://www.milfontdistribuidora.com.br",
+    "context": "Distribuidora de água mineral e bebidas para hotéis, restaurantes e eventos.",
+    "phone": "(11) 91705-5859",
+    "emailVerified": true,
+    "emailSource": "https://www.milfontdistribuidora.com.br",
     "emailVerifiedAt": "2026-10-15",
     "mxVerified": true,
     "template": "consultivo",
