@@ -38196,7 +38196,9 @@
     "invalidEmailDate": "2026-09-01",
     "date1": "2026-09-19",
     "email2": true,
-    "date2": "2026-10-11"
+    "date2": "2026-10-11",
+    "email3": true,
+    "date3": "2026-10-14"
   },
   {
     "name": "O Amadeu",
@@ -41110,11 +41112,12 @@
     "date1": "2026-09-15",
     "email1": true,
     "email2": true,
-    "email3": false,
+    "email3": true,
     "emailVerified": true,
     "emailSource": "https://guiapj.com.br/consulta-cnpj/40339563000123",
     "emailVerifiedAt": "2026-10-13",
-    "date2": "2026-10-10"
+    "date2": "2026-10-10",
+    "date3": "2026-10-14"
   },
   {
     "name": "Adega Skinao",
@@ -41126,11 +41129,12 @@
     "date1": "2026-09-15",
     "email1": true,
     "email2": true,
-    "email3": false,
+    "email3": true,
     "emailVerified": true,
     "emailSource": "https://guiapj.com.br/consulta-cnpj/54847274000140",
     "emailVerifiedAt": "2026-10-13",
-    "date2": "2026-10-10"
+    "date2": "2026-10-10",
+    "date3": "2026-10-14"
   },
   {
     "name": "Adega Davila Formosa",
@@ -41142,11 +41146,12 @@
     "date1": "2026-09-15",
     "email1": true,
     "email2": true,
-    "email3": false,
+    "email3": true,
     "emailVerified": true,
     "emailSource": "https://guiapj.com.br/consulta-cnpj/53645349000147",
     "emailVerifiedAt": "2026-10-13",
-    "date2": "2026-10-10"
+    "date2": "2026-10-10",
+    "date3": "2026-10-14"
   },
   {
     "name": "Brasil Aguas Distribuidora",
@@ -41158,11 +41163,12 @@
     "date1": "2026-09-15",
     "email1": true,
     "email2": true,
-    "email3": false,
+    "email3": true,
     "emailVerified": true,
     "emailSource": "https://guiapj.com.br/consulta-cnpj/38152306000136",
     "emailVerifiedAt": "2026-10-13",
-    "date2": "2026-10-10"
+    "date2": "2026-10-10",
+    "date3": "2026-10-14"
   },
   {
     "name": "JVF Adega",
@@ -41174,11 +41180,12 @@
     "date1": "2026-09-15",
     "email1": true,
     "email2": true,
-    "email3": false,
+    "email3": true,
     "emailVerified": true,
     "emailSource": "https://guiapj.com.br/consulta-cnpj/58283426000180",
     "emailVerifiedAt": "2026-10-13",
-    "date2": "2026-10-10"
+    "date2": "2026-10-10",
+    "date3": "2026-10-14"
   },
   {
     "name": "Distribuidora e Comercio Jessica",
@@ -41250,11 +41257,12 @@
     "date1": "2026-09-15",
     "email1": true,
     "email2": true,
-    "email3": false,
+    "email3": true,
     "emailVerified": true,
     "emailSource": "https://guiapj.com.br/consulta-cnpj/62184266000199",
     "emailVerifiedAt": "2026-10-13",
-    "date2": "2026-10-10"
+    "date2": "2026-10-10",
+    "date3": "2026-10-14"
   },
   {
     "name": "Xibata Bebidas",
@@ -41266,11 +41274,12 @@
     "date1": "2026-09-15",
     "email1": true,
     "email2": true,
-    "email3": false,
+    "email3": true,
     "emailVerified": true,
     "emailSource": "https://guiapj.com.br/consulta-cnpj/54086896000100",
     "emailVerifiedAt": "2026-10-13",
-    "date2": "2026-10-10"
+    "date2": "2026-10-10",
+    "date3": "2026-10-14"
   },
   {
     "name": "BR JC Distribuidora de Bebidas",
@@ -41282,11 +41291,12 @@
     "date1": "2026-09-15",
     "email1": true,
     "email2": true,
-    "email3": false,
+    "email3": true,
     "emailVerified": true,
     "emailSource": "https://guiapj.com.br/consulta-cnpj/59696961000125",
     "emailVerifiedAt": "2026-10-13",
-    "date2": "2026-10-10"
+    "date2": "2026-10-10",
+    "date3": "2026-10-14"
   },
   {
     "name": "MH Atacadista",
@@ -41298,11 +41308,12 @@
     "date1": "2026-09-15",
     "email1": true,
     "email2": true,
-    "email3": false,
+    "email3": true,
     "emailVerified": true,
     "emailSource": "https://guiapj.com.br/consulta-cnpj/37973882000181",
     "emailVerifiedAt": "2026-10-13",
-    "date2": "2026-10-10"
+    "date2": "2026-10-10",
+    "date3": "2026-10-14"
   },
   {
     "name": "Santa Adega II",
@@ -41314,11 +41325,12 @@
     "date1": "2026-09-15",
     "email1": true,
     "email2": true,
-    "email3": false,
+    "email3": true,
     "emailVerified": true,
     "emailSource": "https://guiapj.com.br/consulta-cnpj/37729965000200",
     "emailVerifiedAt": "2026-10-13",
-    "date2": "2026-10-10"
+    "date2": "2026-10-10",
+    "date3": "2026-10-14"
   },
   {
     "name": "Lions Bebidas em Geral",
@@ -41330,11 +41342,12 @@
     "date1": "2026-09-15",
     "email1": true,
     "email2": true,
-    "email3": false,
+    "email3": true,
     "emailVerified": true,
     "emailSource": "https://guiapj.com.br/consulta-cnpj/62551823000162",
     "emailVerifiedAt": "2026-10-13",
-    "date2": "2026-10-10"
+    "date2": "2026-10-10",
+    "date3": "2026-10-14"
   },
   {
     "name": "JP Carvalho Adega e Distribuidora de Bebidas",
@@ -41346,11 +41359,12 @@
     "date1": "2026-09-15",
     "email1": true,
     "email2": true,
-    "email3": false,
+    "email3": true,
     "emailVerified": true,
     "emailSource": "https://guiapj.com.br/consulta-cnpj/13093404000119",
     "emailVerifiedAt": "2026-10-13",
-    "date2": "2026-10-10"
+    "date2": "2026-10-10",
+    "date3": "2026-10-14"
   },
   {
     "name": "DPJ Comercio de Bebidas e Graos",
@@ -41362,11 +41376,12 @@
     "date1": "2026-09-15",
     "email1": true,
     "email2": true,
-    "email3": false,
+    "email3": true,
     "emailVerified": true,
     "emailSource": "https://guiapj.com.br/consulta-cnpj/40247281000104",
     "emailVerifiedAt": "2026-10-13",
-    "date2": "2026-10-10"
+    "date2": "2026-10-10",
+    "date3": "2026-10-14"
   },
   {
     "name": "AR Adega",
@@ -41378,11 +41393,12 @@
     "date1": "2026-09-15",
     "email1": true,
     "email2": true,
-    "email3": false,
+    "email3": true,
     "emailVerified": true,
     "emailSource": "https://guiapj.com.br/consulta-cnpj/59711038000115",
     "emailVerifiedAt": "2026-10-13",
-    "date2": "2026-10-10"
+    "date2": "2026-10-10",
+    "date3": "2026-10-14"
   },
   {
     "name": "J A Teixeira Distribuidora de Bebidas",
@@ -41394,11 +41410,12 @@
     "date1": "2026-09-15",
     "email1": true,
     "email2": true,
-    "email3": false,
+    "email3": true,
     "emailVerified": true,
     "emailSource": "https://databrasil.net/empresas/46730433000101-J-A-TEIXEIRA-DISTRIBUIDORA-DE-BEBIDAS-ATACADO-E-VAREJO-LIMITADA",
     "emailVerifiedAt": "2026-10-13",
-    "date2": "2026-10-10"
+    "date2": "2026-10-10",
+    "date3": "2026-10-14"
   },
   {
     "name": "Emporio Vila Sao Paulo",
@@ -41410,11 +41427,12 @@
     "date1": "2026-09-15",
     "email1": true,
     "email2": true,
-    "email3": false,
+    "email3": true,
     "emailVerified": true,
     "emailSource": "https://databrasil.net/empresas/39994647000111-EMPORIO-VILA-SAO-PAULO-LTDA",
     "emailVerifiedAt": "2026-10-13",
-    "date2": "2026-10-10"
+    "date2": "2026-10-10",
+    "date3": "2026-10-14"
   },
   {
     "name": "StoreBeer Comercio de Bebidas",
@@ -41426,11 +41444,12 @@
     "date1": "2026-09-15",
     "email1": true,
     "email2": true,
-    "email3": false,
+    "email3": true,
     "emailVerified": true,
     "emailSource": "https://databrasil.net/empresas/21045375000148-STOREBEER-COMERCIO-DE-BEBIDAS-LTDA",
     "emailVerifiedAt": "2026-10-13",
-    "date2": "2026-10-10"
+    "date2": "2026-10-10",
+    "date3": "2026-10-14"
   },
   {
     "name": "FRM Distribuidora",
@@ -41442,11 +41461,12 @@
     "date1": "2026-09-15",
     "email1": true,
     "email2": true,
-    "email3": false,
+    "email3": true,
     "emailVerified": true,
     "emailSource": "https://guiapj.com.br/consulta-cnpj/51974285000100",
     "emailVerifiedAt": "2026-10-13",
-    "date2": "2026-10-10"
+    "date2": "2026-10-10",
+    "date3": "2026-10-14"
   },
   {
     "name": "Imperio das Bebidas Distribuidora",
@@ -41458,11 +41478,12 @@
     "date1": "2026-09-15",
     "email1": true,
     "email2": true,
-    "email3": false,
+    "email3": true,
     "emailVerified": true,
     "emailSource": "https://guiapj.com.br/consulta-cnpj/50239501000284",
     "emailVerifiedAt": "2026-10-13",
-    "date2": "2026-10-10"
+    "date2": "2026-10-10",
+    "date3": "2026-10-14"
   },
   {
     "name": "Carbu Bebidas",
@@ -41474,11 +41495,12 @@
     "date1": "2026-09-15",
     "email1": true,
     "email2": true,
-    "email3": false,
+    "email3": true,
     "emailVerified": true,
     "emailSource": "https://guiapj.com.br/consulta-cnpj/57616497000194",
     "emailVerifiedAt": "2026-10-13",
-    "date2": "2026-10-10"
+    "date2": "2026-10-10",
+    "date3": "2026-10-14"
   },
   {
     "name": "Distribuidora Araujo",
@@ -41490,11 +41512,12 @@
     "date1": "2026-09-15",
     "email1": true,
     "email2": true,
-    "email3": false,
+    "email3": true,
     "emailVerified": true,
     "emailSource": "https://guiapj.com.br/consulta-cnpj/45439582000145",
     "emailVerifiedAt": "2026-10-13",
-    "date2": "2026-10-11"
+    "date2": "2026-10-11",
+    "date3": "2026-10-14"
   },
   {
     "name": "M B S Distribuidora de Bebidas Atacado e Varejo",
@@ -41506,11 +41529,12 @@
     "date1": "2026-09-15",
     "email1": true,
     "email2": true,
-    "email3": false,
+    "email3": true,
     "emailVerified": true,
     "emailSource": "https://databrasil.net/empresas/43730071000152-M-B-S-DISTRIBUIDORA-DE-BEBIDAS-ATACADO-E-VAREJO-LIMITADA",
     "emailVerifiedAt": "2026-10-13",
-    "date2": "2026-10-11"
+    "date2": "2026-10-11",
+    "date3": "2026-10-14"
   },
   {
     "name": "Adega Mogi",
@@ -41522,11 +41546,12 @@
     "date1": "2026-09-15",
     "email1": true,
     "email2": true,
-    "email3": false,
+    "email3": true,
     "emailVerified": true,
     "emailSource": "https://maiscnpj.com.br/cnpj/05337822000186-adega-mogi-ltda",
     "emailVerifiedAt": "2026-10-13",
-    "date2": "2026-10-11"
+    "date2": "2026-10-11",
+    "date3": "2026-10-14"
   },
   {
     "name": "Adega e Distribuidora Prime",
@@ -41538,11 +41563,12 @@
     "date1": "2026-09-15",
     "email1": true,
     "email2": true,
-    "email3": false,
+    "email3": true,
     "emailVerified": true,
     "emailSource": "https://guiapj.com.br/consulta-cnpj/62363797000149",
     "emailVerifiedAt": "2026-10-13",
-    "date2": "2026-10-11"
+    "date2": "2026-10-11",
+    "date3": "2026-10-14"
   },
   {
     "name": "Distribuidora de Bebidas JD",
@@ -41554,11 +41580,12 @@
     "date1": "2026-09-15",
     "email1": true,
     "email2": true,
-    "email3": false,
+    "email3": true,
     "emailVerified": true,
     "emailSource": "https://databrasil.net/empresas/32771544000224-DISTRIBUIDORA-DE-BEBIDAS-JD-LTDA",
     "emailVerifiedAt": "2026-10-13",
-    "date2": "2026-10-11"
+    "date2": "2026-10-11",
+    "date3": "2026-10-14"
   },
   {
     "name": "Bramon Distribuidora de Bebidas",
@@ -41570,11 +41597,12 @@
     "date1": "2026-09-15",
     "email1": true,
     "email2": true,
-    "email3": false,
+    "email3": true,
     "emailVerified": true,
     "emailSource": "https://databrasil.net/empresas/00472325000177-BRAMON-DISTRIBUIDORA-DE-BEBIDAS-LTDA",
     "emailVerifiedAt": "2026-10-13",
-    "date2": "2026-10-11"
+    "date2": "2026-10-11",
+    "date3": "2026-10-14"
   },
   {
     "name": "Borin Distribuidora de Bebidas",
@@ -41586,11 +41614,12 @@
     "date1": "2026-09-15",
     "email1": true,
     "email2": true,
-    "email3": false,
+    "email3": true,
     "emailVerified": true,
     "emailSource": "https://databrasil.net/empresas/33233613000128-BORIN-DISTRIBUIDORA-DE-BEBIDAS-LTDA",
     "emailVerifiedAt": "2026-10-13",
-    "date2": "2026-10-11"
+    "date2": "2026-10-11",
+    "date3": "2026-10-14"
   },
   {
     "name": "Dopi Distribuidora de Bebidas e Alimentos",
@@ -41602,11 +41631,12 @@
     "date1": "2026-09-15",
     "email1": true,
     "email2": true,
-    "email3": false,
+    "email3": true,
     "emailVerified": true,
     "emailSource": "https://maiscnpj.com.br/cnpj/15391793000194-dopi-distribuidora-de-bebidas-e-alimentos-ltda",
     "emailVerifiedAt": "2026-10-13",
-    "date2": "2026-10-11"
+    "date2": "2026-10-11",
+    "date3": "2026-10-14"
   },
   {
     "name": "Isalex Distribuidora de Bebidas",
@@ -41618,11 +41648,12 @@
     "date1": "2026-09-15",
     "email1": true,
     "email2": true,
-    "email3": false,
+    "email3": true,
     "emailVerified": true,
     "emailSource": "https://databrasil.net/empresas/41283911000150-ISALEX-DISTRIBUIDORA-DE-BEBIDAS-LTDA",
     "emailVerifiedAt": "2026-10-13",
-    "date2": "2026-10-11"
+    "date2": "2026-10-11",
+    "date3": "2026-10-14"
   },
   {
     "name": "Adega C S Souza Distribuidora de Bebidas",
@@ -41649,11 +41680,12 @@
     "date1": "2026-09-15",
     "email1": true,
     "email2": true,
-    "email3": false,
+    "email3": true,
     "emailVerified": true,
     "emailSource": "https://mestregeo.com.br/cnpj/sp/sao-bernardo-do-campo/distribuidora-negri-atacadista-63917096000339",
     "emailVerifiedAt": "2026-10-13",
-    "date2": "2026-10-11"
+    "date2": "2026-10-11",
+    "date3": "2026-10-14"
   },
   {
     "name": "Mestre Das Bebidas",
@@ -41665,11 +41697,12 @@
     "date1": "2026-09-15",
     "email1": true,
     "email2": true,
-    "email3": false,
+    "email3": true,
     "emailVerified": true,
     "emailSource": "https://www.diariocidade.com/sp/campinas/guia/mestre-das-bebidas-27504112000136/",
     "emailVerifiedAt": "2026-10-13",
-    "date2": "2026-10-11"
+    "date2": "2026-10-11",
+    "date3": "2026-10-14"
   },
   {
     "name": "Distribuidora de Bebidas Master Sucos",
@@ -41696,11 +41729,12 @@
     "date1": "2026-09-15",
     "email1": true,
     "email2": true,
-    "email3": false,
+    "email3": true,
     "emailVerified": true,
     "emailSource": "https://maiscnpj.com.br/cnpj/04737613000167-mega-distribuidora-de-bebidas-ltda",
     "emailVerifiedAt": "2026-10-13",
-    "date2": "2026-10-11"
+    "date2": "2026-10-11",
+    "date3": "2026-10-14"
   },
   {
     "name": "JF de Sousa Adega",
@@ -41712,11 +41746,12 @@
     "date1": "2026-09-15",
     "email1": true,
     "email2": true,
-    "email3": false,
+    "email3": true,
     "emailVerified": true,
     "emailSource": "https://databrasil.net/empresas/40021957000139-JF-DE-SOUSA-ADEGA-LTDA",
     "emailVerifiedAt": "2026-10-13",
-    "date2": "2026-10-11"
+    "date2": "2026-10-11",
+    "date3": "2026-10-14"
   },
   {
     "name": "Adega Dois Irmaos",
@@ -41728,11 +41763,12 @@
     "date1": "2026-09-15",
     "email1": true,
     "email2": true,
-    "email3": false,
+    "email3": true,
     "emailVerified": true,
     "emailSource": "https://databrasil.net/empresas/32294558000113-ADEGA-DOIS-IRMAOS-LTDA",
     "emailVerifiedAt": "2026-10-13",
-    "date2": "2026-10-11"
+    "date2": "2026-10-11",
+    "date3": "2026-10-14"
   },
   {
     "name": "Hipervendas Distribuidora de Bebidas",
@@ -41774,11 +41810,12 @@
     "date1": "2026-09-15",
     "email1": true,
     "email2": true,
-    "email3": false,
+    "email3": true,
     "emailVerified": true,
     "emailSource": "https://databrasil.net/empresas/41000460000105-DISTRIBUIDORA-DE-BEBIDAS-CEREJEIRA-LTDA",
     "emailVerifiedAt": "2026-10-13",
-    "date2": "2026-10-11"
+    "date2": "2026-10-11",
+    "date3": "2026-10-14"
   },
   {
     "name": "Distribuidora de Bebidas Formosa",
@@ -41790,11 +41827,12 @@
     "date1": "2026-09-15",
     "email1": true,
     "email2": true,
-    "email3": false,
+    "email3": true,
     "emailVerified": true,
     "emailSource": "https://www.diariocidade.com/sp/sorocaba/guia/distribuidora-de-bebidas-formosa-30643223000138/",
     "emailVerifiedAt": "2026-10-13",
-    "date2": "2026-10-11"
+    "date2": "2026-10-11",
+    "date3": "2026-10-14"
   },
   {
     "name": "Distribuidora de Bebidas dos Amigos",
@@ -41806,11 +41844,12 @@
     "date1": "2026-09-15",
     "email1": true,
     "email2": true,
-    "email3": false,
+    "email3": true,
     "emailVerified": true,
     "emailSource": "https://mestregeo.com.br/cnpj/sp/atibaia/distribuidora-de-bebidas-dos-amigos-02992300000120",
     "emailVerifiedAt": "2026-10-13",
-    "date2": "2026-10-11"
+    "date2": "2026-10-11",
+    "date3": "2026-10-14"
   },
   {
     "name": "Solut Distribuidora de Bebidas",
@@ -41822,11 +41861,12 @@
     "date1": "2026-09-15",
     "email1": true,
     "email2": true,
-    "email3": false,
+    "email3": true,
     "emailVerified": true,
     "emailSource": "https://www.diariocidade.com/sp/barueri/guia/solut-distribuidora-de-bebidas-21400006000126/",
     "emailVerifiedAt": "2026-10-13",
-    "date2": "2026-10-11"
+    "date2": "2026-10-11",
+    "date3": "2026-10-14"
   },
   {
     "name": "Adega da Major",
@@ -41838,11 +41878,12 @@
     "date1": "2026-09-15",
     "email1": true,
     "email2": true,
-    "email3": false,
+    "email3": true,
     "emailVerified": true,
     "emailSource": "https://www.diariocidade.com/sp/sao-paulo/guia/adega-da-major-32648409000105/",
     "emailVerifiedAt": "2026-10-13",
-    "date2": "2026-10-11"
+    "date2": "2026-10-11",
+    "date3": "2026-10-14"
   },
   {
     "name": "Solute Distribuidora de Bebidas",
@@ -41854,11 +41895,12 @@
     "date1": "2026-09-15",
     "email1": true,
     "email2": true,
-    "email3": false,
+    "email3": true,
     "emailVerified": true,
     "emailSource": "https://juridicoonline.com.br/empresa/51852486000127-solute-distribuidora-de-bebidas-ltda",
     "emailVerifiedAt": "2026-10-13",
-    "date2": "2026-10-11"
+    "date2": "2026-10-11",
+    "date3": "2026-10-14"
   },
   {
     "name": "Adega Central Distribuidora de Bebidas",
@@ -41870,11 +41912,12 @@
     "date1": "2026-09-15",
     "email1": true,
     "email2": true,
-    "email3": false,
+    "email3": true,
     "emailVerified": true,
     "emailSource": "https://casadosdados.com.br/solucao/cnpj/adega-central-distribuidora-de-bebidas-ltda-66221214000104",
     "emailVerifiedAt": "2026-10-13",
-    "date2": "2026-10-11"
+    "date2": "2026-10-11",
+    "date3": "2026-10-14"
   },
   {
     "name": "Adega e Distribuidora Chega La",
@@ -41886,11 +41929,12 @@
     "date1": "2026-09-15",
     "email1": true,
     "email2": true,
-    "email3": false,
+    "email3": true,
     "emailVerified": true,
     "emailSource": "https://mestregeo.com.br/cnpj/sp/sao-paulo/adega-e-distribuidora-chega-la-21408726000138",
     "emailVerifiedAt": "2026-10-13",
-    "date2": "2026-10-11"
+    "date2": "2026-10-11",
+    "date3": "2026-10-14"
   },
   {
     "name": "Distribuidora de Bebidas S├úo Paulo RGS",
@@ -41902,11 +41946,12 @@
     "date1": "2026-09-15",
     "email1": true,
     "email2": true,
-    "email3": false,
+    "email3": true,
     "emailVerified": true,
     "emailSource": "https://guiapj.com.br/consulta-cnpj/63333006000109",
     "emailVerifiedAt": "2026-10-13",
-    "date2": "2026-10-11"
+    "date2": "2026-10-11",
+    "date3": "2026-10-14"
   },
   {
     "name": "LAD Distribuidora (Adega Farol Drinks)",
@@ -41918,11 +41963,12 @@
     "date1": "2026-09-15",
     "email1": true,
     "email2": true,
-    "email3": false,
+    "email3": true,
     "emailVerified": true,
     "emailSource": "https://databrasil.net/empresas/39419025000160-LAD-DISTRIBUIDORA-DE-BEBIDAS-E-ALIMENTOS-LTDA",
     "emailVerifiedAt": "2026-10-13",
-    "date2": "2026-10-11"
+    "date2": "2026-10-11",
+    "date3": "2026-10-14"
   },
   {
     "name": "Adega Lusa",
@@ -41967,11 +42013,12 @@
     "date1": "2026-09-15",
     "email1": true,
     "email2": true,
-    "email3": false,
+    "email3": true,
     "emailVerified": true,
     "emailSource": "https://mestregeo.com.br/cnpj/sp/santo-andre/vieira-adega-e-distribuidora-de-bebidas-55930919000176",
     "emailVerifiedAt": "2026-10-13",
-    "date2": "2026-10-11"
+    "date2": "2026-10-11",
+    "date3": "2026-10-14"
   },
   {
     "name": "Adega Lima",
@@ -42001,11 +42048,12 @@
     "date1": "2026-09-15",
     "email1": true,
     "email2": true,
-    "email3": false,
+    "email3": true,
     "emailVerified": true,
     "emailSource": "https://casadosdados.com.br/solucao/cnpj/",
     "emailVerifiedAt": "2026-10-13",
-    "date2": "2026-10-11"
+    "date2": "2026-10-11",
+    "date3": "2026-10-14"
   },
   {
     "name": "Dep├│sito de Bebidas Adega 228",
@@ -42017,11 +42065,12 @@
     "date1": "2026-09-15",
     "email1": true,
     "email2": true,
-    "email3": false,
+    "email3": true,
     "emailVerified": true,
     "emailSource": "https://casadosdados.com.br/solucao/cnpj/",
     "emailVerifiedAt": "2026-10-13",
-    "date2": "2026-10-11"
+    "date2": "2026-10-11",
+    "date3": "2026-10-14"
   },
   {
     "name": "Adega Seu Z├®",
@@ -42033,11 +42082,12 @@
     "date1": "2026-09-15",
     "email1": true,
     "email2": true,
-    "email3": false,
+    "email3": true,
     "emailVerified": true,
     "emailSource": "https://casadosdados.com.br/solucao/cnpj/",
     "emailVerifiedAt": "2026-10-13",
-    "date2": "2026-10-11"
+    "date2": "2026-10-11",
+    "date3": "2026-10-14"
   },
   {
     "name": "RP Adega e Distribuidora",
@@ -42049,11 +42099,12 @@
     "date1": "2026-09-15",
     "email1": true,
     "email2": true,
-    "email3": false,
+    "email3": true,
     "emailVerified": true,
     "emailSource": "https://casadosdados.com.br/solucao/cnpj/",
     "emailVerifiedAt": "2026-10-13",
-    "date2": "2026-10-11"
+    "date2": "2026-10-11",
+    "date3": "2026-10-14"
   },
   {
     "name": "MS Imperio Adega Beer",
@@ -42065,11 +42116,12 @@
     "date1": "2026-09-16",
     "email1": true,
     "email2": true,
-    "email3": false,
+    "email3": true,
     "emailVerified": true,
     "emailSource": "https://guiapj.com.br/consulta-cnpj",
     "emailVerifiedAt": "2026-10-13",
-    "date2": "2026-10-11"
+    "date2": "2026-10-11",
+    "date3": "2026-10-14"
   },
   {
     "name": "Emporio Adega Movel",
@@ -42081,11 +42133,12 @@
     "date1": "2026-09-16",
     "email1": true,
     "email2": true,
-    "email3": false,
+    "email3": true,
     "emailVerified": true,
     "emailSource": "https://guiapj.com.br/consulta-cnpj",
     "emailVerifiedAt": "2026-10-13",
-    "date2": "2026-10-11"
+    "date2": "2026-10-11",
+    "date3": "2026-10-14"
   },
   {
     "name": "Adega Las Rosas Importacao e Exportacao de Bebidas",
@@ -42097,11 +42150,12 @@
     "date1": "2026-09-16",
     "email1": true,
     "email2": true,
-    "email3": false,
+    "email3": true,
     "emailVerified": true,
     "emailSource": "https://guiapj.com.br/consulta-cnpj",
     "emailVerifiedAt": "2026-10-13",
-    "date2": "2026-10-11"
+    "date2": "2026-10-11",
+    "date3": "2026-10-14"
   },
   {
     "name": "DK Adega Atacado e Varejo",
@@ -42113,11 +42167,12 @@
     "date1": "2026-09-16",
     "email1": true,
     "email2": true,
-    "email3": false,
+    "email3": true,
     "emailVerified": true,
     "emailSource": "https://guiapj.com.br/consulta-cnpj",
     "emailVerifiedAt": "2026-10-13",
-    "date2": "2026-10-11"
+    "date2": "2026-10-11",
+    "date3": "2026-10-14"
   },
   {
     "name": "Adega Tio Patinhas",
@@ -42129,11 +42184,12 @@
     "date1": "2026-09-16",
     "email1": true,
     "email2": true,
-    "email3": false,
+    "email3": true,
     "emailVerified": true,
     "emailSource": "https://guiapj.com.br/consulta-cnpj",
     "emailVerifiedAt": "2026-10-13",
-    "date2": "2026-10-11"
+    "date2": "2026-10-11",
+    "date3": "2026-10-14"
   },
   {
     "name": "Adega Beer Distribuidora",
@@ -42145,11 +42201,12 @@
     "date1": "2026-09-16",
     "email1": true,
     "email2": true,
-    "email3": false,
+    "email3": true,
     "emailVerified": true,
     "emailSource": "https://guiapj.com.br/consulta-cnpj",
     "emailVerifiedAt": "2026-10-13",
-    "date2": "2026-10-11"
+    "date2": "2026-10-11",
+    "date3": "2026-10-14"
   },
   {
     "name": "B2B Chopp",
@@ -42161,11 +42218,12 @@
     "date1": "2026-09-16",
     "email1": true,
     "email2": true,
-    "email3": false,
+    "email3": true,
     "emailVerified": true,
     "emailSource": "https://maiscnpj.com.br/cnpj",
     "emailVerifiedAt": "2026-10-13",
-    "date2": "2026-10-11"
+    "date2": "2026-10-11",
+    "date3": "2026-10-14"
   },
   {
     "name": "Adega e Mercearia",
@@ -42177,11 +42235,12 @@
     "date1": "2026-09-16",
     "email1": true,
     "email2": true,
-    "email3": false,
+    "email3": true,
     "emailVerified": true,
     "emailSource": "https://casadosdados.com.br/solucao/cnpj/adega-e-mercearia-ltda-39264019000180",
     "emailVerifiedAt": "2026-10-13",
-    "date2": "2026-10-11"
+    "date2": "2026-10-11",
+    "date3": "2026-10-14"
   },
   {
     "name": "Adega do Fausto",
@@ -42193,11 +42252,12 @@
     "date1": "2026-09-16",
     "email1": true,
     "email2": true,
-    "email3": false,
+    "email3": true,
     "emailVerified": true,
     "emailSource": "https://casadosdados.com.br/solucao/cnpj/adega-do-fausto-ltda-66293608000160",
     "emailVerifiedAt": "2026-10-13",
-    "date2": "2026-10-11"
+    "date2": "2026-10-11",
+    "date3": "2026-10-14"
   },
   {
     "name": "Adega PS Beer",
@@ -42224,11 +42284,12 @@
     "date1": "2026-09-16",
     "email1": true,
     "email2": true,
-    "email3": false,
+    "email3": true,
     "emailVerified": true,
     "emailSource": "https://maiscnpj.com.br/cnpj/30050502000198",
     "emailVerifiedAt": "2026-10-13",
-    "date2": "2026-10-11"
+    "date2": "2026-10-11",
+    "date3": "2026-10-14"
   },
   {
     "name": "FT Adega e Distribuidora",
@@ -42240,11 +42301,12 @@
     "date1": "2026-09-17",
     "email1": true,
     "email2": true,
-    "email3": false,
+    "email3": true,
     "emailVerified": true,
     "emailSource": "https://casadosdados.com.br/solucao/cnpj/ft-adega-e-distribuidora-ltda-47295204000160",
     "emailVerifiedAt": "2026-10-13",
-    "date2": "2026-10-11"
+    "date2": "2026-10-11",
+    "date3": "2026-10-14"
   },
   {
     "name": "Adega Velber Atacado e Varejo",
@@ -42256,11 +42318,12 @@
     "date1": "2026-09-17",
     "email1": true,
     "email2": true,
-    "email3": false,
+    "email3": true,
     "emailVerified": true,
     "emailSource": "https://casadosdados.com.br/solucao/cnpj/adega-velber-atacado-e-varejo-ltda-57978508000186",
     "emailVerifiedAt": "2026-10-13",
-    "date2": "2026-10-11"
+    "date2": "2026-10-11",
+    "date3": "2026-10-14"
   },
   {
     "name": "Os Atacadista de Bebidas",
@@ -42272,11 +42335,12 @@
     "date1": "2026-09-17",
     "email1": true,
     "email2": true,
-    "email3": false,
+    "email3": true,
     "emailVerified": true,
     "emailSource": "https://casadosdados.com.br/solucao/cnpj/os-atacadista-de-bebidas-ltda-36035362000165",
     "emailVerifiedAt": "2026-10-13",
-    "date2": "2026-10-11"
+    "date2": "2026-10-11",
+    "date3": "2026-10-14"
   },
   {
     "name": "Adega Reali",
@@ -42288,11 +42352,12 @@
     "date1": "2026-09-17",
     "email1": true,
     "email2": true,
-    "email3": false,
+    "email3": true,
     "emailVerified": true,
     "emailSource": "https://casadosdados.com.br/solucao/cnpj/adega-reali-ltda-20086710000193",
     "emailVerifiedAt": "2026-10-13",
-    "date2": "2026-10-11"
+    "date2": "2026-10-11",
+    "date3": "2026-10-14"
   },
   {
     "name": "SM Distribuidora",
@@ -42304,11 +42369,12 @@
     "date1": "2026-09-17",
     "email1": true,
     "email2": true,
-    "email3": false,
+    "email3": true,
     "emailVerified": true,
     "emailSource": "https://maiscnpj.com.br/cnpj/17865088000107",
     "emailVerifiedAt": "2026-10-13",
-    "date2": "2026-10-11"
+    "date2": "2026-10-11",
+    "date3": "2026-10-14"
   },
   {
     "name": "Itu Distribuidora de Bebidas",
@@ -42320,11 +42386,12 @@
     "date1": "2026-09-17",
     "email1": true,
     "email2": true,
-    "email3": false,
+    "email3": true,
     "emailVerified": true,
     "emailSource": "https://casadosdados.com.br/solucao/cnpj/itu-distribuidora-de-bebidas-varejo-ltda-61284186000142",
     "emailVerifiedAt": "2026-10-13",
-    "date2": "2026-10-11"
+    "date2": "2026-10-11",
+    "date3": "2026-10-14"
   },
   {
     "name": "Ze Bar e Comercio de Bebidas",
@@ -42336,11 +42403,12 @@
     "date1": "2026-09-17",
     "email1": true,
     "email2": true,
-    "email3": false,
+    "email3": true,
     "emailVerified": true,
     "emailSource": "https://casadosdados.com.br/solucao/cnpj/ze-bar-e-comercio-de-bebidas-ltda-55479925000159",
     "emailVerifiedAt": "2026-10-13",
-    "date2": "2026-10-11"
+    "date2": "2026-10-11",
+    "date3": "2026-10-14"
   },
   {
     "name": "Espaco Bar e Drinks Saude",
@@ -42370,11 +42438,12 @@
     "date1": "2026-09-17",
     "email1": true,
     "email2": true,
-    "email3": false,
+    "email3": true,
     "emailVerified": true,
     "emailSource": "https://casadosdados.com.br/solucao/cnpj/copenhague-bar-drinks-ltda-63113210000106",
     "emailVerifiedAt": "2026-10-13",
-    "date2": "2026-10-11"
+    "date2": "2026-10-11",
+    "date3": "2026-10-14"
   },
   {
     "name": "A Beira Bar",
@@ -42386,11 +42455,12 @@
     "date1": "2026-09-17",
     "email1": true,
     "email2": true,
-    "email3": false,
+    "email3": true,
     "emailVerified": true,
     "emailSource": "https://casadosdados.com.br/solucao/cnpj/a-beira-bar-ltda-56904856000146",
     "emailVerifiedAt": "2026-10-13",
-    "date2": "2026-10-11"
+    "date2": "2026-10-11",
+    "date3": "2026-10-14"
   },
   {
     "name": "Cheers Bebidas",
@@ -42402,11 +42472,12 @@
     "date1": "2026-09-17",
     "email1": true,
     "email2": true,
-    "email3": false,
+    "email3": true,
     "emailVerified": true,
     "emailSource": "https://casadosdados.com.br/solucao/cnpj/cheers-bebidas-ltda-63817962000158",
     "emailVerifiedAt": "2026-10-13",
-    "date2": "2026-10-11"
+    "date2": "2026-10-11",
+    "date3": "2026-10-14"
   },
   {
     "name": "Bar e Restaurante do Chaves",
@@ -42418,11 +42489,12 @@
     "date1": "2026-09-17",
     "email1": true,
     "email2": true,
-    "email3": false,
+    "email3": true,
     "emailVerified": true,
     "emailSource": "https://maiscnpj.com.br/cnpj/63113097000169-bar-e-restaurante-do-chaves-ltda",
     "emailVerifiedAt": "2026-10-13",
-    "date2": "2026-10-11"
+    "date2": "2026-10-11",
+    "date3": "2026-10-14"
   },
   {
     "name": "Gomo Pinheiros Bar e Restaurante",
@@ -42434,11 +42506,12 @@
     "date1": "2026-09-17",
     "email1": true,
     "email2": true,
-    "email3": false,
+    "email3": true,
     "emailVerified": true,
     "emailSource": "https://casadosdados.com.br/solucao/cnpj/gomo-pinheiros-bar-e-restaurante-ltda-55061910000176",
     "emailVerifiedAt": "2026-10-13",
-    "date2": "2026-10-11"
+    "date2": "2026-10-11",
+    "date3": "2026-10-14"
   },
   {
     "name": "Franco Gastro Bar",
@@ -42450,11 +42523,12 @@
     "date1": "2026-09-17",
     "email1": true,
     "email2": true,
-    "email3": false,
+    "email3": true,
     "emailVerified": true,
     "emailSource": "https://casadosdados.com.br/solucao/cnpj/franco-gastro-bar-ltda-55192435000177",
     "emailVerifiedAt": "2026-10-13",
-    "date2": "2026-10-11"
+    "date2": "2026-10-11",
+    "date3": "2026-10-14"
   },
   {
     "name": "Caetanos Bar",
@@ -42466,11 +42540,12 @@
     "date1": "2026-09-17",
     "email1": true,
     "email2": true,
-    "email3": false,
+    "email3": true,
     "emailVerified": true,
     "emailSource": "https://casadosdados.com.br/solucao/cnpj/caetanos-bar-ltda-48498178000130",
     "emailVerifiedAt": "2026-10-13",
-    "date2": "2026-10-11"
+    "date2": "2026-10-11",
+    "date3": "2026-10-14"
   },
   {
     "name": "Imperium Group Bar",
@@ -42518,11 +42593,12 @@
     "date1": "2026-09-18",
     "email1": true,
     "email2": true,
-    "email3": false,
+    "email3": true,
     "emailVerified": true,
     "emailSource": "https://juridicoonline.com.br/empresa/33549255000167-coquetel-bar-ltda",
     "emailVerifiedAt": "2026-10-13",
-    "date2": "2026-10-11"
+    "date2": "2026-10-11",
+    "date3": "2026-10-14"
   },
   {
     "name": "Bar e Adega Vermelho Ltda",
@@ -42534,11 +42610,12 @@
     "date1": "2026-09-18",
     "email1": true,
     "email2": true,
-    "email3": false,
+    "email3": true,
     "emailVerified": true,
     "emailSource": "https://casadosdados.com.br/solucao/cnpj/bar-e-adega-vermelho-ltda-65914066000132",
     "emailVerifiedAt": "2026-10-13",
-    "date2": "2026-10-11"
+    "date2": "2026-10-11",
+    "date3": "2026-10-14"
   },
   {
     "name": "Emporio Adega Global Ltda",
@@ -42550,11 +42627,12 @@
     "date1": "2026-09-18",
     "email1": true,
     "email2": true,
-    "email3": false,
+    "email3": true,
     "emailVerified": true,
     "emailSource": "https://casadosdados.com.br/solucao/cnpj/emporio-adega-global-ltda-63012885000169",
     "emailVerifiedAt": "2026-10-13",
-    "date2": "2026-10-11"
+    "date2": "2026-10-11",
+    "date3": "2026-10-14"
   },
   {
     "name": "Elementar Bar e Restaurante Ltda",
@@ -42584,11 +42662,12 @@
     "date1": "2026-09-18",
     "email1": true,
     "email2": true,
-    "email3": false,
+    "email3": true,
     "emailVerified": true,
     "emailSource": "https://casadosdados.com.br/solucao/cnpj/olho-de-vidro-bar-ltda-65331543000137",
     "emailVerifiedAt": "2026-10-13",
-    "date2": "2026-10-11"
+    "date2": "2026-10-11",
+    "date3": "2026-10-14"
   },
   {
     "name": "Barreto & Barreto Bebidas Ltda",
@@ -42600,11 +42679,12 @@
     "date1": "2026-09-18",
     "email1": true,
     "email2": true,
-    "email3": false,
+    "email3": true,
     "emailVerified": true,
     "emailSource": "https://cnpjgo.com.br/cnpj/37483482000198",
     "emailVerifiedAt": "2026-10-13",
-    "date2": "2026-10-11"
+    "date2": "2026-10-11",
+    "date3": "2026-10-14"
   },
   {
     "name": "S.M. Distribuidora Ltda",
@@ -42634,11 +42714,12 @@
     "date1": "2026-09-18",
     "email1": true,
     "email2": true,
-    "email3": false,
+    "email3": true,
     "emailVerified": true,
     "emailSource": "https://juridicoonline.com.br/empresa/64282021000120-e-jr-distribuidora-de-bebidas-ltda",
     "emailVerifiedAt": "2026-10-13",
-    "date2": "2026-10-11"
+    "date2": "2026-10-11",
+    "date3": "2026-10-14"
   },
   {
     "name": "4 M - Adega e Bar LTDA",
@@ -42650,11 +42731,12 @@
     "date1": "2026-09-19",
     "email1": true,
     "email2": true,
-    "email3": false,
+    "email3": true,
     "emailVerified": true,
     "emailSource": "https://cnpjaberto.com.br/cnpj/59413835000116",
     "emailVerifiedAt": "2026-10-13",
-    "date2": "2026-10-11"
+    "date2": "2026-10-11",
+    "date3": "2026-10-14"
   },
   {
     "name": "Adega Dvn Bar E Lounge Ltda",
@@ -42684,11 +42766,12 @@
     "date1": "2026-09-19",
     "email1": true,
     "email2": true,
-    "email3": false,
+    "email3": true,
     "emailVerified": true,
     "emailSource": "https://guiapj.com.br/consulta-cnpj/29026431000109",
     "emailVerifiedAt": "2026-10-13",
-    "date2": "2026-10-11"
+    "date2": "2026-10-11",
+    "date3": "2026-10-14"
   },
   {
     "name": "Bar Adega Nossa Senhora Aparecida",
@@ -42700,11 +42783,12 @@
     "date1": "2026-09-19",
     "email1": true,
     "email2": true,
-    "email3": false,
+    "email3": true,
     "emailVerified": true,
     "emailSource": "https://juridicoonline.com.br/empresa/22624628000109-bar-adega-nossa-senhora-aparecida-ltda",
     "emailVerifiedAt": "2026-10-13",
-    "date2": "2026-10-11"
+    "date2": "2026-10-11",
+    "date3": "2026-10-14"
   },
   {
     "name": "Let's Beer Cervejas Artesanais",
@@ -42716,11 +42800,12 @@
     "date1": "2026-09-19",
     "email1": true,
     "email2": true,
-    "email3": false,
+    "email3": true,
     "emailVerified": true,
     "emailSource": "https://letsbeer.com.br",
     "emailVerifiedAt": "2026-10-13",
-    "date2": "2026-10-11"
+    "date2": "2026-10-11",
+    "date3": "2026-10-14"
   },
   {
     "name": "Gaivotas Bar / Pinheirinho Cerveja",
@@ -42732,11 +42817,12 @@
     "date1": "2026-09-19",
     "email1": true,
     "email2": true,
-    "email3": false,
+    "email3": true,
     "emailVerified": true,
     "emailSource": "https://cnpjgo.com.br/cnpj/68948793000109",
     "emailVerifiedAt": "2026-10-13",
-    "date2": "2026-10-11"
+    "date2": "2026-10-11",
+    "date3": "2026-10-14"
   },
   {
     "name": "Bar e Adega Altas Horas",
@@ -42748,11 +42834,12 @@
     "date1": "2026-09-19",
     "email1": true,
     "email2": true,
-    "email3": false,
+    "email3": true,
     "emailVerified": true,
     "emailSource": "https://mestregeo.com.br/cnpj/sp/sao-paulo/bar-e-adega-altas-horas-52570548000170",
     "emailVerifiedAt": "2026-10-13",
-    "date2": "2026-10-11"
+    "date2": "2026-10-11",
+    "date3": "2026-10-14"
   },
   {
     "name": "Distribuidora Adega Tapajo",
@@ -42764,11 +42851,12 @@
     "date1": "2026-09-19",
     "email1": true,
     "email2": true,
-    "email3": false,
+    "email3": true,
     "emailVerified": true,
     "emailSource": "https://guiapj.com.br/consulta-cnpj/55706841000100",
     "emailVerifiedAt": "2026-10-13",
-    "date2": "2026-10-11"
+    "date2": "2026-10-11",
+    "date3": "2026-10-14"
   },
   {
     "name": "Adega's Bar & Restaurante Ramos",
@@ -42780,11 +42868,12 @@
     "date1": "2026-09-19",
     "email1": true,
     "email2": true,
-    "email3": false,
+    "email3": true,
     "emailVerified": true,
     "emailSource": "https://juridicoonline.com.br/empresa/40441955000107-adega-ramos-bar-e-restaurante-ltda",
     "emailVerifiedAt": "2026-10-13",
-    "date2": "2026-10-11"
+    "date2": "2026-10-11",
+    "date3": "2026-10-14"
   },
   {
     "name": "Nova Tiradentes Adega e Distribuidora",
@@ -42796,11 +42885,12 @@
     "date1": "2026-09-19",
     "email1": true,
     "email2": true,
-    "email3": false,
+    "email3": true,
     "emailVerified": true,
     "emailSource": "https://maiscnpj.com.br/cnpj/59350730000165-nova-tiradentes-adega-e-distribuidora-gru-ltda",
     "emailVerifiedAt": "2026-10-13",
-    "date2": "2026-10-11"
+    "date2": "2026-10-11",
+    "date3": "2026-10-14"
   },
   {
     "name": "C.A.F Bar e Restaurante",
@@ -42830,11 +42920,12 @@
     "date1": "2026-10-07",
     "email1": true,
     "email2": true,
-    "email3": false,
+    "email3": true,
     "emailVerified": true,
     "emailSource": "https://guiapj.com.br",
     "emailVerifiedAt": "2026-10-13",
-    "date2": "2026-10-11"
+    "date2": "2026-10-11",
+    "date3": "2026-10-14"
   },
   {
     "name": "Agua, Bebidas e CIA",
@@ -42865,7 +42956,9 @@
     "email1": true,
     "date1": "2026-10-09",
     "email2": true,
-    "date2": "2026-10-11"
+    "date2": "2026-10-11",
+    "email3": true,
+    "date3": "2026-10-14"
   },
   {
     "name": "Distribuidora de Bebidas ABC",
@@ -42881,7 +42974,9 @@
     "email1": true,
     "date1": "2026-10-09",
     "email2": true,
-    "date2": "2026-10-11"
+    "date2": "2026-10-11",
+    "email3": true,
+    "date3": "2026-10-14"
   },
   {
     "name": "Adega Z├® Mineiro",
@@ -42897,7 +42992,9 @@
     "email1": true,
     "date1": "2026-10-09",
     "email2": true,
-    "date2": "2026-10-11"
+    "date2": "2026-10-11",
+    "email3": true,
+    "date3": "2026-10-14"
   },
   {
     "name": "São Paulo Distribuidora",
@@ -42916,7 +43013,9 @@
     "email1": true,
     "date1": "2026-10-09",
     "email2": true,
-    "date2": "2026-10-11"
+    "date2": "2026-10-11",
+    "email3": true,
+    "date3": "2026-10-14"
   },
   {
     "name": "Monica Catering",
