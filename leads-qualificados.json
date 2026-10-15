@@ -43615,7 +43615,8 @@
     "emailVerifiedAt": "2026-10-15",
     "mxVerified": true,
     "template": "consultivo",
-    "email1": false
+    "email1": true,
+    "date1": "2026-10-15"
   },
   {
     "name": "Open Chopp",
@@ -43631,7 +43632,8 @@
     "emailVerifiedAt": "2026-10-15",
     "mxVerified": true,
     "template": "consultivo",
-    "email1": false
+    "email1": true,
+    "date1": "2026-10-15"
   },
   {
     "name": "Milfont Distribuidora",
@@ -43647,6 +43649,7 @@
     "emailVerifiedAt": "2026-10-15",
     "mxVerified": true,
     "template": "consultivo",
-    "email1": false
+    "email1": true,
+    "date1": "2026-10-15"
   }
 ]
