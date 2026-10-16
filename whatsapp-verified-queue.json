@@ -3200,7 +3200,8 @@
     "source": "https://www.degusti.com.br",
     "verifiedAt": "2026-10-13",
     "notBefore": "2026-10-16",
-    "status": "queued"
+    "status": "sent",
+    "sentAt": "2026-10-16T13:37:50.603Z"
   },
   {
     "name": "Adega do Louro",
@@ -3383,6 +3384,156 @@
   {
     "name": "Brass Brew",
     "phone": "11 99604-5391 / 11 99669-2328 Marina",
+    "type": "adega",
+    "city": "São Paulo",
+    "source": "",
+    "verifiedAt": "2026-10-16",
+    "notBefore": "2026-10-16",
+    "status": "queued"
+  },
+  {
+    "name": "DEEP BAR 611",
+    "phone": "(11) 95310-6183",
+    "type": "adega",
+    "city": "São Paulo",
+    "source": "",
+    "verifiedAt": "2026-10-16",
+    "notBefore": "2026-10-16",
+    "status": "queued"
+  },
+  {
+    "name": "DiBaco Carnes e Vinhos",
+    "phone": "(11) 97549-3123",
+    "type": "adega",
+    "city": "São Paulo",
+    "source": "",
+    "verifiedAt": "2026-10-16",
+    "notBefore": "2026-10-16",
+    "status": "queued"
+  },
+  {
+    "name": "CERVEJARIA CENTRAL",
+    "phone": "(11) 96854-2053",
+    "type": "adega",
+    "city": "São Paulo",
+    "source": "",
+    "verifiedAt": "2026-10-16",
+    "notBefore": "2026-10-16",
+    "status": "queued"
+  },
+  {
+    "name": "CROMA BEER",
+    "phone": "(11) 98405-9781",
+    "type": "adega",
+    "city": "São Paulo",
+    "source": "",
+    "verifiedAt": "2026-10-16",
+    "notBefore": "2026-10-16",
+    "status": "queued"
+  },
+  {
+    "name": "TANK BREWPUB",
+    "phone": "(11) 93208-2352",
+    "type": "adega",
+    "city": "São Paulo",
+    "source": "",
+    "verifiedAt": "2026-10-16",
+    "notBefore": "2026-10-16",
+    "status": "queued"
+  },
+  {
+    "name": "Chulet├â┬úo Grill e Pizza",
+    "phone": "(11) 98420-7669",
+    "type": "adega",
+    "city": "São Paulo",
+    "source": "",
+    "verifiedAt": "2026-10-16",
+    "notBefore": "2026-10-16",
+    "status": "queued"
+  },
+  {
+    "name": "FRANG├â┬ô",
+    "phone": "(11) 98441-0215",
+    "type": "adega",
+    "city": "São Paulo",
+    "source": "",
+    "verifiedAt": "2026-10-16",
+    "notBefore": "2026-10-16",
+    "status": "queued"
+  },
+  {
+    "name": "Cervejaria Holy Water",
+    "phone": "(11) 97392-3344",
+    "type": "adega",
+    "city": "São Paulo",
+    "source": "",
+    "verifiedAt": "2026-10-16",
+    "notBefore": "2026-10-16",
+    "status": "queued"
+  },
+  {
+    "name": "Vino Jardim Paulista",
+    "phone": "(11) 99875-7353",
+    "type": "adega",
+    "city": "São Paulo",
+    "source": "",
+    "verifiedAt": "2026-10-16",
+    "notBefore": "2026-10-16",
+    "status": "queued"
+  },
+  {
+    "name": "Goose Island Brewhouse",
+    "phone": "(11) 95593-9979",
+    "type": "adega",
+    "city": "São Paulo",
+    "source": "",
+    "verifiedAt": "2026-10-16",
+    "notBefore": "2026-10-16",
+    "status": "queued"
+  },
+  {
+    "name": "ANDOVINO",
+    "phone": "(11) 93412-2304",
+    "type": "adega",
+    "city": "São Paulo",
+    "source": "",
+    "verifiedAt": "2026-10-16",
+    "notBefore": "2026-10-16",
+    "status": "queued"
+  },
+  {
+    "name": "CLEMENTINA",
+    "phone": "(11) 99329-7563",
+    "type": "adega",
+    "city": "São Paulo",
+    "source": "",
+    "verifiedAt": "2026-10-16",
+    "notBefore": "2026-10-16",
+    "status": "queued"
+  },
+  {
+    "name": "VINO! Vila Leopoldina",
+    "phone": "(11) 99735-4230",
+    "type": "adega",
+    "city": "São Paulo",
+    "source": "",
+    "verifiedAt": "2026-10-16",
+    "notBefore": "2026-10-16",
+    "status": "queued"
+  },
+  {
+    "name": "Los Forajidos Brewing Co.",
+    "phone": "(11) 98894-2865",
+    "type": "adega",
+    "city": "São Paulo",
+    "source": "",
+    "verifiedAt": "2026-10-16",
+    "notBefore": "2026-10-16",
+    "status": "queued"
+  },
+  {
+    "name": "Cerveja Madalena",
+    "phone": "(11) 96640-5588",
     "type": "adega",
     "city": "São Paulo",
     "source": "",
