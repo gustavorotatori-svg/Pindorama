@@ -3191,5 +3191,203 @@
     "notBefore": "2026-10-13",
     "status": "queued",
     "digits": "119419803189"
+  },
+  {
+    "name": "Degusti Vinhos",
+    "phone": "(11) 95666-2244",
+    "type": "adega",
+    "city": "São Paulo",
+    "source": "https://www.degusti.com.br",
+    "verifiedAt": "2026-10-13",
+    "notBefore": "2026-10-16",
+    "status": "queued"
+  },
+  {
+    "name": "Adega do Louro",
+    "phone": "(11) 98435-8533",
+    "type": "adega",
+    "city": "São Paulo",
+    "source": "https://adegadolouro.com.br",
+    "verifiedAt": "2026-10-16",
+    "notBefore": "2026-10-16",
+    "status": "queued"
+  },
+  {
+    "name": "WinePRO",
+    "phone": "(11) 99662-0398",
+    "type": "adega",
+    "city": "São Paulo",
+    "source": "https://winepro.com.br",
+    "verifiedAt": "2026-10-16",
+    "notBefore": "2026-10-16",
+    "status": "queued"
+  },
+  {
+    "name": "Benedetto Adega Boutique",
+    "phone": "(11) 95663-8464",
+    "type": "adega",
+    "city": "São Paulo",
+    "source": "https://oficialbenedetto.com",
+    "verifiedAt": "2026-10-16",
+    "notBefore": "2026-10-16",
+    "status": "queued"
+  },
+  {
+    "name": "Emp├│rio & Adega Morumbi",
+    "phone": "(11) 94448-9884",
+    "type": "adega",
+    "city": "São Paulo",
+    "source": "https://www.facebook.com/people/Emp%C3%B3rio-Adega-Morumbi/",
+    "verifiedAt": "2026-10-16",
+    "notBefore": "2026-10-16",
+    "status": "queued"
+  },
+  {
+    "name": "Fera Bebidas Atacadista",
+    "phone": "(11) 96568-5956",
+    "type": "distribuidora",
+    "city": "São Paulo",
+    "source": "https://www.ferabebidasatacadista.com.br",
+    "verifiedAt": "2026-10-16",
+    "notBefore": "2026-10-16",
+    "status": "queued"
+  },
+  {
+    "name": "Adega Emp├│rio Mais Bebidas",
+    "phone": "(11) 94890-6829",
+    "type": "adega",
+    "city": "São Paulo",
+    "source": "https://adega-emporio-mais-bebidas.ueniweb.com",
+    "verifiedAt": "2026-10-16",
+    "notBefore": "2026-10-16",
+    "status": "queued"
+  },
+  {
+    "name": "Prabar Bebidas",
+    "phone": "(11) 99626-1147",
+    "city": "São Paulo",
+    "source": "prabarbebidas.com.br",
+    "verifiedAt": "2026-10-16",
+    "notBefore": "2026-10-16",
+    "status": "queued"
+  },
+  {
+    "name": "Point das Bebidas",
+    "phone": "(11) 96023-1738",
+    "city": "São Paulo",
+    "source": "https://www.example.com",
+    "verifiedAt": "2026-10-16",
+    "notBefore": "2026-10-16",
+    "status": "queued"
+  },
+  {
+    "name": "Adega ├á Jato",
+    "phone": "(13) 99641-4005",
+    "type": "adega",
+    "city": "São Paulo",
+    "source": "loja-adegas.sempane.com.br",
+    "verifiedAt": "2026-10-16",
+    "notBefore": "2026-10-16",
+    "status": "queued"
+  },
+  {
+    "name": "CERVEJARIA TARANTINO",
+    "phone": "3297-7181 /  11 92006-6573 DELIVERY / 11 97035-5113 CRIS",
+    "type": "adega",
+    "city": "São Paulo",
+    "source": "",
+    "verifiedAt": "2026-10-16",
+    "notBefore": "2026-10-16",
+    "status": "queued"
+  },
+  {
+    "name": "BEVERINO",
+    "phone": "11 98438-3597 / 11 98426-9961",
+    "type": "adega",
+    "city": "São Paulo",
+    "source": "",
+    "verifiedAt": "2026-10-16",
+    "notBefore": "2026-10-16",
+    "status": "queued"
+  },
+  {
+    "name": "CERVEJARIA NACIONAL",
+    "phone": "1199712-5576/ 11 9 9937-3721 gabriel",
+    "type": "adega",
+    "city": "São Paulo",
+    "source": "",
+    "verifiedAt": "2026-10-16",
+    "notBefore": "2026-10-16",
+    "status": "queued"
+  },
+  {
+    "name": "S├â┬âO PAULO TAP HOUSE",
+    "phone": "1191319-3559",
+    "type": "adega",
+    "city": "São Paulo",
+    "source": "",
+    "verifiedAt": "2026-10-16",
+    "notBefore": "2026-10-16",
+    "status": "queued"
+  },
+  {
+    "name": "Miya Wine Bar",
+    "phone": "1191624-3540 da loja / 1199866-2306 Renee Beralde",
+    "type": "adega",
+    "city": "São Paulo",
+    "source": "",
+    "verifiedAt": "2026-10-16",
+    "notBefore": "2026-10-16",
+    "status": "queued"
+  },
+  {
+    "name": "ELEVADO BAR",
+    "phone": "1199234-0145 / 11 4172-9749 / 11 97624-3916 LEANDRO",
+    "type": "adega",
+    "city": "São Paulo",
+    "source": "",
+    "verifiedAt": "2026-10-16",
+    "notBefore": "2026-10-16",
+    "status": "queued"
+  },
+  {
+    "name": "Soma Cervejaria",
+    "phone": "11 98440-5442 FABIANO / 1199186-5013",
+    "type": "adega",
+    "city": "São Paulo",
+    "source": "",
+    "verifiedAt": "2026-10-16",
+    "notBefore": "2026-10-16",
+    "status": "queued"
+  },
+  {
+    "name": "Califa Brewpub",
+    "phone": "11991759117",
+    "type": "adega",
+    "city": "São Paulo",
+    "source": "",
+    "verifiedAt": "2026-10-16",
+    "notBefore": "2026-10-16",
+    "status": "queued"
+  },
+  {
+    "name": "The Joy",
+    "phone": "11913790339 / 11 98915-8461 EVERTON / 11 99648-4200 EDUARDO",
+    "type": "adega",
+    "city": "São Paulo",
+    "source": "",
+    "verifiedAt": "2026-10-16",
+    "notBefore": "2026-10-16",
+    "status": "queued"
+  },
+  {
+    "name": "Brass Brew",
+    "phone": "11 99604-5391 / 11 99669-2328 Marina",
+    "type": "adega",
+    "city": "São Paulo",
+    "source": "",
+    "verifiedAt": "2026-10-16",
+    "notBefore": "2026-10-16",
+    "status": "queued"
   }
 ]
