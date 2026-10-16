@@ -1743,7 +1743,7 @@
     "source": "site sem email",
     "emailVerified": true,
     "emailSource": "https://www.example.com",
-    "emailVerifiedAt": "2026-10-15"
+    "emailVerifiedAt": "2026-10-16"
   },
   {
     "name": "Vinea Store, Importadora e Wine Bar",
@@ -36290,7 +36290,7 @@
     "whatsappDate": "2026-09-10",
     "emailVerified": true,
     "emailSource": "https://www.example.com",
-    "emailVerifiedAt": "2026-10-15"
+    "emailVerifiedAt": "2026-10-16"
   },
   {
     "name": "Confianca Atacadista de Bebidas",
@@ -36307,7 +36307,7 @@
     "whatsappDate": "2026-09-11",
     "emailVerified": true,
     "emailSource": "https://www.example.com",
-    "emailVerifiedAt": "2026-10-15"
+    "emailVerifiedAt": "2026-10-16"
   },
   {
     "name": "Nossa Distribuidora Bebidas",
@@ -36322,7 +36322,7 @@
     "template": "consultivo",
     "emailVerified": true,
     "emailSource": "https://www.example.com",
-    "emailVerifiedAt": "2026-10-15"
+    "emailVerifiedAt": "2026-10-16"
   },
   {
     "name": "Mont Cristo Wine Bar",
@@ -36339,7 +36339,7 @@
     "whatsappDate": "2026-09-11",
     "emailVerified": true,
     "emailSource": "https://www.example.com",
-    "emailVerifiedAt": "2026-10-15"
+    "emailVerifiedAt": "2026-10-16"
   },
   {
     "name": "Casa Porto D'Vino",
@@ -36358,7 +36358,7 @@
     "whatsappDate": "2026-09-11",
     "emailVerified": true,
     "emailSource": "https://www.example.com",
-    "emailVerifiedAt": "2026-10-15"
+    "emailVerifiedAt": "2026-10-16"
   },
   {
     "name": "Supermercados Peg Pese",
@@ -36375,7 +36375,7 @@
     "whatsappDate": "2026-09-11",
     "emailVerified": true,
     "emailSource": "https://www.example.com",
-    "emailVerifiedAt": "2026-10-15"
+    "emailVerifiedAt": "2026-10-16"
   },
   {
     "name": "Charllu Bar",
@@ -37335,7 +37335,7 @@
     "whatsappProof": "Mensagem exibida no historico do WhatsApp Web apos o envio as 11:29",
     "emailVerified": true,
     "emailSource": "https://www.example.com",
-    "emailVerifiedAt": "2026-10-15"
+    "emailVerifiedAt": "2026-10-16"
   },
   {
     "name": "Germania Freguesia",
@@ -37357,7 +37357,7 @@
     "whatsappProof": "Mensagem exibida no historico do WhatsApp Web apos o envio as 11:33; resposta automatica recebida",
     "emailVerified": true,
     "emailSource": "https://www.example.com",
-    "emailVerifiedAt": "2026-10-15"
+    "emailVerifiedAt": "2026-10-16"
   },
   {
     "name": "Adega Bolinha",
@@ -37379,7 +37379,7 @@
     "whatsappProof": "Mensagem exibida no historico do WhatsApp Web apos o envio as 11:33",
     "emailVerified": true,
     "emailSource": "https://www.example.com",
-    "emailVerifiedAt": "2026-10-15"
+    "emailVerifiedAt": "2026-10-16"
   },
   {
     "name": "S7 Adega e Tabacaria",
@@ -37431,7 +37431,7 @@
     "whatsappProof": "Mensagem exibida no historico do WhatsApp Web apos o envio",
     "emailVerified": true,
     "emailSource": "https://www.example.com",
-    "emailVerifiedAt": "2026-10-15"
+    "emailVerifiedAt": "2026-10-16"
   },
   {
     "name": "Gogo da Ema",
@@ -37453,7 +37453,7 @@
     "whatsappProof": "Mensagem exibida no historico do WhatsApp Web apos o envio",
     "emailVerified": true,
     "emailSource": "https://www.example.com",
-    "emailVerifiedAt": "2026-10-15"
+    "emailVerifiedAt": "2026-10-16"
   },
   {
     "name": "Casa Zilanna Mercearia Idish",
@@ -37475,7 +37475,7 @@
     "whatsappProof": "Mensagem exibida no historico do WhatsApp Web apos o envio; resposta recebida as 11:35",
     "emailVerified": true,
     "emailSource": "https://www.example.com",
-    "emailVerifiedAt": "2026-10-15"
+    "emailVerifiedAt": "2026-10-16"
   },
   {
     "name": "Adega Caldeira Drink's e Tabacaria",
@@ -37494,7 +37494,7 @@
     "status": "uncontacted",
     "emailVerified": true,
     "emailSource": "https://www.example.com",
-    "emailVerifiedAt": "2026-10-15"
+    "emailVerifiedAt": "2026-10-16"
   },
   {
     "name": "Emporio Paulista Produtos Artesanais",
@@ -37825,7 +37825,7 @@
     "email1": false,
     "emailVerified": true,
     "emailSource": "https://www.example.com",
-    "emailVerifiedAt": "2026-10-15"
+    "emailVerifiedAt": "2026-10-16"
   },
   {
     "name": "Adega Joinha",
@@ -37845,7 +37845,7 @@
     "email1": false,
     "emailVerified": true,
     "emailSource": "https://www.example.com",
-    "emailVerifiedAt": "2026-10-15"
+    "emailVerifiedAt": "2026-10-16"
   },
   {
     "name": "Cantinho da Roca",
@@ -37865,7 +37865,7 @@
     "email1": false,
     "emailVerified": true,
     "emailSource": "https://www.example.com",
-    "emailVerifiedAt": "2026-10-15"
+    "emailVerifiedAt": "2026-10-16"
   },
   {
     "name": "Adega El Loko SBC",
@@ -37889,7 +37889,7 @@
     "whatsappProof": "Mensagem exibida no historico do WhatsApp Web apos o envio",
     "emailVerified": true,
     "emailSource": "https://www.example.com",
-    "emailVerifiedAt": "2026-10-15"
+    "emailVerifiedAt": "2026-10-16"
   },
   {
     "name": "Adega Boys Drinks",
@@ -37909,7 +37909,7 @@
     "email1": false,
     "emailVerified": true,
     "emailSource": "https://www.example.com",
-    "emailVerifiedAt": "2026-10-15"
+    "emailVerifiedAt": "2026-10-16"
   },
   {
     "name": "Adega Thiga's",
@@ -37929,7 +37929,7 @@
     "email1": false,
     "emailVerified": true,
     "emailSource": "https://www.example.com",
-    "emailVerifiedAt": "2026-10-15"
+    "emailVerifiedAt": "2026-10-16"
   },
   {
     "name": "Adega e Emporio Pipos",
@@ -37949,7 +37949,7 @@
     "email1": false,
     "emailVerified": true,
     "emailSource": "https://www.example.com",
-    "emailVerifiedAt": "2026-10-15"
+    "emailVerifiedAt": "2026-10-16"
   },
   {
     "name": "Adega Saidera",
@@ -37968,7 +37968,7 @@
     "email1": false,
     "emailVerified": true,
     "emailSource": "https://www.example.com",
-    "emailVerifiedAt": "2026-10-15"
+    "emailVerifiedAt": "2026-10-16"
   },
   {
     "name": "Adega e Mercearia Impacto",
@@ -37992,7 +37992,7 @@
     "whatsappSource": "https://adegaimpacto.com.br/",
     "emailVerified": true,
     "emailSource": "https://www.example.com",
-    "emailVerifiedAt": "2026-10-15"
+    "emailVerifiedAt": "2026-10-16"
   },
   {
     "name": "Adega Delivery",
@@ -38015,7 +38015,7 @@
     "email1": false,
     "emailVerified": true,
     "emailSource": "https://www.example.com",
-    "emailVerifiedAt": "2026-10-15"
+    "emailVerifiedAt": "2026-10-16"
   },
   {
     "name": "Gold Beer Adega e Tabacaria",
@@ -38034,7 +38034,7 @@
     "email1": false,
     "emailVerified": true,
     "emailSource": "https://www.example.com",
-    "emailVerifiedAt": "2026-10-15"
+    "emailVerifiedAt": "2026-10-16"
   },
   {
     "name": "Adega e Distribuidora W&A",
@@ -38052,7 +38052,7 @@
     "email1": false,
     "emailVerified": true,
     "emailSource": "https://www.example.com",
-    "emailVerifiedAt": "2026-10-15"
+    "emailVerifiedAt": "2026-10-16"
   },
   {
     "name": "Adega Imperador",
@@ -38072,7 +38072,7 @@
     "email1": false,
     "emailVerified": true,
     "emailSource": "https://www.example.com",
-    "emailVerifiedAt": "2026-10-15"
+    "emailVerifiedAt": "2026-10-16"
   },
   {
     "name": "Adega Imperio Guarulhos",
@@ -38090,7 +38090,7 @@
     "email1": false,
     "emailVerified": true,
     "emailSource": "https://www.example.com",
-    "emailVerifiedAt": "2026-10-15"
+    "emailVerifiedAt": "2026-10-16"
   },
   {
     "name": "A Doce Dose - Capuava",
@@ -38110,7 +38110,7 @@
     "email1": false,
     "emailVerified": true,
     "emailSource": "https://www.example.com",
-    "emailVerifiedAt": "2026-10-15"
+    "emailVerifiedAt": "2026-10-16"
   },
   {
     "name": "Haiak Sushi - Unidade Itapevi",
@@ -38129,7 +38129,7 @@
     "email1": false,
     "emailVerified": true,
     "emailSource": "https://www.example.com",
-    "emailVerifiedAt": "2026-10-15"
+    "emailVerifiedAt": "2026-10-16"
   },
   {
     "name": "Adega do 00",
@@ -38147,7 +38147,7 @@
     "email1": false,
     "emailVerified": true,
     "emailSource": "https://www.example.com",
-    "emailVerifiedAt": "2026-10-15"
+    "emailVerifiedAt": "2026-10-16"
   },
   {
     "name": "O Canto da Costela - Alphaville",
@@ -38166,7 +38166,7 @@
     "email1": false,
     "emailVerified": true,
     "emailSource": "https://www.example.com",
-    "emailVerifiedAt": "2026-10-15"
+    "emailVerifiedAt": "2026-10-16"
   },
   {
     "name": "Let's Beer Cervejas Artesanais",
@@ -38220,7 +38220,7 @@
     "email1": false,
     "emailVerified": true,
     "emailSource": "https://www.example.com",
-    "emailVerifiedAt": "2026-10-15"
+    "emailVerifiedAt": "2026-10-16"
   },
   {
     "name": "Emporio do Mineiro Vila Sao Francisco",
@@ -38242,7 +38242,7 @@
     "email1": false,
     "emailVerified": true,
     "emailSource": "https://www.example.com",
-    "emailVerifiedAt": "2026-10-15"
+    "emailVerifiedAt": "2026-10-16"
   },
   {
     "name": "A Casa do Produtor",
@@ -38291,7 +38291,7 @@
     "whatsappFailure": "O WhatsApp Web rejeitou a abertura da conversa e retornou para a pagina inicial em duas tentativas; numero suprimido para novas abordagens automaticas",
     "emailVerified": true,
     "emailSource": "https://www.example.com",
-    "emailVerifiedAt": "2026-10-15"
+    "emailVerifiedAt": "2026-10-16"
   },
   {
     "name": "Cachaca Roca de Garca",
@@ -38576,7 +38576,7 @@
     "whatsapp1": false,
     "emailVerified": true,
     "emailSource": "https://www.example.com",
-    "emailVerifiedAt": "2026-10-15"
+    "emailVerifiedAt": "2026-10-16"
   },
   {
     "name": "Wanel Beach",
@@ -38626,7 +38626,7 @@
     "whatsapp1": false,
     "emailVerified": true,
     "emailSource": "https://www.example.com",
-    "emailVerifiedAt": "2026-10-15"
+    "emailVerifiedAt": "2026-10-16"
   },
   {
     "name": "Bertin Bebidas",
@@ -38681,7 +38681,7 @@
     "whatsapp1": false,
     "emailVerified": true,
     "emailSource": "https://www.example.com",
-    "emailVerifiedAt": "2026-10-15"
+    "emailVerifiedAt": "2026-10-16"
   },
   {
     "name": "FG7 Bebidas",
@@ -38768,7 +38768,7 @@
     "template": "consultivo",
     "emailVerified": true,
     "emailSource": "https://www.example.com",
-    "emailVerifiedAt": "2026-10-15"
+    "emailVerifiedAt": "2026-10-16"
   },
   {
     "name": "Taxi Beer Drinks Express",
@@ -38817,7 +38817,7 @@
     "template": "consultivo",
     "emailVerified": true,
     "emailSource": "https://www.example.com",
-    "emailVerifiedAt": "2026-10-15"
+    "emailVerifiedAt": "2026-10-16"
   },
   {
     "name": "Nova Adega Jundiai",
@@ -38837,7 +38837,7 @@
     "template": "consultivo",
     "emailVerified": true,
     "emailSource": "https://www.example.com",
-    "emailVerifiedAt": "2026-10-15"
+    "emailVerifiedAt": "2026-10-16"
   },
   {
     "name": "Vinicola e Adega Castanho",
@@ -39716,7 +39716,7 @@
     "context": "Respondeu ao nosso WhatsApp em 08/09/2026: compras somente via e-mail compras@grupolocale.com.br ou WhatsApp (11) 93491-9261 com Carla. Responder com proposta para Carla. Grupo Locale (Trattoria, Ristorante, Caff├®).",
     "emailVerified": true,
     "emailSource": "https://www.localecaffe.com.br/",
-    "emailVerifiedAt": "2026-10-15",
+    "emailVerifiedAt": "2026-10-16",
     "mxVerified": true,
     "template": "pergunta",
     "website": ""
@@ -39730,7 +39730,7 @@
     "phone": "11 93491-9261",
     "emailVerified": true,
     "emailSource": "https://www.example.com",
-    "emailVerifiedAt": "2026-10-15"
+    "emailVerifiedAt": "2026-10-16"
   },
   {
     "name": "Adega Rainha",
@@ -43782,7 +43782,7 @@
     "context": "ITALIANOS; responsável: DENIS; instagram: https://www.instagram.com/ciaovinoebirra/",
     "emailVerified": true,
     "emailSource": "https://www.diariocidade.com/",
-    "emailVerifiedAt": "2026-10-15",
+    "emailVerifiedAt": "2026-10-16",
     "mxVerified": true,
     "template": "consultivo",
     "email1": false
@@ -44189,7 +44189,7 @@
     "context": "ITALIANO; responsável: ELIS OU RICARDO; instagram: https://www.instagram.com/pina.restaurant/",
     "emailVerified": true,
     "emailSource": "https://www.diariocidade.com/",
-    "emailVerifiedAt": "2026-10-15",
+    "emailVerifiedAt": "2026-10-16",
     "mxVerified": true,
     "template": "consultivo",
     "email1": false
@@ -44222,7 +44222,7 @@
     "context": "ITALIANOS; responsável: LUIGI; instagram: https://www.instagram.com/cantinasanmarcomooca/",
     "emailVerified": true,
     "emailSource": "https://www.diariocidade.com/",
-    "emailVerifiedAt": "2026-10-15",
+    "emailVerifiedAt": "2026-10-16",
     "mxVerified": true,
     "template": "consultivo",
     "email1": false
@@ -44357,7 +44357,7 @@
     "context": "RESTAURANTE; responsável: ANNA LUIZA; instagram: https://www.instagram.com/bradorestaurante/",
     "emailVerified": true,
     "emailSource": "https://www.diariocidade.com/",
-    "emailVerifiedAt": "2026-10-15",
+    "emailVerifiedAt": "2026-10-16",
     "mxVerified": true,
     "template": "consultivo",
     "email1": false
@@ -44441,7 +44441,7 @@
     "context": "PADARIA; responsável: ELIETE; instagram: https://www.instagram.com/panificadoravilamonumento/",
     "emailVerified": true,
     "emailSource": "https://www.diariocidade.com/",
-    "emailVerifiedAt": "2026-10-15",
+    "emailVerifiedAt": "2026-10-16",
     "mxVerified": true,
     "template": "consultivo",
     "email1": false
@@ -44559,7 +44559,7 @@
     "context": "BARES; responsável: JENIFER; instagram: https://www.instagram.com/botecosp/",
     "emailVerified": true,
     "emailSource": "https://www.diariocidade.com/",
-    "emailVerifiedAt": "2026-10-15",
+    "emailVerifiedAt": "2026-10-16",
     "mxVerified": true,
     "template": "consultivo",
     "email1": false
@@ -44643,7 +44643,7 @@
     "context": "HAMBURGUERIA; responsável: Ana Paula E Duel; instagram: https://www.instagram.com/benditorockburger/?hl=pt-br",
     "emailVerified": true,
     "emailSource": "https://www.diariocidade.com/",
-    "emailVerifiedAt": "2026-10-15",
+    "emailVerifiedAt": "2026-10-16",
     "mxVerified": true,
     "template": "consultivo",
     "email1": true,
@@ -44660,7 +44660,7 @@
     "context": "HAMBURGUERIA; instagram: https://www.instagram.com/_triburger_/",
     "emailVerified": true,
     "emailSource": "https://www.diariocidade.com/",
-    "emailVerifiedAt": "2026-10-15",
+    "emailVerifiedAt": "2026-10-16",
     "mxVerified": true,
     "template": "consultivo",
     "email1": true,
@@ -44677,7 +44677,7 @@
     "context": "HAMBURGUERIA; responsável: WELLINGTON; instagram: https://www.instagram.com/depot4/",
     "emailVerified": true,
     "emailSource": "https://www.diariocidade.com/",
-    "emailVerifiedAt": "2026-10-15",
+    "emailVerifiedAt": "2026-10-16",
     "mxVerified": true,
     "template": "consultivo",
     "email1": true,
@@ -44694,7 +44694,7 @@
     "context": "PADARIA; responsável: FÃTIMA; instagram: https://www.instagram.com/padaria_manuella/",
     "emailVerified": true,
     "emailSource": "https://www.diariocidade.com/",
-    "emailVerifiedAt": "2026-10-15",
+    "emailVerifiedAt": "2026-10-16",
     "mxVerified": true,
     "template": "consultivo",
     "email1": false
@@ -44710,7 +44710,7 @@
     "context": "HAMBURGUERIA; responsável: Paula ou Marcio; instagram: https://www.instagram.com/burguerfun/?hl=pt-br",
     "emailVerified": true,
     "emailSource": "https://www.diariocidade.com/",
-    "emailVerifiedAt": "2026-10-15",
+    "emailVerifiedAt": "2026-10-16",
     "mxVerified": true,
     "template": "consultivo",
     "email1": true,
@@ -44727,7 +44727,7 @@
     "context": "PIZZARIA; responsável: WILLIAN; instagram: https://www.instagram.com/lagloriapizzabar/",
     "emailVerified": true,
     "emailSource": "https://www.diariocidade.com/",
-    "emailVerifiedAt": "2026-10-15",
+    "emailVerifiedAt": "2026-10-16",
     "mxVerified": true,
     "template": "consultivo",
     "email1": true,
@@ -44795,7 +44795,7 @@
     "context": "RESTAURANTE; instagram: https://www.instagram.com/tonkotsulovers/",
     "emailVerified": true,
     "emailSource": "https://www.diariocidade.com/",
-    "emailVerifiedAt": "2026-10-15",
+    "emailVerifiedAt": "2026-10-16",
     "mxVerified": true,
     "template": "consultivo",
     "email1": true,
@@ -44812,7 +44812,7 @@
     "context": "DOCES; responsável: ANDRINE; instagram: https://www.instagram.com/magmarket_/",
     "emailVerified": true,
     "emailSource": "https://www.diariocidade.com/",
-    "emailVerifiedAt": "2026-10-15",
+    "emailVerifiedAt": "2026-10-16",
     "mxVerified": true,
     "template": "consultivo",
     "email1": true,
@@ -44829,7 +44829,7 @@
     "context": "CAFETERIA; responsável: OLIVIA; instagram: https://www.instagram.com/coffeelab_br/",
     "emailVerified": true,
     "emailSource": "https://www.diariocidade.com/",
-    "emailVerifiedAt": "2026-10-15",
+    "emailVerifiedAt": "2026-10-16",
     "mxVerified": true,
     "template": "consultivo",
     "email1": true,
@@ -44846,7 +44846,7 @@
     "context": "JAPONÃS; responsável: IARA; instagram: https://www.instagram.com/temakibrothers/",
     "emailVerified": true,
     "emailSource": "https://www.diariocidade.com/",
-    "emailVerifiedAt": "2026-10-15",
+    "emailVerifiedAt": "2026-10-16",
     "mxVerified": true,
     "template": "consultivo",
     "email1": true,
@@ -44863,7 +44863,7 @@
     "context": "RESTAURANTE; responsável: MARCELA",
     "emailVerified": true,
     "emailSource": "https://www.diariocidade.com/",
-    "emailVerifiedAt": "2026-10-15",
+    "emailVerifiedAt": "2026-10-16",
     "mxVerified": true,
     "template": "consultivo",
     "email1": true,
@@ -44897,7 +44897,7 @@
     "context": "COZINHA JAPONESA; responsável: FRANCINE; instagram: https://www.instagram.com/sa.cozinhajaponesa/",
     "emailVerified": true,
     "emailSource": "https://www.diariocidade.com/",
-    "emailVerifiedAt": "2026-10-15",
+    "emailVerifiedAt": "2026-10-16",
     "mxVerified": true,
     "template": "consultivo",
     "email1": true,
@@ -44914,7 +44914,7 @@
     "context": "TRATORIA; responsável: MARCOS; instagram: https://www.instagram.com/trattorianacional/",
     "emailVerified": true,
     "emailSource": "https://www.diariocidade.com/",
-    "emailVerifiedAt": "2026-10-15",
+    "emailVerifiedAt": "2026-10-16",
     "mxVerified": true,
     "template": "consultivo",
     "email1": true,
@@ -44931,7 +44931,7 @@
     "context": "JAPONÃS; responsável: EDICARLOS / ROGÃRIO; instagram: https://www.instagram.com/nanukysushi/",
     "emailVerified": true,
     "emailSource": "https://www.diariocidade.com/",
-    "emailVerifiedAt": "2026-10-15",
+    "emailVerifiedAt": "2026-10-16",
     "mxVerified": true,
     "template": "consultivo",
     "email1": true,
@@ -44965,7 +44965,7 @@
     "context": "CONFEITARIA e CAFETEIRA; responsável: PATRICIA; instagram: https://www.instagram.com/sowcakelounge.vilamariana/",
     "emailVerified": true,
     "emailSource": "https://www.diariocidade.com/",
-    "emailVerifiedAt": "2026-10-15",
+    "emailVerifiedAt": "2026-10-16",
     "mxVerified": true,
     "template": "consultivo",
     "email1": true,
@@ -44982,7 +44982,7 @@
     "context": "HAMBURGUERIA; responsável: JULIANA; instagram: https://www.instagram.com/bbccontainer/",
     "emailVerified": true,
     "emailSource": "https://www.diariocidade.com/",
-    "emailVerifiedAt": "2026-10-15",
+    "emailVerifiedAt": "2026-10-16",
     "mxVerified": true,
     "template": "consultivo",
     "email1": true,
@@ -44999,7 +44999,7 @@
     "context": "RESTAURANTE; responsável: FELIPE; instagram: https://www.instagram.com/aecafe.cozinha/",
     "emailVerified": true,
     "emailSource": "https://www.diariocidade.com/",
-    "emailVerifiedAt": "2026-10-15",
+    "emailVerifiedAt": "2026-10-16",
     "mxVerified": true,
     "template": "consultivo",
     "email1": true,
@@ -45016,7 +45016,7 @@
     "context": "RESTAURANTE AMERICADO; responsável: DOANE; instagram: https://www.instagram.com/tgifridaysbr/",
     "emailVerified": true,
     "emailSource": "https://www.diariocidade.com/",
-    "emailVerifiedAt": "2026-10-15",
+    "emailVerifiedAt": "2026-10-16",
     "mxVerified": true,
     "template": "consultivo",
     "email1": true,
@@ -45033,7 +45033,7 @@
     "context": "JAPONES; responsável: CARLOS KOJI; instagram: https://www.instagram.com/bykoji/",
     "emailVerified": true,
     "emailSource": "https://www.diariocidade.com/",
-    "emailVerifiedAt": "2026-10-15",
+    "emailVerifiedAt": "2026-10-16",
     "mxVerified": true,
     "template": "consultivo",
     "email1": true,
@@ -45050,7 +45050,7 @@
     "context": "RESTAURANTE; instagram: https://www.instagram.com/strogonoff_da_valeria/",
     "emailVerified": true,
     "emailSource": "https://www.diariocidade.com/",
-    "emailVerifiedAt": "2026-10-15",
+    "emailVerifiedAt": "2026-10-16",
     "mxVerified": true,
     "template": "consultivo",
     "email1": true,
@@ -45067,7 +45067,7 @@
     "context": "CULINÃRIA CAIPIRA E PASTEL DE ANGU; responsável: ANGELITA; instagram: https://www.instagram.com/espacoarimba/",
     "emailVerified": true,
     "emailSource": "https://www.diariocidade.com/",
-    "emailVerifiedAt": "2026-10-15",
+    "emailVerifiedAt": "2026-10-16",
     "mxVerified": true,
     "template": "consultivo",
     "email1": true,
@@ -45084,7 +45084,7 @@
     "context": "JAPONÃS; responsável: ADRIANA / NEISON; instagram: https://www.instagram.com/restaurantenanako/?hl=pt-br",
     "emailVerified": true,
     "emailSource": "https://www.diariocidade.com/",
-    "emailVerifiedAt": "2026-10-15",
+    "emailVerifiedAt": "2026-10-16",
     "mxVerified": true,
     "template": "consultivo",
     "email1": true,
@@ -45101,7 +45101,7 @@
     "context": "HAMBURGUERIA; responsável: GILSON; instagram: https://www.instagram.com/burger.700/",
     "emailVerified": true,
     "emailSource": "https://www.diariocidade.com/",
-    "emailVerifiedAt": "2026-10-15",
+    "emailVerifiedAt": "2026-10-16",
     "mxVerified": true,
     "template": "consultivo",
     "email1": true,
@@ -45118,7 +45118,7 @@
     "context": "DRINQUES; responsável: LUCIANO; instagram: https://www.instagram.com/mundibar/",
     "emailVerified": true,
     "emailSource": "https://www.diariocidade.com/",
-    "emailVerifiedAt": "2026-10-15",
+    "emailVerifiedAt": "2026-10-16",
     "mxVerified": true,
     "template": "consultivo",
     "email1": true,
@@ -45135,7 +45135,7 @@
     "context": "HAMBURGUERIA; responsável: CAMILA; instagram: https://www.instagram.com/burgermatch/",
     "emailVerified": true,
     "emailSource": "https://www.diariocidade.com/",
-    "emailVerifiedAt": "2026-10-15",
+    "emailVerifiedAt": "2026-10-16",
     "mxVerified": true,
     "template": "consultivo",
     "email1": true,
@@ -45152,7 +45152,7 @@
     "context": "MEXICANO; responsável: BOB; instagram: https://www.instagram.com/cantinaelmariachi/",
     "emailVerified": true,
     "emailSource": "https://www.diariocidade.com/",
-    "emailVerifiedAt": "2026-10-15",
+    "emailVerifiedAt": "2026-10-16",
     "mxVerified": true,
     "template": "consultivo",
     "email1": true,
@@ -45169,7 +45169,7 @@
     "context": "SAUDAVEL; responsável: PEPO; instagram: https://www.instagram.com/greentable___/",
     "emailVerified": true,
     "emailSource": "https://www.diariocidade.com/",
-    "emailVerifiedAt": "2026-10-15",
+    "emailVerifiedAt": "2026-10-16",
     "mxVerified": true,
     "template": "consultivo",
     "email1": true,
@@ -45186,7 +45186,7 @@
     "context": "PIZZARIA; responsável: MICHELE; instagram: https://www.instagram.com/jollypizzaria/",
     "emailVerified": true,
     "emailSource": "https://www.diariocidade.com/",
-    "emailVerifiedAt": "2026-10-15",
+    "emailVerifiedAt": "2026-10-16",
     "mxVerified": true,
     "template": "consultivo",
     "email1": true,
@@ -45220,7 +45220,7 @@
     "context": "JAPONÃS; responsável: JANAINA; instagram: https://www.instagram.com/temakeriapaulista/",
     "emailVerified": true,
     "emailSource": "https://www.diariocidade.com/",
-    "emailVerifiedAt": "2026-10-15",
+    "emailVerifiedAt": "2026-10-16",
     "mxVerified": true,
     "template": "consultivo",
     "email1": true,
@@ -45237,7 +45237,7 @@
     "context": "HAMBURGUERIA; instagram: https://www.instagram.com/box.st/",
     "emailVerified": true,
     "emailSource": "https://www.diariocidade.com/",
-    "emailVerifiedAt": "2026-10-15",
+    "emailVerifiedAt": "2026-10-16",
     "mxVerified": true,
     "template": "consultivo",
     "email1": true,
@@ -45254,7 +45254,7 @@
     "context": "JAPONÃS; responsável: SR. FILAS; instagram: https://www.instagram.com/yakissobamixsushi/",
     "emailVerified": true,
     "emailSource": "https://www.diariocidade.com/",
-    "emailVerifiedAt": "2026-10-15",
+    "emailVerifiedAt": "2026-10-16",
     "mxVerified": true,
     "template": "consultivo",
     "email1": true,
@@ -45288,7 +45288,7 @@
     "context": "ITALIANO; responsável: TITO; instagram: https://www.instagram.com/mila_sp/",
     "emailVerified": true,
     "emailSource": "https://www.diariocidade.com/",
-    "emailVerifiedAt": "2026-10-15",
+    "emailVerifiedAt": "2026-10-16",
     "mxVerified": true,
     "template": "consultivo",
     "email1": true,
@@ -45305,7 +45305,7 @@
     "context": "DIVERSOS; responsável: GABRIEL; instagram: https://www.instagram.com/forno_sp/",
     "emailVerified": true,
     "emailSource": "https://www.diariocidade.com/",
-    "emailVerifiedAt": "2026-10-15",
+    "emailVerifiedAt": "2026-10-16",
     "mxVerified": true,
     "template": "consultivo",
     "email1": true,
@@ -45339,7 +45339,7 @@
     "context": "ECLAIRS; responsável: ISABEL; instagram: https://www.instagram.com/faire_la_bombe/",
     "emailVerified": true,
     "emailSource": "https://www.diariocidade.com/",
-    "emailVerifiedAt": "2026-10-15",
+    "emailVerifiedAt": "2026-10-16",
     "mxVerified": true,
     "template": "consultivo",
     "email1": true,
@@ -45373,7 +45373,7 @@
     "context": "HAMBURGUERIA; responsável: LEANDRO; instagram: https://www.instagram.com/hbecia_br/",
     "emailVerified": true,
     "emailSource": "https://www.diariocidade.com/",
-    "emailVerifiedAt": "2026-10-15",
+    "emailVerifiedAt": "2026-10-16",
     "mxVerified": true,
     "template": "consultivo",
     "email1": true,
@@ -45390,7 +45390,7 @@
     "context": "HAMBURGUERIA; responsável: EVERTON; instagram: https://www.instagram.com/bfactorybrasil/?hl=pt-br",
     "emailVerified": true,
     "emailSource": "https://www.diariocidade.com/",
-    "emailVerifiedAt": "2026-10-15",
+    "emailVerifiedAt": "2026-10-16",
     "mxVerified": true,
     "template": "consultivo",
     "email1": true,
@@ -45407,7 +45407,7 @@
     "context": "RESTAURANTE; responsável: MIGUEL; instagram: https://www.instagram.com/hipokee/",
     "emailVerified": true,
     "emailSource": "https://www.diariocidade.com/",
-    "emailVerifiedAt": "2026-10-15",
+    "emailVerifiedAt": "2026-10-16",
     "mxVerified": true,
     "template": "consultivo",
     "email1": true,
@@ -45424,7 +45424,7 @@
     "context": "JAPONES; responsável: CRISTIANE; instagram: https://www.instagram.com/huahinesushi_guaipa/",
     "emailVerified": true,
     "emailSource": "https://www.diariocidade.com/",
-    "emailVerifiedAt": "2026-10-15",
+    "emailVerifiedAt": "2026-10-16",
     "mxVerified": true,
     "template": "consultivo",
     "email1": true,
@@ -45458,7 +45458,7 @@
     "context": "RESTAURANTE; responsável: CINTIA, MICHELE,  E LUIZA; instagram: https://www.instagram.com/micirestaurante/",
     "emailVerified": true,
     "emailSource": "https://www.diariocidade.com/",
-    "emailVerifiedAt": "2026-10-15",
+    "emailVerifiedAt": "2026-10-16",
     "mxVerified": true,
     "template": "consultivo",
     "email1": true,
@@ -45475,7 +45475,7 @@
     "context": "RESTAURANTE; responsável: TIAGO; instagram: https://www.instagram.com/caosbrasilis/",
     "emailVerified": true,
     "emailSource": "https://www.diariocidade.com/",
-    "emailVerifiedAt": "2026-10-15",
+    "emailVerifiedAt": "2026-10-16",
     "mxVerified": true,
     "template": "consultivo",
     "email1": true,
@@ -45509,7 +45509,7 @@
     "context": "HAMBURGUERIA; responsável: WAGNER; instagram: https://www.instagram.com/amburguibrasil/?hl=pt",
     "emailVerified": true,
     "emailSource": "https://www.diariocidade.com/",
-    "emailVerifiedAt": "2026-10-15",
+    "emailVerifiedAt": "2026-10-16",
     "mxVerified": true,
     "template": "consultivo",
     "email1": true,
@@ -45526,7 +45526,7 @@
     "context": "VARIADOS; instagram: https://www.instagram.com/grandcruvinhos/",
     "emailVerified": true,
     "emailSource": "https://www.diariocidade.com/",
-    "emailVerifiedAt": "2026-10-15",
+    "emailVerifiedAt": "2026-10-16",
     "mxVerified": true,
     "template": "consultivo",
     "email1": true,
@@ -45543,7 +45543,7 @@
     "context": "Comida saudaÌvel descomplicada; responsável: MARI; instagram: https://www.instagram.com/estelapassoni/",
     "emailVerified": true,
     "emailSource": "https://www.diariocidade.com/",
-    "emailVerifiedAt": "2026-10-15",
+    "emailVerifiedAt": "2026-10-16",
     "mxVerified": true,
     "template": "consultivo",
     "email1": true,
@@ -45560,7 +45560,7 @@
     "context": "PIZZARIA; responsável: ALICE; instagram: https://www.instagram.com/farfalla.insta/",
     "emailVerified": true,
     "emailSource": "https://www.diariocidade.com/",
-    "emailVerifiedAt": "2026-10-15",
+    "emailVerifiedAt": "2026-10-16",
     "mxVerified": true,
     "template": "consultivo",
     "email1": true,
@@ -45577,7 +45577,7 @@
     "context": "SANDUÃCHES; responsável: SUELI E GUSTAVO; instagram: https://www.instagram.com/sandoui.sp/",
     "emailVerified": true,
     "emailSource": "https://www.diariocidade.com/",
-    "emailVerifiedAt": "2026-10-15",
+    "emailVerifiedAt": "2026-10-16",
     "mxVerified": true,
     "template": "consultivo",
     "email1": true,
@@ -45594,7 +45594,7 @@
     "context": "ITALIANO; responsável: SUELI; instagram: https://www.instagram.com/tontoni.sp/",
     "emailVerified": true,
     "emailSource": "https://www.diariocidade.com/",
-    "emailVerifiedAt": "2026-10-15",
+    "emailVerifiedAt": "2026-10-16",
     "mxVerified": true,
     "template": "consultivo",
     "email1": true,
@@ -45611,7 +45611,7 @@
     "context": "JAPONÃS; responsável: Tatiana; instagram: https://www.instagram.com/nira.sushi/",
     "emailVerified": true,
     "emailSource": "https://www.diariocidade.com/",
-    "emailVerifiedAt": "2026-10-15",
+    "emailVerifiedAt": "2026-10-16",
     "mxVerified": true,
     "template": "consultivo",
     "email1": true,
@@ -45628,7 +45628,7 @@
     "context": "COZINHA DE AUTOR; responsável: MARIANA; instagram: https://www.instagram.com/charcorestaurante/",
     "emailVerified": true,
     "emailSource": "https://www.diariocidade.com/",
-    "emailVerifiedAt": "2026-10-15",
+    "emailVerifiedAt": "2026-10-16",
     "mxVerified": true,
     "template": "consultivo",
     "email1": true,
@@ -45662,7 +45662,7 @@
     "context": "HAMBURGUERIA; responsável: TATIANA; instagram: https://www.instagram.com/c6_burger/",
     "emailVerified": true,
     "emailSource": "https://www.diariocidade.com/",
-    "emailVerifiedAt": "2026-10-15",
+    "emailVerifiedAt": "2026-10-16",
     "mxVerified": true,
     "template": "consultivo",
     "email1": true,
@@ -45696,7 +45696,7 @@
     "context": "HAMBURGUERIA; responsável: RAFAEL; instagram: https://www.instagram.com/thehitburguer/",
     "emailVerified": true,
     "emailSource": "https://www.diariocidade.com/",
-    "emailVerifiedAt": "2026-10-15",
+    "emailVerifiedAt": "2026-10-16",
     "mxVerified": true,
     "template": "consultivo",
     "email1": true,
@@ -45713,7 +45713,7 @@
     "context": "HAMBURGUERIA; responsável: MAYARA; instagram: https://www.instagram.com/niloburgers/",
     "emailVerified": true,
     "emailSource": "https://www.diariocidade.com/",
-    "emailVerifiedAt": "2026-10-15",
+    "emailVerifiedAt": "2026-10-16",
     "mxVerified": true,
     "template": "consultivo",
     "email1": true,
@@ -45730,7 +45730,7 @@
     "context": "FRANCÃS; responsável: CÃCERO; instagram: https://www.instagram.com/bistrotvenuto/",
     "emailVerified": true,
     "emailSource": "https://www.diariocidade.com/",
-    "emailVerifiedAt": "2026-10-15",
+    "emailVerifiedAt": "2026-10-16",
     "mxVerified": true,
     "template": "consultivo",
     "email1": true,
@@ -45747,7 +45747,7 @@
     "context": "HAMBURGUERIA; responsável: Arthur; instagram: https://www.instagram.com/garageburgeroficial/",
     "emailVerified": true,
     "emailSource": "https://www.diariocidade.com/",
-    "emailVerifiedAt": "2026-10-15",
+    "emailVerifiedAt": "2026-10-16",
     "mxVerified": true,
     "template": "consultivo",
     "email1": true,
@@ -45764,7 +45764,7 @@
     "context": "HAMBURGUERIA; responsável: RENAN; instagram: https://www.instagram.com/charadaburguer/?hl=pt-br",
     "emailVerified": true,
     "emailSource": "https://www.diariocidade.com/",
-    "emailVerifiedAt": "2026-10-15",
+    "emailVerifiedAt": "2026-10-16",
     "mxVerified": true,
     "template": "consultivo",
     "email1": true,
@@ -45798,7 +45798,7 @@
     "context": "RESTAURANTE; instagram: https://www.instagram.com/eatalybr/",
     "emailVerified": true,
     "emailSource": "https://www.diariocidade.com/",
-    "emailVerifiedAt": "2026-10-15",
+    "emailVerifiedAt": "2026-10-16",
     "mxVerified": true,
     "template": "consultivo",
     "email1": true,
@@ -45815,7 +45815,7 @@
     "context": "CAFE; responsável: FABIANA",
     "emailVerified": true,
     "emailSource": "https://www.diariocidade.com/",
-    "emailVerifiedAt": "2026-10-15",
+    "emailVerifiedAt": "2026-10-16",
     "mxVerified": true,
     "template": "consultivo",
     "email1": true,
@@ -45832,7 +45832,7 @@
     "context": "PIZZA; responsável: DANIEL; instagram: https://www.instagram.com/zitereza/",
     "emailVerified": true,
     "emailSource": "https://www.diariocidade.com/",
-    "emailVerifiedAt": "2026-10-15",
+    "emailVerifiedAt": "2026-10-16",
     "mxVerified": true,
     "template": "consultivo",
     "email1": true,
@@ -45849,7 +45849,7 @@
     "context": "Restaurante japonÃªs; responsável: ANA; instagram: https://www.instagram.com/makotobrasil/",
     "emailVerified": true,
     "emailSource": "https://www.diariocidade.com/",
-    "emailVerifiedAt": "2026-10-15",
+    "emailVerifiedAt": "2026-10-16",
     "mxVerified": true,
     "template": "consultivo",
     "email1": true,
@@ -45883,7 +45883,7 @@
     "context": "N/I; responsável: RICARDO; instagram: https://www.instagram.com/casaramona/",
     "emailVerified": true,
     "emailSource": "https://www.diariocidade.com/",
-    "emailVerifiedAt": "2026-10-15",
+    "emailVerifiedAt": "2026-10-16",
     "mxVerified": true,
     "template": "consultivo",
     "email1": true,
@@ -45917,7 +45917,7 @@
     "context": "ESPAÃO EVENTOS; responsável: GIULIANA; instagram: https://www.instagram.com/casabossa/",
     "emailVerified": true,
     "emailSource": "https://www.diariocidade.com/",
-    "emailVerifiedAt": "2026-10-15",
+    "emailVerifiedAt": "2026-10-16",
     "mxVerified": true,
     "template": "consultivo",
     "email1": true,
@@ -45934,7 +45934,7 @@
     "context": "CAFÃ E DOCES; responsável: MONICA / BRUNA; instagram: https://www.instagram.com/cafedonuts_oficial/",
     "emailVerified": true,
     "emailSource": "https://www.diariocidade.com/",
-    "emailVerifiedAt": "2026-10-15",
+    "emailVerifiedAt": "2026-10-16",
     "mxVerified": true,
     "template": "consultivo",
     "email1": true,
@@ -45968,7 +45968,7 @@
     "context": "TEMATICO; instagram: https://www.instagram.com/griffinncafeeafins/",
     "emailVerified": true,
     "emailSource": "https://www.diariocidade.com/",
-    "emailVerifiedAt": "2026-10-15",
+    "emailVerifiedAt": "2026-10-16",
     "mxVerified": true,
     "template": "consultivo",
     "email1": true,
@@ -45985,7 +45985,7 @@
     "context": "RODIZIO DE COMIDA DE PORCO; responsável: JAQUELINE; instagram: https://www.instagram.com/porcopaulistabar/",
     "emailVerified": true,
     "emailSource": "https://www.diariocidade.com/",
-    "emailVerifiedAt": "2026-10-15",
+    "emailVerifiedAt": "2026-10-16",
     "mxVerified": true,
     "template": "consultivo",
     "email1": true,
@@ -46002,7 +46002,7 @@
     "context": "RESTAURANTE; instagram: https://www.instagram.com/pregocucina/",
     "emailVerified": true,
     "emailSource": "https://www.diariocidade.com/",
-    "emailVerifiedAt": "2026-10-15",
+    "emailVerifiedAt": "2026-10-16",
     "mxVerified": true,
     "template": "consultivo",
     "email1": true,
@@ -46019,7 +46019,7 @@
     "context": "HAMBURGUERIA; responsável: RAFAEL; instagram: https://www.instagram.com/nope.burger/",
     "emailVerified": true,
     "emailSource": "https://www.diariocidade.com/",
-    "emailVerifiedAt": "2026-10-15",
+    "emailVerifiedAt": "2026-10-16",
     "mxVerified": true,
     "template": "consultivo",
     "email1": true,
@@ -46036,7 +46036,7 @@
     "context": "PIZZARIA; responsável: EIDE; instagram: https://www.instagram.com/vilamilagropizzaria/?hl=pt-br",
     "emailVerified": true,
     "emailSource": "https://www.diariocidade.com/",
-    "emailVerifiedAt": "2026-10-15",
+    "emailVerifiedAt": "2026-10-16",
     "mxVerified": true,
     "template": "consultivo",
     "email1": true,
@@ -46053,7 +46053,7 @@
     "context": "Restaurante; instagram: https://www.instagram.com/davo.cozinha/",
     "emailVerified": true,
     "emailSource": "https://www.diariocidade.com/",
-    "emailVerifiedAt": "2026-10-15",
+    "emailVerifiedAt": "2026-10-16",
     "mxVerified": true,
     "template": "consultivo",
     "email1": true,
@@ -46070,7 +46070,7 @@
     "context": "HAMBURGUERIA; responsável: MARCELO; instagram: https://www.instagram.com/containerfoodmarket/",
     "emailVerified": true,
     "emailSource": "https://www.diariocidade.com/",
-    "emailVerifiedAt": "2026-10-15",
+    "emailVerifiedAt": "2026-10-16",
     "mxVerified": true,
     "template": "consultivo",
     "email1": true,
@@ -46087,7 +46087,7 @@
     "context": "PIZZA; responsável: VICTOR; instagram: https://www.instagram.com/vitospizza.sp/",
     "emailVerified": true,
     "emailSource": "https://www.diariocidade.com/",
-    "emailVerifiedAt": "2026-10-15",
+    "emailVerifiedAt": "2026-10-16",
     "mxVerified": true,
     "template": "consultivo",
     "email1": true,
@@ -46138,7 +46138,7 @@
     "context": "PORTUGUESES; instagram: https://www.instagram.com/axadodrinks/?hl=pt",
     "emailVerified": true,
     "emailSource": "https://www.diariocidade.com/",
-    "emailVerifiedAt": "2026-10-15",
+    "emailVerifiedAt": "2026-10-16",
     "mxVerified": true,
     "template": "consultivo",
     "email1": true,
@@ -46155,7 +46155,7 @@
     "context": "RESTAURANTE; responsável: RAFAEL; instagram: https://www.instagram.com/stonbar.oficial/?hl=pt",
     "emailVerified": true,
     "emailSource": "https://www.diariocidade.com/",
-    "emailVerifiedAt": "2026-10-15",
+    "emailVerifiedAt": "2026-10-16",
     "mxVerified": true,
     "template": "consultivo",
     "email1": true,
@@ -46172,7 +46172,7 @@
     "context": "PIZZA; responsável: ANA; instagram: https://www.instagram.com/sfornobrasil/",
     "emailVerified": true,
     "emailSource": "https://www.diariocidade.com/",
-    "emailVerifiedAt": "2026-10-15",
+    "emailVerifiedAt": "2026-10-16",
     "mxVerified": true,
     "template": "consultivo",
     "email1": true,
@@ -46189,7 +46189,7 @@
     "context": "PADARIA; responsável: DANILO; instagram: https://www.instagram.com/temumami/?hl=pt",
     "emailVerified": true,
     "emailSource": "https://www.diariocidade.com/",
-    "emailVerifiedAt": "2026-10-15",
+    "emailVerifiedAt": "2026-10-16",
     "mxVerified": true,
     "template": "consultivo",
     "email1": true,
@@ -46206,7 +46206,7 @@
     "context": "DOCES E RESTAURANTE; responsável: JULIA; instagram: https://www.instagram.com/sweetpimenta/",
     "emailVerified": true,
     "emailSource": "https://www.diariocidade.com/",
-    "emailVerifiedAt": "2026-10-15",
+    "emailVerifiedAt": "2026-10-16",
     "mxVerified": true,
     "template": "consultivo",
     "email1": true,
@@ -46223,7 +46223,7 @@
     "context": "Restaurante japonÃªs; responsável: GISELE; instagram: https://www.instagram.com/restaurantesarusushi",
     "emailVerified": true,
     "emailSource": "https://www.diariocidade.com/",
-    "emailVerifiedAt": "2026-10-15",
+    "emailVerifiedAt": "2026-10-16",
     "mxVerified": true,
     "template": "consultivo",
     "email1": true,
@@ -46240,7 +46240,7 @@
     "context": "RESTAURANTE; responsável: LORIDANA; instagram: https://www.instagram.com/casafloridaembu/",
     "emailVerified": true,
     "emailSource": "https://www.diariocidade.com/",
-    "emailVerifiedAt": "2026-10-15",
+    "emailVerifiedAt": "2026-10-16",
     "mxVerified": true,
     "template": "consultivo",
     "email1": true,
@@ -46257,7 +46257,7 @@
     "context": "RESTAURANTE; instagram: https://www.instagram.com/restaurantemerci",
     "emailVerified": true,
     "emailSource": "https://www.diariocidade.com/",
-    "emailVerifiedAt": "2026-10-15",
+    "emailVerifiedAt": "2026-10-16",
     "mxVerified": true,
     "template": "consultivo",
     "email1": true,
@@ -46274,7 +46274,7 @@
     "context": "PIZZARIA; responsável: CESAR; instagram: https://www.instagram.com/faronellapizzaria/",
     "emailVerified": true,
     "emailSource": "https://www.diariocidade.com/",
-    "emailVerifiedAt": "2026-10-15",
+    "emailVerifiedAt": "2026-10-16",
     "mxVerified": true,
     "template": "consultivo",
     "email1": true,
@@ -46308,7 +46308,7 @@
     "context": "LANCHONETE; responsável: MARQUINHOS; instagram: https://www.instagram.com/_dkings/",
     "emailVerified": true,
     "emailSource": "https://www.diariocidade.com/",
-    "emailVerifiedAt": "2026-10-15",
+    "emailVerifiedAt": "2026-10-16",
     "mxVerified": true,
     "template": "consultivo",
     "email1": true,
@@ -46325,7 +46325,7 @@
     "context": "JAPONES; instagram: https://www.instagram.com/sukiyakihouseoficial/",
     "emailVerified": true,
     "emailSource": "https://www.diariocidade.com/",
-    "emailVerifiedAt": "2026-10-15",
+    "emailVerifiedAt": "2026-10-16",
     "mxVerified": true,
     "template": "consultivo",
     "email1": true,
@@ -46342,7 +46342,7 @@
     "context": "RESTAURANTE; responsável: Thiago; instagram: https://www.instagram.com/dozo.restaurante/",
     "emailVerified": true,
     "emailSource": "https://www.diariocidade.com/",
-    "emailVerifiedAt": "2026-10-15",
+    "emailVerifiedAt": "2026-10-16",
     "mxVerified": true,
     "template": "consultivo",
     "email1": true,
@@ -46359,7 +46359,7 @@
     "context": "EMPÃRIO; responsável: SILVIA/ EDUARDO; instagram: https://www.instagram.com/emporioblvd/",
     "emailVerified": true,
     "emailSource": "https://www.diariocidade.com/",
-    "emailVerifiedAt": "2026-10-15",
+    "emailVerifiedAt": "2026-10-16",
     "mxVerified": true,
     "template": "consultivo",
     "email1": true,
@@ -46376,7 +46376,7 @@
     "context": "CAFÃ E RESTAURANTE; responsável: ELAINE; instagram: https://www.instagram.com/creativegastronomia/",
     "emailVerified": true,
     "emailSource": "https://www.diariocidade.com/",
-    "emailVerifiedAt": "2026-10-15",
+    "emailVerifiedAt": "2026-10-16",
     "mxVerified": true,
     "template": "consultivo",
     "email1": true,
@@ -46410,7 +46410,7 @@
     "context": "COMIDA ASIATICA; instagram: https://www.instagram.com/eatasiabr/?hl=pt",
     "emailVerified": true,
     "emailSource": "https://www.diariocidade.com/",
-    "emailVerifiedAt": "2026-10-15",
+    "emailVerifiedAt": "2026-10-16",
     "mxVerified": true,
     "template": "consultivo",
     "email1": true,
@@ -46427,7 +46427,7 @@
     "context": "DOCERIA; instagram: NÃO TEM",
     "emailVerified": true,
     "emailSource": "https://www.diariocidade.com/",
-    "emailVerifiedAt": "2026-10-15",
+    "emailVerifiedAt": "2026-10-16",
     "mxVerified": true,
     "template": "consultivo",
     "email1": true,
@@ -46444,7 +46444,7 @@
     "context": "DRINQUES; instagram: https://www.instagram.com/solara.bar/",
     "emailVerified": true,
     "emailSource": "https://www.diariocidade.com/",
-    "emailVerifiedAt": "2026-10-15",
+    "emailVerifiedAt": "2026-10-16",
     "mxVerified": true,
     "template": "consultivo",
     "email1": true,
@@ -46461,7 +46461,7 @@
     "context": "DOCES; responsável: BIANCA; instagram: https://www.instagram.com/emporiobrownie/?hl=pt",
     "emailVerified": true,
     "emailSource": "https://www.diariocidade.com/",
-    "emailVerifiedAt": "2026-10-15",
+    "emailVerifiedAt": "2026-10-16",
     "mxVerified": true,
     "template": "consultivo",
     "email1": true,
@@ -46478,7 +46478,7 @@
     "context": "REFEIÃÃES RAPIDAS; responsável: CAIO / JOÃO; instagram: https://www.instagram.com/chayebr/",
     "emailVerified": true,
     "emailSource": "https://www.diariocidade.com/",
-    "emailVerifiedAt": "2026-10-15",
+    "emailVerifiedAt": "2026-10-16",
     "mxVerified": true,
     "template": "consultivo",
     "email1": true,
@@ -46495,7 +46495,7 @@
     "context": "DRINQUES; responsável: SERGIO; instagram: https://www.instagram.com/cariricocktail/",
     "emailVerified": true,
     "emailSource": "https://www.diariocidade.com/",
-    "emailVerifiedAt": "2026-10-15",
+    "emailVerifiedAt": "2026-10-16",
     "mxVerified": true,
     "template": "consultivo",
     "email1": true,
@@ -46512,7 +46512,7 @@
     "context": "VARIADOS; instagram: https://www.instagram.com/lacoppa.ristorante/",
     "emailVerified": true,
     "emailSource": "https://www.diariocidade.com/",
-    "emailVerifiedAt": "2026-10-15",
+    "emailVerifiedAt": "2026-10-16",
     "mxVerified": true,
     "template": "consultivo",
     "email1": true,
@@ -46546,7 +46546,7 @@
     "context": "ASIÃTICO; responsável: EDEMAR; instagram: https://www.instagram.com/dasiansp/",
     "emailVerified": true,
     "emailSource": "https://www.diariocidade.com/",
-    "emailVerifiedAt": "2026-10-15",
+    "emailVerifiedAt": "2026-10-16",
     "mxVerified": true,
     "template": "consultivo",
     "email1": true,
@@ -46563,7 +46563,7 @@
     "context": "VARIADOS; responsável: BRUNA; instagram: https://www.instagram.com/atto.restaurante/",
     "emailVerified": true,
     "emailSource": "https://www.diariocidade.com/",
-    "emailVerifiedAt": "2026-10-15",
+    "emailVerifiedAt": "2026-10-16",
     "mxVerified": true,
     "template": "consultivo",
     "email1": true,
@@ -46597,7 +46597,7 @@
     "context": "RESTAURANTE; responsável: EDRAS; instagram: https://www.instagram.com/bonitabarecozinha/",
     "emailVerified": true,
     "emailSource": "https://www.diariocidade.com/",
-    "emailVerifiedAt": "2026-10-15",
+    "emailVerifiedAt": "2026-10-16",
     "mxVerified": true,
     "template": "consultivo",
     "email1": true,
@@ -46614,7 +46614,7 @@
     "context": "PIZZARIA; instagram: https://www.instagram.com/quattrata/",
     "emailVerified": true,
     "emailSource": "https://www.diariocidade.com/",
-    "emailVerifiedAt": "2026-10-15",
+    "emailVerifiedAt": "2026-10-16",
     "mxVerified": true,
     "template": "consultivo",
     "email1": true,
@@ -46648,7 +46648,7 @@
     "context": "RESTAURANTE; responsável: BRUNO E WILL; instagram: https://www.instagram.com/baladamixsaopaulo/",
     "emailVerified": true,
     "emailSource": "https://www.diariocidade.com/",
-    "emailVerifiedAt": "2026-10-15",
+    "emailVerifiedAt": "2026-10-16",
     "mxVerified": true,
     "template": "consultivo",
     "email1": true,
@@ -46665,7 +46665,7 @@
     "context": "PADARIA; responsável: VICENTE FILHO; instagram: https://www.instagram.com/padariabarcelonapaes/?hl=pt",
     "emailVerified": true,
     "emailSource": "https://www.diariocidade.com/",
-    "emailVerifiedAt": "2026-10-15",
+    "emailVerifiedAt": "2026-10-16",
     "mxVerified": true,
     "template": "consultivo",
     "email1": true,
@@ -46682,7 +46682,7 @@
     "context": "PIZZARIA; responsável: KARINA ASSESSORIA IMPRENSA / ALEXANDRE / GABRIEL; instagram: https://www.instagram.com/acasadapizzaestufada/",
     "emailVerified": true,
     "emailSource": "https://www.diariocidade.com/",
-    "emailVerifiedAt": "2026-10-15",
+    "emailVerifiedAt": "2026-10-16",
     "mxVerified": true,
     "template": "consultivo",
     "email1": true,
@@ -46733,7 +46733,7 @@
     "context": "BATATA; instagram: https://www.instagram.com/primegoldenpotato/",
     "emailVerified": true,
     "emailSource": "https://www.diariocidade.com/",
-    "emailVerifiedAt": "2026-10-15",
+    "emailVerifiedAt": "2026-10-16",
     "mxVerified": true,
     "template": "consultivo",
     "email1": true,
@@ -46750,7 +46750,7 @@
     "context": "ITALIANO; responsável: DIEGO; instagram: https://www.instagram.com/verttoni.ristorante/",
     "emailVerified": true,
     "emailSource": "https://www.diariocidade.com/",
-    "emailVerifiedAt": "2026-10-15",
+    "emailVerifiedAt": "2026-10-16",
     "mxVerified": true,
     "template": "consultivo",
     "email1": true,
@@ -46767,7 +46767,7 @@
     "context": "ESPETOS; instagram: https://www.instagram.com/farol_gourmet/",
     "emailVerified": true,
     "emailSource": "https://www.diariocidade.com/",
-    "emailVerifiedAt": "2026-10-15",
+    "emailVerifiedAt": "2026-10-16",
     "mxVerified": true,
     "template": "consultivo",
     "email1": true,
@@ -46784,7 +46784,7 @@
     "context": "RESTAURANTE; responsável: THIAGO; instagram: https://www.instagram.com/marinna.gastronomia/",
     "emailVerified": true,
     "emailSource": "https://www.diariocidade.com/",
-    "emailVerifiedAt": "2026-10-15",
+    "emailVerifiedAt": "2026-10-16",
     "mxVerified": true,
     "template": "consultivo",
     "email1": true,
@@ -46818,7 +46818,7 @@
     "context": "RESTAURANTE; responsável: NEWTON e CRISTIANE; instagram: https://www.instagram.com/malaguetabrotas/",
     "emailVerified": true,
     "emailSource": "https://www.diariocidade.com/",
-    "emailVerifiedAt": "2026-10-15",
+    "emailVerifiedAt": "2026-10-16",
     "mxVerified": true,
     "template": "consultivo",
     "email1": false
@@ -46851,7 +46851,7 @@
     "context": "Doces; responsável: MICHELE; instagram: https://www.instagram.com/dultier/",
     "emailVerified": true,
     "emailSource": "https://www.diariocidade.com/",
-    "emailVerifiedAt": "2026-10-15",
+    "emailVerifiedAt": "2026-10-16",
     "mxVerified": true,
     "template": "consultivo",
     "email1": false
@@ -46884,7 +46884,7 @@
     "context": "JAPONES; responsável: LAURA; instagram: https://www.instagram.com/restaurantemomozinho/",
     "emailVerified": true,
     "emailSource": "https://www.diariocidade.com/",
-    "emailVerifiedAt": "2026-10-15",
+    "emailVerifiedAt": "2026-10-16",
     "mxVerified": true,
     "template": "consultivo",
     "email1": false
@@ -46917,7 +46917,7 @@
     "context": "CAFÃ BISTRO; instagram: https://www.instagram.com/filomenacafebistro/",
     "emailVerified": true,
     "emailSource": "https://www.diariocidade.com/",
-    "emailVerifiedAt": "2026-10-15",
+    "emailVerifiedAt": "2026-10-16",
     "mxVerified": true,
     "template": "consultivo",
     "email1": false
@@ -46933,7 +46933,7 @@
     "context": "PIZZARIA; responsável: GLEYCE; instagram: https://www.instagram.com/pizzeriamammaconcetta/",
     "emailVerified": true,
     "emailSource": "https://www.diariocidade.com/",
-    "emailVerifiedAt": "2026-10-15",
+    "emailVerifiedAt": "2026-10-16",
     "mxVerified": true,
     "template": "consultivo",
     "email1": false
@@ -46949,7 +46949,7 @@
     "context": "RESTAURANTE; responsável: ALESSANDRO; instagram: https://www.instagram.com/paradisocasacomida/",
     "emailVerified": true,
     "emailSource": "https://www.diariocidade.com/",
-    "emailVerifiedAt": "2026-10-15",
+    "emailVerifiedAt": "2026-10-16",
     "mxVerified": true,
     "template": "consultivo",
     "email1": false
@@ -46965,7 +46965,7 @@
     "context": "CHURROS; responsável: VIVIANE; instagram: https://www.instagram.com/amordechurros/",
     "emailVerified": true,
     "emailSource": "https://www.diariocidade.com/",
-    "emailVerifiedAt": "2026-10-15",
+    "emailVerifiedAt": "2026-10-16",
     "mxVerified": true,
     "template": "consultivo",
     "email1": false
@@ -46981,7 +46981,7 @@
     "context": "Restaurante mediterrÃ¢neo; responsável: FABIANO; instagram: https://www.instagram.com/dhomusrestaurante/",
     "emailVerified": true,
     "emailSource": "https://www.diariocidade.com/",
-    "emailVerifiedAt": "2026-10-15",
+    "emailVerifiedAt": "2026-10-16",
     "mxVerified": true,
     "template": "consultivo",
     "email1": false
@@ -47031,7 +47031,7 @@
     "context": "CAFÃ E CONFEITARIA; responsável: AMANDA MKT; instagram: https://www.instagram.com/docevie_/",
     "emailVerified": true,
     "emailSource": "https://www.diariocidade.com/",
-    "emailVerifiedAt": "2026-10-15",
+    "emailVerifiedAt": "2026-10-16",
     "mxVerified": true,
     "template": "consultivo",
     "email1": false
@@ -47064,7 +47064,7 @@
     "context": "RESTAURANTE; responsável: DOUGLAS; instagram: https://www.instagram.com/cuattroestacoes/",
     "emailVerified": true,
     "emailSource": "https://www.diariocidade.com/",
-    "emailVerifiedAt": "2026-10-15",
+    "emailVerifiedAt": "2026-10-16",
     "mxVerified": true,
     "template": "consultivo",
     "email1": false
@@ -47080,7 +47080,7 @@
     "context": "LANCHES; responsável: PAOLA; instagram: https://www.instagram.com/stopdogsp/",
     "emailVerified": true,
     "emailSource": "https://www.diariocidade.com/",
-    "emailVerifiedAt": "2026-10-15",
+    "emailVerifiedAt": "2026-10-16",
     "mxVerified": true,
     "template": "consultivo",
     "email1": false
@@ -47113,7 +47113,7 @@
     "context": "ITALIANO; responsável: JUNIOR; instagram: https://www.instagram.com/giroristobar/",
     "emailVerified": true,
     "emailSource": "https://www.diariocidade.com/",
-    "emailVerifiedAt": "2026-10-15",
+    "emailVerifiedAt": "2026-10-16",
     "mxVerified": true,
     "template": "consultivo",
     "email1": false
@@ -47129,7 +47129,7 @@
     "context": "RESTAURANTE; instagram: https://www.instagram.com/vilacafe220/",
     "emailVerified": true,
     "emailSource": "https://www.diariocidade.com/",
-    "emailVerifiedAt": "2026-10-15",
+    "emailVerifiedAt": "2026-10-16",
     "mxVerified": true,
     "template": "consultivo",
     "email1": false
@@ -47145,7 +47145,7 @@
     "context": "SORVETES; responsável: ANDERSON; instagram: https://www.instagram.com/cangotesorvetes/",
     "emailVerified": true,
     "emailSource": "https://www.diariocidade.com/",
-    "emailVerifiedAt": "2026-10-15",
+    "emailVerifiedAt": "2026-10-16",
     "mxVerified": true,
     "template": "consultivo",
     "email1": false
@@ -47161,7 +47161,7 @@
     "context": "TEMATÃCO DE GAME; instagram: https://www.instagram.com/sidequest.xp/",
     "emailVerified": true,
     "emailSource": "https://www.diariocidade.com/",
-    "emailVerifiedAt": "2026-10-15",
+    "emailVerifiedAt": "2026-10-16",
     "mxVerified": true,
     "template": "consultivo",
     "email1": false
@@ -47228,7 +47228,7 @@
     "context": "HAMBURGUERIA; instagram: https://www.instagram.com/burgerbits/",
     "emailVerified": true,
     "emailSource": "https://www.diariocidade.com/",
-    "emailVerifiedAt": "2026-10-15",
+    "emailVerifiedAt": "2026-10-16",
     "mxVerified": true,
     "template": "consultivo",
     "email1": false
@@ -47278,7 +47278,7 @@
     "context": "JAPONES; responsável: HENRIQUE; instagram: https://www.instagram.com/tanoshimi_scs/",
     "emailVerified": true,
     "emailSource": "https://www.diariocidade.com/",
-    "emailVerifiedAt": "2026-10-15",
+    "emailVerifiedAt": "2026-10-16",
     "mxVerified": true,
     "template": "consultivo",
     "email1": false
@@ -47294,7 +47294,7 @@
     "context": "HAMBURGUERIA TEMATICA; responsável: LARIELI; instagram: https://www.instagram.com/zombieburgersbc/",
     "emailVerified": true,
     "emailSource": "https://www.diariocidade.com/",
-    "emailVerifiedAt": "2026-10-15",
+    "emailVerifiedAt": "2026-10-16",
     "mxVerified": true,
     "template": "consultivo",
     "email1": false
@@ -47310,7 +47310,7 @@
     "context": "JAPONES; responsável: LUIZ; instagram: https://www.instagram.com/edosushibar_abc/",
     "emailVerified": true,
     "emailSource": "https://www.diariocidade.com/",
-    "emailVerifiedAt": "2026-10-15",
+    "emailVerifiedAt": "2026-10-16",
     "mxVerified": true,
     "template": "consultivo",
     "email1": false
@@ -47343,7 +47343,7 @@
     "context": "PIZZARIA; instagram: https://www.instagram.com/sanmarcopizzaria/",
     "emailVerified": true,
     "emailSource": "https://www.diariocidade.com/",
-    "emailVerifiedAt": "2026-10-15",
+    "emailVerifiedAt": "2026-10-16",
     "mxVerified": true,
     "template": "consultivo",
     "email1": false
@@ -47359,7 +47359,7 @@
     "context": "RESTAURANTE; responsável: PATRICIA OU EDUARDO; instagram: https://www.instagram.com/garoupafrutosdomar/",
     "emailVerified": true,
     "emailSource": "https://www.diariocidade.com/",
-    "emailVerifiedAt": "2026-10-15",
+    "emailVerifiedAt": "2026-10-16",
     "mxVerified": true,
     "template": "consultivo",
     "email1": false
@@ -47375,7 +47375,7 @@
     "context": "JAPONES; instagram: https://www.instagram.com/kenseisushibar/",
     "emailVerified": true,
     "emailSource": "https://www.diariocidade.com/",
-    "emailVerifiedAt": "2026-10-15",
+    "emailVerifiedAt": "2026-10-16",
     "mxVerified": true,
     "template": "consultivo",
     "email1": false
@@ -47391,7 +47391,7 @@
     "context": "RESTAURANTE E HAMBURGUERIA; instagram: https://www.instagram.com/estacaoleopoldina/",
     "emailVerified": true,
     "emailSource": "https://www.diariocidade.com/",
-    "emailVerifiedAt": "2026-10-15",
+    "emailVerifiedAt": "2026-10-16",
     "mxVerified": true,
     "template": "consultivo",
     "email1": false
@@ -47407,7 +47407,7 @@
     "context": "JAPONÃS; responsável: Carlos; instagram: https://www.instagram.com/tamagochisushigarden/",
     "emailVerified": true,
     "emailSource": "https://www.diariocidade.com/",
-    "emailVerifiedAt": "2026-10-15",
+    "emailVerifiedAt": "2026-10-16",
     "mxVerified": true,
     "template": "consultivo",
     "email1": false
@@ -47440,7 +47440,7 @@
     "context": "RESTAURANTE; responsável: TATIANA; instagram: https://www.instagram.com/espaco.724/",
     "emailVerified": true,
     "emailSource": "https://www.diariocidade.com/",
-    "emailVerifiedAt": "2026-10-15",
+    "emailVerifiedAt": "2026-10-16",
     "mxVerified": true,
     "template": "consultivo",
     "email1": false
@@ -47473,7 +47473,7 @@
     "context": "JAPONES; responsável: FERANDO OU JESSICA; instagram: https://www.instagram.com/srtemaki/",
     "emailVerified": true,
     "emailSource": "https://www.diariocidade.com/",
-    "emailVerifiedAt": "2026-10-15",
+    "emailVerifiedAt": "2026-10-16",
     "mxVerified": true,
     "template": "consultivo",
     "email1": false
@@ -47489,7 +47489,7 @@
     "context": "VARIADOS; instagram: https://www.instagram.com/undergastrobar/",
     "emailVerified": true,
     "emailSource": "https://www.diariocidade.com/",
-    "emailVerifiedAt": "2026-10-15",
+    "emailVerifiedAt": "2026-10-16",
     "mxVerified": true,
     "template": "consultivo",
     "email1": false
@@ -47522,7 +47522,7 @@
     "context": "JAPONES; responsável: RUBENS; instagram: https://www.instagram.com/sushiasamisa/",
     "emailVerified": true,
     "emailSource": "https://www.diariocidade.com/",
-    "emailVerifiedAt": "2026-10-15",
+    "emailVerifiedAt": "2026-10-16",
     "mxVerified": true,
     "template": "consultivo",
     "email1": false
@@ -47538,7 +47538,7 @@
     "context": "HAMBURGUERIA; responsável: BRUNO; instagram: https://www.instagram.com/ilovesteaknburger/",
     "emailVerified": true,
     "emailSource": "https://www.diariocidade.com/",
-    "emailVerifiedAt": "2026-10-15",
+    "emailVerifiedAt": "2026-10-16",
     "mxVerified": true,
     "template": "consultivo",
     "email1": false
@@ -47554,7 +47554,7 @@
     "context": "JAPONES; responsável: MARAISA; instagram: https://www.instagram.com/terumisushimaua/",
     "emailVerified": true,
     "emailSource": "https://www.diariocidade.com/",
-    "emailVerifiedAt": "2026-10-15",
+    "emailVerifiedAt": "2026-10-16",
     "mxVerified": true,
     "template": "consultivo",
     "email1": false
@@ -47587,7 +47587,7 @@
     "context": "FRANGO FRITO; responsável: KAREN; instagram: https://www.instagram.com/maxifrango/",
     "emailVerified": true,
     "emailSource": "https://www.diariocidade.com/",
-    "emailVerifiedAt": "2026-10-15",
+    "emailVerifiedAt": "2026-10-16",
     "mxVerified": true,
     "template": "consultivo",
     "email1": false
@@ -47603,7 +47603,7 @@
     "context": "HAMBURGUERIA; responsável: GUSTAVO; instagram: https://www.instagram.com/smashntasty/",
     "emailVerified": true,
     "emailSource": "https://www.diariocidade.com/",
-    "emailVerifiedAt": "2026-10-15",
+    "emailVerifiedAt": "2026-10-16",
     "mxVerified": true,
     "template": "consultivo",
     "email1": false
@@ -47619,7 +47619,7 @@
     "context": "DOCES; responsável: ANI; instagram: https://www.instagram.com/mansionxvcafe/",
     "emailVerified": true,
     "emailSource": "https://www.diariocidade.com/",
-    "emailVerifiedAt": "2026-10-15",
+    "emailVerifiedAt": "2026-10-16",
     "mxVerified": true,
     "template": "consultivo",
     "email1": false
@@ -47635,7 +47635,7 @@
     "context": "DOCERIAS; responsável: INGRID; instagram: https://www.instagram.com/nanicabrasil/",
     "emailVerified": true,
     "emailSource": "https://www.diariocidade.com/",
-    "emailVerifiedAt": "2026-10-15",
+    "emailVerifiedAt": "2026-10-16",
     "mxVerified": true,
     "template": "consultivo",
     "email1": false
@@ -47651,7 +47651,7 @@
     "context": "HAMBURGUERIA; responsável: JEFERSON; instagram: https://www.instagram.com/maisburguinho/",
     "emailVerified": true,
     "emailSource": "https://www.diariocidade.com/",
-    "emailVerifiedAt": "2026-10-15",
+    "emailVerifiedAt": "2026-10-16",
     "mxVerified": true,
     "template": "consultivo",
     "email1": false
@@ -47667,7 +47667,7 @@
     "context": "HAMBURGUERIA; instagram: https://www.instagram.com/burg.up/",
     "emailVerified": true,
     "emailSource": "https://www.diariocidade.com/",
-    "emailVerifiedAt": "2026-10-15",
+    "emailVerifiedAt": "2026-10-16",
     "mxVerified": true,
     "template": "consultivo",
     "email1": false
@@ -47683,7 +47683,7 @@
     "context": "HAMBURGUERIA; responsável: REGIANE; instagram: https://www.instagram.com/pantchoshouse/",
     "emailVerified": true,
     "emailSource": "https://www.diariocidade.com/",
-    "emailVerifiedAt": "2026-10-15",
+    "emailVerifiedAt": "2026-10-16",
     "mxVerified": true,
     "template": "consultivo",
     "email1": false
@@ -47699,7 +47699,7 @@
     "context": "HAMBURGUERIA; responsável: BRUNA; instagram: https://www.instagram.com/all_in_br/",
     "emailVerified": true,
     "emailSource": "https://www.diariocidade.com/",
-    "emailVerifiedAt": "2026-10-15",
+    "emailVerifiedAt": "2026-10-16",
     "mxVerified": true,
     "template": "consultivo",
     "email1": false
@@ -47715,7 +47715,7 @@
     "context": "HAMBURGUERIA; responsável: SANDRO / MOISÃS; instagram: https://www.instagram.com/sandoit.sp/",
     "emailVerified": true,
     "emailSource": "https://www.diariocidade.com/",
-    "emailVerifiedAt": "2026-10-15",
+    "emailVerifiedAt": "2026-10-16",
     "mxVerified": true,
     "template": "consultivo",
     "email1": false
@@ -47748,7 +47748,7 @@
     "context": "ROCAMBOLE DE TORRESMO; instagram: https://www.instagram.com/dodudagastronomia/",
     "emailVerified": true,
     "emailSource": "https://www.diariocidade.com/",
-    "emailVerifiedAt": "2026-10-15",
+    "emailVerifiedAt": "2026-10-16",
     "mxVerified": true,
     "template": "consultivo",
     "email1": false
@@ -47815,7 +47815,7 @@
     "context": "CAFÃ; responsável: ANA RIBEIRO; instagram: https://www.instagram.com/suplicycafes/",
     "emailVerified": true,
     "emailSource": "https://www.diariocidade.com/",
-    "emailVerifiedAt": "2026-10-15",
+    "emailVerifiedAt": "2026-10-16",
     "mxVerified": true,
     "template": "consultivo",
     "email1": false
@@ -47831,7 +47831,7 @@
     "context": "RESTAURANTE; responsável: ARIEL; instagram: https://www.instagram.com/jacarandabr/",
     "emailVerified": true,
     "emailSource": "https://www.diariocidade.com/",
-    "emailVerifiedAt": "2026-10-15",
+    "emailVerifiedAt": "2026-10-16",
     "mxVerified": true,
     "template": "consultivo",
     "email1": false
@@ -47847,7 +47847,7 @@
     "context": "Bar ativo de coquetelaria autoral em Campinas, com laboratorio criativo, drinks e mocktails de cafe, gastronomia nipolatina e agenda semanal atualizada.",
     "emailVerified": true,
     "emailSource": "https://aselvabar.com/",
-    "emailVerifiedAt": "2026-10-15",
+    "emailVerifiedAt": "2026-10-16",
     "mxVerified": true,
     "template": "consultivo",
     "email1": false
@@ -47863,7 +47863,7 @@
     "context": "Bar e restaurante ativo em Sorocaba, segmento prioritario e com canal comercial publicado diretamente no site oficial.",
     "emailVerified": true,
     "emailSource": "https://vendadonanoemia.com.br/",
-    "emailVerifiedAt": "2026-10-15",
+    "emailVerifiedAt": "2026-10-16",
     "mxVerified": true,
     "template": "consultivo",
     "email1": false
@@ -47879,7 +47879,7 @@
     "context": "Sushi bar ativo em Alphaville com carta de coquetéis clássicos, incluindo Boulevardier, Whisky Sour, Mai Tai, Negroni e Mojito.",
     "emailVerified": true,
     "emailSource": "https://www.gamant.com.br/",
-    "emailVerifiedAt": "2026-10-15",
+    "emailVerifiedAt": "2026-10-16",
     "mxVerified": true,
     "template": "consultivo",
     "email1": false
@@ -47895,7 +47895,7 @@
     "context": "Gastropub ativo na Granja Viana, com cervejas artesanais, agenda de eventos e operação noturna até 01h às sextas e sábados.",
     "emailVerified": true,
     "emailSource": "https://thebullpubgv.com/",
-    "emailVerifiedAt": "2026-10-15",
+    "emailVerifiedAt": "2026-10-16",
     "mxVerified": true,
     "template": "consultivo",
     "email1": false
@@ -47911,7 +47911,7 @@
     "context": "Distribuidora ativa de alimentos e bebidas para food service e varejo, atendendo restaurantes, bares, lanchonetes e mercados.",
     "emailVerified": true,
     "emailSource": "https://distacado.com.br/",
-    "emailVerifiedAt": "2026-10-15",
+    "emailVerifiedAt": "2026-10-16",
     "mxVerified": true,
     "template": "consultivo",
     "email1": false
@@ -47927,7 +47927,7 @@
     "context": "Distribuidora food service ativa, focada em restaurantes orientais, mercearias e supermercados, com categoria própria de bebidas.",
     "emailVerified": true,
     "emailSource": "https://www.colibridistribuidora.com.br/",
-    "emailVerifiedAt": "2026-10-15",
+    "emailVerifiedAt": "2026-10-16",
     "mxVerified": true,
     "template": "consultivo",
     "email1": false
@@ -47943,7 +47943,7 @@
     "context": "Pizzaria ativa em São Bernardo do Campo, com operação noturna, reservas e atendimento comercial próprio.",
     "emailVerified": true,
     "emailSource": "https://rossopizza.com.br/",
-    "emailVerifiedAt": "2026-10-15",
+    "emailVerifiedAt": "2026-10-16",
     "mxVerified": true,
     "template": "consultivo",
     "email1": false
@@ -47959,7 +47959,55 @@
     "context": "Operação gastronômica ativa em São Bernardo do Campo, com refeições, pratos executivos e festivais corporativos, mantendo atendimento comercial próprio.",
     "emailVerified": true,
     "emailSource": "https://www.lsgastronomia.com.br/",
-    "emailVerifiedAt": "2026-10-15",
+    "emailVerifiedAt": "2026-10-16",
+    "mxVerified": true,
+    "template": "consultivo",
+    "email1": false
+  },
+  {
+    "name": "Sampa Adega",
+    "email": "contato@sampaadega.com.br",
+    "type": "adega",
+    "neighborhood": "Vila Ema",
+    "city": "São Paulo",
+    "website": "https://www.sampaadega.com.br",
+    "context": "Adega em Vila Ema, São Paulo.",
+    "phone": "(11) 98402-3929",
+    "emailVerified": true,
+    "emailSource": "https://www.sampaadega.com.br",
+    "emailVerifiedAt": "2026-10-16",
+    "mxVerified": true,
+    "template": "consultivo",
+    "email1": false
+  },
+  {
+    "name": "Polar Adega",
+    "email": "contato@adegapolar.com.br",
+    "type": "adega",
+    "neighborhood": "Cidade Líder",
+    "city": "São Paulo",
+    "website": "http://adegapolar.com.br",
+    "context": "Adega e distribuidora em Cidade Líder.",
+    "phone": "(11) 9620-6646",
+    "emailVerified": true,
+    "emailSource": "http://adegapolar.com.br",
+    "emailVerifiedAt": "2026-10-16",
+    "mxVerified": true,
+    "template": "consultivo",
+    "email1": false
+  },
+  {
+    "name": "Leges Bebidas",
+    "email": "contato@legesbebidas.com.br",
+    "type": "distribuidora",
+    "neighborhood": "Brasília",
+    "city": "São Paulo",
+    "website": "http://www.legesbebidas.com.br",
+    "context": "Comércio de bebidas.",
+    "phone": "(11) 3859-3185",
+    "emailVerified": true,
+    "emailSource": "http://www.legesbebidas.com.br",
+    "emailVerifiedAt": "2026-10-16",
     "mxVerified": true,
     "template": "consultivo",
     "email1": false
