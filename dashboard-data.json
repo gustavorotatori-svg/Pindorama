@@ -1,6 +1,6 @@
 {
-  "lastUpdate": "2026-10-16T11:11:25.114Z",
-  "totalLeads": 3122,
+  "lastUpdate": "2026-10-17T20:27:13.947Z",
+  "totalLeads": 3434,
   "allLeads": [
     {
       "name": "Bar do Nerso",
@@ -22524,6 +22524,7 @@
       "neighborhood": "Litoral Norte",
       "email": "concierge@wdgevents.com",
       "emailVerified": true,
+      "invalidEmail": true,
       "email1": true,
       "date1": "2026-08-30",
       "email2": true,
@@ -22839,6 +22840,7 @@
       "neighborhood": "Cambuí",
       "email": "eventos.campinas@vitoriahoteis.com.br",
       "emailVerified": true,
+      "invalidEmail": true,
       "email1": true,
       "date1": "2026-08-30",
       "email2": true,
@@ -22865,6 +22867,7 @@
       "neighborhood": "Gonzaga",
       "email": "reservas@bourbon.com.br",
       "emailVerified": true,
+      "invalidEmail": true,
       "email1": true,
       "date1": "2026-08-30",
       "email2": true,
@@ -27710,7 +27713,9 @@
       "email1": true,
       "date1": "2026-10-10",
       "email2": true,
-      "date2": "2026-10-12"
+      "date2": "2026-10-12",
+      "email3": true,
+      "date3": "2026-10-16"
     },
     {
       "name": "RP Catering",
@@ -27721,7 +27726,9 @@
       "email1": true,
       "date1": "2026-10-10",
       "email2": true,
-      "date2": "2026-10-12"
+      "date2": "2026-10-12",
+      "email3": true,
+      "date3": "2026-10-16"
     },
     {
       "name": "La Fenix Buffet",
@@ -27732,7 +27739,9 @@
       "email1": true,
       "date1": "2026-10-10",
       "email2": true,
-      "date2": "2026-10-12"
+      "date2": "2026-10-12",
+      "email3": true,
+      "date3": "2026-10-16"
     },
     {
       "name": "Buffet SP",
@@ -27743,7 +27752,9 @@
       "email1": true,
       "date1": "2026-10-10",
       "email2": true,
-      "date2": "2026-10-12"
+      "date2": "2026-10-12",
+      "email3": true,
+      "date3": "2026-10-16"
     },
     {
       "name": "Da Terra Gastronomia",
@@ -27754,7 +27765,9 @@
       "email1": true,
       "date1": "2026-10-10",
       "email2": true,
-      "date2": "2026-10-12"
+      "date2": "2026-10-12",
+      "email3": true,
+      "date3": "2026-10-16"
     },
     {
       "name": "Verrine Buffet",
@@ -27765,7 +27778,9 @@
       "email1": true,
       "date1": "2026-10-10",
       "email2": true,
-      "date2": "2026-10-12"
+      "date2": "2026-10-12",
+      "email3": true,
+      "date3": "2026-10-16"
     },
     {
       "name": "Plena Eventos",
@@ -27776,7 +27791,9 @@
       "email1": true,
       "date1": "2026-10-10",
       "email2": true,
-      "date2": "2026-10-12"
+      "date2": "2026-10-12",
+      "email3": true,
+      "date3": "2026-10-16"
     },
     {
       "name": "Buffet Spazio",
@@ -27787,7 +27804,9 @@
       "email1": true,
       "date1": "2026-10-10",
       "email2": true,
-      "date2": "2026-10-12"
+      "date2": "2026-10-12",
+      "email3": true,
+      "date3": "2026-10-16"
     },
     {
       "name": "Buffet Campinas",
@@ -27798,7 +27817,9 @@
       "email1": true,
       "date1": "2026-10-10",
       "email2": true,
-      "date2": "2026-10-12"
+      "date2": "2026-10-12",
+      "email3": true,
+      "date3": "2026-10-16"
     },
     {
       "name": "Buffet Fua",
@@ -27809,7 +27830,9 @@
       "email1": true,
       "date1": "2026-10-10",
       "email2": true,
-      "date2": "2026-10-12"
+      "date2": "2026-10-12",
+      "email3": true,
+      "date3": "2026-10-16"
     },
     {
       "name": "Mont Blanc Buffet e Eventos",
@@ -27820,7 +27843,9 @@
       "email1": true,
       "date1": "2026-10-10",
       "email2": true,
-      "date2": "2026-10-12"
+      "date2": "2026-10-12",
+      "email3": true,
+      "date3": "2026-10-16"
     },
     {
       "name": "Angelino's Buffet",
@@ -27831,7 +27856,9 @@
       "email1": true,
       "date1": "2026-10-10",
       "email2": true,
-      "date2": "2026-10-12"
+      "date2": "2026-10-12",
+      "email3": true,
+      "date3": "2026-10-16"
     },
     {
       "name": "Buffet Casa Bellini",
@@ -27842,7 +27869,9 @@
       "email1": true,
       "date1": "2026-10-10",
       "email2": true,
-      "date2": "2026-10-12"
+      "date2": "2026-10-12",
+      "email3": true,
+      "date3": "2026-10-16"
     },
     {
       "name": "Buffet Sorocaba",
@@ -27853,7 +27882,9 @@
       "email1": true,
       "date1": "2026-10-10",
       "email2": true,
-      "date2": "2026-10-12"
+      "date2": "2026-10-12",
+      "email3": true,
+      "date3": "2026-10-16"
     },
     {
       "name": "SJP Buffet e Gastronomia",
@@ -27864,7 +27895,9 @@
       "email1": true,
       "date1": "2026-10-10",
       "email2": true,
-      "date2": "2026-10-12"
+      "date2": "2026-10-12",
+      "email3": true,
+      "date3": "2026-10-16"
     },
     {
       "name": "Buffet Boteco e Cia",
@@ -27875,7 +27908,9 @@
       "email1": true,
       "date1": "2026-10-10",
       "email2": true,
-      "date2": "2026-10-12"
+      "date2": "2026-10-12",
+      "email3": true,
+      "date3": "2026-10-16"
     },
     {
       "name": "Cook Hall Buffet",
@@ -27886,7 +27921,9 @@
       "email1": true,
       "date1": "2026-10-10",
       "email2": true,
-      "date2": "2026-10-12"
+      "date2": "2026-10-12",
+      "email3": true,
+      "date3": "2026-10-16"
     },
     {
       "name": "Terra do Nunca Buffet e Eventos",
@@ -27897,7 +27934,9 @@
       "email1": true,
       "date1": "2026-10-10",
       "email2": true,
-      "date2": "2026-10-12"
+      "date2": "2026-10-12",
+      "email3": true,
+      "date3": "2026-10-16"
     },
     {
       "name": "Buffet Asher",
@@ -27908,7 +27947,9 @@
       "email1": true,
       "date1": "2026-10-10",
       "email2": true,
-      "date2": "2026-10-12"
+      "date2": "2026-10-12",
+      "email3": true,
+      "date3": "2026-10-16"
     },
     {
       "name": "Menu Buffet",
@@ -27919,7 +27960,9 @@
       "email1": true,
       "date1": "2026-10-10",
       "email2": true,
-      "date2": "2026-10-12"
+      "date2": "2026-10-12",
+      "email3": true,
+      "date3": "2026-10-16"
     },
     {
       "name": "Febba's Buffet & Eventos",
@@ -27931,7 +27974,9 @@
       "email1": true,
       "date1": "2026-10-11",
       "email2": true,
-      "date2": "2026-10-12"
+      "date2": "2026-10-12",
+      "email3": true,
+      "date3": "2026-10-16"
     },
     {
       "name": "Star Place Buffet",
@@ -27943,7 +27988,9 @@
       "email1": true,
       "date1": "2026-10-11",
       "email2": true,
-      "date2": "2026-10-12"
+      "date2": "2026-10-12",
+      "email3": true,
+      "date3": "2026-10-16"
     },
     {
       "name": "Doces Motivos Buffet",
@@ -27955,7 +28002,9 @@
       "email1": true,
       "date1": "2026-10-11",
       "email2": true,
-      "date2": "2026-10-12"
+      "date2": "2026-10-12",
+      "email3": true,
+      "date3": "2026-10-16"
     },
     {
       "name": "Buffet Q Art",
@@ -27967,7 +28016,9 @@
       "email1": true,
       "date1": "2026-10-11",
       "email2": true,
-      "date2": "2026-10-12"
+      "date2": "2026-10-12",
+      "email3": true,
+      "date3": "2026-10-16"
     },
     {
       "name": "Espaço Buffet São Paulo",
@@ -27979,7 +28030,9 @@
       "email1": true,
       "date1": "2026-10-11",
       "email2": true,
-      "date2": "2026-10-12"
+      "date2": "2026-10-12",
+      "email3": true,
+      "date3": "2026-10-16"
     },
     {
       "name": "Adega & Cia",
@@ -27988,6 +28041,7 @@
       "city": "São Paulo",
       "email": "adegaeciasp@gmail.com",
       "emailVerified": true,
+      "invalidEmail": true,
       "email1": true,
       "date1": "2026-10-15"
     },
@@ -27998,6 +28052,7 @@
       "city": "Barueri",
       "email": "comercial@deag.com.br",
       "emailVerified": true,
+      "invalidEmail": true,
       "email1": true,
       "date1": "2026-10-15"
     },
@@ -28008,6 +28063,7 @@
       "city": "São Paulo",
       "email": "reservas@becbar.com.br",
       "emailVerified": true,
+      "invalidEmail": true,
       "email1": true,
       "date1": "2026-10-15"
     },
@@ -28018,6 +28074,7 @@
       "city": "São Paulo",
       "email": "reservas@thejuniper44.bar",
       "emailVerified": true,
+      "invalidEmail": true,
       "email1": true,
       "date1": "2026-10-15"
     },
@@ -28028,6 +28085,7 @@
       "city": "São Paulo",
       "email": "atendimento@gruposaints.com.br",
       "emailVerified": true,
+      "invalidEmail": true,
       "email1": true,
       "date1": "2026-10-15"
     },
@@ -28038,6 +28096,7 @@
       "city": "São Paulo",
       "email": "barjobimgrupohungry@hotmail.com",
       "emailVerified": true,
+      "invalidEmail": true,
       "email1": true,
       "date1": "2026-10-15"
     },
@@ -28048,6 +28107,7 @@
       "city": "São Paulo",
       "email": "barbq@barbqmoema.com.br",
       "emailVerified": true,
+      "invalidEmail": true,
       "email1": true,
       "date1": "2026-10-15"
     },
@@ -28058,6 +28118,7 @@
       "city": "São Paulo",
       "email": "reservas@asnovicas.com.br",
       "emailVerified": true,
+      "invalidEmail": true,
       "email1": true,
       "date1": "2026-10-15"
     },
@@ -28068,6 +28129,7 @@
       "city": "São Paulo",
       "email": "contato@choppexpress.com.br",
       "emailVerified": true,
+      "invalidEmail": true,
       "email1": true,
       "date1": "2026-10-15"
     },
@@ -28078,6 +28140,7 @@
       "city": "Taboão da Serra",
       "email": "comercial@milfontdistribuidora.com.br",
       "emailVerified": true,
+      "invalidEmail": true,
       "email1": true,
       "date1": "2026-10-15"
     },
@@ -28088,6 +28151,7 @@
       "city": "São Paulo",
       "email": "contato@elementadega.com.br",
       "emailVerified": true,
+      "invalidEmail": true,
       "email1": true,
       "date1": "2026-10-15"
     },
@@ -28098,6 +28162,7 @@
       "city": "São Paulo",
       "email": "contato@lassurestaurante.com",
       "emailVerified": true,
+      "invalidEmail": true,
       "email1": true,
       "date1": "2026-10-15"
     },
@@ -28108,6 +28173,7 @@
       "city": "São Paulo",
       "email": "adm@goroohburguer.com.br",
       "emailVerified": true,
+      "invalidEmail": true,
       "email1": true,
       "date1": "2026-10-15"
     },
@@ -28118,6 +28184,7 @@
       "city": "São Paulo",
       "email": "jorge@alvk.com.br",
       "emailVerified": true,
+      "invalidEmail": true,
       "email1": true,
       "date1": "2026-10-15"
     },
@@ -28128,6 +28195,7 @@
       "city": "São Paulo",
       "email": "financeiro@blacktrunkbrasil.com.br",
       "emailVerified": true,
+      "invalidEmail": true,
       "email1": true,
       "date1": "2026-10-15"
     },
@@ -28138,6 +28206,7 @@
       "city": "São Paulo",
       "email": "contato@regionaljacaranda.com.br",
       "emailVerified": true,
+      "invalidEmail": true,
       "email1": true,
       "date1": "2026-10-15"
     },
@@ -28148,6 +28217,7 @@
       "city": "São Paulo",
       "email": "adm@restaurantebio.com.br",
       "emailVerified": true,
+      "invalidEmail": true,
       "email1": true,
       "date1": "2026-10-15"
     },
@@ -28158,7 +28228,8 @@
       "city": "São Paulo",
       "email": "ciao@ciaovinoebirra.com.br",
       "emailVerified": true,
-      "email1": false
+      "email1": true,
+      "date1": "2026-10-17"
     },
     {
       "name": "KAÃ RESTAURANTE",
@@ -28167,6 +28238,7 @@
       "city": "São Paulo",
       "email": "contato@kaarestaurante.com.br",
       "emailVerified": true,
+      "invalidEmail": true,
       "email1": true,
       "date1": "2026-10-15"
     },
@@ -28177,6 +28249,7 @@
       "city": "São Paulo",
       "email": "contato@doceriafoodshop.com.br",
       "emailVerified": true,
+      "invalidEmail": true,
       "email1": true,
       "date1": "2026-10-15"
     },
@@ -28187,6 +28260,7 @@
       "city": "São Paulo",
       "email": "contato@ateliedonaformiga.com.br",
       "emailVerified": true,
+      "invalidEmail": true,
       "email1": true,
       "date1": "2026-10-15"
     },
@@ -28197,6 +28271,7 @@
       "city": "São Paulo",
       "email": "contato@esquinagrill.com.br",
       "emailVerified": true,
+      "invalidEmail": true,
       "email1": true,
       "date1": "2026-10-15"
     },
@@ -28207,6 +28282,7 @@
       "city": "São Paulo",
       "email": "compras@lapinrestaurante.com.br",
       "emailVerified": true,
+      "invalidEmail": true,
       "email1": true,
       "date1": "2026-10-15"
     },
@@ -28217,6 +28293,7 @@
       "city": "São Paulo",
       "email": "contato@blacknload.com",
       "emailVerified": true,
+      "invalidEmail": true,
       "email1": true,
       "date1": "2026-10-15"
     },
@@ -28227,6 +28304,7 @@
       "city": "São Paulo",
       "email": "contato@partisanspub.com.br",
       "emailVerified": true,
+      "invalidEmail": true,
       "email1": true,
       "date1": "2026-10-15"
     },
@@ -28237,6 +28315,7 @@
       "city": "São Paulo",
       "email": "contato@pita.com.br",
       "emailVerified": true,
+      "invalidEmail": true,
       "email1": true,
       "date1": "2026-10-15"
     },
@@ -28247,6 +28326,7 @@
       "city": "São Paulo",
       "email": "contato@elcarbon.com.br",
       "emailVerified": true,
+      "invalidEmail": true,
       "email1": true,
       "date1": "2026-10-15"
     },
@@ -28257,6 +28337,7 @@
       "city": "São Paulo",
       "email": "contato@timorestaurante.com.br",
       "emailVerified": true,
+      "invalidEmail": true,
       "email1": true,
       "date1": "2026-10-15"
     },
@@ -28267,6 +28348,7 @@
       "city": "São Paulo",
       "email": "oi@teaconnection.com.br",
       "emailVerified": true,
+      "invalidEmail": true,
       "email1": true,
       "date1": "2026-10-15"
     },
@@ -28277,6 +28359,7 @@
       "city": "São Paulo",
       "email": "atendimento@pastagrano.com.br",
       "emailVerified": true,
+      "invalidEmail": true,
       "email1": true,
       "date1": "2026-10-15"
     },
@@ -28287,6 +28370,7 @@
       "city": "São Paulo",
       "email": "contato@gastronomiamontelibano.com.br",
       "emailVerified": true,
+      "invalidEmail": true,
       "email1": true,
       "date1": "2026-10-15"
     },
@@ -28297,6 +28381,7 @@
       "city": "São Paulo",
       "email": "eliana@lebongateau.com.br",
       "emailVerified": true,
+      "invalidEmail": true,
       "email1": true,
       "date1": "2026-10-15"
     },
@@ -28307,6 +28392,7 @@
       "city": "São Paulo",
       "email": "atendimento@noxsanduichebar.com",
       "emailVerified": true,
+      "invalidEmail": true,
       "email1": true,
       "date1": "2026-10-15"
     },
@@ -28317,6 +28403,7 @@
       "city": "São Paulo",
       "email": "sac@primebeef.com.br",
       "emailVerified": true,
+      "invalidEmail": true,
       "email1": true,
       "date1": "2026-10-15"
     },
@@ -28327,6 +28414,7 @@
       "city": "São Paulo",
       "email": "contato@lollameetsfire.com.br",
       "emailVerified": true,
+      "invalidEmail": true,
       "email1": true,
       "date1": "2026-10-15"
     },
@@ -28337,6 +28425,7 @@
       "city": "São Paulo",
       "email": "contatos@padarialeticia.com.br",
       "emailVerified": true,
+      "invalidEmail": true,
       "email1": true,
       "date1": "2026-10-15"
     },
@@ -28347,6 +28436,7 @@
       "city": "São Paulo",
       "email": "contato@cantodacerva.com.br",
       "emailVerified": true,
+      "invalidEmail": true,
       "email1": true,
       "date1": "2026-10-15"
     },
@@ -28357,6 +28447,7 @@
       "city": "São Paulo",
       "email": "marketing@fivecapital.com.br",
       "emailVerified": true,
+      "invalidEmail": true,
       "email1": true,
       "date1": "2026-10-15"
     },
@@ -28367,6 +28458,7 @@
       "city": "São Paulo",
       "email": "eventos@teakettle.com.br",
       "emailVerified": true,
+      "invalidEmail": true,
       "email1": true,
       "date1": "2026-10-15"
     },
@@ -28377,6 +28469,7 @@
       "city": "São Paulo",
       "email": "pedro.rossa@purpleberry.com.br",
       "emailVerified": true,
+      "invalidEmail": true,
       "email1": true,
       "date1": "2026-10-15"
     },
@@ -28387,6 +28480,7 @@
       "city": "São Paulo",
       "email": "contato@guadalajaramexicanfood.com.br",
       "emailVerified": true,
+      "invalidEmail": true,
       "email1": true,
       "date1": "2026-10-15"
     },
@@ -28397,7 +28491,8 @@
       "city": "São Paulo",
       "email": "info@pina.restaurant",
       "emailVerified": true,
-      "email1": false
+      "email1": true,
+      "date1": "2026-10-17"
     },
     {
       "name": "BAROLO TRATTORIA",
@@ -28406,6 +28501,7 @@
       "city": "São Paulo",
       "email": "reservas@barolotrattoriasp.com.br",
       "emailVerified": true,
+      "invalidEmail": true,
       "email1": true,
       "date1": "2026-10-15"
     },
@@ -28416,7 +28512,8 @@
       "city": "São Paulo",
       "email": "sanmarco@cantinasanmarco.com.br",
       "emailVerified": true,
-      "email1": false
+      "email1": true,
+      "date1": "2026-10-17"
     },
     {
       "name": "CÃR",
@@ -28425,6 +28522,7 @@
       "city": "São Paulo",
       "email": "contato@corgastronomia.com.br",
       "emailVerified": true,
+      "invalidEmail": true,
       "email1": true,
       "date1": "2026-10-15"
     },
@@ -28435,6 +28533,7 @@
       "city": "São Paulo",
       "email": "contato@serafinarestaurante.com.br",
       "emailVerified": true,
+      "invalidEmail": true,
       "email1": true,
       "date1": "2026-10-15"
     },
@@ -28445,6 +28544,7 @@
       "city": "São Paulo",
       "email": "comercial@hakken.com.br",
       "emailVerified": true,
+      "invalidEmail": true,
       "email1": true,
       "date1": "2026-10-15"
     },
@@ -28455,6 +28555,7 @@
       "city": "São Paulo",
       "email": "contato@burgertable.com.br",
       "emailVerified": true,
+      "invalidEmail": true,
       "email1": true,
       "date1": "2026-10-15"
     },
@@ -28465,6 +28566,7 @@
       "city": "São Paulo",
       "email": "mogi@ranchotraira.com.br",
       "emailVerified": true,
+      "invalidEmail": true,
       "email1": true,
       "date1": "2026-10-15"
     },
@@ -28475,6 +28577,7 @@
       "city": "São Paulo",
       "email": "contato@japasushi.com.br",
       "emailVerified": true,
+      "invalidEmail": true,
       "email1": true,
       "date1": "2026-10-15"
     },
@@ -28485,6 +28588,7 @@
       "city": "São Paulo",
       "email": "restaurante@rotadoacarajã©.com.br",
       "emailVerified": true,
+      "invalidEmail": true,
       "email1": true,
       "date1": "2026-10-15"
     },
@@ -28495,7 +28599,8 @@
       "city": "São Paulo",
       "email": "brado@bradorestaurante.com.br",
       "emailVerified": true,
-      "email1": false
+      "email1": true,
+      "date1": "2026-10-17"
     },
     {
       "name": "JAPS",
@@ -28504,6 +28609,7 @@
       "city": "São Paulo",
       "email": "marketing@grupojaps.com.br",
       "emailVerified": true,
+      "invalidEmail": true,
       "email1": true,
       "date1": "2026-10-15"
     },
@@ -28514,6 +28620,7 @@
       "city": "São Paulo",
       "email": "suzana@murakami.net.br",
       "emailVerified": true,
+      "invalidEmail": true,
       "email1": true,
       "date1": "2026-10-15"
     },
@@ -28524,6 +28631,7 @@
       "city": "São Paulo",
       "email": "contato@doculinariajaponesa.com.br",
       "emailVerified": true,
+      "invalidEmail": true,
       "email1": true,
       "date1": "2026-10-15"
     },
@@ -28534,6 +28642,7 @@
       "city": "São Paulo",
       "email": "wori@aragonrestaurante.com.br",
       "emailVerified": true,
+      "invalidEmail": true,
       "email1": true,
       "date1": "2026-10-15"
     },
@@ -28544,7 +28653,8 @@
       "city": "São Paulo",
       "email": "atendimento@panificadoravilamonumento.com.br",
       "emailVerified": true,
-      "email1": false
+      "email1": true,
+      "date1": "2026-10-17"
     },
     {
       "name": "Boteco Coutinho",
@@ -28553,6 +28663,7 @@
       "city": "São Paulo",
       "email": "contato@botecocoutinho.com.br",
       "emailVerified": true,
+      "invalidEmail": true,
       "email1": true,
       "date1": "2026-10-15"
     },
@@ -28563,6 +28674,7 @@
       "city": "São Paulo",
       "email": "fernanda@modi.net.br",
       "emailVerified": true,
+      "invalidEmail": true,
       "email1": true,
       "date1": "2026-10-15"
     },
@@ -28573,6 +28685,7 @@
       "city": "São Paulo",
       "email": "tascazemaria@globomail.com",
       "emailVerified": true,
+      "invalidEmail": true,
       "email1": true,
       "date1": "2026-10-15"
     },
@@ -28583,6 +28696,7 @@
       "city": "São Paulo",
       "email": "contato@wot.com.br",
       "emailVerified": true,
+      "invalidEmail": true,
       "email1": true,
       "date1": "2026-10-15"
     },
@@ -28593,6 +28707,7 @@
       "city": "São Paulo",
       "email": "contato@pizzariamontevero.com.br",
       "emailVerified": true,
+      "invalidEmail": true,
       "email1": true,
       "date1": "2026-10-15"
     },
@@ -28603,6 +28718,7 @@
       "city": "São Paulo",
       "email": "contato@cavabar.com.br",
       "emailVerified": true,
+      "invalidEmail": true,
       "email1": true,
       "date1": "2026-10-15"
     },
@@ -28613,7 +28729,8 @@
       "city": "São Paulo",
       "email": "botecosaopaulo@botecosaopaulo.com.br",
       "emailVerified": true,
-      "email1": false
+      "email1": true,
+      "date1": "2026-10-17"
     },
     {
       "name": "NOW BURGER",
@@ -28622,6 +28739,7 @@
       "city": "São Paulo",
       "email": "sac@nowburger.com.br",
       "emailVerified": true,
+      "invalidEmail": true,
       "email1": true,
       "date1": "2026-10-15"
     },
@@ -28632,6 +28750,7 @@
       "city": "São Paulo",
       "email": "contato@santoxis.com",
       "emailVerified": true,
+      "invalidEmail": true,
       "email1": true,
       "date1": "2026-10-15"
     },
@@ -28642,6 +28761,7 @@
       "city": "São Paulo",
       "email": "contato@txburger.com.br",
       "emailVerified": true,
+      "invalidEmail": true,
       "email1": true,
       "date1": "2026-10-15"
     },
@@ -28652,6 +28772,7 @@
       "city": "São Paulo",
       "email": "mkt@mudaburger.com.br",
       "emailVerified": true,
+      "invalidEmail": true,
       "email1": true,
       "date1": "2026-10-15"
     },
@@ -28662,6 +28783,7 @@
       "city": "São Paulo",
       "email": "contato@benditorockburger.com.br",
       "emailVerified": true,
+      "invalidEmail": true,
       "email1": true,
       "date1": "2026-10-15"
     },
@@ -28672,6 +28794,7 @@
       "city": "São Paulo",
       "email": "contato@3burger.com.br",
       "emailVerified": true,
+      "invalidEmail": true,
       "email1": true,
       "date1": "2026-10-15"
     },
@@ -28682,6 +28805,7 @@
       "city": "São Paulo",
       "email": "ipiranga@depot4.com.br",
       "emailVerified": true,
+      "invalidEmail": true,
       "email1": true,
       "date1": "2026-10-15"
     },
@@ -28692,7 +28816,8 @@
       "city": "São Paulo",
       "email": "contato@padariamanuella.com.br",
       "emailVerified": true,
-      "email1": false
+      "email1": true,
+      "date1": "2026-10-17"
     },
     {
       "name": "BURGER FUN",
@@ -28701,6 +28826,7 @@
       "city": "São Paulo",
       "email": "contato.bf@burguerfun.com.br",
       "emailVerified": true,
+      "invalidEmail": true,
       "email1": true,
       "date1": "2026-10-15"
     },
@@ -28711,6 +28837,7 @@
       "city": "São Paulo",
       "email": "lagloria@lagloriapizzabar.com.br",
       "emailVerified": true,
+      "invalidEmail": true,
       "email1": true,
       "date1": "2026-10-15"
     },
@@ -28721,6 +28848,7 @@
       "city": "São Paulo",
       "email": "paulo@bardoarnesto.com.br",
       "emailVerified": true,
+      "invalidEmail": true,
       "email1": true,
       "date1": "2026-10-15"
     },
@@ -28731,6 +28859,7 @@
       "city": "São Paulo",
       "email": "contato@baobarsp.com.br",
       "emailVerified": true,
+      "invalidEmail": true,
       "email1": true,
       "date1": "2026-10-15"
     },
@@ -28741,6 +28870,7 @@
       "city": "São Paulo",
       "email": "arouche@terreobar.com.br",
       "emailVerified": true,
+      "invalidEmail": true,
       "email1": true,
       "date1": "2026-10-15"
     },
@@ -28751,6 +28881,7 @@
       "city": "São Paulo",
       "email": "maru@ramenmaru.com.br",
       "emailVerified": true,
+      "invalidEmail": true,
       "email1": true,
       "date1": "2026-10-15"
     },
@@ -28761,6 +28892,7 @@
       "city": "São Paulo",
       "email": "pedidos@magmarket.com.br",
       "emailVerified": true,
+      "invalidEmail": true,
       "email1": true,
       "date1": "2026-10-15"
     },
@@ -28771,6 +28903,7 @@
       "city": "São Paulo",
       "email": "contato@coffelab.com.br",
       "emailVerified": true,
+      "invalidEmail": true,
       "email1": true,
       "date1": "2026-10-15"
     },
@@ -28781,6 +28914,7 @@
       "city": "São Paulo",
       "email": "temakibrothers@temakibrothers.com.br",
       "emailVerified": true,
+      "invalidEmail": true,
       "email1": true,
       "date1": "2026-10-15"
     },
@@ -28791,6 +28925,7 @@
       "city": "São Paulo",
       "email": "administrativo@mangabarestaurante.com.br",
       "emailVerified": true,
+      "invalidEmail": true,
       "email1": true,
       "date1": "2026-10-15"
     },
@@ -28801,6 +28936,7 @@
       "city": "São Paulo",
       "email": "contato@bierbier.com.br",
       "emailVerified": true,
+      "invalidEmail": true,
       "email1": true,
       "date1": "2026-10-15"
     },
@@ -28811,6 +28947,7 @@
       "city": "São Paulo",
       "email": "francine@sacozinhajaponesa.com.br",
       "emailVerified": true,
+      "invalidEmail": true,
       "email1": true,
       "date1": "2026-10-15"
     },
@@ -28821,6 +28958,7 @@
       "city": "São Paulo",
       "email": "marketing@trattorianacional.com.br",
       "emailVerified": true,
+      "invalidEmail": true,
       "email1": true,
       "date1": "2026-10-15"
     },
@@ -28831,6 +28969,7 @@
       "city": "São Paulo",
       "email": "contato@muresushi.com.br",
       "emailVerified": true,
+      "invalidEmail": true,
       "email1": true,
       "date1": "2026-10-15"
     },
@@ -28841,6 +28980,7 @@
       "city": "São Paulo",
       "email": "contato@bottleddog.com",
       "emailVerified": true,
+      "invalidEmail": true,
       "email1": true,
       "date1": "2026-10-15"
     },
@@ -28851,6 +28991,7 @@
       "city": "São Paulo",
       "email": "contato@sowcakelounge.com",
       "emailVerified": true,
+      "invalidEmail": true,
       "email1": true,
       "date1": "2026-10-15"
     },
@@ -28861,6 +29002,7 @@
       "city": "São Paulo",
       "email": "juliana@bbcburger.com.br",
       "emailVerified": true,
+      "invalidEmail": true,
       "email1": true,
       "date1": "2026-10-15"
     },
@@ -28871,6 +29013,7 @@
       "city": "São Paulo",
       "email": "contato@aecozinha.com.br",
       "emailVerified": true,
+      "invalidEmail": true,
       "email1": true,
       "date1": "2026-10-15"
     },
@@ -28881,6 +29024,7 @@
       "city": "São Paulo",
       "email": "marketing@tgifridaysbrasil.com.br",
       "emailVerified": true,
+      "invalidEmail": true,
       "email1": true,
       "date1": "2026-10-15"
     },
@@ -28891,6 +29035,7 @@
       "city": "São Paulo",
       "email": "bykoji@bykojimorumbi.com.br",
       "emailVerified": true,
+      "invalidEmail": true,
       "email1": true,
       "date1": "2026-10-15"
     },
@@ -28901,6 +29046,7 @@
       "city": "São Paulo",
       "email": "restaurante@strogonoffdavaleria.com",
       "emailVerified": true,
+      "invalidEmail": true,
       "email1": true,
       "date1": "2026-10-15"
     },
@@ -28911,6 +29057,7 @@
       "city": "São Paulo",
       "email": "contato@arimbarestaurante.com.br",
       "emailVerified": true,
+      "invalidEmail": true,
       "email1": true,
       "date1": "2026-10-15"
     },
@@ -28921,6 +29068,7 @@
       "city": "São Paulo",
       "email": "restaurante@nanako.com.br",
       "emailVerified": true,
+      "invalidEmail": true,
       "email1": true,
       "date1": "2026-10-15"
     },
@@ -28931,6 +29079,7 @@
       "city": "São Paulo",
       "email": "contato@burger700.com.br",
       "emailVerified": true,
+      "invalidEmail": true,
       "email1": true,
       "date1": "2026-10-15"
     },
@@ -28941,6 +29090,7 @@
       "city": "São Paulo",
       "email": "luciano@mundibar.com.br",
       "emailVerified": true,
+      "invalidEmail": true,
       "email1": true,
       "date1": "2026-10-15"
     },
@@ -28951,6 +29101,7 @@
       "city": "São Paulo",
       "email": "camila@burgermatch.com.br",
       "emailVerified": true,
+      "invalidEmail": true,
       "email1": true,
       "date1": "2026-10-15"
     },
@@ -28961,6 +29112,7 @@
       "city": "São Paulo",
       "email": "contato@cantinaelmariachi.com.br",
       "emailVerified": true,
+      "invalidEmail": true,
       "email1": true,
       "date1": "2026-10-15"
     },
@@ -28971,6 +29123,7 @@
       "city": "São Paulo",
       "email": "financeiro@gtrestaurante.com",
       "emailVerified": true,
+      "invalidEmail": true,
       "email1": true,
       "date1": "2026-10-15"
     },
@@ -28981,6 +29134,7 @@
       "city": "São Paulo",
       "email": "michelle@jollypizzaria.com.br",
       "emailVerified": true,
+      "invalidEmail": true,
       "email1": true,
       "date1": "2026-10-15"
     },
@@ -28991,6 +29145,7 @@
       "city": "São Paulo",
       "email": "adm@botecoviriato.com.br",
       "emailVerified": true,
+      "invalidEmail": true,
       "email1": true,
       "date1": "2026-10-15"
     },
@@ -29001,6 +29156,7 @@
       "city": "São Paulo",
       "email": "contato@temakeriapaulista.com.br",
       "emailVerified": true,
+      "invalidEmail": true,
       "email1": true,
       "date1": "2026-10-15"
     },
@@ -29011,6 +29167,7 @@
       "city": "São Paulo",
       "email": "boxst@boxst.com.br",
       "emailVerified": true,
+      "invalidEmail": true,
       "email1": true,
       "date1": "2026-10-15"
     },
@@ -29021,6 +29178,7 @@
       "city": "São Paulo",
       "email": "contato@yakissobamix.com.br",
       "emailVerified": true,
+      "invalidEmail": true,
       "email1": true,
       "date1": "2026-10-15"
     },
@@ -29031,6 +29189,7 @@
       "city": "São Paulo",
       "email": "reservas@bravobar.com.br",
       "emailVerified": true,
+      "invalidEmail": true,
       "email1": true,
       "date1": "2026-10-15"
     },
@@ -29041,6 +29200,7 @@
       "city": "São Paulo",
       "email": "mila@otito.com.br",
       "emailVerified": true,
+      "invalidEmail": true,
       "email1": true,
       "date1": "2026-10-15"
     },
@@ -29051,6 +29211,7 @@
       "city": "São Paulo",
       "email": "pedro@garagemdopadeiro.com",
       "emailVerified": true,
+      "invalidEmail": true,
       "email1": true,
       "date1": "2026-10-15"
     },
@@ -29061,6 +29222,7 @@
       "city": "São Paulo",
       "email": "gerencia@cervejariavortex.com.br",
       "emailVerified": true,
+      "invalidEmail": true,
       "email1": true,
       "date1": "2026-10-15"
     },
@@ -29071,6 +29233,7 @@
       "city": "São Paulo",
       "email": "contato@labombe.com.br",
       "emailVerified": true,
+      "invalidEmail": true,
       "email1": true,
       "date1": "2026-10-15"
     },
@@ -29081,6 +29244,7 @@
       "city": "São Paulo",
       "email": "genuino@genuinochopp.com.br",
       "emailVerified": true,
+      "invalidEmail": true,
       "email1": true,
       "date1": "2026-10-15"
     },
@@ -29091,6 +29255,7 @@
       "city": "São Paulo",
       "email": "faleconosco@hbcia.com.br",
       "emailVerified": true,
+      "invalidEmail": true,
       "email1": true,
       "date1": "2026-10-15"
     },
@@ -29101,6 +29266,7 @@
       "city": "São Paulo",
       "email": "contato@bfactorybrasil.com.br",
       "emailVerified": true,
+      "invalidEmail": true,
       "email1": true,
       "date1": "2026-10-15"
     },
@@ -29111,6 +29277,7 @@
       "city": "São Paulo",
       "email": "contato@hi-pokee.com",
       "emailVerified": true,
+      "invalidEmail": true,
       "email1": true,
       "date1": "2026-10-15"
     },
@@ -29121,6 +29288,7 @@
       "city": "São Paulo",
       "email": "contato@huahinesushi.com.br",
       "emailVerified": true,
+      "invalidEmail": true,
       "email1": true,
       "date1": "2026-10-15"
     },
@@ -29131,6 +29299,7 @@
       "city": "São Paulo",
       "email": "bar@armazenpaulista.com.br",
       "emailVerified": true,
+      "invalidEmail": true,
       "email1": true,
       "date1": "2026-10-15"
     },
@@ -29141,6 +29310,7 @@
       "city": "São Paulo",
       "email": "contato@micirestaurante.com.br",
       "emailVerified": true,
+      "invalidEmail": true,
       "email1": true,
       "date1": "2026-10-15"
     },
@@ -29151,6 +29321,7 @@
       "city": "São Paulo",
       "email": "contato@caosbrasilis.com.br",
       "emailVerified": true,
+      "invalidEmail": true,
       "email1": true,
       "date1": "2026-10-15"
     },
@@ -29161,6 +29332,7 @@
       "city": "São Paulo",
       "email": "falecom@hildabotequim.com",
       "emailVerified": true,
+      "invalidEmail": true,
       "email1": true,
       "date1": "2026-10-15"
     },
@@ -29171,6 +29343,7 @@
       "city": "São Paulo",
       "email": "wag@amburgui.com.br",
       "emailVerified": true,
+      "invalidEmail": true,
       "email1": true,
       "date1": "2026-10-15"
     },
@@ -29181,6 +29354,7 @@
       "city": "São Paulo",
       "email": "contato@extasia.com.br",
       "emailVerified": true,
+      "invalidEmail": true,
       "email1": true,
       "date1": "2026-10-15"
     },
@@ -29191,6 +29365,7 @@
       "city": "São Paulo",
       "email": "contato@estelapassioni.com",
       "emailVerified": true,
+      "invalidEmail": true,
       "email1": true,
       "date1": "2026-10-15"
     },
@@ -29201,6 +29376,7 @@
       "city": "São Paulo",
       "email": "farfalla@farfalla.com.br",
       "emailVerified": true,
+      "invalidEmail": true,
       "email1": true,
       "date1": "2026-10-15"
     },
@@ -29211,6 +29387,7 @@
       "city": "São Paulo",
       "email": "contato@sandoui.com.br",
       "emailVerified": true,
+      "invalidEmail": true,
       "email1": true,
       "date1": "2026-10-15"
     },
@@ -29221,6 +29398,7 @@
       "city": "São Paulo",
       "email": "contato@tontosp.com.br",
       "emailVerified": true,
+      "invalidEmail": true,
       "email1": true,
       "date1": "2026-10-15"
     },
@@ -29231,6 +29409,7 @@
       "city": "São Paulo",
       "email": "contato@nirasushi.com.br",
       "emailVerified": true,
+      "invalidEmail": true,
       "email1": true,
       "date1": "2026-10-15"
     },
@@ -29241,6 +29420,7 @@
       "city": "São Paulo",
       "email": "adm@charcorestaurante.com.br",
       "emailVerified": true,
+      "invalidEmail": true,
       "email1": true,
       "date1": "2026-10-15"
     },
@@ -29251,6 +29431,7 @@
       "city": "São Paulo",
       "email": "gerencia@botica.bar",
       "emailVerified": true,
+      "invalidEmail": true,
       "email1": true,
       "date1": "2026-10-15"
     },
@@ -29261,6 +29442,7 @@
       "city": "São Paulo",
       "email": "gerencia@c6burger.com",
       "emailVerified": true,
+      "invalidEmail": true,
       "email1": true,
       "date1": "2026-10-15"
     },
@@ -29271,6 +29453,7 @@
       "city": "São Paulo",
       "email": "comunicacao@cgc.bar",
       "emailVerified": true,
+      "invalidEmail": true,
       "email1": true,
       "date1": "2026-10-15"
     },
@@ -29281,6 +29464,7 @@
       "city": "São Paulo",
       "email": "contato@thehitburguer.com.br",
       "emailVerified": true,
+      "invalidEmail": true,
       "email1": true,
       "date1": "2026-10-15"
     },
@@ -29291,6 +29475,7 @@
       "city": "São Paulo",
       "email": "contato@niloburgers.com.br",
       "emailVerified": true,
+      "invalidEmail": true,
       "email1": true,
       "date1": "2026-10-15"
     },
@@ -29301,6 +29486,7 @@
       "city": "São Paulo",
       "email": "reservas@venutosp.com.br",
       "emailVerified": true,
+      "invalidEmail": true,
       "email1": true,
       "date1": "2026-10-15"
     },
@@ -29311,6 +29497,7 @@
       "city": "São Paulo",
       "email": "garageburger@garageburger.com.br",
       "emailVerified": true,
+      "invalidEmail": true,
       "email1": true,
       "date1": "2026-10-15"
     },
@@ -29321,6 +29508,7 @@
       "city": "São Paulo",
       "email": "contato@charadaburguer.com.br",
       "emailVerified": true,
+      "invalidEmail": true,
       "email1": true,
       "date1": "2026-10-15"
     },
@@ -29331,6 +29519,7 @@
       "city": "São Paulo",
       "email": "reservas@portolunabar.com.br",
       "emailVerified": true,
+      "invalidEmail": true,
       "email1": true,
       "date1": "2026-10-15"
     },
@@ -29341,6 +29530,7 @@
       "city": "São Paulo",
       "email": "informacoes@eataly.com.br",
       "emailVerified": true,
+      "invalidEmail": true,
       "email1": true,
       "date1": "2026-10-15"
     },
@@ -29351,6 +29541,7 @@
       "city": "São Paulo",
       "email": "bon@bonrestaurante.com.br",
       "emailVerified": true,
+      "invalidEmail": true,
       "email1": true,
       "date1": "2026-10-15"
     },
@@ -29361,6 +29552,7 @@
       "city": "São Paulo",
       "email": "jardins@ziterezadinapoli.com.br",
       "emailVerified": true,
+      "invalidEmail": true,
       "email1": true,
       "date1": "2026-10-15"
     },
@@ -29371,6 +29563,7 @@
       "city": "São Paulo",
       "email": "supervisordhops@makoto.com.br",
       "emailVerified": true,
+      "invalidEmail": true,
       "email1": true,
       "date1": "2026-10-15"
     },
@@ -29381,6 +29574,7 @@
       "city": "São Paulo",
       "email": "saopaulo.marketing@rofewoodhotels.com",
       "emailVerified": true,
+      "invalidEmail": true,
       "email1": true,
       "date1": "2026-10-15"
     },
@@ -29391,6 +29585,7 @@
       "city": "São Paulo",
       "email": "contato@casaramona.com.br",
       "emailVerified": true,
+      "invalidEmail": true,
       "email1": true,
       "date1": "2026-10-15"
     },
@@ -29401,6 +29596,7 @@
       "city": "São Paulo",
       "email": "contato@umoment.com.br",
       "emailVerified": true,
+      "invalidEmail": true,
       "email1": true,
       "date1": "2026-10-15"
     },
@@ -29411,6 +29607,7 @@
       "city": "São Paulo",
       "email": "contato@bossasp.com.br",
       "emailVerified": true,
+      "invalidEmail": true,
       "email1": true,
       "date1": "2026-10-15"
     },
@@ -29421,6 +29618,7 @@
       "city": "São Paulo",
       "email": "sac.cafedonuts@cfcentral.com.br",
       "emailVerified": true,
+      "invalidEmail": true,
       "email1": true,
       "date1": "2026-10-15"
     },
@@ -29431,6 +29629,7 @@
       "city": "São Paulo",
       "email": "eclair@eclairbar.com.br",
       "emailVerified": true,
+      "invalidEmail": true,
       "email1": true,
       "date1": "2026-10-15"
     },
@@ -29441,6 +29640,7 @@
       "city": "São Paulo",
       "email": "contato@griffinncafeeafins.com",
       "emailVerified": true,
+      "invalidEmail": true,
       "email1": true,
       "date1": "2026-10-15"
     },
@@ -29451,6 +29651,7 @@
       "city": "São Paulo",
       "email": "contato@porcopaulistabar.com.br",
       "emailVerified": true,
+      "invalidEmail": true,
       "email1": true,
       "date1": "2026-10-15"
     },
@@ -29461,6 +29662,7 @@
       "city": "São Paulo",
       "email": "adm@pregocucina.com",
       "emailVerified": true,
+      "invalidEmail": true,
       "email1": true,
       "date1": "2026-10-15"
     },
@@ -29471,6 +29673,7 @@
       "city": "São Paulo",
       "email": "gerencia@nopeburguers.com",
       "emailVerified": true,
+      "invalidEmail": true,
       "email1": true,
       "date1": "2026-10-15"
     },
@@ -29481,6 +29684,7 @@
       "city": "São Paulo",
       "email": "contato@vilamilagro.com.br",
       "emailVerified": true,
+      "invalidEmail": true,
       "email1": true,
       "date1": "2026-10-15"
     },
@@ -29491,6 +29695,7 @@
       "city": "São Paulo",
       "email": "contato@davocozinha.com",
       "emailVerified": true,
+      "invalidEmail": true,
       "email1": true,
       "date1": "2026-10-15"
     },
@@ -29501,6 +29706,7 @@
       "city": "São Paulo",
       "email": "contato@cfm84.com.br",
       "emailVerified": true,
+      "invalidEmail": true,
       "email1": true,
       "date1": "2026-10-15"
     },
@@ -29511,6 +29717,7 @@
       "city": "São Paulo",
       "email": "victor@vitospizza.com.br",
       "emailVerified": true,
+      "invalidEmail": true,
       "email1": true,
       "date1": "2026-10-15"
     },
@@ -29521,6 +29728,7 @@
       "city": "São Paulo",
       "email": "adm@bardacidade.com.br",
       "emailVerified": true,
+      "invalidEmail": true,
       "email1": true,
       "date1": "2026-10-15"
     },
@@ -29531,6 +29739,7 @@
       "city": "São Paulo",
       "email": "contato@iaiacaveamanger.com.br",
       "emailVerified": true,
+      "invalidEmail": true,
       "email1": true,
       "date1": "2026-10-15"
     },
@@ -29541,6 +29750,7 @@
       "city": "São Paulo",
       "email": "contato@axadorestaurante.com.br",
       "emailVerified": true,
+      "invalidEmail": true,
       "email1": true,
       "date1": "2026-10-15"
     },
@@ -29551,6 +29761,7 @@
       "city": "São Paulo",
       "email": "marketing@stonbar.com.br",
       "emailVerified": true,
+      "invalidEmail": true,
       "email1": true,
       "date1": "2026-10-15"
     },
@@ -29561,6 +29772,7 @@
       "city": "São Paulo",
       "email": "info@sfornobrasil.com",
       "emailVerified": true,
+      "invalidEmail": true,
       "email1": true,
       "date1": "2026-10-15"
     },
@@ -29571,6 +29783,7 @@
       "city": "São Paulo",
       "email": "danilo@temumami.com.br",
       "emailVerified": true,
+      "invalidEmail": true,
       "email1": true,
       "date1": "2026-10-15"
     },
@@ -29581,6 +29794,7 @@
       "city": "São Paulo",
       "email": "eventos@sweetpimenta.com.br",
       "emailVerified": true,
+      "invalidEmail": true,
       "email1": true,
       "date1": "2026-10-15"
     },
@@ -29591,6 +29805,7 @@
       "city": "São Paulo",
       "email": "contato@sarusushi.com.br",
       "emailVerified": true,
+      "invalidEmail": true,
       "email1": true,
       "date1": "2026-10-15"
     },
@@ -29601,6 +29816,7 @@
       "city": "São Paulo",
       "email": "contato@restaurantecasaflorida.com.br",
       "emailVerified": true,
+      "invalidEmail": true,
       "email1": true,
       "date1": "2026-10-15"
     },
@@ -29611,6 +29827,7 @@
       "city": "São Paulo",
       "email": "reservas@villaanalia.com.br",
       "emailVerified": true,
+      "invalidEmail": true,
       "email1": true,
       "date1": "2026-10-15"
     },
@@ -29621,6 +29838,7 @@
       "city": "São Paulo",
       "email": "faronella@faronella.com.br",
       "emailVerified": true,
+      "invalidEmail": true,
       "email1": true,
       "date1": "2026-10-15"
     },
@@ -29631,6 +29849,7 @@
       "city": "São Paulo",
       "email": "marketing@artbarspeakeasy.com.br",
       "emailVerified": true,
+      "invalidEmail": true,
       "email1": true,
       "date1": "2026-10-15"
     },
@@ -29641,6 +29860,7 @@
       "city": "São Paulo",
       "email": "contato@dkingsguarulhos.com.br",
       "emailVerified": true,
+      "invalidEmail": true,
       "email1": true,
       "date1": "2026-10-15"
     },
@@ -29651,6 +29871,7 @@
       "city": "São Paulo",
       "email": "sukiyakihouse@sukiyakihouse.com.br",
       "emailVerified": true,
+      "invalidEmail": true,
       "email1": true,
       "date1": "2026-10-15"
     },
@@ -29661,6 +29882,7 @@
       "city": "São Paulo",
       "email": "contato@dozogastronomia.com.br",
       "emailVerified": true,
+      "invalidEmail": true,
       "email1": true,
       "date1": "2026-10-15"
     },
@@ -29671,6 +29893,7 @@
       "city": "São Paulo",
       "email": "contato@emporioboulevard.com",
       "emailVerified": true,
+      "invalidEmail": true,
       "email1": true,
       "date1": "2026-10-15"
     },
@@ -29681,6 +29904,7 @@
       "city": "São Paulo",
       "email": "atendimento@creativeworld.com.br",
       "emailVerified": true,
+      "invalidEmail": true,
       "email1": true,
       "date1": "2026-10-15"
     },
@@ -29691,6 +29915,7 @@
       "city": "São Paulo",
       "email": "info@gtginbar.com",
       "emailVerified": true,
+      "invalidEmail": true,
       "email1": true,
       "date1": "2026-10-15"
     },
@@ -29701,6 +29926,7 @@
       "city": "São Paulo",
       "email": "contato@eatasia.com.br",
       "emailVerified": true,
+      "invalidEmail": true,
       "email1": true,
       "date1": "2026-10-15"
     },
@@ -29711,6 +29937,7 @@
       "city": "São Paulo",
       "email": "pinheiros@popdonuts.com.br",
       "emailVerified": true,
+      "invalidEmail": true,
       "email1": true,
       "date1": "2026-10-15"
     },
@@ -29721,6 +29948,7 @@
       "city": "São Paulo",
       "email": "oi@solarabar.com.br",
       "emailVerified": true,
+      "invalidEmail": true,
       "email1": true,
       "date1": "2026-10-15"
     },
@@ -29731,6 +29959,7 @@
       "city": "São Paulo",
       "email": "falecom@emporiobrownie.com.br",
       "emailVerified": true,
+      "invalidEmail": true,
       "email1": true,
       "date1": "2026-10-15"
     },
@@ -29741,6 +29970,7 @@
       "city": "São Paulo",
       "email": "contato@chaye.com.br",
       "emailVerified": true,
+      "invalidEmail": true,
       "email1": true,
       "date1": "2026-10-15"
     },
@@ -29751,6 +29981,7 @@
       "city": "São Paulo",
       "email": "sergio@drinkstogo.com.br",
       "emailVerified": true,
+      "invalidEmail": true,
       "email1": true,
       "date1": "2026-10-15"
     },
@@ -29761,6 +29992,7 @@
       "city": "São Paulo",
       "email": "marketing@brasagastronomia.com.br",
       "emailVerified": true,
+      "invalidEmail": true,
       "email1": true,
       "date1": "2026-10-15"
     },
@@ -29772,7 +30004,9 @@
       "email": "contato@boccanerabar.com",
       "emailVerified": true,
       "email1": true,
-      "date1": "2026-10-15"
+      "date1": "2026-10-15",
+      "email2": true,
+      "date2": "2026-10-17"
     },
     {
       "name": "Dasian",
@@ -29781,6 +30015,7 @@
       "city": "São Paulo",
       "email": "contato@dasian.com.br",
       "emailVerified": true,
+      "invalidEmail": true,
       "email1": true,
       "date1": "2026-10-15"
     },
@@ -29792,7 +30027,9 @@
       "email": "contato@attorestaurante.com.br",
       "emailVerified": true,
       "email1": true,
-      "date1": "2026-10-15"
+      "date1": "2026-10-15",
+      "email2": true,
+      "date2": "2026-10-17"
     },
     {
       "name": "Candy Sushi Bar & Club",
@@ -29801,6 +30038,7 @@
       "city": "São Paulo",
       "email": "atendimento@candysp.com.br",
       "emailVerified": true,
+      "invalidEmail": true,
       "email1": true,
       "date1": "2026-10-15"
     },
@@ -29811,6 +30049,7 @@
       "city": "São Paulo",
       "email": "eventosbonita@bonitabar.com.br",
       "emailVerified": true,
+      "invalidEmail": true,
       "email1": true,
       "date1": "2026-10-15"
     },
@@ -29822,7 +30061,9 @@
       "email": "contato@pizzariaquattrata.com.br",
       "emailVerified": true,
       "email1": true,
-      "date1": "2026-10-15"
+      "date1": "2026-10-15",
+      "email2": true,
+      "date2": "2026-10-17"
     },
     {
       "name": "Buteco da Carne",
@@ -29832,7 +30073,9 @@
       "email": "osvaldo.domingos@butecodacarne.com.br",
       "emailVerified": true,
       "email1": true,
-      "date1": "2026-10-15"
+      "date1": "2026-10-15",
+      "email2": true,
+      "date2": "2026-10-17"
     },
     {
       "name": "Balada Mix SÃ£o Paulo",
@@ -29842,7 +30085,9 @@
       "email": "bdiniz@baladamixsp.com.br",
       "emailVerified": true,
       "email1": true,
-      "date1": "2026-10-15"
+      "date1": "2026-10-15",
+      "email2": true,
+      "date2": "2026-10-17"
     },
     {
       "name": "BARCELONA PÃES",
@@ -29852,7 +30097,9 @@
       "email": "barcelona@barcelonapaes.com.br",
       "emailVerified": true,
       "email1": true,
-      "date1": "2026-10-15"
+      "date1": "2026-10-15",
+      "email2": true,
+      "date2": "2026-10-17"
     },
     {
       "name": "A CASA DA PIZZA ESTUFADA",
@@ -29862,7 +30109,9 @@
       "email": "aletorres@acasadapizzaestufada.com.br",
       "emailVerified": true,
       "email1": true,
-      "date1": "2026-10-15"
+      "date1": "2026-10-15",
+      "email2": true,
+      "date2": "2026-10-17"
     },
     {
       "name": "Bar Em Nome do Pai",
@@ -29872,7 +30121,9 @@
       "email": "contato@baremnomedopai.com.br",
       "emailVerified": true,
       "email1": true,
-      "date1": "2026-10-15"
+      "date1": "2026-10-15",
+      "email2": true,
+      "date2": "2026-10-17"
     },
     {
       "name": "Paiol Urbano Osasco",
@@ -29882,7 +30133,9 @@
       "email": "paiolurbanoosasco@paiolurbano.com",
       "emailVerified": true,
       "email1": true,
-      "date1": "2026-10-15"
+      "date1": "2026-10-15",
+      "email2": true,
+      "date2": "2026-10-17"
     },
     {
       "name": "PRIME GOLDEN POTATO",
@@ -29892,7 +30145,9 @@
       "email": "marketing@primegoldenpotato.com.br",
       "emailVerified": true,
       "email1": true,
-      "date1": "2026-10-15"
+      "date1": "2026-10-15",
+      "email2": true,
+      "date2": "2026-10-17"
     },
     {
       "name": "Verttoni",
@@ -29902,7 +30157,9 @@
       "email": "massasartesanais@verttoni.com.br",
       "emailVerified": true,
       "email1": true,
-      "date1": "2026-10-15"
+      "date1": "2026-10-15",
+      "email2": true,
+      "date2": "2026-10-17"
     },
     {
       "name": "Farol Cervejaria e Gourmet",
@@ -29912,7 +30169,9 @@
       "email": "contato@farolgourmet.com.br",
       "emailVerified": true,
       "email1": true,
-      "date1": "2026-10-15"
+      "date1": "2026-10-15",
+      "email2": true,
+      "date2": "2026-10-17"
     },
     {
       "name": "Marinna Gastronomia",
@@ -29922,7 +30181,9 @@
       "email": "contato@marinnagastronomia.com.br",
       "emailVerified": true,
       "email1": true,
-      "date1": "2026-10-15"
+      "date1": "2026-10-15",
+      "email2": true,
+      "date2": "2026-10-17"
     },
     {
       "name": "Genuino Bar",
@@ -29932,7 +30193,9 @@
       "email": "nelsinho@genuinochopp.com.br",
       "emailVerified": true,
       "email1": true,
-      "date1": "2026-10-15"
+      "date1": "2026-10-15",
+      "email2": true,
+      "date2": "2026-10-17"
     },
     {
       "name": "Restaurante Malagueta",
@@ -29941,7 +30204,8 @@
       "city": "São Paulo",
       "email": "contato@restaurantemalagueta.com.br",
       "emailVerified": true,
-      "email1": false
+      "email1": true,
+      "date1": "2026-10-16"
     },
     {
       "name": "TORNEIRA BAR",
@@ -29951,7 +30215,9 @@
       "email": "adm@torneirabar.com.br",
       "emailVerified": true,
       "email1": true,
-      "date1": "2026-10-15"
+      "date1": "2026-10-15",
+      "email2": true,
+      "date2": "2026-10-17"
     },
     {
       "name": "Dultier",
@@ -29960,7 +30226,8 @@
       "city": "São Paulo",
       "email": "contato@dultier.com.br",
       "emailVerified": true,
-      "email1": false
+      "email1": true,
+      "date1": "2026-10-16"
     },
     {
       "name": "Vaca CaiÃ§ara",
@@ -29969,6 +30236,7 @@
       "city": "São Paulo",
       "email": "contato@vacacaicara.com.br",
       "emailVerified": true,
+      "invalidEmail": true,
       "email1": true,
       "date1": "2026-10-15"
     },
@@ -29979,7 +30247,8 @@
       "city": "São Paulo",
       "email": "laura@labiamidias.com",
       "emailVerified": true,
-      "email1": false
+      "email1": true,
+      "date1": "2026-10-16"
     },
     {
       "name": "Ministro - Bar e Restaurante",
@@ -29988,6 +30257,7 @@
       "city": "São Paulo",
       "email": "contato@ministrobarerestaurante.com.br",
       "emailVerified": true,
+      "invalidEmail": true,
       "email1": true,
       "date1": "2026-10-15"
     },
@@ -29998,7 +30268,8 @@
       "city": "São Paulo",
       "email": "contato@filomenacafebistro.com.br",
       "emailVerified": true,
-      "email1": false
+      "email1": true,
+      "date1": "2026-10-16"
     },
     {
       "name": "ð£ðð­ð­ðð¥ðð ð ðð ð ð ð...",
@@ -30007,7 +30278,8 @@
       "city": "São Paulo",
       "email": "contato@pizzeriamammaconcetta.com.br",
       "emailVerified": true,
-      "email1": false
+      "email1": true,
+      "date1": "2026-10-16"
     },
     {
       "name": "PARADISO CASA COMIDA",
@@ -30016,7 +30288,8 @@
       "city": "São Paulo",
       "email": "alessandro@paradisocasacomida.com.br",
       "emailVerified": true,
-      "email1": false
+      "email1": true,
+      "date1": "2026-10-16"
     },
     {
       "name": "AMOR DE CHURROS",
@@ -30025,7 +30298,8 @@
       "city": "São Paulo",
       "email": "amordechurros@amordechurros.com.br",
       "emailVerified": true,
-      "email1": false
+      "email1": true,
+      "date1": "2026-10-16"
     },
     {
       "name": "Dhomus",
@@ -30034,7 +30308,8 @@
       "city": "São Paulo",
       "email": "contato@dhomus.com.br",
       "emailVerified": true,
-      "email1": false
+      "email1": true,
+      "date1": "2026-10-16"
     },
     {
       "name": "Clos Bar a Vin & BistroÌ",
@@ -30043,6 +30318,7 @@
       "city": "São Paulo",
       "email": "contato@closwinebar.com.br",
       "emailVerified": true,
+      "invalidEmail": true,
       "email1": true,
       "date1": "2026-10-15"
     },
@@ -30053,6 +30329,7 @@
       "city": "São Paulo",
       "email": "raphael@dbacowinebar.com",
       "emailVerified": true,
+      "invalidEmail": true,
       "email1": true,
       "date1": "2026-10-15"
     },
@@ -30063,7 +30340,8 @@
       "city": "São Paulo",
       "email": "marketing@docevie.com.br",
       "emailVerified": true,
-      "email1": false
+      "email1": true,
+      "date1": "2026-10-16"
     },
     {
       "name": "CITRINO BAR",
@@ -30072,6 +30350,7 @@
       "city": "São Paulo",
       "email": "contato@citrinobar.com.br",
       "emailVerified": true,
+      "invalidEmail": true,
       "email1": true,
       "date1": "2026-10-15"
     },
@@ -30082,7 +30361,8 @@
       "city": "São Paulo",
       "email": "douglas@cuattroestacoes.com.br",
       "emailVerified": true,
-      "email1": false
+      "email1": true,
+      "date1": "2026-10-16"
     },
     {
       "name": "Stop Dog",
@@ -30091,7 +30371,8 @@
       "city": "São Paulo",
       "email": "contato@lanchesstopdog.com.br",
       "emailVerified": true,
-      "email1": false
+      "email1": true,
+      "date1": "2026-10-16"
     },
     {
       "name": "Bar do Quintal",
@@ -30100,6 +30381,7 @@
       "city": "São Paulo",
       "email": "comercial@quintalpatroas.com.br",
       "emailVerified": true,
+      "invalidEmail": true,
       "email1": true,
       "date1": "2026-10-15"
     },
@@ -30110,7 +30392,8 @@
       "city": "São Paulo",
       "email": "adm@giroristobar.com.br",
       "emailVerified": true,
-      "email1": false
+      "email1": true,
+      "date1": "2026-10-16"
     },
     {
       "name": "Restaurante Vila CafÃ©",
@@ -30119,7 +30402,8 @@
       "city": "São Paulo",
       "email": "vilacafe@220.com",
       "emailVerified": true,
-      "email1": false
+      "email1": true,
+      "date1": "2026-10-16"
     },
     {
       "name": "Cangote Sorvetes",
@@ -30128,7 +30412,8 @@
       "city": "São Paulo",
       "email": "contato@cangoteservetes.com.br",
       "emailVerified": true,
-      "email1": false
+      "email1": true,
+      "date1": "2026-10-16"
     },
     {
       "name": "Sidequest XP",
@@ -30137,7 +30422,8 @@
       "city": "São Paulo",
       "email": "contato@sidequest-xp.com.br",
       "emailVerified": true,
-      "email1": false
+      "email1": true,
+      "date1": "2026-10-16"
     },
     {
       "name": "ðð§ð¡ð ðð¥ð§ ððð¥",
@@ -30146,6 +30432,7 @@
       "city": "São Paulo",
       "email": "faleconosco@btnk.art.br",
       "emailVerified": true,
+      "invalidEmail": true,
       "email1": true,
       "date1": "2026-10-15"
     },
@@ -30156,6 +30443,7 @@
       "city": "São Paulo",
       "email": "contato@manakah.com.br",
       "emailVerified": true,
+      "invalidEmail": true,
       "email1": true,
       "date1": "2026-10-15"
     },
@@ -30166,6 +30454,7 @@
       "city": "São Paulo",
       "email": "beerwings@beerwings.com.br",
       "emailVerified": true,
+      "invalidEmail": true,
       "email1": true,
       "date1": "2026-10-15"
     },
@@ -30176,7 +30465,8 @@
       "city": "São Paulo",
       "email": "contato@burgerbits.com.br",
       "emailVerified": true,
-      "email1": false
+      "email1": true,
+      "date1": "2026-10-16"
     },
     {
       "name": "FRITZÂ® - Santo AndreÌ",
@@ -30185,6 +30475,7 @@
       "city": "São Paulo",
       "email": "contato@fritzsantoandre.com.br",
       "emailVerified": true,
+      "invalidEmail": true,
       "email1": true,
       "date1": "2026-10-15"
     },
@@ -30195,6 +30486,7 @@
       "city": "São Paulo",
       "email": "adm@hamburgueriajardim.com.br",
       "emailVerified": true,
+      "invalidEmail": true,
       "email1": true,
       "date1": "2026-10-15"
     },
@@ -30205,7 +30497,8 @@
       "city": "São Paulo",
       "email": "henrique@duboie.com.br",
       "emailVerified": true,
-      "email1": false
+      "email1": true,
+      "date1": "2026-10-16"
     },
     {
       "name": "Zombie Burger",
@@ -30214,7 +30507,8 @@
       "city": "São Paulo",
       "email": "contato@zombieburger.com.br",
       "emailVerified": true,
-      "email1": false
+      "email1": true,
+      "date1": "2026-10-16"
     },
     {
       "name": "EdoÌ Sushi Bar",
@@ -30223,7 +30517,8 @@
       "city": "São Paulo",
       "email": "contato@edoushibar.com.br",
       "emailVerified": true,
-      "email1": false
+      "email1": true,
+      "date1": "2026-10-16"
     },
     {
       "name": "Boteco Brazuka",
@@ -30232,6 +30527,7 @@
       "city": "São Paulo",
       "email": "contato@botecobrazuka.com.br",
       "emailVerified": true,
+      "invalidEmail": true,
       "email1": true,
       "date1": "2026-10-15"
     },
@@ -30242,7 +30538,8 @@
       "city": "São Paulo",
       "email": "contato@sanmarconepizzaria.com.br",
       "emailVerified": true,
-      "email1": false
+      "email1": true,
+      "date1": "2026-10-16"
     },
     {
       "name": "garoupa frutos do mar",
@@ -30251,7 +30548,8 @@
       "city": "São Paulo",
       "email": "atendimento@garoupafrutosdomar.com",
       "emailVerified": true,
-      "email1": false
+      "email1": true,
+      "date1": "2026-10-16"
     },
     {
       "name": "Kensei Sushi Bar",
@@ -30260,7 +30558,8 @@
       "city": "São Paulo",
       "email": "social@kenseisushibar.com.br",
       "emailVerified": true,
-      "email1": false
+      "email1": true,
+      "date1": "2026-10-16"
     },
     {
       "name": "EstaÃ§Ã£o Leopoldina",
@@ -30269,7 +30568,8 @@
       "city": "São Paulo",
       "email": "adm@estacaoleopoldina.com.br",
       "emailVerified": true,
-      "email1": false
+      "email1": true,
+      "date1": "2026-10-16"
     },
     {
       "name": "Tamagochi Sushi Garden",
@@ -30278,7 +30578,8 @@
       "city": "São Paulo",
       "email": "carlos@tamagochi.com.br",
       "emailVerified": true,
-      "email1": false
+      "email1": true,
+      "date1": "2026-10-16"
     },
     {
       "name": "La Revolucion Bar",
@@ -30287,6 +30588,7 @@
       "city": "São Paulo",
       "email": "contato@larevolucionbar.com.br",
       "emailVerified": true,
+      "invalidEmail": true,
       "email1": true,
       "date1": "2026-10-15"
     },
@@ -30297,7 +30599,8 @@
       "city": "São Paulo",
       "email": "atendimento@espaco724.com.br",
       "emailVerified": true,
-      "email1": false
+      "email1": true,
+      "date1": "2026-10-16"
     },
     {
       "name": "Fica a Dica Gastrobar",
@@ -30306,6 +30609,7 @@
       "city": "São Paulo",
       "email": "ola@ficaadicabar.com.br",
       "emailVerified": true,
+      "invalidEmail": true,
       "email1": true,
       "date1": "2026-10-15"
     },
@@ -30316,7 +30620,8 @@
       "city": "São Paulo",
       "email": "adm@senhortemaki.com.br",
       "emailVerified": true,
-      "email1": false
+      "email1": true,
+      "date1": "2026-10-16"
     },
     {
       "name": "Underground Gastro Bar",
@@ -30325,7 +30630,8 @@
       "city": "São Paulo",
       "email": "bbq@underbbq.com.br",
       "emailVerified": true,
-      "email1": false
+      "email1": true,
+      "date1": "2026-10-16"
     },
     {
       "name": "Quintal das Figueiras",
@@ -30334,6 +30640,7 @@
       "city": "São Paulo",
       "email": "contato@quintaldasfigueiras.com.br",
       "emailVerified": true,
+      "invalidEmail": true,
       "email1": true,
       "date1": "2026-10-15"
     },
@@ -30344,7 +30651,8 @@
       "city": "São Paulo",
       "email": "contato@asamisushi.com.br",
       "emailVerified": true,
-      "email1": false
+      "email1": true,
+      "date1": "2026-10-16"
     },
     {
       "name": "I LOVE",
@@ -30353,7 +30661,8 @@
       "city": "São Paulo",
       "email": "contato@iloveacaiburger.com",
       "emailVerified": true,
-      "email1": false
+      "email1": true,
+      "date1": "2026-10-16"
     },
     {
       "name": "Terumi Sushi MauaÌ",
@@ -30362,7 +30671,8 @@
       "city": "São Paulo",
       "email": "contato@terumisushi.com.br",
       "emailVerified": true,
-      "email1": false
+      "email1": true,
+      "date1": "2026-10-16"
     },
     {
       "name": "SoÌ Santo Bar",
@@ -30371,6 +30681,7 @@
       "city": "São Paulo",
       "email": "contato@sosantobar.com.br",
       "emailVerified": true,
+      "invalidEmail": true,
       "email1": true,
       "date1": "2026-10-15"
     },
@@ -30381,7 +30692,8 @@
       "city": "São Paulo",
       "email": "sac@maxifrango.com.br",
       "emailVerified": true,
-      "email1": false
+      "email1": true,
+      "date1": "2026-10-16"
     },
     {
       "name": "Smashân Tasty",
@@ -30390,7 +30702,8 @@
       "city": "São Paulo",
       "email": "contato@smashtasty.com",
       "emailVerified": true,
-      "email1": false
+      "email1": true,
+      "date1": "2026-10-16"
     },
     {
       "name": "Mansion XV",
@@ -30399,7 +30712,8 @@
       "city": "São Paulo",
       "email": "contato@mansionxv.com.br",
       "emailVerified": true,
-      "email1": false
+      "email1": true,
+      "date1": "2026-10-16"
     },
     {
       "name": "NANICA",
@@ -30408,7 +30722,8 @@
       "city": "São Paulo",
       "email": "administrativo@nanicabrasil.com",
       "emailVerified": true,
-      "email1": false
+      "email1": true,
+      "date1": "2026-10-16"
     },
     {
       "name": "MAIS BURGUINHO",
@@ -30417,7 +30732,8 @@
       "city": "São Paulo",
       "email": "contato@maisburguinho.com.br",
       "emailVerified": true,
-      "email1": false
+      "email1": true,
+      "date1": "2026-10-16"
     },
     {
       "name": "BurgUp Hamburgueria",
@@ -30426,7 +30742,8 @@
       "city": "São Paulo",
       "email": "contato@burgup.com.br",
       "emailVerified": true,
-      "email1": false
+      "email1": true,
+      "date1": "2026-10-16"
     },
     {
       "name": "PANTCHOÂ´S HOUSE BURGER",
@@ -30435,7 +30752,8 @@
       "city": "São Paulo",
       "email": "contato@pantchoshouse.com.br",
       "emailVerified": true,
-      "email1": false
+      "email1": true,
+      "date1": "2026-10-16"
     },
     {
       "name": "ALL_IN SMOKED TASTE",
@@ -30444,7 +30762,8 @@
       "city": "São Paulo",
       "email": "adm@allinburger.com.br",
       "emailVerified": true,
-      "email1": false
+      "email1": true,
+      "date1": "2026-10-16"
     },
     {
       "name": "SAN DO IT",
@@ -30453,7 +30772,8 @@
       "city": "São Paulo",
       "email": "contato@sandoit.com.br",
       "emailVerified": true,
-      "email1": false
+      "email1": true,
+      "date1": "2026-10-16"
     },
     {
       "name": "ESTAÃÃO",
@@ -30462,6 +30782,7 @@
       "city": "São Paulo",
       "email": "atendimento@oestacao.com.br",
       "emailVerified": true,
+      "invalidEmail": true,
       "email1": true,
       "date1": "2026-10-15"
     },
@@ -30472,7 +30793,8 @@
       "city": "São Paulo",
       "email": "atendimento@doduda.com.br",
       "emailVerified": true,
-      "email1": false
+      "email1": true,
+      "date1": "2026-10-16"
     },
     {
       "name": "Drosophyla",
@@ -30481,6 +30803,7 @@
       "city": "São Paulo",
       "email": "drosophyla@drosophyla.com",
       "emailVerified": true,
+      "invalidEmail": true,
       "email1": true,
       "date1": "2026-10-15"
     },
@@ -30491,6 +30814,7 @@
       "city": "São Paulo",
       "email": "contato@trabuca.com.br",
       "emailVerified": true,
+      "invalidEmail": true,
       "email1": true,
       "date1": "2026-10-15"
     },
@@ -30501,6 +30825,7 @@
       "city": "São Paulo",
       "email": "prainha@trabuca.com.br",
       "emailVerified": true,
+      "invalidEmail": true,
       "email1": true,
       "date1": "2026-10-15"
     },
@@ -30511,7 +30836,8 @@
       "city": "São Paulo",
       "email": "sarita.ronchi@suplicycafes.com.br",
       "emailVerified": true,
-      "email1": false
+      "email1": true,
+      "date1": "2026-10-16"
     },
     {
       "name": "JacarandaÌ",
@@ -30520,7 +30846,8 @@
       "city": "São Paulo",
       "email": "contato@grupofamiliafreitas.com.br",
       "emailVerified": true,
-      "email1": false
+      "email1": true,
+      "date1": "2026-10-16"
     },
     {
       "name": "A Selva Bar",
@@ -30529,7 +30856,8 @@
       "city": "São Paulo",
       "email": "contato@aselva.com.br",
       "emailVerified": true,
-      "email1": false
+      "email1": true,
+      "date1": "2026-10-17"
     },
     {
       "name": "Venda Dona Noêmia",
@@ -30538,7 +30866,8 @@
       "city": "São Paulo",
       "email": "contato@vendadonanoemia.com.br",
       "emailVerified": true,
-      "email1": false
+      "email1": true,
+      "date1": "2026-10-17"
     },
     {
       "name": "Gaman'T Sushi Bar",
@@ -30547,7 +30876,8 @@
       "city": "São Paulo",
       "email": "contato@gamant.com.br",
       "emailVerified": true,
-      "email1": false
+      "email1": true,
+      "date1": "2026-10-17"
     },
     {
       "name": "The Bull Pub Granja Viana",
@@ -30556,7 +30886,8 @@
       "city": "São Paulo",
       "email": "contato@thebullpubgv.com",
       "emailVerified": true,
-      "email1": false
+      "email1": true,
+      "date1": "2026-10-17"
     },
     {
       "name": "Distacado Distribuidora",
@@ -30565,7 +30896,8 @@
       "city": "São Paulo",
       "email": "contato@distacado.com.br",
       "emailVerified": true,
-      "email1": false
+      "email1": true,
+      "date1": "2026-10-17"
     },
     {
       "name": "Colibrí Distribuidora Food Service",
@@ -30574,7 +30906,8 @@
       "city": "São Paulo",
       "email": "contato@colibridistribuidora.com.br",
       "emailVerified": true,
-      "email1": false
+      "email1": true,
+      "date1": "2026-10-17"
     },
     {
       "name": "Rosso Pizza",
@@ -30583,7 +30916,8 @@
       "city": "São Paulo",
       "email": "contato@rossopizza.com.br",
       "emailVerified": true,
-      "email1": false
+      "email1": true,
+      "date1": "2026-10-17"
     },
     {
       "name": "Le Sorelle Gastronomia",
@@ -30592,26 +30926,2881 @@
       "city": "São Paulo",
       "email": "contato@lsgastronomia.com.br",
       "emailVerified": true,
+      "email1": true,
+      "date1": "2026-10-17"
+    },
+    {
+      "name": "Sampa Adega",
+      "type": "adega",
+      "neighborhood": "Vila Ema",
+      "city": "São Paulo",
+      "email": "contato@sampaadega.com.br",
+      "emailVerified": true,
+      "email1": true,
+      "date1": "2026-10-16"
+    },
+    {
+      "name": "Polar Adega",
+      "type": "adega",
+      "neighborhood": "Cidade Líder",
+      "city": "São Paulo",
+      "email": "contato@adegapolar.com.br",
+      "emailVerified": true,
+      "email1": true,
+      "date1": "2026-10-16"
+    },
+    {
+      "name": "Leges Bebidas",
+      "type": "distribuidora",
+      "neighborhood": "Brasília",
+      "city": "São Paulo",
+      "email": "contato@legesbebidas.com.br",
+      "emailVerified": true,
+      "email1": true,
+      "date1": "2026-10-16"
+    },
+    {
+      "name": "Iulia Itaim",
+      "type": "bar",
+      "neighborhood": "Itaim Bibi",
+      "city": "São Paulo",
+      "email": "reserva@iulia.com.br",
+      "emailVerified": true,
+      "email1": true,
+      "date1": "2026-10-17"
+    },
+    {
+      "name": "Gero Jardins",
+      "type": "bar",
+      "neighborhood": "Jardins",
+      "city": "São Paulo",
+      "email": "gero@fasano.com.br",
+      "emailVerified": true,
+      "email1": true,
+      "date1": "2026-10-17"
+    },
+    {
+      "name": "Restaurante Fasano",
+      "type": "bar",
+      "neighborhood": "Jardins",
+      "city": "São Paulo",
+      "email": "restaurante@fasano.com.br",
+      "emailVerified": true,
+      "email1": true,
+      "date1": "2026-10-17"
+    },
+    {
+      "name": "Ristorantino Jardins",
+      "type": "bar",
+      "neighborhood": "Jardins",
+      "city": "São Paulo",
+      "email": "contato@ristorantino.com.br",
+      "emailVerified": true,
+      "email1": true,
+      "date1": "2026-10-17"
+    },
+    {
+      "name": "Miró Gastronomia",
+      "type": "bar",
+      "neighborhood": "Jardins",
+      "city": "São Paulo",
+      "email": "reservas@mirogastronomia.com.br",
+      "emailVerified": true,
+      "email1": true,
+      "date1": "2026-10-17"
+    },
+    {
+      "name": "WZ Hotel Jardins",
+      "type": "bar",
+      "neighborhood": "Jardins",
+      "city": "São Paulo",
+      "email": "reservas@wzhoteljardins.com.br",
+      "emailVerified": true,
+      "email1": true,
+      "date1": "2026-10-17"
+    },
+    {
+      "name": "Hotel Trianon Paulista",
+      "type": "bar",
+      "neighborhood": "Jardins",
+      "city": "São Paulo",
+      "email": "reservas@hoteltrianon.com.br",
+      "emailVerified": true,
+      "email1": true,
+      "date1": "2026-10-17"
+    },
+    {
+      "name": "Meliá Jardim Europa",
+      "type": "bar",
+      "neighborhood": "Jardim Europa",
+      "city": "São Paulo",
+      "email": "melia.jardim.europa@solmelia.com",
+      "emailVerified": true,
+      "email1": true,
+      "date1": "2026-10-17"
+    },
+    {
+      "name": "Adega Bianchi",
+      "type": "bar",
+      "neighborhood": "Jardins",
+      "city": "São Paulo",
+      "email": "comercial.adegabianchi@gmail.com",
+      "emailVerified": true,
+      "email1": true,
+      "date1": "2026-10-17"
+    },
+    {
+      "name": "Comercio de Bebidas Dom Lazaro Ltda",
+      "type": "distribuidora",
+      "neighborhood": "Ferrazopolis",
+      "city": "São Paulo",
+      "email": "lazaro@distribuidoradobebidas.com.br",
+      "emailVerified": true,
+      "email1": true,
+      "date1": "2026-10-17"
+    },
+    {
+      "name": "Serra Geral Distribuidora de Bebidas LTDA",
+      "type": "distribuidora",
+      "neighborhood": "Centro",
+      "city": "São Paulo",
+      "email": "contato@serrageralbebidas.com.br",
+      "emailVerified": true,
+      "email1": true,
+      "date1": "2026-10-17"
+    },
+    {
+      "name": "Adega Tonel",
+      "type": "adega",
+      "neighborhood": "São Bernardo do Campo",
+      "city": "São Paulo",
+      "email": "contato@adedgaetonel.com.br",
+      "emailVerified": true,
+      "email1": true,
+      "date1": "2026-10-17"
+    },
+    {
+      "name": "Lounge da Villa - Adega da Villa Distribuidora",
+      "type": "distribuidora",
+      "neighborhood": "Pauliceia",
+      "city": "São Paulo",
+      "email": "loungevilla@distribuidoralavilla.com.br",
+      "emailVerified": true,
+      "email1": true,
+      "date1": "2026-10-17"
+    },
+    {
+      "name": "The Bar Coquetelaria",
+      "type": "bar",
+      "neighborhood": "",
+      "city": "São Paulo",
+      "email": "contato@thebar.br",
+      "emailVerified": true,
+      "email1": true,
+      "date1": "2026-10-17"
+    },
+    {
+      "name": "Bowlbar",
+      "type": "bar",
+      "neighborhood": "",
+      "city": "São Paulo",
+      "email": "contato@bowlbar.com.br",
+      "emailVerified": true,
+      "email1": true,
+      "date1": "2026-10-17"
+    },
+    {
+      "name": "Arapuka Bar",
+      "type": "bar",
+      "neighborhood": "",
+      "city": "São Paulo",
+      "email": "contato@arapukabar.com.br",
+      "emailVerified": true,
+      "email1": true,
+      "date1": "2026-10-17"
+    },
+    {
+      "name": "Imperio das Esfihas Jandira",
+      "type": "bar",
+      "neighborhood": "",
+      "city": "São Paulo",
+      "email": "contato@imperiodaesfihas.com.br",
+      "emailVerified": true,
+      "email1": true,
+      "date1": "2026-10-17"
+    },
+    {
+      "name": "Skye Restaurant & Bar",
+      "type": "bar",
+      "neighborhood": "",
+      "city": "São Paulo",
+      "email": "skye@hotelunique.com",
+      "emailVerified": true,
+      "email1": true,
+      "date1": "2026-10-17"
+    },
+    {
+      "name": "B.A.R. - Bar Arte Restaurante",
+      "type": "bar",
+      "neighborhood": "",
+      "city": "São Paulo",
+      "email": "contato@bararterestaurante.com.br",
+      "emailVerified": true,
+      "email1": true,
+      "date1": "2026-10-17"
+    },
+    {
+      "name": "Distribuidora Importline",
+      "type": "bar",
+      "neighborhood": "",
+      "city": "São Paulo",
+      "email": "contato@distribuidoraimportline.com.br",
+      "emailVerified": true,
+      "email1": true,
+      "date1": "2026-10-17"
+    },
+    {
+      "name": "JLX Distribuidora",
+      "type": "bar",
+      "neighborhood": "",
+      "city": "São Paulo",
+      "email": "contato@jlx.com.br",
+      "emailVerified": true,
+      "email1": true,
+      "date1": "2026-10-17"
+    },
+    {
+      "name": "Ramari Distribuidora",
+      "type": "bar",
+      "neighborhood": "",
+      "city": "São Paulo",
+      "email": "contato@ramaridistribuidora.com.br",
+      "emailVerified": true,
+      "email1": true,
+      "date1": "2026-10-17"
+    },
+    {
+      "name": "Barrigudinha Express",
+      "type": "bar",
+      "neighborhood": "",
+      "city": "São Paulo",
+      "email": "contato@barrigudinhaexpress.com.br",
+      "emailVerified": true,
+      "email1": true,
+      "date1": "2026-10-17"
+    },
+    {
+      "name": "Emporio Sagarana",
+      "type": "bar",
+      "neighborhood": "",
+      "city": "São Paulo",
+      "email": "emporiosagarana@gmail.com",
+      "emailVerified": true,
+      "email1": true,
+      "date1": "2026-10-17"
+    },
+    {
+      "name": "Adega Brasil",
+      "type": "bar",
+      "neighborhood": "",
+      "city": "São Paulo",
+      "email": "ecommerce@adegabrasil.com.br",
+      "emailVerified": true,
+      "email1": true,
+      "date1": "2026-10-17"
+    },
+    {
+      "type": "bar",
+      "neighborhood": "",
+      "city": "São Paulo",
+      "email": "adm.vendas@maisdistribuidoraalimentos.com.br",
+      "emailVerified": true,
+      "email1": false
+    },
+    {
+      "name": "00 Sao Paulo",
+      "type": "balada",
+      "neighborhood": "Cerqueira Cesar",
+      "city": "São Paulo",
+      "email": "reserva@00saopaulo.com.br",
+      "emailVerified": true,
+      "email1": true,
+      "date1": "2026-10-17"
+    },
+    {
+      "name": "Havana Club",
+      "type": "balada",
+      "neighborhood": "Cerqueira Cesar",
+      "city": "São Paulo",
+      "email": "havana.club@renaissancehotels.com",
+      "emailVerified": true,
+      "email1": true,
+      "date1": "2026-10-17"
+    },
+    {
+      "name": "Valhala Dance House",
+      "type": "balada",
+      "neighborhood": "Consolacao",
+      "city": "São Paulo",
+      "email": "valhala@valhala.com.br",
+      "emailVerified": true,
+      "email1": true,
+      "date1": "2026-10-17"
+    },
+    {
+      "name": "Casa 92",
+      "type": "balada",
+      "neighborhood": "Pinheiros",
+      "city": "São Paulo",
+      "email": "casa92@casa92.com.br",
+      "emailVerified": true,
+      "email1": true,
+      "date1": "2026-10-17"
+    },
+    {
+      "name": "Koo Club",
+      "type": "balada",
+      "neighborhood": "Pinheiros",
+      "city": "São Paulo",
+      "email": "contato@kooclub.com.br",
+      "emailVerified": true,
+      "email1": true,
+      "date1": "2026-10-17"
+    },
+    {
+      "name": "Bar Secreto",
+      "type": "balada",
+      "neighborhood": "Pinheiros",
+      "city": "São Paulo",
+      "email": "infos@barsecreto.com.br",
+      "emailVerified": true,
+      "email1": true,
+      "date1": "2026-10-17"
+    },
+    {
+      "name": "OFFSET",
+      "type": "balada",
+      "neighborhood": "Pinheiros",
+      "city": "São Paulo",
+      "email": "marketing@espacooffset.com.br",
+      "emailVerified": true,
+      "email1": true,
+      "date1": "2026-10-17"
+    },
+    {
+      "name": "Chess Club",
+      "type": "balada",
+      "neighborhood": "Campo Belo",
+      "city": "São Paulo",
+      "email": "listachess@yahoo.com.br",
+      "emailVerified": true,
+      "email1": true,
+      "date1": "2026-10-17"
+    },
+    {
+      "name": "Estacao Campo Belo",
+      "type": "balada",
+      "neighborhood": "Campo Belo",
+      "city": "São Paulo",
+      "email": "contato@estacaocampobelo.com.br",
+      "emailVerified": true,
+      "email1": true,
+      "date1": "2026-10-17"
+    },
+    {
+      "name": "Tropical Dance",
+      "type": "balada",
+      "neighborhood": "Pinheiros",
+      "city": "São Paulo",
+      "email": "contato@tropicaldancepinheiros.com.br",
+      "emailVerified": true,
+      "email1": true,
+      "date1": "2026-10-17"
+    },
+    {
+      "name": "MyCookie Fabricante de Biscoitos Amanteigados em São Paulo",
+      "type": "fabrica_biscoitos",
+      "neighborhood": "",
+      "city": "São Paulo",
+      "email": "contato@mycookie.com.br",
+      "emailVerified": true,
+      "email1": false
+    },
+    {
+      "name": "Real BiscoitosReal Biscoitos",
+      "type": "fabrica_biscoitos",
+      "neighborhood": "",
+      "city": "São Paulo",
+      "email": "sac@realbiscoitos.com.br",
+      "emailVerified": true,
+      "email1": false
+    },
+    {
+      "name": "Iceteck Soluções em Congelamento e Resfriamento de Alimentos",
+      "type": "industria_panificacao",
+      "neighborhood": "",
+      "city": "São Paulo",
+      "email": "contato@iceteck.com.br",
+      "emailVerified": true,
+      "email1": false
+    },
+    {
+      "name": "Tropical Sorvetes",
+      "type": "fabrica_alimentos",
+      "neighborhood": "",
+      "city": "São Paulo",
+      "email": "contato@tropicalsorvetes.com.br",
+      "emailVerified": true,
+      "email1": false
+    },
+    {
+      "name": "Bella Terra Alimentos (Polpas e Sucos Congelados)",
+      "type": "industria_sucos",
+      "neighborhood": "",
+      "city": "Dracena",
+      "email": "contato@bellaterra.ind.br",
+      "emailVerified": true,
+      "email1": false
+    },
+    {
+      "name": "Cookie do Boleta (Boleta Indústria de Alimentos)",
+      "type": "confeitaria_industrial",
+      "neighborhood": "Batel",
+      "city": "Guarapuava",
+      "email": "contato@cookiedoboleta.com.br",
+      "emailVerified": true,
+      "email1": false
+    },
+    {
+      "name": "Bombons Lalka Industrial",
+      "type": "confeitaria_industrial",
+      "neighborhood": "",
+      "city": "Belo Horizonte",
+      "email": "contato@lalka.com.br",
+      "emailVerified": true,
+      "email1": false
+    },
+    {
+      "name": "Bread King Indústria de Panificação (Pães, Doces e Salgados Super Congelados)",
+      "type": "industria_panificacao",
+      "neighborhood": "",
+      "city": "Porto Belo",
+      "email": "breadking@breadking.com.br",
+      "emailVerified": true,
+      "email1": false
+    },
+    {
+      "name": "Bristot Alimentos",
+      "type": "industria_sucos",
+      "neighborhood": "",
+      "city": "Sombrio",
+      "email": "contato@bristot.com.br",
+      "emailVerified": true,
+      "email1": false
+    },
+    {
+      "name": "Cervejaria Cogumelo",
+      "type": "industria_bebidas",
+      "neighborhood": "",
+      "city": "Campinas",
+      "email": "fale@cervejariacogumelo.com.br",
+      "emailVerified": true,
+      "email1": false
+    },
+    {
+      "name": "Cervejaria Complô",
+      "type": "cervejaria",
+      "neighborhood": "",
+      "city": "Jambeiro",
+      "email": "contato@cervejariacomplo.com.br",
+      "emailVerified": true,
+      "email1": false
+    },
+    {
+      "name": "Cervejaria Dado Bier",
+      "type": "cervejaria",
+      "neighborhood": "",
+      "city": "São Paulo",
+      "email": "dadobier@dadobier.com.br",
+      "emailVerified": true,
+      "email1": false
+    },
+    {
+      "name": "Cervejaria Pontal",
+      "type": "microcervejaria",
+      "neighborhood": "",
+      "city": "Nova Friburgo",
+      "email": "contato@cervejariapontal.com.br",
+      "emailVerified": true,
+      "email1": false
+    },
+    {
+      "name": "Cervejaria RT166",
+      "type": "cervejaria",
+      "neighborhood": "",
+      "city": "Itapetininga",
+      "email": "contato@rt166cervejaria.com.br",
+      "emailVerified": true,
+      "email1": false
+    },
+    {
+      "name": "Cervejaria UNIKA Ltda",
+      "type": "microcervejaria",
+      "neighborhood": "",
+      "city": "Rancho Queimado",
+      "email": "contato@cervejariaunika.com.br",
+      "emailVerified": true,
+      "email1": false
+    },
+    {
+      "name": "CICAJU (Grupo Cione)",
+      "type": "industria_bebidas",
+      "neighborhood": "",
+      "city": "Fortaleza",
+      "email": "contato@cione.com.br",
+      "emailVerified": true,
+      "email1": false
+    },
+    {
+      "name": "Confeitaria Doma",
+      "type": "confeitaria_industrial",
+      "neighborhood": "",
+      "city": "São Paulo",
+      "email": "domaclientes@gmail.com",
+      "emailVerified": true,
+      "email1": false
+    },
+    {
+      "name": "Cruls Cervejaria Artesanal",
+      "type": "cervejaria",
+      "neighborhood": "",
+      "city": "Brasília",
+      "email": "sac@crulscervejaria.com.br",
+      "emailVerified": true,
+      "email1": false
+    },
+    {
+      "name": "Didius Indústria de Pães e Lanches",
+      "type": "industria_panificacao",
+      "neighborhood": "",
+      "city": "São José dos Pinhais",
+      "email": "vendas@didius.com.br",
+      "emailVerified": true,
+      "email1": false
+    },
+    {
+      "name": "Dortmund Bier Cerveja e Chopp Artesanal",
+      "type": "cervejaria",
+      "neighborhood": "",
+      "city": "Serra Negra",
+      "email": "cerveja@dortmund.com.br",
+      "emailVerified": true,
+      "email1": false
+    },
+    {
+      "name": "Else Beer",
+      "type": "cervejaria",
+      "neighborhood": "",
+      "city": "Viana",
+      "email": "industrial@cervejariaelse.com.br",
+      "emailVerified": true,
+      "email1": false
+    },
+    {
+      "name": "Flavour Mix Indústria de Sucos e Polpas",
+      "type": "industria_sucos",
+      "neighborhood": "",
+      "city": "Rio Claro",
+      "email": "flavourmix@flavourmix.com.br",
+      "emailVerified": true,
+      "email1": false
+    },
+    {
+      "name": "Frutã Indústria de Polpas de Frutas",
+      "type": "industria_sucos",
+      "neighborhood": "",
+      "city": "Jaguaribe",
+      "email": "contato@polpasefrutas.com.br",
+      "emailVerified": true,
+      "email1": false
+    },
+    {
+      "name": "GlobalFruit Indústria e Comércio",
+      "type": "industria_bebidas",
+      "neighborhood": "",
+      "city": "Visconde do Rio Branco",
+      "email": "contato@globalfruit.com.br",
+      "emailVerified": true,
+      "email1": false
+    },
+    {
+      "name": "Kmais Alimentos Indústria de Polpas e Sucos de Frutas",
+      "type": "industria_sucos",
+      "neighborhood": "",
+      "city": "Fernando Prestes",
+      "email": "comercial@kmaisalimentos.com.br",
+      "emailVerified": true,
+      "email1": false
+    },
+    {
+      "name": "Kremer Cervejaria",
+      "type": "cervejaria",
+      "neighborhood": "",
+      "city": "Morungaba",
+      "email": "contato@choppkremer.com.br",
+      "emailVerified": true,
+      "email1": false
+    },
+    {
+      "name": "Laciella Chocolates (Fábrica de Chocolates Artesanais)",
+      "type": "fabrica_alimentos",
+      "neighborhood": "",
+      "city": "Capivari",
+      "email": "sac@laciella.com.br",
+      "emailVerified": true,
+      "email1": false
+    },
+    {
+      "name": "Naturasuc Indústria e Comércio",
+      "type": "industria_bebidas",
+      "neighborhood": "",
+      "city": "Farroupilha",
+      "email": "naturasuc@naturasuc.com.br",
+      "emailVerified": true,
+      "email1": false
+    },
+    {
+      "name": "NewAge Indústria de Bebidas",
+      "type": "fabrica_bebidas",
+      "neighborhood": "",
+      "city": "Leme",
+      "email": "comercial@newagebebidas.com.br",
+      "emailVerified": true,
+      "email1": false
+    },
+    {
+      "name": "Nova Esperança Panificadora",
+      "type": "industria_panificacao",
+      "neighborhood": "",
+      "city": "São José dos Campos",
+      "email": "padarianovaesperanca@gmail.com",
+      "emailVerified": true,
+      "email1": false
+    },
+    {
+      "name": "Nutrin Fruity",
+      "type": "industria_sucos",
+      "neighborhood": "",
+      "city": "Castanhal",
+      "email": "contato@nutrinfruity.com.br",
+      "emailVerified": true,
+      "email1": false
+    },
+    {
+      "name": "Olímpia Cervejaria (Olimpiabier Microcervejaria Ltda)",
+      "type": "microcervejaria",
+      "neighborhood": "",
+      "city": "Olímpia",
+      "email": "contato@olimpiacervejaria.com.br",
+      "emailVerified": true,
+      "email1": false
+    },
+    {
+      "name": "Oura Polpas (Ouraçaí)",
+      "type": "industria_sucos",
+      "neighborhood": "",
+      "city": "Castanhal",
+      "email": "comercial@ourapolpas.com.br",
+      "emailVerified": true,
+      "email1": false
+    },
+    {
+      "name": "Padaria Confeitaria Brasil (Indústria de Congelados Brasil)",
+      "type": "industria_panificacao",
+      "neighborhood": "",
+      "city": "Novo Hamburgo",
+      "email": "contato@padariabrasil.com.br",
+      "emailVerified": true,
+      "email1": false
+    },
+    {
+      "name": "Padaria Paulista (Panificação e Confeitaria desde 1986)",
+      "type": "padaria",
+      "neighborhood": "",
+      "city": "Franca",
+      "email": "contato@paulistapanificadora.com.br",
+      "emailVerified": true,
+      "invalidEmail": true,
+      "email1": false
+    },
+    {
+      "name": "Petyan Indústria de Alimentos (Biscoitos e Massas)",
+      "type": "fabrica_alimentos",
+      "neighborhood": "",
+      "city": "Jequié",
+      "email": "falecom@petyan.com.br",
+      "emailVerified": true,
+      "email1": false
+    },
+    {
+      "name": "Polpas Curumim (Amazonas Indústria e Comércio)",
+      "type": "industria_sucos",
+      "neighborhood": "",
+      "city": "Manaus",
+      "email": "contato@polpascurumim.com.br",
+      "emailVerified": true,
+      "email1": false
+    },
+    {
+      "name": "Pomar do Brasil Indústria e Comércio de Alimentos",
+      "type": "industria_sucos",
+      "neighborhood": "",
+      "city": "Aracaju",
+      "email": "contato@pomardobrasil.com.br",
+      "emailVerified": true,
+      "email1": false
+    },
+    {
+      "name": "Prodooze Insumos Cervejeiros",
+      "type": "distribuidora_bebidas",
+      "neighborhood": "",
+      "city": "Mogi das Cruzes",
+      "email": "vendas@prodooze.com.br",
+      "emailVerified": true,
+      "invalidEmail": true,
+      "email1": false
+    },
+    {
+      "name": "Rocky Brewing Cerveja Artesanal Caiçara",
+      "type": "microcervejaria",
+      "neighborhood": "",
+      "city": "Praia Grande",
+      "email": "contato@rockybrewing.com",
+      "emailVerified": true,
+      "email1": false
+    },
+    {
+      "name": "Sucobase",
+      "type": "industria_bebidas",
+      "neighborhood": "",
+      "city": "Campinas",
+      "email": "contato@sucobase.com.br",
+      "emailVerified": true,
+      "email1": false
+    },
+    {
+      "name": "Suctec Sucos Concentrados",
+      "type": "industria_sucos",
+      "neighborhood": "",
+      "city": "Piracicaba",
+      "email": "suctec@suctec.com.br",
+      "emailVerified": true,
+      "email1": false
+    },
+    {
+      "name": "TexBeer Cervejaria Artesanal",
+      "type": "cervejaria",
+      "neighborhood": "",
+      "city": "São Paulo",
+      "email": "contato@texbeer.com.br",
+      "emailVerified": true,
+      "email1": false
+    },
+    {
+      "name": "Via Néctare (GoldX Alimentos)",
+      "type": "industria_bebidas",
+      "neighborhood": "Parque Industrial",
+      "city": "Taquaritinga",
+      "email": "contactus@vianectare.com.br",
+      "emailVerified": true,
+      "email1": false
+    },
+    {
+      "name": "WE Consultoria",
+      "type": "distribuidora_bebidas",
+      "neighborhood": "",
+      "city": "Porto Alegre",
+      "email": "sac@weconsultoria.com.br",
+      "emailVerified": true,
+      "invalidEmail": true,
+      "email1": false
+    },
+    {
+      "name": "Zanlorenzi Indústria de Bebidas (Sucos e Chás Campo Largo)",
+      "type": "industria_bebidas",
+      "neighborhood": "",
+      "city": "Campo Largo",
+      "email": "contato@zanlorenzi.com.br",
+      "emailVerified": true,
+      "email1": false
+    },
+    {
+      "name": "Biscoitos Zagonel",
+      "type": "fabrica_biscoitos",
+      "neighborhood": "",
+      "city": "Portão",
+      "email": "contato@biscoitoszagonel.com.br",
+      "emailVerified": true,
+      "email1": false
+    },
+    {
+      "name": "Brasil Massas (Coxinha Brasil)",
+      "type": "fabrica_alimentos",
+      "neighborhood": "São Miguel Paulista",
+      "city": "São Paulo",
+      "email": "contato@brasilmassas.com.br",
+      "emailVerified": true,
+      "email1": false
+    },
+    {
+      "name": "Biscoitos Zezé",
+      "type": "fabrica_biscoitos",
+      "neighborhood": "Areal",
+      "city": "Pelotas",
+      "email": "contato@zeze.com.br",
+      "emailVerified": true,
+      "email1": false
+    },
+    {
+      "name": "Contrigo Panificação",
+      "type": "industria_panificacao",
+      "neighborhood": "Ceilândia",
+      "city": "Brasília",
+      "email": "contato@industriacontrigo.com.br",
+      "emailVerified": true,
+      "email1": false
+    },
+    {
+      "name": "Produtos Alimentícios Sankio",
+      "type": "fabrica_biscoitos",
+      "neighborhood": "Saúde",
+      "city": "São Paulo",
+      "email": "contato@sankio.com.br",
+      "emailVerified": true,
+      "email1": false
+    },
+    {
+      "name": "Sabor Mineiro Biscoitos",
+      "type": "fabrica_biscoitos",
+      "neighborhood": "Jd. do Trevo",
+      "city": "Andradas",
+      "email": "contato@biscoitossabormineiro.com.br",
+      "emailVerified": true,
+      "email1": false
+    },
+    {
+      "name": "Sol Bebidas",
+      "type": "fabrica_bebidas",
+      "neighborhood": "",
+      "city": "Senador Canedo",
+      "email": "contato@solbebidas.com.br",
+      "emailVerified": true,
+      "email1": false
+    },
+    {
+      "name": "Fruki Bebidas S.A.",
+      "type": "industria_bebidas",
+      "neighborhood": "",
+      "city": "Lajeado",
+      "email": "contato@fruki.com.br",
+      "emailVerified": true,
+      "email1": false
+    },
+    {
+      "name": "Indústria de Bebidas Risso",
+      "type": "fabrica_bebidas",
+      "neighborhood": "",
+      "city": "Mesquita",
+      "email": "contato@bebidasrisso.com.br",
+      "emailVerified": true,
+      "email1": false
+    },
+    {
+      "name": "Santamate (Terceirização de Bebidas)",
+      "type": "fabrica_bebidas",
+      "neighborhood": "Passo das Tropas",
+      "city": "Santa Maria",
+      "email": "contato@santamate.com.br",
+      "emailVerified": true,
+      "email1": false
+    },
+    {
+      "name": "Refrigerantes Devito",
+      "type": "fabrica_bebidas",
+      "neighborhood": "Agudo Romão",
+      "city": "Catanduva",
+      "email": "contato@devito.com.br",
+      "emailVerified": true,
+      "email1": false
+    },
+    {
+      "name": "Daniel Bebidas",
+      "type": "distribuidora_bebidas",
+      "neighborhood": "Jardim Maria de Fátima",
+      "city": "Várzea Paulista",
+      "email": "contato@danielbebidas.com.br",
+      "emailVerified": true,
+      "invalidEmail": true,
+      "email1": false
+    },
+    {
+      "name": "Bivolt Energy Drink",
+      "type": "industria_bebidas",
+      "neighborhood": "Ferradas",
+      "city": "Itabuna",
+      "email": "contato@bivolt.com.br",
+      "emailVerified": true,
+      "email1": false
+    },
+    {
+      "name": "Cervejaria Prisma",
+      "type": "microcervejaria",
+      "neighborhood": "Figueira Branca",
+      "city": "Campo Limpo Paulista",
+      "email": "contato@cervejariaprisma.com.br",
+      "emailVerified": true,
+      "email1": false
+    },
+    {
+      "name": "Nineties Bier",
+      "type": "microcervejaria",
+      "neighborhood": "",
+      "city": "Vinhedo",
+      "email": "contato@ninetiesbier.com.br",
+      "emailVerified": true,
+      "email1": false
+    },
+    {
+      "name": "Festera Cervejaria",
+      "type": "microcervejaria",
+      "neighborhood": "Parque Industrial I",
+      "city": "Ubiratã",
+      "email": "contato@cervejariafestera.com.br",
+      "emailVerified": true,
+      "email1": false
+    },
+    {
+      "name": "Marés Cervejaria Artesanal",
+      "type": "microcervejaria",
+      "neighborhood": "Jd. Werner Plaas",
+      "city": "Americana",
+      "email": "contato@cervejariamares.com.br",
+      "emailVerified": true,
+      "email1": false
+    },
+    {
+      "name": "Cervejaria Sarapó",
+      "type": "microcervejaria",
+      "neighborhood": "",
+      "city": "Novo Airão",
+      "email": "contato@cervejariasarapo.com",
+      "emailVerified": true,
+      "email1": false
+    },
+    {
+      "name": "Cervejaria Escafandrista",
+      "type": "microcervejaria",
+      "neighborhood": "",
+      "city": "São Paulo",
+      "email": "contato@cervejariaescafandrista.com.br",
+      "emailVerified": true,
+      "email1": false
+    },
+    {
+      "name": "Cervejaria Vitruviana (Seven Cervejaria)",
+      "type": "microcervejaria",
+      "neighborhood": "Centro",
+      "city": "Ibaté",
+      "email": "contato@cervejariavitruviana.com.br",
+      "emailVerified": true,
+      "email1": false
+    },
+    {
+      "name": "Indústria K&K Alimentos",
+      "type": "fabrica_biscoitos",
+      "neighborhood": "",
+      "city": "São João",
+      "email": "contato@industriakek.com.br",
+      "emailVerified": true,
+      "email1": false
+    },
+    {
+      "name": "Mana Bolos",
+      "type": "confeitaria",
+      "neighborhood": "Derby",
+      "city": "Recife",
+      "email": "contato@manabolos.com.br",
+      "emailVerified": true,
+      "email1": false
+    },
+    {
+      "name": "Invento Chocolates",
+      "type": "fabrica_alimentos",
+      "neighborhood": "",
+      "city": "Florianópolis",
+      "email": "contato@inventochocolates.com.br",
+      "emailVerified": true,
+      "email1": false
+    },
+    {
+      "name": "Balas Doces INDIA",
+      "type": "fabrica_alimentos",
+      "neighborhood": "",
+      "city": "Jacinto Machado",
+      "email": "contato@docesindia.com.br",
+      "emailVerified": true,
+      "email1": false
+    },
+    {
+      "name": "Chocolate do Rei",
+      "type": "fabrica_alimentos",
+      "neighborhood": "",
+      "city": "São João del Rei",
+      "email": "contato@chocolatedorei.com.br",
+      "emailVerified": true,
+      "email1": false
+    },
+    {
+      "name": "IBC Cacau (Indústria Brasileira de Cacau)",
+      "type": "fabrica_alimentos",
+      "neighborhood": "",
+      "city": "Rio das Pedras",
+      "email": "contato@ibcacau.com.br",
+      "emailVerified": true,
+      "email1": false
+    },
+    {
+      "name": "GranKakao Chocolates (Indústria Brasileira de Chocolates)",
+      "type": "fabrica_alimentos",
+      "neighborhood": "Área Rural",
+      "city": "Ipiaú",
+      "email": "contato@grankakao.com.br",
+      "emailVerified": true,
+      "email1": false
+    },
+    {
+      "name": "Alex Pães",
+      "type": "industria_panificacao",
+      "neighborhood": "Parque Cisper",
+      "city": "São Paulo",
+      "email": "contato@alexpaes.com.br",
+      "emailVerified": true,
+      "email1": false
+    },
+    {
+      "name": "BR Alimentos Congelados",
+      "type": "industria_panificacao",
+      "neighborhood": "Vila Paris",
+      "city": "Contagem",
+      "email": "contato@bralimentos.com.br",
+      "emailVerified": true,
+      "email1": false
+    },
+    {
+      "name": "Puma Alimentos Congelados",
+      "type": "industria_panificacao",
+      "neighborhood": "Centro",
+      "city": "Campo Grande",
+      "email": "contato@pumaalimentos.com.br",
+      "emailVerified": true,
+      "email1": false
+    },
+    {
+      "name": "KMS Atacadista",
+      "type": "atacadista",
+      "neighborhood": "Polo Petroquímico",
+      "city": "Camaçari",
+      "email": "contato@kmsatacadista.com.br",
+      "emailVerified": true,
+      "email1": true,
+      "date1": "2026-10-17"
+    },
+    {
+      "name": "Ferreira Atacado",
+      "type": "atacadista",
+      "neighborhood": "Jardim Leste",
+      "city": "Wenceslau Braz",
+      "email": "contato@ferreiraatacado.com.br",
+      "emailVerified": true,
+      "email1": true,
+      "date1": "2026-10-17"
+    },
+    {
+      "name": "Atibahia (Casa do Norte)",
+      "type": "atacadista",
+      "neighborhood": "Alvinópolis",
+      "city": "Atibaia",
+      "email": "contato@atibahia.com.br",
+      "emailVerified": true,
+      "email1": true,
+      "date1": "2026-10-17"
+    },
+    {
+      "name": "Atacadão Lacerda",
+      "type": "atacadista",
+      "neighborhood": "",
+      "city": "São João",
+      "email": "contato@atacadaolacerda.com.br",
+      "emailVerified": true,
+      "email1": true,
+      "date1": "2026-10-17"
+    },
+    {
+      "name": "Alambique São João",
+      "type": "destilaria",
+      "neighborhood": "Zona Rural",
+      "city": "Aquidauana",
+      "email": "contato@alambiquesaojoao.com.br",
+      "emailVerified": true,
+      "email1": false
+    },
+    {
+      "name": "Destilaria Cachoeira",
+      "type": "destilaria",
+      "neighborhood": "Zona Rural",
+      "city": "Tupaciguara",
+      "email": "contato@destilariacachoeira.com.br",
+      "emailVerified": true,
+      "email1": false
+    },
+    {
+      "name": "Cachaça Werneck",
+      "type": "destilaria",
+      "neighborhood": "",
+      "city": "Rio das Flores",
+      "email": "contato@cachacawerneck.com.br",
+      "emailVerified": true,
+      "email1": false
+    },
+    {
+      "name": "Cachaça Caipira (Alambique Caipira)",
+      "type": "destilaria",
+      "neighborhood": "São Dalmácio",
+      "city": "São Roque do Canaã",
+      "email": "contato@cachacacaipira.com",
+      "emailVerified": true,
+      "email1": false
+    },
+    {
+      "name": "Destilaria Pedro Duim (Cachaça Pereirinha)",
+      "type": "destilaria",
+      "neighborhood": "Fazenda da Lage",
+      "city": "Mar de Espanha",
+      "email": "contato@cachacapereirinha.com",
+      "emailVerified": true,
+      "email1": false
+    },
+    {
+      "name": "Alambique DUVALE",
+      "type": "destilaria",
+      "neighborhood": "Vale das Videiras",
+      "city": "Paty do Alferes",
+      "email": "contato@alambiqueduvale.com.br",
+      "emailVerified": true,
+      "email1": false
+    },
+    {
+      "name": "Cachaça Coqueiro",
+      "type": "destilaria",
+      "neighborhood": "",
+      "city": "São Paulo",
+      "email": "contato@cachacacoqueiro.com.br",
+      "emailVerified": true,
+      "email1": false
+    },
+    {
+      "name": "Cachaças Engenho da Cana",
+      "type": "destilaria",
+      "neighborhood": "Milionários",
+      "city": "Belo Horizonte",
+      "email": "contato@engenhodacana.com.br",
+      "emailVerified": true,
+      "email1": false
+    },
+    {
+      "name": "Kidelícia Sorvetes",
+      "type": "fabrica_alimentos",
+      "neighborhood": "",
+      "city": "São Paulo",
+      "email": "contatos@sorveteskidelicia.com.br",
+      "emailVerified": true,
+      "email1": false
+    },
+    {
+      "name": "FrutBiss Sorvetes",
+      "type": "fabrica_alimentos",
+      "neighborhood": "Distrito Industrial I",
+      "city": "Maracanaú",
+      "email": "contato@frutbiss.com.br",
+      "emailVerified": true,
+      "email1": false
+    },
+    {
+      "name": "Sr. Sorvete",
+      "type": "fabrica_alimentos",
+      "neighborhood": "Distrito Industrial II",
+      "city": "Itápolis",
+      "email": "contato@srsorvete.com",
+      "emailVerified": true,
+      "email1": false
+    },
+    {
+      "name": "Tempero & Cia (SOST)",
+      "type": "fabrica_alimentos",
+      "neighborhood": "Recreio Ipitanga",
+      "city": "Lauro de Freitas",
+      "email": "contato@sost.com.br",
+      "emailVerified": true,
+      "email1": false
+    },
+    {
+      "name": "J&J Condimentos e Especiarias",
+      "type": "fabrica_alimentos",
+      "neighborhood": "Cidade Industrial Satélite",
+      "city": "Guarulhos",
+      "email": "comercial@jjcondimentos.com.br",
+      "emailVerified": true,
+      "email1": false
+    },
+    {
+      "name": "JP Condimentos (Joana Alimentos)",
+      "type": "fabrica_alimentos",
+      "neighborhood": "",
+      "city": "Cruzeiro do Sul",
+      "email": "contato@jpcondimentos.com.br",
+      "emailVerified": true,
+      "email1": false
+    },
+    {
+      "name": "Saborella Alimentos",
+      "type": "fabrica_alimentos",
+      "neighborhood": "St. Pedro Ludovico",
+      "city": "Goiânia",
+      "email": "contato@saborella.com.br",
+      "emailVerified": true,
+      "email1": false
+    },
+    {
+      "name": "Conditto Casa Mineira",
+      "type": "fabrica_alimentos",
+      "neighborhood": "",
+      "city": "Viçosa",
+      "email": "contato@conditto.com.br",
+      "emailVerified": true,
+      "email1": false
+    },
+    {
+      "name": "Laticínios Nosso (Queijos Millano)",
+      "type": "fabrica_alimentos",
+      "neighborhood": "Zona Rural",
+      "city": "Antônio Carlos",
+      "email": "contato@queijosmillano.com.br",
+      "emailVerified": true,
+      "email1": false
+    },
+    {
+      "name": "Centro Oeste Laticínios",
+      "type": "fabrica_alimentos",
+      "neighborhood": "Zona Rural",
+      "city": "Piranhas",
+      "email": "contato@col.com.br",
+      "emailVerified": true,
+      "email1": false
+    },
+    {
+      "name": "Capim Branco Alimentos",
+      "type": "fabrica_alimentos",
+      "neighborhood": "Araçás",
+      "city": "Capim Branco",
+      "email": "comercial@capimbrancoalimentos.com.br",
+      "emailVerified": true,
+      "email1": false
+    },
+    {
+      "name": "Gvinah",
+      "type": "fabrica_alimentos",
+      "neighborhood": "Bom Retiro",
+      "city": "São Paulo",
+      "email": "marketing@gvinah.com.br",
+      "emailVerified": true,
+      "email1": false
+    },
+    {
+      "name": "Trevo Lácteos",
+      "type": "fabrica_alimentos",
+      "neighborhood": "Zona Rural",
+      "city": "Sete Lagoas",
+      "email": "faleconosco@trevolacteos.com.br",
+      "emailVerified": true,
+      "email1": false
+    },
+    {
+      "name": "Café Mesmo (CITA)",
+      "type": "fabrica_alimentos",
+      "neighborhood": "Tiradentes",
+      "city": "Tupaciguara",
+      "email": "contato@cafemesmo.com.br",
+      "emailVerified": true,
+      "email1": false
+    },
+    {
+      "name": "Baden Torrefação de Cafés Especiais",
+      "type": "fabrica_alimentos",
+      "neighborhood": "Azenha",
+      "city": "Porto Alegre",
+      "email": "contato@badentorrefacao.com.br",
+      "emailVerified": true,
+      "email1": false
+    },
+    {
+      "name": "Bravo Café Torrefação",
+      "type": "fabrica_alimentos",
+      "neighborhood": "Pinheiros",
+      "city": "São Paulo",
+      "email": "contato@bravocafe.com.br",
+      "emailVerified": true,
+      "email1": false
+    },
+    {
+      "name": "Siatec Brasil",
+      "type": "fabrica_alimentos",
+      "neighborhood": "Jardim Regina",
+      "city": "Araraquara",
+      "email": "administrativo@siatecbrasil.com.br",
+      "emailVerified": true,
+      "email1": false
+    },
+    {
+      "name": "Expocacer / Torrefação Dulcerrado",
+      "type": "fabrica_alimentos",
+      "neighborhood": "Distrito Industrial",
+      "city": "Patrocínio",
+      "email": "contato@expocacer.com.br",
+      "emailVerified": true,
+      "email1": false
+    },
+    {
+      "name": "Grupo Agro Fonte Alta",
+      "type": "fabrica_alimentos",
+      "neighborhood": "",
+      "city": "São Paulo",
+      "email": "contato@agrofontealta.com.br",
+      "emailVerified": true,
+      "email1": false
+    },
+    {
+      "name": "Pomerode Kaffee",
+      "type": "fabrica_alimentos",
+      "neighborhood": "",
+      "city": "Pomerode",
+      "email": "contato@pomerodekaffee.com.br",
+      "emailVerified": true,
+      "email1": false
+    },
+    {
+      "name": "Point Chips",
+      "type": "fabrica_alimentos",
+      "neighborhood": "",
+      "city": "Bragança Paulista",
+      "email": "contato@pointchips.com.br",
+      "emailVerified": true,
+      "email1": false
+    },
+    {
+      "name": "MDA Alimentos",
+      "type": "fabrica_alimentos",
+      "neighborhood": "Distrito Industrial",
+      "city": "Cachoeirinha",
+      "email": "contato@mdaalimentos.com.br",
+      "emailVerified": true,
+      "email1": false
+    },
+    {
+      "name": "Miliopã",
+      "type": "fabrica_alimentos",
+      "neighborhood": "Xaxim",
+      "city": "Curitiba",
+      "email": "miliopavicopa@gmail.com",
+      "emailVerified": true,
+      "email1": false
+    },
+    {
+      "name": "Snack Foods Indústria de Alimentos",
+      "type": "fabrica_alimentos",
+      "neighborhood": "Distrito Industrial",
+      "city": "Jambeiro",
+      "email": "vendas@snackfoods.com.br",
+      "emailVerified": true,
+      "email1": false
+    },
+    {
+      "name": "Semalo",
+      "type": "fabrica_alimentos",
+      "neighborhood": "Jardim Itamaracá",
+      "city": "Campo Grande",
+      "email": "faleconosco@semalo.com.br",
+      "emailVerified": true,
+      "email1": false
+    },
+    {
+      "name": "Maxi Massas",
+      "type": "fabrica_alimentos",
+      "neighborhood": "Jardim Santa Clara",
+      "city": "Araraquara",
+      "email": "fabrica@maximassas.com.br",
+      "emailVerified": true,
+      "email1": false
+    },
+    {
+      "name": "Trindade Massas",
+      "type": "fabrica_alimentos",
+      "neighborhood": "Umbará",
+      "city": "Curitiba",
+      "email": "trindademassas@trindademassas.com.br",
+      "emailVerified": true,
+      "email1": false
+    },
+    {
+      "name": "Preparato",
+      "type": "fabrica_alimentos",
+      "neighborhood": "Água Branca",
+      "city": "São Paulo",
+      "email": "saborpreparato@gmail.com",
+      "emailVerified": true,
+      "email1": false
+    },
+    {
+      "name": "Franccini Massas Artesanais",
+      "type": "fabrica_alimentos",
+      "neighborhood": "",
+      "city": "São Paulo",
+      "email": "loja@franccini.com.br",
+      "emailVerified": true,
+      "email1": false
+    },
+    {
+      "name": "El Camino Foods",
+      "type": "fabrica_alimentos",
+      "neighborhood": "Vila Anastácio",
+      "city": "São Paulo",
+      "email": "vendas@elcaminofoods.com.br",
+      "emailVerified": true,
+      "email1": false
+    },
+    {
+      "name": "São Camilo Massas",
+      "type": "fabrica_alimentos",
+      "neighborhood": "Jardim Utinga",
+      "city": "Santo André",
+      "email": "contato.massassaocamilo@gmail.com",
+      "emailVerified": true,
+      "email1": false
+    },
+    {
+      "name": "Oleon Brasil (A. Azevedo Óleos)",
+      "type": "fabrica_alimentos",
+      "neighborhood": "Mooca",
+      "city": "São Paulo",
+      "email": "atendimento@azevedooleos.com.br",
+      "emailVerified": true,
+      "email1": false
+    },
+    {
+      "name": "Minas Oliva",
+      "type": "fabrica_alimentos",
+      "neighborhood": "",
+      "city": "Maria da Fé",
+      "email": "contato@minasoliva.com.br",
+      "emailVerified": true,
+      "email1": false
+    },
+    {
+      "name": "Dekel Agroindústria",
+      "type": "fabrica_alimentos",
+      "neighborhood": "Parque Industrial Vicente Nigro",
+      "city": "Itápolis",
+      "email": "comercial@dekel.ind.br",
+      "emailVerified": true,
+      "email1": false
+    },
+    {
+      "name": "Oil Company",
+      "type": "distribuidora_alimentos",
+      "neighborhood": "",
+      "city": "São Paulo",
+      "email": "oilcompany@oilcompany.com.br",
+      "emailVerified": true,
+      "invalidEmail": true,
+      "email1": false
+    },
+    {
+      "name": "San Lorenzo Agroindustrial",
+      "type": "fabrica_alimentos",
+      "neighborhood": "Zona Rural",
+      "city": "Britânia",
+      "email": "sanlorenzo@sanlorenzo.ind.br",
+      "emailVerified": true,
+      "email1": false
+    },
+    {
+      "name": "Azeite Hass (Americana Ind. e Com. de Óleos Vegetais)",
+      "type": "fabrica_alimentos",
+      "neighborhood": "Centro",
+      "city": "Bauru",
+      "email": "contato@azeitehass.com.br",
+      "emailVerified": true,
+      "email1": false
+    },
+    {
+      "name": "Sol das Olivas",
+      "type": "fabrica_alimentos",
+      "neighborhood": "Serra dos Rosas",
+      "city": "Encruzilhada do Sul",
+      "email": "contato@soldasolivas.com.br",
+      "emailVerified": true,
+      "email1": false
+    },
+    {
+      "name": "Da Pá Virada",
+      "type": "fabrica_alimentos",
+      "neighborhood": "",
+      "city": "São Paulo",
+      "email": "dapavirada@pavirada.com.br",
+      "emailVerified": true,
+      "email1": false
+    },
+    {
+      "name": "Gelimo do Brasil",
+      "type": "fabrica_alimentos",
+      "neighborhood": "",
+      "city": "Curitiba",
+      "email": "info@gelimo.group",
+      "emailVerified": true,
+      "email1": false
+    },
+    {
+      "name": "Arte Gelati",
+      "type": "fabrica_alimentos",
+      "neighborhood": "Vila Cordeiro",
+      "city": "São Paulo",
+      "email": "artegelati@artegelati.com.br",
+      "emailVerified": true,
+      "email1": false
+    },
+    {
+      "name": "Cremore Gelatos",
+      "type": "fabrica_alimentos",
+      "neighborhood": "Orozino Teixeira",
+      "city": "Araxá",
+      "email": "contato@cremoregelatos.com",
+      "emailVerified": true,
+      "email1": false
+    },
+    {
+      "name": "Rei dos Gelatos",
+      "type": "fabrica_alimentos",
+      "neighborhood": "",
+      "city": "Rio de Janeiro",
+      "email": "comercial@reidosgelatos.com.br",
+      "emailVerified": true,
+      "email1": false
+    },
+    {
+      "name": "Picogel Sorvetes",
+      "type": "fabrica_alimentos",
+      "neighborhood": "Centro",
+      "city": "Lagoa da Prata",
+      "email": "sorvetespicogel@gmail.com",
+      "emailVerified": true,
+      "email1": false
+    },
+    {
+      "name": "La Creme Gelato",
+      "type": "fabrica_alimentos",
+      "neighborhood": "",
+      "city": "São Paulo",
+      "email": "adm@lacremegelato.com.br",
+      "emailVerified": true,
+      "email1": false
+    },
+    {
+      "name": "Balas Mel",
+      "type": "fabrica_alimentos",
+      "neighborhood": "",
+      "city": "São Paulo",
+      "email": "contato@balasmel.com.br",
+      "emailVerified": true,
+      "email1": false
+    },
+    {
+      "name": "Sam's Balas e Pirulitos (Simas)",
+      "type": "fabrica_alimentos",
+      "neighborhood": "Zona de Expansão Urbana Sul",
+      "city": "Macaíba",
+      "email": "sac@simas.ind.br",
+      "emailVerified": true,
+      "email1": false
+    },
+    {
+      "name": "Pennacchi Indústria",
+      "type": "fabrica_alimentos",
+      "neighborhood": "",
+      "city": "São Paulo",
+      "email": "comunicacao@pennacchi.com.br",
+      "emailVerified": true,
+      "email1": false
+    },
+    {
+      "name": "Santa Fé Doces",
+      "type": "fabrica_alimentos",
+      "neighborhood": "Vila Ema",
+      "city": "São Paulo",
+      "email": "contato@docesantafe.com.br",
+      "emailVerified": true,
+      "email1": false
+    },
+    {
+      "name": "Biodog Pet",
+      "type": "fabrica_alimentos",
+      "neighborhood": "Industrial Nova Prata",
+      "city": "Sorriso",
+      "email": "falecom@biodogpet.com.br",
+      "emailVerified": true,
+      "email1": false
+    },
+    {
+      "name": "NutriCão Pet Food",
+      "type": "fabrica_alimentos",
+      "neighborhood": "Vila Brasil",
+      "city": "Birigui",
+      "email": "nutricao@nutricaopetfood.ind.br",
+      "emailVerified": true,
+      "email1": false
+    },
+    {
+      "name": "Grupo New Pet",
+      "type": "fabrica_alimentos",
+      "neighborhood": "",
+      "city": "Imbituva",
+      "email": "sac@gruponewpet.com.br",
+      "emailVerified": true,
+      "email1": false
+    },
+    {
+      "name": "PremieRpet",
+      "type": "fabrica_alimentos",
+      "neighborhood": "",
+      "city": "São Paulo",
+      "email": "contato@premierpet.com.br",
+      "emailVerified": true,
+      "email1": false
+    },
+    {
+      "name": "Farmina Brasil",
+      "type": "fabrica_alimentos",
+      "neighborhood": "Água Comprida",
+      "city": "Bragança Paulista",
+      "email": "sac@farmina.com",
+      "emailVerified": true,
+      "email1": false
+    },
+    {
+      "name": "Puro Trato (J A Teixeira Veterinária)",
+      "type": "fabrica_alimentos",
+      "neighborhood": "Distrito Industrial",
+      "city": "Santo Augusto",
+      "email": "comercialpet@purotrato.com.br",
+      "emailVerified": true,
+      "email1": false
+    },
+    {
+      "name": "Erva Mate 81 (Lila Alimentos)",
+      "type": "fabrica_alimentos",
+      "neighborhood": "Rio das Pedras - Distrito de Guará",
+      "city": "Guarapuava",
+      "email": "contato@ervamate81.com.br",
+      "emailVerified": true,
+      "email1": false
+    },
+    {
+      "name": "Yacuy Indústria de Erva-Mate",
+      "type": "fabrica_alimentos",
+      "neighborhood": "",
+      "city": "Canoinhas",
+      "email": "atendimento@yacuy.com.br",
+      "emailVerified": true,
+      "email1": false
+    },
+    {
+      "name": "Herboflora",
+      "type": "fabrica_alimentos",
+      "neighborhood": "Higienópolis",
+      "city": "São Paulo",
+      "email": "herboflora@herboflora.com.br",
+      "emailVerified": true,
+      "email1": false
+    },
+    {
+      "name": "Barão Erva Mate e Chás",
+      "type": "fabrica_alimentos",
+      "neighborhood": "Centro",
+      "city": "Barão de Cotegipe",
+      "email": "sab@baraoervamate.com.br",
+      "emailVerified": true,
+      "email1": false
+    },
+    {
+      "name": "Evomate (Dissenha)",
+      "type": "fabrica_alimentos",
+      "neighborhood": "",
+      "city": "União da Vitória",
+      "email": "evomate@evomate.com.br",
+      "emailVerified": true,
+      "email1": false
+    },
+    {
+      "name": "Merco Pão (Pão Nosso)",
+      "type": "industria_panificacao",
+      "neighborhood": "Caji",
+      "city": "Lauro de Freitas",
+      "email": "grupo.mercopao@gmail.com",
+      "emailVerified": true,
+      "email1": false
+    },
+    {
+      "name": "Iannuzzi Pães Congelados",
+      "type": "industria_panificacao",
+      "neighborhood": "Portão",
+      "city": "Atibaia",
+      "email": "iannuzzipaes@terra.com.br",
+      "emailVerified": true,
+      "email1": false
+    },
+    {
+      "name": "Puropão (Suconor)",
+      "type": "industria_panificacao",
+      "neighborhood": "",
+      "city": "João Pessoa",
+      "email": "sac@suconor.ind.br",
+      "emailVerified": true,
+      "email1": false
+    },
+    {
+      "name": "Pão & Companhia",
+      "type": "padaria",
+      "neighborhood": "",
+      "city": "Belo Horizonte",
+      "email": "faleconosco@paoecia.com.br",
+      "emailVerified": true,
+      "invalidEmail": true,
+      "email1": false
+    },
+    {
+      "name": "Bombons Finos da Amazônia",
+      "type": "fabrica_alimentos",
+      "neighborhood": "Distrito Industrial",
+      "city": "Manaus",
+      "email": "vendas@bombonsfinos.com.br",
+      "emailVerified": true,
+      "email1": false
+    },
+    {
+      "name": "Mátrika Comidas Especiais",
+      "type": "fabrica_alimentos",
+      "neighborhood": "Barra Funda",
+      "city": "São Paulo",
+      "email": "sac@mandalacomidas.com.br",
+      "emailVerified": true,
+      "email1": false
+    },
+    {
+      "name": "Facilità Food Service",
+      "type": "fabrica_alimentos",
+      "neighborhood": "",
+      "city": "Florianópolis",
+      "email": "contato@facilitafoodservice.com.br",
+      "emailVerified": true,
+      "email1": false
+    },
+    {
+      "name": "Sanna Distribuidora de Alimentos",
+      "type": "distribuidora_alimentos",
+      "neighborhood": "Parque Higienópolis",
+      "city": "Presidente Prudente",
+      "email": "contato@sannaalimentos.com.br",
+      "emailVerified": true,
+      "invalidEmail": true,
+      "email1": false
+    },
+    {
+      "name": "Liotécnica",
+      "type": "fabrica_alimentos",
+      "neighborhood": "Jardim Santa Bárbara",
+      "city": "Embu das Artes",
+      "email": "faleconosco@liotecnica.com.br",
+      "emailVerified": true,
+      "email1": false
+    },
+    {
+      "name": "Toffano",
+      "type": "fabrica_alimentos",
+      "neighborhood": "",
+      "city": "Jaú",
+      "email": "vendas@toffano.com.br",
+      "emailVerified": true,
+      "email1": false
+    },
+    {
+      "name": "Siareg Chocolates",
+      "type": "fabrica_alimentos",
+      "neighborhood": "Centro",
+      "city": "Guararema",
+      "email": "comercial@siaregchocolates.com.br",
+      "emailVerified": true,
+      "email1": false
+    },
+    {
+      "name": "Chocolates Tiquinho",
+      "type": "fabrica_alimentos",
+      "neighborhood": "Jardim Maracanã",
+      "city": "São Carlos",
+      "email": "sac@chocolatestiquinho.com.br",
+      "emailVerified": true,
+      "email1": false
+    },
+    {
+      "name": "Dumdum Chocolates",
+      "type": "fabrica_alimentos",
+      "neighborhood": "Chácaras Bela Vista",
+      "city": "Capivari",
+      "email": "sac@dumdum.com.br",
+      "emailVerified": true,
+      "email1": false
+    },
+    {
+      "name": "Ki-KaKau Chocolates",
+      "type": "fabrica_alimentos",
+      "neighborhood": "Vila São Vicente",
+      "city": "Taquarituba",
+      "email": "kikakau@kikakau.com.br",
+      "emailVerified": true,
+      "email1": false
+    },
+    {
+      "name": "Favo de Mel Chocolates",
+      "type": "fabrica_alimentos",
+      "neighborhood": "Mooca",
+      "city": "São Paulo",
+      "email": "sac@douxdoces.com.br",
+      "emailVerified": true,
+      "email1": false
+    },
+    {
+      "name": "Bedra Chocolates",
+      "type": "fabrica_alimentos",
+      "neighborhood": "São Cristóvão",
+      "city": "Rio de Janeiro",
+      "email": "bedra@bedra.com.br",
+      "emailVerified": true,
+      "email1": false
+    },
+    {
+      "name": "Mavalério",
+      "type": "fabrica_alimentos",
+      "neighborhood": "Distrito Industrial Alfredo Relo",
+      "city": "Itatiba",
+      "email": "sac@mavalerio.com.br",
+      "emailVerified": true,
+      "email1": false
+    },
+    {
+      "name": "Happy Frost",
+      "type": "fabrica_alimentos",
+      "neighborhood": "",
+      "city": "Campo Largo",
+      "email": "contato@happyfrost.com.br",
+      "emailVerified": true,
+      "email1": false
+    },
+    {
+      "name": "Alambique Guarani (Dom Bré)",
+      "type": "destilaria",
+      "neighborhood": "Três Vendas",
+      "city": "Guarani",
+      "email": "sac@alambiqueguarani.com.br",
+      "emailVerified": true,
+      "email1": false
+    },
+    {
+      "name": "Almeida Valente Alambique",
+      "type": "destilaria",
+      "neighborhood": "",
+      "city": "Artur Nogueira",
+      "email": "vendas@almeidavalente.com.br",
+      "emailVerified": true,
+      "email1": false
+    },
+    {
+      "name": "Cachaça Tellura",
+      "type": "destilaria",
+      "neighborhood": "Parque Jd. Carioca",
+      "city": "Campos dos Goytacazes",
+      "email": "comercial@tellura.com.br",
+      "emailVerified": true,
+      "email1": false
+    },
+    {
+      "name": "Capuava Cachaçaria",
+      "type": "destilaria",
+      "neighborhood": "Vila Nova",
+      "city": "Piracicaba",
+      "email": "capuava@capuava.com.br",
+      "emailVerified": true,
+      "email1": false
+    },
+    {
+      "name": "Cachaça Altarugio",
+      "type": "destilaria",
+      "neighborhood": "",
+      "city": "Ipeúna",
+      "email": "atendimento@cachacaaltarugio.com.br",
+      "emailVerified": true,
+      "email1": false
+    },
+    {
+      "name": "Cachaça Batista",
+      "type": "destilaria",
+      "neighborhood": "",
+      "city": "Sacramento",
+      "email": "contato@cachacabatista.com.br",
+      "emailVerified": true,
+      "email1": false
+    },
+    {
+      "name": "Engenho Fazenda Velha",
+      "type": "destilaria",
+      "neighborhood": "Zona de Produção Industrial II",
+      "city": "Nova Odessa",
+      "email": "cachaca@engenhofazendavelha.com.br",
+      "emailVerified": true,
+      "email1": false
+    },
+    {
+      "name": "Biscoitos Fabise",
+      "type": "fabrica_biscoitos",
+      "neighborhood": "",
+      "city": "São Paulo",
+      "email": "sac@fabise.com.br",
+      "emailVerified": true,
+      "email1": false
+    },
+    {
+      "name": "Dirvan Biscoitos",
+      "type": "fabrica_biscoitos",
+      "neighborhood": "Jardim Panorama",
+      "city": "Andradas",
+      "email": "dirvan@dirvan.com.br",
+      "emailVerified": true,
+      "email1": false
+    },
+    {
+      "name": "Anelu Biscoitos Artesanais",
+      "type": "fabrica_biscoitos",
+      "neighborhood": "Sagrada Família",
+      "city": "Caxias do Sul",
+      "email": "anelu@anelubiscoitos.com.br",
+      "emailVerified": true,
+      "email1": false
+    },
+    {
+      "name": "Juvis",
+      "type": "fabrica_biscoitos",
+      "neighborhood": "",
+      "city": "Sorocaba",
+      "email": "comercial@juvis.com.br",
+      "emailVerified": true,
+      "email1": false
+    },
+    {
+      "name": "Fábrica Coelho",
+      "type": "fabrica_alimentos",
+      "neighborhood": "Alto da Brasília",
+      "city": "Sobral",
+      "email": "falecom@fabricacoelho.com.br",
+      "emailVerified": true,
+      "email1": false
+    },
+    {
+      "name": "York Cookie",
+      "type": "fabrica_biscoitos",
+      "neighborhood": "Parque das Nações",
+      "city": "Santo André",
+      "email": "contato@yorkcookieshop.com.br",
+      "emailVerified": true,
+      "email1": false
+    },
+    {
+      "name": "Super Massas",
+      "type": "industria_panificacao",
+      "neighborhood": "",
+      "city": "Marialva",
+      "email": "comercial@supermassas.com",
+      "emailVerified": true,
+      "email1": false
+    },
+    {
+      "name": "Mab Pães Congelados",
+      "type": "industria_panificacao",
+      "neighborhood": "",
+      "city": "São Paulo",
+      "email": "atendimento@mabpaescongelados.com",
+      "emailVerified": true,
+      "email1": false
+    },
+    {
+      "name": "Valochi Sousa",
+      "type": "industria_panificacao",
+      "neighborhood": "Vila Alzira",
+      "city": "Guarulhos",
+      "email": "contato@valochisousa.com.br",
+      "emailVerified": true,
+      "email1": false
+    },
+    {
+      "name": "Pan Cristal",
+      "type": "industria_panificacao",
+      "neighborhood": "Coqueiro",
+      "city": "Surubim",
+      "email": "site@pancristal.com.br",
+      "emailVerified": true,
+      "email1": false
+    },
+    {
+      "name": "Trigo Arte",
+      "type": "industria_panificacao",
+      "neighborhood": "Frimisa",
+      "city": "Santa Luzia",
+      "email": "contato@trigoarte.com.br",
+      "emailVerified": true,
+      "email1": false
+    },
+    {
+      "name": "Serrano Congelados",
+      "type": "industria_panificacao",
+      "neighborhood": "Partenon",
+      "city": "Porto Alegre",
+      "email": "serranocongelados@gmail.com",
+      "emailVerified": true,
+      "email1": false
+    },
+    {
+      "name": "São Francisco Pães Congelados",
+      "type": "industria_panificacao",
+      "neighborhood": "Vila São Francisco",
+      "city": "São Paulo",
+      "email": "contato@paesaofrancisco.com.br",
+      "emailVerified": true,
+      "email1": false
+    },
+    {
+      "name": "Panfácil",
+      "type": "industria_panificacao",
+      "neighborhood": "",
+      "city": "São Paulo",
+      "email": "panfacil@panfacil.com.br",
+      "emailVerified": true,
+      "email1": false
+    },
+    {
+      "name": "Fat Cat Beer",
+      "type": "cervejaria",
+      "neighborhood": "Boiada",
+      "city": "Cássia dos Coqueiros",
+      "email": "vendas@fatcatbeer.com.br",
+      "emailVerified": true,
+      "email1": false
+    },
+    {
+      "name": "Locomotive Brew",
+      "type": "cervejaria",
+      "neighborhood": "",
+      "city": "Rio Negrinho",
+      "email": "contato@locomotivebrew.com.br",
+      "emailVerified": true,
+      "email1": false
+    },
+    {
+      "name": "HZB Cervejas Artesanais",
+      "type": "cervejaria",
+      "neighborhood": "São Benedito",
+      "city": "São Pedro",
+      "email": "contato@hzb.com.br",
+      "emailVerified": true,
+      "email1": false
+    },
+    {
+      "name": "GG Cervejaria",
+      "type": "cervejaria",
+      "neighborhood": "",
+      "city": "São Paulo",
+      "email": "adm@ggcervejaria.com.br",
+      "emailVerified": true,
+      "email1": false
+    },
+    {
+      "name": "Cervejaria Bamberg",
+      "type": "cervejaria",
+      "neighborhood": "",
+      "city": "São Paulo",
+      "email": "contato@cervejariabamberg.com.br",
+      "emailVerified": true,
+      "email1": false
+    },
+    {
+      "name": "Brewto's",
+      "type": "cervejaria",
+      "neighborhood": "",
+      "city": "Vargem Grande Paulista",
+      "email": "adm@brewtos.com.br",
+      "emailVerified": true,
+      "email1": false
+    },
+    {
+      "name": "Cervejaria Bierbaum",
+      "type": "cervejaria",
+      "neighborhood": "Distrito Industrial",
+      "city": "Treze Tílias",
+      "email": "loja@bierbaum.com.br",
+      "emailVerified": true,
+      "email1": false
+    },
+    {
+      "name": "Giffa Imperial Cervejaria",
+      "type": "cervejaria",
+      "neighborhood": "Vila Garcia",
+      "city": "Jundiaí",
+      "email": "contato@giffa.com.br",
+      "emailVerified": true,
+      "email1": false
+    },
+    {
+      "name": "Cervejaria Monte Crista",
+      "type": "cervejaria",
+      "neighborhood": "Monte Crista",
+      "city": "Garuva",
+      "email": "contato@cervejariamontecrista.com.br",
+      "emailVerified": true,
+      "email1": false
+    },
+    {
+      "name": "Cruls Cervejaria",
+      "type": "cervejaria",
+      "neighborhood": "",
+      "city": "São Paulo",
+      "email": "contato@crulscervejaria.com.br",
+      "emailVerified": true,
+      "email1": false
+    },
+    {
+      "name": "Mina Beer",
+      "type": "cervejaria",
+      "neighborhood": "",
+      "city": "São Paulo",
+      "email": "microcervejariaminabeer@gmail.com",
+      "emailVerified": true,
+      "email1": false
+    },
+    {
+      "name": "Vita Suco (Saborecitrus)",
+      "type": "industria_bebidas",
+      "neighborhood": "Parque Industrial",
+      "city": "Mogi Guaçu",
+      "email": "vendas@vitasuco.com.br",
+      "emailVerified": true,
+      "email1": false
+    },
+    {
+      "name": "Fruta Rica",
+      "type": "industria_bebidas",
+      "neighborhood": "Zona Rural",
+      "city": "Boa Esperança",
+      "email": "vendas@frutarica.com.br",
+      "emailVerified": true,
+      "email1": false
+    },
+    {
+      "name": "Tecnosuco Industrial",
+      "type": "industria_bebidas",
+      "neighborhood": "",
+      "city": "São Paulo",
+      "email": "contato@tecnosuco.ind.br",
+      "emailVerified": true,
+      "email1": false
+    },
+    {
+      "name": "Biosense",
+      "type": "industria_bebidas",
+      "neighborhood": "",
+      "city": "São Paulo",
+      "email": "jc@biosense.com.br",
+      "emailVerified": true,
+      "email1": false
+    },
+    {
+      "name": "Frutiverde",
+      "type": "industria_bebidas",
+      "neighborhood": "",
+      "city": "Cabo Verde",
+      "email": "vendas@frutiverdebrasil.com.br",
+      "emailVerified": true,
+      "email1": false
+    },
+    {
+      "name": "Itaueira Agroindústria",
+      "type": "industria_bebidas",
+      "neighborhood": "",
+      "city": "São Paulo",
+      "email": "scp.comercializacao@itaueira.com",
+      "emailVerified": true,
+      "email1": false
+    },
+    {
+      "name": "Idayo Sorvetes",
+      "type": "fabrica_alimentos",
+      "neighborhood": "",
+      "city": "Jales",
+      "email": "contato@idayo.com.br",
+      "emailVerified": true,
+      "email1": false
+    },
+    {
+      "name": "Palhetto's Sorvetes",
+      "type": "fabrica_alimentos",
+      "neighborhood": "",
+      "city": "Goiânia",
+      "email": "contato@palhettos.com.br",
+      "emailVerified": true,
+      "email1": false
+    },
+    {
+      "name": "Delicius Sorvetes",
+      "type": "fabrica_alimentos",
+      "neighborhood": "Cardo",
+      "city": "Governador Valadares",
+      "email": "atendimento@delicius.com",
+      "emailVerified": true,
+      "email1": false
+    },
+    {
+      "name": "Cremoso Sorvetes",
+      "type": "fabrica_alimentos",
+      "neighborhood": "",
+      "city": "Xaxim",
+      "email": "atendimento@cremoso.com.br",
+      "emailVerified": true,
+      "email1": false
+    },
+    {
+      "name": "ICSO Gelados",
+      "type": "fabrica_alimentos",
+      "neighborhood": "Piedade",
+      "city": "Jaboatão dos Guararapes",
+      "email": "sac@icsogelados.com.br",
+      "emailVerified": true,
+      "email1": false
+    },
+    {
+      "name": "Francesco Gelato",
+      "type": "fabrica_alimentos",
+      "neighborhood": "",
+      "city": "Extrema",
+      "email": "contato@francescogelato.com.br",
+      "emailVerified": true,
+      "email1": false
+    },
+    {
+      "name": "Milão Sorvetes",
+      "type": "fabrica_alimentos",
+      "neighborhood": "",
+      "city": "Capão da Canoa",
+      "email": "milao@milaosorvetes.com.br",
+      "emailVerified": true,
+      "email1": false
+    },
+    {
+      "name": "Du Porto",
+      "type": "fabrica_alimentos",
+      "neighborhood": "",
+      "city": "Porto Feliz",
+      "email": "contato@duporto.com.br",
+      "emailVerified": true,
+      "email1": false
+    },
+    {
+      "name": "Bucatinni Alimentos",
+      "type": "fabrica_alimentos",
+      "neighborhood": "Sítio Ribeiro",
+      "city": "Pindoretama",
+      "email": "comercial@bucatinni.com.br",
+      "emailVerified": true,
+      "email1": false
+    },
+    {
+      "name": "Alimentos Tem (Tem Mais Sabor)",
+      "type": "fabrica_alimentos",
+      "neighborhood": "Passarinho",
+      "city": "Recife",
+      "email": "sac@temmaissabor.com.br",
+      "emailVerified": true,
+      "email1": false
+    },
+    {
+      "name": "Maruiti",
+      "type": "fabrica_alimentos",
+      "neighborhood": "Vila Nogueira",
+      "city": "Diadema",
+      "email": "contato@maruiti.com.br",
+      "emailVerified": true,
+      "email1": false
+    },
+    {
+      "name": "Tropical Condimentos",
+      "type": "fabrica_alimentos",
+      "neighborhood": "",
+      "city": "Itajaí",
+      "email": "serpa@tropicalcondimentos.com.br",
+      "emailVerified": true,
+      "email1": false
+    },
+    {
+      "name": "Miriam Alimentos",
+      "type": "fabrica_alimentos",
+      "neighborhood": "",
+      "city": "Serafina Corrêa",
+      "email": "contato@miriam.ind.br",
+      "emailVerified": true,
+      "email1": false
+    },
+    {
+      "name": "Grandó Molhos",
+      "type": "fabrica_alimentos",
+      "neighborhood": "",
+      "city": "São Paulo",
+      "email": "fabio@grandomolhos.com.br",
+      "emailVerified": true,
+      "email1": false
+    },
+    {
+      "name": "KF Alimentos",
+      "type": "fabrica_alimentos",
+      "neighborhood": "Butantã",
+      "city": "São Paulo",
+      "email": "atendimento@kfalimentos.com.br",
+      "emailVerified": true,
+      "email1": false
+    },
+    {
+      "name": "Ultrabrava",
+      "type": "fabrica_alimentos",
+      "neighborhood": "Bela Vista",
+      "city": "São Paulo",
+      "email": "comercial@ultrabrava.com.br",
+      "emailVerified": true,
+      "email1": false
+    },
+    {
+      "name": "Marquespan",
+      "type": "industria_panificacao",
+      "neighborhood": "",
+      "city": "Tatuí",
+      "email": "atendimentosp@marquespan.com.br",
+      "emailVerified": true,
+      "email1": false
+    },
+    {
+      "name": "Costa Lavos",
+      "type": "industria_panificacao",
+      "neighborhood": "Vila Rosina",
+      "city": "Caieiras",
+      "email": "mkt@costalavos.com.br",
+      "emailVerified": true,
+      "email1": false
+    },
+    {
+      "name": "Grupo Farina",
+      "type": "industria_panificacao",
+      "neighborhood": "Jardim das Cerejeiras",
+      "city": "Atibaia",
+      "email": "comercial@grupofarina.com.br",
+      "emailVerified": true,
+      "email1": false
+    },
+    {
+      "name": "Leforth",
+      "type": "industria_panificacao",
+      "neighborhood": "Vila Conceição",
+      "city": "Diadema",
+      "email": "leforth@leforth.com.br",
+      "emailVerified": true,
+      "email1": false
+    },
+    {
+      "name": "Selmi (Renata e Galo)",
+      "type": "fabrica_alimentos",
+      "neighborhood": "Parque da Amizade",
+      "city": "Sumaré",
+      "email": "televendas@selmi.com.br",
+      "emailVerified": true,
+      "email1": false
+    },
+    {
+      "name": "Vitamassa",
+      "type": "fabrica_alimentos",
+      "neighborhood": "Alto do Moura",
+      "city": "Caruaru",
+      "email": "contato@vitamassa.com.br",
+      "emailVerified": true,
+      "email1": false
+    },
+    {
+      "name": "M. Dias Branco",
+      "type": "fabrica_alimentos",
+      "neighborhood": "",
+      "city": "Fortaleza",
+      "email": "sac@mdiasbranco.com.br",
+      "emailVerified": true,
+      "email1": false
+    },
+    {
+      "name": "Steffenon Alimentos",
+      "type": "fabrica_alimentos",
+      "neighborhood": "",
+      "city": "Boa Vista do Sul",
+      "email": "atendimento@steffenon.com.br",
+      "emailVerified": true,
+      "email1": false
+    },
+    {
+      "name": "Laticínios Holandês",
+      "type": "fabrica_alimentos",
+      "neighborhood": "Areias de Baixo",
+      "city": "Biguaçu",
+      "email": "contato@laticiniosholandes.com.br",
+      "emailVerified": true,
+      "email1": false
+    },
+    {
+      "name": "Matilat",
+      "type": "fabrica_alimentos",
+      "neighborhood": "",
+      "city": "Catanduva",
+      "email": "sam@matilat.com.br",
+      "emailVerified": true,
+      "email1": false
+    },
+    {
+      "name": "Laticínio Yoguedes",
+      "type": "fabrica_alimentos",
+      "neighborhood": "",
+      "city": "Caraí",
+      "email": "yoguedes@yoguedes.com.br",
+      "emailVerified": true,
+      "email1": false
+    },
+    {
+      "name": "Laticínios Carolina",
+      "type": "fabrica_alimentos",
+      "neighborhood": "",
+      "city": "Ribeirão Claro",
+      "email": "sac@latcarolina.com.br",
+      "emailVerified": true,
+      "email1": false
+    },
+    {
+      "name": "Bomy",
+      "type": "fabrica_alimentos",
+      "neighborhood": "Tapanhão/Jambeiro",
+      "city": "São José dos Campos",
+      "email": "comercial@bomy.com.br",
+      "emailVerified": true,
+      "email1": false
+    },
+    {
+      "name": "Tirol",
+      "type": "fabrica_alimentos",
+      "neighborhood": "Centro",
+      "city": "Treze Tílias",
+      "email": "falecom@tirol.com.br",
+      "emailVerified": true,
+      "email1": false
+    },
+    {
+      "name": "Limilk Laticínios",
+      "type": "fabrica_alimentos",
+      "neighborhood": "",
+      "city": "São Paulo",
+      "email": "contato@limilk.com.br",
+      "emailVerified": true,
+      "email1": false
+    },
+    {
+      "name": "Brubella Sorvetes",
+      "type": "fabrica_alimentos",
+      "neighborhood": "Jardim Santa Maria",
+      "city": "Jacareí",
+      "email": "contato@brubellasorvetes.com.br",
+      "emailVerified": true,
+      "email1": false
+    },
+    {
+      "name": "Sorvetes do Vale",
+      "type": "fabrica_alimentos",
+      "neighborhood": "",
+      "city": "Minas Novas",
+      "email": "contato@sorvetesdovale.com.br",
+      "emailVerified": true,
+      "email1": false
+    },
+    {
+      "name": "Jeito Gelado Sorvetes",
+      "type": "fabrica_alimentos",
+      "neighborhood": "",
+      "city": "Presidente Prudente",
+      "email": "jeitogeladosorvetes@hotmail.com",
+      "emailVerified": true,
+      "email1": false
+    },
+    {
+      "name": "Trivialy Sorvetes",
+      "type": "fabrica_alimentos",
+      "neighborhood": "Distrito Industrial Alvorada",
+      "city": "Viamão",
+      "email": "trivialy@trivialy.com.br",
+      "emailVerified": true,
+      "email1": false
+    },
+    {
+      "name": "Doremus Sorvetes",
+      "type": "fabrica_alimentos",
+      "neighborhood": "Bonsucesso",
+      "city": "Guarulhos",
+      "email": "vendas@doremus.com.br",
+      "emailVerified": true,
+      "email1": false
+    },
+    {
+      "name": "Grupo Fika Frio",
+      "type": "fabrica_alimentos",
+      "neighborhood": "Farol",
+      "city": "Maceió",
+      "email": "atendimento@fikafrio.com.br",
+      "emailVerified": true,
+      "email1": false
+    },
+    {
+      "name": "Dale Sorvetes",
+      "type": "fabrica_alimentos",
+      "neighborhood": "Cel. Antonino",
+      "city": "Campo Grande",
+      "email": "contato@dalesorvetes.com.br",
+      "emailVerified": true,
+      "email1": false
+    },
+    {
+      "name": "Frosty Sorvetes e Picolés",
+      "type": "fabrica_alimentos",
+      "neighborhood": "Aldeota",
+      "city": "Fortaleza",
+      "email": "sac@frosty.com.br",
+      "emailVerified": true,
+      "email1": false
+    },
+    {
+      "name": "Sorvetes Bruna",
+      "type": "fabrica_alimentos",
+      "neighborhood": "",
+      "city": "São Paulo",
+      "email": "sorvetesbruna@sorvetesbruna.com.br",
+      "emailVerified": true,
+      "email1": false
+    },
+    {
+      "name": "Natuice Sorvetes",
+      "type": "fabrica_alimentos",
+      "neighborhood": "",
+      "city": "Piracicaba",
+      "email": "contato@natuice.com.br",
+      "emailVerified": true,
+      "email1": false
+    },
+    {
+      "name": "Queijaria Cruzília",
+      "type": "fabrica_alimentos",
+      "neighborhood": "",
+      "city": "Cruzília",
+      "email": "sac@ultracheese.com.br",
+      "emailVerified": true,
+      "email1": false
+    },
+    {
+      "name": "HE Laticínios",
+      "type": "fabrica_alimentos",
+      "neighborhood": "",
+      "city": "São Paulo",
+      "email": "comercial@helaticinios.com.br",
+      "emailVerified": true,
+      "email1": false
+    },
+    {
+      "name": "Le Petit Alimentos",
+      "type": "fabrica_alimentos",
+      "neighborhood": "",
+      "city": "São Paulo",
+      "email": "vendas@lepetitalimentos.com.br",
+      "emailVerified": true,
+      "email1": false
+    },
+    {
+      "name": "Biscoitos São Tiago",
+      "type": "fabrica_biscoitos",
+      "neighborhood": "",
+      "city": "São Paulo",
+      "email": "atendimento@descubrasaotiago.com.br",
+      "emailVerified": true,
+      "email1": false
+    },
+    {
+      "name": "Biscoitos São Benedito",
+      "type": "fabrica_biscoitos",
+      "neighborhood": "",
+      "city": "São Paulo",
+      "email": "contato@biscoitossaobenedito.com.br",
+      "emailVerified": true,
+      "email1": false
+    },
+    {
+      "name": "Biscoitos Bela Vista",
+      "type": "fabrica_biscoitos",
+      "neighborhood": "",
+      "city": "São Paulo",
+      "email": "vendas@belavista.com.br",
+      "emailVerified": true,
+      "email1": false
+    },
+    {
+      "name": "Sagra Alimentos",
+      "type": "fabrica_alimentos",
+      "neighborhood": "",
+      "city": "São Paulo",
+      "email": "compras@sagraalimentos.com.br",
+      "emailVerified": true,
+      "email1": false
+    },
+    {
+      "name": "Doces Vaz",
+      "type": "distribuidora_alimentos",
+      "neighborhood": "",
+      "city": "São Paulo",
+      "email": "vendas@docesvaz.com.br",
+      "emailVerified": true,
+      "invalidEmail": true,
+      "email1": false
+    },
+    {
+      "name": "Prodipani",
+      "type": "industria_panificacao",
+      "neighborhood": "",
+      "city": "São Paulo",
+      "email": "prodipani@prodipani.com.br",
+      "emailVerified": true,
+      "email1": false
+    },
+    {
+      "name": "Príncipe Alimentos",
+      "type": "industria_panificacao",
+      "neighborhood": "",
+      "city": "São Paulo",
+      "email": "contato@paesprincipe.com.br",
+      "emailVerified": true,
+      "email1": false
+    },
+    {
+      "name": "Pães & Pães",
+      "type": "industria_panificacao",
+      "neighborhood": "",
+      "city": "São Paulo",
+      "email": "joao@pppanificadora.com.br",
+      "emailVerified": true,
+      "email1": false
+    },
+    {
+      "name": "Vó Alzira",
+      "type": "confeitaria_industrial",
+      "neighborhood": "",
+      "city": "São Paulo",
+      "email": "sac@fabricadebolo.com",
+      "emailVerified": true,
+      "email1": false
+    },
+    {
+      "name": "Beijo Gelado",
+      "type": "fabrica_alimentos",
+      "neighborhood": "Jardim Proença",
+      "city": "Campinas",
+      "email": "atendimento@beijogelado.com.br",
+      "emailVerified": true,
+      "email1": false
+    },
+    {
+      "name": "We Sorvetes",
+      "type": "fabrica_alimentos",
+      "neighborhood": "",
+      "city": "São Paulo",
+      "email": "atendimento@wesorvetes.com.br",
+      "emailVerified": true,
+      "email1": false
+    },
+    {
+      "name": "Sorvete Gut",
+      "type": "fabrica_alimentos",
+      "neighborhood": "",
+      "city": "São Paulo",
+      "email": "adm@sorvetesgut.com.br",
+      "emailVerified": true,
+      "email1": false
+    },
+    {
+      "name": "Laticínios Pelissari",
+      "type": "fabrica_alimentos",
+      "neighborhood": "",
+      "city": "São Paulo",
+      "email": "contato@laticiniospelissari.com.br",
+      "emailVerified": true,
+      "email1": false
+    },
+    {
+      "name": "Laticínios PJ",
+      "type": "fabrica_alimentos",
+      "neighborhood": "",
+      "city": "São Paulo",
+      "email": "sac@laticiniospj.com.br",
+      "emailVerified": true,
+      "email1": false
+    },
+    {
+      "name": "Laticínio Santo Antônio",
+      "type": "fabrica_alimentos",
+      "neighborhood": "",
+      "city": "São Paulo",
+      "email": "contato@laticiniosantoantonio.com.br",
+      "emailVerified": true,
+      "email1": false
+    },
+    {
+      "name": "Carmolac",
+      "type": "fabrica_alimentos",
+      "neighborhood": "",
+      "city": "São Paulo",
+      "email": "contato@carmolac.com.br",
+      "emailVerified": true,
+      "email1": false
+    },
+    {
+      "name": "Laticínios São José",
+      "type": "fabrica_alimentos",
+      "neighborhood": "",
+      "city": "São Paulo",
+      "email": "contato@laticiniossaojose.com.br",
+      "emailVerified": true,
+      "email1": false
+    },
+    {
+      "name": "Laticínios Porto Alegre",
+      "type": "fabrica_alimentos",
+      "neighborhood": "",
+      "city": "São Paulo",
+      "email": "faleconosco@laticiniosportoalegre.com.br",
+      "emailVerified": true,
+      "email1": false
+    },
+    {
+      "name": "Laticínios Coalhada's",
+      "type": "fabrica_alimentos",
+      "neighborhood": "",
+      "city": "São Paulo",
+      "email": "contato@coalhadas.com.br",
+      "emailVerified": true,
+      "email1": false
+    },
+    {
+      "name": "Frutap",
+      "type": "fabrica_alimentos",
+      "neighborhood": "",
+      "city": "São Paulo",
+      "email": "frutap@frutap.com.br",
+      "emailVerified": true,
+      "email1": false
+    },
+    {
+      "name": "FJ Distribuidora",
+      "type": "distribuidora_alimentos",
+      "neighborhood": "",
+      "city": "São Paulo",
+      "email": "contato@fjdistribuidora.com",
+      "emailVerified": true,
+      "invalidEmail": true,
+      "email1": false
+    },
+    {
+      "name": "Mavi Alimentos",
+      "type": "fabrica_alimentos",
+      "neighborhood": "",
+      "city": "São Paulo",
+      "email": "mateusdias@mavialimentos.com.br",
+      "emailVerified": true,
+      "email1": false
+    },
+    {
+      "name": "Saborethos",
+      "type": "fabrica_alimentos",
+      "neighborhood": "",
+      "city": "São Paulo",
+      "email": "comercial@saborethos.com.br",
+      "emailVerified": true,
+      "email1": false
+    },
+    {
+      "name": "Genebra Chocolates",
+      "type": "fabrica_alimentos",
+      "neighborhood": "",
+      "city": "São Paulo",
+      "email": "contato@genebrachocolates.com.br",
+      "emailVerified": true,
+      "email1": false
+    },
+    {
+      "name": "Hiperpan Indústria de Panificação",
+      "type": "industria_panificacao",
+      "neighborhood": "",
+      "city": "Gravataí",
+      "email": "contato@hiperpan.com.br",
+      "emailVerified": true,
       "email1": false
     }
   ],
   "emails": {
-    "email1": 3015,
-    "email2": 1447,
-    "email3": 788,
-    "total": 5250
+    "email1": 3114,
+    "email2": 1462,
+    "email3": 813,
+    "total": 5389
   },
   "whatsapp": {
     "today": 0,
     "total": 218
   },
   "responses": 0,
-  "pending": 58,
+  "pending": 262,
   "daily": [
-    {
-      "date": "2026-10-03",
-      "count": 0
-    },
     {
       "date": "2026-10-04",
       "count": 0
@@ -30662,7 +33851,11 @@
     },
     {
       "date": "2026-10-16",
-      "count": 0
+      "count": 70
+    },
+    {
+      "date": "2026-10-17",
+      "count": 69
     }
   ],
   "topNeighborhoods": [
@@ -30672,15 +33865,15 @@
     },
     {
       "name": "São Paulo",
-      "count": 253
+      "count": 322
     },
     {
       "name": "Centro",
-      "count": 26
+      "count": 34
     },
     {
       "name": "Pinheiros",
-      "count": 21
+      "count": 27
     },
     {
       "name": "Sao Paulo",
@@ -30691,28 +33884,28 @@
       "count": 20
     },
     {
-      "name": "Alphaville",
+      "name": "Jardins",
       "count": 13
     },
     {
       "name": "Itaim Bibi",
-      "count": 12
+      "count": 13
+    },
+    {
+      "name": "Alphaville",
+      "count": 13
     },
     {
       "name": "Campo Belo",
-      "count": 10
-    },
-    {
-      "name": "Vila Ol├¡mpia",
-      "count": 8
-    },
-    {
-      "name": "Perdizes",
-      "count": 8
+      "count": 12
     },
     {
       "name": "Consolacao",
-      "count": 8
+      "count": 9
+    },
+    {
+      "name": "Mooca",
+      "count": 9
     }
   ],
   "recentLeads": [
@@ -30769,39 +33962,39 @@
     }
   ],
   "funnel": {
-    "leads": 3122,
-    "email1": 3015,
-    "email2": 1447,
-    "email3": 788,
+    "leads": 3434,
+    "email1": 3114,
+    "email2": 1462,
+    "email3": 813,
     "responded": 0
   },
   "week": {
-    "leads": 369,
+    "leads": 468,
     "emails": {
-      "email1": 369,
-      "email2": 159,
-      "email3": 130,
-      "total": 658
+      "email1": 468,
+      "email2": 174,
+      "email3": 155,
+      "total": 797
     },
     "responses": 0
   },
   "month": {
-    "leads": 370,
+    "leads": 469,
     "emails": {
-      "email1": 370,
-      "email2": 159,
-      "email3": 130,
-      "total": 659
+      "email1": 469,
+      "email2": 174,
+      "email3": 155,
+      "total": 798
     },
     "responses": 0
   },
   "year": {
-    "leads": 3017,
+    "leads": 3116,
     "emails": {
-      "email1": 3015,
-      "email2": 1447,
-      "email3": 788,
-      "total": 5250
+      "email1": 3114,
+      "email2": 1462,
+      "email3": 813,
+      "total": 5389
     },
     "responses": 0
   },
@@ -30809,25 +34002,37 @@
     {
       "name": "restaurante",
       "total": 2086,
-      "email1": 2035,
+      "email1": 2085,
       "responded": 0
     },
     {
       "name": "bar",
-      "total": 516,
-      "email1": 509,
+      "total": 538,
+      "email1": 535,
       "responded": 0
     },
     {
       "name": "adega",
-      "total": 225,
-      "email1": 222,
+      "total": 228,
+      "email1": 225,
       "responded": 0
     },
     {
       "name": "distribuidora",
-      "total": 138,
-      "email1": 134,
+      "total": 142,
+      "email1": 140,
+      "responded": 0
+    },
+    {
+      "name": "fabrica_alimentos",
+      "total": 137,
+      "email1": 0,
+      "responded": 0
+    },
+    {
+      "name": "industria_panificacao",
+      "total": 28,
+      "email1": 0,
       "responded": 0
     },
     {
@@ -30838,8 +34043,32 @@
     },
     {
       "name": "balada",
+      "total": 25,
+      "email1": 25,
+      "responded": 0
+    },
+    {
+      "name": "cervejaria",
+      "total": 19,
+      "email1": 0,
+      "responded": 0
+    },
+    {
+      "name": "fabrica_biscoitos",
       "total": 15,
-      "email1": 15,
+      "email1": 0,
+      "responded": 0
+    },
+    {
+      "name": "industria_bebidas",
+      "total": 15,
+      "email1": 0,
+      "responded": 0
+    },
+    {
+      "name": "destilaria",
+      "total": 15,
+      "email1": 0,
       "responded": 0
     },
     {
@@ -30849,9 +34078,27 @@
       "responded": 0
     },
     {
+      "name": "microcervejaria",
+      "total": 11,
+      "email1": 0,
+      "responded": 0
+    },
+    {
       "name": "hotel",
       "total": 10,
       "email1": 9,
+      "responded": 0
+    },
+    {
+      "name": "industria_sucos",
+      "total": 10,
+      "email1": 0,
+      "responded": 0
+    },
+    {
+      "name": "atacadista",
+      "total": 8,
+      "email1": 8,
       "responded": 0
     },
     {
@@ -30861,15 +34108,21 @@
       "responded": 0
     },
     {
-      "name": "atacadista",
-      "total": 4,
-      "email1": 4,
+      "name": "fabrica_bebidas",
+      "total": 5,
+      "email1": 0,
       "responded": 0
     },
     {
       "name": "bar_restaurante_cachacas_caipirinhas",
       "total": 4,
       "email1": 3,
+      "responded": 0
+    },
+    {
+      "name": "distribuidora_bebidas",
+      "total": 4,
+      "email1": 1,
       "responded": 0
     },
     {
@@ -30882,6 +34135,18 @@
       "name": "emporio",
       "total": 4,
       "email1": 4,
+      "responded": 0
+    },
+    {
+      "name": "confeitaria_industrial",
+      "total": 4,
+      "email1": 0,
+      "responded": 0
+    },
+    {
+      "name": "distribuidora_alimentos",
+      "total": 4,
+      "email1": 0,
       "responded": 0
     },
     {
@@ -30928,6 +34193,12 @@
     },
     {
       "name": "cafeteria",
+      "total": 2,
+      "email1": 0,
+      "responded": 0
+    },
+    {
+      "name": "padaria",
       "total": 2,
       "email1": 0,
       "responded": 0
@@ -31197,12 +34468,6 @@
       "responded": 0
     },
     {
-      "name": "distribuidora_bebidas",
-      "total": 1,
-      "email1": 1,
-      "responded": 0
-    },
-    {
       "name": "distribuidora_atacado_bebidas_cachacas",
       "total": 1,
       "email1": 1,
@@ -31242,6 +34507,12 @@
       "name": "adega_vinicola_cachacas_bistro",
       "total": 1,
       "email1": 1,
+      "responded": 0
+    },
+    {
+      "name": "confeitaria",
+      "total": 1,
+      "email1": 0,
       "responded": 0
     }
   ]
