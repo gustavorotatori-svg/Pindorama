@@ -47118,7 +47118,9 @@
     "mxVerified": true,
     "template": "consultivo",
     "email1": true,
-    "date1": "2026-10-15"
+    "date1": "2026-10-15",
+    "email2": true,
+    "date2": "2026-10-17"
   },
   {
     "name": "Dasian",
@@ -47155,7 +47157,9 @@
     "mxVerified": true,
     "template": "consultivo",
     "email1": true,
-    "date1": "2026-10-15"
+    "date1": "2026-10-15",
+    "email2": true,
+    "date2": "2026-10-17"
   },
   {
     "name": "Candy Sushi Bar & Club",
@@ -47212,7 +47216,9 @@
     "mxVerified": true,
     "template": "consultivo",
     "email1": true,
-    "date1": "2026-10-15"
+    "date1": "2026-10-15",
+    "email2": true,
+    "date2": "2026-10-17"
   },
   {
     "name": "Buteco da Carne",
@@ -47229,7 +47235,9 @@
     "mxVerified": true,
     "template": "consultivo",
     "email1": true,
-    "date1": "2026-10-15"
+    "date1": "2026-10-15",
+    "email2": true,
+    "date2": "2026-10-17"
   },
   {
     "name": "Balada Mix SÃ£o Paulo",
@@ -47246,7 +47254,9 @@
     "mxVerified": true,
     "template": "consultivo",
     "email1": true,
-    "date1": "2026-10-15"
+    "date1": "2026-10-15",
+    "email2": true,
+    "date2": "2026-10-17"
   },
   {
     "name": "BARCELONA PÃES",
@@ -47263,7 +47273,9 @@
     "mxVerified": true,
     "template": "consultivo",
     "email1": true,
-    "date1": "2026-10-15"
+    "date1": "2026-10-15",
+    "email2": true,
+    "date2": "2026-10-17"
   },
   {
     "name": "A CASA DA PIZZA ESTUFADA",
@@ -47280,7 +47292,9 @@
     "mxVerified": true,
     "template": "consultivo",
     "email1": true,
-    "date1": "2026-10-15"
+    "date1": "2026-10-15",
+    "email2": true,
+    "date2": "2026-10-17"
   },
   {
     "name": "Bar Em Nome do Pai",
@@ -47297,7 +47311,9 @@
     "mxVerified": true,
     "template": "consultivo",
     "email1": true,
-    "date1": "2026-10-15"
+    "date1": "2026-10-15",
+    "email2": true,
+    "date2": "2026-10-17"
   },
   {
     "name": "Paiol Urbano Osasco",
@@ -47314,7 +47330,9 @@
     "mxVerified": true,
     "template": "consultivo",
     "email1": true,
-    "date1": "2026-10-15"
+    "date1": "2026-10-15",
+    "email2": true,
+    "date2": "2026-10-17"
   },
   {
     "name": "PRIME GOLDEN POTATO",
@@ -47331,7 +47349,9 @@
     "mxVerified": true,
     "template": "consultivo",
     "email1": true,
-    "date1": "2026-10-15"
+    "date1": "2026-10-15",
+    "email2": true,
+    "date2": "2026-10-17"
   },
   {
     "name": "Verttoni",
@@ -47348,7 +47368,9 @@
     "mxVerified": true,
     "template": "consultivo",
     "email1": true,
-    "date1": "2026-10-15"
+    "date1": "2026-10-15",
+    "email2": true,
+    "date2": "2026-10-17"
   },
   {
     "name": "Farol Cervejaria e Gourmet",
@@ -47365,7 +47387,9 @@
     "mxVerified": true,
     "template": "consultivo",
     "email1": true,
-    "date1": "2026-10-15"
+    "date1": "2026-10-15",
+    "email2": true,
+    "date2": "2026-10-17"
   },
   {
     "name": "Marinna Gastronomia",
@@ -47382,7 +47406,9 @@
     "mxVerified": true,
     "template": "consultivo",
     "email1": true,
-    "date1": "2026-10-15"
+    "date1": "2026-10-15",
+    "email2": true,
+    "date2": "2026-10-17"
   },
   {
     "name": "Genuino Bar",
@@ -47399,7 +47425,9 @@
     "mxVerified": true,
     "template": "consultivo",
     "email1": true,
-    "date1": "2026-10-15"
+    "date1": "2026-10-15",
+    "email2": true,
+    "date2": "2026-10-17"
   },
   {
     "name": "Restaurante Malagueta",
@@ -47433,7 +47461,9 @@
     "mxVerified": true,
     "template": "consultivo",
     "email1": true,
-    "date1": "2026-10-15"
+    "date1": "2026-10-15",
+    "email2": true,
+    "date2": "2026-10-17"
   },
   {
     "name": "Dultier",
@@ -47467,7 +47497,10 @@
     "mxVerified": true,
     "template": "consultivo",
     "email1": true,
-    "date1": "2026-10-15"
+    "date1": "2026-10-15",
+    "invalidEmail": true,
+    "invalidEmailReason": "permanent_recipient_error",
+    "invalidEmailDate": "2026-10-17"
   },
   {
     "name": "MomÃ´zinho",
@@ -47606,7 +47639,10 @@
     "mxVerified": true,
     "template": "consultivo",
     "email1": true,
-    "date1": "2026-10-15"
+    "date1": "2026-10-15",
+    "invalidEmail": true,
+    "invalidEmailReason": "permanent_recipient_error",
+    "invalidEmailDate": "2026-10-17"
   },
   {
     "name": "Baco Dvino Wine Bar",
@@ -47623,7 +47659,10 @@
     "mxVerified": true,
     "template": "consultivo",
     "email1": true,
-    "date1": "2026-10-15"
+    "date1": "2026-10-15",
+    "invalidEmail": true,
+    "invalidEmailReason": "permanent_recipient_error",
+    "invalidEmailDate": "2026-10-17"
   },
   {
     "name": "DOCEVIE",
@@ -47711,7 +47750,10 @@
     "mxVerified": true,
     "template": "consultivo",
     "email1": true,
-    "date1": "2026-10-15"
+    "date1": "2026-10-15",
+    "invalidEmail": true,
+    "invalidEmailReason": "permanent_recipient_error",
+    "invalidEmailDate": "2026-10-17"
   },
   {
     "name": "Giro Ristobar",
@@ -47836,7 +47878,10 @@
     "mxVerified": true,
     "template": "consultivo",
     "email1": true,
-    "date1": "2026-10-15"
+    "date1": "2026-10-15",
+    "invalidEmail": true,
+    "invalidEmailReason": "permanent_recipient_error",
+    "invalidEmailDate": "2026-10-17"
   },
   {
     "name": "BurgerBits Hamburgueria",
@@ -47890,7 +47935,10 @@
     "mxVerified": true,
     "template": "consultivo",
     "email1": true,
-    "date1": "2026-10-15"
+    "date1": "2026-10-15",
+    "invalidEmail": true,
+    "invalidEmailReason": "permanent_recipient_error",
+    "invalidEmailDate": "2026-10-17"
   },
   {
     "name": "Tanoshimi",
@@ -47958,7 +48006,10 @@
     "mxVerified": true,
     "template": "consultivo",
     "email1": true,
-    "date1": "2026-10-15"
+    "date1": "2026-10-15",
+    "invalidEmail": true,
+    "invalidEmailReason": "permanent_recipient_error",
+    "invalidEmailDate": "2026-10-17"
   },
   {
     "name": "SAN MARCO",
@@ -48097,7 +48148,10 @@
     "mxVerified": true,
     "template": "consultivo",
     "email1": true,
-    "date1": "2026-10-15"
+    "date1": "2026-10-15",
+    "invalidEmail": true,
+    "invalidEmailReason": "permanent_recipient_error",
+    "invalidEmailDate": "2026-10-17"
   },
   {
     "name": "Sr. Temaki CulinÃ¡ria Japonesa",
@@ -48148,7 +48202,10 @@
     "mxVerified": true,
     "template": "consultivo",
     "email1": true,
-    "date1": "2026-10-15"
+    "date1": "2026-10-15",
+    "invalidEmail": true,
+    "invalidEmailReason": "permanent_recipient_error",
+    "invalidEmailDate": "2026-10-17"
   },
   {
     "name": "Asami Sushi SA",
@@ -48216,7 +48273,10 @@
     "mxVerified": true,
     "template": "consultivo",
     "email1": true,
-    "date1": "2026-10-15"
+    "date1": "2026-10-15",
+    "invalidEmail": true,
+    "invalidEmailReason": "permanent_recipient_error",
+    "invalidEmailDate": "2026-10-17"
   },
   {
     "name": "Maxi Frango",
@@ -48463,7 +48523,10 @@
     "mxVerified": true,
     "template": "consultivo",
     "email1": true,
-    "date1": "2026-10-15"
+    "date1": "2026-10-15",
+    "invalidEmail": true,
+    "invalidEmailReason": "permanent_recipient_error",
+    "invalidEmailDate": "2026-10-17"
   },
   {
     "name": "SUPLICY CAFÃS ESPECIAIS",
