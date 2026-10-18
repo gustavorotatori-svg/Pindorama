@@ -53871,5 +53871,53 @@
     "mxVerified": true,
     "template": "consultivo",
     "email1": false
+  },
+  {
+    "name": "Biscoitos Porto Alegre",
+    "email": "contato@lojabiscoitosportoalegre.com.br",
+    "type": "fabrica_biscoitos",
+    "neighborhood": "",
+    "city": "São Paulo",
+    "website": "https://www.lojabiscoitosportoalegre.com.br/",
+    "phone": "",
+    "context": "Biscoitos Porto Alegre",
+    "emailVerified": true,
+    "emailSource": "https://www.lojabiscoitosportoalegre.com.br/",
+    "emailVerifiedAt": "2026-10-18",
+    "mxVerified": true,
+    "template": "consultivo",
+    "email1": false
+  },
+  {
+    "name": "Biscoitos Cosme & Damião",
+    "email": "atendimentoaocliente@biscoitocosmeedamiao.com.br",
+    "type": "fabrica_biscoitos",
+    "neighborhood": "",
+    "city": "São Paulo",
+    "website": "https://www.biscoitocosmeedamiao.com.br/",
+    "phone": "",
+    "context": "Biscoitos Cosme & Damião",
+    "emailVerified": true,
+    "emailSource": "https://www.biscoitocosmeedamiao.com.br/",
+    "emailVerifiedAt": "2026-10-18",
+    "mxVerified": true,
+    "template": "consultivo",
+    "email1": false
+  },
+  {
+    "name": "Biscoitos Pacheco",
+    "email": "atendimento@biscoitopacheco.com.br",
+    "type": "fabrica_biscoitos",
+    "neighborhood": "",
+    "city": "São Paulo",
+    "website": "https://biscoitopacheco.com.br/",
+    "phone": "",
+    "context": "Biscoitos Pacheco",
+    "emailVerified": true,
+    "emailSource": "https://biscoitopacheco.com.br/",
+    "emailVerifiedAt": "2026-10-18",
+    "mxVerified": true,
+    "template": "consultivo",
+    "email1": false
   }
 ]
