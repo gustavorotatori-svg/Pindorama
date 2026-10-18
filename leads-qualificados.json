@@ -49308,7 +49308,10 @@
     "mxVerified": true,
     "template": "consultivo",
     "email1": false,
-    "name": "Mais Distribuidora Alimentos"
+    "name": "Mais Distribuidora Alimentos",
+    "invalidEmail": true,
+    "invalidEmailReason": "permanent_recipient_error",
+    "invalidEmailDate": "2026-10-18"
   },
   {
     "name": "00 Sao Paulo",
