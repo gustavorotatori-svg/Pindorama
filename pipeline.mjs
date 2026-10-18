@@ -288,7 +288,23 @@ async function sendEmail1(maxSent = Infinity) {
     const pending = leads
       .filter(x => x.name && !x.email1 && !contactedEmails.has(String(x.email || '').toLowerCase()) && !x.invalidEmail && !x.doNotContact && !failed.has(x.email) && x.email && verifiedFirstContact(x))
       .sort((a, b) => leadPriority(b) - leadPriority(a));
-    if (!pending.length) break;
+    if (!pending.length) {
+      if (sent === 0) {
+        const base = leads.filter(x => x.name && !x.email1 && x.email);
+        const stages = {
+          total: leads.length,
+          semEmail1_comEmail: base.length,
+          semContato: base.filter(x => !contactedEmails.has(String(x.email).toLowerCase())).length,
+          semInvalid: base.filter(x => !x.invalidEmail && !x.doNotContact).length,
+          verificado: base.filter(x => x.emailVerified === true).length,
+          comSourceData: base.filter(x => /^\d{4}-\d{2}-\d{2}$/.test(String(x.emailVerifiedAt || '').trim())).length,
+          elegivelTipo: base.filter(x => eligibleFirstContactType(x.type)).length,
+          completo: base.filter(x => verifiedFirstContact(x)).length
+        };
+        console.log('DIAG: ' + JSON.stringify(stages));
+      }
+      break;
+    }
     if (!emailQuotaAvailable()) break;
     const l = pending[0];
     try {
