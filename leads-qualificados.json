@@ -49304,8 +49304,9 @@
     "emailVerifiedAt": "2026-10-17",
     "mxVerified": true,
     "template": "consultivo",
-    "email1": false,
-    "name": "Mais Distribuidora Alimentos"
+    "email1": true,
+    "name": "Mais Distribuidora Alimentos",
+    "date1": "2026-10-18"
   },
   {
     "name": "00 Sao Paulo",
@@ -49571,7 +49572,8 @@
     "emailVerifiedAt": "2026-10-17",
     "mxVerified": true,
     "template": "consultivo",
-    "email1": false
+    "email1": true,
+    "date1": "2026-10-18"
   },
   {
     "name": "Bombons Lalka Industrial",
@@ -49587,7 +49589,8 @@
     "emailVerifiedAt": "2026-10-17",
     "mxVerified": true,
     "template": "consultivo",
-    "email1": false
+    "email1": true,
+    "date1": "2026-10-18"
   },
   {
     "name": "Bread King Indústria de Panificação (Pães, Doces e Salgados Super Congelados)",
@@ -49635,7 +49638,8 @@
     "emailVerifiedAt": "2026-10-17",
     "mxVerified": true,
     "template": "consultivo",
-    "email1": false
+    "email1": true,
+    "date1": "2026-10-18"
   },
   {
     "name": "Cervejaria Complô",
@@ -49651,7 +49655,8 @@
     "emailVerifiedAt": "2026-10-17",
     "mxVerified": true,
     "template": "consultivo",
-    "email1": false
+    "email1": true,
+    "date1": "2026-10-18"
   },
   {
     "name": "Cervejaria Dado Bier",
@@ -49731,7 +49736,8 @@
     "emailVerifiedAt": "2026-10-17",
     "mxVerified": true,
     "template": "consultivo",
-    "email1": false
+    "email1": true,
+    "date1": "2026-10-18"
   },
   {
     "name": "Confeitaria Doma",
@@ -49795,7 +49801,8 @@
     "emailVerifiedAt": "2026-10-17",
     "mxVerified": true,
     "template": "consultivo",
-    "email1": false
+    "email1": true,
+    "date1": "2026-10-18"
   },
   {
     "name": "Else Beer",
@@ -49859,7 +49866,8 @@
     "emailVerifiedAt": "2026-10-17",
     "mxVerified": true,
     "template": "consultivo",
-    "email1": false
+    "email1": true,
+    "date1": "2026-10-18"
   },
   {
     "name": "Kmais Alimentos Indústria de Polpas e Sucos de Frutas",
@@ -49891,7 +49899,8 @@
     "emailVerifiedAt": "2026-10-17",
     "mxVerified": true,
     "template": "consultivo",
-    "email1": false
+    "email1": true,
+    "date1": "2026-10-18"
   },
   {
     "name": "Laciella Chocolates (Fábrica de Chocolates Artesanais)",
@@ -49923,7 +49932,8 @@
     "emailVerifiedAt": "2026-10-17",
     "mxVerified": true,
     "template": "consultivo",
-    "email1": false
+    "email1": true,
+    "date1": "2026-10-18"
   },
   {
     "name": "NewAge Indústria de Bebidas",
@@ -50131,7 +50141,8 @@
     "emailVerifiedAt": "2026-10-17",
     "mxVerified": true,
     "template": "consultivo",
-    "email1": false
+    "email1": true,
+    "date1": "2026-10-18"
   },
   {
     "name": "Suctec Sucos Concentrados",
@@ -50163,7 +50174,8 @@
     "emailVerifiedAt": "2026-10-17",
     "mxVerified": true,
     "template": "consultivo",
-    "email1": false
+    "email1": true,
+    "date1": "2026-10-18"
   },
   {
     "name": "Via Néctare (GoldX Alimentos)",
@@ -50179,7 +50191,8 @@
     "emailVerifiedAt": "2026-10-17",
     "mxVerified": true,
     "template": "consultivo",
-    "email1": false
+    "email1": true,
+    "date1": "2026-10-18"
   },
   {
     "name": "WE Consultoria",
@@ -50195,7 +50208,8 @@
     "emailVerifiedAt": "2026-10-17",
     "mxVerified": true,
     "template": "consultivo",
-    "email1": false
+    "email1": true,
+    "date1": "2026-10-18"
   },
   {
     "name": "Zanlorenzi Indústria de Bebidas (Sucos e Chás Campo Largo)",
@@ -50339,7 +50353,8 @@
     "emailVerifiedAt": "2026-10-17",
     "mxVerified": true,
     "template": "consultivo",
-    "email1": false
+    "email1": true,
+    "date1": "2026-10-18"
   },
   {
     "name": "Indústria de Bebidas Risso",
@@ -50371,7 +50386,8 @@
     "emailVerifiedAt": "2026-10-17",
     "mxVerified": true,
     "template": "consultivo",
-    "email1": false
+    "email1": true,
+    "date1": "2026-10-18"
   },
   {
     "name": "Refrigerantes Devito",
@@ -50387,7 +50403,8 @@
     "emailVerifiedAt": "2026-10-17",
     "mxVerified": true,
     "template": "consultivo",
-    "email1": false
+    "email1": true,
+    "date1": "2026-10-18"
   },
   {
     "name": "Daniel Bebidas",
@@ -50403,7 +50420,8 @@
     "emailVerifiedAt": "2026-10-17",
     "mxVerified": true,
     "template": "consultivo",
-    "email1": false
+    "email1": true,
+    "date1": "2026-10-18"
   },
   {
     "name": "Bivolt Energy Drink",
@@ -50563,7 +50581,8 @@
     "emailVerifiedAt": "2026-10-17",
     "mxVerified": true,
     "template": "consultivo",
-    "email1": false
+    "email1": true,
+    "date1": "2026-10-18"
   },
   {
     "name": "Invento Chocolates",
@@ -51447,7 +51466,8 @@
     "emailVerifiedAt": "2026-10-17",
     "mxVerified": true,
     "template": "consultivo",
-    "email1": false
+    "email1": true,
+    "date1": "2026-10-18"
   },
   {
     "name": "San Lorenzo Agroindustrial",
@@ -51911,7 +51931,8 @@
     "emailVerifiedAt": "2026-10-17",
     "mxVerified": true,
     "template": "consultivo",
-    "email1": false
+    "email1": true,
+    "date1": "2026-10-18"
   },
   {
     "name": "Bombons Finos da Amazônia",
@@ -51975,7 +51996,8 @@
     "emailVerifiedAt": "2026-10-17",
     "mxVerified": true,
     "template": "consultivo",
-    "email1": false
+    "email1": true,
+    "date1": "2026-10-18"
   },
   {
     "name": "Liotécnica",
@@ -52487,7 +52509,8 @@
     "emailVerifiedAt": "2026-10-17",
     "mxVerified": true,
     "template": "consultivo",
-    "email1": false
+    "email1": true,
+    "date1": "2026-10-18"
   },
   {
     "name": "Locomotive Brew",
@@ -52503,7 +52526,8 @@
     "emailVerifiedAt": "2026-10-17",
     "mxVerified": true,
     "template": "consultivo",
-    "email1": false
+    "email1": true,
+    "date1": "2026-10-18"
   },
   {
     "name": "HZB Cervejas Artesanais",
@@ -52519,7 +52543,8 @@
     "emailVerifiedAt": "2026-10-17",
     "mxVerified": true,
     "template": "consultivo",
-    "email1": false
+    "email1": true,
+    "date1": "2026-10-18"
   },
   {
     "name": "GG Cervejaria",
@@ -52535,7 +52560,8 @@
     "emailVerifiedAt": "2026-10-17",
     "mxVerified": true,
     "template": "consultivo",
-    "email1": false
+    "email1": true,
+    "date1": "2026-10-18"
   },
   {
     "name": "Cervejaria Bamberg",
@@ -52551,7 +52577,8 @@
     "emailVerifiedAt": "2026-10-17",
     "mxVerified": true,
     "template": "consultivo",
-    "email1": false
+    "email1": true,
+    "date1": "2026-10-18"
   },
   {
     "name": "Brewto's",
@@ -52567,7 +52594,8 @@
     "emailVerifiedAt": "2026-10-17",
     "mxVerified": true,
     "template": "consultivo",
-    "email1": false
+    "email1": true,
+    "date1": "2026-10-18"
   },
   {
     "name": "Cervejaria Bierbaum",
@@ -52583,7 +52611,8 @@
     "emailVerifiedAt": "2026-10-17",
     "mxVerified": true,
     "template": "consultivo",
-    "email1": false
+    "email1": true,
+    "date1": "2026-10-18"
   },
   {
     "name": "Giffa Imperial Cervejaria",
@@ -52599,7 +52628,8 @@
     "emailVerifiedAt": "2026-10-17",
     "mxVerified": true,
     "template": "consultivo",
-    "email1": false
+    "email1": true,
+    "date1": "2026-10-18"
   },
   {
     "name": "Cervejaria Monte Crista",
@@ -52663,7 +52693,8 @@
     "emailVerifiedAt": "2026-10-17",
     "mxVerified": true,
     "template": "consultivo",
-    "email1": false
+    "email1": true,
+    "date1": "2026-10-18"
   },
   {
     "name": "Fruta Rica",
@@ -52679,7 +52710,8 @@
     "emailVerifiedAt": "2026-10-17",
     "mxVerified": true,
     "template": "consultivo",
-    "email1": false
+    "email1": true,
+    "date1": "2026-10-18"
   },
   {
     "name": "Tecnosuco Industrial",
@@ -52695,7 +52727,8 @@
     "emailVerifiedAt": "2026-10-17",
     "mxVerified": true,
     "template": "consultivo",
-    "email1": false
+    "email1": true,
+    "date1": "2026-10-18"
   },
   {
     "name": "Biosense",
@@ -52711,7 +52744,8 @@
     "emailVerifiedAt": "2026-10-17",
     "mxVerified": true,
     "template": "consultivo",
-    "email1": false
+    "email1": true,
+    "date1": "2026-10-18"
   },
   {
     "name": "Frutiverde",
@@ -52727,7 +52761,8 @@
     "emailVerifiedAt": "2026-10-17",
     "mxVerified": true,
     "template": "consultivo",
-    "email1": false
+    "email1": true,
+    "date1": "2026-10-18"
   },
   {
     "name": "Itaueira Agroindústria",
@@ -52743,7 +52778,8 @@
     "emailVerifiedAt": "2026-10-17",
     "mxVerified": true,
     "template": "consultivo",
-    "email1": false
+    "email1": true,
+    "date1": "2026-10-18"
   },
   {
     "name": "Idayo Sorvetes",
@@ -53962,7 +53998,8 @@
     "emailVerifiedAt": "2026-10-18",
     "mxVerified": true,
     "template": "consultivo",
-    "email1": false
+    "email1": true,
+    "date1": "2026-10-18"
   },
   {
     "name": "Padoca do Maní",
@@ -54029,7 +54066,8 @@
     "emailVerifiedAt": "2026-10-18",
     "mxVerified": true,
     "template": "consultivo",
-    "email1": false
+    "email1": true,
+    "date1": "2026-10-18"
   },
   {
     "name": "Cervejaria Dádiva",
@@ -54045,7 +54083,8 @@
     "emailVerifiedAt": "2026-10-18",
     "mxVerified": true,
     "template": "consultivo",
-    "email1": false
+    "email1": true,
+    "date1": "2026-10-18"
   },
   {
     "name": "Cervejaria 7 Grao",
@@ -54109,7 +54148,8 @@
     "emailVerifiedAt": "2026-10-18",
     "mxVerified": true,
     "template": "consultivo",
-    "email1": false
+    "email1": true,
+    "date1": "2026-10-18"
   },
   {
     "name": "LeoDolci Confeitaria",
@@ -54125,7 +54165,8 @@
     "emailVerifiedAt": "2026-10-18",
     "mxVerified": true,
     "template": "consultivo",
-    "email1": false
+    "email1": true,
+    "date1": "2026-10-18"
   },
   {
     "name": "Ateliê Lilian Carvalho",
@@ -54141,7 +54182,8 @@
     "emailVerifiedAt": "2026-10-18",
     "mxVerified": true,
     "template": "consultivo",
-    "email1": false
+    "email1": true,
+    "date1": "2026-10-18"
   },
   {
     "name": "Delícias da Nádia",
@@ -54157,7 +54199,8 @@
     "emailVerifiedAt": "2026-10-18",
     "mxVerified": true,
     "template": "consultivo",
-    "email1": false
+    "email1": true,
+    "date1": "2026-10-18"
   },
   {
     "name": "Enrolado & Granulado",
@@ -54173,7 +54216,8 @@
     "emailVerifiedAt": "2026-10-18",
     "mxVerified": true,
     "template": "consultivo",
-    "email1": false
+    "email1": true,
+    "date1": "2026-10-18"
   },
   {
     "name": "Doceria Kiorelle",
@@ -54205,7 +54249,8 @@
     "emailVerifiedAt": "2026-10-18",
     "mxVerified": true,
     "template": "consultivo",
-    "email1": false
+    "email1": true,
+    "date1": "2026-10-18"
   },
   {
     "name": "Sugar & Co",
@@ -54221,7 +54266,8 @@
     "emailVerifiedAt": "2026-10-18",
     "mxVerified": true,
     "template": "consultivo",
-    "email1": false
+    "email1": true,
+    "date1": "2026-10-18"
   },
   {
     "name": "Brodo Ristoranti",
@@ -54322,7 +54368,8 @@
     "emailVerifiedAt": "2026-10-18",
     "mxVerified": true,
     "template": "consultivo",
-    "email1": false
+    "email1": true,
+    "date1": "2026-10-18"
   },
   {
     "name": "Carlos Pizza Jardins",
@@ -54354,7 +54401,8 @@
     "emailVerifiedAt": "2026-10-18",
     "mxVerified": true,
     "template": "consultivo",
-    "email1": false
+    "email1": true,
+    "date1": "2026-10-18"
   },
   {
     "name": "Biazzini Pizzas",
@@ -54370,7 +54418,8 @@
     "emailVerifiedAt": "2026-10-18",
     "mxVerified": true,
     "template": "consultivo",
-    "email1": false
+    "email1": true,
+    "date1": "2026-10-18"
   },
   {
     "name": "Di Sorella Pizzaria",
@@ -54386,7 +54435,8 @@
     "emailVerifiedAt": "2026-10-18",
     "mxVerified": true,
     "template": "consultivo",
-    "email1": false
+    "email1": true,
+    "date1": "2026-10-18"
   },
   {
     "name": "Pizzaria Verdes Lírios",
@@ -54418,7 +54468,8 @@
     "emailVerifiedAt": "2026-10-18",
     "mxVerified": true,
     "template": "consultivo",
-    "email1": false
+    "email1": true,
+    "date1": "2026-10-18"
   },
   {
     "name": "Ito Cafés Especiais",
@@ -54450,7 +54501,8 @@
     "emailVerifiedAt": "2026-10-18",
     "mxVerified": true,
     "template": "consultivo",
-    "email1": false
+    "email1": true,
+    "date1": "2026-10-18"
   },
   {
     "name": "Urbe Café Bar",
@@ -54482,7 +54534,8 @@
     "emailVerifiedAt": "2026-10-18",
     "mxVerified": true,
     "template": "consultivo",
-    "email1": false
+    "email1": true,
+    "date1": "2026-10-18"
   },
   {
     "name": "Capi Café",
@@ -54498,7 +54551,8 @@
     "emailVerifiedAt": "2026-10-18",
     "mxVerified": true,
     "template": "consultivo",
-    "email1": false
+    "email1": true,
+    "date1": "2026-10-18"
   },
   {
     "name": "Café Especial Di Famiglia",
@@ -54514,7 +54568,8 @@
     "emailVerifiedAt": "2026-10-18",
     "mxVerified": true,
     "template": "consultivo",
-    "email1": false
+    "email1": true,
+    "date1": "2026-10-18"
   },
   {
     "name": "Domênica Café",
@@ -54546,7 +54601,8 @@
     "emailVerifiedAt": "2026-10-18",
     "mxVerified": true,
     "template": "consultivo",
-    "email1": false
+    "email1": true,
+    "date1": "2026-10-18"
   },
   {
     "name": "Amarelo Café Especial",
@@ -54562,7 +54618,8 @@
     "emailVerifiedAt": "2026-10-18",
     "mxVerified": true,
     "template": "consultivo",
-    "email1": false
+    "email1": true,
+    "date1": "2026-10-18"
   },
   {
     "name": "Foodie Burger",
@@ -54578,7 +54635,8 @@
     "emailVerifiedAt": "2026-10-18",
     "mxVerified": true,
     "template": "consultivo",
-    "email1": false
+    "email1": true,
+    "date1": "2026-10-18"
   },
   {
     "name": "212 Burger",
@@ -54594,7 +54652,8 @@
     "emailVerifiedAt": "2026-10-18",
     "mxVerified": true,
     "template": "consultivo",
-    "email1": false
+    "email1": true,
+    "date1": "2026-10-18"
   },
   {
     "name": "Burger Street",
@@ -54610,7 +54669,8 @@
     "emailVerifiedAt": "2026-10-18",
     "mxVerified": true,
     "template": "consultivo",
-    "email1": false
+    "email1": true,
+    "date1": "2026-10-18"
   },
   {
     "name": "Carlito Hambúrguer",
@@ -54626,7 +54686,8 @@
     "emailVerifiedAt": "2026-10-18",
     "mxVerified": true,
     "template": "consultivo",
-    "email1": false
+    "email1": true,
+    "date1": "2026-10-18"
   },
   {
     "name": "Sliders",
@@ -54642,7 +54703,8 @@
     "emailVerifiedAt": "2026-10-18",
     "mxVerified": true,
     "template": "consultivo",
-    "email1": false
+    "email1": true,
+    "date1": "2026-10-18"
   },
   {
     "name": "Real Burger",
@@ -54658,7 +54720,8 @@
     "emailVerifiedAt": "2026-10-18",
     "mxVerified": true,
     "template": "consultivo",
-    "email1": false
+    "email1": true,
+    "date1": "2026-10-18"
   },
   {
     "name": "Açaí Central",
@@ -54674,7 +54737,8 @@
     "emailVerifiedAt": "2026-10-18",
     "mxVerified": true,
     "template": "consultivo",
-    "email1": false
+    "email1": true,
+    "date1": "2026-10-18"
   },
   {
     "name": "Açaí no Copão",
@@ -54690,7 +54754,8 @@
     "emailVerifiedAt": "2026-10-18",
     "mxVerified": true,
     "template": "consultivo",
-    "email1": false
+    "email1": true,
+    "date1": "2026-10-18"
   },
   {
     "name": "Nosso Açaí",
@@ -54722,7 +54787,8 @@
     "emailVerifiedAt": "2026-10-18",
     "mxVerified": true,
     "template": "consultivo",
-    "email1": false
+    "email1": true,
+    "date1": "2026-10-18"
   },
   {
     "name": "Açaí Formosa",
@@ -54738,7 +54804,8 @@
     "emailVerifiedAt": "2026-10-18",
     "mxVerified": true,
     "template": "consultivo",
-    "email1": false
+    "email1": true,
+    "date1": "2026-10-18"
   },
   {
     "name": "Splendido Açaí",
@@ -54754,7 +54821,8 @@
     "emailVerifiedAt": "2026-10-18",
     "mxVerified": true,
     "template": "consultivo",
-    "email1": false
+    "email1": true,
+    "date1": "2026-10-18"
   },
   {
     "name": "Bom Bowls Moema",
@@ -54770,7 +54838,8 @@
     "emailVerifiedAt": "2026-10-18",
     "mxVerified": true,
     "template": "consultivo",
-    "email1": false
+    "email1": true,
+    "date1": "2026-10-18"
   },
   {
     "name": "Osnir Hamburguer",
@@ -54786,7 +54855,8 @@
     "emailVerifiedAt": "2026-10-18",
     "mxVerified": true,
     "template": "consultivo",
-    "email1": false
+    "email1": true,
+    "date1": "2026-10-18"
   },
   {
     "name": "Lanchonete Estevão",
@@ -54852,7 +54922,8 @@
     "emailVerifiedAt": "2026-10-18",
     "mxVerified": true,
     "template": "consultivo",
-    "email1": false
+    "email1": true,
+    "date1": "2026-10-18"
   },
   {
     "name": "California Original Kombucha",
@@ -54868,7 +54939,8 @@
     "emailVerifiedAt": "2026-10-18",
     "mxVerified": true,
     "template": "consultivo",
-    "email1": false
+    "email1": true,
+    "date1": "2026-10-18"
   },
   {
     "name": "B'STAR Kombucha",
@@ -54884,7 +54956,8 @@
     "emailVerifiedAt": "2026-10-18",
     "mxVerified": true,
     "template": "consultivo",
-    "email1": false
+    "email1": true,
+    "date1": "2026-10-18"
   },
   {
     "name": "Tres Kombucharia",
@@ -54916,7 +54989,8 @@
     "emailVerifiedAt": "2026-10-18",
     "mxVerified": true,
     "template": "consultivo",
-    "email1": false
+    "email1": true,
+    "date1": "2026-10-18"
   },
   {
     "name": "Liquida Bebidas",
@@ -54932,7 +55006,8 @@
     "emailVerifiedAt": "2026-10-18",
     "mxVerified": true,
     "template": "consultivo",
-    "email1": false
+    "email1": true,
+    "date1": "2026-10-18"
   },
   {
     "name": "Pod Kombucha",
@@ -54948,7 +55023,8 @@
     "emailVerifiedAt": "2026-10-18",
     "mxVerified": true,
     "template": "consultivo",
-    "email1": false
+    "email1": true,
+    "date1": "2026-10-18"
   },
   {
     "name": "Padaria Copacabana Bauru",
@@ -55031,7 +55107,8 @@
     "emailVerifiedAt": "2026-10-18",
     "mxVerified": true,
     "template": "consultivo",
-    "email1": false
+    "email1": true,
+    "date1": "2026-10-18"
   },
   {
     "name": "Tetê Confeitaria Bauru",
@@ -55047,7 +55124,8 @@
     "emailVerifiedAt": "2026-10-18",
     "mxVerified": true,
     "template": "consultivo",
-    "email1": false
+    "email1": true,
+    "date1": "2026-10-18"
   },
   {
     "name": "Padaria Casca de Noz",
@@ -55080,7 +55158,8 @@
     "emailVerifiedAt": "2026-10-18",
     "mxVerified": true,
     "template": "consultivo",
-    "email1": false
+    "email1": true,
+    "date1": "2026-10-18"
   },
   {
     "name": "DP Empório",
@@ -55214,7 +55293,8 @@
     "emailVerifiedAt": "2026-10-18",
     "mxVerified": true,
     "template": "consultivo",
-    "email1": false
+    "email1": true,
+    "date1": "2026-10-18"
   },
   {
     "name": "Smash Hamburgueria ZL",
@@ -55278,7 +55358,8 @@
     "emailVerifiedAt": "2026-10-18",
     "mxVerified": true,
     "template": "consultivo",
-    "email1": false
+    "email1": true,
+    "date1": "2026-10-18"
   },
   {
     "name": "Sanca's Burger",
@@ -55294,7 +55375,8 @@
     "emailVerifiedAt": "2026-10-18",
     "mxVerified": true,
     "template": "consultivo",
-    "email1": false
+    "email1": true,
+    "date1": "2026-10-18"
   },
   {
     "name": "D.O.M. Restaurante",
@@ -55395,7 +55477,8 @@
     "emailVerifiedAt": "2026-10-18",
     "mxVerified": true,
     "template": "consultivo",
-    "email1": false
+    "email1": true,
+    "date1": "2026-10-18"
   },
   {
     "name": "Charmm Chocolates",
@@ -55411,7 +55494,8 @@
     "emailVerifiedAt": "2026-10-18",
     "mxVerified": true,
     "template": "consultivo",
-    "email1": false
+    "email1": true,
+    "date1": "2026-10-18"
   },
   {
     "name": "Borussia Chocolates",
@@ -55427,7 +55511,8 @@
     "emailVerifiedAt": "2026-10-18",
     "mxVerified": true,
     "template": "consultivo",
-    "email1": false
+    "email1": true,
+    "date1": "2026-10-18"
   },
   {
     "name": "Premium Chocolates",
@@ -55443,7 +55528,8 @@
     "emailVerifiedAt": "2026-10-18",
     "mxVerified": true,
     "template": "consultivo",
-    "email1": false
+    "email1": true,
+    "date1": "2026-10-18"
   },
   {
     "name": "Baiani Chocolates",
@@ -55459,7 +55545,8 @@
     "emailVerifiedAt": "2026-10-18",
     "mxVerified": true,
     "template": "consultivo",
-    "email1": false
+    "email1": true,
+    "date1": "2026-10-18"
   },
   {
     "name": "The Fudge Chocolateria",
@@ -55507,7 +55594,8 @@
     "emailVerifiedAt": "2026-10-18",
     "mxVerified": true,
     "template": "consultivo",
-    "email1": false
+    "email1": true,
+    "date1": "2026-10-18"
   },
   {
     "name": "Milk Mellow Gelato",
@@ -55523,7 +55611,8 @@
     "emailVerifiedAt": "2026-10-18",
     "mxVerified": true,
     "template": "consultivo",
-    "email1": false
+    "email1": true,
+    "date1": "2026-10-18"
   },
   {
     "name": "Sorvetes Mil Graus",
@@ -55731,7 +55820,8 @@
     "emailVerifiedAt": "2026-10-18",
     "mxVerified": true,
     "template": "consultivo",
-    "email1": false
+    "email1": true,
+    "date1": "2026-10-18"
   },
   {
     "name": "Guia Food Trucks",
@@ -55747,7 +55837,8 @@
     "emailVerifiedAt": "2026-10-18",
     "mxVerified": true,
     "template": "consultivo",
-    "email1": false
+    "email1": true,
+    "date1": "2026-10-18"
   },
   {
     "name": "Melgar Eventos",
@@ -55763,7 +55854,8 @@
     "emailVerifiedAt": "2026-10-18",
     "mxVerified": true,
     "template": "consultivo",
-    "email1": false
+    "email1": true,
+    "date1": "2026-10-18"
   },
   {
     "name": "Go Trucks Food e Drinks",
@@ -55779,7 +55871,8 @@
     "emailVerifiedAt": "2026-10-18",
     "mxVerified": true,
     "template": "consultivo",
-    "email1": false
+    "email1": true,
+    "date1": "2026-10-18"
   },
   {
     "name": "Gourmetiza Eventos",
@@ -55795,7 +55888,8 @@
     "emailVerifiedAt": "2026-10-18",
     "mxVerified": true,
     "template": "consultivo",
-    "email1": false
+    "email1": true,
+    "date1": "2026-10-18"
   },
   {
     "name": "Fit Truck",
@@ -55811,7 +55905,8 @@
     "emailVerifiedAt": "2026-10-18",
     "mxVerified": true,
     "template": "consultivo",
-    "email1": false
+    "email1": true,
+    "date1": "2026-10-18"
   },
   {
     "name": "+55 Food Truck",
@@ -55827,7 +55922,8 @@
     "emailVerifiedAt": "2026-10-18",
     "mxVerified": true,
     "template": "consultivo",
-    "email1": false
+    "email1": true,
+    "date1": "2026-10-18"
   },
   {
     "name": "Marmitaria Saudavel",
@@ -55859,7 +55955,8 @@
     "emailVerifiedAt": "2026-10-18",
     "mxVerified": true,
     "template": "consultivo",
-    "email1": false
+    "email1": true,
+    "date1": "2026-10-18"
   },
   {
     "name": "Vinhos do Mundo SP",
@@ -55939,7 +56036,8 @@
     "emailVerifiedAt": "2026-10-18",
     "mxVerified": true,
     "template": "consultivo",
-    "email1": false
+    "email1": true,
+    "date1": "2026-10-18"
   },
   {
     "name": "Overwine Importadora",
@@ -55971,6 +56069,7 @@
     "emailVerifiedAt": "2026-10-18",
     "mxVerified": true,
     "template": "consultivo",
-    "email1": false
+    "email1": true,
+    "date1": "2026-10-18"
   }
 ]
