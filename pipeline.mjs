@@ -91,6 +91,7 @@ if (!trustedSource || !/^\d{4}-\d{2}-\d{2}$/.test(verifiedAt)) return false;
 
 function permanentRecipientError(error) {
   const text = `${error?.responseCode || ''} ${error?.code || ''} ${error?.response || ''} ${error?.message || ''}`.toLowerCase();
+  if (/5\.4\.5|sending limit|rate.?limit|too many|quota exceeded|try again later|4\.7\.28|421/.test(text)) return false;
   return /\b550\b|5\.1\.1|user unknown|no such user|mailbox unavailable|recipient address rejected|address not found/.test(text);
 }
 
