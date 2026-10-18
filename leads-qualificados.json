@@ -49301,13 +49301,14 @@
     "city": "São Paulo",
     "website": "",
     "phone": "",
-    "context": "",
+    "context": "Distribuidora alimentos bebidas Sao Paulo",
     "emailVerified": true,
     "emailSource": "https://www.diariocidade.com/",
     "emailVerifiedAt": "2026-10-17",
     "mxVerified": true,
     "template": "consultivo",
-    "email1": false
+    "email1": false,
+    "name": "Mais Distribuidora Alimentos"
   },
   {
     "name": "00 Sao Paulo",
