@@ -73,7 +73,7 @@ const FIRST_CONTACT_TYPES = new Set([
 function eligibleFirstContactType(type) {
   const normalized = String(type || '').toLowerCase();
   return FIRST_CONTACT_TYPES.has(normalized) ||
-    /(^|_)(adega|loja|loja_bebidas|distribuidora|distribuidor|atacadista|bar|balada|restaurante|buffet|hotel|catering|supermercado|padaria|mercadinho|conveniencia|emporio|gelateria|sorveteria|churrascaria|chocolateria|confeitaria|carnes|pizzaria|hamburgueria|cafeteria|açaí|acai|bebidas|pizzar|massas|cervejaria|vinhoteca|fromagerie|charcutaria|rotisseria|marmitaria|lanchonete|sanduicheria|sushi|japonesa|italiana|francesa|espanhola|mediterranea|steakhouse|gastrobar|bistrô|bistro)(_|$)/.test(normalized);
+    /(^|_)(adega|loja|loja_bebidas|distribuidora|distribuidor|atacadista|bar|balada|restaurante|buffet|hotel|catering|supermercado|padaria|mercadinho|conveniencia|emporio|gelateria|sorveteria|churrascaria|chocolateria|confeitaria|carnes|pizzaria|hamburgueria|cafeteria|açaí|acai|bebidas|pizzar|massas|cervejaria|vinhoteca|fromagerie|charcutaria|rotisseria|marmitaria|lanchonete|sanduicheria|sushi|japonesa|italiana|francesa|espanhola|mediterranea|steakhouse|gastrobar|bistrô|bistro|fabrica|industria|microcervejaria|doceria)(_|$)/.test(normalized);
 }
 
 function verifiedFirstContact(lead) {
