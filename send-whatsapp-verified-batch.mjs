@@ -67,31 +67,39 @@ let sent = 0;
 for (const target of eligible) {
   if (alreadyToday + sent >= LIMIT) break;
   const number = normalize(target.phone);
-  const availability = await sock.onWhatsApp(number);
-  if (!Array.isArray(availability) || !availability.some((item) => item.exists)) {
-    console.log(`SEM WHATSAPP: ${target.name} <${target.phone}>`);
-    log.push({ date: today, checkedAt: new Date().toISOString(), status: 'not_on_whatsapp', name: target.name, phone: target.phone, source: target.source });
-    writeFileSync(logFile, JSON.stringify(log, null, 2));
+  if (!/^55\d{10,11}$/.test(number)) {
+    console.log(`TELEFONE INVALIDO: ${target.name} <${target.phone}>`);
     continue;
   }
   const message = `Olá! Sou o Gustavo, da Pindorama — cachaça artesanal premium do Vale do Café (RJ), a mesma de Fasano, Hilton e Rosewood. Quero mandar uma amostra grátis para a ${target.name} testar, com o primeiro pedido bonificado. Posso combinar o envio? Se não interessar, me avisa que não volto a chamar.`;
-  const result = await sendText(`${number}@s.whatsapp.net`, message);
-  const messageId = result?.key?.id || null;
-  const lead = leads.find((item) => item.name === target.name);
-  if (lead) {
-    lead.whatsappSent = true;
-    lead.whatsappDate = today;
-    lead.whatsappSource = target.source;
+  try {
+    const result = await sendText(`${number}@s.whatsapp.net`, message);
+    const messageId = result?.key?.id || null;
+    const lead = leads.find((item) => item.name === target.name);
+    if (lead) {
+      lead.whatsappSent = true;
+      lead.whatsappDate = today;
+      lead.whatsappSource = target.source;
+    }
+    target.status = 'sent';
+    target.sentAt = new Date().toISOString();
+    log.push({ date: today, acceptedAt: new Date().toISOString(), status: 'accepted', name: target.name, phone: target.phone, source: target.source, messageId });
+    writeFileSync(leadsFile, JSON.stringify(leads, null, 2));
+    writeFileSync(queueFile, JSON.stringify(targets, null, 2));
+    writeFileSync(logFile, JSON.stringify(log, null, 2));
+    console.log(`WHATSAPP OK: ${target.name} <${target.phone}> id=${messageId}`);
+    sent++;
+    await new Promise((resolve) => setTimeout(resolve, 5000));
+  } catch (error) {
+    const msg = String(error?.message || error).toLowerCase();
+    const notOnWa = /not.?on.?whatsapp|does not exist|jid_not_in_whatsapp|account not found/.test(msg);
+    console.log(`${notOnWa ? 'SEM WHATSAPP' : 'WHATSAPP ERR'}: ${target.name} <${target.phone}> — ${error?.message || error}`);
+    log.push({ date: today, checkedAt: new Date().toISOString(), status: notOnWa ? 'not_on_whatsapp' : 'error', name: target.name, phone: target.phone, source: target.source, error: String(error?.message || error).slice(0, 200) });
+    writeFileSync(logFile, JSON.stringify(log, null, 2));
+    if (notOnWa) target.status = 'not_on_whatsapp';
+    else break;
+    await new Promise((resolve) => setTimeout(resolve, 3000));
   }
-  target.status = 'sent';
-  target.sentAt = new Date().toISOString();
-  log.push({ date: today, acceptedAt: new Date().toISOString(), status: 'accepted', name: target.name, phone: target.phone, source: target.source, messageId });
-  writeFileSync(leadsFile, JSON.stringify(leads, null, 2));
-  writeFileSync(queueFile, JSON.stringify(targets, null, 2));
-  writeFileSync(logFile, JSON.stringify(log, null, 2));
-  console.log(`WHATSAPP OK: ${target.name} <${target.phone}> id=${messageId}`);
-  sent++;
-  await new Promise((resolve) => setTimeout(resolve, 5000));
 }
 
 console.log(`RESUMO WhatsApp: ${sent} aceitas; cota ${alreadyToday + sent}/${LIMIT}.`);

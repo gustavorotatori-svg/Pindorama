@@ -36334,7 +36334,9 @@
     "template": "consultivo",
     "emailVerified": true,
     "emailSource": "https://www.example.com",
-    "emailVerifiedAt": "2026-10-17"
+    "emailVerifiedAt": "2026-10-17",
+    "whatsappSent": true,
+    "whatsappDate": "2026-10-19"
   },
   {
     "name": "Mont Cristo Wine Bar",
@@ -38087,7 +38089,10 @@
     "email1": false,
     "emailVerified": true,
     "emailSource": "https://www.example.com",
-    "emailVerifiedAt": "2026-10-17"
+    "emailVerifiedAt": "2026-10-17",
+    "whatsappSent": true,
+    "whatsappDate": "2026-10-19",
+    "whatsappSource": "https://adegaimperador.com.br/adegaimperador/adegaimperador/pages/contato"
   },
   {
     "name": "Adega Imperio Guarulhos",
@@ -38716,7 +38721,10 @@
     "email2": true,
     "date2": "2026-09-10",
     "email3": true,
-    "date3": "2026-09-14"
+    "date3": "2026-09-14",
+    "whatsappSent": true,
+    "whatsappDate": "2026-10-19",
+    "whatsappSource": "https://www.fg7bebidas.com.br/"
   },
   {
     "name": "JMatos Bebidas",
@@ -48856,7 +48864,10 @@
     "date1": "2026-10-16",
     "invalidEmail": true,
     "invalidEmailReason": "permanent_recipient_error",
-    "invalidEmailDate": "2026-10-17"
+    "invalidEmailDate": "2026-10-17",
+    "whatsappSent": true,
+    "whatsappDate": "2026-10-19",
+    "whatsappSource": "https://www.sampaadega.com.br/"
   },
   {
     "name": "Polar Adega",
