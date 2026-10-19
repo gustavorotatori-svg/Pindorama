@@ -54162,7 +54162,12 @@
     "date2": "2026-10-19",
     "responded": true,
     "respondedAt": "2026-10-19",
-    "phoneVerified": true
+    "phoneVerified": true,
+    "repliedAt": "2026-10-19",
+    "repliedCount": 1,
+    "contactName": "Washington",
+    "contactRole": "compras",
+    "hot": true
   },
   {
     "name": "Padaria Marajá",
