@@ -2485,7 +2485,7 @@ Fahrenheit JK Iguatemi;marketing@restf.com.br;;(11) 3152-6040;Avenida Presidente
 Seen Restaurant & Bar;reservas@seensp.com;+55 11 91635-3751;+55 11 91635-3751;Alameda Santos, 1437 - 23º andar - São Paulo;Jardins;bar;2026-08-21;2026-08-29;2026-09-01;2026-08-20
 Adega Morais;;+55 11 99423-9844;+55 11 99423-9844;Barueri;;adega;;;;2026-09-10
 Confianca Atacadista de Bebidas;;(11) 93071-3396;(11) 93071-3396;Avenida Sapopemba, 14710 - Sao Paulo;Sapopemba;distribuidora;;;;2026-09-11
-Nossa Distribuidora Bebidas;;;(11) 99950-3806;Osasco;;distribuidora;;;;
+Nossa Distribuidora Bebidas;;(11) 99950-3806;(11) 99950-3806;Osasco;;distribuidora;;;;2026-10-19
 Mont Cristo Wine Bar;;(11) 95590-0994;(11) 95590-0994;Rua das Figueiras, 631 - Jardim - Santo Andre;Jardim;bar;;;;2026-09-11
 Casa Porto D'Vino;;(11) 94044-1797;(11) 94044-1797;Rua Porto Carrero, 424 - Campestre - Santo Andre;Campestre;adega;;;;2026-09-11
 Supermercados Peg Pese;;(11) 97252-6182;(11) 97252-6182;Unidades em Sao Paulo, Sao Bernardo do Campo e Santo Andre;Grande Sao Paulo;supermercado;;;;2026-09-11
@@ -2561,7 +2561,7 @@ Adega e Mercearia Impacto;;(11) 95445-0358;(11) 95445-0358;Osasco;Conceicao;adeg
 Adega Delivery;;;(11) 98774-9030;Sao Paulo;Jardim Jaqueline;adega_delivery_24h_cachaca_destilados;;;;
 Gold Beer Adega e Tabacaria;;;;Itapecerica da Serra;;adega_delivery_cachaca_artesanal;;;;
 Adega e Distribuidora W&A;;;;Itaquaquecetuba;;adega_distribuidora_delivery_cachaca_destilados;;;;
-Adega Imperador;;;;Sao Paulo;Americanopolis;adega_delivery_cachacas_premium_destilados;;;;
+Adega Imperador;;(11) 98135-5842;;Sao Paulo;Americanopolis;adega_delivery_cachacas_premium_destilados;;;;2026-10-19
 Adega Imperio Guarulhos;;;;Guarulhos;;adega_delivery_destilados_vinhos_cervejas;;;;
 A Doce Dose - Capuava;;;;Santo Andre;Vila Curuca;bar_restaurante_delivery_batidas_cachaca;;;;
 Haiak Sushi - Unidade Itapevi;;;;Itapevi;;restaurante_delivery_caipirinha_cachaca;;;;
@@ -2586,7 +2586,7 @@ Wanel Beach;;;(15) 99196-3030;Sorocaba;Jardim Wanel Ville V;clube_esportivo_bar_
 New York Bar 41;;;(15) 99684-2933;Sorocaba;Jardim Prestes de Barros;bar_caipirinhas_cachaca_eventos;;;;
 Bertin Bebidas;sac@bertinbebidas.com.br;;(15) 3238-7000;Sorocaba;Morros;distribuidora_bebidas_cachacas;2026-09-04;2026-09-10;2026-09-14;
 Estacao da Comida Sorocaba;;;(15) 99708-3809;Sorocaba;Jardim Santa Rosalia;restaurante_caipirinhas_cachaca;;;;
-FG7 Bebidas;site@fg7bebidas.com.br;;(11) 94787-0025;Sao Paulo;;loja_bebidas;2026-09-04;2026-09-10;2026-09-14;
+FG7 Bebidas;site@fg7bebidas.com.br;(11) 94787-0025;(11) 94787-0025;Sao Paulo;;loja_bebidas;2026-09-04;2026-09-10;2026-09-14;2026-10-19
 JMatos Bebidas;comercial@jmatosbebidas.com.br;;+55 (11) 2373-2970;;Mirandopolis;distribuidora;2026-09-04;2026-09-10;2026-09-14;
 Pezasa Distribuidora de Bebidas;distribuidora@pezasa.com.br;;(17) 3353-8703;Sao Jose do Rio Preto;Chacara Jockey Club;distribuidora_bebidas_cachacas;2026-09-04;2026-09-10;2026-09-14;
 Buteco em Casa Campinas;;;(19) 99965-1244;Campinas;;buffet_eventos_bar_caipirinhas;;;;
@@ -3121,7 +3121,7 @@ Distacado Distribuidora;contato@distacado.com.br;;;São Paulo;Alphaville;distrib
 Colibrí Distribuidora Food Service;contato@colibridistribuidora.com.br;;(11) 3719-4262;São Paulo;Presidente Altino;distribuidora;2026-10-17;2026-10-18;;
 Rosso Pizza;contato@rossopizza.com.br;;(11) 2669-6036;São Paulo;Centro;restaurante;2026-10-17;2026-10-18;;
 Le Sorelle Gastronomia;contato@lsgastronomia.com.br;;(11) 93323-1902;São Paulo;São Bernardo do Campo;restaurante;2026-10-17;2026-10-18;;
-Sampa Adega;contato@sampaadega.com.br;;(11) 98402-3929;São Paulo;Vila Ema;adega;2026-10-16;;;
+Sampa Adega;contato@sampaadega.com.br;(11) 98402-3929;(11) 98402-3929;São Paulo;Vila Ema;adega;2026-10-16;;;2026-10-19
 Polar Adega;contato@adegapolar.com.br;;(11) 9620-6646;São Paulo;Cidade Líder;adega;2026-10-16;;;
 Leges Bebidas;contato@legesbebidas.com.br;;(11) 3859-3185;São Paulo;Brasília;distribuidora;2026-10-16;;;
 Iulia Itaim;reserva@iulia.com.br;;;São Paulo;Itaim Bibi;bar;2026-10-17;2026-10-18;;
