@@ -54149,8 +54149,8 @@
     "neighborhood": "Bela Vista",
     "city": "São Paulo",
     "website": "https://www.basilicata.com.br",
-    "phone": "(11) 3289-3111",
-    "context": "Padaria, Empório e Restaurante italiano",
+    "phone": "(11) 99400-4272",
+    "context": "Padaria, Empório e Restaurante italiano | RESPONDEU 19/10: pediu contas Fasano/Hilton/Rosewood, contato compras Washington (11) 99400-4272",
     "emailVerified": true,
     "emailSource": "https://www.basilicata.com.br",
     "emailVerifiedAt": "2026-10-18",
@@ -54159,7 +54159,10 @@
     "email1": true,
     "date1": "2026-10-17",
     "email2": true,
-    "date2": "2026-10-19"
+    "date2": "2026-10-19",
+    "responded": true,
+    "respondedAt": "2026-10-19",
+    "phoneVerified": true
   },
   {
     "name": "Padaria Marajá",
