@@ -1,5 +1,5 @@
 {
-  "lastUpdate": "2026-10-18T20:27:57.125Z",
+  "lastUpdate": "2026-10-19T04:22:19.580Z",
   "totalLeads": 3565,
   "allLeads": [
     {
@@ -25293,7 +25293,9 @@
       "neighborhood": "Moema",
       "city": "S├úo Paulo",
       "email": "compras@grupolocale.com.br",
-      "emailVerified": true
+      "emailVerified": true,
+      "email1": true,
+      "date1": "2026-10-18"
     },
     {
       "name": "Locale Caff├® (Compras Carla)",
@@ -28230,7 +28232,9 @@
       "email": "ciao@ciaovinoebirra.com.br",
       "emailVerified": true,
       "email1": true,
-      "date1": "2026-10-17"
+      "date1": "2026-10-17",
+      "email2": true,
+      "date2": "2026-10-18"
     },
     {
       "name": "KAÃ RESTAURANTE",
@@ -28493,7 +28497,9 @@
       "email": "info@pina.restaurant",
       "emailVerified": true,
       "email1": true,
-      "date1": "2026-10-17"
+      "date1": "2026-10-17",
+      "email2": true,
+      "date2": "2026-10-18"
     },
     {
       "name": "BAROLO TRATTORIA",
@@ -28514,7 +28520,9 @@
       "email": "sanmarco@cantinasanmarco.com.br",
       "emailVerified": true,
       "email1": true,
-      "date1": "2026-10-17"
+      "date1": "2026-10-17",
+      "email2": true,
+      "date2": "2026-10-18"
     },
     {
       "name": "CÃR",
@@ -28601,7 +28609,9 @@
       "email": "brado@bradorestaurante.com.br",
       "emailVerified": true,
       "email1": true,
-      "date1": "2026-10-17"
+      "date1": "2026-10-17",
+      "email2": true,
+      "date2": "2026-10-18"
     },
     {
       "name": "JAPS",
@@ -28655,7 +28665,9 @@
       "email": "atendimento@panificadoravilamonumento.com.br",
       "emailVerified": true,
       "email1": true,
-      "date1": "2026-10-17"
+      "date1": "2026-10-17",
+      "email2": true,
+      "date2": "2026-10-18"
     },
     {
       "name": "Boteco Coutinho",
@@ -28731,7 +28743,9 @@
       "email": "botecosaopaulo@botecosaopaulo.com.br",
       "emailVerified": true,
       "email1": true,
-      "date1": "2026-10-17"
+      "date1": "2026-10-17",
+      "email2": true,
+      "date2": "2026-10-18"
     },
     {
       "name": "NOW BURGER",
@@ -28818,7 +28832,9 @@
       "email": "contato@padariamanuella.com.br",
       "emailVerified": true,
       "email1": true,
-      "date1": "2026-10-17"
+      "date1": "2026-10-17",
+      "email2": true,
+      "date2": "2026-10-18"
     },
     {
       "name": "BURGER FUN",
@@ -30921,7 +30937,9 @@
       "email": "contato@aselva.com.br",
       "emailVerified": true,
       "email1": true,
-      "date1": "2026-10-17"
+      "date1": "2026-10-17",
+      "email2": true,
+      "date2": "2026-10-18"
     },
     {
       "name": "Venda Dona Noêmia",
@@ -30931,7 +30949,9 @@
       "email": "contato@vendadonanoemia.com.br",
       "emailVerified": true,
       "email1": true,
-      "date1": "2026-10-17"
+      "date1": "2026-10-17",
+      "email2": true,
+      "date2": "2026-10-18"
     },
     {
       "name": "Gaman'T Sushi Bar",
@@ -30941,7 +30961,9 @@
       "email": "contato@gamant.com.br",
       "emailVerified": true,
       "email1": true,
-      "date1": "2026-10-17"
+      "date1": "2026-10-17",
+      "email2": true,
+      "date2": "2026-10-18"
     },
     {
       "name": "The Bull Pub Granja Viana",
@@ -30951,7 +30973,9 @@
       "email": "contato@thebullpubgv.com",
       "emailVerified": true,
       "email1": true,
-      "date1": "2026-10-17"
+      "date1": "2026-10-17",
+      "email2": true,
+      "date2": "2026-10-18"
     },
     {
       "name": "Distacado Distribuidora",
@@ -30961,7 +30985,9 @@
       "email": "contato@distacado.com.br",
       "emailVerified": true,
       "email1": true,
-      "date1": "2026-10-17"
+      "date1": "2026-10-17",
+      "email2": true,
+      "date2": "2026-10-18"
     },
     {
       "name": "Colibrí Distribuidora Food Service",
@@ -30971,7 +30997,9 @@
       "email": "contato@colibridistribuidora.com.br",
       "emailVerified": true,
       "email1": true,
-      "date1": "2026-10-17"
+      "date1": "2026-10-17",
+      "email2": true,
+      "date2": "2026-10-18"
     },
     {
       "name": "Rosso Pizza",
@@ -30981,7 +31009,9 @@
       "email": "contato@rossopizza.com.br",
       "emailVerified": true,
       "email1": true,
-      "date1": "2026-10-17"
+      "date1": "2026-10-17",
+      "email2": true,
+      "date2": "2026-10-18"
     },
     {
       "name": "Le Sorelle Gastronomia",
@@ -30991,7 +31021,9 @@
       "email": "contato@lsgastronomia.com.br",
       "emailVerified": true,
       "email1": true,
-      "date1": "2026-10-17"
+      "date1": "2026-10-17",
+      "email2": true,
+      "date2": "2026-10-18"
     },
     {
       "name": "Sampa Adega",
@@ -31034,7 +31066,9 @@
       "email": "reserva@iulia.com.br",
       "emailVerified": true,
       "email1": true,
-      "date1": "2026-10-17"
+      "date1": "2026-10-17",
+      "email2": true,
+      "date2": "2026-10-18"
     },
     {
       "name": "Gero Jardins",
@@ -31044,7 +31078,9 @@
       "email": "gero@fasano.com.br",
       "emailVerified": true,
       "email1": true,
-      "date1": "2026-10-17"
+      "date1": "2026-10-17",
+      "email2": true,
+      "date2": "2026-10-18"
     },
     {
       "name": "Restaurante Fasano",
@@ -31054,7 +31090,9 @@
       "email": "restaurante@fasano.com.br",
       "emailVerified": true,
       "email1": true,
-      "date1": "2026-10-17"
+      "date1": "2026-10-17",
+      "email2": true,
+      "date2": "2026-10-18"
     },
     {
       "name": "Ristorantino Jardins",
@@ -31064,7 +31102,9 @@
       "email": "contato@ristorantino.com.br",
       "emailVerified": true,
       "email1": true,
-      "date1": "2026-10-17"
+      "date1": "2026-10-17",
+      "email2": true,
+      "date2": "2026-10-18"
     },
     {
       "name": "Miró Gastronomia",
@@ -31074,7 +31114,9 @@
       "email": "reservas@mirogastronomia.com.br",
       "emailVerified": true,
       "email1": true,
-      "date1": "2026-10-17"
+      "date1": "2026-10-17",
+      "email2": true,
+      "date2": "2026-10-18"
     },
     {
       "name": "WZ Hotel Jardins",
@@ -31084,7 +31126,9 @@
       "email": "reservas@wzhoteljardins.com.br",
       "emailVerified": true,
       "email1": true,
-      "date1": "2026-10-17"
+      "date1": "2026-10-17",
+      "email2": true,
+      "date2": "2026-10-18"
     },
     {
       "name": "Hotel Trianon Paulista",
@@ -31094,7 +31138,9 @@
       "email": "reservas@hoteltrianon.com.br",
       "emailVerified": true,
       "email1": true,
-      "date1": "2026-10-17"
+      "date1": "2026-10-17",
+      "email2": true,
+      "date2": "2026-10-18"
     },
     {
       "name": "Meliá Jardim Europa",
@@ -31104,7 +31150,9 @@
       "email": "melia.jardim.europa@solmelia.com",
       "emailVerified": true,
       "email1": true,
-      "date1": "2026-10-17"
+      "date1": "2026-10-17",
+      "email2": true,
+      "date2": "2026-10-18"
     },
     {
       "name": "Adega Bianchi",
@@ -31114,7 +31162,9 @@
       "email": "comercial.adegabianchi@gmail.com",
       "emailVerified": true,
       "email1": true,
-      "date1": "2026-10-17"
+      "date1": "2026-10-17",
+      "email2": true,
+      "date2": "2026-10-18"
     },
     {
       "name": "Comercio de Bebidas Dom Lazaro Ltda",
@@ -31124,7 +31174,9 @@
       "email": "lazaro@distribuidoradobebidas.com.br",
       "emailVerified": true,
       "email1": true,
-      "date1": "2026-10-17"
+      "date1": "2026-10-17",
+      "email2": true,
+      "date2": "2026-10-18"
     },
     {
       "name": "Serra Geral Distribuidora de Bebidas LTDA",
@@ -31134,7 +31186,9 @@
       "email": "contato@serrageralbebidas.com.br",
       "emailVerified": true,
       "email1": true,
-      "date1": "2026-10-17"
+      "date1": "2026-10-17",
+      "email2": true,
+      "date2": "2026-10-18"
     },
     {
       "name": "Adega Tonel",
@@ -31144,7 +31198,9 @@
       "email": "contato@adedgaetonel.com.br",
       "emailVerified": true,
       "email1": true,
-      "date1": "2026-10-17"
+      "date1": "2026-10-17",
+      "email2": true,
+      "date2": "2026-10-18"
     },
     {
       "name": "Lounge da Villa - Adega da Villa Distribuidora",
@@ -31154,7 +31210,9 @@
       "email": "loungevilla@distribuidoralavilla.com.br",
       "emailVerified": true,
       "email1": true,
-      "date1": "2026-10-17"
+      "date1": "2026-10-17",
+      "email2": true,
+      "date2": "2026-10-18"
     },
     {
       "name": "The Bar Coquetelaria",
@@ -31164,7 +31222,9 @@
       "email": "contato@thebar.br",
       "emailVerified": true,
       "email1": true,
-      "date1": "2026-10-17"
+      "date1": "2026-10-17",
+      "email2": true,
+      "date2": "2026-10-18"
     },
     {
       "name": "Bowlbar",
@@ -31174,7 +31234,9 @@
       "email": "contato@bowlbar.com.br",
       "emailVerified": true,
       "email1": true,
-      "date1": "2026-10-17"
+      "date1": "2026-10-17",
+      "email2": true,
+      "date2": "2026-10-18"
     },
     {
       "name": "Arapuka Bar",
@@ -31184,7 +31246,9 @@
       "email": "contato@arapukabar.com.br",
       "emailVerified": true,
       "email1": true,
-      "date1": "2026-10-17"
+      "date1": "2026-10-17",
+      "email2": true,
+      "date2": "2026-10-18"
     },
     {
       "name": "Imperio das Esfihas Jandira",
@@ -31194,7 +31258,9 @@
       "email": "contato@imperiodaesfihas.com.br",
       "emailVerified": true,
       "email1": true,
-      "date1": "2026-10-17"
+      "date1": "2026-10-17",
+      "email2": true,
+      "date2": "2026-10-18"
     },
     {
       "name": "Skye Restaurant & Bar",
@@ -31204,7 +31270,9 @@
       "email": "skye@hotelunique.com",
       "emailVerified": true,
       "email1": true,
-      "date1": "2026-10-17"
+      "date1": "2026-10-17",
+      "email2": true,
+      "date2": "2026-10-18"
     },
     {
       "name": "B.A.R. - Bar Arte Restaurante",
@@ -31214,7 +31282,9 @@
       "email": "contato@bararterestaurante.com.br",
       "emailVerified": true,
       "email1": true,
-      "date1": "2026-10-17"
+      "date1": "2026-10-17",
+      "email2": true,
+      "date2": "2026-10-18"
     },
     {
       "name": "Distribuidora Importline",
@@ -31224,7 +31294,9 @@
       "email": "contato@distribuidoraimportline.com.br",
       "emailVerified": true,
       "email1": true,
-      "date1": "2026-10-17"
+      "date1": "2026-10-17",
+      "email2": true,
+      "date2": "2026-10-18"
     },
     {
       "name": "JLX Distribuidora",
@@ -31234,7 +31306,9 @@
       "email": "contato@jlx.com.br",
       "emailVerified": true,
       "email1": true,
-      "date1": "2026-10-17"
+      "date1": "2026-10-17",
+      "email2": true,
+      "date2": "2026-10-18"
     },
     {
       "name": "Ramari Distribuidora",
@@ -31244,7 +31318,9 @@
       "email": "contato@ramaridistribuidora.com.br",
       "emailVerified": true,
       "email1": true,
-      "date1": "2026-10-17"
+      "date1": "2026-10-17",
+      "email2": true,
+      "date2": "2026-10-18"
     },
     {
       "name": "Barrigudinha Express",
@@ -31254,7 +31330,9 @@
       "email": "contato@barrigudinhaexpress.com.br",
       "emailVerified": true,
       "email1": true,
-      "date1": "2026-10-17"
+      "date1": "2026-10-17",
+      "email2": true,
+      "date2": "2026-10-18"
     },
     {
       "name": "Emporio Sagarana",
@@ -31264,7 +31342,9 @@
       "email": "emporiosagarana@gmail.com",
       "emailVerified": true,
       "email1": true,
-      "date1": "2026-10-17"
+      "date1": "2026-10-17",
+      "email2": true,
+      "date2": "2026-10-18"
     },
     {
       "name": "Adega Brasil",
@@ -31274,7 +31354,9 @@
       "email": "ecommerce@adegabrasil.com.br",
       "emailVerified": true,
       "email1": true,
-      "date1": "2026-10-17"
+      "date1": "2026-10-17",
+      "email2": true,
+      "date2": "2026-10-18"
     },
     {
       "name": "Mais Distribuidora Alimentos",
@@ -31294,7 +31376,9 @@
       "email": "reserva@00saopaulo.com.br",
       "emailVerified": true,
       "email1": true,
-      "date1": "2026-10-17"
+      "date1": "2026-10-17",
+      "email2": true,
+      "date2": "2026-10-18"
     },
     {
       "name": "Havana Club",
@@ -31304,7 +31388,9 @@
       "email": "havana.club@renaissancehotels.com",
       "emailVerified": true,
       "email1": true,
-      "date1": "2026-10-17"
+      "date1": "2026-10-17",
+      "email2": true,
+      "date2": "2026-10-18"
     },
     {
       "name": "Valhala Dance House",
@@ -31314,7 +31400,9 @@
       "email": "valhala@valhala.com.br",
       "emailVerified": true,
       "email1": true,
-      "date1": "2026-10-17"
+      "date1": "2026-10-17",
+      "email2": true,
+      "date2": "2026-10-18"
     },
     {
       "name": "Casa 92",
@@ -31324,7 +31412,9 @@
       "email": "casa92@casa92.com.br",
       "emailVerified": true,
       "email1": true,
-      "date1": "2026-10-17"
+      "date1": "2026-10-17",
+      "email2": true,
+      "date2": "2026-10-18"
     },
     {
       "name": "Koo Club",
@@ -31334,7 +31424,9 @@
       "email": "contato@kooclub.com.br",
       "emailVerified": true,
       "email1": true,
-      "date1": "2026-10-17"
+      "date1": "2026-10-17",
+      "email2": true,
+      "date2": "2026-10-18"
     },
     {
       "name": "Bar Secreto",
@@ -31344,7 +31436,9 @@
       "email": "infos@barsecreto.com.br",
       "emailVerified": true,
       "email1": true,
-      "date1": "2026-10-17"
+      "date1": "2026-10-17",
+      "email2": true,
+      "date2": "2026-10-18"
     },
     {
       "name": "OFFSET",
@@ -31496,7 +31590,8 @@
       "city": "São Paulo",
       "email": "dadobier@dadobier.com.br",
       "emailVerified": true,
-      "email1": false
+      "email1": true,
+      "date1": "2026-10-18"
     },
     {
       "name": "Cervejaria Pontal",
@@ -31514,7 +31609,8 @@
       "city": "Itapetininga",
       "email": "contato@rt166cervejaria.com.br",
       "emailVerified": true,
-      "email1": false
+      "email1": true,
+      "date1": "2026-10-18"
     },
     {
       "name": "Cervejaria UNIKA Ltda",
@@ -31542,7 +31638,8 @@
       "city": "São Paulo",
       "email": "domaclientes@gmail.com",
       "emailVerified": true,
-      "email1": false
+      "email1": true,
+      "date1": "2026-10-18"
     },
     {
       "name": "Cruls Cervejaria Artesanal",
@@ -31551,7 +31648,8 @@
       "city": "Brasília",
       "email": "sac@crulscervejaria.com.br",
       "emailVerified": true,
-      "email1": false
+      "email1": true,
+      "date1": "2026-10-18"
     },
     {
       "name": "Didius Indústria de Pães e Lanches",
@@ -31579,7 +31677,8 @@
       "city": "Viana",
       "email": "industrial@cervejariaelse.com.br",
       "emailVerified": true,
-      "email1": false
+      "email1": true,
+      "date1": "2026-10-18"
     },
     {
       "name": "Flavour Mix Indústria de Sucos e Polpas",
@@ -31654,7 +31753,8 @@
       "city": "Leme",
       "email": "comercial@newagebebidas.com.br",
       "emailVerified": true,
-      "email1": false
+      "email1": true,
+      "date1": "2026-10-18"
     },
     {
       "name": "Nova Esperança Panificadora",
@@ -31708,7 +31808,8 @@
       "city": "Franca",
       "email": "contato@paulistapanificadora.com.br",
       "emailVerified": true,
-      "email1": false
+      "email1": true,
+      "date1": "2026-10-18"
     },
     {
       "name": "Petyan Indústria de Alimentos (Biscoitos e Massas)",
@@ -31744,7 +31845,8 @@
       "city": "Mogi das Cruzes",
       "email": "vendas@prodooze.com.br",
       "emailVerified": true,
-      "email1": false
+      "email1": true,
+      "date1": "2026-10-18"
     },
     {
       "name": "Rocky Brewing Cerveja Artesanal Caiçara",
@@ -31811,7 +31913,8 @@
       "city": "Campo Largo",
       "email": "contato@zanlorenzi.com.br",
       "emailVerified": true,
-      "email1": false
+      "email1": true,
+      "date1": "2026-10-18"
     },
     {
       "name": "Biscoitos Zagonel",
@@ -31874,7 +31977,8 @@
       "city": "Senador Canedo",
       "email": "contato@solbebidas.com.br",
       "emailVerified": true,
-      "email1": false
+      "email1": true,
+      "date1": "2026-10-18"
     },
     {
       "name": "Fruki Bebidas S.A.",
@@ -31893,7 +31997,8 @@
       "city": "Mesquita",
       "email": "contato@bebidasrisso.com.br",
       "emailVerified": true,
-      "email1": false
+      "email1": true,
+      "date1": "2026-10-18"
     },
     {
       "name": "Santamate (Terceirização de Bebidas)",
@@ -31932,7 +32037,8 @@
       "city": "Itabuna",
       "email": "contato@bivolt.com.br",
       "emailVerified": true,
-      "email1": false
+      "email1": true,
+      "date1": "2026-10-18"
     },
     {
       "name": "Cervejaria Prisma",
@@ -33181,7 +33287,8 @@
       "city": "Garuva",
       "email": "contato@cervejariamontecrista.com.br",
       "emailVerified": true,
-      "email1": false
+      "email1": true,
+      "date1": "2026-10-18"
     },
     {
       "name": "Cruls Cervejaria",
@@ -33190,7 +33297,8 @@
       "city": "São Paulo",
       "email": "contato@crulscervejaria.com.br",
       "emailVerified": true,
-      "email1": false
+      "email1": true,
+      "date1": "2026-10-18"
     },
     {
       "name": "Mina Beer",
@@ -33199,7 +33307,8 @@
       "city": "São Paulo",
       "email": "microcervejariaminabeer@gmail.com",
       "emailVerified": true,
-      "email1": false
+      "email1": true,
+      "date1": "2026-10-18"
     },
     {
       "name": "Vita Suco (Saborecitrus)",
@@ -33700,7 +33809,8 @@
       "city": "São Paulo",
       "email": "vendas@docesvaz.com.br",
       "emailVerified": true,
-      "email1": false
+      "email1": true,
+      "date1": "2026-10-18"
     },
     {
       "name": "Prodipani",
@@ -33736,7 +33846,8 @@
       "city": "São Paulo",
       "email": "sac@fabricadebolo.com",
       "emailVerified": true,
-      "email1": false
+      "email1": true,
+      "date1": "2026-10-18"
     },
     {
       "name": "Beijo Gelado",
@@ -33844,7 +33955,8 @@
       "city": "São Paulo",
       "email": "contato@fjdistribuidora.com",
       "emailVerified": true,
-      "email1": false
+      "email1": true,
+      "date1": "2026-10-18"
     },
     {
       "name": "Mavi Alimentos",
@@ -34006,7 +34118,8 @@
       "city": "São Paulo",
       "email": "cervejaria7grao@gmail.com",
       "emailVerified": true,
-      "email1": false
+      "email1": true,
+      "date1": "2026-10-18"
     },
     {
       "name": "Os Cabra Cerveja & Cordel",
@@ -34015,7 +34128,8 @@
       "city": "São Paulo",
       "email": "oscabra@yahoo.com",
       "emailVerified": true,
-      "email1": false
+      "email1": true,
+      "date1": "2026-10-18"
     },
     {
       "name": "Fermentaria Local",
@@ -34024,7 +34138,8 @@
       "city": "Jarinu",
       "email": "fermentarialocal@gmail.com",
       "emailVerified": true,
-      "email1": false
+      "email1": true,
+      "date1": "2026-10-18"
     },
     {
       "name": "Cervejaria Hebling",
@@ -34172,7 +34287,8 @@
       "city": "São Paulo",
       "email": "carlostiete.sp@gmail.com",
       "emailVerified": true,
-      "email1": false
+      "email1": true,
+      "date1": "2026-10-18"
     },
     {
       "name": "Attrio Pizzaria",
@@ -34211,7 +34327,8 @@
       "city": "São Paulo",
       "email": "verdesliriospizzaria@gmail.com",
       "emailVerified": true,
-      "email1": false
+      "email1": true,
+      "date1": "2026-10-18"
     },
     {
       "name": "Suprema PizzaCine",
@@ -34230,7 +34347,8 @@
       "city": "São Paulo",
       "email": "itocafes@gmail.com",
       "emailVerified": true,
-      "email1": false
+      "email1": true,
+      "date1": "2026-10-18"
     },
     {
       "name": "Ristrettinho Cafés Especiais",
@@ -34249,7 +34367,8 @@
       "city": "São Paulo",
       "email": "lojaonline@urbecafe.com.br",
       "emailVerified": true,
-      "email1": false
+      "email1": true,
+      "date1": "2026-10-18"
     },
     {
       "name": "Sterna Café",
@@ -34288,7 +34407,8 @@
       "city": "São Paulo",
       "email": "contato@domenicacafe.com.br",
       "emailVerified": true,
-      "email1": false
+      "email1": true,
+      "date1": "2026-10-18"
     },
     {
       "name": "Piccolo Cafés",
@@ -34397,7 +34517,8 @@
       "city": "São Paulo",
       "email": "contato@nossoacai.com.br",
       "emailVerified": true,
-      "email1": false
+      "email1": true,
+      "date1": "2026-10-18"
     },
     {
       "name": "Panelinha Açaí",
@@ -34456,7 +34577,8 @@
       "city": "São Paulo",
       "email": "restaurante.estevao@gmail.com",
       "emailVerified": true,
-      "email1": false
+      "email1": true,
+      "date1": "2026-10-18"
     },
     {
       "name": "Bolinha Feijoada",
@@ -34574,7 +34696,8 @@
       "city": "Bauru",
       "email": "andreaepalu@hotmail.com",
       "emailVerified": true,
-      "email1": false
+      "email1": true,
+      "date1": "2026-10-18"
     },
     {
       "name": "Dona Boleira Bauru",
@@ -34693,7 +34816,8 @@
       "city": "São Paulo",
       "email": "hamburgueriazonaleste@gmail.com",
       "emailVerified": true,
-      "email1": false
+      "email1": true,
+      "date1": "2026-10-18"
     },
     {
       "name": "Johns Burguer Limão",
@@ -34712,7 +34836,8 @@
       "city": "São Paulo",
       "email": "hamburgueriasmash@gmail.com",
       "emailVerified": true,
-      "email1": false
+      "email1": true,
+      "date1": "2026-10-18"
     },
     {
       "name": "Pipo's Hamburgueria",
@@ -34721,7 +34846,8 @@
       "city": "São Paulo",
       "email": "piposhamburgueria@gmail.com",
       "emailVerified": true,
-      "email1": false
+      "email1": true,
+      "date1": "2026-10-18"
     },
     {
       "name": "Home Burgers ZL",
@@ -34859,7 +34985,8 @@
       "city": "Sao Paulo",
       "email": "contato@thefudge.com.br",
       "emailVerified": true,
-      "email1": false
+      "email1": true,
+      "date1": "2026-10-18"
     },
     {
       "name": "Doce Malu Bomboniere",
@@ -34868,7 +34995,8 @@
       "city": "Sao Paulo",
       "email": "contato@docemalu.com.br",
       "emailVerified": true,
-      "email1": false
+      "email1": true,
+      "date1": "2026-10-18"
     },
     {
       "name": "Belari Gelateria Osasco",
@@ -34897,7 +35025,8 @@
       "city": "Sao Paulo",
       "email": "contato@sorvetesmilgraus.com.br",
       "emailVerified": true,
-      "email1": false
+      "email1": true,
+      "date1": "2026-10-18"
     },
     {
       "name": "Lovve Gelato Cotia",
@@ -34906,7 +35035,8 @@
       "city": "Cotia",
       "email": "contato@lovvegelato.com.br",
       "emailVerified": true,
-      "email1": false
+      "email1": true,
+      "date1": "2026-10-18"
     },
     {
       "name": "Due Due Gelateria",
@@ -34915,7 +35045,8 @@
       "city": "Sao Paulo",
       "email": "dueduegelateria@gmail.com",
       "emailVerified": true,
-      "email1": false
+      "email1": true,
+      "date1": "2026-10-18"
     },
     {
       "name": "Mix Cream Sorvetes",
@@ -34924,7 +35055,8 @@
       "city": "Varzea Paulista",
       "email": "contato@mixcream.com.br",
       "emailVerified": true,
-      "email1": false
+      "email1": true,
+      "date1": "2026-10-18"
     },
     {
       "name": "Davvero Sorveteria",
@@ -34933,7 +35065,8 @@
       "city": "Sao Paulo",
       "email": "contato@davvero.com.br",
       "emailVerified": true,
-      "email1": false
+      "email1": true,
+      "date1": "2026-10-18"
     },
     {
       "name": "Bianco Gelateria",
@@ -34942,7 +35075,8 @@
       "city": "Sao Paulo",
       "email": "contato@biancogelateria.com.br",
       "emailVerified": true,
-      "email1": false
+      "email1": true,
+      "date1": "2026-10-18"
     },
     {
       "name": "Fogo de Chao Jardins",
@@ -34951,7 +35085,8 @@
       "city": "Sao Paulo",
       "email": "jardins@fogodechao.com.br",
       "emailVerified": true,
-      "email1": false
+      "email1": true,
+      "date1": "2026-10-18"
     },
     {
       "name": "Fogo de Chao Vila Olympia",
@@ -34960,7 +35095,8 @@
       "city": "Sao Paulo",
       "email": "bandeirantes@fogodechao.com.br",
       "emailVerified": true,
-      "email1": false
+      "email1": true,
+      "date1": "2026-10-18"
     },
     {
       "name": "Churrascos Marcio",
@@ -34969,7 +35105,8 @@
       "city": "Sao Paulo",
       "email": "contato@churrascosmarcio.com.br",
       "emailVerified": true,
-      "email1": false
+      "email1": true,
+      "date1": "2026-10-18"
     },
     {
       "name": "Premier Haus Brooklin",
@@ -34978,7 +35115,8 @@
       "city": "Sao Paulo",
       "email": "premierhaussp@gmail.com",
       "emailVerified": true,
-      "email1": false
+      "email1": true,
+      "date1": "2026-10-18"
     },
     {
       "name": "Viva o Churrasco Lapa",
@@ -34987,7 +35125,8 @@
       "city": "Sao Paulo",
       "email": "contato@vivaochurrasco.com.br",
       "emailVerified": true,
-      "email1": false
+      "email1": true,
+      "date1": "2026-10-18"
     },
     {
       "name": "Go Meat",
@@ -34996,7 +35135,8 @@
       "city": "Sao Paulo",
       "email": "contato@gomeat.com.br",
       "emailVerified": true,
-      "email1": false
+      "email1": true,
+      "date1": "2026-10-18"
     },
     {
       "name": "Hello Truck",
@@ -35075,7 +35215,8 @@
       "city": "Sao Paulo",
       "email": "contato@marmitariasaudavel.com.br",
       "emailVerified": true,
-      "email1": false
+      "email1": true,
+      "date1": "2026-10-18"
     },
     {
       "name": "Caique Eventos",
@@ -35094,7 +35235,8 @@
       "city": "Sao Paulo",
       "email": "tabita.comercial@vinhosdomundo.com.br",
       "emailVerified": true,
-      "email1": false
+      "email1": true,
+      "date1": "2026-10-18"
     },
     {
       "name": "Vinoteca Sao Paulo",
@@ -35103,7 +35245,8 @@
       "city": "Sao Paulo",
       "email": "glauco@vinotecasaopaulo.com.br",
       "emailVerified": true,
-      "email1": false
+      "email1": true,
+      "date1": "2026-10-18"
     },
     {
       "name": "Caves Santa Cruz",
@@ -35112,7 +35255,8 @@
       "city": "Sao Paulo",
       "email": "atendimento@cavessantacruz.com.br",
       "emailVerified": true,
-      "email1": false
+      "email1": true,
+      "date1": "2026-10-18"
     },
     {
       "name": "De la Croix Vinhos",
@@ -35121,7 +35265,8 @@
       "city": "Sao Paulo",
       "email": "renata@delacroixvinhos.com.br",
       "emailVerified": true,
-      "email1": false
+      "email1": true,
+      "date1": "2026-10-18"
     },
     {
       "name": "Epice Vinhos Importadora",
@@ -35140,7 +35285,8 @@
       "city": "Indaiatuba",
       "email": "contato-1@overwine.com.br",
       "emailVerified": true,
-      "email1": false
+      "email1": true,
+      "date1": "2026-10-18"
     },
     {
       "name": "Qualimpor Importadora",
@@ -35154,22 +35300,18 @@
     }
   ],
   "emails": {
-    "email1": 3241,
-    "email2": 1483,
+    "email1": 3294,
+    "email2": 1529,
     "email3": 813,
-    "total": 5537
+    "total": 5636
   },
   "whatsapp": {
     "today": 0,
     "total": 218
   },
   "responses": 0,
-  "pending": 275,
+  "pending": 222,
   "daily": [
-    {
-      "date": "2026-10-05",
-      "count": 0
-    },
     {
       "date": "2026-10-06",
       "count": 30
@@ -35220,7 +35362,11 @@
     },
     {
       "date": "2026-10-18",
-      "count": 104
+      "count": 203
+    },
+    {
+      "date": "2026-10-19",
+      "count": 0
     }
   ],
   "topNeighborhoods": [
@@ -35347,38 +35493,38 @@
   ],
   "funnel": {
     "leads": 3565,
-    "email1": 3241,
-    "email2": 1483,
+    "email1": 3294,
+    "email2": 1529,
     "email3": 813,
     "responded": 0
   },
   "week": {
-    "leads": 559,
+    "leads": 612,
     "emails": {
-      "email1": 559,
-      "email2": 159,
+      "email1": 612,
+      "email2": 205,
       "email3": 120,
-      "total": 838
+      "total": 937
     },
     "responses": 0
   },
   "month": {
-    "leads": 596,
+    "leads": 649,
     "emails": {
-      "email1": 596,
-      "email2": 195,
+      "email1": 649,
+      "email2": 241,
       "email3": 155,
-      "total": 946
+      "total": 1045
     },
     "responses": 0
   },
   "year": {
-    "leads": 3243,
+    "leads": 3296,
     "emails": {
-      "email1": 3241,
-      "email2": 1483,
+      "email1": 3294,
+      "email2": 1529,
       "email3": 813,
-      "total": 5537
+      "total": 5636
     },
     "responses": 0
   },
@@ -35434,7 +35580,7 @@
     {
       "name": "cervejaria",
       "total": 25,
-      "email1": 15,
+      "email1": 25,
       "responded": 0
     },
     {
@@ -35446,7 +35592,7 @@
     {
       "name": "industria_bebidas",
       "total": 15,
-      "email1": 13,
+      "email1": 15,
       "responded": 0
     },
     {
@@ -35464,7 +35610,7 @@
     {
       "name": "hamburgueria",
       "total": 14,
-      "email1": 10,
+      "email1": 13,
       "responded": 0
     },
     {
@@ -35476,13 +35622,13 @@
     {
       "name": "confeitaria",
       "total": 13,
-      "email1": 11,
+      "email1": 13,
       "responded": 0
     },
     {
       "name": "cafeteria",
       "total": 11,
-      "email1": 6,
+      "email1": 10,
       "responded": 0
     },
     {
@@ -35500,7 +35646,7 @@
     {
       "name": "padaria",
       "total": 11,
-      "email1": 10,
+      "email1": 11,
       "responded": 0
     },
     {
@@ -35524,13 +35670,13 @@
     {
       "name": "pizzaria",
       "total": 7,
-      "email1": 5,
+      "email1": 7,
       "responded": 0
     },
     {
       "name": "acai",
       "total": 7,
-      "email1": 6,
+      "email1": 7,
       "responded": 0
     },
     {
@@ -35542,31 +35688,31 @@
     {
       "name": "chocolateria",
       "total": 6,
-      "email1": 5,
+      "email1": 6,
       "responded": 0
     },
     {
       "name": "gelateria",
       "total": 6,
-      "email1": 2,
+      "email1": 6,
       "responded": 0
     },
     {
       "name": "fabrica_bebidas",
       "total": 5,
-      "email1": 2,
+      "email1": 5,
       "responded": 0
     },
     {
       "name": "churrascaria",
       "total": 5,
-      "email1": 0,
+      "email1": 5,
       "responded": 0
     },
     {
       "name": "vinhoteca",
       "total": 5,
-      "email1": 0,
+      "email1": 5,
       "responded": 0
     },
     {
@@ -35578,7 +35724,7 @@
     {
       "name": "distribuidora_bebidas",
       "total": 4,
-      "email1": 3,
+      "email1": 4,
       "responded": 0
     },
     {
@@ -35590,13 +35736,13 @@
     {
       "name": "confeitaria_industrial",
       "total": 4,
-      "email1": 2,
+      "email1": 4,
       "responded": 0
     },
     {
       "name": "distribuidora_alimentos",
       "total": 4,
-      "email1": 2,
+      "email1": 4,
       "responded": 0
     },
     {
@@ -35644,7 +35790,7 @@
     {
       "name": "sorveteria",
       "total": 2,
-      "email1": 0,
+      "email1": 2,
       "responded": 0
     },
     {
@@ -35962,19 +36108,19 @@
     {
       "name": "lanchonete",
       "total": 1,
-      "email1": 0,
+      "email1": 1,
       "responded": 0
     },
     {
       "name": "carnes",
       "total": 1,
-      "email1": 0,
+      "email1": 1,
       "responded": 0
     },
     {
       "name": "marmitaria",
       "total": 1,
-      "email1": 0,
+      "email1": 1,
       "responded": 0
     }
   ]
