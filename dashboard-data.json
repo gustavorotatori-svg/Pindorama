@@ -1,5 +1,5 @@
 {
-  "lastUpdate": "2026-10-19T04:22:19.580Z",
+  "lastUpdate": "2026-10-19T12:52:24.731Z",
   "totalLeads": 3565,
   "allLeads": [
     {
@@ -31448,7 +31448,9 @@
       "email": "marketing@espacooffset.com.br",
       "emailVerified": true,
       "email1": true,
-      "date1": "2026-10-17"
+      "date1": "2026-10-17",
+      "email2": true,
+      "date2": "2026-10-19"
     },
     {
       "name": "Chess Club",
@@ -35301,9 +35303,9 @@
   ],
   "emails": {
     "email1": 3294,
-    "email2": 1529,
+    "email2": 1530,
     "email3": 813,
-    "total": 5636
+    "total": 5637
   },
   "whatsapp": {
     "today": 0,
@@ -35366,7 +35368,7 @@
     },
     {
       "date": "2026-10-19",
-      "count": 0
+      "count": 1
     }
   ],
   "topNeighborhoods": [
@@ -35494,7 +35496,7 @@
   "funnel": {
     "leads": 3565,
     "email1": 3294,
-    "email2": 1529,
+    "email2": 1530,
     "email3": 813,
     "responded": 0
   },
@@ -35502,9 +35504,9 @@
     "leads": 612,
     "emails": {
       "email1": 612,
-      "email2": 205,
+      "email2": 206,
       "email3": 120,
-      "total": 937
+      "total": 938
     },
     "responses": 0
   },
@@ -35512,9 +35514,9 @@
     "leads": 649,
     "emails": {
       "email1": 649,
-      "email2": 241,
+      "email2": 242,
       "email3": 155,
-      "total": 1045
+      "total": 1046
     },
     "responses": 0
   },
@@ -35522,9 +35524,9 @@
     "leads": 3296,
     "emails": {
       "email1": 3294,
-      "email2": 1529,
+      "email2": 1530,
       "email3": 813,
-      "total": 5636
+      "total": 5637
     },
     "responses": 0
   },
