@@ -49519,7 +49519,9 @@
     "mxVerified": true,
     "template": "consultivo",
     "email1": true,
-    "date1": "2026-10-17"
+    "date1": "2026-10-17",
+    "email2": true,
+    "date2": "2026-10-19"
   },
   {
     "name": "Chess Club",
