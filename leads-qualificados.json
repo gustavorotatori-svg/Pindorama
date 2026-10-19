@@ -49669,7 +49669,8 @@
     "emailVerifiedAt": "2026-10-17",
     "mxVerified": true,
     "template": "consultivo",
-    "email1": false
+    "email1": true,
+    "date1": "2026-10-19"
   },
   {
     "name": "Cookie do Boleta (Boleta Indústria de Alimentos)",
@@ -49735,7 +49736,8 @@
     "emailVerifiedAt": "2026-10-17",
     "mxVerified": true,
     "template": "consultivo",
-    "email1": false
+    "email1": true,
+    "date1": "2026-10-19"
   },
   {
     "name": "Cervejaria Cogumelo",
@@ -49902,7 +49904,8 @@
     "emailVerifiedAt": "2026-10-17",
     "mxVerified": true,
     "template": "consultivo",
-    "email1": false
+    "email1": true,
+    "date1": "2026-10-19"
   },
   {
     "name": "Dortmund Bier Cerveja e Chopp Artesanal",
@@ -49952,7 +49955,8 @@
     "emailVerifiedAt": "2026-10-17",
     "mxVerified": true,
     "template": "consultivo",
-    "email1": false
+    "email1": true,
+    "date1": "2026-10-19"
   },
   {
     "name": "Frutã Indústria de Polpas de Frutas",
@@ -49968,7 +49972,8 @@
     "emailVerifiedAt": "2026-10-17",
     "mxVerified": true,
     "template": "consultivo",
-    "email1": false
+    "email1": true,
+    "date1": "2026-10-19"
   },
   {
     "name": "GlobalFruit Indústria e Comércio",
@@ -50100,7 +50105,8 @@
     "emailVerifiedAt": "2026-10-17",
     "mxVerified": true,
     "template": "consultivo",
-    "email1": false
+    "email1": true,
+    "date1": "2026-10-19"
   },
   {
     "name": "Olímpia Cervejaria (Olimpiabier Microcervejaria Ltda)",
@@ -50132,7 +50138,8 @@
     "emailVerifiedAt": "2026-10-17",
     "mxVerified": true,
     "template": "consultivo",
-    "email1": false
+    "email1": true,
+    "date1": "2026-10-19"
   },
   {
     "name": "Padaria Confeitaria Brasil (Indústria de Congelados Brasil)",
@@ -50148,7 +50155,8 @@
     "emailVerifiedAt": "2026-10-17",
     "mxVerified": true,
     "template": "consultivo",
-    "email1": false
+    "email1": true,
+    "date1": "2026-10-19"
   },
   {
     "name": "Padaria Paulista (Panificação e Confeitaria desde 1986)",
@@ -50197,7 +50205,8 @@
     "emailVerifiedAt": "2026-10-17",
     "mxVerified": true,
     "template": "consultivo",
-    "email1": false
+    "email1": true,
+    "date1": "2026-10-19"
   },
   {
     "name": "Pomar do Brasil Indústria e Comércio de Alimentos",
@@ -50213,7 +50222,8 @@
     "emailVerifiedAt": "2026-10-17",
     "mxVerified": true,
     "template": "consultivo",
-    "email1": false
+    "email1": true,
+    "date1": "2026-10-19"
   },
   {
     "name": "Prodooze Insumos Cervejeiros",
@@ -50246,7 +50256,8 @@
     "emailVerifiedAt": "2026-10-17",
     "mxVerified": true,
     "template": "consultivo",
-    "email1": false
+    "email1": true,
+    "date1": "2026-10-19"
   },
   {
     "name": "Sucobase",
@@ -50279,7 +50290,8 @@
     "emailVerifiedAt": "2026-10-17",
     "mxVerified": true,
     "template": "consultivo",
-    "email1": false
+    "email1": true,
+    "date1": "2026-10-19"
   },
   {
     "name": "TexBeer Cervejaria Artesanal",
@@ -50363,7 +50375,8 @@
     "emailVerifiedAt": "2026-10-17",
     "mxVerified": true,
     "template": "consultivo",
-    "email1": false
+    "email1": true,
+    "date1": "2026-10-19"
   },
   {
     "name": "Brasil Massas (Coxinha Brasil)",
@@ -50379,7 +50392,8 @@
     "emailVerifiedAt": "2026-10-17",
     "mxVerified": true,
     "template": "consultivo",
-    "email1": false
+    "email1": true,
+    "date1": "2026-10-19"
   },
   {
     "name": "Biscoitos Zezé",
@@ -50395,7 +50409,8 @@
     "emailVerifiedAt": "2026-10-17",
     "mxVerified": true,
     "template": "consultivo",
-    "email1": false
+    "email1": true,
+    "date1": "2026-10-19"
   },
   {
     "name": "Contrigo Panificação",
@@ -50411,7 +50426,8 @@
     "emailVerifiedAt": "2026-10-17",
     "mxVerified": true,
     "template": "consultivo",
-    "email1": false
+    "email1": true,
+    "date1": "2026-10-19"
   },
   {
     "name": "Produtos Alimentícios Sankio",
@@ -50427,7 +50443,8 @@
     "emailVerifiedAt": "2026-10-17",
     "mxVerified": true,
     "template": "consultivo",
-    "email1": false
+    "email1": true,
+    "date1": "2026-10-19"
   },
   {
     "name": "Sabor Mineiro Biscoitos",
@@ -50443,7 +50460,8 @@
     "emailVerifiedAt": "2026-10-17",
     "mxVerified": true,
     "template": "consultivo",
-    "email1": false
+    "email1": true,
+    "date1": "2026-10-19"
   },
   {
     "name": "Sol Bebidas",
@@ -50578,7 +50596,8 @@
     "emailVerifiedAt": "2026-10-17",
     "mxVerified": true,
     "template": "consultivo",
-    "email1": false
+    "email1": true,
+    "date1": "2026-10-19"
   },
   {
     "name": "Nineties Bier",
@@ -50594,7 +50613,8 @@
     "emailVerifiedAt": "2026-10-17",
     "mxVerified": true,
     "template": "consultivo",
-    "email1": false
+    "email1": true,
+    "date1": "2026-10-19"
   },
   {
     "name": "Festera Cervejaria",
@@ -50610,7 +50630,8 @@
     "emailVerifiedAt": "2026-10-17",
     "mxVerified": true,
     "template": "consultivo",
-    "email1": false
+    "email1": true,
+    "date1": "2026-10-19"
   },
   {
     "name": "Marés Cervejaria Artesanal",
@@ -50626,7 +50647,8 @@
     "emailVerifiedAt": "2026-10-17",
     "mxVerified": true,
     "template": "consultivo",
-    "email1": false
+    "email1": true,
+    "date1": "2026-10-19"
   },
   {
     "name": "Cervejaria Sarapó",
@@ -50642,7 +50664,8 @@
     "emailVerifiedAt": "2026-10-17",
     "mxVerified": true,
     "template": "consultivo",
-    "email1": false
+    "email1": true,
+    "date1": "2026-10-19"
   },
   {
     "name": "Cervejaria Escafandrista",
@@ -50658,7 +50681,8 @@
     "emailVerifiedAt": "2026-10-17",
     "mxVerified": true,
     "template": "consultivo",
-    "email1": false
+    "email1": true,
+    "date1": "2026-10-19"
   },
   {
     "name": "Cervejaria Vitruviana (Seven Cervejaria)",
@@ -50674,7 +50698,8 @@
     "emailVerifiedAt": "2026-10-17",
     "mxVerified": true,
     "template": "consultivo",
-    "email1": false
+    "email1": true,
+    "date1": "2026-10-19"
   },
   {
     "name": "Indústria K&K Alimentos",
@@ -50690,7 +50715,8 @@
     "emailVerifiedAt": "2026-10-17",
     "mxVerified": true,
     "template": "consultivo",
-    "email1": false
+    "email1": true,
+    "date1": "2026-10-19"
   },
   {
     "name": "Mana Bolos",
@@ -50723,7 +50749,8 @@
     "emailVerifiedAt": "2026-10-17",
     "mxVerified": true,
     "template": "consultivo",
-    "email1": false
+    "email1": true,
+    "date1": "2026-10-19"
   },
   {
     "name": "Balas Doces INDIA",
@@ -50739,7 +50766,8 @@
     "emailVerifiedAt": "2026-10-17",
     "mxVerified": true,
     "template": "consultivo",
-    "email1": false
+    "email1": true,
+    "date1": "2026-10-19"
   },
   {
     "name": "Chocolate do Rei",
@@ -50755,7 +50783,8 @@
     "emailVerifiedAt": "2026-10-17",
     "mxVerified": true,
     "template": "consultivo",
-    "email1": false
+    "email1": true,
+    "date1": "2026-10-19"
   },
   {
     "name": "IBC Cacau (Indústria Brasileira de Cacau)",
@@ -50771,7 +50800,8 @@
     "emailVerifiedAt": "2026-10-17",
     "mxVerified": true,
     "template": "consultivo",
-    "email1": false
+    "email1": true,
+    "date1": "2026-10-19"
   },
   {
     "name": "GranKakao Chocolates (Indústria Brasileira de Chocolates)",
@@ -50803,7 +50833,8 @@
     "emailVerifiedAt": "2026-10-17",
     "mxVerified": true,
     "template": "consultivo",
-    "email1": false
+    "email1": true,
+    "date1": "2026-10-19"
   },
   {
     "name": "BR Alimentos Congelados",
@@ -50819,7 +50850,8 @@
     "emailVerifiedAt": "2026-10-17",
     "mxVerified": true,
     "template": "consultivo",
-    "email1": false
+    "email1": true,
+    "date1": "2026-10-19"
   },
   {
     "name": "Puma Alimentos Congelados",
@@ -50835,7 +50867,8 @@
     "emailVerifiedAt": "2026-10-17",
     "mxVerified": true,
     "template": "consultivo",
-    "email1": false
+    "email1": true,
+    "date1": "2026-10-19"
   },
   {
     "name": "KMS Atacadista",
@@ -51055,7 +51088,8 @@
     "emailVerifiedAt": "2026-10-17",
     "mxVerified": true,
     "template": "consultivo",
-    "email1": false
+    "email1": true,
+    "date1": "2026-10-19"
   },
   {
     "name": "FrutBiss Sorvetes",
@@ -51071,7 +51105,8 @@
     "emailVerifiedAt": "2026-10-17",
     "mxVerified": true,
     "template": "consultivo",
-    "email1": false
+    "email1": true,
+    "date1": "2026-10-19"
   },
   {
     "name": "Sr. Sorvete",
@@ -51087,7 +51122,8 @@
     "emailVerifiedAt": "2026-10-17",
     "mxVerified": true,
     "template": "consultivo",
-    "email1": false
+    "email1": true,
+    "date1": "2026-10-19"
   },
   {
     "name": "Tempero & Cia (SOST)",
@@ -51103,7 +51139,8 @@
     "emailVerifiedAt": "2026-10-17",
     "mxVerified": true,
     "template": "consultivo",
-    "email1": false
+    "email1": true,
+    "date1": "2026-10-19"
   },
   {
     "name": "J&J Condimentos e Especiarias",
@@ -51119,7 +51156,8 @@
     "emailVerifiedAt": "2026-10-17",
     "mxVerified": true,
     "template": "consultivo",
-    "email1": false
+    "email1": true,
+    "date1": "2026-10-19"
   },
   {
     "name": "JP Condimentos (Joana Alimentos)",
@@ -51135,7 +51173,8 @@
     "emailVerifiedAt": "2026-10-17",
     "mxVerified": true,
     "template": "consultivo",
-    "email1": false
+    "email1": true,
+    "date1": "2026-10-19"
   },
   {
     "name": "Saborella Alimentos",
@@ -51151,7 +51190,8 @@
     "emailVerifiedAt": "2026-10-17",
     "mxVerified": true,
     "template": "consultivo",
-    "email1": false
+    "email1": true,
+    "date1": "2026-10-19"
   },
   {
     "name": "Conditto Casa Mineira",
@@ -51167,7 +51207,8 @@
     "emailVerifiedAt": "2026-10-17",
     "mxVerified": true,
     "template": "consultivo",
-    "email1": false
+    "email1": true,
+    "date1": "2026-10-19"
   },
   {
     "name": "Laticínios Nosso (Queijos Millano)",
@@ -51183,7 +51224,8 @@
     "emailVerifiedAt": "2026-10-17",
     "mxVerified": true,
     "template": "consultivo",
-    "email1": false
+    "email1": true,
+    "date1": "2026-10-19"
   },
   {
     "name": "Centro Oeste Laticínios",
@@ -51199,7 +51241,8 @@
     "emailVerifiedAt": "2026-10-17",
     "mxVerified": true,
     "template": "consultivo",
-    "email1": false
+    "email1": true,
+    "date1": "2026-10-19"
   },
   {
     "name": "Capim Branco Alimentos",
@@ -51215,7 +51258,8 @@
     "emailVerifiedAt": "2026-10-17",
     "mxVerified": true,
     "template": "consultivo",
-    "email1": false
+    "email1": true,
+    "date1": "2026-10-19"
   },
   {
     "name": "Gvinah",
@@ -51231,7 +51275,8 @@
     "emailVerifiedAt": "2026-10-17",
     "mxVerified": true,
     "template": "consultivo",
-    "email1": false
+    "email1": true,
+    "date1": "2026-10-19"
   },
   {
     "name": "Trevo Lácteos",
@@ -51247,7 +51292,8 @@
     "emailVerifiedAt": "2026-10-17",
     "mxVerified": true,
     "template": "consultivo",
-    "email1": false
+    "email1": true,
+    "date1": "2026-10-19"
   },
   {
     "name": "Café Mesmo (CITA)",
@@ -51263,7 +51309,8 @@
     "emailVerifiedAt": "2026-10-17",
     "mxVerified": true,
     "template": "consultivo",
-    "email1": false
+    "email1": true,
+    "date1": "2026-10-19"
   },
   {
     "name": "Baden Torrefação de Cafés Especiais",
@@ -51279,7 +51326,8 @@
     "emailVerifiedAt": "2026-10-17",
     "mxVerified": true,
     "template": "consultivo",
-    "email1": false
+    "email1": true,
+    "date1": "2026-10-19"
   },
   {
     "name": "Bravo Café Torrefação",
@@ -51295,7 +51343,8 @@
     "emailVerifiedAt": "2026-10-17",
     "mxVerified": true,
     "template": "consultivo",
-    "email1": false
+    "email1": true,
+    "date1": "2026-10-19"
   },
   {
     "name": "Siatec Brasil",
@@ -51311,7 +51360,8 @@
     "emailVerifiedAt": "2026-10-17",
     "mxVerified": true,
     "template": "consultivo",
-    "email1": false
+    "email1": true,
+    "date1": "2026-10-19"
   },
   {
     "name": "Expocacer / Torrefação Dulcerrado",
@@ -51327,7 +51377,8 @@
     "emailVerifiedAt": "2026-10-17",
     "mxVerified": true,
     "template": "consultivo",
-    "email1": false
+    "email1": true,
+    "date1": "2026-10-19"
   },
   {
     "name": "Grupo Agro Fonte Alta",
@@ -51343,7 +51394,8 @@
     "emailVerifiedAt": "2026-10-17",
     "mxVerified": true,
     "template": "consultivo",
-    "email1": false
+    "email1": true,
+    "date1": "2026-10-19"
   },
   {
     "name": "Pomerode Kaffee",
@@ -51359,7 +51411,8 @@
     "emailVerifiedAt": "2026-10-17",
     "mxVerified": true,
     "template": "consultivo",
-    "email1": false
+    "email1": true,
+    "date1": "2026-10-19"
   },
   {
     "name": "Point Chips",
@@ -51375,7 +51428,8 @@
     "emailVerifiedAt": "2026-10-17",
     "mxVerified": true,
     "template": "consultivo",
-    "email1": false
+    "email1": true,
+    "date1": "2026-10-19"
   },
   {
     "name": "MDA Alimentos",
@@ -51391,7 +51445,8 @@
     "emailVerifiedAt": "2026-10-17",
     "mxVerified": true,
     "template": "consultivo",
-    "email1": false
+    "email1": true,
+    "date1": "2026-10-19"
   },
   {
     "name": "Miliopã",
@@ -51423,7 +51478,8 @@
     "emailVerifiedAt": "2026-10-17",
     "mxVerified": true,
     "template": "consultivo",
-    "email1": false
+    "email1": true,
+    "date1": "2026-10-19"
   },
   {
     "name": "Semalo",
@@ -51439,7 +51495,8 @@
     "emailVerifiedAt": "2026-10-17",
     "mxVerified": true,
     "template": "consultivo",
-    "email1": false
+    "email1": true,
+    "date1": "2026-10-19"
   },
   {
     "name": "Maxi Massas",
@@ -51455,7 +51512,8 @@
     "emailVerifiedAt": "2026-10-17",
     "mxVerified": true,
     "template": "consultivo",
-    "email1": false
+    "email1": true,
+    "date1": "2026-10-19"
   },
   {
     "name": "Trindade Massas",
@@ -51471,7 +51529,8 @@
     "emailVerifiedAt": "2026-10-17",
     "mxVerified": true,
     "template": "consultivo",
-    "email1": false
+    "email1": true,
+    "date1": "2026-10-19"
   },
   {
     "name": "Preparato",
@@ -51503,7 +51562,8 @@
     "emailVerifiedAt": "2026-10-17",
     "mxVerified": true,
     "template": "consultivo",
-    "email1": false
+    "email1": true,
+    "date1": "2026-10-19"
   },
   {
     "name": "El Camino Foods",
@@ -51519,7 +51579,8 @@
     "emailVerifiedAt": "2026-10-17",
     "mxVerified": true,
     "template": "consultivo",
-    "email1": false
+    "email1": true,
+    "date1": "2026-10-19"
   },
   {
     "name": "São Camilo Massas",
@@ -51551,7 +51612,8 @@
     "emailVerifiedAt": "2026-10-17",
     "mxVerified": true,
     "template": "consultivo",
-    "email1": false
+    "email1": true,
+    "date1": "2026-10-19"
   },
   {
     "name": "Minas Oliva",
@@ -51583,7 +51645,8 @@
     "emailVerifiedAt": "2026-10-17",
     "mxVerified": true,
     "template": "consultivo",
-    "email1": false
+    "email1": true,
+    "date1": "2026-10-19"
   },
   {
     "name": "Oil Company",
@@ -51616,7 +51679,8 @@
     "emailVerifiedAt": "2026-10-17",
     "mxVerified": true,
     "template": "consultivo",
-    "email1": false
+    "email1": true,
+    "date1": "2026-10-19"
   },
   {
     "name": "Azeite Hass (Americana Ind. e Com. de Óleos Vegetais)",
@@ -51632,7 +51696,8 @@
     "emailVerifiedAt": "2026-10-17",
     "mxVerified": true,
     "template": "consultivo",
-    "email1": false
+    "email1": true,
+    "date1": "2026-10-19"
   },
   {
     "name": "Sol das Olivas",
@@ -51648,7 +51713,8 @@
     "emailVerifiedAt": "2026-10-17",
     "mxVerified": true,
     "template": "consultivo",
-    "email1": false
+    "email1": true,
+    "date1": "2026-10-19"
   },
   {
     "name": "Da Pá Virada",
@@ -51664,7 +51730,8 @@
     "emailVerifiedAt": "2026-10-17",
     "mxVerified": true,
     "template": "consultivo",
-    "email1": false
+    "email1": true,
+    "date1": "2026-10-19"
   },
   {
     "name": "Gelimo do Brasil",
@@ -51680,7 +51747,8 @@
     "emailVerifiedAt": "2026-10-17",
     "mxVerified": true,
     "template": "consultivo",
-    "email1": false
+    "email1": true,
+    "date1": "2026-10-19"
   },
   {
     "name": "Arte Gelati",
@@ -51696,7 +51764,8 @@
     "emailVerifiedAt": "2026-10-17",
     "mxVerified": true,
     "template": "consultivo",
-    "email1": false
+    "email1": true,
+    "date1": "2026-10-19"
   },
   {
     "name": "Cremore Gelatos",
@@ -51712,7 +51781,8 @@
     "emailVerifiedAt": "2026-10-17",
     "mxVerified": true,
     "template": "consultivo",
-    "email1": false
+    "email1": true,
+    "date1": "2026-10-19"
   },
   {
     "name": "Rei dos Gelatos",
