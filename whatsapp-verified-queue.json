@@ -2517,7 +2517,8 @@
     "evidence": "Pagina oficial de pontos de venda da Cachaca Brasilchik consultada em 30/08/2026 publica a Casa do Pao na Fazenda em Braganca Paulista, com telefone e WhatsApp empresarial. Fato: ponto de venda atual de cachaca e canal empresarial explicitamente publicado. Inferencia: perfil aderente para avaliar inclusao da Pindorama no mix de produtos artesanais e potencial de recompra pelo varejo local.",
     "verifiedAt": "2026-08-30",
     "notBefore": "2026-08-31",
-    "status": "queued"
+    "status": "sent",
+    "sentAt": "2026-10-20T12:31:38.920Z"
   },
   {
     "name": "Rancho Urbano",
@@ -2597,7 +2598,8 @@
     "evidence": "Pagina comercial consultada em 30/08/2026 confirma a S7 Adega e Tabacaria em Guarulhos, com catalogo ativo de cachacas e outras bebidas, proposta de doses e variedade, endereco, Instagram, WhatsApp e email publicados. Fato: operacao ativa recente, venda explicita de cachaca, ponto fisico e canal empresarial publicado. Inferencia: encaixe direto para testar a Pindorama no mix de garrafas ou doses e gerar recompra pelo giro da adega.",
     "verifiedAt": "2026-08-30",
     "notBefore": "2026-08-31",
-    "status": "queued"
+    "status": "sent",
+    "sentAt": "2026-10-20T12:31:44.742Z"
   },
   {
     "name": "Curia Brasil Distribuidora",
@@ -2811,7 +2813,8 @@
     "evidence": "Bar mineiro em Campinas há 18 anos. Tel (19) 3241-5018 / (19) 99975-1171.",
     "verifiedAt": "2026-10-01",
     "notBefore": "2026-10-01",
-    "status": "queued"
+    "status": "sent",
+    "sentAt": "2026-10-20T12:31:50.260Z"
   },
   {
     "name": "Botequim do Nino",
@@ -2870,7 +2873,8 @@
     "evidence": "Boteco em Jundiaí, petiscos e drinks. Tel (11) 91261-9774.",
     "verifiedAt": "2026-10-01",
     "notBefore": "2026-10-01",
-    "status": "queued"
+    "status": "sent",
+    "sentAt": "2026-10-20T12:31:55.741Z"
   },
   {
     "name": "Bolsao Distribuidora",
@@ -2893,7 +2897,8 @@
     "evidence": "Adega e distribuidora de bebidas; CNPJ 50.483.476/0001-07; fundada 2023; atacadista de bebidas",
     "verifiedAt": "2026-10-03",
     "notBefore": "2026-10-03",
-    "status": "queued"
+    "status": "sent",
+    "sentAt": "2026-10-20T12:32:01.270Z"
   },
   {
     "name": "Adega Flex",
@@ -2916,7 +2921,8 @@
     "evidence": "Distribuidora de bebidas; CNPJ 44.512.386/0001-96; fundada 2021; com├®rcio varejista de bebidas",
     "verifiedAt": "2026-10-03",
     "notBefore": "2026-10-03",
-    "status": "queued"
+    "status": "sent",
+    "sentAt": "2026-10-20T12:32:06.782Z"
   },
   {
     "name": "Adega da Vila",
@@ -2927,7 +2933,8 @@
     "evidence": "Distribuidora de bebidas; CNPJ 24.292.928/0001-30; fundada 2016; atacadista com fracionamento",
     "verifiedAt": "2026-10-03",
     "notBefore": "2026-10-03",
-    "status": "queued"
+    "status": "sent",
+    "sentAt": "2026-10-20T12:32:12.282Z"
   },
   {
     "name": "Adega Isabella",
@@ -2961,7 +2968,8 @@
     "evidence": "Adega e distribuidora; CNPJ 67.928.051/0001-59; fundada 1992; atacadista de bebidas h├í 33 anos",
     "verifiedAt": "2026-10-03",
     "notBefore": "2026-10-03",
-    "status": "queued"
+    "status": "sent",
+    "sentAt": "2026-10-20T12:32:17.770Z"
   },
   {
     "name": "Adega Dcharlys",
@@ -2972,7 +2980,8 @@
     "evidence": "Adega e bar; CNPJ 43.087.821/0001-10; fundada 2021; com├®rcio varejista de bebidas",
     "verifiedAt": "2026-10-03",
     "notBefore": "2026-10-03",
-    "status": "queued"
+    "status": "sent",
+    "sentAt": "2026-10-20T12:32:23.262Z"
   },
   {
     "name": "Adega Distribuidora Stop",
@@ -2983,7 +2992,8 @@
     "evidence": "Dep├│sito de bebidas/distribuidora; CNPJ 28.356.119/0001-10; fundada 2017",
     "verifiedAt": "2026-10-03",
     "notBefore": "2026-10-03",
-    "status": "queued"
+    "status": "sent",
+    "sentAt": "2026-10-20T12:32:28.732Z"
   },
   {
     "name": "Freitas Bebidas",
@@ -2993,7 +3003,8 @@
     "source": "https://freitasbebidas.com.br/",
     "verifiedAt": "2026-08-27",
     "notBefore": "2026-10-12",
-    "status": "queued"
+    "status": "sent",
+    "sentAt": "2026-10-20T12:32:34.224Z"
   },
   {
     "name": "PP Sucre├î┬ü",
@@ -3003,7 +3014,8 @@
     "source": "https://www.instagram.com/ppsucre/",
     "verifiedAt": "2026-09-05",
     "notBefore": "2026-10-12",
-    "status": "queued"
+    "status": "sent",
+    "sentAt": "2026-10-20T12:32:39.697Z"
   },
   {
     "name": "CANTAGALO BURGER",
@@ -3023,7 +3035,8 @@
     "source": "https://www.instagram.com/dckburger/",
     "verifiedAt": "2026-09-05",
     "notBefore": "2026-10-12",
-    "status": "queued"
+    "status": "sent",
+    "sentAt": "2026-10-20T12:32:45.161Z"
   },
   {
     "name": "COME ON BURGER",
@@ -3093,7 +3106,8 @@
     "source": "https://www.instagram.com/tokyoparadaisu/",
     "verifiedAt": "2026-09-05",
     "notBefore": "2026-10-12",
-    "status": "queued"
+    "status": "sent",
+    "sentAt": "2026-10-20T12:32:50.706Z"
   },
   {
     "name": "IMAKAY",
@@ -3124,7 +3138,8 @@
     "source": "https://www.instagram.com/nestorpizzariagastro/",
     "verifiedAt": "2026-09-05",
     "notBefore": "2026-10-12",
-    "status": "queued"
+    "status": "sent",
+    "sentAt": "2026-10-20T12:32:56.187Z"
   },
   {
     "name": "Santa Fe├î┬ü A Costela",

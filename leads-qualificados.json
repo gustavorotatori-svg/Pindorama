@@ -1075,7 +1075,10 @@
     "date3": "2026-08-06",
     "emailVerified": true,
     "emailSource": "https://freitasbebidas.com.br/",
-    "emailVerifiedAt": "2026-10-13"
+    "emailVerifiedAt": "2026-10-13",
+    "whatsappSent": true,
+    "whatsappDate": "2026-10-20",
+    "whatsappSource": "https://freitasbebidas.com.br/"
   },
   {
     "name": "JG Bebidas",
@@ -32458,7 +32461,10 @@
     "email2": true,
     "date2": "2026-09-07",
     "email3": true,
-    "date3": "2026-09-11"
+    "date3": "2026-09-11",
+    "whatsappSent": true,
+    "whatsappDate": "2026-10-20",
+    "whatsappSource": "https://www.instagram.com/ppsucre/"
   },
   {
     "name": "Tati Barbi Balas Caramelizadas",
@@ -32628,7 +32634,10 @@
     "email2": true,
     "date2": "2026-09-07",
     "email3": true,
-    "date3": "2026-09-11"
+    "date3": "2026-09-11",
+    "whatsappSent": true,
+    "whatsappDate": "2026-10-20",
+    "whatsappSource": "https://www.instagram.com/dckburger/"
   },
   {
     "name": "COME ON BURGER",
@@ -32875,7 +32884,10 @@
     "email2": true,
     "date2": "2026-09-08",
     "email3": true,
-    "date3": "2026-09-12"
+    "date3": "2026-09-12",
+    "whatsappSent": true,
+    "whatsappDate": "2026-10-20",
+    "whatsappSource": "https://www.instagram.com/tokyoparadaisu/"
   },
   {
     "name": "IMAKAY",
@@ -32990,7 +33002,10 @@
     "email2": true,
     "date2": "2026-09-08",
     "email3": true,
-    "date3": "2026-09-12"
+    "date3": "2026-09-12",
+    "whatsappSent": true,
+    "whatsappDate": "2026-10-20",
+    "whatsappSource": "https://www.instagram.com/nestorpizzariagastro/"
   },
   {
     "name": "Santa Fe├î┬ü A Costela",
@@ -37426,7 +37441,10 @@
     "emailBounce": true,
     "emailBounceAt": "2026-08-30",
     "emailBounceReason": "552 5.2.2 user is over quota",
-    "doNotContactEmail": true
+    "doNotContactEmail": true,
+    "whatsappSent": true,
+    "whatsappDate": "2026-10-20",
+    "whatsappSource": "https://meucomercio.com.br/S7adega/product/cachaca-pitu-garrafa/115"
   },
   {
     "name": "Curia Brasil Distribuidora",
@@ -39305,7 +39323,10 @@
     "email2": true,
     "date2": "2026-09-13",
     "email3": true,
-    "date3": "2026-09-16"
+    "date3": "2026-09-16",
+    "whatsappSent": true,
+    "whatsappDate": "2026-10-20",
+    "whatsappSource": "https://maiscnpj.com.br/cnpj/50483476000107"
   },
   {
     "name": "Adega Flex",
@@ -39349,7 +39370,10 @@
     "email2": true,
     "date2": "2026-09-13",
     "email3": true,
-    "date3": "2026-09-16"
+    "date3": "2026-09-16",
+    "whatsappSent": true,
+    "whatsappDate": "2026-10-20",
+    "whatsappSource": "https://www.diariocidade.com/sp/barueri/guia/adega-de-bebidas-pai-e-filho-ltda-44512386000196/"
   },
   {
     "name": "Adega da Vila",
@@ -39371,7 +39395,10 @@
     "email2": true,
     "date2": "2026-09-13",
     "email3": true,
-    "date3": "2026-09-16"
+    "date3": "2026-09-16",
+    "whatsappSent": true,
+    "whatsappDate": "2026-10-20",
+    "whatsappSource": "https://www.diariocidade.com/sp/barueri/guia/adega-da-vila-24291928000130/"
   },
   {
     "name": "Adega Isabella",
@@ -39436,7 +39463,10 @@
     "email2": true,
     "date2": "2026-09-13",
     "email3": true,
-    "date3": "2026-09-16"
+    "date3": "2026-09-16",
+    "whatsappSent": true,
+    "whatsappDate": "2026-10-20",
+    "whatsappSource": "https://www.diariocidade.com/sp/cotia/guia/adega-do-alemao-comercial-ltda-67928051000159/"
   },
   {
     "name": "Adega Dcharlys",
@@ -39458,7 +39488,10 @@
     "email2": true,
     "date2": "2026-09-13",
     "email3": true,
-    "date3": "2026-09-16"
+    "date3": "2026-09-16",
+    "whatsappSent": true,
+    "whatsappDate": "2026-10-20",
+    "whatsappSource": "https://www.diariocidade.com/sp/cotia/guia/adega-dcharlys-eireli-43087821000110/"
   },
   {
     "name": "Adega Distribuidora Stop",
@@ -39480,7 +39513,10 @@
     "email2": true,
     "date2": "2026-09-13",
     "email3": true,
-    "date3": "2026-09-16"
+    "date3": "2026-09-16",
+    "whatsappSent": true,
+    "whatsappDate": "2026-10-20",
+    "whatsappSource": "https://www.solutudo.com.br/empresas/sp/embu-das-artes/depositos-de-bebidas/adega-distribuidora-stop-13937792"
   },
   {
     "name": "Adega TMJ (Bar e Adega TMJ Comercio de Bebidas)",
