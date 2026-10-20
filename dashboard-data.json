@@ -1,5 +1,5 @@
 {
-  "lastUpdate": "2026-10-20T16:46:20.369Z",
+  "lastUpdate": "2026-10-20T21:29:49.240Z",
   "totalLeads": 3565,
   "allLeads": [
     {
@@ -1703,7 +1703,7 @@
       "email": "atendimento@imigrantesbebidas.com.br",
       "email1": true,
       "date1": "2026-08-02",
-      "responded": false,
+      "responded": true,
       "responseDate": null
     },
     {
@@ -32930,7 +32930,8 @@
       "email": "atendimento@yacuy.com.br",
       "emailVerified": true,
       "email1": true,
-      "date1": "2026-10-20"
+      "date1": "2026-10-20",
+      "responded": true
     },
     {
       "name": "Herboflora",
@@ -33720,7 +33721,8 @@
       "email": "televendas@selmi.com.br",
       "emailVerified": true,
       "email1": true,
-      "date1": "2026-10-20"
+      "date1": "2026-10-20",
+      "responded": true
     },
     {
       "name": "Vitamassa",
@@ -35169,7 +35171,8 @@
       "email": "sac@chocolandia.com.br",
       "emailVerified": true,
       "email1": true,
-      "date1": "2026-10-18"
+      "date1": "2026-10-18",
+      "responded": true
     },
     {
       "name": "Charmm Chocolates",
@@ -35539,10 +35542,10 @@
     "total": 5837
   },
   "whatsapp": {
-    "today": 0,
-    "total": 233
+    "today": 16,
+    "total": 249
   },
-  "responses": 1,
+  "responses": 5,
   "pending": 52,
   "daily": [
     {
@@ -35599,7 +35602,7 @@
     },
     {
       "date": "2026-10-20",
-      "count": 100
+      "count": 116
     }
   ],
   "topNeighborhoods": [
@@ -35730,7 +35733,7 @@
     "email1": 3464,
     "email2": 1560,
     "email3": 813,
-    "responded": 1
+    "responded": 5
   },
   "week": {
     "leads": 782,
@@ -35740,7 +35743,7 @@
       "email3": 120,
       "total": 1138
     },
-    "responses": 1
+    "responses": 4
   },
   "month": {
     "leads": 819,
@@ -35750,7 +35753,7 @@
       "email3": 155,
       "total": 1246
     },
-    "responses": 1
+    "responses": 4
   },
   "year": {
     "leads": 3466,
@@ -35760,7 +35763,7 @@
       "email3": 813,
       "total": 5837
     },
-    "responses": 1
+    "responses": 5
   },
   "segments": [
     {
@@ -35785,13 +35788,13 @@
       "name": "distribuidora",
       "total": 144,
       "email1": 142,
-      "responded": 0
+      "responded": 1
     },
     {
       "name": "fabrica_alimentos",
       "total": 137,
       "email1": 115,
-      "responded": 0
+      "responded": 2
     },
     {
       "name": "industria_panificacao",
@@ -35923,7 +35926,7 @@
       "name": "chocolateria",
       "total": 6,
       "email1": 6,
-      "responded": 0
+      "responded": 1
     },
     {
       "name": "gelateria",
