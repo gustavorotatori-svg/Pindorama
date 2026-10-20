@@ -53439,14 +53439,19 @@
     "city": "Sumaré",
     "website": "https://pt-br.selmi.com.br/",
     "phone": "+55 (19) 3873-8400",
-    "context": "Há mais de 130 anos fabrica biscoitos (marca Renata) e massas (marca Galo), exportando para mais de 30 países; planta em Sumaré/SP (Nova Veneza).",
+    "context": "Há mais de 130 anos fabrica biscoitos (marca Renata) e massas (marca Galo), exportando para mais de 30 países; planta em Sumaré/SP (Nova Veneza). | RESPONDEU 20/10: Carolina Rocha (supervisora vendas internas, ramal 8514) encaminhou para Patricia João patricia@selmi.com.br; proposta enviada",
     "emailVerified": true,
     "emailSource": "https://pt-br.selmi.com.br/",
     "emailVerifiedAt": "2026-10-17",
     "mxVerified": true,
     "template": "consultivo",
     "email1": true,
-    "date1": "2026-10-20"
+    "date1": "2026-10-20",
+    "responded": true,
+    "respondedAt": "2026-10-20",
+    "hot": true,
+    "contactName": "Patricia João",
+    "contactRole": "compras"
   },
   {
     "name": "Vitamassa",
