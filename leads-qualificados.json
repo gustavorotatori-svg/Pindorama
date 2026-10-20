@@ -55896,14 +55896,19 @@
     "city": "Sao Paulo",
     "website": "https://www.chocolandiaonline.com.br",
     "phone": "(11) 2889-7600",
-    "context": "6 lojas + atacado, SP+Guarulhos+Osasco",
+    "context": "6 lojas + atacado, SP+Guarulhos+Osasco | RESPONDEU 19/10: SAC encaminhou para Yngrid Silva (compras) yngrid.silva@chocolandia.com.br; proposta enviada 20/10",
     "emailVerified": true,
     "emailSource": "https://www.chocolandiaonline.com.br",
     "emailVerifiedAt": "2026-10-18",
     "mxVerified": true,
     "template": "consultivo",
     "email1": true,
-    "date1": "2026-10-18"
+    "date1": "2026-10-18",
+    "responded": true,
+    "respondedAt": "2026-10-19",
+    "hot": true,
+    "contactName": "Yngrid Silva",
+    "contactRole": "compras"
   },
   {
     "name": "Charmm Chocolates",
