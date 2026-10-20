@@ -4959,5 +4959,15 @@
     "phone": "11 2084-8282",
     "source": "https://www.instagram.com/nestorpizzariagastro/",
     "messageId": "3EB0F4F178BE9CB1956B06"
+  },
+  {
+    "date": "2026-10-20",
+    "acceptedAt": "2026-10-20T18:23:13.054Z",
+    "status": "accepted",
+    "name": "Yacuy Indústria de Erva-Mate (Rafael)",
+    "phone": "+55 (47) 99129-8317",
+    "source": "inbound: pediu contato via WhatsApp 20/10",
+    "messageId": "3EB031A6CE8A4DA2504B26",
+    "error": null
   }
 ]
