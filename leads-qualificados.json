@@ -57208,8 +57208,9 @@
     "emailVerifiedAt": "2026-10-21",
     "mxVerified": true,
     "template": "consultivo",
-    "email1": false,
-    "context": "Pizzaria e esfihas, Cidade Lider SP, delivery e WhatsApp"
+    "email1": true,
+    "context": "Pizzaria e esfihas, Cidade Lider SP, delivery e WhatsApp",
+    "date1": "2026-10-21"
   },
   {
     "name": "Hotel Normandie",
@@ -57239,8 +57240,9 @@
     "emailVerifiedAt": "2026-10-21",
     "mxVerified": true,
     "template": "consultivo",
-    "email1": false,
-    "context": "Hotel economico Centro SP, Largo do Arouche 200, restaurante proprio (cardapio San Raphael), WhatsApp (11) 95743-7160"
+    "email1": true,
+    "context": "Hotel economico Centro SP, Largo do Arouche 200, restaurante proprio (cardapio San Raphael), WhatsApp (11) 95743-7160",
+    "date1": "2026-10-21"
   },
   {
     "name": "LeoDolci Santo Amaro",
@@ -57254,7 +57256,8 @@
     "emailVerifiedAt": "2026-10-21",
     "mxVerified": true,
     "template": "consultivo",
-    "email1": false,
-    "context": "Confeitaria SP, loja Av Joao Carlos da Silva Borges 1025 Vila Cruzeiro; buffet e eventos, WhatsApp 99659-1686"
+    "email1": true,
+    "context": "Confeitaria SP, loja Av Joao Carlos da Silva Borges 1025 Vila Cruzeiro; buffet e eventos, WhatsApp 99659-1686",
+    "date1": "2026-10-21"
   }
 ]
