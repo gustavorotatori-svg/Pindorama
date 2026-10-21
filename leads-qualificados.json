@@ -39784,7 +39784,9 @@
     "template": "pergunta",
     "website": "",
     "email1": true,
-    "date1": "2026-10-18"
+    "date1": "2026-10-18",
+    "email2": true,
+    "date2": "2026-10-21"
   },
   {
     "name": "Locale Caff├® (Compras Carla)",
@@ -47187,7 +47189,9 @@
     "email1": true,
     "date1": "2026-10-15",
     "email2": true,
-    "date2": "2026-10-17"
+    "date2": "2026-10-17",
+    "email3": true,
+    "date3": "2026-10-21"
   },
   {
     "name": "Dasian",
@@ -47226,7 +47230,9 @@
     "email1": true,
     "date1": "2026-10-15",
     "email2": true,
-    "date2": "2026-10-17"
+    "date2": "2026-10-17",
+    "email3": true,
+    "date3": "2026-10-21"
   },
   {
     "name": "Candy Sushi Bar & Club",
@@ -47285,7 +47291,9 @@
     "email1": true,
     "date1": "2026-10-15",
     "email2": true,
-    "date2": "2026-10-17"
+    "date2": "2026-10-17",
+    "email3": true,
+    "date3": "2026-10-21"
   },
   {
     "name": "Buteco da Carne",
@@ -47304,7 +47312,9 @@
     "email1": true,
     "date1": "2026-10-15",
     "email2": true,
-    "date2": "2026-10-17"
+    "date2": "2026-10-17",
+    "email3": true,
+    "date3": "2026-10-21"
   },
   {
     "name": "Balada Mix SÃ£o Paulo",
@@ -47323,7 +47333,9 @@
     "email1": true,
     "date1": "2026-10-15",
     "email2": true,
-    "date2": "2026-10-17"
+    "date2": "2026-10-17",
+    "email3": true,
+    "date3": "2026-10-21"
   },
   {
     "name": "BARCELONA PÃES",
@@ -47342,7 +47354,9 @@
     "email1": true,
     "date1": "2026-10-15",
     "email2": true,
-    "date2": "2026-10-17"
+    "date2": "2026-10-17",
+    "email3": true,
+    "date3": "2026-10-21"
   },
   {
     "name": "A CASA DA PIZZA ESTUFADA",
@@ -47361,7 +47375,9 @@
     "email1": true,
     "date1": "2026-10-15",
     "email2": true,
-    "date2": "2026-10-17"
+    "date2": "2026-10-17",
+    "email3": true,
+    "date3": "2026-10-21"
   },
   {
     "name": "Bar Em Nome do Pai",
@@ -47380,7 +47396,9 @@
     "email1": true,
     "date1": "2026-10-15",
     "email2": true,
-    "date2": "2026-10-17"
+    "date2": "2026-10-17",
+    "email3": true,
+    "date3": "2026-10-21"
   },
   {
     "name": "Paiol Urbano Osasco",
@@ -47399,7 +47417,9 @@
     "email1": true,
     "date1": "2026-10-15",
     "email2": true,
-    "date2": "2026-10-17"
+    "date2": "2026-10-17",
+    "email3": true,
+    "date3": "2026-10-21"
   },
   {
     "name": "PRIME GOLDEN POTATO",
@@ -47418,7 +47438,9 @@
     "email1": true,
     "date1": "2026-10-15",
     "email2": true,
-    "date2": "2026-10-17"
+    "date2": "2026-10-17",
+    "email3": true,
+    "date3": "2026-10-21"
   },
   {
     "name": "Verttoni",
@@ -47437,7 +47459,9 @@
     "email1": true,
     "date1": "2026-10-15",
     "email2": true,
-    "date2": "2026-10-17"
+    "date2": "2026-10-17",
+    "email3": true,
+    "date3": "2026-10-21"
   },
   {
     "name": "Farol Cervejaria e Gourmet",
@@ -47456,7 +47480,9 @@
     "email1": true,
     "date1": "2026-10-15",
     "email2": true,
-    "date2": "2026-10-17"
+    "date2": "2026-10-17",
+    "email3": true,
+    "date3": "2026-10-21"
   },
   {
     "name": "Marinna Gastronomia",
@@ -47475,7 +47501,9 @@
     "email1": true,
     "date1": "2026-10-15",
     "email2": true,
-    "date2": "2026-10-17"
+    "date2": "2026-10-17",
+    "email3": true,
+    "date3": "2026-10-21"
   },
   {
     "name": "Genuino Bar",
@@ -47494,7 +47522,9 @@
     "email1": true,
     "date1": "2026-10-15",
     "email2": true,
-    "date2": "2026-10-17"
+    "date2": "2026-10-17",
+    "email3": true,
+    "date3": "2026-10-21"
   },
   {
     "name": "Restaurante Malagueta",
@@ -47513,7 +47543,9 @@
     "email1": true,
     "date1": "2026-10-16",
     "email2": true,
-    "date2": "2026-10-17"
+    "date2": "2026-10-17",
+    "email3": true,
+    "date3": "2026-10-21"
   },
   {
     "name": "TORNEIRA BAR",
@@ -47532,7 +47564,9 @@
     "email1": true,
     "date1": "2026-10-15",
     "email2": true,
-    "date2": "2026-10-17"
+    "date2": "2026-10-17",
+    "email3": true,
+    "date3": "2026-10-21"
   },
   {
     "name": "Dultier",
@@ -47551,7 +47585,9 @@
     "email1": true,
     "date1": "2026-10-16",
     "email2": true,
-    "date2": "2026-10-17"
+    "date2": "2026-10-17",
+    "email3": true,
+    "date3": "2026-10-21"
   },
   {
     "name": "Vaca CaiÃ§ara",
@@ -47590,7 +47626,9 @@
     "email1": true,
     "date1": "2026-10-16",
     "email2": true,
-    "date2": "2026-10-17"
+    "date2": "2026-10-17",
+    "email3": true,
+    "date3": "2026-10-21"
   },
   {
     "name": "Ministro - Bar e Restaurante",
@@ -47629,7 +47667,9 @@
     "email1": true,
     "date1": "2026-10-16",
     "email2": true,
-    "date2": "2026-10-17"
+    "date2": "2026-10-17",
+    "email3": true,
+    "date3": "2026-10-21"
   },
   {
     "name": "ð£ðð­ð­ðð¥ðð ð ðð ð ð ð...",
@@ -47648,7 +47688,9 @@
     "email1": true,
     "date1": "2026-10-16",
     "email2": true,
-    "date2": "2026-10-17"
+    "date2": "2026-10-17",
+    "email3": true,
+    "date3": "2026-10-21"
   },
   {
     "name": "PARADISO CASA COMIDA",
@@ -47667,7 +47709,9 @@
     "email1": true,
     "date1": "2026-10-16",
     "email2": true,
-    "date2": "2026-10-17"
+    "date2": "2026-10-17",
+    "email3": true,
+    "date3": "2026-10-21"
   },
   {
     "name": "AMOR DE CHURROS",
@@ -47686,7 +47730,9 @@
     "email1": true,
     "date1": "2026-10-16",
     "email2": true,
-    "date2": "2026-10-17"
+    "date2": "2026-10-17",
+    "email3": true,
+    "date3": "2026-10-21"
   },
   {
     "name": "Dhomus",
@@ -47705,7 +47751,9 @@
     "email1": true,
     "date1": "2026-10-16",
     "email2": true,
-    "date2": "2026-10-17"
+    "date2": "2026-10-17",
+    "email3": true,
+    "date3": "2026-10-21"
   },
   {
     "name": "Clos Bar a Vin & BistroÌ",
@@ -47764,7 +47812,9 @@
     "email1": true,
     "date1": "2026-10-16",
     "email2": true,
-    "date2": "2026-10-17"
+    "date2": "2026-10-17",
+    "email3": true,
+    "date3": "2026-10-21"
   },
   {
     "name": "CITRINO BAR",
@@ -47803,7 +47853,9 @@
     "email1": true,
     "date1": "2026-10-16",
     "email2": true,
-    "date2": "2026-10-17"
+    "date2": "2026-10-17",
+    "email3": true,
+    "date3": "2026-10-21"
   },
   {
     "name": "Stop Dog",
@@ -47822,7 +47874,9 @@
     "email1": true,
     "date1": "2026-10-16",
     "email2": true,
-    "date2": "2026-10-17"
+    "date2": "2026-10-17",
+    "email3": true,
+    "date3": "2026-10-21"
   },
   {
     "name": "Bar do Quintal",
@@ -47861,7 +47915,9 @@
     "email1": true,
     "date1": "2026-10-16",
     "email2": true,
-    "date2": "2026-10-17"
+    "date2": "2026-10-17",
+    "email3": true,
+    "date3": "2026-10-21"
   },
   {
     "name": "Restaurante Vila CafÃ©",
@@ -47880,7 +47936,9 @@
     "email1": true,
     "date1": "2026-10-16",
     "email2": true,
-    "date2": "2026-10-17"
+    "date2": "2026-10-17",
+    "email3": true,
+    "date3": "2026-10-21"
   },
   {
     "name": "Cangote Sorvetes",
@@ -47899,7 +47957,9 @@
     "email1": true,
     "date1": "2026-10-16",
     "email2": true,
-    "date2": "2026-10-17"
+    "date2": "2026-10-17",
+    "email3": true,
+    "date3": "2026-10-21"
   },
   {
     "name": "Sidequest XP",
@@ -47918,7 +47978,9 @@
     "email1": true,
     "date1": "2026-10-16",
     "email2": true,
-    "date2": "2026-10-17"
+    "date2": "2026-10-17",
+    "email3": true,
+    "date3": "2026-10-21"
   },
   {
     "name": "ðð§ð¡ð ðð¥ð§ ððð¥",
@@ -47997,7 +48059,9 @@
     "email1": true,
     "date1": "2026-10-16",
     "email2": true,
-    "date2": "2026-10-17"
+    "date2": "2026-10-17",
+    "email3": true,
+    "date3": "2026-10-21"
   },
   {
     "name": "FRITZÂ® - Santo AndreÌ",
@@ -48056,7 +48120,9 @@
     "email1": true,
     "date1": "2026-10-16",
     "email2": true,
-    "date2": "2026-10-17"
+    "date2": "2026-10-17",
+    "email3": true,
+    "date3": "2026-10-21"
   },
   {
     "name": "Zombie Burger",
@@ -48075,7 +48141,9 @@
     "email1": true,
     "date1": "2026-10-16",
     "email2": true,
-    "date2": "2026-10-17"
+    "date2": "2026-10-17",
+    "email3": true,
+    "date3": "2026-10-21"
   },
   {
     "name": "EdoÌ Sushi Bar",
@@ -48094,7 +48162,9 @@
     "email1": true,
     "date1": "2026-10-16",
     "email2": true,
-    "date2": "2026-10-17"
+    "date2": "2026-10-17",
+    "email3": true,
+    "date3": "2026-10-21"
   },
   {
     "name": "Boteco Brazuka",
@@ -48133,7 +48203,9 @@
     "email1": true,
     "date1": "2026-10-16",
     "email2": true,
-    "date2": "2026-10-17"
+    "date2": "2026-10-17",
+    "email3": true,
+    "date3": "2026-10-21"
   },
   {
     "name": "garoupa frutos do mar",
@@ -48152,7 +48224,9 @@
     "email1": true,
     "date1": "2026-10-16",
     "email2": true,
-    "date2": "2026-10-17"
+    "date2": "2026-10-17",
+    "email3": true,
+    "date3": "2026-10-21"
   },
   {
     "name": "Kensei Sushi Bar",
@@ -49439,7 +49513,9 @@
     "template": "consultivo",
     "email1": true,
     "name": "Mais Distribuidora Alimentos",
-    "date1": "2026-10-18"
+    "date1": "2026-10-18",
+    "email2": true,
+    "date2": "2026-10-21"
   },
   {
     "name": "00 Sao Paulo",
@@ -49696,7 +49772,8 @@
     "emailVerifiedAt": "2026-10-17",
     "mxVerified": true,
     "template": "consultivo",
-    "email1": false
+    "email1": true,
+    "date1": "2026-10-21"
   },
   {
     "name": "Bella Terra Alimentos (Polpas e Sucos Congelados)",
@@ -49713,7 +49790,9 @@
     "mxVerified": true,
     "template": "consultivo",
     "email1": true,
-    "date1": "2026-10-19"
+    "date1": "2026-10-19",
+    "email2": true,
+    "date2": "2026-10-21"
   },
   {
     "name": "Cookie do Boleta (Boleta Indústria de Alimentos)",
@@ -49730,7 +49809,9 @@
     "mxVerified": true,
     "template": "consultivo",
     "email1": true,
-    "date1": "2026-10-18"
+    "date1": "2026-10-18",
+    "email2": true,
+    "date2": "2026-10-21"
   },
   {
     "name": "Bombons Lalka Industrial",
@@ -49747,7 +49828,9 @@
     "mxVerified": true,
     "template": "consultivo",
     "email1": true,
-    "date1": "2026-10-18"
+    "date1": "2026-10-18",
+    "email2": true,
+    "date2": "2026-10-21"
   },
   {
     "name": "Bread King Indústria de Panificação (Pães, Doces e Salgados Super Congelados)",
@@ -49781,7 +49864,9 @@
     "mxVerified": true,
     "template": "consultivo",
     "email1": true,
-    "date1": "2026-10-19"
+    "date1": "2026-10-19",
+    "email2": true,
+    "date2": "2026-10-21"
   },
   {
     "name": "Cervejaria Cogumelo",
@@ -49798,7 +49883,9 @@
     "mxVerified": true,
     "template": "consultivo",
     "email1": true,
-    "date1": "2026-10-18"
+    "date1": "2026-10-18",
+    "email2": true,
+    "date2": "2026-10-21"
   },
   {
     "name": "Cervejaria Complô",
@@ -49815,7 +49902,9 @@
     "mxVerified": true,
     "template": "consultivo",
     "email1": true,
-    "date1": "2026-10-18"
+    "date1": "2026-10-18",
+    "email2": true,
+    "date2": "2026-10-21"
   },
   {
     "name": "Cervejaria Dado Bier",
@@ -49832,7 +49921,9 @@
     "mxVerified": true,
     "template": "consultivo",
     "email1": true,
-    "date1": "2026-10-18"
+    "date1": "2026-10-18",
+    "email2": true,
+    "date2": "2026-10-21"
   },
   {
     "name": "Cervejaria Pontal",
@@ -49866,7 +49957,9 @@
     "mxVerified": true,
     "template": "consultivo",
     "email1": true,
-    "date1": "2026-10-18"
+    "date1": "2026-10-18",
+    "email2": true,
+    "date2": "2026-10-21"
   },
   {
     "name": "Cervejaria UNIKA Ltda",
@@ -49900,7 +49993,9 @@
     "mxVerified": true,
     "template": "consultivo",
     "email1": true,
-    "date1": "2026-10-18"
+    "date1": "2026-10-18",
+    "email2": true,
+    "date2": "2026-10-21"
   },
   {
     "name": "Confeitaria Doma",
@@ -49917,7 +50012,9 @@
     "mxVerified": true,
     "template": "consultivo",
     "email1": true,
-    "date1": "2026-10-18"
+    "date1": "2026-10-18",
+    "email2": true,
+    "date2": "2026-10-21"
   },
   {
     "name": "Cruls Cervejaria Artesanal",
@@ -49934,7 +50031,9 @@
     "mxVerified": true,
     "template": "consultivo",
     "email1": true,
-    "date1": "2026-10-18"
+    "date1": "2026-10-18",
+    "email2": true,
+    "date2": "2026-10-21"
   },
   {
     "name": "Didius Indústria de Pães e Lanches",
@@ -49951,7 +50050,9 @@
     "mxVerified": true,
     "template": "consultivo",
     "email1": true,
-    "date1": "2026-10-19"
+    "date1": "2026-10-19",
+    "email2": true,
+    "date2": "2026-10-21"
   },
   {
     "name": "Dortmund Bier Cerveja e Chopp Artesanal",
@@ -49968,7 +50069,9 @@
     "mxVerified": true,
     "template": "consultivo",
     "email1": true,
-    "date1": "2026-10-18"
+    "date1": "2026-10-18",
+    "email2": true,
+    "date2": "2026-10-21"
   },
   {
     "name": "Else Beer",
@@ -49985,7 +50088,9 @@
     "mxVerified": true,
     "template": "consultivo",
     "email1": true,
-    "date1": "2026-10-18"
+    "date1": "2026-10-18",
+    "email2": true,
+    "date2": "2026-10-21"
   },
   {
     "name": "Flavour Mix Indústria de Sucos e Polpas",
@@ -50002,7 +50107,9 @@
     "mxVerified": true,
     "template": "consultivo",
     "email1": true,
-    "date1": "2026-10-19"
+    "date1": "2026-10-19",
+    "email2": true,
+    "date2": "2026-10-21"
   },
   {
     "name": "Frutã Indústria de Polpas de Frutas",
@@ -50019,7 +50126,9 @@
     "mxVerified": true,
     "template": "consultivo",
     "email1": true,
-    "date1": "2026-10-19"
+    "date1": "2026-10-19",
+    "email2": true,
+    "date2": "2026-10-21"
   },
   {
     "name": "GlobalFruit Indústria e Comércio",
@@ -50036,7 +50145,9 @@
     "mxVerified": true,
     "template": "consultivo",
     "email1": true,
-    "date1": "2026-10-18"
+    "date1": "2026-10-18",
+    "email2": true,
+    "date2": "2026-10-21"
   },
   {
     "name": "Kmais Alimentos Indústria de Polpas e Sucos de Frutas",
@@ -50070,7 +50181,9 @@
     "mxVerified": true,
     "template": "consultivo",
     "email1": true,
-    "date1": "2026-10-18"
+    "date1": "2026-10-18",
+    "email2": true,
+    "date2": "2026-10-21"
   },
   {
     "name": "Laciella Chocolates (Fábrica de Chocolates Artesanais)",
@@ -50104,7 +50217,9 @@
     "mxVerified": true,
     "template": "consultivo",
     "email1": true,
-    "date1": "2026-10-18"
+    "date1": "2026-10-18",
+    "email2": true,
+    "date2": "2026-10-21"
   },
   {
     "name": "NewAge Indústria de Bebidas",
@@ -50121,7 +50236,9 @@
     "mxVerified": true,
     "template": "consultivo",
     "email1": true,
-    "date1": "2026-10-18"
+    "date1": "2026-10-18",
+    "email2": true,
+    "date2": "2026-10-21"
   },
   {
     "name": "Nova Esperança Panificadora",
@@ -50137,7 +50254,8 @@
     "emailVerifiedAt": "2026-10-17",
     "mxVerified": true,
     "template": "consultivo",
-    "email1": false
+    "email1": true,
+    "date1": "2026-10-21"
   },
   {
     "name": "Nutrin Fruity",
@@ -50154,7 +50272,9 @@
     "mxVerified": true,
     "template": "consultivo",
     "email1": true,
-    "date1": "2026-10-19"
+    "date1": "2026-10-19",
+    "email2": true,
+    "date2": "2026-10-21"
   },
   {
     "name": "Olímpia Cervejaria (Olimpiabier Microcervejaria Ltda)",
@@ -50188,7 +50308,9 @@
     "mxVerified": true,
     "template": "consultivo",
     "email1": true,
-    "date1": "2026-10-19"
+    "date1": "2026-10-19",
+    "email2": true,
+    "date2": "2026-10-21"
   },
   {
     "name": "Padaria Confeitaria Brasil (Indústria de Congelados Brasil)",
@@ -50205,7 +50327,9 @@
     "mxVerified": true,
     "template": "consultivo",
     "email1": true,
-    "date1": "2026-10-19"
+    "date1": "2026-10-19",
+    "email2": true,
+    "date2": "2026-10-21"
   },
   {
     "name": "Padaria Paulista (Panificação e Confeitaria desde 1986)",
@@ -50222,7 +50346,9 @@
     "mxVerified": true,
     "template": "consultivo",
     "email1": true,
-    "date1": "2026-10-18"
+    "date1": "2026-10-18",
+    "email2": true,
+    "date2": "2026-10-21"
   },
   {
     "name": "Petyan Indústria de Alimentos (Biscoitos e Massas)",
@@ -50256,7 +50382,9 @@
     "mxVerified": true,
     "template": "consultivo",
     "email1": true,
-    "date1": "2026-10-19"
+    "date1": "2026-10-19",
+    "email2": true,
+    "date2": "2026-10-21"
   },
   {
     "name": "Pomar do Brasil Indústria e Comércio de Alimentos",
@@ -50273,7 +50401,9 @@
     "mxVerified": true,
     "template": "consultivo",
     "email1": true,
-    "date1": "2026-10-19"
+    "date1": "2026-10-19",
+    "email2": true,
+    "date2": "2026-10-21"
   },
   {
     "name": "Prodooze Insumos Cervejeiros",
@@ -50290,7 +50420,9 @@
     "mxVerified": true,
     "template": "consultivo",
     "email1": true,
-    "date1": "2026-10-18"
+    "date1": "2026-10-18",
+    "email2": true,
+    "date2": "2026-10-21"
   },
   {
     "name": "Rocky Brewing Cerveja Artesanal Caiçara",
@@ -51513,7 +51645,8 @@
     "emailVerifiedAt": "2026-10-17",
     "mxVerified": true,
     "template": "consultivo",
-    "email1": false
+    "email1": true,
+    "date1": "2026-10-21"
   },
   {
     "name": "Snack Foods Indústria de Alimentos",
@@ -51597,7 +51730,8 @@
     "emailVerifiedAt": "2026-10-17",
     "mxVerified": true,
     "template": "consultivo",
-    "email1": false
+    "email1": true,
+    "date1": "2026-10-21"
   },
   {
     "name": "Franccini Massas Artesanais",
@@ -51647,7 +51781,8 @@
     "emailVerifiedAt": "2026-10-17",
     "mxVerified": true,
     "template": "consultivo",
-    "email1": false
+    "email1": true,
+    "date1": "2026-10-21"
   },
   {
     "name": "Oleon Brasil (A. Azevedo Óleos)",
@@ -51867,7 +52002,8 @@
     "emailVerifiedAt": "2026-10-17",
     "mxVerified": true,
     "template": "consultivo",
-    "email1": false
+    "email1": true,
+    "date1": "2026-10-21"
   },
   {
     "name": "La Creme Gelato",
@@ -52163,7 +52299,8 @@
     "emailVerifiedAt": "2026-10-17",
     "mxVerified": true,
     "template": "consultivo",
-    "email1": false
+    "email1": true,
+    "date1": "2026-10-21"
   },
   {
     "name": "Iannuzzi Pães Congelados",
@@ -52179,7 +52316,8 @@
     "emailVerifiedAt": "2026-10-17",
     "mxVerified": true,
     "template": "consultivo",
-    "email1": false
+    "email1": true,
+    "date1": "2026-10-21"
   },
   {
     "name": "Puropão (Suconor)",
@@ -52766,7 +52904,8 @@
     "emailVerifiedAt": "2026-10-17",
     "mxVerified": true,
     "template": "consultivo",
-    "email1": false
+    "email1": true,
+    "date1": "2026-10-21"
   },
   {
     "name": "São Francisco Pães Congelados",
@@ -53671,7 +53810,8 @@
     "emailVerifiedAt": "2026-10-17",
     "mxVerified": true,
     "template": "consultivo",
-    "email1": false
+    "email1": true,
+    "date1": "2026-10-21"
   },
   {
     "name": "Trivialy Sorvetes",
@@ -53840,7 +53980,8 @@
     "emailVerifiedAt": "2026-10-17",
     "mxVerified": true,
     "template": "consultivo",
-    "email1": false
+    "email1": true,
+    "date1": "2026-10-21"
   },
   {
     "name": "Biscoitos São Tiago",
@@ -53856,7 +53997,8 @@
     "emailVerifiedAt": "2026-10-17",
     "mxVerified": true,
     "template": "consultivo",
-    "email1": false
+    "email1": true,
+    "date1": "2026-10-21"
   },
   {
     "name": "Biscoitos São Benedito",
@@ -53872,7 +54014,8 @@
     "emailVerifiedAt": "2026-10-17",
     "mxVerified": true,
     "template": "consultivo",
-    "email1": false
+    "email1": true,
+    "date1": "2026-10-21"
   },
   {
     "name": "Biscoitos Bela Vista",
@@ -53888,7 +54031,8 @@
     "emailVerifiedAt": "2026-10-17",
     "mxVerified": true,
     "template": "consultivo",
-    "email1": false
+    "email1": true,
+    "date1": "2026-10-21"
   },
   {
     "name": "Sagra Alimentos",
@@ -53904,7 +54048,8 @@
     "emailVerifiedAt": "2026-10-17",
     "mxVerified": true,
     "template": "consultivo",
-    "email1": false
+    "email1": true,
+    "date1": "2026-10-21"
   },
   {
     "name": "Doces Vaz",
@@ -53937,7 +54082,8 @@
     "emailVerifiedAt": "2026-10-17",
     "mxVerified": true,
     "template": "consultivo",
-    "email1": false
+    "email1": true,
+    "date1": "2026-10-21"
   },
   {
     "name": "Príncipe Alimentos",
@@ -53953,7 +54099,8 @@
     "emailVerifiedAt": "2026-10-17",
     "mxVerified": true,
     "template": "consultivo",
-    "email1": false
+    "email1": true,
+    "date1": "2026-10-21"
   },
   {
     "name": "Pães & Pães",
@@ -53969,7 +54116,8 @@
     "emailVerifiedAt": "2026-10-17",
     "mxVerified": true,
     "template": "consultivo",
-    "email1": false
+    "email1": true,
+    "date1": "2026-10-21"
   },
   {
     "name": "Vó Alzira",
@@ -54002,7 +54150,8 @@
     "emailVerifiedAt": "2026-10-17",
     "mxVerified": true,
     "template": "consultivo",
-    "email1": false
+    "email1": true,
+    "date1": "2026-10-21"
   },
   {
     "name": "We Sorvetes",
@@ -54018,7 +54167,8 @@
     "emailVerifiedAt": "2026-10-17",
     "mxVerified": true,
     "template": "consultivo",
-    "email1": false
+    "email1": true,
+    "date1": "2026-10-21"
   },
   {
     "name": "Sorvete Gut",
@@ -54034,7 +54184,8 @@
     "emailVerifiedAt": "2026-10-17",
     "mxVerified": true,
     "template": "consultivo",
-    "email1": false
+    "email1": true,
+    "date1": "2026-10-21"
   },
   {
     "name": "Laticínios Pelissari",
@@ -54050,7 +54201,8 @@
     "emailVerifiedAt": "2026-10-17",
     "mxVerified": true,
     "template": "consultivo",
-    "email1": false
+    "email1": true,
+    "date1": "2026-10-21"
   },
   {
     "name": "Laticínios PJ",
@@ -54066,7 +54218,8 @@
     "emailVerifiedAt": "2026-10-17",
     "mxVerified": true,
     "template": "consultivo",
-    "email1": false
+    "email1": true,
+    "date1": "2026-10-21"
   },
   {
     "name": "Laticínio Santo Antônio",
@@ -54082,7 +54235,8 @@
     "emailVerifiedAt": "2026-10-17",
     "mxVerified": true,
     "template": "consultivo",
-    "email1": false
+    "email1": true,
+    "date1": "2026-10-21"
   },
   {
     "name": "Carmolac",
@@ -54098,7 +54252,8 @@
     "emailVerifiedAt": "2026-10-17",
     "mxVerified": true,
     "template": "consultivo",
-    "email1": false
+    "email1": true,
+    "date1": "2026-10-21"
   },
   {
     "name": "Laticínios São José",
@@ -54114,7 +54269,8 @@
     "emailVerifiedAt": "2026-10-17",
     "mxVerified": true,
     "template": "consultivo",
-    "email1": false
+    "email1": true,
+    "date1": "2026-10-21"
   },
   {
     "name": "Laticínios Porto Alegre",
@@ -54130,7 +54286,8 @@
     "emailVerifiedAt": "2026-10-17",
     "mxVerified": true,
     "template": "consultivo",
-    "email1": false
+    "email1": true,
+    "date1": "2026-10-21"
   },
   {
     "name": "Laticínios Coalhada's",
@@ -54146,7 +54303,8 @@
     "emailVerifiedAt": "2026-10-17",
     "mxVerified": true,
     "template": "consultivo",
-    "email1": false
+    "email1": true,
+    "date1": "2026-10-21"
   },
   {
     "name": "Frutap",
@@ -54162,7 +54320,8 @@
     "emailVerifiedAt": "2026-10-17",
     "mxVerified": true,
     "template": "consultivo",
-    "email1": false
+    "email1": true,
+    "date1": "2026-10-21"
   },
   {
     "name": "FJ Distribuidora",
@@ -54195,7 +54354,8 @@
     "emailVerifiedAt": "2026-10-17",
     "mxVerified": true,
     "template": "consultivo",
-    "email1": false
+    "email1": true,
+    "date1": "2026-10-21"
   },
   {
     "name": "Saborethos",
@@ -54211,7 +54371,8 @@
     "emailVerifiedAt": "2026-10-17",
     "mxVerified": true,
     "template": "consultivo",
-    "email1": false
+    "email1": true,
+    "date1": "2026-10-21"
   },
   {
     "name": "Genebra Chocolates",
@@ -54227,7 +54388,8 @@
     "emailVerifiedAt": "2026-10-17",
     "mxVerified": true,
     "template": "consultivo",
-    "email1": false
+    "email1": true,
+    "date1": "2026-10-21"
   },
   {
     "name": "Hiperpan Indústria de Panificação",
@@ -54260,7 +54422,8 @@
     "emailVerifiedAt": "2026-10-18",
     "mxVerified": true,
     "template": "consultivo",
-    "email1": false
+    "email1": true,
+    "date1": "2026-10-21"
   },
   {
     "name": "Biscoitos Cosme & Damião",
@@ -54276,7 +54439,8 @@
     "emailVerifiedAt": "2026-10-18",
     "mxVerified": true,
     "template": "consultivo",
-    "email1": false
+    "email1": true,
+    "date1": "2026-10-21"
   },
   {
     "name": "Biscoitos Pacheco",
@@ -54292,7 +54456,8 @@
     "emailVerifiedAt": "2026-10-18",
     "mxVerified": true,
     "template": "consultivo",
-    "email1": false
+    "email1": true,
+    "date1": "2026-10-21"
   },
   {
     "name": "Basilicata Pão Italiano e Restaurante",
