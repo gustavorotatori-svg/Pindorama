@@ -3025,7 +3025,8 @@
     "source": "https://www.instagram.com/cantagaloburger/",
     "verifiedAt": "2026-09-05",
     "notBefore": "2026-10-12",
-    "status": "queued"
+    "status": "sent",
+    "sentAt": "2026-10-21T13:44:51.734Z"
   },
   {
     "name": "DOCK BURGER",
@@ -3046,7 +3047,8 @@
     "source": "https://www.instagram.com/comeonburger/",
     "verifiedAt": "2026-09-05",
     "notBefore": "2026-10-12",
-    "status": "queued"
+    "status": "sent",
+    "sentAt": "2026-10-21T13:44:57.068Z"
   },
   {
     "name": "RAW BURGER N BAR",
@@ -3056,7 +3058,8 @@
     "source": "https://www.instagram.com/raw.burger/?hl=pt-br",
     "verifiedAt": "2026-09-05",
     "notBefore": "2026-10-12",
-    "status": "queued"
+    "status": "sent",
+    "sentAt": "2026-10-21T13:45:02.377Z"
   },
   {
     "name": "HAMBURGUERIA TRADI",
@@ -3066,7 +3069,8 @@
     "source": "https://www.instagram.com/hamburgueriatradi/",
     "verifiedAt": "2026-09-05",
     "notBefore": "2026-10-12",
-    "status": "queued"
+    "status": "sent",
+    "sentAt": "2026-10-21T13:45:07.696Z"
   },
   {
     "name": "Gringo├ó┬Ç┬Ös Fried Chicken",
@@ -3076,7 +3080,8 @@
     "source": "https://www.instagram.com/gringos.friedchicken/",
     "verifiedAt": "2026-09-05",
     "notBefore": "2026-10-12",
-    "status": "queued"
+    "status": "sent",
+    "sentAt": "2026-10-21T13:45:13.339Z"
   },
   {
     "name": "HUTO",
@@ -3179,7 +3184,8 @@
     "source": "https://www.instagram.com/nativasgrillsaopaulo/",
     "verifiedAt": "2026-09-05",
     "notBefore": "2026-10-12",
-    "status": "queued"
+    "status": "sent",
+    "sentAt": "2026-10-21T13:43:41.024Z"
   },
   {
     "name": "Nativas Grill Vila Mariana",
@@ -3209,8 +3215,9 @@
     "source": "https://www.instagram.com/paodealhodotionico/",
     "verifiedAt": "2026-09-05",
     "notBefore": "2026-10-13",
-    "status": "queued",
-    "digits": "119129504600"
+    "status": "sent",
+    "digits": "119129504600",
+    "sentAt": "2026-10-21T13:45:18.638Z"
   },
   {
     "name": "Sorveteria do Centro",
@@ -3220,8 +3227,9 @@
     "source": "https://www.instagram.com/sorveteriadocentrosp/",
     "verifiedAt": "2026-09-05",
     "notBefore": "2026-10-13",
-    "status": "queued",
-    "digits": "119419803189"
+    "status": "sent",
+    "digits": "119419803189",
+    "sentAt": "2026-10-21T13:45:23.953Z"
   },
   {
     "name": "Degusti Vinhos",
@@ -3292,7 +3300,8 @@
     "source": "https://adega-emporio-mais-bebidas.ueniweb.com",
     "verifiedAt": "2026-10-16",
     "notBefore": "2026-10-16",
-    "status": "queued"
+    "status": "sent",
+    "sentAt": "2026-10-21T13:43:46.958Z"
   },
   {
     "name": "Prabar Bebidas",

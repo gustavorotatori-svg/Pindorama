@@ -1164,7 +1164,10 @@
     "email2": true,
     "date2": "2026-08-02",
     "email3": true,
-    "date3": "2026-08-06"
+    "date3": "2026-08-06",
+    "whatsappSent": true,
+    "whatsappDate": "2026-10-21",
+    "whatsappSource": "https://adega-emporio-mais-bebidas.ueniweb.com"
   },
   {
     "name": "Cacha├ºaria Maria Eunice",
@@ -24034,7 +24037,10 @@
     "template": "prova_social",
     "website": "",
     "email1": true,
-    "date1": "2026-08-08"
+    "date1": "2026-08-08",
+    "whatsappSent": true,
+    "whatsappDate": "2026-10-21",
+    "whatsappSource": "https://www.instagram.com/cantagaloburger/"
   },
   {
     "name": "Fami├î┬ülia Presto",
@@ -32661,7 +32667,10 @@
     "email2": true,
     "date2": "2026-09-07",
     "email3": true,
-    "date3": "2026-09-11"
+    "date3": "2026-09-11",
+    "whatsappSent": true,
+    "whatsappDate": "2026-10-21",
+    "whatsappSource": "https://www.instagram.com/comeonburger/"
   },
   {
     "name": "RAW BURGER N BAR",
@@ -32681,7 +32690,10 @@
     "email2": true,
     "date2": "2026-09-07",
     "email3": true,
-    "date3": "2026-09-11"
+    "date3": "2026-09-11",
+    "whatsappSent": true,
+    "whatsappDate": "2026-10-21",
+    "whatsappSource": "https://www.instagram.com/raw.burger/?hl=pt-br"
   },
   {
     "name": "HAMBURGUERIA TRADI",
@@ -32701,7 +32713,10 @@
     "email2": true,
     "date2": "2026-09-07",
     "email3": true,
-    "date3": "2026-09-11"
+    "date3": "2026-09-11",
+    "whatsappSent": true,
+    "whatsappDate": "2026-10-21",
+    "whatsappSource": "https://www.instagram.com/hamburgueriatradi/"
   },
   {
     "name": "sevenkingsburger",
@@ -32802,7 +32817,10 @@
     "email2": true,
     "date2": "2026-09-07",
     "email3": true,
-    "date3": "2026-09-11"
+    "date3": "2026-09-11",
+    "whatsappSent": true,
+    "whatsappDate": "2026-10-21",
+    "whatsappSource": "https://www.instagram.com/gringos.friedchicken/"
   },
   {
     "name": "Jun Sakamoto",
@@ -33089,7 +33107,10 @@
     "email2": true,
     "date2": "2026-09-08",
     "email3": true,
-    "date3": "2026-09-12"
+    "date3": "2026-09-12",
+    "whatsappSent": true,
+    "whatsappDate": "2026-10-21",
+    "whatsappSource": "https://www.instagram.com/nativasgrillsaopaulo/"
   },
   {
     "name": "Nativas Grill Vila Mariana",
@@ -33444,7 +33465,10 @@
     "email2": true,
     "date2": "2026-09-08",
     "email3": true,
-    "date3": "2026-09-12"
+    "date3": "2026-09-12",
+    "whatsappSent": true,
+    "whatsappDate": "2026-10-21",
+    "whatsappSource": "https://www.instagram.com/paodealhodotionico/"
   },
   {
     "name": "Sorveteria do Centro",
@@ -33464,7 +33488,10 @@
     "email2": true,
     "date2": "2026-09-08",
     "email3": true,
-    "date3": "2026-09-12"
+    "date3": "2026-09-12",
+    "whatsappSent": true,
+    "whatsappDate": "2026-10-21",
+    "whatsappSource": "https://www.instagram.com/sorveteriadocentrosp/"
   },
   {
     "name": "THE PAZTEL",
@@ -56891,5 +56918,52 @@
     "template": "consultivo",
     "email1": true,
     "date1": "2026-10-18"
+  },
+  {
+    "name": "BLZ Bebidas",
+    "email": "pedidos@blzbebidas.com.br",
+    "phone": "(11) 99658-2982",
+    "phoneVerified": false,
+    "type": "distribuidora_bebidas",
+    "website": "https://www.blzbebidas.com.br/",
+    "emailSource": "https://www.blzbebidas.com.br/",
+    "emailVerified": true,
+    "emailVerifiedAt": "2026-10-21",
+    "mxVerified": true,
+    "template": "consultivo",
+    "email1": false,
+    "context": "Distribuidora SP + litoral, pedidos SP (11) 2217-3380, litoral (12) 3865-3303",
+    "notes": ""
+  },
+  {
+    "name": "Adega Online",
+    "email": "contato@adegaonline.com.br",
+    "phone": "(11) 97667-5339",
+    "phoneVerified": false,
+    "type": "adega",
+    "website": "https://www.adegaonline.com.br/pages/adega-entrega",
+    "emailSource": "https://www.adegaonline.com.br/pages/adega-entrega",
+    "emailVerified": true,
+    "emailVerifiedAt": "2026-10-21",
+    "mxVerified": true,
+    "template": "consultivo",
+    "email1": false,
+    "context": "Adega online com entrega propria de vinhos e destilados, SP capital + GSP",
+    "notes": ""
+  },
+  {
+    "name": "Five Distribuidora de Bebidas",
+    "email": "",
+    "phone": "(11) 93941-2700",
+    "phoneVerified": false,
+    "type": "distribuidora_bebidas",
+    "website": "https://www.distribuidorafive.com.br/",
+    "emailSource": "https://www.distribuidorafive.com.br/",
+    "emailVerified": false,
+    "mxVerified": false,
+    "template": "consultivo",
+    "email1": false,
+    "context": "Zona leste SP, atacado e varejo, 2 lojas (Jardim Sao Pedro e Jose Bonifacio), pedido via WhatsApp",
+    "notes": ""
   }
 ]

@@ -4969,5 +4969,86 @@
     "source": "inbound: pediu contato via WhatsApp 20/10",
     "messageId": "3EB031A6CE8A4DA2504B26",
     "error": null
+  },
+  {
+    "date": "2026-10-21",
+    "acceptedAt": "2026-10-21T13:43:41.024Z",
+    "status": "accepted",
+    "name": "Nativas Grill Sa├î┬âo Paulo",
+    "phone": "11 2213-8222",
+    "source": "https://www.instagram.com/nativasgrillsaopaulo/",
+    "messageId": "3EB042F04EB58F8C2517DE"
+  },
+  {
+    "date": "2026-10-21",
+    "acceptedAt": "2026-10-21T13:43:46.959Z",
+    "status": "accepted",
+    "name": "Adega Emp├│rio Mais Bebidas",
+    "phone": "(11) 94890-6829",
+    "source": "https://adega-emporio-mais-bebidas.ueniweb.com",
+    "messageId": "3EB00973A6F1F68BF77A19"
+  },
+  {
+    "date": "2026-10-21",
+    "acceptedAt": "2026-10-21T13:44:51.734Z",
+    "status": "accepted",
+    "name": "CANTAGALO BURGER",
+    "phone": "(11)2097-2830/(11)98941-7059 / 1199195-8439 JOYCE // 1197087-6367 LARI",
+    "source": "https://www.instagram.com/cantagaloburger/",
+    "messageId": "3EB067C29E5F3634B5E74E"
+  },
+  {
+    "date": "2026-10-21",
+    "acceptedAt": "2026-10-21T13:44:57.068Z",
+    "status": "accepted",
+    "name": "COME ON BURGER",
+    "phone": "99400-5696 PEDRO/ 985591131 / (11) 5082-1645",
+    "source": "https://www.instagram.com/comeonburger/",
+    "messageId": "3EB064A74024F1587D0D7C"
+  },
+  {
+    "date": "2026-10-21",
+    "acceptedAt": "2026-10-21T13:45:02.377Z",
+    "status": "accepted",
+    "name": "RAW BURGER N BAR",
+    "phone": "3032-3610/ 1199937-3214",
+    "source": "https://www.instagram.com/raw.burger/?hl=pt-br",
+    "messageId": "3EB0E648F173FC7E5BCB62"
+  },
+  {
+    "date": "2026-10-21",
+    "acceptedAt": "2026-10-21T13:45:07.696Z",
+    "status": "accepted",
+    "name": "HAMBURGUERIA TRADI",
+    "phone": "11 2339 7107 / 23397077 / 11 952934711 Lierson",
+    "source": "https://www.instagram.com/hamburgueriatradi/",
+    "messageId": "3EB05F2A1FFEDC204EA88D"
+  },
+  {
+    "date": "2026-10-21",
+    "acceptedAt": "2026-10-21T13:45:13.339Z",
+    "status": "accepted",
+    "name": "Gringo├ó┬Ç┬Ös Fried Chicken",
+    "phone": "3722-3816 / 11 958391663",
+    "source": "https://www.instagram.com/gringos.friedchicken/",
+    "messageId": "3EB0A7A15622D02B35F30F"
+  },
+  {
+    "date": "2026-10-21",
+    "acceptedAt": "2026-10-21T13:45:18.638Z",
+    "status": "accepted",
+    "name": "P├â┬úo de alho do tio nico",
+    "phone": "1191295-0460 LOJA/ 011964258080 Nicolas",
+    "source": "https://www.instagram.com/paodealhodotionico/",
+    "messageId": "3EB0B742C9553C306D01F0"
+  },
+  {
+    "date": "2026-10-21",
+    "acceptedAt": "2026-10-21T13:45:23.953Z",
+    "status": "accepted",
+    "name": "Sorveteria do Centro",
+    "phone": "11 941980318 / 934719201 carol / 11996882296 fl├â┬ívia",
+    "source": "https://www.instagram.com/sorveteriadocentrosp/",
+    "messageId": "3EB0B24D773E5DF033CAEB"
   }
 ]
