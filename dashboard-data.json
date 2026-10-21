@@ -1,5 +1,5 @@
 {
-  "lastUpdate": "2026-10-20T21:29:49.240Z",
+  "lastUpdate": "2026-10-21T04:25:25.116Z",
   "totalLeads": 3565,
   "allLeads": [
     {
@@ -35542,16 +35542,12 @@
     "total": 5837
   },
   "whatsapp": {
-    "today": 16,
+    "today": 0,
     "total": 249
   },
   "responses": 5,
   "pending": 52,
   "daily": [
-    {
-      "date": "2026-10-07",
-      "count": 2
-    },
     {
       "date": "2026-10-08",
       "count": 33
@@ -35603,6 +35599,10 @@
     {
       "date": "2026-10-20",
       "count": 116
+    },
+    {
+      "date": "2026-10-21",
+      "count": 0
     }
   ],
   "topNeighborhoods": [
@@ -35736,12 +35736,12 @@
     "responded": 5
   },
   "week": {
-    "leads": 782,
+    "leads": 778,
     "emails": {
-      "email1": 782,
-      "email2": 236,
-      "email3": 120,
-      "total": 1138
+      "email1": 778,
+      "email2": 232,
+      "email3": 119,
+      "total": 1129
     },
     "responses": 4
   },
