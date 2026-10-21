@@ -51242,7 +51242,9 @@
     "emailVerifiedAt": "2026-10-17",
     "mxVerified": true,
     "template": "consultivo",
-    "email1": false
+    "email1": false,
+    "doNotContact": true,
+    "notes": "| concorrente direto (destilaria) - nao prospectar"
   },
   {
     "name": "Destilaria Cachoeira",
@@ -51258,7 +51260,9 @@
     "emailVerifiedAt": "2026-10-17",
     "mxVerified": true,
     "template": "consultivo",
-    "email1": false
+    "email1": false,
+    "doNotContact": true,
+    "notes": "| concorrente direto (destilaria) - nao prospectar"
   },
   {
     "name": "Cachaça Werneck",
@@ -51274,7 +51278,9 @@
     "emailVerifiedAt": "2026-10-17",
     "mxVerified": true,
     "template": "consultivo",
-    "email1": false
+    "email1": false,
+    "doNotContact": true,
+    "notes": "| concorrente direto (destilaria) - nao prospectar"
   },
   {
     "name": "Cachaça Caipira (Alambique Caipira)",
@@ -51290,7 +51296,9 @@
     "emailVerifiedAt": "2026-10-17",
     "mxVerified": true,
     "template": "consultivo",
-    "email1": false
+    "email1": false,
+    "doNotContact": true,
+    "notes": "| concorrente direto (destilaria) - nao prospectar"
   },
   {
     "name": "Destilaria Pedro Duim (Cachaça Pereirinha)",
@@ -51306,7 +51314,9 @@
     "emailVerifiedAt": "2026-10-17",
     "mxVerified": true,
     "template": "consultivo",
-    "email1": false
+    "email1": false,
+    "doNotContact": true,
+    "notes": "| concorrente direto (destilaria) - nao prospectar"
   },
   {
     "name": "Alambique DUVALE",
@@ -51322,7 +51332,9 @@
     "emailVerifiedAt": "2026-10-17",
     "mxVerified": true,
     "template": "consultivo",
-    "email1": false
+    "email1": false,
+    "doNotContact": true,
+    "notes": "| concorrente direto (destilaria) - nao prospectar"
   },
   {
     "name": "Cachaça Coqueiro",
@@ -51338,7 +51350,9 @@
     "emailVerifiedAt": "2026-10-17",
     "mxVerified": true,
     "template": "consultivo",
-    "email1": false
+    "email1": false,
+    "doNotContact": true,
+    "notes": "| concorrente direto (destilaria) - nao prospectar"
   },
   {
     "name": "Cachaças Engenho da Cana",
@@ -51354,7 +51368,9 @@
     "emailVerifiedAt": "2026-10-17",
     "mxVerified": true,
     "template": "consultivo",
-    "email1": false
+    "email1": false,
+    "doNotContact": true,
+    "notes": "| concorrente direto (destilaria) - nao prospectar"
   },
   {
     "name": "Kidelícia Sorvetes",
@@ -52784,7 +52800,9 @@
     "emailVerifiedAt": "2026-10-17",
     "mxVerified": true,
     "template": "consultivo",
-    "email1": false
+    "email1": false,
+    "doNotContact": true,
+    "notes": "| concorrente direto (destilaria) - nao prospectar"
   },
   {
     "name": "Almeida Valente Alambique",
@@ -52800,7 +52818,9 @@
     "emailVerifiedAt": "2026-10-17",
     "mxVerified": true,
     "template": "consultivo",
-    "email1": false
+    "email1": false,
+    "doNotContact": true,
+    "notes": "| concorrente direto (destilaria) - nao prospectar"
   },
   {
     "name": "Cachaça Tellura",
@@ -52816,7 +52836,9 @@
     "emailVerifiedAt": "2026-10-17",
     "mxVerified": true,
     "template": "consultivo",
-    "email1": false
+    "email1": false,
+    "doNotContact": true,
+    "notes": "| concorrente direto (destilaria) - nao prospectar"
   },
   {
     "name": "Capuava Cachaçaria",
@@ -52832,7 +52854,9 @@
     "emailVerifiedAt": "2026-10-17",
     "mxVerified": true,
     "template": "consultivo",
-    "email1": false
+    "email1": false,
+    "doNotContact": true,
+    "notes": "| concorrente direto (destilaria) - nao prospectar"
   },
   {
     "name": "Cachaça Altarugio",
@@ -52848,7 +52872,9 @@
     "emailVerifiedAt": "2026-10-17",
     "mxVerified": true,
     "template": "consultivo",
-    "email1": false
+    "email1": false,
+    "doNotContact": true,
+    "notes": "| concorrente direto (destilaria) - nao prospectar"
   },
   {
     "name": "Cachaça Batista",
@@ -52864,7 +52890,9 @@
     "emailVerifiedAt": "2026-10-17",
     "mxVerified": true,
     "template": "consultivo",
-    "email1": false
+    "email1": false,
+    "doNotContact": true,
+    "notes": "| concorrente direto (destilaria) - nao prospectar"
   },
   {
     "name": "Engenho Fazenda Velha",
@@ -52880,7 +52908,9 @@
     "emailVerifiedAt": "2026-10-17",
     "mxVerified": true,
     "template": "consultivo",
-    "email1": false
+    "email1": false,
+    "doNotContact": true,
+    "notes": "| concorrente direto (destilaria) - nao prospectar"
   },
   {
     "name": "Biscoitos Fabise",
@@ -55857,7 +55887,9 @@
     "emailVerifiedAt": "2026-10-18",
     "mxVerified": true,
     "template": "consultivo",
-    "email1": false
+    "email1": false,
+    "doNotContact": true,
+    "notes": "| email gratuito, sem website verificavel - nao elegivel"
   },
   {
     "name": "KIRO Bebidas",
@@ -56272,7 +56304,9 @@
     "emailVerifiedAt": "2026-10-18",
     "mxVerified": true,
     "template": "consultivo",
-    "email1": false
+    "email1": false,
+    "doNotContact": true,
+    "notes": "| email gratuito, sem website verificavel - nao elegivel"
   },
   {
     "name": "Brooks Hamburgueria",
@@ -57161,5 +57195,65 @@
     "email1": false,
     "context": "Zona leste SP, atacado e varejo, 2 lojas (Jardim Sao Pedro e Jose Bonifacio), pedido via WhatsApp",
     "notes": ""
+  },
+  {
+    "name": "Pizzaria do Bambino",
+    "email": "contato@pizzariadobambino.com.br",
+    "phone": "(11) 94088-3430",
+    "phoneVerified": false,
+    "type": "pizzaria",
+    "website": "http://www.pizzariadobambino.com.br/contato-bambino.php",
+    "emailSource": "http://www.pizzariadobambino.com.br/contato-bambino.php",
+    "emailVerified": true,
+    "emailVerifiedAt": "2026-10-21",
+    "mxVerified": true,
+    "template": "consultivo",
+    "email1": false,
+    "context": "Pizzaria e esfihas, Cidade Lider SP, delivery e WhatsApp"
+  },
+  {
+    "name": "Hotel Normandie",
+    "email": "reservas@hotelnormandie.com.br",
+    "phone": "(11) 4369-1869",
+    "phoneVerified": false,
+    "type": "hotel",
+    "website": "https://hotelnormandie.com.br/contato",
+    "emailSource": "https://hotelnormandie.com.br/contato",
+    "emailVerified": true,
+    "emailVerifiedAt": "2026-10-21",
+    "mxVerified": true,
+    "template": "consultivo",
+    "email1": false,
+    "context": "Hotel desde 1981, Av Ipiranga 1187 Centro Historico SP; central de reservas + WhatsApp"
+  },
+  {
+    "name": "San Michel Hotel",
+    "email": "reservas@sanmichelhotel.com.br",
+    "phone": "(11) 3224-1420",
+    "phoneVerified": false,
+    "type": "hotel",
+    "website": "https://sanmichelhotel.com.br/contato/",
+    "emailSource": "https://sanmichelhotel.com.br/contato/",
+    "emailVerified": true,
+    "emailVerifiedAt": "2026-10-21",
+    "mxVerified": true,
+    "template": "consultivo",
+    "email1": false,
+    "context": "Hotel economico Centro SP, Largo do Arouche 200, restaurante proprio (cardapio San Raphael), WhatsApp (11) 95743-7160"
+  },
+  {
+    "name": "LeoDolci Santo Amaro",
+    "email": "borges@leodolci.com.br",
+    "phone": "(11) 5641-3335",
+    "phoneVerified": false,
+    "type": "confeitaria",
+    "website": "https://www.leodolci.com.br/contato",
+    "emailSource": "https://www.leodolci.com.br/contato",
+    "emailVerified": true,
+    "emailVerifiedAt": "2026-10-21",
+    "mxVerified": true,
+    "template": "consultivo",
+    "email1": false,
+    "context": "Confeitaria SP, loja Av Joao Carlos da Silva Borges 1025 Vila Cruzeiro; buffet e eventos, WhatsApp 99659-1686"
   }
 ]
