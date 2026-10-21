@@ -57223,8 +57223,9 @@
     "emailVerifiedAt": "2026-10-21",
     "mxVerified": true,
     "template": "consultivo",
-    "email1": false,
-    "context": "Hotel desde 1981, Av Ipiranga 1187 Centro Historico SP; central de reservas + WhatsApp"
+    "email1": true,
+    "context": "Hotel desde 1981, Av Ipiranga 1187 Centro Historico SP; central de reservas + WhatsApp",
+    "date1": "2026-10-21"
   },
   {
     "name": "San Michel Hotel",
