@@ -40,7 +40,11 @@ if (alreadyToday >= LIMIT) {
 }
 
 const normalize = (phone) => {
-  let digits = String(phone).replace(/\D/g, '');
+  const raw = String(phone);
+  const candidates = raw.match(/\(?\d{2}\)?\s*\d{4,5}[-\s]?\d{4}/g) || [];
+  const mobiles = candidates.filter((c) => c.replace(/\D/g, '').length >= 10 && /\d{9}/.test(c.replace(/\D/g, '').slice(-9)));
+  const chosen = (mobiles[0] || candidates[0] || raw).replace(/\D/g, '');
+  let digits = chosen;
   if (digits.length === 10 || digits.length === 11) digits = `55${digits}`;
   return digits;
 };
