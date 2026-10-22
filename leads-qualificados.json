@@ -9000,7 +9000,8 @@
     "doNotContactReason": "Cliente j├í atendido pela marca Pindorama; n├úo prospectar nem enviar follow-up.",
     "responseDate": null,
     "response": null,
-    "emailVerifiedAt": "2026-10-13"
+    "emailVerifiedAt": "2026-10-13",
+    "targetProfile": "C/D"
   },
   {
     "name": "MOCOT├â┬ô AQUI",
@@ -9021,7 +9022,8 @@
     "doNotContactReason": "Cliente j├í atendido pela marca Pindorama; n├úo prospectar nem enviar follow-up.",
     "responseDate": null,
     "response": null,
-    "emailVerifiedAt": "2026-10-13"
+    "emailVerifiedAt": "2026-10-13",
+    "targetProfile": "C/D"
   },
   {
     "name": "BRIGADEIRO DOCERIA & CAF├â┬ë",
@@ -21026,7 +21028,8 @@
     "email1": true,
     "date1": "2026-08-08",
     "doNotContact": true,
-    "doNotContactReason": "Supressao permanente solicitada pelo usuario em 2026-09-02; nunca contactar a empresa Talcha por nenhum canal."
+    "doNotContactReason": "Supressao permanente solicitada pelo usuario em 2026-09-02; nunca contactar a empresa Talcha por nenhum canal.",
+    "targetProfile": "C/D"
   },
   {
     "name": "Anusha Chocolates",
@@ -23057,7 +23060,8 @@
     "email1": true,
     "date1": "2026-08-08",
     "doNotContact": true,
-    "doNotContactReason": "Supressao permanente solicitada pelo usuario em 2026-09-02; nunca contactar a empresa Talcha por nenhum canal."
+    "doNotContactReason": "Supressao permanente solicitada pelo usuario em 2026-09-02; nunca contactar a empresa Talcha por nenhum canal.",
+    "targetProfile": "C/D"
   },
   {
     "name": "SIMPATIA 105",
@@ -23790,7 +23794,8 @@
     "doNotContactReason": "Cliente j├í atendido pela marca Pindorama; n├úo prospectar nem enviar follow-up.",
     "responseDate": null,
     "response": null,
-    "emailVerifiedAt": "2026-10-13"
+    "emailVerifiedAt": "2026-10-13",
+    "targetProfile": "C/D"
   },
   {
     "name": "Betsy",
@@ -35538,7 +35543,8 @@
     "date1": "2026-09-05",
     "doNotContact": true,
     "bounced": true,
-    "bounceDate": "2026-09-06"
+    "bounceDate": "2026-09-06",
+    "targetProfile": "C/D"
   },
   {
     "name": "Vilinha Steakhouse",
@@ -35792,7 +35798,8 @@
     "date1": "2026-09-05",
     "doNotContact": true,
     "bounced": true,
-    "bounceDate": "2026-09-06"
+    "bounceDate": "2026-09-06",
+    "targetProfile": "C/D"
   },
   {
     "name": "P├â┬úo de alho do tio nico",
@@ -35919,7 +35926,8 @@
     "date1": "2026-09-05",
     "doNotContact": true,
     "bounced": true,
-    "bounceDate": "2026-09-06"
+    "bounceDate": "2026-09-06",
+    "targetProfile": "C/D"
   },
   {
     "name": "GELATO BOUTIQUE",
@@ -36423,7 +36431,8 @@
     "date2": "2026-08-15",
     "doNotContact": true,
     "bounced": true,
-    "bounceDate": "2026-08-15"
+    "bounceDate": "2026-08-15",
+    "targetProfile": "C/D"
   },
   {
     "name": "VIP Bar Drinks & Coquetelaria",
@@ -36486,7 +36495,8 @@
     "date2": "2026-08-15",
     "doNotContact": true,
     "bounced": true,
-    "bounceDate": "2026-08-15"
+    "bounceDate": "2026-08-15",
+    "targetProfile": "C/D"
   },
   {
     "name": "Blend Alphaville",
@@ -36913,7 +36923,8 @@
     "date1": "2026-08-16",
     "doNotContact": true,
     "bounced": true,
-    "bounceDate": "2026-08-16"
+    "bounceDate": "2026-08-16",
+    "targetProfile": "C/D"
   },
   {
     "name": "Elo Drinks",
@@ -37260,7 +37271,8 @@
     "date1": "2026-08-16",
     "doNotContact": true,
     "bounced": true,
-    "bounceDate": "2026-08-16"
+    "bounceDate": "2026-08-16",
+    "targetProfile": "C/D"
   },
   {
     "name": "Doja Producoes",
@@ -37635,7 +37647,8 @@
     "date1": "2026-08-16",
     "doNotContact": true,
     "bounced": true,
-    "bounceDate": "2026-08-16"
+    "bounceDate": "2026-08-16",
+    "targetProfile": "C/D"
   },
   {
     "name": "Casa Hibrida",
@@ -39324,7 +39337,8 @@
     "date2": "2026-08-29",
     "doNotContact": true,
     "bounced": true,
-    "bounceDate": "2026-08-29"
+    "bounceDate": "2026-08-29",
+    "targetProfile": "C/D"
   },
   {
     "name": "Bar Bambu",
@@ -39766,7 +39780,8 @@
     "bounceReason": "550 5.1.1 Gmail account does not exist",
     "suppressed": true,
     "automationIncident": "Email2 foi enviado em 2026-08-30 apos o bounce permanente de 2026-08-28; bloquear novos envios.",
-    "doNotContact": true
+    "doNotContact": true,
+    "targetProfile": "C/D"
   },
   {
     "name": "Emporio Dois Irmaos",
@@ -39820,7 +39835,8 @@
     "bounceDate": "2026-08-30",
     "bounceReason": "550 5.1.1 Gmail account does not exist",
     "suppressed": true,
-    "doNotContact": true
+    "doNotContact": true,
+    "targetProfile": "C/D"
   },
   {
     "name": "Rancho Urbano",
@@ -40423,7 +40439,8 @@
     "date3": "2026-09-09",
     "doNotContact": true,
     "bounced": true,
-    "bounceDate": "2026-09-09"
+    "bounceDate": "2026-09-09",
+    "targetProfile": "C/D"
   },
   {
     "name": "Bicho Bebe Bebidas",
@@ -41206,7 +41223,8 @@
     "date1": "2026-09-04",
     "doNotContact": true,
     "bounced": true,
-    "bounceDate": "2026-09-06"
+    "bounceDate": "2026-09-06",
+    "targetProfile": "C/D"
   },
   {
     "name": "Hanami Restaurante",
@@ -41563,7 +41581,8 @@
     "date1": "2026-09-04",
     "doNotContact": true,
     "bounced": true,
-    "bounceDate": "2026-09-06"
+    "bounceDate": "2026-09-06",
+    "targetProfile": "C/D"
   },
   {
     "name": "Adega Meireles",
@@ -41675,7 +41694,8 @@
     "date1": "2026-09-04",
     "doNotContact": true,
     "bounced": true,
-    "bounceDate": "2026-09-06"
+    "bounceDate": "2026-09-06",
+    "targetProfile": "C/D"
   },
   {
     "name": "MM Adega e Distribuidora",
@@ -41926,7 +41946,8 @@
     "date1": "2026-09-05",
     "doNotContact": true,
     "bounced": true,
-    "bounceDate": "2026-09-06"
+    "bounceDate": "2026-09-06",
+    "targetProfile": "C/D"
   },
   {
     "name": "Adega Ta Na Mao",
@@ -42092,7 +42113,8 @@
     "date1": "2026-09-06",
     "doNotContact": true,
     "bounced": true,
-    "bounceDate": "2026-09-07"
+    "bounceDate": "2026-09-07",
+    "targetProfile": "C/D"
   },
   {
     "name": "Adega do Alem├úo Comercial",
@@ -42288,7 +42310,8 @@
     "date1": "2026-09-08",
     "doNotContact": true,
     "bounced": true,
-    "bounceDate": "2026-09-09"
+    "bounceDate": "2026-09-09",
+    "targetProfile": "C/D"
   },
   {
     "name": "Cantina Jundiaiense",
@@ -42503,7 +42526,8 @@
     "date1": "2026-09-10",
     "doNotContact": true,
     "bounced": true,
-    "bounceDate": "2026-09-11"
+    "bounceDate": "2026-09-11",
+    "targetProfile": "C/D"
   },
   {
     "name": "Adega Alegria Alangi",
@@ -42522,7 +42546,8 @@
     "date1": "2026-09-10",
     "doNotContact": true,
     "bounced": true,
-    "bounceDate": "2026-09-10"
+    "bounceDate": "2026-09-10",
+    "targetProfile": "C/D"
   },
   {
     "name": "Adega Beer",
@@ -43349,7 +43374,8 @@
     "date2": "2026-09-20",
     "doNotContact": true,
     "bounced": true,
-    "bounceDate": "2026-09-20"
+    "bounceDate": "2026-09-20",
+    "targetProfile": "C/D"
   },
   {
     "name": "Sampaio Bar e Adega",
@@ -43499,7 +43525,8 @@
     "emailVerifiedAt": "2026-10-13",
     "doNotContact": true,
     "bounced": true,
-    "bounceDate": "2026-09-15"
+    "bounceDate": "2026-09-15",
+    "targetProfile": "C/D"
   },
   {
     "name": "Adega GuÔÇÖs Drinks",
@@ -43679,7 +43706,8 @@
     "emailVerifiedAt": "2026-10-13",
     "doNotContact": true,
     "bounced": true,
-    "bounceDate": "2026-09-15"
+    "bounceDate": "2026-09-15",
+    "targetProfile": "C/D"
   },
   {
     "name": "Pezimpa Comercio de Bebidas",
@@ -43716,7 +43744,8 @@
     "date2": "2026-09-20",
     "doNotContact": true,
     "bounced": true,
-    "bounceDate": "2026-09-20"
+    "bounceDate": "2026-09-20",
+    "targetProfile": "C/D"
   },
   {
     "name": "Distribuidora de Bebidas e Alimentos",
@@ -43753,7 +43782,8 @@
     "date2": "2026-09-20",
     "doNotContact": true,
     "bounced": true,
-    "bounceDate": "2026-09-20"
+    "bounceDate": "2026-09-20",
+    "targetProfile": "C/D"
   },
   {
     "name": "Adega Revoada",
@@ -43808,7 +43838,8 @@
     "date2": "2026-09-20",
     "doNotContact": true,
     "bounced": true,
-    "bounceDate": "2026-09-20"
+    "bounceDate": "2026-09-20",
+    "targetProfile": "C/D"
   },
   {
     "name": "Projeto Agua",
@@ -43845,7 +43876,8 @@
     "date2": "2026-09-20",
     "doNotContact": true,
     "bounced": true,
-    "bounceDate": "2026-09-20"
+    "bounceDate": "2026-09-20",
+    "targetProfile": "C/D"
   },
   {
     "name": "Josmar Frederico Martinez",
@@ -43864,7 +43896,8 @@
     "date2": "2026-09-20",
     "doNotContact": true,
     "bounced": true,
-    "bounceDate": "2026-09-20"
+    "bounceDate": "2026-09-20",
+    "targetProfile": "C/D"
   },
   {
     "name": "Adega Kaiky",
@@ -44854,7 +44887,8 @@
     "emailVerifiedAt": "2026-10-13",
     "doNotContact": true,
     "bounced": true,
-    "bounceDate": "2026-09-17"
+    "bounceDate": "2026-09-17",
+    "targetProfile": "C/D"
   },
   {
     "name": "Vieira Adega e Distribuidora de Bebidas",
@@ -44890,7 +44924,8 @@
     "emailVerifiedAt": "2026-10-13",
     "doNotContact": true,
     "bounced": true,
-    "bounceDate": "2026-09-15"
+    "bounceDate": "2026-09-15",
+    "targetProfile": "C/D"
   },
   {
     "name": "Adega Aghata Drinks",
@@ -45302,7 +45337,8 @@
     "emailVerifiedAt": "2026-10-13",
     "doNotContact": true,
     "bounced": true,
-    "bounceDate": "2026-09-17"
+    "bounceDate": "2026-09-17",
+    "targetProfile": "C/D"
   },
   {
     "name": "Copenhague Bar Drinks",
@@ -45446,7 +45482,8 @@
     "emailVerifiedAt": "2026-10-13",
     "doNotContact": true,
     "bounced": true,
-    "bounceDate": "2026-09-17"
+    "bounceDate": "2026-09-17",
+    "targetProfile": "A/B"
   },
   {
     "name": "Bar dos Drinks",
@@ -45464,7 +45501,8 @@
     "emailVerifiedAt": "2026-10-13",
     "doNotContact": true,
     "bounced": true,
-    "bounceDate": "2026-09-18"
+    "bounceDate": "2026-09-18",
+    "targetProfile": "C/D"
   },
   {
     "name": "Coquetel Bar Ltda",
@@ -45536,7 +45574,8 @@
     "emailVerifiedAt": "2026-10-13",
     "doNotContact": true,
     "bounced": true,
-    "bounceDate": "2026-09-18"
+    "bounceDate": "2026-09-18",
+    "targetProfile": "A/B"
   },
   {
     "name": "Olho de Vidro Bar Ltda",
@@ -45590,7 +45629,8 @@
     "emailVerifiedAt": "2026-10-13",
     "doNotContact": true,
     "bounced": true,
-    "bounceDate": "2026-09-18"
+    "bounceDate": "2026-09-18",
+    "targetProfile": "C/D"
   },
   {
     "name": "E-Jr Distribuidora de Bebidas Ltda",
@@ -54581,7 +54621,8 @@
     "template": "consultivo",
     "email1": false,
     "doNotContact": true,
-    "notes": "| concorrente direto (destilaria) - nao prospectar"
+    "notes": "| concorrente direto (destilaria) - nao prospectar",
+    "targetProfile": "C/D"
   },
   {
     "name": "Destilaria Cachoeira",
@@ -54599,7 +54640,8 @@
     "template": "consultivo",
     "email1": false,
     "doNotContact": true,
-    "notes": "| concorrente direto (destilaria) - nao prospectar"
+    "notes": "| concorrente direto (destilaria) - nao prospectar",
+    "targetProfile": "C/D"
   },
   {
     "name": "Cachaça Werneck",
@@ -54617,7 +54659,8 @@
     "template": "consultivo",
     "email1": false,
     "doNotContact": true,
-    "notes": "| concorrente direto (destilaria) - nao prospectar"
+    "notes": "| concorrente direto (destilaria) - nao prospectar",
+    "targetProfile": "C/D"
   },
   {
     "name": "Cachaça Caipira (Alambique Caipira)",
@@ -54635,7 +54678,8 @@
     "template": "consultivo",
     "email1": false,
     "doNotContact": true,
-    "notes": "| concorrente direto (destilaria) - nao prospectar"
+    "notes": "| concorrente direto (destilaria) - nao prospectar",
+    "targetProfile": "C/D"
   },
   {
     "name": "Destilaria Pedro Duim (Cachaça Pereirinha)",
@@ -54653,7 +54697,8 @@
     "template": "consultivo",
     "email1": false,
     "doNotContact": true,
-    "notes": "| concorrente direto (destilaria) - nao prospectar"
+    "notes": "| concorrente direto (destilaria) - nao prospectar",
+    "targetProfile": "C/D"
   },
   {
     "name": "Alambique DUVALE",
@@ -54671,7 +54716,8 @@
     "template": "consultivo",
     "email1": false,
     "doNotContact": true,
-    "notes": "| concorrente direto (destilaria) - nao prospectar"
+    "notes": "| concorrente direto (destilaria) - nao prospectar",
+    "targetProfile": "C/D"
   },
   {
     "name": "Cachaça Coqueiro",
@@ -54689,7 +54735,8 @@
     "template": "consultivo",
     "email1": false,
     "doNotContact": true,
-    "notes": "| concorrente direto (destilaria) - nao prospectar"
+    "notes": "| concorrente direto (destilaria) - nao prospectar",
+    "targetProfile": "C/D"
   },
   {
     "name": "Cachaças Engenho da Cana",
@@ -54707,7 +54754,8 @@
     "template": "consultivo",
     "email1": false,
     "doNotContact": true,
-    "notes": "| concorrente direto (destilaria) - nao prospectar"
+    "notes": "| concorrente direto (destilaria) - nao prospectar",
+    "targetProfile": "C/D"
   },
   {
     "name": "Kidelícia Sorvetes",
@@ -56279,7 +56327,8 @@
     "template": "consultivo",
     "email1": false,
     "doNotContact": true,
-    "notes": "| concorrente direto (destilaria) - nao prospectar"
+    "notes": "| concorrente direto (destilaria) - nao prospectar",
+    "targetProfile": "C/D"
   },
   {
     "name": "Almeida Valente Alambique",
@@ -56297,7 +56346,8 @@
     "template": "consultivo",
     "email1": false,
     "doNotContact": true,
-    "notes": "| concorrente direto (destilaria) - nao prospectar"
+    "notes": "| concorrente direto (destilaria) - nao prospectar",
+    "targetProfile": "C/D"
   },
   {
     "name": "Cachaça Tellura",
@@ -56315,7 +56365,8 @@
     "template": "consultivo",
     "email1": false,
     "doNotContact": true,
-    "notes": "| concorrente direto (destilaria) - nao prospectar"
+    "notes": "| concorrente direto (destilaria) - nao prospectar",
+    "targetProfile": "C/D"
   },
   {
     "name": "Capuava Cachaçaria",
@@ -56333,7 +56384,8 @@
     "template": "consultivo",
     "email1": false,
     "doNotContact": true,
-    "notes": "| concorrente direto (destilaria) - nao prospectar"
+    "notes": "| concorrente direto (destilaria) - nao prospectar",
+    "targetProfile": "C/D"
   },
   {
     "name": "Cachaça Altarugio",
@@ -56351,7 +56403,8 @@
     "template": "consultivo",
     "email1": false,
     "doNotContact": true,
-    "notes": "| concorrente direto (destilaria) - nao prospectar"
+    "notes": "| concorrente direto (destilaria) - nao prospectar",
+    "targetProfile": "C/D"
   },
   {
     "name": "Cachaça Batista",
@@ -56369,7 +56422,8 @@
     "template": "consultivo",
     "email1": false,
     "doNotContact": true,
-    "notes": "| concorrente direto (destilaria) - nao prospectar"
+    "notes": "| concorrente direto (destilaria) - nao prospectar",
+    "targetProfile": "C/D"
   },
   {
     "name": "Engenho Fazenda Velha",
@@ -56387,7 +56441,8 @@
     "template": "consultivo",
     "email1": false,
     "doNotContact": true,
-    "notes": "| concorrente direto (destilaria) - nao prospectar"
+    "notes": "| concorrente direto (destilaria) - nao prospectar",
+    "targetProfile": "C/D"
   },
   {
     "name": "Biscoitos Fabise",
@@ -59588,7 +59643,8 @@
     "template": "consultivo",
     "email1": false,
     "doNotContact": true,
-    "notes": "| email gratuito, sem website verificavel - nao elegivel"
+    "notes": "| email gratuito, sem website verificavel - nao elegivel",
+    "targetProfile": "C/D"
   },
   {
     "name": "KIRO Bebidas",
@@ -60026,7 +60082,8 @@
     "template": "consultivo",
     "email1": false,
     "doNotContact": true,
-    "notes": "| email gratuito, sem website verificavel - nao elegivel"
+    "notes": "| email gratuito, sem website verificavel - nao elegivel",
+    "targetProfile": "C/D"
   },
   {
     "name": "Brooks Hamburgueria",
