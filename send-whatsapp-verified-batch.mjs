@@ -1,4 +1,4 @@
-﻿import { existsSync, readFileSync, writeFileSync } from 'fs';
+import { existsSync, readFileSync, writeFileSync } from 'fs';
 import { connect, sendText, isConnected } from './whatsapp.mjs';
 
 const isRecoverableSessionNoise = (error) =>
@@ -79,7 +79,7 @@ for (const target of eligible) {
     console.log(`TELEFONE INVALIDO: ${target.name} <${target.phone}>`);
     continue;
   }
-  const message = `Olá! Sou o Gustavo, da Pindorama — cachaça artesanal premium do Vale do Café (RJ), a mesma de Fasano, Hilton e Rosewood. Quero mandar uma amostra grátis para a ${target.name} testar, com o primeiro pedido bonificado. Posso combinar o envio? Se não interessar, me avisa que não volto a chamar.`;
+  const message = `Olá! Sou o Gustavo, da Pindorama — cachaça artesanal premium do Vale do Café (RJ), a mesma de Fasano, Hilton e Rosewood. Mando catálogo e tabela de preços da Pindorama para a ${target.name}. Posso enviar por aqui? Se não interessar, me avisa que não volto a chamar.`;
   try {
     const result = await sendText(`${number}@s.whatsapp.net`, message);
     const messageId = result?.key?.id || null;

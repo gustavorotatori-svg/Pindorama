@@ -112,82 +112,70 @@ Vi que {contexto}.
 
 Sou o Gustavo, da Pindorama — cachaça artesanal premium de fazenda própria no Vale do Café (RJ), a mesma que atende Fasano, Hilton e Rosewood.
 
-Quero colocar nossa linha aí sem risco nenhum para você:
+Trabalho com 3 referências:
+• Pindorama Clássica (prata envelhecida) — 700ml
+• Pindorama Ouro (envelhecida em carvalho) — 700ml
+• Cobra Coral de jabuticaba (premium) — 700ml
 
-• Amostra grátis para provar antes de decidir
-• Primeiro pedido bonificado para teste
-• Degustadora e treinamento da equipe por nossa conta
+Catálogo completo em anexo (PDF). Frete CIF por nossa conta e 21 dias para pagar no primeiro pedido.
 
-Topa? Para mandar a amostra grátis, responda com:
+Posso te mandar a tabela de preços e condições para a {nome}?
 
-• Nome do responsável
-• Endereço completo de entrega (rua, número, complemento, bairro, cidade, CEP)
-• CNPJ da casa
-• WhatsApp para combinar a entrega
-
-Mando esta semana.`,
+Se não fizer sentido, sem problema — basta responder "não" que não insisto.`,
   email1_prova_social: `Olá {nome},
-
-Vi que {contexto}.
 
 Fasano, Hilton e Rosewood já trabalham com a Pindorama — e estou abrindo a mesma condição para poucas casas da região:
 
-• Amostra grátis para avaliação
-• Primeiro pedido bonificado para teste
-• Degustadora e treinamento inclusos
+• Pindorama Clássica (prata envelhecida) — 700ml
+• Pindorama Ouro (envelhecida em carvalho) — 700ml
+• Cobra Coral de jabuticaba (premium) — 700ml
 
-Topa? Para mandar a amostra grátis, responda com:
+Catálogo completo em anexo (PDF). Frete CIF e 21 dias para pagar.
 
-• Nome do responsável
-• Endereço completo de entrega (rua, número, complemento, bairro, cidade, CEP)
-• CNPJ da casa
-• WhatsApp para combinar a entrega
+Posso te mandar a tabela de preços e condições para a {nome}?
 
-Mando esta semana.`,
+Se não fizer sentido, sem problema — basta responder "não" que não insisto.`,
   email1_pergunta: `Olá {nome},
 
 Pergunta rápida: vocês já têm uma cachaça premium no cardápio?
 
 Sou o Gustavo, da Pindorama (Vale do Café, RJ). Vi que {contexto} — e para casas assim ofereço:
 
-• Amostra grátis para testar
-• Primeiro pedido bonificado
-• Frete CIF e 21 dias para pagar
+• Pindorama Clássica (prata envelhecida) — 700ml
+• Pindorama Ouro (envelhecida em carvalho) — 700ml
+• Cobra Coral de jabuticaba (premium) — 700ml
 
-Topa? Para mandar a amostra grátis, responda com:
+Catálogo completo em anexo (PDF). Frete CIF e 21 dias para pagar.
 
-• Nome do responsável
-• Endereço completo de entrega (rua, número, complemento, bairro, cidade, CEP)
-• CNPJ da casa
-• WhatsApp para combinar a entrega
+Posso te mandar a tabela de preços e condições para a {nome}?
 
-Mando esta semana.`,
+Se não fizer sentido, sem problema — basta responder "não" que não insisto.`,
   email2: `Olá {nome},
 
 Semana passada te escrevi sobre a Pindorama e não tive retorno — normal, caixa cheia.
 
-Resumo em 3 linhas: cachaça artesanal premium (a mesma de Fasano, Hilton e Rosewood), amostra grátis para provar e primeiro pedido bonificado para teste. Zero risco.
+Resumo em 3 linhas: cachaça artesanal premium (a mesma de Fasano, Hilton e Rosewood), catálogo em anexo e tabela de preços disponível. Zero risco.
 
-Mando a amostra para qual endereço?`,
+Posso te mandar a tabela de preços e condições?`,
   email3: `Olá {nome},
 
 Último contato — prometo não insistir depois deste.
 
-Deixo a porta aberta: amostra grátis + primeiro pedido bonificado para teste, quando fizer sentido para vocês. Basta responder este e-mail.
+Deixo a porta aberta: catálogo em anexo e tabela de preços disponível, quando fizer sentido para vocês. Basta responder este e-mail.
 
-Sucesso aí!`
+Sucesso aí!`,
 };
 
 Object.keys(TEMPLATES).forEach(k => { TEMPLATES[k] += SIGNATURE; });
 
 const SUBJECTS = {
-  bar: 'Amostra gr\u00e1tis + pedido bonificado para seu bar',
-  restaurante: 'Amostra gr\u00e1tis + pedido bonificado para seu restaurante',
-  adega: 'Amostra gr\u00e1tis + pedido bonificado para sua adega',
-  loja_bebidas: 'Amostra gr\u00e1tis + pedido bonificado para sua loja',
-  distribuidora: 'Amostra gr\u00e1tis + pedido bonificado para sua distribuidora',
-  hotel: 'Amostra gr\u00e1tis + pedido bonificado para seu hotel',
-  balada: 'Amostra gr\u00e1tis + pedido bonificado para sua balada'
+  bar: 'Pindorama \u2014 cat\u00e1logo e tabela de pre\u00e7os para seu bar',
+  restaurante: 'Pindorama \u2014 cat\u00e1logo e tabela de pre\u00e7os para seu restaurante',
+  adega: 'Pindorama \u2014 cat\u00e1logo e tabela de pre\u00e7os para sua adega',
+  loja_bebidas: 'Pindorama \u2014 cat\u00e1logo e tabela de pre\u00e7os para sua loja',
+  distribuidora: 'Pindorama \u2014 cat\u00e1logo e tabela de pre\u00e7os para sua distribuidora',
+  hotel: 'Pindorama \u2014 cat\u00e1logo e tabela de pre\u00e7os para seu hotel',
+  balada: 'Pindorama \u2014 cat\u00e1logo e tabela de pre\u00e7os para sua balada'
 };
 
 function pickTemplate(lead, step) {
@@ -200,9 +188,9 @@ function pickTemplate(lead, step) {
 
 function getSubject(lead, step) {
   if (step === 'email1') {
-    return SUBJECTS[lead.type] || 'Primeiro pedido bonificado para teste \u2014 Pindorama';
+    return SUBJECTS[lead.type] || 'Pindorama \u2014 cat\u00e1logo e tabela de pre\u00e7os';
   }
-  if (step === 'email2') return 'Sobre a amostra gr\u00e1tis Pindorama';
+  if (step === 'email2') return 'Pindorama \u2014 posso mandar a tabela de pre\u00e7os?';
   return '\u00daltimo contato \u2014 oferta especial de lan\u00e7amento Pindorama';
 }
 
