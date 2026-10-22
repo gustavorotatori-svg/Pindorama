@@ -40029,7 +40029,9 @@
     "emailVerified": true,
     "emailSource": "https://www.example.com",
     "emailVerifiedAt": "2026-10-17",
-    "targetProfile": "A/B"
+    "targetProfile": "A/B",
+    "doNotContact": true,
+    "notes": "| emailSource placeholder (example.com) - nao elegivel"
   },
   {
     "name": "Gogo da Ema",
@@ -40052,7 +40054,9 @@
     "emailVerified": true,
     "emailSource": "https://www.example.com",
     "emailVerifiedAt": "2026-10-17",
-    "targetProfile": "A/B"
+    "targetProfile": "A/B",
+    "doNotContact": true,
+    "notes": "| emailSource placeholder (example.com) - nao elegivel"
   },
   {
     "name": "Casa Zilanna Mercearia Idish",
@@ -40075,7 +40079,9 @@
     "emailVerified": true,
     "emailSource": "https://www.example.com",
     "emailVerifiedAt": "2026-10-17",
-    "targetProfile": "A/B"
+    "targetProfile": "A/B",
+    "doNotContact": true,
+    "notes": "| emailSource placeholder (example.com) - nao elegivel"
   },
   {
     "name": "Adega Caldeira Drink's e Tabacaria",
@@ -40798,7 +40804,9 @@
     "emailVerified": true,
     "emailSource": "https://www.example.com",
     "emailVerifiedAt": "2026-10-17",
-    "targetProfile": "A/B"
+    "targetProfile": "A/B",
+    "doNotContact": true,
+    "notes": "| emailSource placeholder (example.com) - nao elegivel"
   },
   {
     "name": "Let's Beer Cervejas Artesanais",
@@ -42453,7 +42461,9 @@
     "emailVerified": true,
     "emailSource": "https://www.example.com",
     "emailVerifiedAt": "2026-10-17",
-    "targetProfile": "A/B"
+    "targetProfile": "A/B",
+    "doNotContact": true,
+    "notes": "| emailSource placeholder (example.com) - nao elegivel"
   },
   {
     "name": "Adega Rainha",
