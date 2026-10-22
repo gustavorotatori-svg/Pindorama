@@ -191,7 +191,7 @@ function getSubject(lead, step) {
     return SUBJECTS[lead.type] || 'Pindorama \u2014 cat\u00e1logo e tabela de pre\u00e7os';
   }
   if (step === 'email2') return 'Pindorama \u2014 posso mandar a tabela de pre\u00e7os?';
-  return '\u00daltimo contato \u2014 oferta especial de lan\u00e7amento Pindorama';
+  return '\u00dAltimo contato \u2014 cat\u00e1logo e tabela de pre\u00e7os Pindorama';
 }
 
 async function sendEmail(lead, step) {
