@@ -39192,7 +39192,7 @@
     "date1": "2026-08-30",
     "status": "contacted",
     "messageId1": "<ea3c15e4-9d84-6ff7-f230-99bcff25d232@gmail.com>",
-    "targetProfile": "A/B"
+    "targetProfile": "C/D"
   },
   {
     "name": "D'Gusta Cachacaria",
@@ -42472,7 +42472,7 @@
     "date1": "2026-10-18",
     "email2": true,
     "date2": "2026-10-21",
-    "targetProfile": "A/B"
+    "targetProfile": "C/D"
   },
   {
     "name": "Locale Caff├® (Compras Carla)",
@@ -42484,7 +42484,7 @@
     "emailVerified": true,
     "emailSource": "https://www.example.com",
     "emailVerifiedAt": "2026-10-17",
-    "targetProfile": "A/B",
+    "targetProfile": "C/D",
     "doNotContact": true,
     "notes": "| emailSource placeholder (example.com) - nao elegivel"
   },
@@ -55075,7 +55075,7 @@
     "date1": "2026-10-19",
     "email2": true,
     "date2": "2026-10-21",
-    "targetProfile": "A/B"
+    "targetProfile": "C/D"
   },
   {
     "name": "Siatec Brasil",
@@ -55913,7 +55913,7 @@
     "date1": "2026-10-20",
     "email2": true,
     "date2": "2026-10-22",
-    "targetProfile": "A/B"
+    "targetProfile": "C/D"
   },
   {
     "name": "Barão Erva Mate e Chás",
@@ -58467,7 +58467,7 @@
     "date1": "2026-10-17",
     "email2": true,
     "date2": "2026-10-19",
-    "targetProfile": "A/B"
+    "targetProfile": "C/D"
   },
   {
     "name": "Fioretta",
@@ -58487,7 +58487,7 @@
     "date1": "2026-10-18",
     "email2": true,
     "date2": "2026-10-21",
-    "targetProfile": "A/B"
+    "targetProfile": "C/D"
   },
   {
     "name": "Padoca do Maní",
@@ -58507,7 +58507,7 @@
     "date1": "2026-10-17",
     "email2": true,
     "date2": "2026-10-19",
-    "targetProfile": "A/B"
+    "targetProfile": "C/D"
   },
   {
     "name": "Nica Café",
@@ -58527,7 +58527,7 @@
     "date1": "2026-10-17",
     "email2": true,
     "date2": "2026-10-19",
-    "targetProfile": "A/B"
+    "targetProfile": "C/D"
   },
   {
     "name": "Bark & Crust",
@@ -58707,7 +58707,7 @@
     "date1": "2026-10-18",
     "email2": true,
     "date2": "2026-10-21",
-    "targetProfile": "A/B"
+    "targetProfile": "C/D"
   },
   {
     "name": "Delícias da Nádia",
@@ -58785,7 +58785,7 @@
     "date1": "2026-10-18",
     "email2": true,
     "date2": "2026-10-21",
-    "targetProfile": "A/B"
+    "targetProfile": "C/D"
   },
   {
     "name": "Sugar & Co",
@@ -58805,7 +58805,7 @@
     "date1": "2026-10-18",
     "email2": true,
     "date2": "2026-10-21",
-    "targetProfile": "A/B"
+    "targetProfile": "C/D"
   },
   {
     "name": "Brodo Ristoranti",
@@ -58925,7 +58925,7 @@
     "date1": "2026-10-18",
     "email2": true,
     "date2": "2026-10-21",
-    "targetProfile": "A/B"
+    "targetProfile": "C/D"
   },
   {
     "name": "Carlos Pizza Jardins",
@@ -58945,7 +58945,7 @@
     "date1": "2026-10-18",
     "email2": true,
     "date2": "2026-10-21",
-    "targetProfile": "A/B"
+    "targetProfile": "C/D"
   },
   {
     "name": "Attrio Pizzaria",
@@ -59025,7 +59025,7 @@
     "date1": "2026-10-18",
     "email2": true,
     "date2": "2026-10-21",
-    "targetProfile": "A/B"
+    "targetProfile": "C/D"
   },
   {
     "name": "Suprema PizzaCine",
@@ -59105,7 +59105,7 @@
     "date1": "2026-10-18",
     "email2": true,
     "date2": "2026-10-21",
-    "targetProfile": "A/B"
+    "targetProfile": "C/D"
   },
   {
     "name": "Sterna Café",
@@ -59125,7 +59125,7 @@
     "date1": "2026-10-18",
     "email2": true,
     "date2": "2026-10-21",
-    "targetProfile": "A/B"
+    "targetProfile": "C/D"
   },
   {
     "name": "Capi Café",
@@ -59185,7 +59185,7 @@
     "date1": "2026-10-18",
     "email2": true,
     "date2": "2026-10-21",
-    "targetProfile": "A/B"
+    "targetProfile": "C/D"
   },
   {
     "name": "Piccolo Cafés",
@@ -59265,7 +59265,7 @@
     "date1": "2026-10-18",
     "email2": true,
     "date2": "2026-10-21",
-    "targetProfile": "A/B"
+    "targetProfile": "C/D"
   },
   {
     "name": "Burger Street",
@@ -59325,7 +59325,7 @@
     "date1": "2026-10-18",
     "email2": true,
     "date2": "2026-10-21",
-    "targetProfile": "A/B"
+    "targetProfile": "C/D"
   },
   {
     "name": "Real Burger",
@@ -59345,7 +59345,7 @@
     "date1": "2026-10-18",
     "email2": true,
     "date2": "2026-10-21",
-    "targetProfile": "A/B"
+    "targetProfile": "C/D"
   },
   {
     "name": "Açaí Central",
@@ -59485,7 +59485,7 @@
     "date1": "2026-10-18",
     "email2": true,
     "date2": "2026-10-21",
-    "targetProfile": "A/B"
+    "targetProfile": "C/D"
   },
   {
     "name": "Osnir Hamburguer",
@@ -59525,7 +59525,7 @@
     "date1": "2026-10-18",
     "email2": true,
     "date2": "2026-10-21",
-    "targetProfile": "A/B"
+    "targetProfile": "C/D"
   },
   {
     "name": "Bolinha Feijoada",
@@ -60466,7 +60466,7 @@
     "date1": "2026-10-18",
     "email2": true,
     "date2": "2026-10-21",
-    "targetProfile": "A/B"
+    "targetProfile": "C/D"
   },
   {
     "name": "Mix Cream Sorvetes",
@@ -60506,7 +60506,7 @@
     "date1": "2026-10-18",
     "email2": true,
     "date2": "2026-10-21",
-    "targetProfile": "A/B"
+    "targetProfile": "C/D"
   },
   {
     "name": "Bianco Gelateria",
@@ -60526,7 +60526,7 @@
     "date1": "2026-10-18",
     "email2": true,
     "date2": "2026-10-21",
-    "targetProfile": "A/B"
+    "targetProfile": "C/D"
   },
   {
     "name": "Fogo de Chao Jardins",
@@ -60546,7 +60546,7 @@
     "date1": "2026-10-18",
     "email2": true,
     "date2": "2026-10-21",
-    "targetProfile": "A/B"
+    "targetProfile": "C/D"
   },
   {
     "name": "Fogo de Chao Vila Olympia",
@@ -60566,7 +60566,7 @@
     "date1": "2026-10-18",
     "email2": true,
     "date2": "2026-10-21",
-    "targetProfile": "A/B"
+    "targetProfile": "C/D"
   },
   {
     "name": "Churrascos Marcio",
@@ -60606,7 +60606,7 @@
     "date1": "2026-10-18",
     "email2": true,
     "date2": "2026-10-21",
-    "targetProfile": "A/B"
+    "targetProfile": "C/D"
   },
   {
     "name": "Viva o Churrasco Lapa",
@@ -60866,7 +60866,7 @@
     "date1": "2026-10-18",
     "email2": true,
     "date2": "2026-10-21",
-    "targetProfile": "A/B"
+    "targetProfile": "C/D"
   },
   {
     "name": "Caves Santa Cruz",
@@ -60906,7 +60906,7 @@
     "date1": "2026-10-18",
     "email2": true,
     "date2": "2026-10-21",
-    "targetProfile": "A/B"
+    "targetProfile": "C/D"
   },
   {
     "name": "Epice Vinhos Importadora",
