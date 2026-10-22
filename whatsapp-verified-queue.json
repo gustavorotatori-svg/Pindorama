@@ -3091,7 +3091,8 @@
     "source": "https://www.instagram.com/grupo_huto/",
     "verifiedAt": "2026-09-05",
     "notBefore": "2026-10-12",
-    "status": "queued"
+    "status": "sent",
+    "sentAt": "2026-10-21T15:01:08.908Z"
   },
   {
     "name": "Sushi Casa Verde",
@@ -3154,7 +3155,8 @@
     "source": "https://www.instagram.com/santafeacostela/?hl=pt-br",
     "verifiedAt": "2026-09-05",
     "notBefore": "2026-10-12",
-    "status": "queued"
+    "status": "sent",
+    "sentAt": "2026-10-21T15:01:14.573Z"
   },
   {
     "name": "Santa Fe├î┬ü O Cupim",
@@ -3164,7 +3166,8 @@
     "source": "https://www.instagram.com/santafeocupim/",
     "verifiedAt": "2026-09-05",
     "notBefore": "2026-10-12",
-    "status": "queued"
+    "status": "sent",
+    "sentAt": "2026-10-21T15:01:19.647Z"
   },
   {
     "name": "Santa Fe Vila Leopoldina",
@@ -3174,7 +3177,8 @@
     "source": "https://www.instagram.com/santafegrelhados/",
     "verifiedAt": "2026-09-05",
     "notBefore": "2026-10-12",
-    "status": "queued"
+    "status": "sent",
+    "sentAt": "2026-10-21T15:01:24.717Z"
   },
   {
     "name": "Nativas Grill Sa├î┬âo Paulo",

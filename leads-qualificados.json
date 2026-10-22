@@ -32853,7 +32853,10 @@
     "email2": true,
     "date2": "2026-09-07",
     "email3": true,
-    "date3": "2026-09-11"
+    "date3": "2026-09-11",
+    "whatsappSent": true,
+    "whatsappDate": "2026-10-21",
+    "whatsappSource": "https://www.instagram.com/grupo_huto/"
   },
   {
     "name": "Sushi Casa Verde",
@@ -33047,7 +33050,10 @@
     "email2": true,
     "date2": "2026-09-08",
     "email3": true,
-    "date3": "2026-09-12"
+    "date3": "2026-09-12",
+    "whatsappSent": true,
+    "whatsappDate": "2026-10-21",
+    "whatsappSource": "https://www.instagram.com/santafeacostela/?hl=pt-br"
   },
   {
     "name": "Santa Fe├î┬ü O Cupim",
@@ -33067,7 +33073,10 @@
     "email2": true,
     "date2": "2026-09-08",
     "email3": true,
-    "date3": "2026-09-12"
+    "date3": "2026-09-12",
+    "whatsappSent": true,
+    "whatsappDate": "2026-10-21",
+    "whatsappSource": "https://www.instagram.com/santafeocupim/"
   },
   {
     "name": "Santa Fe Vila Leopoldina",
@@ -33087,7 +33096,10 @@
     "email2": true,
     "date2": "2026-09-08",
     "email3": true,
-    "date3": "2026-09-12"
+    "date3": "2026-09-12",
+    "whatsappSent": true,
+    "whatsappDate": "2026-10-21",
+    "whatsappSource": "https://www.instagram.com/santafegrelhados/"
   },
   {
     "name": "Nativas Grill Sa├î┬âo Paulo",
