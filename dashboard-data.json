@@ -1,5 +1,5 @@
 {
-  "lastUpdate": "2026-10-21T21:31:36.372Z",
+  "lastUpdate": "2026-10-22T04:23:36.568Z",
   "totalLeads": 3572,
   "allLeads": [
     {
@@ -28236,7 +28236,9 @@
       "email1": true,
       "date1": "2026-10-17",
       "email2": true,
-      "date2": "2026-10-18"
+      "date2": "2026-10-18",
+      "email3": true,
+      "date3": "2026-10-21"
     },
     {
       "name": "KAÃ RESTAURANTE",
@@ -28501,7 +28503,9 @@
       "email1": true,
       "date1": "2026-10-17",
       "email2": true,
-      "date2": "2026-10-18"
+      "date2": "2026-10-18",
+      "email3": true,
+      "date3": "2026-10-21"
     },
     {
       "name": "BAROLO TRATTORIA",
@@ -28524,7 +28528,9 @@
       "email1": true,
       "date1": "2026-10-17",
       "email2": true,
-      "date2": "2026-10-18"
+      "date2": "2026-10-18",
+      "email3": true,
+      "date3": "2026-10-21"
     },
     {
       "name": "CÃR",
@@ -28613,7 +28619,9 @@
       "email1": true,
       "date1": "2026-10-17",
       "email2": true,
-      "date2": "2026-10-18"
+      "date2": "2026-10-18",
+      "email3": true,
+      "date3": "2026-10-21"
     },
     {
       "name": "JAPS",
@@ -28669,7 +28677,9 @@
       "email1": true,
       "date1": "2026-10-17",
       "email2": true,
-      "date2": "2026-10-18"
+      "date2": "2026-10-18",
+      "email3": true,
+      "date3": "2026-10-21"
     },
     {
       "name": "Boteco Coutinho",
@@ -28747,7 +28757,9 @@
       "email1": true,
       "date1": "2026-10-17",
       "email2": true,
-      "date2": "2026-10-18"
+      "date2": "2026-10-18",
+      "email3": true,
+      "date3": "2026-10-21"
     },
     {
       "name": "NOW BURGER",
@@ -28836,7 +28848,9 @@
       "email1": true,
       "date1": "2026-10-17",
       "email2": true,
-      "date2": "2026-10-18"
+      "date2": "2026-10-18",
+      "email3": true,
+      "date3": "2026-10-21"
     },
     {
       "name": "BURGER FUN",
@@ -31013,7 +31027,9 @@
       "email1": true,
       "date1": "2026-10-17",
       "email2": true,
-      "date2": "2026-10-18"
+      "date2": "2026-10-18",
+      "email3": true,
+      "date3": "2026-10-21"
     },
     {
       "name": "Venda Dona Noêmia",
@@ -31025,7 +31041,9 @@
       "email1": true,
       "date1": "2026-10-17",
       "email2": true,
-      "date2": "2026-10-18"
+      "date2": "2026-10-18",
+      "email3": true,
+      "date3": "2026-10-21"
     },
     {
       "name": "Gaman'T Sushi Bar",
@@ -31037,7 +31055,9 @@
       "email1": true,
       "date1": "2026-10-17",
       "email2": true,
-      "date2": "2026-10-18"
+      "date2": "2026-10-18",
+      "email3": true,
+      "date3": "2026-10-21"
     },
     {
       "name": "The Bull Pub Granja Viana",
@@ -31049,7 +31069,9 @@
       "email1": true,
       "date1": "2026-10-17",
       "email2": true,
-      "date2": "2026-10-18"
+      "date2": "2026-10-18",
+      "email3": true,
+      "date3": "2026-10-21"
     },
     {
       "name": "Distacado Distribuidora",
@@ -31061,7 +31083,9 @@
       "email1": true,
       "date1": "2026-10-17",
       "email2": true,
-      "date2": "2026-10-18"
+      "date2": "2026-10-18",
+      "email3": true,
+      "date3": "2026-10-21"
     },
     {
       "name": "Colibrí Distribuidora Food Service",
@@ -31073,7 +31097,9 @@
       "email1": true,
       "date1": "2026-10-17",
       "email2": true,
-      "date2": "2026-10-18"
+      "date2": "2026-10-18",
+      "email3": true,
+      "date3": "2026-10-21"
     },
     {
       "name": "Rosso Pizza",
@@ -31085,7 +31111,9 @@
       "email1": true,
       "date1": "2026-10-17",
       "email2": true,
-      "date2": "2026-10-18"
+      "date2": "2026-10-18",
+      "email3": true,
+      "date3": "2026-10-21"
     },
     {
       "name": "Le Sorelle Gastronomia",
@@ -31097,7 +31125,9 @@
       "email1": true,
       "date1": "2026-10-17",
       "email2": true,
-      "date2": "2026-10-18"
+      "date2": "2026-10-18",
+      "email3": true,
+      "date3": "2026-10-21"
     },
     {
       "name": "Sampa Adega",
@@ -31142,7 +31172,9 @@
       "email1": true,
       "date1": "2026-10-17",
       "email2": true,
-      "date2": "2026-10-18"
+      "date2": "2026-10-18",
+      "email3": true,
+      "date3": "2026-10-21"
     },
     {
       "name": "Gero Jardins",
@@ -31154,7 +31186,9 @@
       "email1": true,
       "date1": "2026-10-17",
       "email2": true,
-      "date2": "2026-10-18"
+      "date2": "2026-10-18",
+      "email3": true,
+      "date3": "2026-10-21"
     },
     {
       "name": "Restaurante Fasano",
@@ -36169,20 +36203,16 @@
   "emails": {
     "email1": 3505,
     "email2": 1786,
-    "email3": 849,
-    "total": 6140
+    "email3": 866,
+    "total": 6157
   },
   "whatsapp": {
-    "today": 9,
+    "today": 0,
     "total": 258
   },
   "responses": 5,
   "pending": 0,
   "daily": [
-    {
-      "date": "2026-10-08",
-      "count": 33
-    },
     {
       "date": "2026-10-09",
       "count": 37
@@ -36233,7 +36263,11 @@
     },
     {
       "date": "2026-10-21",
-      "count": 312
+      "count": 329
+    },
+    {
+      "date": "2026-10-22",
+      "count": 0
     }
   ],
   "topNeighborhoods": [
@@ -36351,16 +36385,16 @@
     "leads": 3572,
     "email1": 3505,
     "email2": 1786,
-    "email3": 849,
+    "email3": 866,
     "responded": 5
   },
   "week": {
-    "leads": 819,
+    "leads": 725,
     "emails": {
-      "email1": 819,
-      "email2": 458,
-      "email3": 155,
-      "total": 1432
+      "email1": 725,
+      "email2": 364,
+      "email3": 78,
+      "total": 1167
     },
     "responses": 4
   },
@@ -36369,8 +36403,8 @@
     "emails": {
       "email1": 860,
       "email2": 498,
-      "email3": 191,
-      "total": 1549
+      "email3": 208,
+      "total": 1566
     },
     "responses": 4
   },
@@ -36379,8 +36413,8 @@
     "emails": {
       "email1": 3505,
       "email2": 1786,
-      "email3": 849,
-      "total": 6140
+      "email3": 866,
+      "total": 6157
     },
     "responses": 5
   },
