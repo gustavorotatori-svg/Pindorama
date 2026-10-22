@@ -277,7 +277,7 @@ async function sendEmail1(maxSent = Infinity) {
       leads.filter(x => x.email1).map(x => String(x.email || '').toLowerCase())
     );
     const pending = leads
-      .filter(x => x.name && !x.email1 && !contactedEmails.has(String(x.email || '').toLowerCase()) && !x.invalidEmail && !x.doNotContact && !failed.has(x.email) && x.email && verifiedFirstContact(x))
+      .filter(x => x.name && !x.email1 && !contactedEmails.has(String(x.email || '').toLowerCase()) && !x.invalidEmail && !x.doNotContact && !failed.has(x.email) && x.email && verifiedFirstContact(x) && x.targetProfile === 'A/B')
       .sort((a, b) => leadPriority(b) - leadPriority(a));
     if (!pending.length) {
       if (sent === 0) {
