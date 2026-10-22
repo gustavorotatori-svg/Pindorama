@@ -1,5 +1,5 @@
 {
-  "lastUpdate": "2026-10-22T17:01:53.600Z",
+  "lastUpdate": "2026-10-22T21:26:43.525Z",
   "totalLeads": 3572,
   "allLeads": [
     {
@@ -24105,21 +24105,24 @@
       "type": "distribuidora_destilaria_cachacas_artesanais",
       "neighborhood": "Pinheiros",
       "city": "Sao Paulo",
-      "emailVerified": true
+      "emailVerified": true,
+      "doNotContact": true
     },
     {
       "name": "Gogo da Ema",
       "type": "bar_restaurante_cachacas_artesanais",
       "neighborhood": "Morumbi",
       "city": "Sao Paulo",
-      "emailVerified": true
+      "emailVerified": true,
+      "doNotContact": true
     },
     {
       "name": "Casa Zilanna Mercearia Idish",
       "type": "emporio_mercearia_cachacas_artesanais",
       "neighborhood": "Higienopolis",
       "city": "Sao Paulo",
-      "emailVerified": true
+      "emailVerified": true,
+      "doNotContact": true
     },
     {
       "name": "Adega Caldeira Drink's e Tabacaria",
@@ -24411,6 +24414,7 @@
       "neighborhood": "Alphaville",
       "city": "Santana de Parnaiba",
       "emailVerified": true,
+      "doNotContact": true,
       "email1": false
     },
     {
@@ -25304,7 +25308,8 @@
       "type": "cafeteria",
       "neighborhood": "Moema",
       "city": "S├úo Paulo",
-      "emailVerified": true
+      "emailVerified": true,
+      "doNotContact": true
     },
     {
       "name": "Adega Rainha",
