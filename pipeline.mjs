@@ -191,8 +191,10 @@ function getSubject(lead, step) {
     return SUBJECTS[lead.type] || 'Pindorama \u2014 cat\u00e1logo e tabela de pre\u00e7os';
   }
   if (step === 'email2') return 'Pindorama \u2014 posso mandar a tabela de pre\u00e7os?';
-  return '\u00dAltimo contato \u2014 cat\u00e1logo e tabela de pre\u00e7os Pindorama';
-}
+  if (step === 'email3') return 'Pindorama \u2014 cat\u00e1logo e tabela de pre\u00e7os';
+  if (step === 'email4') return 'Pindorama \u2014 chegou a ver o cat\u00e1logo?';
+  if (step === 'email5') return 'Pindorama \u2014 \u00dAltimo contato';
+  return 'Pindorama \u2014 encerrando o ciclo';}
 
 async function sendEmail(lead, step) {
   const text = pickTemplate(lead, step).replace(/{nome}/g, lead.name.split(' ')[0]).replace(/{contexto}/g, lead.context || '');
@@ -343,8 +345,11 @@ async function sendFollowups(maxSent = Infinity) {
     for (const l of leads) {
       if (l.responded || l.invalidEmail || l.doNotContact || SUPPRESSED_EMAILS.has(String(l.email || '').toLowerCase())) continue;
       if (!verifiedFirstContact(l)) continue;
-      if (l.email1 && !l.email2 && l.date1 && daysDiff(l.date1) >= 2 && !failed.has(l.email + ':email2')) { target = {lead:l,step:'email2'}; break; }
+      if (l.email1 && !l.email2 && l.date1 && daysDiff(l.date1) >= 3 && !failed.has(l.email + ':email2')) { target = {lead:l,step:'email2'}; break; }
       if (l.email2 && !l.email3 && l.date2 && daysDiff(l.date2) >= 4 && !failed.has(l.email + ':email3')) { target = {lead:l,step:'email3'}; break; }
+      if (l.email3 && !l.email4 && l.date3 && daysDiff(l.date3) >= 7 && !failed.has(l.email + ':email4')) { target = {lead:l,step:'email4'}; break; }
+      if (l.email4 && !l.email5 && l.date4 && daysDiff(l.date4) >= 7 && !failed.has(l.email + ':email5')) { target = {lead:l,step:'email5'}; break; }
+      if (l.email5 && !l.email6 && l.date5 && daysDiff(l.date5) >= 9 && !failed.has(l.email + ':email6')) { target = {lead:l,step:'email6'}; break; }
     }
     if (!target) break;
     if (!emailQuotaAvailable()) break;
