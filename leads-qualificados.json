@@ -52947,7 +52947,9 @@
     "date1": "2026-10-17",
     "email2": true,
     "date2": "2026-10-19",
-    "targetProfile": "A/B"
+    "targetProfile": "A/B",
+    "email3": true,
+    "date3": "2026-10-22"
   },
   {
     "name": "Chess Club",
@@ -52967,7 +52969,9 @@
     "date1": "2026-10-17",
     "email2": true,
     "date2": "2026-10-19",
-    "targetProfile": "A/B"
+    "targetProfile": "A/B",
+    "email3": true,
+    "date3": "2026-10-22"
   },
   {
     "name": "Estacao Campo Belo",
@@ -52987,7 +52991,9 @@
     "date1": "2026-10-17",
     "email2": true,
     "date2": "2026-10-19",
-    "targetProfile": "A/B"
+    "targetProfile": "A/B",
+    "email3": true,
+    "date3": "2026-10-22"
   },
   {
     "name": "Tropical Dance",
@@ -53007,7 +53013,9 @@
     "date1": "2026-10-17",
     "email2": true,
     "date2": "2026-10-19",
-    "targetProfile": "A/B"
+    "targetProfile": "A/B",
+    "email3": true,
+    "date3": "2026-10-22"
   },
   {
     "name": "MyCookie Fabricante de Biscoitos Amanteigados em São Paulo",
@@ -54543,7 +54551,9 @@
     "date1": "2026-10-17",
     "email2": true,
     "date2": "2026-10-19",
-    "targetProfile": "C/D"
+    "targetProfile": "C/D",
+    "email3": true,
+    "date3": "2026-10-22"
   },
   {
     "name": "Ferreira Atacado",
@@ -54563,7 +54573,9 @@
     "date1": "2026-10-17",
     "email2": true,
     "date2": "2026-10-19",
-    "targetProfile": "C/D"
+    "targetProfile": "C/D",
+    "email3": true,
+    "date3": "2026-10-22"
   },
   {
     "name": "Atibahia (Casa do Norte)",
@@ -54583,7 +54595,9 @@
     "date1": "2026-10-17",
     "email2": true,
     "date2": "2026-10-19",
-    "targetProfile": "C/D"
+    "targetProfile": "C/D",
+    "email3": true,
+    "date3": "2026-10-22"
   },
   {
     "name": "Atacadão Lacerda",
@@ -54603,7 +54617,9 @@
     "date1": "2026-10-17",
     "email2": true,
     "date2": "2026-10-19",
-    "targetProfile": "C/D"
+    "targetProfile": "C/D",
+    "email3": true,
+    "date3": "2026-10-22"
   },
   {
     "name": "Alambique São João",
@@ -57398,7 +57414,9 @@
     "template": "consultivo",
     "email1": true,
     "date1": "2026-10-20",
-    "targetProfile": "C/D"
+    "targetProfile": "C/D",
+    "email2": true,
+    "date2": "2026-10-22"
   },
   {
     "name": "Costa Lavos",
@@ -57416,7 +57434,9 @@
     "template": "consultivo",
     "email1": true,
     "date1": "2026-10-20",
-    "targetProfile": "C/D"
+    "targetProfile": "C/D",
+    "email2": true,
+    "date2": "2026-10-22"
   },
   {
     "name": "Grupo Farina",
@@ -57434,7 +57454,9 @@
     "template": "consultivo",
     "email1": true,
     "date1": "2026-10-20",
-    "targetProfile": "C/D"
+    "targetProfile": "C/D",
+    "email2": true,
+    "date2": "2026-10-22"
   },
   {
     "name": "Leforth",
@@ -57452,7 +57474,9 @@
     "template": "consultivo",
     "email1": true,
     "date1": "2026-10-20",
-    "targetProfile": "C/D"
+    "targetProfile": "C/D",
+    "email2": true,
+    "date2": "2026-10-22"
   },
   {
     "name": "Selmi (Renata e Galo)",
@@ -57493,7 +57517,9 @@
     "template": "consultivo",
     "email1": true,
     "date1": "2026-10-20",
-    "targetProfile": "C/D"
+    "targetProfile": "C/D",
+    "email2": true,
+    "date2": "2026-10-22"
   },
   {
     "name": "M. Dias Branco",
@@ -57511,7 +57537,9 @@
     "template": "consultivo",
     "email1": true,
     "date1": "2026-10-20",
-    "targetProfile": "C/D"
+    "targetProfile": "C/D",
+    "email2": true,
+    "date2": "2026-10-22"
   },
   {
     "name": "Steffenon Alimentos",
@@ -57529,7 +57557,9 @@
     "template": "consultivo",
     "email1": true,
     "date1": "2026-10-20",
-    "targetProfile": "C/D"
+    "targetProfile": "C/D",
+    "email2": true,
+    "date2": "2026-10-22"
   },
   {
     "name": "Laticínios Holandês",
@@ -57547,7 +57577,9 @@
     "template": "consultivo",
     "email1": true,
     "date1": "2026-10-20",
-    "targetProfile": "C/D"
+    "targetProfile": "C/D",
+    "email2": true,
+    "date2": "2026-10-22"
   },
   {
     "name": "Matilat",
@@ -57565,7 +57597,9 @@
     "template": "consultivo",
     "email1": true,
     "date1": "2026-10-20",
-    "targetProfile": "C/D"
+    "targetProfile": "C/D",
+    "email2": true,
+    "date2": "2026-10-22"
   },
   {
     "name": "Laticínio Yoguedes",
@@ -57583,7 +57617,9 @@
     "template": "consultivo",
     "email1": true,
     "date1": "2026-10-20",
-    "targetProfile": "C/D"
+    "targetProfile": "C/D",
+    "email2": true,
+    "date2": "2026-10-22"
   },
   {
     "name": "Laticínios Carolina",
@@ -57601,7 +57637,9 @@
     "template": "consultivo",
     "email1": true,
     "date1": "2026-10-20",
-    "targetProfile": "C/D"
+    "targetProfile": "C/D",
+    "email2": true,
+    "date2": "2026-10-22"
   },
   {
     "name": "Bomy",
@@ -57619,7 +57657,9 @@
     "template": "consultivo",
     "email1": true,
     "date1": "2026-10-20",
-    "targetProfile": "C/D"
+    "targetProfile": "C/D",
+    "email2": true,
+    "date2": "2026-10-22"
   },
   {
     "name": "Tirol",
@@ -57637,7 +57677,9 @@
     "template": "consultivo",
     "email1": true,
     "date1": "2026-10-20",
-    "targetProfile": "C/D"
+    "targetProfile": "C/D",
+    "email2": true,
+    "date2": "2026-10-22"
   },
   {
     "name": "Limilk Laticínios",
@@ -57655,7 +57697,9 @@
     "template": "consultivo",
     "email1": true,
     "date1": "2026-10-20",
-    "targetProfile": "C/D"
+    "targetProfile": "C/D",
+    "email2": true,
+    "date2": "2026-10-22"
   },
   {
     "name": "Brubella Sorvetes",
@@ -57673,7 +57717,9 @@
     "template": "consultivo",
     "email1": true,
     "date1": "2026-10-20",
-    "targetProfile": "C/D"
+    "targetProfile": "C/D",
+    "email2": true,
+    "date2": "2026-10-22"
   },
   {
     "name": "Sorvetes do Vale",
@@ -57691,7 +57737,9 @@
     "template": "consultivo",
     "email1": true,
     "date1": "2026-10-20",
-    "targetProfile": "C/D"
+    "targetProfile": "C/D",
+    "email2": true,
+    "date2": "2026-10-22"
   },
   {
     "name": "Jeito Gelado Sorvetes",
@@ -57727,7 +57775,9 @@
     "template": "consultivo",
     "email1": true,
     "date1": "2026-10-20",
-    "targetProfile": "C/D"
+    "targetProfile": "C/D",
+    "email2": true,
+    "date2": "2026-10-22"
   },
   {
     "name": "Doremus Sorvetes",
@@ -57745,7 +57795,9 @@
     "template": "consultivo",
     "email1": true,
     "date1": "2026-10-20",
-    "targetProfile": "C/D"
+    "targetProfile": "C/D",
+    "email2": true,
+    "date2": "2026-10-22"
   },
   {
     "name": "Grupo Fika Frio",
@@ -57763,7 +57815,9 @@
     "template": "consultivo",
     "email1": true,
     "date1": "2026-10-20",
-    "targetProfile": "C/D"
+    "targetProfile": "C/D",
+    "email2": true,
+    "date2": "2026-10-22"
   },
   {
     "name": "Dale Sorvetes",
@@ -57781,7 +57835,9 @@
     "template": "consultivo",
     "email1": true,
     "date1": "2026-10-20",
-    "targetProfile": "C/D"
+    "targetProfile": "C/D",
+    "email2": true,
+    "date2": "2026-10-22"
   },
   {
     "name": "Frosty Sorvetes e Picolés",
@@ -57799,7 +57855,9 @@
     "template": "consultivo",
     "email1": true,
     "date1": "2026-10-20",
-    "targetProfile": "C/D"
+    "targetProfile": "C/D",
+    "email2": true,
+    "date2": "2026-10-22"
   },
   {
     "name": "Sorvetes Bruna",
@@ -57817,7 +57875,9 @@
     "template": "consultivo",
     "email1": true,
     "date1": "2026-10-20",
-    "targetProfile": "C/D"
+    "targetProfile": "C/D",
+    "email2": true,
+    "date2": "2026-10-22"
   },
   {
     "name": "Natuice Sorvetes",
@@ -57835,7 +57895,9 @@
     "template": "consultivo",
     "email1": true,
     "date1": "2026-10-20",
-    "targetProfile": "C/D"
+    "targetProfile": "C/D",
+    "email2": true,
+    "date2": "2026-10-22"
   },
   {
     "name": "Queijaria Cruzília",
@@ -57853,7 +57915,9 @@
     "template": "consultivo",
     "email1": true,
     "date1": "2026-10-20",
-    "targetProfile": "C/D"
+    "targetProfile": "C/D",
+    "email2": true,
+    "date2": "2026-10-22"
   },
   {
     "name": "HE Laticínios",
@@ -57871,7 +57935,9 @@
     "template": "consultivo",
     "email1": true,
     "date1": "2026-10-20",
-    "targetProfile": "C/D"
+    "targetProfile": "C/D",
+    "email2": true,
+    "date2": "2026-10-22"
   },
   {
     "name": "Le Petit Alimentos",
@@ -58345,7 +58411,9 @@
     "template": "consultivo",
     "email1": true,
     "date1": "2026-10-20",
-    "targetProfile": "C/D"
+    "targetProfile": "C/D",
+    "email2": true,
+    "date2": "2026-10-22"
   },
   {
     "name": "Biscoitos Porto Alegre",
@@ -58447,7 +58515,9 @@
     "date1": "2026-10-17",
     "email2": true,
     "date2": "2026-10-19",
-    "targetProfile": "C/D"
+    "targetProfile": "C/D",
+    "email3": true,
+    "date3": "2026-10-22"
   },
   {
     "name": "Basilicata Moema",
@@ -58467,7 +58537,9 @@
     "date1": "2026-10-17",
     "email2": true,
     "date2": "2026-10-19",
-    "targetProfile": "C/D"
+    "targetProfile": "C/D",
+    "email3": true,
+    "date3": "2026-10-22"
   },
   {
     "name": "Fioretta",
@@ -58507,7 +58579,9 @@
     "date1": "2026-10-17",
     "email2": true,
     "date2": "2026-10-19",
-    "targetProfile": "C/D"
+    "targetProfile": "C/D",
+    "email3": true,
+    "date3": "2026-10-22"
   },
   {
     "name": "Nica Café",
@@ -58527,7 +58601,9 @@
     "date1": "2026-10-17",
     "email2": true,
     "date2": "2026-10-19",
-    "targetProfile": "C/D"
+    "targetProfile": "C/D",
+    "email3": true,
+    "date3": "2026-10-22"
   },
   {
     "name": "Bark & Crust",
@@ -58547,7 +58623,9 @@
     "date1": "2026-10-17",
     "email2": true,
     "date2": "2026-10-19",
-    "targetProfile": "A/B"
+    "targetProfile": "A/B",
+    "email3": true,
+    "date3": "2026-10-22"
   },
   {
     "name": "Cervejaria Los Santoz",
@@ -58765,7 +58843,9 @@
     "template": "consultivo",
     "email1": true,
     "date1": "2026-10-20",
-    "targetProfile": "C/D"
+    "targetProfile": "C/D",
+    "email2": true,
+    "date2": "2026-10-22"
   },
   {
     "name": "Sucrier Pinheiros",
@@ -58825,7 +58905,9 @@
     "date1": "2026-10-17",
     "email2": true,
     "date2": "2026-10-19",
-    "targetProfile": "A/B"
+    "targetProfile": "A/B",
+    "email3": true,
+    "date3": "2026-10-22"
   },
   {
     "name": "Bacio del Nonno",
@@ -58845,7 +58927,9 @@
     "date1": "2026-10-17",
     "email2": true,
     "date2": "2026-10-19",
-    "targetProfile": "A/B"
+    "targetProfile": "A/B",
+    "email3": true,
+    "date3": "2026-10-22"
   },
   {
     "name": "Viareggio Ristorante",
@@ -58865,7 +58949,9 @@
     "date1": "2026-10-17",
     "email2": true,
     "date2": "2026-10-19",
-    "targetProfile": "C/D"
+    "targetProfile": "C/D",
+    "email3": true,
+    "date3": "2026-10-22"
   },
   {
     "name": "Donna di Nico Trattoria",
@@ -58885,7 +58971,9 @@
     "date1": "2026-10-17",
     "email2": true,
     "date2": "2026-10-19",
-    "targetProfile": "C/D"
+    "targetProfile": "C/D",
+    "email3": true,
+    "date3": "2026-10-22"
   },
   {
     "name": "Grotta Cucina",
@@ -58905,7 +58993,9 @@
     "date1": "2026-10-17",
     "email2": true,
     "date2": "2026-10-19",
-    "targetProfile": "A/B"
+    "targetProfile": "A/B",
+    "email3": true,
+    "date3": "2026-10-22"
   },
   {
     "name": "Labraciera Pizzaria",
@@ -59545,7 +59635,9 @@
     "date1": "2026-10-17",
     "email2": true,
     "date2": "2026-10-19",
-    "targetProfile": "A/B"
+    "targetProfile": "A/B",
+    "email3": true,
+    "date3": "2026-10-22"
   },
   {
     "name": "Restaurante Finesse",
@@ -59565,7 +59657,9 @@
     "date1": "2026-10-17",
     "email2": true,
     "date2": "2026-10-19",
-    "targetProfile": "C/D"
+    "targetProfile": "C/D",
+    "email3": true,
+    "date3": "2026-10-22"
   },
   {
     "name": "Bewow Kombucha",
@@ -59724,7 +59818,9 @@
     "date1": "2026-10-17",
     "email2": true,
     "date2": "2026-10-19",
-    "targetProfile": "C/D"
+    "targetProfile": "C/D",
+    "email3": true,
+    "date3": "2026-10-22"
   },
   {
     "name": "Padaria Duque Bauru",
@@ -59744,7 +59840,9 @@
     "date1": "2026-10-17",
     "email2": true,
     "date2": "2026-10-19",
-    "targetProfile": "C/D"
+    "targetProfile": "C/D",
+    "email3": true,
+    "date3": "2026-10-22"
   },
   {
     "name": "Andréa Palú Confeitaria",
@@ -59784,7 +59882,9 @@
     "date1": "2026-10-17",
     "email2": true,
     "date2": "2026-10-19",
-    "targetProfile": "C/D"
+    "targetProfile": "C/D",
+    "email3": true,
+    "date3": "2026-10-22"
   },
   {
     "name": "Sodiê Doces Bauru",
@@ -59844,7 +59944,9 @@
     "date1": "2026-10-17",
     "email2": true,
     "date2": "2026-10-19",
-    "targetProfile": "C/D"
+    "targetProfile": "C/D",
+    "email3": true,
+    "date3": "2026-10-22"
   },
   {
     "name": "Croissant & Cia Bauru",
@@ -59884,7 +59986,9 @@
     "date1": "2026-10-17",
     "email2": true,
     "date2": "2026-10-19",
-    "targetProfile": "C/D"
+    "targetProfile": "C/D",
+    "email3": true,
+    "date3": "2026-10-22"
   },
   {
     "name": "Empório Zucchini",
@@ -59904,7 +60008,9 @@
     "date1": "2026-10-17",
     "email2": true,
     "date2": "2026-10-19",
-    "targetProfile": "C/D"
+    "targetProfile": "C/D",
+    "email3": true,
+    "date3": "2026-10-22"
   },
   {
     "name": "Empório Manjericão",
@@ -59924,7 +60030,9 @@
     "date1": "2026-10-17",
     "email2": true,
     "date2": "2026-10-19",
-    "targetProfile": "C/D"
+    "targetProfile": "C/D",
+    "email3": true,
+    "date3": "2026-10-22"
   },
   {
     "name": "Empório Daruma",
@@ -59944,7 +60052,9 @@
     "date1": "2026-10-17",
     "email2": true,
     "date2": "2026-10-19",
-    "targetProfile": "A/B"
+    "targetProfile": "A/B",
+    "email3": true,
+    "date3": "2026-10-22"
   },
   {
     "name": "Eats Merkato",
@@ -59964,7 +60074,9 @@
     "date1": "2026-10-17",
     "email2": true,
     "date2": "2026-10-19",
-    "targetProfile": "A/B"
+    "targetProfile": "A/B",
+    "email3": true,
+    "date3": "2026-10-22"
   },
   {
     "name": "Emporium Santa Helena",
@@ -59984,7 +60096,9 @@
     "date1": "2026-10-17",
     "email2": true,
     "date2": "2026-10-19",
-    "targetProfile": "C/D"
+    "targetProfile": "C/D",
+    "email3": true,
+    "date3": "2026-10-22"
   },
   {
     "name": "Hamburgueria Zona Leste",
