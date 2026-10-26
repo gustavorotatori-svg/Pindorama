@@ -1,5 +1,5 @@
 {
-  "lastUpdate": "2026-10-26T04:25:59.715Z",
+  "lastUpdate": "2026-10-26T12:44:18.787Z",
   "totalLeads": 3572,
   "allLeads": [
     {
@@ -34763,7 +34763,9 @@
       "email1": true,
       "date1": "2026-10-20",
       "email2": true,
-      "date2": "2026-10-22"
+      "date2": "2026-10-22",
+      "email3": true,
+      "date3": "2026-10-26"
     },
     {
       "name": "Steffenon Alimentos",
@@ -37000,8 +37002,8 @@
   "emails": {
     "email1": 3505,
     "email2": 1925,
-    "email3": 1123,
-    "total": 6553
+    "email3": 1124,
+    "total": 6554
   },
   "whatsapp": {
     "today": 0,
@@ -37064,7 +37066,7 @@
     },
     {
       "date": "2026-10-26",
-      "count": 0
+      "count": 1
     }
   ],
   "topNeighborhoods": [
@@ -37182,7 +37184,7 @@
     "leads": 3572,
     "email1": 3505,
     "email2": 1925,
-    "email3": 1123,
+    "email3": 1124,
     "responded": 5
   },
   "week": {
@@ -37190,8 +37192,8 @@
     "emails": {
       "email1": 480,
       "email2": 478,
-      "email3": 310,
-      "total": 1268
+      "email3": 311,
+      "total": 1269
     },
     "responses": 3
   },
@@ -37200,8 +37202,8 @@
     "emails": {
       "email1": 860,
       "email2": 637,
-      "email3": 465,
-      "total": 1962
+      "email3": 466,
+      "total": 1963
     },
     "responses": 4
   },
@@ -37210,8 +37212,8 @@
     "emails": {
       "email1": 3505,
       "email2": 1925,
-      "email3": 1123,
-      "total": 6553
+      "email3": 1124,
+      "total": 6554
     },
     "responses": 5
   },
