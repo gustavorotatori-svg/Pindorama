@@ -1,5 +1,5 @@
 {
-  "lastUpdate": "2026-10-25T20:43:01.339Z",
+  "lastUpdate": "2026-10-26T04:25:59.715Z",
   "totalLeads": 3572,
   "allLeads": [
     {
@@ -31683,7 +31683,9 @@
       "email1": true,
       "date1": "2026-10-20",
       "email2": true,
-      "date2": "2026-10-22"
+      "date2": "2026-10-22",
+      "email3": true,
+      "date3": "2026-10-25"
     },
     {
       "name": "Real BiscoitosReal Biscoitos",
@@ -31695,7 +31697,9 @@
       "email1": true,
       "date1": "2026-10-20",
       "email2": true,
-      "date2": "2026-10-22"
+      "date2": "2026-10-22",
+      "email3": true,
+      "date3": "2026-10-25"
     },
     {
       "name": "Iceteck Soluções em Congelamento e Resfriamento de Alimentos",
@@ -31707,7 +31711,9 @@
       "email1": true,
       "date1": "2026-10-20",
       "email2": true,
-      "date2": "2026-10-22"
+      "date2": "2026-10-22",
+      "email3": true,
+      "date3": "2026-10-25"
     },
     {
       "name": "Tropical Sorvetes",
@@ -31773,7 +31779,9 @@
       "email1": true,
       "date1": "2026-10-20",
       "email2": true,
-      "date2": "2026-10-22"
+      "date2": "2026-10-22",
+      "email3": true,
+      "date3": "2026-10-25"
     },
     {
       "name": "Bristot Alimentos",
@@ -31841,7 +31849,9 @@
       "email1": true,
       "date1": "2026-10-20",
       "email2": true,
-      "date2": "2026-10-22"
+      "date2": "2026-10-22",
+      "email3": true,
+      "date3": "2026-10-25"
     },
     {
       "name": "Cervejaria RT166",
@@ -31867,7 +31877,9 @@
       "email1": true,
       "date1": "2026-10-20",
       "email2": true,
-      "date2": "2026-10-22"
+      "date2": "2026-10-22",
+      "email3": true,
+      "date3": "2026-10-25"
     },
     {
       "name": "CICAJU (Grupo Cione)",
@@ -32005,7 +32017,9 @@
       "email1": true,
       "date1": "2026-10-20",
       "email2": true,
-      "date2": "2026-10-22"
+      "date2": "2026-10-22",
+      "email3": true,
+      "date3": "2026-10-25"
     },
     {
       "name": "Kremer Cervejaria",
@@ -32031,7 +32045,9 @@
       "email1": true,
       "date1": "2026-10-20",
       "email2": true,
-      "date2": "2026-10-22"
+      "date2": "2026-10-22",
+      "email3": true,
+      "date3": "2026-10-25"
     },
     {
       "name": "Naturasuc Indústria e Comércio",
@@ -32097,7 +32113,9 @@
       "email1": true,
       "date1": "2026-10-20",
       "email2": true,
-      "date2": "2026-10-22"
+      "date2": "2026-10-22",
+      "email3": true,
+      "date3": "2026-10-25"
     },
     {
       "name": "Oura Polpas (Ouraçaí)",
@@ -32151,7 +32169,9 @@
       "email1": true,
       "date1": "2026-10-20",
       "email2": true,
-      "date2": "2026-10-22"
+      "date2": "2026-10-22",
+      "email3": true,
+      "date3": "2026-10-25"
     },
     {
       "name": "Polpas Curumim (Amazonas Indústria e Comércio)",
@@ -32667,7 +32687,9 @@
       "email1": true,
       "date1": "2026-10-20",
       "email2": true,
-      "date2": "2026-10-22"
+      "date2": "2026-10-22",
+      "email3": true,
+      "date3": "2026-10-25"
     },
     {
       "name": "Alex Pães",
@@ -33299,7 +33321,9 @@
       "email1": true,
       "date1": "2026-10-20",
       "email2": true,
-      "date2": "2026-10-22"
+      "date2": "2026-10-22",
+      "email3": true,
+      "date3": "2026-10-25"
     },
     {
       "name": "Dekel Agroindústria",
@@ -33381,7 +33405,9 @@
       "email1": true,
       "date1": "2026-10-19",
       "email2": true,
-      "date2": "2026-10-21"
+      "date2": "2026-10-21",
+      "email3": true,
+      "date3": "2026-10-25"
     },
     {
       "name": "Gelimo do Brasil",
@@ -33393,7 +33419,9 @@
       "email1": true,
       "date1": "2026-10-19",
       "email2": true,
-      "date2": "2026-10-21"
+      "date2": "2026-10-21",
+      "email3": true,
+      "date3": "2026-10-25"
     },
     {
       "name": "Arte Gelati",
@@ -33405,7 +33433,9 @@
       "email1": true,
       "date1": "2026-10-19",
       "email2": true,
-      "date2": "2026-10-21"
+      "date2": "2026-10-21",
+      "email3": true,
+      "date3": "2026-10-25"
     },
     {
       "name": "Cremore Gelatos",
@@ -33417,7 +33447,9 @@
       "email1": true,
       "date1": "2026-10-19",
       "email2": true,
-      "date2": "2026-10-21"
+      "date2": "2026-10-21",
+      "email3": true,
+      "date3": "2026-10-25"
     },
     {
       "name": "Rei dos Gelatos",
@@ -33429,7 +33461,9 @@
       "email1": true,
       "date1": "2026-10-20",
       "email2": true,
-      "date2": "2026-10-22"
+      "date2": "2026-10-22",
+      "email3": true,
+      "date3": "2026-10-25"
     },
     {
       "name": "Picogel Sorvetes",
@@ -33453,7 +33487,9 @@
       "email1": true,
       "date1": "2026-10-20",
       "email2": true,
-      "date2": "2026-10-22"
+      "date2": "2026-10-22",
+      "email3": true,
+      "date3": "2026-10-25"
     },
     {
       "name": "Balas Mel",
@@ -33465,7 +33501,9 @@
       "email1": true,
       "date1": "2026-10-20",
       "email2": true,
-      "date2": "2026-10-22"
+      "date2": "2026-10-22",
+      "email3": true,
+      "date3": "2026-10-25"
     },
     {
       "name": "Sam's Balas e Pirulitos (Simas)",
@@ -33477,7 +33515,9 @@
       "email1": true,
       "date1": "2026-10-20",
       "email2": true,
-      "date2": "2026-10-22"
+      "date2": "2026-10-22",
+      "email3": true,
+      "date3": "2026-10-25"
     },
     {
       "name": "Pennacchi Indústria",
@@ -33489,7 +33529,9 @@
       "email1": true,
       "date1": "2026-10-20",
       "email2": true,
-      "date2": "2026-10-22"
+      "date2": "2026-10-22",
+      "email3": true,
+      "date3": "2026-10-25"
     },
     {
       "name": "Santa Fé Doces",
@@ -33501,7 +33543,9 @@
       "email1": true,
       "date1": "2026-10-20",
       "email2": true,
-      "date2": "2026-10-22"
+      "date2": "2026-10-22",
+      "email3": true,
+      "date3": "2026-10-25"
     },
     {
       "name": "Biodog Pet",
@@ -33513,7 +33557,9 @@
       "email1": true,
       "date1": "2026-10-20",
       "email2": true,
-      "date2": "2026-10-22"
+      "date2": "2026-10-22",
+      "email3": true,
+      "date3": "2026-10-25"
     },
     {
       "name": "NutriCão Pet Food",
@@ -33525,7 +33571,9 @@
       "email1": true,
       "date1": "2026-10-20",
       "email2": true,
-      "date2": "2026-10-22"
+      "date2": "2026-10-22",
+      "email3": true,
+      "date3": "2026-10-25"
     },
     {
       "name": "Grupo New Pet",
@@ -33537,7 +33585,9 @@
       "email1": true,
       "date1": "2026-10-20",
       "email2": true,
-      "date2": "2026-10-22"
+      "date2": "2026-10-22",
+      "email3": true,
+      "date3": "2026-10-25"
     },
     {
       "name": "PremieRpet",
@@ -33549,7 +33599,9 @@
       "email1": true,
       "date1": "2026-10-20",
       "email2": true,
-      "date2": "2026-10-22"
+      "date2": "2026-10-22",
+      "email3": true,
+      "date3": "2026-10-25"
     },
     {
       "name": "Farmina Brasil",
@@ -33561,7 +33613,9 @@
       "email1": true,
       "date1": "2026-10-20",
       "email2": true,
-      "date2": "2026-10-22"
+      "date2": "2026-10-22",
+      "email3": true,
+      "date3": "2026-10-25"
     },
     {
       "name": "Puro Trato (J A Teixeira Veterinária)",
@@ -33573,7 +33627,9 @@
       "email1": true,
       "date1": "2026-10-20",
       "email2": true,
-      "date2": "2026-10-22"
+      "date2": "2026-10-22",
+      "email3": true,
+      "date3": "2026-10-25"
     },
     {
       "name": "Erva Mate 81 (Lila Alimentos)",
@@ -33585,7 +33641,9 @@
       "email1": true,
       "date1": "2026-10-20",
       "email2": true,
-      "date2": "2026-10-22"
+      "date2": "2026-10-22",
+      "email3": true,
+      "date3": "2026-10-25"
     },
     {
       "name": "Yacuy Indústria de Erva-Mate",
@@ -33608,7 +33666,9 @@
       "email1": true,
       "date1": "2026-10-20",
       "email2": true,
-      "date2": "2026-10-22"
+      "date2": "2026-10-22",
+      "email3": true,
+      "date3": "2026-10-25"
     },
     {
       "name": "Barão Erva Mate e Chás",
@@ -33620,7 +33680,9 @@
       "email1": true,
       "date1": "2026-10-20",
       "email2": true,
-      "date2": "2026-10-22"
+      "date2": "2026-10-22",
+      "email3": true,
+      "date3": "2026-10-25"
     },
     {
       "name": "Evomate (Dissenha)",
@@ -33632,7 +33694,9 @@
       "email1": true,
       "date1": "2026-10-20",
       "email2": true,
-      "date2": "2026-10-22"
+      "date2": "2026-10-22",
+      "email3": true,
+      "date3": "2026-10-25"
     },
     {
       "name": "Merco Pão (Pão Nosso)",
@@ -33668,7 +33732,9 @@
       "email1": true,
       "date1": "2026-10-20",
       "email2": true,
-      "date2": "2026-10-22"
+      "date2": "2026-10-22",
+      "email3": true,
+      "date3": "2026-10-25"
     },
     {
       "name": "Pão & Companhia",
@@ -33680,7 +33746,9 @@
       "email1": true,
       "date1": "2026-10-18",
       "email2": true,
-      "date2": "2026-10-21"
+      "date2": "2026-10-21",
+      "email3": true,
+      "date3": "2026-10-25"
     },
     {
       "name": "Bombons Finos da Amazônia",
@@ -33692,7 +33760,9 @@
       "email1": true,
       "date1": "2026-10-20",
       "email2": true,
-      "date2": "2026-10-22"
+      "date2": "2026-10-22",
+      "email3": true,
+      "date3": "2026-10-25"
     },
     {
       "name": "Mátrika Comidas Especiais",
@@ -33704,7 +33774,9 @@
       "email1": true,
       "date1": "2026-10-20",
       "email2": true,
-      "date2": "2026-10-22"
+      "date2": "2026-10-22",
+      "email3": true,
+      "date3": "2026-10-25"
     },
     {
       "name": "Facilità Food Service",
@@ -33716,7 +33788,9 @@
       "email1": true,
       "date1": "2026-10-20",
       "email2": true,
-      "date2": "2026-10-22"
+      "date2": "2026-10-22",
+      "email3": true,
+      "date3": "2026-10-25"
     },
     {
       "name": "Sanna Distribuidora de Alimentos",
@@ -33728,7 +33802,9 @@
       "email1": true,
       "date1": "2026-10-18",
       "email2": true,
-      "date2": "2026-10-21"
+      "date2": "2026-10-21",
+      "email3": true,
+      "date3": "2026-10-25"
     },
     {
       "name": "Liotécnica",
@@ -33740,7 +33816,9 @@
       "email1": true,
       "date1": "2026-10-20",
       "email2": true,
-      "date2": "2026-10-22"
+      "date2": "2026-10-22",
+      "email3": true,
+      "date3": "2026-10-25"
     },
     {
       "name": "Toffano",
@@ -33752,7 +33830,9 @@
       "email1": true,
       "date1": "2026-10-20",
       "email2": true,
-      "date2": "2026-10-22"
+      "date2": "2026-10-22",
+      "email3": true,
+      "date3": "2026-10-25"
     },
     {
       "name": "Siareg Chocolates",
@@ -33764,7 +33844,9 @@
       "email1": true,
       "date1": "2026-10-20",
       "email2": true,
-      "date2": "2026-10-22"
+      "date2": "2026-10-22",
+      "email3": true,
+      "date3": "2026-10-25"
     },
     {
       "name": "Chocolates Tiquinho",
@@ -33776,7 +33858,9 @@
       "email1": true,
       "date1": "2026-10-20",
       "email2": true,
-      "date2": "2026-10-22"
+      "date2": "2026-10-22",
+      "email3": true,
+      "date3": "2026-10-25"
     },
     {
       "name": "Dumdum Chocolates",
@@ -33788,7 +33872,9 @@
       "email1": true,
       "date1": "2026-10-20",
       "email2": true,
-      "date2": "2026-10-22"
+      "date2": "2026-10-22",
+      "email3": true,
+      "date3": "2026-10-25"
     },
     {
       "name": "Ki-KaKau Chocolates",
@@ -33800,7 +33886,9 @@
       "email1": true,
       "date1": "2026-10-20",
       "email2": true,
-      "date2": "2026-10-22"
+      "date2": "2026-10-22",
+      "email3": true,
+      "date3": "2026-10-25"
     },
     {
       "name": "Favo de Mel Chocolates",
@@ -33812,7 +33900,9 @@
       "email1": true,
       "date1": "2026-10-20",
       "email2": true,
-      "date2": "2026-10-22"
+      "date2": "2026-10-22",
+      "email3": true,
+      "date3": "2026-10-25"
     },
     {
       "name": "Bedra Chocolates",
@@ -33824,7 +33914,9 @@
       "email1": true,
       "date1": "2026-10-20",
       "email2": true,
-      "date2": "2026-10-22"
+      "date2": "2026-10-22",
+      "email3": true,
+      "date3": "2026-10-25"
     },
     {
       "name": "Mavalério",
@@ -33836,7 +33928,9 @@
       "email1": true,
       "date1": "2026-10-20",
       "email2": true,
-      "date2": "2026-10-22"
+      "date2": "2026-10-22",
+      "email3": true,
+      "date3": "2026-10-25"
     },
     {
       "name": "Happy Frost",
@@ -33848,7 +33942,9 @@
       "email1": true,
       "date1": "2026-10-20",
       "email2": true,
-      "date2": "2026-10-22"
+      "date2": "2026-10-22",
+      "email3": true,
+      "date3": "2026-10-25"
     },
     {
       "name": "Alambique Guarani (Dom Bré)",
@@ -33930,7 +34026,9 @@
       "email1": true,
       "date1": "2026-10-20",
       "email2": true,
-      "date2": "2026-10-22"
+      "date2": "2026-10-22",
+      "email3": true,
+      "date3": "2026-10-25"
     },
     {
       "name": "Dirvan Biscoitos",
@@ -33942,7 +34040,9 @@
       "email1": true,
       "date1": "2026-10-20",
       "email2": true,
-      "date2": "2026-10-22"
+      "date2": "2026-10-22",
+      "email3": true,
+      "date3": "2026-10-25"
     },
     {
       "name": "Anelu Biscoitos Artesanais",
@@ -33954,7 +34054,9 @@
       "email1": true,
       "date1": "2026-10-20",
       "email2": true,
-      "date2": "2026-10-22"
+      "date2": "2026-10-22",
+      "email3": true,
+      "date3": "2026-10-25"
     },
     {
       "name": "Juvis",
@@ -33966,7 +34068,9 @@
       "email1": true,
       "date1": "2026-10-20",
       "email2": true,
-      "date2": "2026-10-22"
+      "date2": "2026-10-22",
+      "email3": true,
+      "date3": "2026-10-25"
     },
     {
       "name": "Fábrica Coelho",
@@ -33978,7 +34082,9 @@
       "email1": true,
       "date1": "2026-10-20",
       "email2": true,
-      "date2": "2026-10-22"
+      "date2": "2026-10-22",
+      "email3": true,
+      "date3": "2026-10-25"
     },
     {
       "name": "York Cookie",
@@ -33990,7 +34096,9 @@
       "email1": true,
       "date1": "2026-10-20",
       "email2": true,
-      "date2": "2026-10-22"
+      "date2": "2026-10-22",
+      "email3": true,
+      "date3": "2026-10-25"
     },
     {
       "name": "Super Massas",
@@ -34002,7 +34110,9 @@
       "email1": true,
       "date1": "2026-10-20",
       "email2": true,
-      "date2": "2026-10-22"
+      "date2": "2026-10-22",
+      "email3": true,
+      "date3": "2026-10-25"
     },
     {
       "name": "Mab Pães Congelados",
@@ -34014,7 +34124,9 @@
       "email1": true,
       "date1": "2026-10-20",
       "email2": true,
-      "date2": "2026-10-22"
+      "date2": "2026-10-22",
+      "email3": true,
+      "date3": "2026-10-25"
     },
     {
       "name": "Valochi Sousa",
@@ -34026,7 +34138,9 @@
       "email1": true,
       "date1": "2026-10-20",
       "email2": true,
-      "date2": "2026-10-22"
+      "date2": "2026-10-22",
+      "email3": true,
+      "date3": "2026-10-25"
     },
     {
       "name": "Pan Cristal",
@@ -34038,7 +34152,9 @@
       "email1": true,
       "date1": "2026-10-20",
       "email2": true,
-      "date2": "2026-10-22"
+      "date2": "2026-10-22",
+      "email3": true,
+      "date3": "2026-10-25"
     },
     {
       "name": "Trigo Arte",
@@ -34050,7 +34166,9 @@
       "email1": true,
       "date1": "2026-10-20",
       "email2": true,
-      "date2": "2026-10-22"
+      "date2": "2026-10-22",
+      "email3": true,
+      "date3": "2026-10-25"
     },
     {
       "name": "Serrano Congelados",
@@ -34074,7 +34192,9 @@
       "email1": true,
       "date1": "2026-10-20",
       "email2": true,
-      "date2": "2026-10-22"
+      "date2": "2026-10-22",
+      "email3": true,
+      "date3": "2026-10-25"
     },
     {
       "name": "Panfácil",
@@ -34086,7 +34206,9 @@
       "email1": true,
       "date1": "2026-10-20",
       "email2": true,
-      "date2": "2026-10-22"
+      "date2": "2026-10-22",
+      "email3": true,
+      "date3": "2026-10-25"
     },
     {
       "name": "Fat Cat Beer",
@@ -34098,7 +34220,9 @@
       "email1": true,
       "date1": "2026-10-18",
       "email2": true,
-      "date2": "2026-10-21"
+      "date2": "2026-10-21",
+      "email3": true,
+      "date3": "2026-10-25"
     },
     {
       "name": "Locomotive Brew",
@@ -34110,7 +34234,9 @@
       "email1": true,
       "date1": "2026-10-18",
       "email2": true,
-      "date2": "2026-10-21"
+      "date2": "2026-10-21",
+      "email3": true,
+      "date3": "2026-10-25"
     },
     {
       "name": "HZB Cervejas Artesanais",
@@ -34122,7 +34248,9 @@
       "email1": true,
       "date1": "2026-10-18",
       "email2": true,
-      "date2": "2026-10-21"
+      "date2": "2026-10-21",
+      "email3": true,
+      "date3": "2026-10-25"
     },
     {
       "name": "GG Cervejaria",
@@ -34134,7 +34262,9 @@
       "email1": true,
       "date1": "2026-10-18",
       "email2": true,
-      "date2": "2026-10-21"
+      "date2": "2026-10-21",
+      "email3": true,
+      "date3": "2026-10-25"
     },
     {
       "name": "Cervejaria Bamberg",
@@ -34146,7 +34276,9 @@
       "email1": true,
       "date1": "2026-10-18",
       "email2": true,
-      "date2": "2026-10-21"
+      "date2": "2026-10-21",
+      "email3": true,
+      "date3": "2026-10-25"
     },
     {
       "name": "Brewto's",
@@ -34158,7 +34290,9 @@
       "email1": true,
       "date1": "2026-10-18",
       "email2": true,
-      "date2": "2026-10-21"
+      "date2": "2026-10-21",
+      "email3": true,
+      "date3": "2026-10-25"
     },
     {
       "name": "Cervejaria Bierbaum",
@@ -34170,7 +34304,9 @@
       "email1": true,
       "date1": "2026-10-18",
       "email2": true,
-      "date2": "2026-10-21"
+      "date2": "2026-10-21",
+      "email3": true,
+      "date3": "2026-10-25"
     },
     {
       "name": "Giffa Imperial Cervejaria",
@@ -34182,7 +34318,9 @@
       "email1": true,
       "date1": "2026-10-18",
       "email2": true,
-      "date2": "2026-10-21"
+      "date2": "2026-10-21",
+      "email3": true,
+      "date3": "2026-10-25"
     },
     {
       "name": "Cervejaria Monte Crista",
@@ -34194,7 +34332,9 @@
       "email1": true,
       "date1": "2026-10-18",
       "email2": true,
-      "date2": "2026-10-21"
+      "date2": "2026-10-21",
+      "email3": true,
+      "date3": "2026-10-25"
     },
     {
       "name": "Cruls Cervejaria",
@@ -34206,7 +34346,9 @@
       "email1": true,
       "date1": "2026-10-18",
       "email2": true,
-      "date2": "2026-10-21"
+      "date2": "2026-10-21",
+      "email3": true,
+      "date3": "2026-10-25"
     },
     {
       "name": "Mina Beer",
@@ -34218,7 +34360,9 @@
       "email1": true,
       "date1": "2026-10-18",
       "email2": true,
-      "date2": "2026-10-21"
+      "date2": "2026-10-21",
+      "email3": true,
+      "date3": "2026-10-25"
     },
     {
       "name": "Vita Suco (Saborecitrus)",
@@ -34230,7 +34374,9 @@
       "email1": true,
       "date1": "2026-10-18",
       "email2": true,
-      "date2": "2026-10-21"
+      "date2": "2026-10-21",
+      "email3": true,
+      "date3": "2026-10-25"
     },
     {
       "name": "Fruta Rica",
@@ -34242,7 +34388,9 @@
       "email1": true,
       "date1": "2026-10-18",
       "email2": true,
-      "date2": "2026-10-21"
+      "date2": "2026-10-21",
+      "email3": true,
+      "date3": "2026-10-25"
     },
     {
       "name": "Tecnosuco Industrial",
@@ -34254,7 +34402,9 @@
       "email1": true,
       "date1": "2026-10-18",
       "email2": true,
-      "date2": "2026-10-21"
+      "date2": "2026-10-21",
+      "email3": true,
+      "date3": "2026-10-25"
     },
     {
       "name": "Biosense",
@@ -34266,7 +34416,9 @@
       "email1": true,
       "date1": "2026-10-18",
       "email2": true,
-      "date2": "2026-10-21"
+      "date2": "2026-10-21",
+      "email3": true,
+      "date3": "2026-10-25"
     },
     {
       "name": "Frutiverde",
@@ -34278,7 +34430,9 @@
       "email1": true,
       "date1": "2026-10-18",
       "email2": true,
-      "date2": "2026-10-21"
+      "date2": "2026-10-21",
+      "email3": true,
+      "date3": "2026-10-25"
     },
     {
       "name": "Itaueira Agroindústria",
@@ -34290,7 +34444,9 @@
       "email1": true,
       "date1": "2026-10-18",
       "email2": true,
-      "date2": "2026-10-21"
+      "date2": "2026-10-21",
+      "email3": true,
+      "date3": "2026-10-25"
     },
     {
       "name": "Idayo Sorvetes",
@@ -34302,7 +34458,9 @@
       "email1": true,
       "date1": "2026-10-20",
       "email2": true,
-      "date2": "2026-10-22"
+      "date2": "2026-10-22",
+      "email3": true,
+      "date3": "2026-10-25"
     },
     {
       "name": "Palhetto's Sorvetes",
@@ -34314,7 +34472,9 @@
       "email1": true,
       "date1": "2026-10-20",
       "email2": true,
-      "date2": "2026-10-22"
+      "date2": "2026-10-22",
+      "email3": true,
+      "date3": "2026-10-25"
     },
     {
       "name": "Delicius Sorvetes",
@@ -34326,7 +34486,9 @@
       "email1": true,
       "date1": "2026-10-20",
       "email2": true,
-      "date2": "2026-10-22"
+      "date2": "2026-10-22",
+      "email3": true,
+      "date3": "2026-10-25"
     },
     {
       "name": "Cremoso Sorvetes",
@@ -34338,7 +34500,9 @@
       "email1": true,
       "date1": "2026-10-20",
       "email2": true,
-      "date2": "2026-10-22"
+      "date2": "2026-10-22",
+      "email3": true,
+      "date3": "2026-10-25"
     },
     {
       "name": "ICSO Gelados",
@@ -34350,7 +34514,9 @@
       "email1": true,
       "date1": "2026-10-20",
       "email2": true,
-      "date2": "2026-10-22"
+      "date2": "2026-10-22",
+      "email3": true,
+      "date3": "2026-10-25"
     },
     {
       "name": "Francesco Gelato",
@@ -34362,7 +34528,9 @@
       "email1": true,
       "date1": "2026-10-20",
       "email2": true,
-      "date2": "2026-10-22"
+      "date2": "2026-10-22",
+      "email3": true,
+      "date3": "2026-10-25"
     },
     {
       "name": "Milão Sorvetes",
@@ -34374,7 +34542,9 @@
       "email1": true,
       "date1": "2026-10-20",
       "email2": true,
-      "date2": "2026-10-22"
+      "date2": "2026-10-22",
+      "email3": true,
+      "date3": "2026-10-25"
     },
     {
       "name": "Du Porto",
@@ -34386,7 +34556,9 @@
       "email1": true,
       "date1": "2026-10-20",
       "email2": true,
-      "date2": "2026-10-22"
+      "date2": "2026-10-22",
+      "email3": true,
+      "date3": "2026-10-25"
     },
     {
       "name": "Bucatinni Alimentos",
@@ -34398,7 +34570,9 @@
       "email1": true,
       "date1": "2026-10-20",
       "email2": true,
-      "date2": "2026-10-22"
+      "date2": "2026-10-22",
+      "email3": true,
+      "date3": "2026-10-25"
     },
     {
       "name": "Alimentos Tem (Tem Mais Sabor)",
@@ -34410,7 +34584,9 @@
       "email1": true,
       "date1": "2026-10-20",
       "email2": true,
-      "date2": "2026-10-22"
+      "date2": "2026-10-22",
+      "email3": true,
+      "date3": "2026-10-25"
     },
     {
       "name": "Maruiti",
@@ -34422,7 +34598,9 @@
       "email1": true,
       "date1": "2026-10-20",
       "email2": true,
-      "date2": "2026-10-22"
+      "date2": "2026-10-22",
+      "email3": true,
+      "date3": "2026-10-25"
     },
     {
       "name": "Tropical Condimentos",
@@ -34434,7 +34612,9 @@
       "email1": true,
       "date1": "2026-10-20",
       "email2": true,
-      "date2": "2026-10-22"
+      "date2": "2026-10-22",
+      "email3": true,
+      "date3": "2026-10-25"
     },
     {
       "name": "Miriam Alimentos",
@@ -34446,7 +34626,9 @@
       "email1": true,
       "date1": "2026-10-20",
       "email2": true,
-      "date2": "2026-10-22"
+      "date2": "2026-10-22",
+      "email3": true,
+      "date3": "2026-10-25"
     },
     {
       "name": "Grandó Molhos",
@@ -34458,7 +34640,9 @@
       "email1": true,
       "date1": "2026-10-20",
       "email2": true,
-      "date2": "2026-10-22"
+      "date2": "2026-10-22",
+      "email3": true,
+      "date3": "2026-10-25"
     },
     {
       "name": "KF Alimentos",
@@ -34470,7 +34654,9 @@
       "email1": true,
       "date1": "2026-10-20",
       "email2": true,
-      "date2": "2026-10-22"
+      "date2": "2026-10-22",
+      "email3": true,
+      "date3": "2026-10-25"
     },
     {
       "name": "Ultrabrava",
@@ -34482,7 +34668,9 @@
       "email1": true,
       "date1": "2026-10-20",
       "email2": true,
-      "date2": "2026-10-22"
+      "date2": "2026-10-22",
+      "email3": true,
+      "date3": "2026-10-25"
     },
     {
       "name": "Marquespan",
@@ -34494,7 +34682,9 @@
       "email1": true,
       "date1": "2026-10-20",
       "email2": true,
-      "date2": "2026-10-22"
+      "date2": "2026-10-22",
+      "email3": true,
+      "date3": "2026-10-25"
     },
     {
       "name": "Costa Lavos",
@@ -34506,7 +34696,9 @@
       "email1": true,
       "date1": "2026-10-20",
       "email2": true,
-      "date2": "2026-10-22"
+      "date2": "2026-10-22",
+      "email3": true,
+      "date3": "2026-10-25"
     },
     {
       "name": "Grupo Farina",
@@ -34518,7 +34710,9 @@
       "email1": true,
       "date1": "2026-10-20",
       "email2": true,
-      "date2": "2026-10-22"
+      "date2": "2026-10-22",
+      "email3": true,
+      "date3": "2026-10-25"
     },
     {
       "name": "Leforth",
@@ -34530,7 +34724,9 @@
       "email1": true,
       "date1": "2026-10-20",
       "email2": true,
-      "date2": "2026-10-22"
+      "date2": "2026-10-22",
+      "email3": true,
+      "date3": "2026-10-25"
     },
     {
       "name": "Selmi (Renata e Galo)",
@@ -34553,7 +34749,9 @@
       "email1": true,
       "date1": "2026-10-20",
       "email2": true,
-      "date2": "2026-10-22"
+      "date2": "2026-10-22",
+      "email3": true,
+      "date3": "2026-10-25"
     },
     {
       "name": "M. Dias Branco",
@@ -36802,8 +37000,8 @@
   "emails": {
     "email1": 3505,
     "email2": 1925,
-    "email3": 1024,
-    "total": 6454
+    "email3": 1123,
+    "total": 6553
   },
   "whatsapp": {
     "today": 0,
@@ -36812,10 +37010,6 @@
   "responses": 5,
   "pending": 0,
   "daily": [
-    {
-      "date": "2026-10-12",
-      "count": 97
-    },
     {
       "date": "2026-10-13",
       "count": 4
@@ -36866,6 +37060,10 @@
     },
     {
       "date": "2026-10-25",
+      "count": 99
+    },
+    {
+      "date": "2026-10-26",
       "count": 0
     }
   ],
@@ -36984,26 +37182,26 @@
     "leads": 3572,
     "email1": 3505,
     "email2": 1925,
-    "email3": 1024,
+    "email3": 1123,
     "responded": 5
   },
   "week": {
-    "leads": 481,
+    "leads": 480,
     "emails": {
-      "email1": 481,
+      "email1": 480,
       "email2": 478,
-      "email3": 211,
-      "total": 1170
+      "email3": 310,
+      "total": 1268
     },
-    "responses": 4
+    "responses": 3
   },
   "month": {
     "leads": 860,
     "emails": {
       "email1": 860,
       "email2": 637,
-      "email3": 366,
-      "total": 1863
+      "email3": 465,
+      "total": 1962
     },
     "responses": 4
   },
@@ -37012,8 +37210,8 @@
     "emails": {
       "email1": 3505,
       "email2": 1925,
-      "email3": 1024,
-      "total": 6454
+      "email3": 1123,
+      "total": 6553
     },
     "responses": 5
   },
