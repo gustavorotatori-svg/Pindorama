@@ -57953,7 +57953,9 @@
     "date1": "2026-10-20",
     "targetProfile": "C/D",
     "email2": true,
-    "date2": "2026-10-22"
+    "date2": "2026-10-22",
+    "email3": true,
+    "date3": "2026-10-26"
   },
   {
     "name": "Steffenon Alimentos",
