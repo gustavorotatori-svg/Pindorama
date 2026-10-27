@@ -104,11 +104,12 @@ function emailFrozen(lead) {
 }
 
 function verifiedFollowUp(lead) {
-  // Para follow-ups: verificação mínima - não suprimido, não domínio bloqueado,
-  // email verificado. Não aplicamos restrição de tipo nem de 90 dias.
+  // Para follow-ups: o email já foi entregue com sucesso (email1 enviado),
+  // então não verificamos emailVerified nem tipo nem source.
+  // Apenas verificamos que não está suprimido, não é domínio bloqueado,
+  // não está congelado e não respondeu.
   if (SUPPRESSED_EMAILS.has(String(lead.email || '').toLowerCase())) return false;
   if (BLOCKED_RECIPIENT_DOMAINS.has(emailDomain(lead.email))) return false;
-  if (lead.emailVerified !== true) return false;
   return true;
 }
 
