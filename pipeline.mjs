@@ -15,7 +15,7 @@ const LEADS_FILE = 'leads-qualificados.json';
 const OLD_FILE = 'leads.json';
 const SUPPRESSED_EMAILS_FILE = 'suppressed-emails.json';
 const GIF_TAG = '<br><br><img src="https://iili.io/CkQ8gFR.gif" style="display:block;margin-top:12px;max-width:400px" />';
-const DELAY_MS = 2500;
+const DELAY_MS = 800;
 const SIGNATURE = '\n\nAbra\u00e7o,\nGustavo\nPindorama \u2014 Cacha\u00e7a Artesanal\n(11) 91357-7900';
 
 const transporter = nodemailer.createTransport({service:'gmail',auth:{user:MAIL_USER,pass:MAIL_PASS}});
@@ -104,12 +104,10 @@ function emailFrozen(lead) {
 }
 
 function verifiedFollowUp(lead) {
-  // Para follow-ups não aplicamos a restrição de 90 dias da verificação inicial
-  // apenas verificamos que não está suprimido, não é inválido, não é doNotContact
-  // e tem email válido verificado
+  // Para follow-ups: verificação mínima - não suprimido, não domínio bloqueado,
+  // email verificado. Não aplicamos restrição de tipo nem de 90 dias.
   if (SUPPRESSED_EMAILS.has(String(lead.email || '').toLowerCase())) return false;
   if (BLOCKED_RECIPIENT_DOMAINS.has(emailDomain(lead.email))) return false;
-  if (!eligibleFirstContactType(lead.type)) return false;
   if (lead.emailVerified !== true) return false;
   return true;
 }
