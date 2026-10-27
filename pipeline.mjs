@@ -76,6 +76,12 @@ function eligibleFirstContactType(type) {
     /(^|_)(adega|loja|loja_bebidas|distribuidora|distribuidor|atacadista|bar|balada|restaurante|buffet|hotel|catering|supermercado|padaria|mercadinho|conveniencia|emporio|gelateria|sorveteria|churrascaria|chocolateria|confeitaria|carnes|pizzaria|hamburgueria|cafeteria|açaí|acai|bebidas|pizzar|massas|cervejaria|vinhoteca|fromagerie|charcutaria|rotisseria|marmitaria|lanchonete|sanduicheria|sushi|japonesa|italiana|francesa|espanhola|mediterranea|steakhouse|gastrobar|bistrô|bistro|fabrica|industria|microcervejaria|doceria)(_|$)/.test(normalized);
 }
 
+function daysFromNow(dateStr) {
+  const d = new Date(dateStr);
+  const n = new Date();
+  return Math.floor((n - d) / (1000 * 60 * 60 * 24));
+}
+
 function verifiedFirstContact(lead) {
   if (SUPPRESSED_EMAILS.has(String(lead.email || '').toLowerCase())) return false;
   if (BLOCKED_RECIPIENT_DOMAINS.has(emailDomain(lead.email))) return false;
@@ -84,9 +90,17 @@ function verifiedFirstContact(lead) {
   const source = String(lead.emailSource || '').trim();
   const verifiedAt = String(lead.emailVerifiedAt || '').trim();
   const trustedSource = /^https?:\/\//i.test(source) || /cnpja|econodata|prospec/i.test(source);
-if (!trustedSource || !/^\d{4}-\d{2}-\d{2}$/.test(verifiedAt)) return false;
+  if (!trustedSource || !/^\d{4}-\d{2}-\d{2}$/.test(verifiedAt)) return false;
   const ageDays = daysDiff(verifiedAt);
   return ageDays >= 0 && ageDays <= 90;
+}
+
+function emailFrozen(lead) {
+  if (lead.emailFrozenUntil) {
+    const dias = daysFromNow(lead.emailFrozenUntil);
+    if (dias > 0) return true;
+  }
+  return false;
 }
 
 function permanentRecipientError(error) {
@@ -192,8 +206,6 @@ function getSubject(lead, step) {
   }
   if (step === 'email2') return 'Pindorama \u2014 posso mandar a tabela de pre\u00e7os?';
   if (step === 'email3') return 'Pindorama \u2014 cat\u00e1logo e tabela de pre\u00e7os';
-  if (step === 'email4') return 'Pindorama \u2014 chegou a ver o cat\u00e1logo?';
-  if (step === 'email5') return 'Pindorama \u2014 \u00dAltimo contato';
   return 'Pindorama \u2014 encerrando o ciclo';}
 
 async function sendEmail(lead, step) {
@@ -277,7 +289,7 @@ async function sendEmail1(maxSent = Infinity) {
       leads.filter(x => x.email1).map(x => String(x.email || '').toLowerCase())
     );
     const pending = leads
-      .filter(x => x.name && !x.email1 && !contactedEmails.has(String(x.email || '').toLowerCase()) && !x.invalidEmail && !x.doNotContact && !failed.has(x.email) && x.email && verifiedFirstContact(x) && x.targetProfile === 'A/B')
+      .filter(x => x.name && !x.email1 && !contactedEmails.has(String(x.email || '').toLowerCase()) && !x.invalidEmail && !x.doNotContact && !failed.has(x.email) && x.email && verifiedFirstContact(x) && x.targetProfile === 'A/B' && !emailFrozen(x) && !x.emailCycleClosed)
       .sort((a, b) => leadPriority(b) - leadPriority(a));
     if (!pending.length) {
       if (sent === 0) {
@@ -344,12 +356,10 @@ async function sendFollowups(maxSent = Infinity) {
     let target = null;
     for (const l of leads) {
       if (l.responded || l.invalidEmail || l.doNotContact || SUPPRESSED_EMAILS.has(String(l.email || '').toLowerCase())) continue;
+      if (emailFrozen(l)) continue;
       if (!verifiedFirstContact(l)) continue;
       if (l.email1 && !l.email2 && l.date1 && daysDiff(l.date1) >= 3 && !failed.has(l.email + ':email2')) { target = {lead:l,step:'email2'}; break; }
-      if (l.email2 && !l.email3 && l.date2 && daysDiff(l.date2) >= 4 && !failed.has(l.email + ':email3')) { target = {lead:l,step:'email3'}; break; }
-      if (l.email3 && !l.email4 && l.date3 && daysDiff(l.date3) >= 7 && !failed.has(l.email + ':email4')) { target = {lead:l,step:'email4'}; break; }
-      if (l.email4 && !l.email5 && l.date4 && daysDiff(l.date4) >= 7 && !failed.has(l.email + ':email5')) { target = {lead:l,step:'email5'}; break; }
-      if (l.email5 && !l.email6 && l.date5 && daysDiff(l.date5) >= 9 && !failed.has(l.email + ':email6')) { target = {lead:l,step:'email6'}; break; }
+      if (l.email2 && !l.email3 && l.date2 && daysDiff(l.date2) >= 7 && !failed.has(l.email + ':email3')) { target = {lead:l,step:'email3'}; break; }
     }
     if (!target) break;
     if (!emailQuotaAvailable()) break;
@@ -357,7 +367,6 @@ async function sendFollowups(maxSent = Infinity) {
     try {
       await sendEmail(l, step);
       recordEmailOutput();
-      // Force-persist
       const reloaded = load(LEADS_FILE);
       const normalizedEmail = String(l.email).toLowerCase();
       const todayStr = today();
@@ -366,12 +375,18 @@ async function sendFollowups(maxSent = Infinity) {
         if (String(item.email || '').toLowerCase() !== normalizedEmail) continue;
         item[step] = true;
         item['date' + step.slice(-1)] = todayStr;
+        if (step === 'email3') {
+          const d = new Date();
+          d.setDate(d.getDate() + 180);
+          item.emailFrozenUntil = d.toISOString().split('T')[0];
+          item.emailCycleClosed = true;
+        }
         persisted = true;
       }
       if (persisted) {
         save(LEADS_FILE, reloaded);
       }
-      console.log((step === 'email2' ? 'EMAIL2' : 'EMAIL3') + ' OK: ' + l.name + ' <' + l.email + '>');
+      console.log((step === 'email2' ? 'EMAIL2' : 'EMAIL3') + ' OK: ' + l.name + ' <' + l.email + '>' + (step === 'email3' ? ' [congelado 6 meses]' : ''));
       sent++;
       await new Promise(r => setTimeout(r, DELAY_MS));
     } catch(e) {
