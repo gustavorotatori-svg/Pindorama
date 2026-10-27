@@ -35759,7 +35759,9 @@
     "mxVerifiedAt": "2026-09-01",
     "email1": true,
     "date1": "2026-09-01",
-    "targetProfile": "C/D"
+    "targetProfile": "C/D",
+    "email2": true,
+    "date2": "2026-10-27"
   },
   {
     "name": "BROWN SUGAR",
@@ -39705,7 +39707,9 @@
     "template": "consultivo",
     "email1": true,
     "date1": "2026-09-01",
-    "targetProfile": "C/D"
+    "targetProfile": "C/D",
+    "email2": true,
+    "date2": "2026-10-27"
   },
   {
     "name": "Varanda do Cambuci",
