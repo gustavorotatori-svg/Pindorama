@@ -103,6 +103,17 @@ function emailFrozen(lead) {
   return false;
 }
 
+function verifiedFollowUp(lead) {
+  // Para follow-ups não aplicamos a restrição de 90 dias da verificação inicial
+  // apenas verificamos que não está suprimido, não é inválido, não é doNotContact
+  // e tem email válido verificado
+  if (SUPPRESSED_EMAILS.has(String(lead.email || '').toLowerCase())) return false;
+  if (BLOCKED_RECIPIENT_DOMAINS.has(emailDomain(lead.email))) return false;
+  if (!eligibleFirstContactType(lead.type)) return false;
+  if (lead.emailVerified !== true) return false;
+  return true;
+}
+
 function permanentRecipientError(error) {
   const text = `${error?.responseCode || ''} ${error?.code || ''} ${error?.response || ''} ${error?.message || ''}`.toLowerCase();
   if (/5\.4\.5|sending limit|rate.?limit|too many|quota exceeded|try again later|4\.7\.28|421/.test(text)) return false;
@@ -357,7 +368,7 @@ async function sendFollowups(maxSent = Infinity) {
     for (const l of leads) {
       if (l.responded || l.invalidEmail || l.doNotContact || SUPPRESSED_EMAILS.has(String(l.email || '').toLowerCase())) continue;
       if (emailFrozen(l)) continue;
-      if (!verifiedFirstContact(l)) continue;
+      if (!verifiedFollowUp(l)) continue;
       if (l.email1 && !l.email2 && l.date1 && daysDiff(l.date1) >= 3 && !failed.has(l.email + ':email2')) { target = {lead:l,step:'email2'}; break; }
       if (l.email2 && !l.email3 && l.date2 && daysDiff(l.date2) >= 7 && !failed.has(l.email + ':email3')) { target = {lead:l,step:'email3'}; break; }
     }
