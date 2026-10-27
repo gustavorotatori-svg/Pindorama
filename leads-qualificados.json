@@ -929,7 +929,9 @@
     "whatsappSent": true,
     "whatsappDate": "2026-10-16",
     "whatsappSource": "https://www.degusti.com.br",
-    "targetProfile": "A/B"
+    "targetProfile": "A/B",
+    "email2": true,
+    "date2": "2026-10-27"
   },
   {
     "name": "Adega do Louro",
@@ -6751,7 +6753,11 @@
     "date1": "2026-08-02",
     "email2": true,
     "date2": "2026-08-05",
-    "targetProfile": "C/D"
+    "targetProfile": "C/D",
+    "email3": true,
+    "date3": "2026-10-27",
+    "emailFrozenUntil": "2027-04-25",
+    "emailCycleClosed": true
   },
   {
     "name": "BAR DO MILTON",
@@ -6767,7 +6773,11 @@
     "date1": "2026-08-02",
     "email2": true,
     "date2": "2026-08-05",
-    "targetProfile": "C/D"
+    "targetProfile": "C/D",
+    "email3": true,
+    "date3": "2026-10-27",
+    "emailFrozenUntil": "2027-04-25",
+    "emailCycleClosed": true
   },
   {
     "name": "Copanzinho",
@@ -6785,7 +6795,11 @@
     "whatsappDate": "2026-08-03",
     "email2": true,
     "date2": "2026-08-05",
-    "targetProfile": "C/D"
+    "targetProfile": "C/D",
+    "email3": true,
+    "date3": "2026-10-27",
+    "emailFrozenUntil": "2027-04-25",
+    "emailCycleClosed": true
   },
   {
     "name": "Bia Hoi SP",
@@ -6801,7 +6815,11 @@
     "date1": "2026-08-02",
     "email2": true,
     "date2": "2026-08-05",
-    "targetProfile": "C/D"
+    "targetProfile": "C/D",
+    "email3": true,
+    "date3": "2026-10-27",
+    "emailFrozenUntil": "2027-04-25",
+    "emailCycleClosed": true
   },
   {
     "name": "BAR DO VARDEMA",
@@ -6817,7 +6835,11 @@
     "date1": "2026-08-02",
     "email2": true,
     "date2": "2026-08-05",
-    "targetProfile": "C/D"
+    "targetProfile": "C/D",
+    "email3": true,
+    "date3": "2026-10-27",
+    "emailFrozenUntil": "2027-04-25",
+    "emailCycleClosed": true
   },
   {
     "name": "BOTECO DO RONY",
@@ -6833,7 +6855,11 @@
     "date1": "2026-08-02",
     "email2": true,
     "date2": "2026-08-05",
-    "targetProfile": "C/D"
+    "targetProfile": "C/D",
+    "email3": true,
+    "date3": "2026-10-27",
+    "emailFrozenUntil": "2027-04-25",
+    "emailCycleClosed": true
   },
   {
     "name": "BELL├ó┬Ç┬ÖS Drinkeria & Adega",
@@ -6851,7 +6877,11 @@
     "whatsappDate": "2026-08-03",
     "email2": true,
     "date2": "2026-08-05",
-    "targetProfile": "C/D"
+    "targetProfile": "C/D",
+    "email3": true,
+    "date3": "2026-10-27",
+    "emailFrozenUntil": "2027-04-25",
+    "emailCycleClosed": true
   },
   {
     "name": "Chacrinha",
@@ -6869,7 +6899,11 @@
     "whatsappDate": "2026-08-03",
     "email2": true,
     "date2": "2026-08-05",
-    "targetProfile": "C/D"
+    "targetProfile": "C/D",
+    "email3": true,
+    "date3": "2026-10-27",
+    "emailFrozenUntil": "2027-04-25",
+    "emailCycleClosed": true
   },
   {
     "name": "Arte Brasil Bar",
@@ -6885,7 +6919,11 @@
     "date1": "2026-08-02",
     "email2": true,
     "date2": "2026-08-05",
-    "targetProfile": "C/D"
+    "targetProfile": "C/D",
+    "email3": true,
+    "date3": "2026-10-27",
+    "emailFrozenUntil": "2027-04-25",
+    "emailCycleClosed": true
   },
   {
     "name": "ATTRIO PIZZA BAR",
@@ -6901,7 +6939,11 @@
     "date1": "2026-08-02",
     "email2": true,
     "date2": "2026-08-05",
-    "targetProfile": "C/D"
+    "targetProfile": "C/D",
+    "email3": true,
+    "date3": "2026-10-27",
+    "emailFrozenUntil": "2027-04-25",
+    "emailCycleClosed": true
   },
   {
     "name": "Boteco Das Artes",
@@ -6919,7 +6961,11 @@
     "whatsappDate": "2026-08-03",
     "email2": true,
     "date2": "2026-08-05",
-    "targetProfile": "C/D"
+    "targetProfile": "C/D",
+    "email3": true,
+    "date3": "2026-10-27",
+    "emailFrozenUntil": "2027-04-25",
+    "emailCycleClosed": true
   },
   {
     "name": "Aldeia Bar & Restaurante",
@@ -6935,7 +6981,11 @@
     "date1": "2026-08-02",
     "email2": true,
     "date2": "2026-08-05",
-    "targetProfile": "C/D"
+    "targetProfile": "C/D",
+    "email3": true,
+    "date3": "2026-10-27",
+    "emailFrozenUntil": "2027-04-25",
+    "emailCycleClosed": true
   },
   {
     "name": "BAR ZERO GRAU",
@@ -6951,7 +7001,11 @@
     "date1": "2026-08-02",
     "email2": true,
     "date2": "2026-08-05",
-    "targetProfile": "C/D"
+    "targetProfile": "C/D",
+    "email3": true,
+    "date3": "2026-10-27",
+    "emailFrozenUntil": "2027-04-25",
+    "emailCycleClosed": true
   },
   {
     "name": "ACARAJE BOTEQUIM",
@@ -6969,7 +7023,11 @@
     "whatsappDate": "2026-08-03",
     "email2": true,
     "date2": "2026-08-05",
-    "targetProfile": "C/D"
+    "targetProfile": "C/D",
+    "email3": true,
+    "date3": "2026-10-27",
+    "emailFrozenUntil": "2027-04-25",
+    "emailCycleClosed": true
   },
   {
     "name": "Oh Fregue├î┬és",
@@ -6987,7 +7045,11 @@
     "whatsappDate": "2026-08-03",
     "email2": true,
     "date2": "2026-08-05",
-    "targetProfile": "C/D"
+    "targetProfile": "C/D",
+    "email3": true,
+    "date3": "2026-10-27",
+    "emailFrozenUntil": "2027-04-25",
+    "emailCycleClosed": true
   },
   {
     "name": "PARADA 373 Bar e Cozinha",
@@ -7005,7 +7067,11 @@
     "whatsappDate": "2026-08-03",
     "email2": true,
     "date2": "2026-08-05",
-    "targetProfile": "C/D"
+    "targetProfile": "C/D",
+    "email3": true,
+    "date3": "2026-10-27",
+    "emailFrozenUntil": "2027-04-25",
+    "emailCycleClosed": true
   },
   {
     "name": "PRAIA DA RAIAL",
@@ -7021,7 +7087,11 @@
     "date1": "2026-08-02",
     "email2": true,
     "date2": "2026-08-05",
-    "targetProfile": "C/D"
+    "targetProfile": "C/D",
+    "email3": true,
+    "date3": "2026-10-27",
+    "emailFrozenUntil": "2027-04-25",
+    "emailCycleClosed": true
   },
   {
     "name": "Bar 34",
@@ -7037,7 +7107,11 @@
     "date1": "2026-08-02",
     "email2": true,
     "date2": "2026-08-05",
-    "targetProfile": "C/D"
+    "targetProfile": "C/D",
+    "email3": true,
+    "date3": "2026-10-27",
+    "emailFrozenUntil": "2027-04-25",
+    "emailCycleClosed": true
   },
   {
     "name": "CB BEER HOUSE",
@@ -7053,7 +7127,11 @@
     "date1": "2026-08-02",
     "email2": true,
     "date2": "2026-08-05",
-    "targetProfile": "C/D"
+    "targetProfile": "C/D",
+    "email3": true,
+    "date3": "2026-10-27",
+    "emailFrozenUntil": "2027-04-25",
+    "emailCycleClosed": true
   },
   {
     "name": "Barxare├î┬üu",
@@ -7069,7 +7147,11 @@
     "date1": "2026-08-02",
     "email2": true,
     "date2": "2026-08-05",
-    "targetProfile": "C/D"
+    "targetProfile": "C/D",
+    "email3": true,
+    "date3": "2026-10-27",
+    "emailFrozenUntil": "2027-04-25",
+    "emailCycleClosed": true
   },
   {
     "name": "Bar da Adelaide",
@@ -7085,7 +7167,11 @@
     "date1": "2026-08-02",
     "email2": true,
     "date2": "2026-08-05",
-    "targetProfile": "C/D"
+    "targetProfile": "C/D",
+    "email3": true,
+    "date3": "2026-10-27",
+    "emailFrozenUntil": "2027-04-25",
+    "emailCycleClosed": true
   },
   {
     "name": "Brotas Beer",
@@ -7101,7 +7187,11 @@
     "date1": "2026-08-02",
     "email2": true,
     "date2": "2026-08-05",
-    "targetProfile": "C/D"
+    "targetProfile": "C/D",
+    "email3": true,
+    "date3": "2026-10-27",
+    "emailFrozenUntil": "2027-04-25",
+    "emailCycleClosed": true
   },
   {
     "name": "CAMILLO",
@@ -7119,7 +7209,11 @@
     "whatsappDate": "2026-08-03",
     "email2": true,
     "date2": "2026-08-05",
-    "targetProfile": "C/D"
+    "targetProfile": "C/D",
+    "email3": true,
+    "date3": "2026-10-27",
+    "emailFrozenUntil": "2027-04-25",
+    "emailCycleClosed": true
   },
   {
     "name": "Vila Paulist├â┬ónia",
@@ -7135,7 +7229,11 @@
     "date1": "2026-08-02",
     "email2": true,
     "date2": "2026-08-05",
-    "targetProfile": "C/D"
+    "targetProfile": "C/D",
+    "email3": true,
+    "date3": "2026-10-27",
+    "emailFrozenUntil": "2027-04-25",
+    "emailCycleClosed": true
   },
   {
     "name": "SANTA CANA BAR",
@@ -7151,7 +7249,11 @@
     "date1": "2026-08-02",
     "email2": true,
     "date2": "2026-08-05",
-    "targetProfile": "C/D"
+    "targetProfile": "C/D",
+    "email3": true,
+    "date3": "2026-10-27",
+    "emailFrozenUntil": "2027-04-25",
+    "emailCycleClosed": true
   },
   {
     "name": "LA PO├â┬èLE",
@@ -7169,7 +7271,11 @@
     "whatsappDate": "2026-08-03",
     "email2": true,
     "date2": "2026-08-05",
-    "targetProfile": "C/D"
+    "targetProfile": "C/D",
+    "email3": true,
+    "date3": "2026-10-27",
+    "emailFrozenUntil": "2027-04-25",
+    "emailCycleClosed": true
   },
   {
     "name": "Sororoca",
@@ -7185,7 +7291,11 @@
     "date1": "2026-08-02",
     "email2": true,
     "date2": "2026-08-05",
-    "targetProfile": "C/D"
+    "targetProfile": "C/D",
+    "email3": true,
+    "date3": "2026-10-27",
+    "emailFrozenUntil": "2027-04-25",
+    "emailCycleClosed": true
   },
   {
     "name": "D├à┬ìmo Bar",
@@ -7201,7 +7311,11 @@
     "date1": "2026-08-02",
     "email2": true,
     "date2": "2026-08-05",
-    "targetProfile": "C/D"
+    "targetProfile": "C/D",
+    "email3": true,
+    "date3": "2026-10-27",
+    "emailFrozenUntil": "2027-04-25",
+    "emailCycleClosed": true
   },
   {
     "name": "UNA ROOFTOP BAR",
@@ -7217,7 +7331,11 @@
     "date1": "2026-08-02",
     "email2": true,
     "date2": "2026-08-05",
-    "targetProfile": "C/D"
+    "targetProfile": "C/D",
+    "email3": true,
+    "date3": "2026-10-27",
+    "emailFrozenUntil": "2027-04-25",
+    "emailCycleClosed": true
   },
   {
     "name": "├░┬Ø┬É┬ü├░┬Ø┬É┬«├░┬Ø┬É┬¡├░┬Ø┬É┬ó├░┬Ø┬É┬¬├░┬Ø┬É┬«├░┬Ø┬É┬ó├░┬Ø┬É┬ª ├░┬Ø┬É┬Ø├░┬Ø┬É┬Ü ├░┬Ø┬É┬é├░┬Ø┬É┬ó├░┬Ø┬É┬Ø├░┬Ø┬É...",
@@ -7233,7 +7351,11 @@
     "date1": "2026-08-02",
     "email2": true,
     "date2": "2026-08-05",
-    "targetProfile": "C/D"
+    "targetProfile": "C/D",
+    "email3": true,
+    "date3": "2026-10-27",
+    "emailFrozenUntil": "2027-04-25",
+    "emailCycleClosed": true
   },
   {
     "name": "DORA BAR & GRILL",
@@ -7249,7 +7371,11 @@
     "date1": "2026-08-02",
     "email2": true,
     "date2": "2026-08-05",
-    "targetProfile": "C/D"
+    "targetProfile": "C/D",
+    "email3": true,
+    "date3": "2026-10-27",
+    "emailFrozenUntil": "2027-04-25",
+    "emailCycleClosed": true
   },
   {
     "name": "CAJU BAR",
@@ -7265,7 +7391,11 @@
     "date1": "2026-08-02",
     "email2": true,
     "date2": "2026-08-05",
-    "targetProfile": "C/D"
+    "targetProfile": "C/D",
+    "email3": true,
+    "date3": "2026-10-27",
+    "emailFrozenUntil": "2027-04-25",
+    "emailCycleClosed": true
   },
   {
     "name": "BAR ALTO",
@@ -7281,7 +7411,11 @@
     "date1": "2026-08-02",
     "email2": true,
     "date2": "2026-08-05",
-    "targetProfile": "C/D"
+    "targetProfile": "C/D",
+    "email3": true,
+    "date3": "2026-10-27",
+    "emailFrozenUntil": "2027-04-25",
+    "emailCycleClosed": true
   },
   {
     "name": "Terra├â┬ºo Urbano",
@@ -7297,7 +7431,11 @@
     "date1": "2026-08-02",
     "email2": true,
     "date2": "2026-08-05",
-    "targetProfile": "C/D"
+    "targetProfile": "C/D",
+    "email3": true,
+    "date3": "2026-10-27",
+    "emailFrozenUntil": "2027-04-25",
+    "emailCycleClosed": true
   },
   {
     "name": "MANDA FORA DA CASINHA",
@@ -7313,7 +7451,11 @@
     "date1": "2026-08-02",
     "email2": true,
     "date2": "2026-08-05",
-    "targetProfile": "C/D"
+    "targetProfile": "C/D",
+    "email3": true,
+    "date3": "2026-10-27",
+    "emailFrozenUntil": "2027-04-25",
+    "emailCycleClosed": true
   },
   {
     "name": "Boteco da Pra├â┬ºa",
@@ -7329,7 +7471,11 @@
     "date1": "2026-08-02",
     "email2": true,
     "date2": "2026-08-05",
-    "targetProfile": "C/D"
+    "targetProfile": "C/D",
+    "email3": true,
+    "date3": "2026-10-27",
+    "emailFrozenUntil": "2027-04-25",
+    "emailCycleClosed": true
   },
   {
     "name": "Cerveja Madalena",
@@ -7345,7 +7491,11 @@
     "date1": "2026-08-02",
     "email2": true,
     "date2": "2026-08-05",
-    "targetProfile": "C/D"
+    "targetProfile": "C/D",
+    "email3": true,
+    "date3": "2026-10-27",
+    "emailFrozenUntil": "2027-04-25",
+    "emailCycleClosed": true
   },
   {
     "name": "Hop & Malt Moema",
@@ -7361,7 +7511,11 @@
     "date1": "2026-08-02",
     "email2": true,
     "date2": "2026-08-05",
-    "targetProfile": "C/D"
+    "targetProfile": "C/D",
+    "email3": true,
+    "date3": "2026-10-27",
+    "emailFrozenUntil": "2027-04-25",
+    "emailCycleClosed": true
   },
   {
     "name": "Salt ZN",
@@ -7377,7 +7531,11 @@
     "date1": "2026-08-02",
     "email2": true,
     "date2": "2026-08-05",
-    "targetProfile": "C/D"
+    "targetProfile": "C/D",
+    "email3": true,
+    "date3": "2026-10-27",
+    "emailFrozenUntil": "2027-04-25",
+    "emailCycleClosed": true
   },
   {
     "name": "Casa de Francisca",
@@ -7393,7 +7551,11 @@
     "date1": "2026-08-02",
     "email2": true,
     "date2": "2026-08-05",
-    "targetProfile": "C/D"
+    "targetProfile": "C/D",
+    "email3": true,
+    "date3": "2026-10-27",
+    "emailFrozenUntil": "2027-04-25",
+    "emailCycleClosed": true
   },
   {
     "name": "Boteco Donna Vito├î┬üria",
@@ -7409,7 +7571,11 @@
     "date1": "2026-08-02",
     "email2": true,
     "date2": "2026-08-05",
-    "targetProfile": "C/D"
+    "targetProfile": "C/D",
+    "email3": true,
+    "date3": "2026-10-27",
+    "emailFrozenUntil": "2027-04-25",
+    "emailCycleClosed": true
   },
   {
     "name": "Villas Joaquina",
@@ -7425,7 +7591,11 @@
     "date1": "2026-08-02",
     "email2": true,
     "date2": "2026-08-05",
-    "targetProfile": "C/D"
+    "targetProfile": "C/D",
+    "email3": true,
+    "date3": "2026-10-27",
+    "emailFrozenUntil": "2027-04-25",
+    "emailCycleClosed": true
   },
   {
     "name": "Embaixada Mineira Bela Vista",
@@ -7441,7 +7611,11 @@
     "date1": "2026-08-02",
     "email2": true,
     "date2": "2026-08-05",
-    "targetProfile": "C/D"
+    "targetProfile": "C/D",
+    "email3": true,
+    "date3": "2026-10-27",
+    "emailFrozenUntil": "2027-04-25",
+    "emailCycleClosed": true
   },
   {
     "name": "Bragan├â┬ºa Beer Gastrobar",
@@ -7457,7 +7631,11 @@
     "date1": "2026-08-02",
     "email2": true,
     "date2": "2026-08-05",
-    "targetProfile": "C/D"
+    "targetProfile": "C/D",
+    "email3": true,
+    "date3": "2026-10-27",
+    "emailFrozenUntil": "2027-04-25",
+    "emailCycleClosed": true
   },
   {
     "name": "Japi GastroBar",
@@ -7473,7 +7651,11 @@
     "date1": "2026-08-02",
     "email2": true,
     "date2": "2026-08-05",
-    "targetProfile": "C/D"
+    "targetProfile": "C/D",
+    "email3": true,
+    "date3": "2026-10-27",
+    "emailFrozenUntil": "2027-04-25",
+    "emailCycleClosed": true
   },
   {
     "name": "Buteco Presidente",
@@ -7489,7 +7671,11 @@
     "date1": "2026-08-02",
     "email2": true,
     "date2": "2026-08-05",
-    "targetProfile": "C/D"
+    "targetProfile": "C/D",
+    "email3": true,
+    "date3": "2026-10-27",
+    "emailFrozenUntil": "2027-04-25",
+    "emailCycleClosed": true
   },
   {
     "name": "Astros Steakhouse",
@@ -7505,7 +7691,11 @@
     "date1": "2026-08-02",
     "email2": true,
     "date2": "2026-08-05",
-    "targetProfile": "C/D"
+    "targetProfile": "C/D",
+    "email3": true,
+    "date3": "2026-10-27",
+    "emailFrozenUntil": "2027-04-25",
+    "emailCycleClosed": true
   },
   {
     "name": "S├â┬âO LUIS 84",
@@ -7521,7 +7711,11 @@
     "date1": "2026-08-02",
     "email2": true,
     "date2": "2026-08-05",
-    "targetProfile": "C/D"
+    "targetProfile": "C/D",
+    "email3": true,
+    "date3": "2026-10-27",
+    "emailFrozenUntil": "2027-04-25",
+    "emailCycleClosed": true
   },
   {
     "name": "Quintal dos Arcos SteakBar",
@@ -7537,7 +7731,11 @@
     "date1": "2026-08-02",
     "email2": true,
     "date2": "2026-08-05",
-    "targetProfile": "C/D"
+    "targetProfile": "C/D",
+    "email3": true,
+    "date3": "2026-10-27",
+    "emailFrozenUntil": "2027-04-25",
+    "emailCycleClosed": true
   },
   {
     "name": "LADEIRA BAR",
@@ -7553,7 +7751,11 @@
     "date1": "2026-08-02",
     "email2": true,
     "date2": "2026-08-05",
-    "targetProfile": "C/D"
+    "targetProfile": "C/D",
+    "email3": true,
+    "date3": "2026-10-27",
+    "emailFrozenUntil": "2027-04-25",
+    "emailCycleClosed": true
   },
   {
     "name": "C A N A cacha├â┬ºaria",
@@ -7569,7 +7771,11 @@
     "date1": "2026-08-02",
     "email2": true,
     "date2": "2026-08-05",
-    "targetProfile": "C/D"
+    "targetProfile": "C/D",
+    "email3": true,
+    "date3": "2026-10-27",
+    "emailFrozenUntil": "2027-04-25",
+    "emailCycleClosed": true
   },
   {
     "name": "Bar dos Cravos",
@@ -7588,7 +7794,11 @@
     "whatsappSent": true,
     "whatsappDate": "2026-09-04",
     "whatsappSource": "https://www.bardoscravos.com/coqueteis",
-    "targetProfile": "C/D"
+    "targetProfile": "C/D",
+    "email3": true,
+    "date3": "2026-10-27",
+    "emailFrozenUntil": "2027-04-25",
+    "emailCycleClosed": true
   },
   {
     "name": "Vitrine Bar Augusta",
@@ -7604,7 +7814,11 @@
     "date1": "2026-08-02",
     "email2": true,
     "date2": "2026-08-05",
-    "targetProfile": "C/D"
+    "targetProfile": "C/D",
+    "email3": true,
+    "date3": "2026-10-27",
+    "emailFrozenUntil": "2027-04-25",
+    "emailCycleClosed": true
   },
   {
     "name": "Terapeuta Bar",
@@ -7620,7 +7834,11 @@
     "date1": "2026-08-02",
     "email2": true,
     "date2": "2026-08-05",
-    "targetProfile": "C/D"
+    "targetProfile": "C/D",
+    "email3": true,
+    "date3": "2026-10-27",
+    "emailFrozenUntil": "2027-04-25",
+    "emailCycleClosed": true
   },
   {
     "name": "Imperatriz Villa Bar",
@@ -7636,7 +7854,11 @@
     "date1": "2026-08-02",
     "email2": true,
     "date2": "2026-08-05",
-    "targetProfile": "C/D"
+    "targetProfile": "C/D",
+    "email3": true,
+    "date3": "2026-10-27",
+    "emailFrozenUntil": "2027-04-25",
+    "emailCycleClosed": true
   },
   {
     "name": "HIGH LINE",
@@ -7652,7 +7874,11 @@
     "date1": "2026-08-02",
     "email2": true,
     "date2": "2026-08-05",
-    "targetProfile": "C/D"
+    "targetProfile": "C/D",
+    "email3": true,
+    "date3": "2026-10-27",
+    "emailFrozenUntil": "2027-04-25",
+    "emailCycleClosed": true
   },
   {
     "name": "THE VIEW",
@@ -7668,7 +7894,11 @@
     "date1": "2026-08-02",
     "email2": true,
     "date2": "2026-08-05",
-    "targetProfile": "C/D"
+    "targetProfile": "C/D",
+    "email3": true,
+    "date3": "2026-10-27",
+    "emailFrozenUntil": "2027-04-25",
+    "emailCycleClosed": true
   },
   {
     "name": "Bar do Bolinho",
@@ -7684,7 +7914,11 @@
     "date1": "2026-08-02",
     "email2": true,
     "date2": "2026-08-05",
-    "targetProfile": "C/D"
+    "targetProfile": "C/D",
+    "email3": true,
+    "date3": "2026-10-27",
+    "emailFrozenUntil": "2027-04-25",
+    "emailCycleClosed": true
   },
   {
     "name": "Imp├â┬®rio Lucena Grill ll",
@@ -7700,7 +7934,11 @@
     "date1": "2026-08-02",
     "email2": true,
     "date2": "2026-08-05",
-    "targetProfile": "C/D"
+    "targetProfile": "C/D",
+    "email3": true,
+    "date3": "2026-10-27",
+    "emailFrozenUntil": "2027-04-25",
+    "emailCycleClosed": true
   },
   {
     "name": "PRA TI FARIA",
@@ -7716,7 +7954,11 @@
     "date1": "2026-08-02",
     "email2": true,
     "date2": "2026-08-05",
-    "targetProfile": "C/D"
+    "targetProfile": "C/D",
+    "email3": true,
+    "date3": "2026-10-27",
+    "emailFrozenUntil": "2027-04-25",
+    "emailCycleClosed": true
   },
   {
     "name": "O Alquimista Bar",
@@ -7732,7 +7974,11 @@
     "date1": "2026-08-02",
     "email2": true,
     "date2": "2026-08-05",
-    "targetProfile": "C/D"
+    "targetProfile": "C/D",
+    "email3": true,
+    "date3": "2026-10-27",
+    "emailFrozenUntil": "2027-04-25",
+    "emailCycleClosed": true
   },
   {
     "name": "Bar Charles Edward",
@@ -7748,7 +7994,11 @@
     "date1": "2026-08-02",
     "email2": true,
     "date2": "2026-08-05",
-    "targetProfile": "C/D"
+    "targetProfile": "C/D",
+    "email3": true,
+    "date3": "2026-10-27",
+    "emailFrozenUntil": "2027-04-25",
+    "emailCycleClosed": true
   },
   {
     "name": "Kanoas Bar Brotas",
@@ -7764,7 +8014,11 @@
     "date1": "2026-08-02",
     "email2": true,
     "date2": "2026-08-05",
-    "targetProfile": "C/D"
+    "targetProfile": "C/D",
+    "email3": true,
+    "date3": "2026-10-27",
+    "emailFrozenUntil": "2027-04-25",
+    "emailCycleClosed": true
   },
   {
     "name": "Bar Posto 6",
@@ -7780,7 +8034,11 @@
     "date1": "2026-08-02",
     "email2": true,
     "date2": "2026-08-05",
-    "targetProfile": "C/D"
+    "targetProfile": "C/D",
+    "email3": true,
+    "date3": "2026-10-27",
+    "emailFrozenUntil": "2027-04-25",
+    "emailCycleClosed": true
   },
   {
     "name": "INFINI",
@@ -7796,7 +8054,11 @@
     "date1": "2026-08-02",
     "email2": true,
     "date2": "2026-08-05",
-    "targetProfile": "C/D"
+    "targetProfile": "C/D",
+    "email3": true,
+    "date3": "2026-10-27",
+    "emailFrozenUntil": "2027-04-25",
+    "emailCycleClosed": true
   },
   {
     "name": "Bar Choperia Op├â┬º├â┬úo",
@@ -7812,7 +8074,11 @@
     "date1": "2026-08-02",
     "email2": true,
     "date2": "2026-08-05",
-    "targetProfile": "C/D"
+    "targetProfile": "C/D",
+    "email3": true,
+    "date3": "2026-10-27",
+    "emailFrozenUntil": "2027-04-25",
+    "emailCycleClosed": true
   },
   {
     "name": "PROZARIA",
@@ -7828,7 +8094,11 @@
     "date1": "2026-08-02",
     "email2": true,
     "date2": "2026-08-05",
-    "targetProfile": "C/D"
+    "targetProfile": "C/D",
+    "email3": true,
+    "date3": "2026-10-27",
+    "emailFrozenUntil": "2027-04-25",
+    "emailCycleClosed": true
   },
   {
     "name": "Murruga Pizza Bar",
@@ -7844,7 +8114,11 @@
     "date1": "2026-08-02",
     "email2": true,
     "date2": "2026-08-05",
-    "targetProfile": "C/D"
+    "targetProfile": "C/D",
+    "email3": true,
+    "date3": "2026-10-27",
+    "emailFrozenUntil": "2027-04-25",
+    "emailCycleClosed": true
   },
   {
     "name": "GAROTA DA CH├â┬üCARA",
@@ -7860,7 +8134,11 @@
     "date1": "2026-08-02",
     "email2": true,
     "date2": "2026-08-05",
-    "targetProfile": "C/D"
+    "targetProfile": "C/D",
+    "email3": true,
+    "date3": "2026-10-27",
+    "emailFrozenUntil": "2027-04-25",
+    "emailCycleClosed": true
   },
   {
     "name": "Profissional Boteco",
@@ -7876,7 +8154,11 @@
     "date1": "2026-08-02",
     "email2": true,
     "date2": "2026-08-05",
-    "targetProfile": "C/D"
+    "targetProfile": "C/D",
+    "email3": true,
+    "date3": "2026-10-27",
+    "emailFrozenUntil": "2027-04-25",
+    "emailCycleClosed": true
   },
   {
     "name": "P├â┬ë DE MANGA",
@@ -7892,7 +8174,11 @@
     "date1": "2026-08-02",
     "email2": true,
     "date2": "2026-08-05",
-    "targetProfile": "C/D"
+    "targetProfile": "C/D",
+    "email3": true,
+    "date3": "2026-10-27",
+    "emailFrozenUntil": "2027-04-25",
+    "emailCycleClosed": true
   },
   {
     "name": "Croco Gastrobar",
@@ -7908,7 +8194,11 @@
     "date1": "2026-08-02",
     "email2": true,
     "date2": "2026-08-05",
-    "targetProfile": "C/D"
+    "targetProfile": "C/D",
+    "email3": true,
+    "date3": "2026-10-27",
+    "emailFrozenUntil": "2027-04-25",
+    "emailCycleClosed": true
   },
   {
     "name": "XEPA!",
@@ -7924,7 +8214,11 @@
     "date1": "2026-08-02",
     "email2": true,
     "date2": "2026-08-05",
-    "targetProfile": "C/D"
+    "targetProfile": "C/D",
+    "email3": true,
+    "date3": "2026-10-27",
+    "emailFrozenUntil": "2027-04-25",
+    "emailCycleClosed": true
   },
   {
     "name": "SURURU",
@@ -7940,7 +8234,11 @@
     "date1": "2026-08-02",
     "email2": true,
     "date2": "2026-08-05",
-    "targetProfile": "C/D"
+    "targetProfile": "C/D",
+    "email3": true,
+    "date3": "2026-10-27",
+    "emailFrozenUntil": "2027-04-25",
+    "emailCycleClosed": true
   },
   {
     "name": "SAMPA GRILL",
@@ -7956,7 +8254,11 @@
     "date1": "2026-08-02",
     "email2": true,
     "date2": "2026-08-05",
-    "targetProfile": "C/D"
+    "targetProfile": "C/D",
+    "email3": true,
+    "date3": "2026-10-27",
+    "emailFrozenUntil": "2027-04-25",
+    "emailCycleClosed": true
   },
   {
     "name": "BOTECO DE MANU",
@@ -7972,7 +8274,11 @@
     "date1": "2026-08-02",
     "email2": true,
     "date2": "2026-08-05",
-    "targetProfile": "C/D"
+    "targetProfile": "C/D",
+    "email3": true,
+    "date3": "2026-10-27",
+    "emailFrozenUntil": "2027-04-25",
+    "emailCycleClosed": true
   },
   {
     "name": "Bar Cheia de Manias",
@@ -7988,7 +8294,11 @@
     "date1": "2026-08-02",
     "email2": true,
     "date2": "2026-08-05",
-    "targetProfile": "C/D"
+    "targetProfile": "C/D",
+    "email3": true,
+    "date3": "2026-10-27",
+    "emailFrozenUntil": "2027-04-25",
+    "emailCycleClosed": true
   },
   {
     "name": "Sala Bar",
@@ -8004,7 +8314,11 @@
     "date1": "2026-08-02",
     "email2": true,
     "date2": "2026-08-05",
-    "targetProfile": "C/D"
+    "targetProfile": "C/D",
+    "email3": true,
+    "date3": "2026-10-27",
+    "emailFrozenUntil": "2027-04-25",
+    "emailCycleClosed": true
   },
   {
     "name": "Bar Cambar├â┬í",
@@ -8020,7 +8334,11 @@
     "date1": "2026-08-02",
     "email2": true,
     "date2": "2026-08-05",
-    "targetProfile": "C/D"
+    "targetProfile": "C/D",
+    "email3": true,
+    "date3": "2026-10-27",
+    "emailFrozenUntil": "2027-04-25",
+    "emailCycleClosed": true
   },
   {
     "name": "GOOD GAME E-SPORTS BAR",
@@ -8036,7 +8354,11 @@
     "date1": "2026-08-02",
     "email2": true,
     "date2": "2026-08-05",
-    "targetProfile": "C/D"
+    "targetProfile": "C/D",
+    "email3": true,
+    "date3": "2026-10-27",
+    "emailFrozenUntil": "2027-04-25",
+    "emailCycleClosed": true
   },
   {
     "name": "DUNAS BAR",
@@ -8052,7 +8374,11 @@
     "date1": "2026-08-02",
     "email2": true,
     "date2": "2026-08-05",
-    "targetProfile": "C/D"
+    "targetProfile": "C/D",
+    "email3": true,
+    "date3": "2026-10-27",
+    "emailFrozenUntil": "2027-04-25",
+    "emailCycleClosed": true
   },
   {
     "name": "Dom House Bar",
@@ -8068,7 +8394,11 @@
     "date1": "2026-08-02",
     "email2": true,
     "date2": "2026-08-05",
-    "targetProfile": "C/D"
+    "targetProfile": "C/D",
+    "email3": true,
+    "date3": "2026-10-27",
+    "emailFrozenUntil": "2027-04-25",
+    "emailCycleClosed": true
   },
   {
     "name": "Terrac├î┬ºo Gastrobar",
@@ -8084,7 +8414,11 @@
     "date1": "2026-08-02",
     "email2": true,
     "date2": "2026-08-05",
-    "targetProfile": "C/D"
+    "targetProfile": "C/D",
+    "email3": true,
+    "date3": "2026-10-27",
+    "emailFrozenUntil": "2027-04-25",
+    "emailCycleClosed": true
   },
   {
     "name": "Sport Music Bar Burguer ABC",
@@ -8100,7 +8434,11 @@
     "date1": "2026-08-02",
     "email2": true,
     "date2": "2026-08-05",
-    "targetProfile": "C/D"
+    "targetProfile": "C/D",
+    "email3": true,
+    "date3": "2026-10-27",
+    "emailFrozenUntil": "2027-04-25",
+    "emailCycleClosed": true
   },
   {
     "name": "Boteco do Porco",
@@ -8116,7 +8454,11 @@
     "date1": "2026-08-02",
     "email2": true,
     "date2": "2026-08-05",
-    "targetProfile": "C/D"
+    "targetProfile": "C/D",
+    "email3": true,
+    "date3": "2026-10-27",
+    "emailFrozenUntil": "2027-04-25",
+    "emailCycleClosed": true
   },
   {
     "name": "EUROPA BAR OFICIAL",
@@ -8132,7 +8474,11 @@
     "date1": "2026-08-02",
     "email2": true,
     "date2": "2026-08-05",
-    "targetProfile": "C/D"
+    "targetProfile": "C/D",
+    "email3": true,
+    "date3": "2026-10-27",
+    "emailFrozenUntil": "2027-04-25",
+    "emailCycleClosed": true
   },
   {
     "name": "Boteco Maria",
@@ -8148,7 +8494,11 @@
     "date1": "2026-08-02",
     "email2": true,
     "date2": "2026-08-05",
-    "targetProfile": "C/D"
+    "targetProfile": "C/D",
+    "email3": true,
+    "date3": "2026-10-27",
+    "emailFrozenUntil": "2027-04-25",
+    "emailCycleClosed": true
   },
   {
     "name": "Zanga├î┬âo Bar e Restaurante",
@@ -8164,7 +8514,11 @@
     "date1": "2026-08-02",
     "email2": true,
     "date2": "2026-08-05",
-    "targetProfile": "C/D"
+    "targetProfile": "C/D",
+    "email3": true,
+    "date3": "2026-10-27",
+    "emailFrozenUntil": "2027-04-25",
+    "emailCycleClosed": true
   },
   {
     "name": "Mocergo",
@@ -8180,7 +8534,11 @@
     "date1": "2026-08-02",
     "email2": true,
     "date2": "2026-08-05",
-    "targetProfile": "C/D"
+    "targetProfile": "C/D",
+    "email3": true,
+    "date3": "2026-10-27",
+    "emailFrozenUntil": "2027-04-25",
+    "emailCycleClosed": true
   },
   {
     "name": "Xerife Espetinhos SCS",
@@ -8196,7 +8554,11 @@
     "date1": "2026-08-02",
     "email2": true,
     "date2": "2026-08-05",
-    "targetProfile": "C/D"
+    "targetProfile": "C/D",
+    "email3": true,
+    "date3": "2026-10-27",
+    "emailFrozenUntil": "2027-04-25",
+    "emailCycleClosed": true
   },
   {
     "name": "SPETUS BAR",
@@ -8212,7 +8574,11 @@
     "date1": "2026-08-02",
     "email2": true,
     "date2": "2026-08-05",
-    "targetProfile": "C/D"
+    "targetProfile": "C/D",
+    "email3": true,
+    "date3": "2026-10-27",
+    "emailFrozenUntil": "2027-04-25",
+    "emailCycleClosed": true
   },
   {
     "name": "Container 101",
@@ -8228,7 +8594,11 @@
     "date1": "2026-08-02",
     "email2": true,
     "date2": "2026-08-05",
-    "targetProfile": "C/D"
+    "targetProfile": "C/D",
+    "email3": true,
+    "date3": "2026-10-27",
+    "emailFrozenUntil": "2027-04-25",
+    "emailCycleClosed": true
   },
   {
     "name": "Boteco Rabo de Saia - SBC",
@@ -8244,7 +8614,11 @@
     "date1": "2026-08-02",
     "email2": true,
     "date2": "2026-08-05",
-    "targetProfile": "C/D"
+    "targetProfile": "C/D",
+    "email3": true,
+    "date3": "2026-10-27",
+    "emailFrozenUntil": "2027-04-25",
+    "emailCycleClosed": true
   },
   {
     "name": "Manduca Bar",
@@ -8260,7 +8634,11 @@
     "date1": "2026-08-02",
     "email2": true,
     "date2": "2026-08-05",
-    "targetProfile": "C/D"
+    "targetProfile": "C/D",
+    "email3": true,
+    "date3": "2026-10-27",
+    "emailFrozenUntil": "2027-04-25",
+    "emailCycleClosed": true
   },
   {
     "name": "Bar Central",
@@ -8276,7 +8654,11 @@
     "date1": "2026-08-02",
     "email2": true,
     "date2": "2026-08-05",
-    "targetProfile": "C/D"
+    "targetProfile": "C/D",
+    "email3": true,
+    "date3": "2026-10-27",
+    "emailFrozenUntil": "2027-04-25",
+    "emailCycleClosed": true
   },
   {
     "name": "Boteco Casar├â┬úo",
