@@ -10660,7 +10660,11 @@
     "date1": "2026-08-02",
     "email2": true,
     "date2": "2026-08-06",
-    "targetProfile": "C/D"
+    "targetProfile": "C/D",
+    "email3": true,
+    "date3": "2026-10-27",
+    "emailFrozenUntil": "2027-04-25",
+    "emailCycleClosed": true
   },
   {
     "name": "Cantina da Conchetta",
@@ -10676,7 +10680,11 @@
     "date1": "2026-08-02",
     "email2": true,
     "date2": "2026-08-06",
-    "targetProfile": "C/D"
+    "targetProfile": "C/D",
+    "email3": true,
+    "date3": "2026-10-27",
+    "emailFrozenUntil": "2027-04-25",
+    "emailCycleClosed": true
   },
   {
     "name": "Cantina Lo Spaghetto",
@@ -10692,7 +10700,11 @@
     "date1": "2026-08-02",
     "email2": true,
     "date2": "2026-08-06",
-    "targetProfile": "C/D"
+    "targetProfile": "C/D",
+    "email3": true,
+    "date3": "2026-10-27",
+    "emailFrozenUntil": "2027-04-25",
+    "emailCycleClosed": true
   },
   {
     "name": "Cena Restaurante",
@@ -10708,7 +10720,11 @@
     "date1": "2026-08-02",
     "email2": true,
     "date2": "2026-08-06",
-    "targetProfile": "C/D"
+    "targetProfile": "C/D",
+    "email3": true,
+    "date3": "2026-10-27",
+    "emailFrozenUntil": "2027-04-25",
+    "emailCycleClosed": true
   },
   {
     "name": "Charles Dog",
@@ -10724,7 +10740,11 @@
     "date1": "2026-08-02",
     "email2": true,
     "date2": "2026-08-06",
-    "targetProfile": "C/D"
+    "targetProfile": "C/D",
+    "email3": true,
+    "date3": "2026-10-27",
+    "emailFrozenUntil": "2027-04-25",
+    "emailCycleClosed": true
   },
   {
     "name": "CHEF BENON",
@@ -10740,7 +10760,11 @@
     "date1": "2026-08-02",
     "email2": true,
     "date2": "2026-08-06",
-    "targetProfile": "C/D"
+    "targetProfile": "C/D",
+    "email3": true,
+    "date3": "2026-10-27",
+    "emailFrozenUntil": "2027-04-25",
+    "emailCycleClosed": true
   },
   {
     "name": "Chico Restaurante",
@@ -10756,7 +10780,11 @@
     "date1": "2026-08-02",
     "email2": true,
     "date2": "2026-08-06",
-    "targetProfile": "C/D"
+    "targetProfile": "C/D",
+    "email3": true,
+    "date3": "2026-10-27",
+    "emailFrozenUntil": "2027-04-25",
+    "emailCycleClosed": true
   },
   {
     "name": "Churrascaria & Pizzaria Nonnas Paola",
@@ -10772,7 +10800,11 @@
     "date1": "2026-08-02",
     "email2": true,
     "date2": "2026-08-06",
-    "targetProfile": "C/D"
+    "targetProfile": "C/D",
+    "email3": true,
+    "date3": "2026-10-27",
+    "emailFrozenUntil": "2027-04-25",
+    "emailCycleClosed": true
   },
   {
     "name": "Haraganos Beef",
@@ -10788,7 +10820,11 @@
     "date1": "2026-08-02",
     "email2": true,
     "date2": "2026-08-06",
-    "targetProfile": "C/D"
+    "targetProfile": "C/D",
+    "email3": true,
+    "date3": "2026-10-27",
+    "emailFrozenUntil": "2027-04-25",
+    "emailCycleClosed": true
   },
   {
     "name": "Costela da Vila",
@@ -10804,7 +10840,11 @@
     "date1": "2026-08-02",
     "email2": true,
     "date2": "2026-08-06",
-    "targetProfile": "C/D"
+    "targetProfile": "C/D",
+    "email3": true,
+    "date3": "2026-10-27",
+    "emailFrozenUntil": "2027-04-25",
+    "emailCycleClosed": true
   },
   {
     "name": "Creme de La Creme Doceria",
@@ -10820,7 +10860,11 @@
     "date1": "2026-08-02",
     "email2": true,
     "date2": "2026-08-06",
-    "targetProfile": "C/D"
+    "targetProfile": "C/D",
+    "email3": true,
+    "date3": "2026-10-27",
+    "emailFrozenUntil": "2027-04-25",
+    "emailCycleClosed": true
   },
   {
     "name": "Delicious Doceria",
@@ -10836,7 +10880,11 @@
     "date1": "2026-08-02",
     "email2": true,
     "date2": "2026-08-06",
-    "targetProfile": "C/D"
+    "targetProfile": "C/D",
+    "email3": true,
+    "date3": "2026-10-27",
+    "emailFrozenUntil": "2027-04-25",
+    "emailCycleClosed": true
   },
   {
     "name": "Strudel Caf├â┬® Oma Hedy",
@@ -10852,7 +10900,11 @@
     "date1": "2026-08-02",
     "email2": true,
     "date2": "2026-08-06",
-    "targetProfile": "C/D"
+    "targetProfile": "C/D",
+    "email3": true,
+    "date3": "2026-10-27",
+    "emailFrozenUntil": "2027-04-25",
+    "emailCycleClosed": true
   },
   {
     "name": "DES CUCINA",
@@ -10868,7 +10920,11 @@
     "date1": "2026-08-02",
     "email2": true,
     "date2": "2026-08-06",
-    "targetProfile": "C/D"
+    "targetProfile": "C/D",
+    "email3": true,
+    "date3": "2026-10-27",
+    "emailFrozenUntil": "2027-04-25",
+    "emailCycleClosed": true
   },
   {
     "name": "DESEMBARGADOR BAR",
@@ -10884,7 +10940,11 @@
     "date1": "2026-08-02",
     "email2": true,
     "date2": "2026-08-06",
-    "targetProfile": "C/D"
+    "targetProfile": "C/D",
+    "email3": true,
+    "date3": "2026-10-27",
+    "emailFrozenUntil": "2027-04-25",
+    "emailCycleClosed": true
   },
   {
     "name": "CHOCOLATES DI SIENA",
@@ -10900,7 +10960,11 @@
     "date1": "2026-08-02",
     "email2": true,
     "date2": "2026-08-06",
-    "targetProfile": "C/D"
+    "targetProfile": "C/D",
+    "email3": true,
+    "date3": "2026-10-27",
+    "emailFrozenUntil": "2027-04-25",
+    "emailCycleClosed": true
   },
   {
     "name": "Dinho's",
@@ -10916,7 +10980,11 @@
     "date1": "2026-08-02",
     "email2": true,
     "date2": "2026-08-06",
-    "targetProfile": "C/D"
+    "targetProfile": "C/D",
+    "email3": true,
+    "date3": "2026-10-27",
+    "emailFrozenUntil": "2027-04-25",
+    "emailCycleClosed": true
   },
   {
     "name": "Doce de Laura",
@@ -10932,7 +11000,11 @@
     "date1": "2026-08-02",
     "email2": true,
     "date2": "2026-08-06",
-    "targetProfile": "C/D"
+    "targetProfile": "C/D",
+    "email3": true,
+    "date3": "2026-10-27",
+    "emailFrozenUntil": "2027-04-25",
+    "emailCycleClosed": true
   },
   {
     "name": "Doce Pecado",
@@ -10948,7 +11020,11 @@
     "date1": "2026-08-02",
     "email2": true,
     "date2": "2026-08-06",
-    "targetProfile": "C/D"
+    "targetProfile": "C/D",
+    "email3": true,
+    "date3": "2026-10-27",
+    "emailFrozenUntil": "2027-04-25",
+    "emailCycleClosed": true
   },
   {
     "name": "Doceria Del├â┬¡cia",
@@ -10964,7 +11040,11 @@
     "date1": "2026-08-02",
     "email2": true,
     "date2": "2026-08-06",
-    "targetProfile": "C/D"
+    "targetProfile": "C/D",
+    "email3": true,
+    "date3": "2026-10-27",
+    "emailFrozenUntil": "2027-04-25",
+    "emailCycleClosed": true
   },
   {
     "name": "Dog├â┬úo de Maring├â┬í - Hot Dog's Prensados",
@@ -10980,7 +11060,11 @@
     "date1": "2026-08-02",
     "email2": true,
     "date2": "2026-08-06",
-    "targetProfile": "C/D"
+    "targetProfile": "C/D",
+    "email3": true,
+    "date3": "2026-10-27",
+    "emailFrozenUntil": "2027-04-25",
+    "emailCycleClosed": true
   },
   {
     "name": "Dona Augusta",
@@ -10996,7 +11080,11 @@
     "date1": "2026-08-02",
     "email2": true,
     "date2": "2026-08-06",
-    "targetProfile": "C/D"
+    "targetProfile": "C/D",
+    "email3": true,
+    "date3": "2026-10-27",
+    "emailFrozenUntil": "2027-04-25",
+    "emailCycleClosed": true
   },
   {
     "name": "DONA FLORINDA",
@@ -11012,7 +11100,11 @@
     "date1": "2026-08-02",
     "email2": true,
     "date2": "2026-08-06",
-    "targetProfile": "C/D"
+    "targetProfile": "C/D",
+    "email3": true,
+    "date3": "2026-10-27",
+    "emailFrozenUntil": "2027-04-25",
+    "emailCycleClosed": true
   },
   {
     "name": "Espetto Carioca",
@@ -11028,7 +11120,11 @@
     "date1": "2026-08-02",
     "email2": true,
     "date2": "2026-08-06",
-    "targetProfile": "C/D"
+    "targetProfile": "C/D",
+    "email3": true,
+    "date3": "2026-10-27",
+    "emailFrozenUntil": "2027-04-25",
+    "emailCycleClosed": true
   },
   {
     "name": "Empanadas Bar",
@@ -11044,7 +11140,11 @@
     "date1": "2026-08-02",
     "email2": true,
     "date2": "2026-08-06",
-    "targetProfile": "C/D"
+    "targetProfile": "C/D",
+    "email3": true,
+    "date3": "2026-10-27",
+    "emailFrozenUntil": "2027-04-25",
+    "emailCycleClosed": true
   },
   {
     "name": "Fioretta Doceria",
@@ -11060,7 +11160,11 @@
     "date1": "2026-08-02",
     "email2": true,
     "date2": "2026-08-06",
-    "targetProfile": "C/D"
+    "targetProfile": "C/D",
+    "email3": true,
+    "date3": "2026-10-27",
+    "emailFrozenUntil": "2027-04-25",
+    "emailCycleClosed": true
   },
   {
     "name": "GAMELA",
@@ -11076,7 +11180,11 @@
     "date1": "2026-08-02",
     "email2": true,
     "date2": "2026-08-06",
-    "targetProfile": "C/D"
+    "targetProfile": "C/D",
+    "email3": true,
+    "date3": "2026-10-27",
+    "emailFrozenUntil": "2027-04-25",
+    "emailCycleClosed": true
   },
   {
     "name": "GIARDINI BUFFETS",
@@ -11092,7 +11200,11 @@
     "date1": "2026-08-02",
     "email2": true,
     "date2": "2026-08-06",
-    "targetProfile": "C/D"
+    "targetProfile": "C/D",
+    "email3": true,
+    "date3": "2026-10-27",
+    "emailFrozenUntil": "2027-04-25",
+    "emailCycleClosed": true
   },
   {
     "name": "GOLDEN PLAZA CHINESE RESTAURANTE",
@@ -11108,7 +11220,11 @@
     "date1": "2026-08-02",
     "email2": true,
     "date2": "2026-08-06",
-    "targetProfile": "C/D"
+    "targetProfile": "C/D",
+    "email3": true,
+    "date3": "2026-10-27",
+    "emailFrozenUntil": "2027-04-25",
+    "emailCycleClosed": true
   },
   {
     "name": "Hou Culin├â┬íria Chinesa",
@@ -11124,7 +11240,11 @@
     "date1": "2026-08-02",
     "email2": true,
     "date2": "2026-08-06",
-    "targetProfile": "C/D"
+    "targetProfile": "C/D",
+    "email3": true,
+    "date3": "2026-10-27",
+    "emailFrozenUntil": "2027-04-25",
+    "emailCycleClosed": true
   },
   {
     "name": "La Paella Express",
@@ -11140,7 +11260,11 @@
     "date1": "2026-08-02",
     "email2": true,
     "date2": "2026-08-06",
-    "targetProfile": "C/D"
+    "targetProfile": "C/D",
+    "email3": true,
+    "date3": "2026-10-27",
+    "emailFrozenUntil": "2027-04-25",
+    "emailCycleClosed": true
   },
   {
     "name": "Lagoa Tropical",
@@ -11156,7 +11280,11 @@
     "date1": "2026-08-02",
     "email2": true,
     "date2": "2026-08-06",
-    "targetProfile": "C/D"
+    "targetProfile": "C/D",
+    "email3": true,
+    "date3": "2026-10-27",
+    "emailFrozenUntil": "2027-04-25",
+    "emailCycleClosed": true
   },
   {
     "name": "Nandemoy├â┬í",
@@ -11172,7 +11300,11 @@
     "date1": "2026-08-02",
     "email2": true,
     "date2": "2026-08-06",
-    "targetProfile": "C/D"
+    "targetProfile": "C/D",
+    "email3": true,
+    "date3": "2026-10-27",
+    "emailFrozenUntil": "2027-04-25",
+    "emailCycleClosed": true
   },
   {
     "name": "O Compadre",
@@ -11188,7 +11320,11 @@
     "date1": "2026-08-02",
     "email2": true,
     "date2": "2026-08-06",
-    "targetProfile": "C/D"
+    "targetProfile": "C/D",
+    "email3": true,
+    "date3": "2026-10-27",
+    "emailFrozenUntil": "2027-04-25",
+    "emailCycleClosed": true
   },
   {
     "name": "O Gato Que Ri",
@@ -11204,7 +11340,11 @@
     "date1": "2026-08-02",
     "email2": true,
     "date2": "2026-08-06",
-    "targetProfile": "C/D"
+    "targetProfile": "C/D",
+    "email3": true,
+    "date3": "2026-10-27",
+    "emailFrozenUntil": "2027-04-25",
+    "emailCycleClosed": true
   },
   {
     "name": "PARRILLA ARGENTINA",
@@ -11220,7 +11360,11 @@
     "date1": "2026-08-02",
     "email2": true,
     "date2": "2026-08-06",
-    "targetProfile": "C/D"
+    "targetProfile": "C/D",
+    "email3": true,
+    "date3": "2026-10-27",
+    "emailFrozenUntil": "2027-04-25",
+    "emailCycleClosed": true
   },
   {
     "name": "Porto Fino Cucina Italiana",
@@ -11236,7 +11380,11 @@
     "date1": "2026-08-02",
     "email2": true,
     "date2": "2026-08-06",
-    "targetProfile": "C/D"
+    "targetProfile": "C/D",
+    "email3": true,
+    "date3": "2026-10-27",
+    "emailFrozenUntil": "2027-04-25",
+    "emailCycleClosed": true
   },
   {
     "name": "Rep├â┬║blica Gastron├â┬┤mica",
@@ -11252,7 +11400,11 @@
     "date1": "2026-08-02",
     "email2": true,
     "date2": "2026-08-06",
-    "targetProfile": "C/D"
+    "targetProfile": "C/D",
+    "email3": true,
+    "date3": "2026-10-27",
+    "emailFrozenUntil": "2027-04-25",
+    "emailCycleClosed": true
   },
   {
     "name": "Reserva Pinheiros",
@@ -11268,7 +11420,11 @@
     "date1": "2026-08-02",
     "email2": true,
     "date2": "2026-08-06",
-    "targetProfile": "C/D"
+    "targetProfile": "C/D",
+    "email3": true,
+    "date3": "2026-10-27",
+    "emailFrozenUntil": "2027-04-25",
+    "emailCycleClosed": true
   },
   {
     "name": "Restaurante Die Meister Stube",
@@ -11284,7 +11440,11 @@
     "date1": "2026-08-02",
     "email2": true,
     "date2": "2026-08-06",
-    "targetProfile": "C/D"
+    "targetProfile": "C/D",
+    "email3": true,
+    "date3": "2026-10-27",
+    "emailFrozenUntil": "2027-04-25",
+    "emailCycleClosed": true
   },
   {
     "name": "SEOK JOUNG",
@@ -11300,7 +11460,11 @@
     "date1": "2026-08-02",
     "email2": true,
     "date2": "2026-08-06",
-    "targetProfile": "C/D"
+    "targetProfile": "C/D",
+    "email3": true,
+    "date3": "2026-10-27",
+    "emailFrozenUntil": "2027-04-25",
+    "emailCycleClosed": true
   },
   {
     "name": "South's Place Churrascaria",
@@ -11316,7 +11480,11 @@
     "date1": "2026-08-02",
     "email2": true,
     "date2": "2026-08-06",
-    "targetProfile": "C/D"
+    "targetProfile": "C/D",
+    "email3": true,
+    "date3": "2026-10-27",
+    "emailFrozenUntil": "2027-04-25",
+    "emailCycleClosed": true
   },
   {
     "name": "Strike Grill",
@@ -11332,7 +11500,11 @@
     "date1": "2026-08-02",
     "email2": true,
     "date2": "2026-08-06",
-    "targetProfile": "C/D"
+    "targetProfile": "C/D",
+    "email3": true,
+    "date3": "2026-10-27",
+    "emailFrozenUntil": "2027-04-25",
+    "emailCycleClosed": true
   },
   {
     "name": "Tokunfome Costelaria",
@@ -11348,7 +11520,11 @@
     "date1": "2026-08-02",
     "email2": true,
     "date2": "2026-08-06",
-    "targetProfile": "C/D"
+    "targetProfile": "C/D",
+    "email3": true,
+    "date3": "2026-10-27",
+    "emailFrozenUntil": "2027-04-25",
+    "emailCycleClosed": true
   },
   {
     "name": "Vai de Gosto",
@@ -11364,7 +11540,11 @@
     "date1": "2026-08-02",
     "email2": true,
     "date2": "2026-08-06",
-    "targetProfile": "C/D"
+    "targetProfile": "C/D",
+    "email3": true,
+    "date3": "2026-10-27",
+    "emailFrozenUntil": "2027-04-25",
+    "emailCycleClosed": true
   },
   {
     "name": "Vila das Meninas",
@@ -11380,7 +11560,11 @@
     "date1": "2026-08-02",
     "email2": true,
     "date2": "2026-08-06",
-    "targetProfile": "C/D"
+    "targetProfile": "C/D",
+    "email3": true,
+    "date3": "2026-10-27",
+    "emailFrozenUntil": "2027-04-25",
+    "emailCycleClosed": true
   },
   {
     "name": "NB Steak",
@@ -11396,7 +11580,11 @@
     "date1": "2026-08-02",
     "email2": true,
     "date2": "2026-08-06",
-    "targetProfile": "C/D"
+    "targetProfile": "C/D",
+    "email3": true,
+    "date3": "2026-10-27",
+    "emailFrozenUntil": "2027-04-25",
+    "emailCycleClosed": true
   },
   {
     "name": "TAQUER├â┬ìA LA SABROSA",
@@ -11412,7 +11600,11 @@
     "date1": "2026-08-02",
     "email2": true,
     "date2": "2026-08-06",
-    "targetProfile": "C/D"
+    "targetProfile": "C/D",
+    "email3": true,
+    "date3": "2026-10-27",
+    "emailFrozenUntil": "2027-04-25",
+    "emailCycleClosed": true
   },
   {
     "name": "FUTURO REFEIT├â┬ôRIO",
@@ -11428,7 +11620,11 @@
     "date1": "2026-08-02",
     "email2": true,
     "date2": "2026-08-06",
-    "targetProfile": "C/D"
+    "targetProfile": "C/D",
+    "email3": true,
+    "date3": "2026-10-27",
+    "emailFrozenUntil": "2027-04-25",
+    "emailCycleClosed": true
   },
   {
     "name": "MESTRE QUEIJEIRO",
@@ -11444,7 +11640,11 @@
     "date1": "2026-08-02",
     "email2": true,
     "date2": "2026-08-06",
-    "targetProfile": "C/D"
+    "targetProfile": "C/D",
+    "email3": true,
+    "date3": "2026-10-27",
+    "emailFrozenUntil": "2027-04-25",
+    "emailCycleClosed": true
   },
   {
     "name": "ENOSTERIA VINO E CUCINA",
@@ -11460,7 +11660,11 @@
     "date1": "2026-08-03",
     "email2": true,
     "date2": "2026-08-06",
-    "targetProfile": "C/D"
+    "targetProfile": "C/D",
+    "email3": true,
+    "date3": "2026-10-27",
+    "emailFrozenUntil": "2027-04-25",
+    "emailCycleClosed": true
   },
   {
     "name": "VECCHIO TORINO",
@@ -11476,7 +11680,11 @@
     "date1": "2026-08-03",
     "email2": true,
     "date2": "2026-08-06",
-    "targetProfile": "C/D"
+    "targetProfile": "C/D",
+    "email3": true,
+    "date3": "2026-10-27",
+    "emailFrozenUntil": "2027-04-25",
+    "emailCycleClosed": true
   },
   {
     "name": "FIT├â┬ô",
@@ -11492,7 +11700,11 @@
     "date1": "2026-08-03",
     "email2": true,
     "date2": "2026-08-06",
-    "targetProfile": "C/D"
+    "targetProfile": "C/D",
+    "email3": true,
+    "date3": "2026-10-27",
+    "emailFrozenUntil": "2027-04-25",
+    "emailCycleClosed": true
   },
   {
     "name": "KEZ BAGEL & CAF├â┬ë",
@@ -11508,7 +11720,11 @@
     "date1": "2026-08-03",
     "email2": true,
     "date2": "2026-08-06",
-    "targetProfile": "C/D"
+    "targetProfile": "C/D",
+    "email3": true,
+    "date3": "2026-10-27",
+    "emailFrozenUntil": "2027-04-25",
+    "emailCycleClosed": true
   },
   {
     "name": "MARIA CRISTINA DOCES",
@@ -11524,7 +11740,11 @@
     "date1": "2026-08-03",
     "email2": true,
     "date2": "2026-08-06",
-    "targetProfile": "C/D"
+    "targetProfile": "C/D",
+    "email3": true,
+    "date3": "2026-10-27",
+    "emailFrozenUntil": "2027-04-25",
+    "emailCycleClosed": true
   },
   {
     "name": "MADUREIRA SUCOS",
@@ -11540,7 +11760,11 @@
     "date1": "2026-08-03",
     "email2": true,
     "date2": "2026-08-06",
-    "targetProfile": "C/D"
+    "targetProfile": "C/D",
+    "email3": true,
+    "date3": "2026-10-27",
+    "emailFrozenUntil": "2027-04-25",
+    "emailCycleClosed": true
   },
   {
     "name": "VARAL 87",
@@ -11556,7 +11780,11 @@
     "date1": "2026-08-03",
     "email2": true,
     "date2": "2026-08-06",
-    "targetProfile": "C/D"
+    "targetProfile": "C/D",
+    "email3": true,
+    "date3": "2026-10-27",
+    "emailFrozenUntil": "2027-04-25",
+    "emailCycleClosed": true
   },
   {
     "name": "BOTANIKAF├â┬ë",
@@ -62740,9 +62968,10 @@
     "emailVerifiedAt": "2026-10-27",
     "mxVerified": true,
     "template": "consultivo",
-    "email1": false,
+    "email1": true,
     "context": "Adega em Pinheiros, Mercado de Pinheiros",
-    "targetProfile": "A/B"
+    "targetProfile": "A/B",
+    "date1": "2026-10-27"
   },
   {
     "name": "L'Adega Pinheiros",
@@ -62756,9 +62985,10 @@
     "emailVerifiedAt": "2026-10-27",
     "mxVerified": true,
     "template": "consultivo",
-    "email1": false,
+    "email1": true,
     "context": "Adega em Pinheiros, Rua Pedro Cristi 89",
-    "targetProfile": "A/B"
+    "targetProfile": "A/B",
+    "date1": "2026-10-27"
   },
   {
     "name": "Bar Zona Oeste Pinheiros",
@@ -62772,9 +63002,10 @@
     "emailVerifiedAt": "2026-10-27",
     "mxVerified": true,
     "template": "consultivo",
-    "email1": false,
+    "email1": true,
     "context": "Bar em Pinheiros",
-    "targetProfile": "A/B"
+    "targetProfile": "A/B",
+    "date1": "2026-10-27"
   },
   {
     "name": "Adega São Paulo Pinheiros",
@@ -62788,9 +63019,10 @@
     "emailVerifiedAt": "2026-10-27",
     "mxVerified": true,
     "template": "consultivo",
-    "email1": false,
+    "email1": true,
     "context": "Adega em Pinheiros",
-    "targetProfile": "A/B"
+    "targetProfile": "A/B",
+    "date1": "2026-10-27"
   },
   {
     "name": "Bar Moema SP",
@@ -62804,9 +63036,10 @@
     "emailVerifiedAt": "2026-10-27",
     "mxVerified": true,
     "template": "consultivo",
-    "email1": false,
+    "email1": true,
     "context": "Bar em Moema, São Paulo",
-    "targetProfile": "A/B"
+    "targetProfile": "A/B",
+    "date1": "2026-10-27"
   },
   {
     "name": "Restaurante Itaim SP",
@@ -62820,9 +63053,10 @@
     "emailVerifiedAt": "2026-10-27",
     "mxVerified": true,
     "template": "consultivo",
-    "email1": false,
+    "email1": true,
     "context": "Restaurante em Itaim Bibi, São Paulo",
-    "targetProfile": "A/B"
+    "targetProfile": "A/B",
+    "date1": "2026-10-27"
   },
   {
     "name": "Balada Vila Olímpia SP",
@@ -62836,9 +63070,10 @@
     "emailVerifiedAt": "2026-10-27",
     "mxVerified": true,
     "template": "consultivo",
-    "email1": false,
+    "email1": true,
     "context": "Balada em Vila Olímpia, São Paulo",
-    "targetProfile": "A/B"
+    "targetProfile": "A/B",
+    "date1": "2026-10-27"
   },
   {
     "name": "Distribuidora Bebidas SP",
@@ -62852,9 +63087,10 @@
     "emailVerifiedAt": "2026-10-27",
     "mxVerified": true,
     "template": "consultivo",
-    "email1": false,
+    "email1": true,
     "context": "Distribuidora de bebidas em São Paulo",
-    "targetProfile": "A/B"
+    "targetProfile": "A/B",
+    "date1": "2026-10-27"
   },
   {
     "name": "Cafeteria Pinheiros SP",
@@ -62868,9 +63104,10 @@
     "emailVerifiedAt": "2026-10-27",
     "mxVerified": true,
     "template": "consultivo",
-    "email1": false,
+    "email1": true,
     "context": "Cafeteria em Pinheiros, São Paulo",
-    "targetProfile": "A/B"
+    "targetProfile": "A/B",
+    "date1": "2026-10-27"
   },
   {
     "name": "Confeitaria Itaim SP",
@@ -62884,9 +63121,10 @@
     "emailVerifiedAt": "2026-10-27",
     "mxVerified": true,
     "template": "consultivo",
-    "email1": false,
+    "email1": true,
     "context": "Confeitaria em Itaim Bibi, São Paulo",
-    "targetProfile": "A/B"
+    "targetProfile": "A/B",
+    "date1": "2026-10-27"
   },
   {
     "name": "Hamburgueria Pinheiros SP",
@@ -62900,9 +63138,10 @@
     "emailVerifiedAt": "2026-10-27",
     "mxVerified": true,
     "template": "consultivo",
-    "email1": false,
+    "email1": true,
     "context": "Hamburgueria em Pinheiros, São Paulo",
-    "targetProfile": "A/B"
+    "targetProfile": "A/B",
+    "date1": "2026-10-27"
   },
   {
     "name": "Pizzaria Moema SP",
@@ -62916,9 +63155,10 @@
     "emailVerifiedAt": "2026-10-27",
     "mxVerified": true,
     "template": "consultivo",
-    "email1": false,
+    "email1": true,
     "context": "Pizzaria em Moema, São Paulo",
-    "targetProfile": "A/B"
+    "targetProfile": "A/B",
+    "date1": "2026-10-27"
   },
   {
     "name": "Doceria Vila Olímpia SP",
@@ -62932,9 +63172,10 @@
     "emailVerifiedAt": "2026-10-27",
     "mxVerified": true,
     "template": "consultivo",
-    "email1": false,
+    "email1": true,
     "context": "Doceria em Vila Olímpia, São Paulo",
-    "targetProfile": "A/B"
+    "targetProfile": "A/B",
+    "date1": "2026-10-27"
   },
   {
     "name": "Bar Jardins SP",
@@ -62948,9 +63189,10 @@
     "emailVerifiedAt": "2026-10-27",
     "mxVerified": true,
     "template": "consultivo",
-    "email1": false,
+    "email1": true,
     "context": "Bar em Jardins, São Paulo",
-    "targetProfile": "A/B"
+    "targetProfile": "A/B",
+    "date1": "2026-10-27"
   },
   {
     "name": "Restaurante Pinheiros SP",
@@ -62964,9 +63206,10 @@
     "emailVerifiedAt": "2026-10-27",
     "mxVerified": true,
     "template": "consultivo",
-    "email1": false,
+    "email1": true,
     "context": "Restaurante em Pinheiros, São Paulo",
-    "targetProfile": "A/B"
+    "targetProfile": "A/B",
+    "date1": "2026-10-27"
   },
   {
     "name": "Balada Pinheiros SP",
@@ -62980,9 +63223,10 @@
     "emailVerifiedAt": "2026-10-27",
     "mxVerified": true,
     "template": "consultivo",
-    "email1": false,
+    "email1": true,
     "context": "Balada em Pinheiros, São Paulo",
-    "targetProfile": "A/B"
+    "targetProfile": "A/B",
+    "date1": "2026-10-27"
   },
   {
     "name": "Distribuidora Itaim SP",
@@ -62996,9 +63240,10 @@
     "emailVerifiedAt": "2026-10-27",
     "mxVerified": true,
     "template": "consultivo",
-    "email1": false,
+    "email1": true,
     "context": "Distribuidora em Itaim Bibi, São Paulo",
-    "targetProfile": "A/B"
+    "targetProfile": "A/B",
+    "date1": "2026-10-27"
   },
   {
     "name": "Cafeteria Itaim SP",
@@ -63012,9 +63257,10 @@
     "emailVerifiedAt": "2026-10-27",
     "mxVerified": true,
     "template": "consultivo",
-    "email1": false,
+    "email1": true,
     "context": "Cafeteria em Itaim Bibi, São Paulo",
-    "targetProfile": "A/B"
+    "targetProfile": "A/B",
+    "date1": "2026-10-27"
   },
   {
     "name": "Confeitaria Pinheiros SP",
@@ -63028,9 +63274,10 @@
     "emailVerifiedAt": "2026-10-27",
     "mxVerified": true,
     "template": "consultivo",
-    "email1": false,
+    "email1": true,
     "context": "Confeitaria em Pinheiros, São Paulo",
-    "targetProfile": "A/B"
+    "targetProfile": "A/B",
+    "date1": "2026-10-27"
   },
   {
     "name": "Hamburgueria Itaim SP",
@@ -63044,9 +63291,10 @@
     "emailVerifiedAt": "2026-10-27",
     "mxVerified": true,
     "template": "consultivo",
-    "email1": false,
+    "email1": true,
     "context": "Hamburgueria em Itaim Bibi, São Paulo",
-    "targetProfile": "A/B"
+    "targetProfile": "A/B",
+    "date1": "2026-10-27"
   },
   {
     "name": "Pizzaria Pinheiros SP",
@@ -63060,9 +63308,10 @@
     "emailVerifiedAt": "2026-10-27",
     "mxVerified": true,
     "template": "consultivo",
-    "email1": false,
+    "email1": true,
     "context": "Pizzaria em Pinheiros, São Paulo",
-    "targetProfile": "A/B"
+    "targetProfile": "A/B",
+    "date1": "2026-10-27"
   },
   {
     "name": "Doceria Pinheiros SP",
@@ -63076,9 +63325,10 @@
     "emailVerifiedAt": "2026-10-27",
     "mxVerified": true,
     "template": "consultivo",
-    "email1": false,
+    "email1": true,
     "context": "Doceria em Pinheiros, São Paulo",
-    "targetProfile": "A/B"
+    "targetProfile": "A/B",
+    "date1": "2026-10-27"
   },
   {
     "name": "Adega Jardins SP",
@@ -63092,9 +63342,10 @@
     "emailVerifiedAt": "2026-10-27",
     "mxVerified": true,
     "template": "consultivo",
-    "email1": false,
+    "email1": true,
     "context": "Adega em Jardins, São Paulo",
-    "targetProfile": "A/B"
+    "targetProfile": "A/B",
+    "date1": "2026-10-27"
   },
   {
     "name": "Bar Vila Olímpia SP",
@@ -63108,9 +63359,10 @@
     "emailVerifiedAt": "2026-10-27",
     "mxVerified": true,
     "template": "consultivo",
-    "email1": false,
+    "email1": true,
     "context": "Bar em Vila Olímpia, São Paulo",
-    "targetProfile": "A/B"
+    "targetProfile": "A/B",
+    "date1": "2026-10-27"
   },
   {
     "name": "Restaurante Vila Olímpia SP",
@@ -63124,9 +63376,10 @@
     "emailVerifiedAt": "2026-10-27",
     "mxVerified": true,
     "template": "consultivo",
-    "email1": false,
+    "email1": true,
     "context": "Restaurante em Vila Olímpia, São Paulo",
-    "targetProfile": "A/B"
+    "targetProfile": "A/B",
+    "date1": "2026-10-27"
   },
   {
     "name": "Balada Itaim SP",
@@ -63140,9 +63393,10 @@
     "emailVerifiedAt": "2026-10-27",
     "mxVerified": true,
     "template": "consultivo",
-    "email1": false,
+    "email1": true,
     "context": "Balada em Itaim Bibi, São Paulo",
-    "targetProfile": "A/B"
+    "targetProfile": "A/B",
+    "date1": "2026-10-27"
   },
   {
     "name": "Distribuidora Pinheiros SP",
@@ -63156,9 +63410,10 @@
     "emailVerifiedAt": "2026-10-27",
     "mxVerified": true,
     "template": "consultivo",
-    "email1": false,
+    "email1": true,
     "context": "Distribuidora em Pinheiros, São Paulo",
-    "targetProfile": "A/B"
+    "targetProfile": "A/B",
+    "date1": "2026-10-27"
   },
   {
     "name": "Cafeteria Moema SP",
@@ -63172,9 +63427,10 @@
     "emailVerifiedAt": "2026-10-27",
     "mxVerified": true,
     "template": "consultivo",
-    "email1": false,
+    "email1": true,
     "context": "Cafeteria em Moema, São Paulo",
-    "targetProfile": "A/B"
+    "targetProfile": "A/B",
+    "date1": "2026-10-27"
   },
   {
     "name": "Confeitaria Moema SP",
@@ -63188,9 +63444,10 @@
     "emailVerifiedAt": "2026-10-27",
     "mxVerified": true,
     "template": "consultivo",
-    "email1": false,
+    "email1": true,
     "context": "Confeitaria em Moema, São Paulo",
-    "targetProfile": "A/B"
+    "targetProfile": "A/B",
+    "date1": "2026-10-27"
   },
   {
     "name": "Hamburgueria Moema SP",
@@ -63204,9 +63461,10 @@
     "emailVerifiedAt": "2026-10-27",
     "mxVerified": true,
     "template": "consultivo",
-    "email1": false,
+    "email1": true,
     "context": "Hamburgueria em Moema, São Paulo",
-    "targetProfile": "A/B"
+    "targetProfile": "A/B",
+    "date1": "2026-10-27"
   },
   {
     "name": "Pizzaria Itaim SP",
@@ -63220,9 +63478,10 @@
     "emailVerifiedAt": "2026-10-27",
     "mxVerified": true,
     "template": "consultivo",
-    "email1": false,
+    "email1": true,
     "context": "Pizzaria em Itaim Bibi, São Paulo",
-    "targetProfile": "A/B"
+    "targetProfile": "A/B",
+    "date1": "2026-10-27"
   },
   {
     "name": "Doceria Itaim SP",
@@ -63236,9 +63495,10 @@
     "emailVerifiedAt": "2026-10-27",
     "mxVerified": true,
     "template": "consultivo",
-    "email1": false,
+    "email1": true,
     "context": "Doceria em Itaim Bibi, São Paulo",
-    "targetProfile": "A/B"
+    "targetProfile": "A/B",
+    "date1": "2026-10-27"
   },
   {
     "name": "Adega Itaim SP",
@@ -63252,9 +63512,10 @@
     "emailVerifiedAt": "2026-10-27",
     "mxVerified": true,
     "template": "consultivo",
-    "email1": false,
+    "email1": true,
     "context": "Adega em Itaim Bibi, São Paulo",
-    "targetProfile": "A/B"
+    "targetProfile": "A/B",
+    "date1": "2026-10-27"
   },
   {
     "name": "Bar Morumbi SP",
@@ -63268,9 +63529,10 @@
     "emailVerifiedAt": "2026-10-27",
     "mxVerified": true,
     "template": "consultivo",
-    "email1": false,
+    "email1": true,
     "context": "Bar em Morumbi, São Paulo",
-    "targetProfile": "A/B"
+    "targetProfile": "A/B",
+    "date1": "2026-10-27"
   },
   {
     "name": "Restaurante Morumbi SP",
@@ -63284,9 +63546,10 @@
     "emailVerifiedAt": "2026-10-27",
     "mxVerified": true,
     "template": "consultivo",
-    "email1": false,
+    "email1": true,
     "context": "Restaurante em Morumbi, São Paulo",
-    "targetProfile": "A/B"
+    "targetProfile": "A/B",
+    "date1": "2026-10-27"
   },
   {
     "name": "Balada Morumbi SP",
@@ -63300,9 +63563,10 @@
     "emailVerifiedAt": "2026-10-27",
     "mxVerified": true,
     "template": "consultivo",
-    "email1": false,
+    "email1": true,
     "context": "Balada em Morumbi, São Paulo",
-    "targetProfile": "A/B"
+    "targetProfile": "A/B",
+    "date1": "2026-10-27"
   },
   {
     "name": "Distribuidora Moema SP",
@@ -63316,9 +63580,10 @@
     "emailVerifiedAt": "2026-10-27",
     "mxVerified": true,
     "template": "consultivo",
-    "email1": false,
+    "email1": true,
     "context": "Distribuidora em Moema, São Paulo",
-    "targetProfile": "A/B"
+    "targetProfile": "A/B",
+    "date1": "2026-10-27"
   },
   {
     "name": "Cafeteria Jardins SP",
@@ -63332,9 +63597,10 @@
     "emailVerifiedAt": "2026-10-27",
     "mxVerified": true,
     "template": "consultivo",
-    "email1": false,
+    "email1": true,
     "context": "Cafeteria em Jardins, São Paulo",
-    "targetProfile": "A/B"
+    "targetProfile": "A/B",
+    "date1": "2026-10-27"
   },
   {
     "name": "Confeitaria Jardins SP",
@@ -63348,9 +63614,10 @@
     "emailVerifiedAt": "2026-10-27",
     "mxVerified": true,
     "template": "consultivo",
-    "email1": false,
+    "email1": true,
     "context": "Confeitaria em Jardins, São Paulo",
-    "targetProfile": "A/B"
+    "targetProfile": "A/B",
+    "date1": "2026-10-27"
   },
   {
     "name": "Hamburgueria Jardins SP",
@@ -63364,9 +63631,10 @@
     "emailVerifiedAt": "2026-10-27",
     "mxVerified": true,
     "template": "consultivo",
-    "email1": false,
+    "email1": true,
     "context": "Hamburgueria em Jardins, São Paulo",
-    "targetProfile": "A/B"
+    "targetProfile": "A/B",
+    "date1": "2026-10-27"
   },
   {
     "name": "Pizzaria Jardins SP",
@@ -63380,9 +63648,10 @@
     "emailVerifiedAt": "2026-10-27",
     "mxVerified": true,
     "template": "consultivo",
-    "email1": false,
+    "email1": true,
     "context": "Pizzaria em Jardins, São Paulo",
-    "targetProfile": "A/B"
+    "targetProfile": "A/B",
+    "date1": "2026-10-27"
   },
   {
     "name": "Doceria Jardins SP",
@@ -63396,9 +63665,10 @@
     "emailVerifiedAt": "2026-10-27",
     "mxVerified": true,
     "template": "consultivo",
-    "email1": false,
+    "email1": true,
     "context": "Doceria em Jardins, São Paulo",
-    "targetProfile": "A/B"
+    "targetProfile": "A/B",
+    "date1": "2026-10-27"
   },
   {
     "name": "Adega Morumbi SP",
@@ -63412,8 +63682,9 @@
     "emailVerifiedAt": "2026-10-27",
     "mxVerified": true,
     "template": "consultivo",
-    "email1": false,
+    "email1": true,
     "context": "Adega em Morumbi, São Paulo",
-    "targetProfile": "A/B"
+    "targetProfile": "A/B",
+    "date1": "2026-10-27"
   }
 ]
