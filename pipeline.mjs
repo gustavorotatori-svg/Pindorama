@@ -356,56 +356,10 @@ async function sendEmail1(maxSent = Infinity) {
   return sent;
 }
 
-// --- Send follow-ups ---
+// --- Send follow-ups (DESABILITADO ate 30/10 - foco 100% em email1 ate sexta-feira) ---
 async function sendFollowups(maxSent = Infinity) {
-  let sent = 0;
-  const failed = new Set();
-  for (;;) {
-    if (sent >= maxSent) break;
-    const leads = load(LEADS_FILE);
-    let target = null;
-    for (const l of leads) {
-      if (l.responded || l.invalidEmail || l.doNotContact || SUPPRESSED_EMAILS.has(String(l.email || '').toLowerCase())) continue;
-      if (emailFrozen(l)) continue;
-      if (!verifiedFollowUp(l)) continue;
-      if (l.email1 && !l.email2 && l.date1 && daysDiff(l.date1) >= 3 && !failed.has(l.email + ':email2')) { target = {lead:l,step:'email2'}; break; }
-      if (l.email2 && !l.email3 && l.date2 && daysDiff(l.date2) >= 7 && !failed.has(l.email + ':email3')) { target = {lead:l,step:'email3'}; break; }
-    }
-    if (!target) break;
-    if (!emailQuotaAvailable()) break;
-    const {lead:l, step} = target;
-    try {
-      await sendEmail(l, step);
-      recordEmailOutput();
-      const reloaded = load(LEADS_FILE);
-      const normalizedEmail = String(l.email).toLowerCase();
-      const todayStr = today();
-      let persisted = false;
-      for (const item of reloaded) {
-        if (String(item.email || '').toLowerCase() !== normalizedEmail) continue;
-        item[step] = true;
-        item['date' + step.slice(-1)] = todayStr;
-        if (step === 'email3') {
-          const d = new Date();
-          d.setDate(d.getDate() + 180);
-          item.emailFrozenUntil = d.toISOString().split('T')[0];
-          item.emailCycleClosed = true;
-        }
-        persisted = true;
-      }
-      if (persisted) {
-        save(LEADS_FILE, reloaded);
-      }
-      console.log((step === 'email2' ? 'EMAIL2' : 'EMAIL3') + ' OK: ' + l.name + ' <' + l.email + '>' + (step === 'email3' ? ' [congelado 6 meses]' : ''));
-      sent++;
-      await new Promise(r => setTimeout(r, DELAY_MS));
-    } catch(e) {
-      failed.add(l.email + ':' + step);
-      if (permanentRecipientError(e)) suppressInvalidEmail(l.email, 'permanent_recipient_error');
-      console.log((step === 'email2' ? 'EMAIL2' : 'EMAIL3') + ' ERR ' + l.name + ': ' + e.message);
-    }
-  }
-  return sent;
+  console.log('Follow-ups desativados temporariamente - foco em email1 apenas');
+  return 0;
 }
 
 // --- Main ---
@@ -430,9 +384,7 @@ if (args[0] === '--add') {
   console.log('Follow-ups sent: ' + s);
 } else if (args[0] === '--all') {
   const s1 = await sendEmail1(maxPerRun);
-  const remaining = maxPerRun === Infinity ? Infinity : Math.max(0, maxPerRun - s1);
-  const s2 = await sendFollowups(remaining);
-  console.log('Email1: ' + s1 + ', Follow-ups: ' + s2);
+  console.log('Email1: ' + s1 + ', Follow-ups: 0 (desativados - foco email1)');
 } else {
   console.log('Usage:');
   console.log('  --add \'[...]\'       Add new leads (JSON string) + send');
