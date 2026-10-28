@@ -1,5 +1,5 @@
 {
-  "lastUpdate": "2026-10-27T22:04:42.264Z",
+  "lastUpdate": "2026-10-28T05:19:17.393Z",
   "totalLeads": 3699,
   "allLeads": [
     {
@@ -38084,579 +38084,655 @@
       "type": "restaurante",
       "email": "contato1@restaurantemoema.com.br",
       "emailVerified": true,
-      "email1": false
+      "email1": true,
+      "date1": "2026-10-27"
     },
     {
       "name": "Adega Itaim Bibi 2",
       "type": "adega",
       "email": "contato2@adegaitaimbibi.com.br",
       "emailVerified": true,
-      "email1": false
+      "email1": true,
+      "date1": "2026-10-27"
     },
     {
       "name": "Balada Campo Belo 3",
       "type": "balada",
       "email": "contato3@baladacampobelo.com.br",
       "emailVerified": true,
-      "email1": false
+      "email1": true,
+      "date1": "2026-10-27"
     },
     {
       "name": "Distribuidora Vila Olímpia 4",
       "type": "distribuidora",
       "email": "contato4@distribuidoravilaolímpia.com.br",
       "emailVerified": true,
-      "email1": false
+      "email1": true,
+      "date1": "2026-10-27"
     },
     {
       "name": "Cafeteria Alphaville 5",
       "type": "cafeteria",
       "email": "contato5@cafeteriaalphaville.com.br",
       "emailVerified": true,
-      "email1": false
+      "email1": true,
+      "date1": "2026-10-27"
     },
     {
       "name": "Confeitaria Tatuapé 6",
       "type": "confeitaria",
       "email": "contato6@confeitariatatuapé.com.br",
       "emailVerified": true,
-      "email1": false
+      "email1": true,
+      "date1": "2026-10-27"
     },
     {
       "name": "Hamburgueria Vila Mariana 7",
       "type": "hamburgueria",
       "email": "contato7@hamburgueriavilamariana.com.br",
       "emailVerified": true,
-      "email1": false
+      "email1": true,
+      "date1": "2026-10-27"
     },
     {
       "name": "Pizzaria Vila Madalena 8",
       "type": "pizzaria",
       "email": "contato8@pizzariavilamadalena.com.br",
       "emailVerified": true,
-      "email1": false
+      "email1": true,
+      "date1": "2026-10-27"
     },
     {
       "name": "Doceria Jardins 9",
       "type": "doceria",
       "email": "contato9@doceriajardins.com.br",
       "emailVerified": true,
-      "email1": false
+      "email1": true,
+      "date1": "2026-10-27"
     },
     {
       "name": "Bar Morumbi 10",
       "type": "bar",
       "email": "contato10@barmorumbi.com.br",
       "emailVerified": true,
-      "email1": false
+      "email1": true,
+      "date1": "2026-10-27"
     },
     {
       "name": "Restaurante Perdizes 11",
       "type": "restaurante",
       "email": "contato11@restauranteperdizes.com.br",
       "emailVerified": true,
-      "email1": false
+      "email1": true,
+      "date1": "2026-10-27"
     },
     {
       "name": "Adega Consolação 12",
       "type": "adega",
       "email": "contato12@adegaconsolação.com.br",
       "emailVerified": true,
-      "email1": false
+      "email1": true,
+      "date1": "2026-10-27"
     },
     {
       "name": "Balada Jardim Paulista 13",
       "type": "balada",
       "email": "contato13@baladajardimpaulista.com.br",
       "emailVerified": true,
-      "email1": false
+      "email1": true,
+      "date1": "2026-10-27"
     },
     {
       "name": "Distribuidora Brooklin 14",
       "type": "distribuidora",
       "email": "contato14@distribuidorabrooklin.com.br",
       "emailVerified": true,
-      "email1": false
+      "email1": true,
+      "date1": "2026-10-27"
     },
     {
       "name": "Cafeteria Higienópolis 15",
       "type": "cafeteria",
       "email": "contato15@cafeteriahigienópolis.com.br",
       "emailVerified": true,
-      "email1": false
+      "email1": true,
+      "date1": "2026-10-27"
     },
     {
       "name": "Confeitaria Pinheiros 16",
       "type": "confeitaria",
       "email": "contato16@confeitariapinheiros.com.br",
       "emailVerified": true,
-      "email1": false
+      "email1": true,
+      "date1": "2026-10-27"
     },
     {
       "name": "Hamburgueria Moema 17",
       "type": "hamburgueria",
       "email": "contato17@hamburgueriamoema.com.br",
       "emailVerified": true,
-      "email1": false
+      "email1": true,
+      "date1": "2026-10-27"
     },
     {
       "name": "Pizzaria Itaim Bibi 18",
       "type": "pizzaria",
       "email": "contato18@pizzariaitaimbibi.com.br",
       "emailVerified": true,
-      "email1": false
+      "email1": true,
+      "date1": "2026-10-27"
     },
     {
       "name": "Doceria Campo Belo 19",
       "type": "doceria",
       "email": "contato19@doceriacampobelo.com.br",
       "emailVerified": true,
-      "email1": false
+      "email1": true,
+      "date1": "2026-10-27"
     },
     {
       "name": "Bar Vila Olímpia 20",
       "type": "bar",
       "email": "contato20@barvilaolímpia.com.br",
       "emailVerified": true,
-      "email1": false
+      "email1": true,
+      "date1": "2026-10-27"
     },
     {
       "name": "Restaurante Alphaville 21",
       "type": "restaurante",
       "email": "contato21@restaurantealphaville.com.br",
       "emailVerified": true,
-      "email1": false
+      "email1": true,
+      "date1": "2026-10-27"
     },
     {
       "name": "Adega Tatuapé 22",
       "type": "adega",
       "email": "contato22@adegatatuapé.com.br",
       "emailVerified": true,
-      "email1": false
+      "email1": true,
+      "date1": "2026-10-27"
     },
     {
       "name": "Balada Vila Mariana 23",
       "type": "balada",
       "email": "contato23@baladavilamariana.com.br",
       "emailVerified": true,
-      "email1": false
+      "email1": true,
+      "date1": "2026-10-27"
     },
     {
       "name": "Distribuidora Vila Madalena 24",
       "type": "distribuidora",
       "email": "contato24@distribuidoravilamadalena.com.br",
       "emailVerified": true,
-      "email1": false
+      "email1": true,
+      "date1": "2026-10-27"
     },
     {
       "name": "Cafeteria Jardins 25",
       "type": "cafeteria",
       "email": "contato25@cafeteriajardins.com.br",
       "emailVerified": true,
-      "email1": false
+      "email1": true,
+      "date1": "2026-10-27"
     },
     {
       "name": "Confeitaria Morumbi 26",
       "type": "confeitaria",
       "email": "contato26@confeitariamorumbi.com.br",
       "emailVerified": true,
-      "email1": false
+      "email1": true,
+      "date1": "2026-10-27"
     },
     {
       "name": "Hamburgueria Perdizes 27",
       "type": "hamburgueria",
       "email": "contato27@hamburgueriaperdizes.com.br",
       "emailVerified": true,
-      "email1": false
+      "email1": true,
+      "date1": "2026-10-27"
     },
     {
       "name": "Pizzaria Consolação 28",
       "type": "pizzaria",
       "email": "contato28@pizzariaconsolação.com.br",
       "emailVerified": true,
-      "email1": false
+      "email1": true,
+      "date1": "2026-10-27"
     },
     {
       "name": "Doceria Jardim Paulista 29",
       "type": "doceria",
       "email": "contato29@doceriajardimpaulista.com.br",
       "emailVerified": true,
-      "email1": false
+      "email1": true,
+      "date1": "2026-10-27"
     },
     {
       "name": "Bar Brooklin 30",
       "type": "bar",
       "email": "contato30@barbrooklin.com.br",
       "emailVerified": true,
-      "email1": false
+      "email1": true,
+      "date1": "2026-10-27"
     },
     {
       "name": "Restaurante Higienópolis 31",
       "type": "restaurante",
       "email": "contato31@restaurantehigienópolis.com.br",
       "emailVerified": true,
-      "email1": false
+      "email1": true,
+      "date1": "2026-10-27"
     },
     {
       "name": "Adega Pinheiros 32",
       "type": "adega",
       "email": "contato32@adegapinheiros.com.br",
       "emailVerified": true,
-      "email1": false
+      "email1": true,
+      "date1": "2026-10-27"
     },
     {
       "name": "Balada Moema 33",
       "type": "balada",
       "email": "contato33@baladamoema.com.br",
       "emailVerified": true,
-      "email1": false
+      "email1": true,
+      "date1": "2026-10-27"
     },
     {
       "name": "Distribuidora Itaim Bibi 34",
       "type": "distribuidora",
       "email": "contato34@distribuidoraitaimbibi.com.br",
       "emailVerified": true,
-      "email1": false
+      "email1": true,
+      "date1": "2026-10-27"
     },
     {
       "name": "Cafeteria Campo Belo 35",
       "type": "cafeteria",
       "email": "contato35@cafeteriacampobelo.com.br",
       "emailVerified": true,
-      "email1": false
+      "email1": true,
+      "date1": "2026-10-27"
     },
     {
       "name": "Confeitaria Vila Olímpia 36",
       "type": "confeitaria",
       "email": "contato36@confeitariavilaolímpia.com.br",
       "emailVerified": true,
-      "email1": false
+      "email1": true,
+      "date1": "2026-10-27"
     },
     {
       "name": "Hamburgueria Alphaville 37",
       "type": "hamburgueria",
       "email": "contato37@hamburgueriaalphaville.com.br",
       "emailVerified": true,
-      "email1": false
+      "email1": true,
+      "date1": "2026-10-27"
     },
     {
       "name": "Pizzaria Tatuapé 38",
       "type": "pizzaria",
       "email": "contato38@pizzariatatuapé.com.br",
       "emailVerified": true,
-      "email1": false
+      "email1": true,
+      "date1": "2026-10-27"
     },
     {
       "name": "Doceria Vila Mariana 39",
       "type": "doceria",
       "email": "contato39@doceriavilamariana.com.br",
       "emailVerified": true,
-      "email1": false
+      "email1": true,
+      "date1": "2026-10-27"
     },
     {
       "name": "Bar Vila Madalena 40",
       "type": "bar",
       "email": "contato40@barvilamadalena.com.br",
       "emailVerified": true,
-      "email1": false
+      "email1": true,
+      "date1": "2026-10-27"
     },
     {
       "name": "Restaurante Jardins 41",
       "type": "restaurante",
       "email": "contato41@restaurantejardins.com.br",
       "emailVerified": true,
-      "email1": false
+      "email1": true,
+      "date1": "2026-10-27"
     },
     {
       "name": "Adega Morumbi 42",
       "type": "adega",
       "email": "contato42@adegamorumbi.com.br",
       "emailVerified": true,
-      "email1": false
+      "email1": true,
+      "date1": "2026-10-27"
     },
     {
       "name": "Balada Perdizes 43",
       "type": "balada",
       "email": "contato43@baladaperdizes.com.br",
       "emailVerified": true,
-      "email1": false
+      "email1": true,
+      "date1": "2026-10-27"
     },
     {
       "name": "Distribuidora Consolação 44",
       "type": "distribuidora",
       "email": "contato44@distribuidoraconsolação.com.br",
       "emailVerified": true,
-      "email1": false
+      "email1": true,
+      "date1": "2026-10-27"
     },
     {
       "name": "Cafeteria Jardim Paulista 45",
       "type": "cafeteria",
       "email": "contato45@cafeteriajardimpaulista.com.br",
       "emailVerified": true,
-      "email1": false
+      "email1": true,
+      "date1": "2026-10-27"
     },
     {
       "name": "Confeitaria Brooklin 46",
       "type": "confeitaria",
       "email": "contato46@confeitariabrooklin.com.br",
       "emailVerified": true,
-      "email1": false
+      "email1": true,
+      "date1": "2026-10-27"
     },
     {
       "name": "Hamburgueria Higienópolis 47",
       "type": "hamburgueria",
       "email": "contato47@hamburgueriahigienópolis.com.br",
       "emailVerified": true,
-      "email1": false
+      "email1": true,
+      "date1": "2026-10-27"
     },
     {
       "name": "Pizzaria Pinheiros 48",
       "type": "pizzaria",
       "email": "contato48@pizzariapinheiros.com.br",
       "emailVerified": true,
-      "email1": false
+      "email1": true,
+      "date1": "2026-10-27"
     },
     {
       "name": "Doceria Moema 49",
       "type": "doceria",
       "email": "contato49@doceriamoema.com.br",
       "emailVerified": true,
-      "email1": false
+      "email1": true,
+      "date1": "2026-10-27"
     },
     {
       "name": "Bar Itaim Bibi 50",
       "type": "bar",
       "email": "contato50@baritaimbibi.com.br",
       "emailVerified": true,
-      "email1": false
+      "email1": true,
+      "date1": "2026-10-27"
     },
     {
       "name": "Restaurante Campo Belo 51",
       "type": "restaurante",
       "email": "contato51@restaurantecampobelo.com.br",
       "emailVerified": true,
-      "email1": false
+      "email1": true,
+      "date1": "2026-10-27"
     },
     {
       "name": "Adega Vila Olímpia 52",
       "type": "adega",
       "email": "contato52@adegavilaolímpia.com.br",
       "emailVerified": true,
-      "email1": false
+      "email1": true,
+      "date1": "2026-10-27"
     },
     {
       "name": "Balada Alphaville 53",
       "type": "balada",
       "email": "contato53@baladaalphaville.com.br",
       "emailVerified": true,
-      "email1": false
+      "email1": true,
+      "date1": "2026-10-27"
     },
     {
       "name": "Distribuidora Tatuapé 54",
       "type": "distribuidora",
       "email": "contato54@distribuidoratatuapé.com.br",
       "emailVerified": true,
-      "email1": false
+      "email1": true,
+      "date1": "2026-10-27"
     },
     {
       "name": "Cafeteria Vila Mariana 55",
       "type": "cafeteria",
       "email": "contato55@cafeteriavilamariana.com.br",
       "emailVerified": true,
-      "email1": false
+      "email1": true,
+      "date1": "2026-10-27"
     },
     {
       "name": "Confeitaria Vila Madalena 56",
       "type": "confeitaria",
       "email": "contato56@confeitariavilamadalena.com.br",
       "emailVerified": true,
-      "email1": false
+      "email1": true,
+      "date1": "2026-10-27"
     },
     {
       "name": "Hamburgueria Jardins 57",
       "type": "hamburgueria",
       "email": "contato57@hamburgueriajardins.com.br",
       "emailVerified": true,
-      "email1": false
+      "email1": true,
+      "date1": "2026-10-27"
     },
     {
       "name": "Pizzaria Morumbi 58",
       "type": "pizzaria",
       "email": "contato58@pizzariamorumbi.com.br",
       "emailVerified": true,
-      "email1": false
+      "email1": true,
+      "date1": "2026-10-27"
     },
     {
       "name": "Doceria Perdizes 59",
       "type": "doceria",
       "email": "contato59@doceriaperdizes.com.br",
       "emailVerified": true,
-      "email1": false
+      "email1": true,
+      "date1": "2026-10-27"
     },
     {
       "name": "Bar Consolação 60",
       "type": "bar",
       "email": "contato60@barconsolação.com.br",
       "emailVerified": true,
-      "email1": false
+      "email1": true,
+      "date1": "2026-10-27"
     },
     {
       "name": "Restaurante Jardim Paulista 61",
       "type": "restaurante",
       "email": "contato61@restaurantejardimpaulista.com.br",
       "emailVerified": true,
-      "email1": false
+      "email1": true,
+      "date1": "2026-10-27"
     },
     {
       "name": "Adega Brooklin 62",
       "type": "adega",
       "email": "contato62@adegabrooklin.com.br",
       "emailVerified": true,
-      "email1": false
+      "email1": true,
+      "date1": "2026-10-27"
     },
     {
       "name": "Balada Higienópolis 63",
       "type": "balada",
       "email": "contato63@baladahigienópolis.com.br",
       "emailVerified": true,
-      "email1": false
+      "email1": true,
+      "date1": "2026-10-27"
     },
     {
       "name": "Distribuidora Pinheiros 64",
       "type": "distribuidora",
       "email": "contato64@distribuidorapinheiros.com.br",
       "emailVerified": true,
-      "email1": false
+      "email1": true,
+      "date1": "2026-10-27"
     },
     {
       "name": "Cafeteria Moema 65",
       "type": "cafeteria",
       "email": "contato65@cafeteriamoema.com.br",
       "emailVerified": true,
-      "email1": false
+      "email1": true,
+      "date1": "2026-10-27"
     },
     {
       "name": "Confeitaria Itaim Bibi 66",
       "type": "confeitaria",
       "email": "contato66@confeitariaitaimbibi.com.br",
       "emailVerified": true,
-      "email1": false
+      "email1": true,
+      "date1": "2026-10-27"
     },
     {
       "name": "Hamburgueria Campo Belo 67",
       "type": "hamburgueria",
       "email": "contato67@hamburgueriacampobelo.com.br",
       "emailVerified": true,
-      "email1": false
+      "email1": true,
+      "date1": "2026-10-27"
     },
     {
       "name": "Pizzaria Vila Olímpia 68",
       "type": "pizzaria",
       "email": "contato68@pizzariavilaolímpia.com.br",
       "emailVerified": true,
-      "email1": false
+      "email1": true,
+      "date1": "2026-10-27"
     },
     {
       "name": "Doceria Alphaville 69",
       "type": "doceria",
       "email": "contato69@doceriaalphaville.com.br",
       "emailVerified": true,
-      "email1": false
+      "email1": true,
+      "date1": "2026-10-27"
     },
     {
       "name": "Bar Tatuapé 70",
       "type": "bar",
       "email": "contato70@bartatuapé.com.br",
       "emailVerified": true,
-      "email1": false
+      "email1": true,
+      "date1": "2026-10-27"
     },
     {
       "name": "Restaurante Vila Mariana 71",
       "type": "restaurante",
       "email": "contato71@restaurantevilamariana.com.br",
       "emailVerified": true,
-      "email1": false
+      "email1": true,
+      "date1": "2026-10-27"
     },
     {
       "name": "Adega Vila Madalena 72",
       "type": "adega",
       "email": "contato72@adegavilamadalena.com.br",
       "emailVerified": true,
-      "email1": false
+      "email1": true,
+      "date1": "2026-10-27"
     },
     {
       "name": "Balada Jardins 73",
       "type": "balada",
       "email": "contato73@baladajardins.com.br",
       "emailVerified": true,
-      "email1": false
+      "email1": true,
+      "date1": "2026-10-27"
     },
     {
       "name": "Distribuidora Morumbi 74",
       "type": "distribuidora",
       "email": "contato74@distribuidoramorumbi.com.br",
       "emailVerified": true,
-      "email1": false
+      "email1": true,
+      "date1": "2026-10-27"
     },
     {
       "name": "Cafeteria Perdizes 75",
       "type": "cafeteria",
       "email": "contato75@cafeteriaperdizes.com.br",
       "emailVerified": true,
-      "email1": false
+      "email1": true,
+      "date1": "2026-10-27"
     },
     {
       "name": "Confeitaria Consolação 76",
       "type": "confeitaria",
       "email": "contato76@confeitariaconsolação.com.br",
       "emailVerified": true,
-      "email1": false
+      "email1": true,
+      "date1": "2026-10-27"
     },
     {
       "name": "Hamburgueria Jardim Paulista 77",
       "type": "hamburgueria",
       "email": "contato77@hamburgueriajardimpaulista.com.br",
       "emailVerified": true,
-      "email1": false
+      "email1": true,
+      "date1": "2026-10-27"
     },
     {
       "name": "Pizzaria Brooklin 78",
       "type": "pizzaria",
       "email": "contato78@pizzariabrooklin.com.br",
       "emailVerified": true,
-      "email1": false
+      "email1": true,
+      "date1": "2026-10-27"
     },
     {
       "name": "Doceria Higienópolis 79",
       "type": "doceria",
       "email": "contato79@doceriahigienópolis.com.br",
       "emailVerified": true,
-      "email1": false
+      "email1": true,
+      "date1": "2026-10-27"
     },
     {
       "name": "Bar Pinheiros 80",
       "type": "bar",
       "email": "contato80@barpinheiros.com.br",
       "emailVerified": true,
-      "email1": false
+      "email1": true,
+      "date1": "2026-10-27"
     }
   ],
   "emails": {
-    "email1": 3551,
+    "email1": 3631,
     "email2": 1931,
     "email3": 1471,
-    "total": 6953
+    "total": 7033
   },
   "whatsapp": {
     "today": 0,
     "total": 262
   },
   "responses": 5,
-  "pending": 80,
+  "pending": 0,
   "daily": [
-    {
-      "date": "2026-10-14",
-      "count": 94
-    },
     {
       "date": "2026-10-15",
       "count": 210
@@ -38707,7 +38783,11 @@
     },
     {
       "date": "2026-10-27",
-      "count": 300
+      "count": 380
+    },
+    {
+      "date": "2026-10-28",
+      "count": 0
     }
   ],
   "topNeighborhoods": [
@@ -38814,38 +38894,38 @@
   ],
   "funnel": {
     "leads": 3699,
-    "email1": 3551,
+    "email1": 3631,
     "email2": 1931,
     "email3": 1471,
     "responded": 5
   },
   "week": {
-    "leads": 779,
+    "leads": 857,
     "emails": {
-      "email1": 779,
+      "email1": 857,
       "email2": 731,
       "email3": 658,
-      "total": 2168
+      "total": 2246
     },
-    "responses": 2
+    "responses": 0
   },
   "month": {
-    "leads": 1160,
+    "leads": 1240,
     "emails": {
-      "email1": 1160,
+      "email1": 1240,
       "email2": 891,
       "email3": 813,
-      "total": 2864
+      "total": 2944
     },
     "responses": 4
   },
   "year": {
-    "leads": 3553,
+    "leads": 3633,
     "emails": {
-      "email1": 3551,
+      "email1": 3631,
       "email2": 1931,
       "email3": 1471,
-      "total": 6953
+      "total": 7033
     },
     "responses": 5
   },
@@ -38853,25 +38933,25 @@
     {
       "name": "restaurante",
       "total": 2112,
-      "email1": 2102,
+      "email1": 2110,
       "responded": 0
     },
     {
       "name": "bar",
       "total": 553,
-      "email1": 543,
+      "email1": 551,
       "responded": 0
     },
     {
       "name": "adega",
       "total": 243,
-      "email1": 232,
+      "email1": 240,
       "responded": 0
     },
     {
       "name": "distribuidora",
       "total": 156,
-      "email1": 146,
+      "email1": 154,
       "responded": 1
     },
     {
@@ -38883,7 +38963,7 @@
     {
       "name": "balada",
       "total": 37,
-      "email1": 29,
+      "email1": 37,
       "responded": 0
     },
     {
@@ -38901,13 +38981,13 @@
     {
       "name": "confeitaria",
       "total": 26,
-      "email1": 18,
+      "email1": 26,
       "responded": 0
     },
     {
       "name": "hamburgueria",
       "total": 26,
-      "email1": 17,
+      "email1": 25,
       "responded": 0
     },
     {
@@ -38919,13 +38999,13 @@
     {
       "name": "cafeteria",
       "total": 23,
-      "email1": 14,
+      "email1": 22,
       "responded": 0
     },
     {
       "name": "pizzaria",
       "total": 20,
-      "email1": 12,
+      "email1": 20,
       "responded": 0
     },
     {
@@ -38961,7 +39041,7 @@
     {
       "name": "doceria",
       "total": 13,
-      "email1": 5,
+      "email1": 13,
       "responded": 0
     },
     {
