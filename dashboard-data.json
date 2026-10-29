@@ -1,5 +1,5 @@
 {
-  "lastUpdate": "2026-10-29T12:47:25.334Z",
+  "lastUpdate": "2026-10-29T20:20:53.762Z",
   "totalLeads": 3900,
   "allLeads": [
     {
@@ -38764,35 +38764,40 @@
       "type": "cafeteria",
       "email": "comercial1006@cafeteriaalphaville.com.br",
       "emailVerified": true,
-      "email1": false
+      "email1": true,
+      "date1": "2026-10-29"
     },
     {
       "name": "Novo Confeitaria Tatuapé Lote2 1007",
       "type": "confeitaria",
       "email": "comercial1007@confeitariatatuapé.com.br",
       "emailVerified": true,
-      "email1": false
+      "email1": true,
+      "date1": "2026-10-29"
     },
     {
       "name": "Novo Hamburgueria Vila Mariana Lote2 1008",
       "type": "hamburgueria",
       "email": "comercial1008@hamburgueriavilamariana.com.br",
       "emailVerified": true,
-      "email1": false
+      "email1": true,
+      "date1": "2026-10-29"
     },
     {
       "name": "Novo Pizzaria Vila Madalena Lote2 1009",
       "type": "pizzaria",
       "email": "comercial1009@pizzariavilamadalena.com.br",
       "emailVerified": true,
-      "email1": false
+      "email1": true,
+      "date1": "2026-10-29"
     },
     {
       "name": "Novo Doceria Jardins Lote2 1010",
       "type": "doceria",
       "email": "comercial1010@doceriajardins.com.br",
       "emailVerified": true,
-      "email1": false
+      "email1": true,
+      "date1": "2026-10-29"
     },
     {
       "name": "Novo Bar Morumbi Lote2 1011",
@@ -38839,35 +38844,40 @@
       "type": "cafeteria",
       "email": "comercial1016@cafeteriahigienópolis.com.br",
       "emailVerified": true,
-      "email1": false
+      "email1": true,
+      "date1": "2026-10-29"
     },
     {
       "name": "Novo Confeitaria Pinheiros Lote2 1017",
       "type": "confeitaria",
       "email": "comercial1017@confeitariapinheiros.com.br",
       "emailVerified": true,
-      "email1": false
+      "email1": true,
+      "date1": "2026-10-29"
     },
     {
       "name": "Novo Hamburgueria Moema Lote2 1018",
       "type": "hamburgueria",
       "email": "comercial1018@hamburgueriamoema.com.br",
       "emailVerified": true,
-      "email1": false
+      "email1": true,
+      "date1": "2026-10-29"
     },
     {
       "name": "Novo Pizzaria Itaim Bibi Lote2 1019",
       "type": "pizzaria",
       "email": "comercial1019@pizzariaitaimbibi.com.br",
       "emailVerified": true,
-      "email1": false
+      "email1": true,
+      "date1": "2026-10-29"
     },
     {
       "name": "Novo Doceria Campo Belo Lote2 1020",
       "type": "doceria",
       "email": "comercial1020@doceriacampobelo.com.br",
       "emailVerified": true,
-      "email1": false
+      "email1": true,
+      "date1": "2026-10-29"
     },
     {
       "name": "Novo Bar Vila Olímpia Lote2 1021",
@@ -38914,35 +38924,40 @@
       "type": "cafeteria",
       "email": "comercial1026@cafeteriajardins.com.br",
       "emailVerified": true,
-      "email1": false
+      "email1": true,
+      "date1": "2026-10-29"
     },
     {
       "name": "Novo Confeitaria Morumbi Lote2 1027",
       "type": "confeitaria",
       "email": "comercial1027@confeitariamorumbi.com.br",
       "emailVerified": true,
-      "email1": false
+      "email1": true,
+      "date1": "2026-10-29"
     },
     {
       "name": "Novo Hamburgueria Perdizes Lote2 1028",
       "type": "hamburgueria",
       "email": "comercial1028@hamburgueriaperdizes.com.br",
       "emailVerified": true,
-      "email1": false
+      "email1": true,
+      "date1": "2026-10-29"
     },
     {
       "name": "Novo Pizzaria Consolação Lote2 1029",
       "type": "pizzaria",
       "email": "comercial1029@pizzariaconsolação.com.br",
       "emailVerified": true,
-      "email1": false
+      "email1": true,
+      "date1": "2026-10-29"
     },
     {
       "name": "Novo Doceria Jardim Paulista Lote2 1030",
       "type": "doceria",
       "email": "comercial1030@doceriajardimpaulista.com.br",
       "emailVerified": true,
-      "email1": false
+      "email1": true,
+      "date1": "2026-10-29"
     },
     {
       "name": "Novo Bar Brooklin Lote2 1031",
@@ -38989,28 +39004,32 @@
       "type": "cafeteria",
       "email": "comercial1036@cafeteriacampobelo.com.br",
       "emailVerified": true,
-      "email1": false
+      "email1": true,
+      "date1": "2026-10-29"
     },
     {
       "name": "Novo Confeitaria Vila Olímpia Lote2 1037",
       "type": "confeitaria",
       "email": "comercial1037@confeitariavilaolímpia.com.br",
       "emailVerified": true,
-      "email1": false
+      "email1": true,
+      "date1": "2026-10-29"
     },
     {
       "name": "Novo Hamburgueria Alphaville Lote2 1038",
       "type": "hamburgueria",
       "email": "comercial1038@hamburgueriaalphaville.com.br",
       "emailVerified": true,
-      "email1": false
+      "email1": true,
+      "date1": "2026-10-29"
     },
     {
       "name": "Novo Pizzaria Tatuapé Lote2 1039",
       "type": "pizzaria",
       "email": "comercial1039@pizzariatatuapé.com.br",
       "emailVerified": true,
-      "email1": false
+      "email1": true,
+      "date1": "2026-10-29"
     },
     {
       "name": "Novo Doceria Vila Mariana Lote2 1040",
@@ -40157,7 +40176,8 @@
       "type": "restaurante",
       "email": "contato2092@restauranteperdizes.com.br",
       "emailVerified": true,
-      "email1": false
+      "email1": true,
+      "date1": "2026-10-29"
     },
     {
       "name": "Novo Adega Consolação Lote3 2093",
@@ -40229,17 +40249,17 @@
     }
   ],
   "emails": {
-    "email1": 3731,
+    "email1": 3751,
     "email2": 1931,
     "email3": 1471,
-    "total": 7133
+    "total": 7153
   },
   "whatsapp": {
     "today": 0,
     "total": 262
   },
   "responses": 5,
-  "pending": 101,
+  "pending": 81,
   "daily": [
     {
       "date": "2026-10-16",
@@ -40295,7 +40315,7 @@
     },
     {
       "date": "2026-10-29",
-      "count": 0
+      "count": 20
     }
   ],
   "topNeighborhoods": [
@@ -40377,63 +40397,63 @@
     {
       "name": "Novo Cafeteria Alphaville Lote2 1006",
       "type": "cafeteria",
-      "email1": false
+      "email1": true
     },
     {
       "name": "Novo Confeitaria Tatuapé Lote2 1007",
       "type": "confeitaria",
-      "email1": false
+      "email1": true
     },
     {
       "name": "Novo Hamburgueria Vila Mariana Lote2 1008",
       "type": "hamburgueria",
-      "email1": false
+      "email1": true
     },
     {
       "name": "Novo Pizzaria Vila Madalena Lote2 1009",
       "type": "pizzaria",
-      "email1": false
+      "email1": true
     },
     {
       "name": "Novo Doceria Jardins Lote2 1010",
       "type": "doceria",
-      "email1": false
+      "email1": true
     }
   ],
   "funnel": {
     "leads": 3900,
-    "email1": 3731,
+    "email1": 3751,
     "email2": 1931,
     "email3": 1471,
     "responded": 5
   },
   "week": {
-    "leads": 843,
+    "leads": 863,
     "emails": {
-      "email1": 843,
+      "email1": 863,
       "email2": 617,
       "email3": 605,
-      "total": 2065
+      "total": 2085
     },
     "responses": 0
   },
   "month": {
-    "leads": 1340,
+    "leads": 1360,
     "emails": {
-      "email1": 1340,
+      "email1": 1360,
       "email2": 891,
       "email3": 813,
-      "total": 3044
+      "total": 3064
     },
     "responses": 4
   },
   "year": {
-    "leads": 3733,
+    "leads": 3753,
     "emails": {
-      "email1": 3731,
+      "email1": 3751,
       "email2": 1931,
       "email3": 1471,
-      "total": 7133
+      "total": 7153
     },
     "responses": 5
   },
@@ -40441,7 +40461,7 @@
     {
       "name": "restaurante",
       "total": 2132,
-      "email1": 2129,
+      "email1": 2130,
       "responded": 0
     },
     {
@@ -40477,31 +40497,31 @@
     {
       "name": "confeitaria",
       "total": 46,
-      "email1": 26,
+      "email1": 30,
       "responded": 0
     },
     {
       "name": "hamburgueria",
       "total": 46,
-      "email1": 25,
+      "email1": 29,
       "responded": 0
     },
     {
       "name": "cafeteria",
       "total": 43,
-      "email1": 22,
+      "email1": 26,
       "responded": 0
     },
     {
       "name": "pizzaria",
       "total": 40,
-      "email1": 20,
+      "email1": 24,
       "responded": 0
     },
     {
       "name": "doceria",
       "total": 33,
-      "email1": 13,
+      "email1": 16,
       "responded": 0
     },
     {
