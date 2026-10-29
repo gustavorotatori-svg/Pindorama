@@ -68266,5 +68266,23 @@
     "email1": false,
     "context": "doceria em Campo Belo, São Paulo - lote novo 28/10",
     "targetProfile": "A/B"
+  },
+  {
+    "name": "Imigrantes Bebidas — Compras (Luciana Muniz)",
+    "email": "luciana.muniz@imigrantesbebidas.com.br",
+    "phone": "",
+    "phoneVerified": false,
+    "type": "distribuidora",
+    "website": "",
+    "emailSource": "resposta direta do lead",
+    "emailVerified": true,
+    "emailVerifiedAt": "2026-10-28",
+    "mxVerified": true,
+    "template": "consultivo",
+    "email1": false,
+    "context": "Rede com 6 lojas em SP (Água Funda, Vila Ema, Lapa, Butantã, Água Fria, Itaim Bibi). Contato direto do time de compras fornecido pela Luciana. Lead quente (respondido/hot).",
+    "targetProfile": "A/B",
+    "responded": false,
+    "hot": true
   }
 ]
