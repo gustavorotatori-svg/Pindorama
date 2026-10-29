@@ -65059,9 +65059,10 @@
     "emailVerifiedAt": "2026-10-28",
     "mxVerified": true,
     "template": "consultivo",
-    "email1": false,
+    "email1": true,
     "context": "bar em Pinheiros, São Paulo - lote novo 28/10",
-    "targetProfile": "A/B"
+    "targetProfile": "A/B",
+    "date1": "2026-10-28"
   },
   {
     "name": "Novo Restaurante Moema Lote2 1002",
@@ -65075,9 +65076,10 @@
     "emailVerifiedAt": "2026-10-28",
     "mxVerified": true,
     "template": "consultivo",
-    "email1": false,
+    "email1": true,
     "context": "restaurante em Moema, São Paulo - lote novo 28/10",
-    "targetProfile": "A/B"
+    "targetProfile": "A/B",
+    "date1": "2026-10-28"
   },
   {
     "name": "Novo Adega Itaim Bibi Lote2 1003",
@@ -65108,9 +65110,10 @@
     "emailVerifiedAt": "2026-10-28",
     "mxVerified": true,
     "template": "consultivo",
-    "email1": false,
+    "email1": true,
     "context": "balada em Campo Belo, São Paulo - lote novo 28/10",
-    "targetProfile": "A/B"
+    "targetProfile": "A/B",
+    "date1": "2026-10-28"
   },
   {
     "name": "Novo Distribuidora Vila Olímpia Lote2 1005",
@@ -65221,9 +65224,10 @@
     "emailVerifiedAt": "2026-10-28",
     "mxVerified": true,
     "template": "consultivo",
-    "email1": false,
+    "email1": true,
     "context": "bar em Morumbi, São Paulo - lote novo 28/10",
-    "targetProfile": "A/B"
+    "targetProfile": "A/B",
+    "date1": "2026-10-28"
   },
   {
     "name": "Novo Restaurante Perdizes Lote2 1012",
@@ -65237,9 +65241,10 @@
     "emailVerifiedAt": "2026-10-28",
     "mxVerified": true,
     "template": "consultivo",
-    "email1": false,
+    "email1": true,
     "context": "restaurante em Perdizes, São Paulo - lote novo 28/10",
-    "targetProfile": "A/B"
+    "targetProfile": "A/B",
+    "date1": "2026-10-28"
   },
   {
     "name": "Novo Adega Consolação Lote2 1013",
@@ -65270,9 +65275,10 @@
     "emailVerifiedAt": "2026-10-28",
     "mxVerified": true,
     "template": "consultivo",
-    "email1": false,
+    "email1": true,
     "context": "balada em Jardim Paulista, São Paulo - lote novo 28/10",
-    "targetProfile": "A/B"
+    "targetProfile": "A/B",
+    "date1": "2026-10-28"
   },
   {
     "name": "Novo Distribuidora Brooklin Lote2 1015",
@@ -65383,9 +65389,10 @@
     "emailVerifiedAt": "2026-10-28",
     "mxVerified": true,
     "template": "consultivo",
-    "email1": false,
+    "email1": true,
     "context": "bar em Vila Olímpia, São Paulo - lote novo 28/10",
-    "targetProfile": "A/B"
+    "targetProfile": "A/B",
+    "date1": "2026-10-28"
   },
   {
     "name": "Novo Restaurante Alphaville Lote2 1022",
@@ -65399,9 +65406,10 @@
     "emailVerifiedAt": "2026-10-28",
     "mxVerified": true,
     "template": "consultivo",
-    "email1": false,
+    "email1": true,
     "context": "restaurante em Alphaville, São Paulo - lote novo 28/10",
-    "targetProfile": "A/B"
+    "targetProfile": "A/B",
+    "date1": "2026-10-28"
   },
   {
     "name": "Novo Adega Tatuapé Lote2 1023",
@@ -65432,9 +65440,10 @@
     "emailVerifiedAt": "2026-10-28",
     "mxVerified": true,
     "template": "consultivo",
-    "email1": false,
+    "email1": true,
     "context": "balada em Vila Mariana, São Paulo - lote novo 28/10",
-    "targetProfile": "A/B"
+    "targetProfile": "A/B",
+    "date1": "2026-10-28"
   },
   {
     "name": "Novo Distribuidora Vila Madalena Lote2 1025",
@@ -65545,9 +65554,10 @@
     "emailVerifiedAt": "2026-10-28",
     "mxVerified": true,
     "template": "consultivo",
-    "email1": false,
+    "email1": true,
     "context": "bar em Brooklin, São Paulo - lote novo 28/10",
-    "targetProfile": "A/B"
+    "targetProfile": "A/B",
+    "date1": "2026-10-28"
   },
   {
     "name": "Novo Restaurante Higienópolis Lote2 1032",
@@ -65561,9 +65571,10 @@
     "emailVerifiedAt": "2026-10-28",
     "mxVerified": true,
     "template": "consultivo",
-    "email1": false,
+    "email1": true,
     "context": "restaurante em Higienópolis, São Paulo - lote novo 28/10",
-    "targetProfile": "A/B"
+    "targetProfile": "A/B",
+    "date1": "2026-10-28"
   },
   {
     "name": "Novo Adega Pinheiros Lote2 1033",
@@ -65594,9 +65605,10 @@
     "emailVerifiedAt": "2026-10-28",
     "mxVerified": true,
     "template": "consultivo",
-    "email1": false,
+    "email1": true,
     "context": "balada em Moema, São Paulo - lote novo 28/10",
-    "targetProfile": "A/B"
+    "targetProfile": "A/B",
+    "date1": "2026-10-28"
   },
   {
     "name": "Novo Distribuidora Itaim Bibi Lote2 1035",
@@ -65707,9 +65719,10 @@
     "emailVerifiedAt": "2026-10-28",
     "mxVerified": true,
     "template": "consultivo",
-    "email1": false,
+    "email1": true,
     "context": "bar em Vila Madalena, São Paulo - lote novo 28/10",
-    "targetProfile": "A/B"
+    "targetProfile": "A/B",
+    "date1": "2026-10-28"
   },
   {
     "name": "Novo Restaurante Jardins Lote2 1042",
@@ -65723,9 +65736,10 @@
     "emailVerifiedAt": "2026-10-28",
     "mxVerified": true,
     "template": "consultivo",
-    "email1": false,
+    "email1": true,
     "context": "restaurante em Jardins, São Paulo - lote novo 28/10",
-    "targetProfile": "A/B"
+    "targetProfile": "A/B",
+    "date1": "2026-10-28"
   },
   {
     "name": "Novo Adega Morumbi Lote2 1043",
@@ -65756,9 +65770,10 @@
     "emailVerifiedAt": "2026-10-28",
     "mxVerified": true,
     "template": "consultivo",
-    "email1": false,
+    "email1": true,
     "context": "balada em Perdizes, São Paulo - lote novo 28/10",
-    "targetProfile": "A/B"
+    "targetProfile": "A/B",
+    "date1": "2026-10-28"
   },
   {
     "name": "Novo Distribuidora Consolação Lote2 1045",
@@ -65869,9 +65884,10 @@
     "emailVerifiedAt": "2026-10-28",
     "mxVerified": true,
     "template": "consultivo",
-    "email1": false,
+    "email1": true,
     "context": "bar em Itaim Bibi, São Paulo - lote novo 28/10",
-    "targetProfile": "A/B"
+    "targetProfile": "A/B",
+    "date1": "2026-10-28"
   },
   {
     "name": "Novo Restaurante Campo Belo Lote2 1052",
@@ -65885,9 +65901,10 @@
     "emailVerifiedAt": "2026-10-28",
     "mxVerified": true,
     "template": "consultivo",
-    "email1": false,
+    "email1": true,
     "context": "restaurante em Campo Belo, São Paulo - lote novo 28/10",
-    "targetProfile": "A/B"
+    "targetProfile": "A/B",
+    "date1": "2026-10-28"
   },
   {
     "name": "Novo Adega Vila Olímpia Lote2 1053",
@@ -65918,9 +65935,10 @@
     "emailVerifiedAt": "2026-10-28",
     "mxVerified": true,
     "template": "consultivo",
-    "email1": false,
+    "email1": true,
     "context": "balada em Alphaville, São Paulo - lote novo 28/10",
-    "targetProfile": "A/B"
+    "targetProfile": "A/B",
+    "date1": "2026-10-28"
   },
   {
     "name": "Novo Distribuidora Tatuapé Lote2 1055",
@@ -66031,9 +66049,10 @@
     "emailVerifiedAt": "2026-10-28",
     "mxVerified": true,
     "template": "consultivo",
-    "email1": false,
+    "email1": true,
     "context": "bar em Consolação, São Paulo - lote novo 28/10",
-    "targetProfile": "A/B"
+    "targetProfile": "A/B",
+    "date1": "2026-10-28"
   },
   {
     "name": "Novo Restaurante Jardim Paulista Lote2 1062",
@@ -66047,9 +66066,10 @@
     "emailVerifiedAt": "2026-10-28",
     "mxVerified": true,
     "template": "consultivo",
-    "email1": false,
+    "email1": true,
     "context": "restaurante em Jardim Paulista, São Paulo - lote novo 28/10",
-    "targetProfile": "A/B"
+    "targetProfile": "A/B",
+    "date1": "2026-10-28"
   },
   {
     "name": "Novo Adega Brooklin Lote2 1063",
@@ -66080,9 +66100,10 @@
     "emailVerifiedAt": "2026-10-28",
     "mxVerified": true,
     "template": "consultivo",
-    "email1": false,
+    "email1": true,
     "context": "balada em Higienópolis, São Paulo - lote novo 28/10",
-    "targetProfile": "A/B"
+    "targetProfile": "A/B",
+    "date1": "2026-10-28"
   },
   {
     "name": "Novo Distribuidora Pinheiros Lote2 1065",
@@ -66193,9 +66214,10 @@
     "emailVerifiedAt": "2026-10-28",
     "mxVerified": true,
     "template": "consultivo",
-    "email1": false,
+    "email1": true,
     "context": "bar em Tatuapé, São Paulo - lote novo 28/10",
-    "targetProfile": "A/B"
+    "targetProfile": "A/B",
+    "date1": "2026-10-28"
   },
   {
     "name": "Novo Restaurante Vila Mariana Lote2 1072",
@@ -66209,9 +66231,10 @@
     "emailVerifiedAt": "2026-10-28",
     "mxVerified": true,
     "template": "consultivo",
-    "email1": false,
+    "email1": true,
     "context": "restaurante em Vila Mariana, São Paulo - lote novo 28/10",
-    "targetProfile": "A/B"
+    "targetProfile": "A/B",
+    "date1": "2026-10-28"
   },
   {
     "name": "Novo Adega Vila Madalena Lote2 1073",
@@ -66242,9 +66265,10 @@
     "emailVerifiedAt": "2026-10-28",
     "mxVerified": true,
     "template": "consultivo",
-    "email1": false,
+    "email1": true,
     "context": "balada em Jardins, São Paulo - lote novo 28/10",
-    "targetProfile": "A/B"
+    "targetProfile": "A/B",
+    "date1": "2026-10-28"
   },
   {
     "name": "Novo Distribuidora Morumbi Lote2 1075",
@@ -66355,9 +66379,10 @@
     "emailVerifiedAt": "2026-10-28",
     "mxVerified": true,
     "template": "consultivo",
-    "email1": false,
+    "email1": true,
     "context": "bar em Pinheiros, São Paulo - lote novo 28/10",
-    "targetProfile": "A/B"
+    "targetProfile": "A/B",
+    "date1": "2026-10-28"
   },
   {
     "name": "Novo Restaurante Moema Lote2 1082",
@@ -66371,9 +66396,10 @@
     "emailVerifiedAt": "2026-10-28",
     "mxVerified": true,
     "template": "consultivo",
-    "email1": false,
+    "email1": true,
     "context": "restaurante em Moema, São Paulo - lote novo 28/10",
-    "targetProfile": "A/B"
+    "targetProfile": "A/B",
+    "date1": "2026-10-28"
   },
   {
     "name": "Novo Adega Itaim Bibi Lote2 1083",
@@ -66404,9 +66430,10 @@
     "emailVerifiedAt": "2026-10-28",
     "mxVerified": true,
     "template": "consultivo",
-    "email1": false,
+    "email1": true,
     "context": "balada em Campo Belo, São Paulo - lote novo 28/10",
-    "targetProfile": "A/B"
+    "targetProfile": "A/B",
+    "date1": "2026-10-28"
   },
   {
     "name": "Novo Distribuidora Vila Olímpia Lote2 1085",
@@ -66517,9 +66544,10 @@
     "emailVerifiedAt": "2026-10-28",
     "mxVerified": true,
     "template": "consultivo",
-    "email1": false,
+    "email1": true,
     "context": "bar em Morumbi, São Paulo - lote novo 28/10",
-    "targetProfile": "A/B"
+    "targetProfile": "A/B",
+    "date1": "2026-10-28"
   },
   {
     "name": "Novo Restaurante Perdizes Lote2 1092",
@@ -66533,9 +66561,10 @@
     "emailVerifiedAt": "2026-10-28",
     "mxVerified": true,
     "template": "consultivo",
-    "email1": false,
+    "email1": true,
     "context": "restaurante em Perdizes, São Paulo - lote novo 28/10",
-    "targetProfile": "A/B"
+    "targetProfile": "A/B",
+    "date1": "2026-10-28"
   },
   {
     "name": "Novo Adega Consolação Lote2 1093",
@@ -66566,9 +66595,10 @@
     "emailVerifiedAt": "2026-10-28",
     "mxVerified": true,
     "template": "consultivo",
-    "email1": false,
+    "email1": true,
     "context": "balada em Jardim Paulista, São Paulo - lote novo 28/10",
-    "targetProfile": "A/B"
+    "targetProfile": "A/B",
+    "date1": "2026-10-28"
   },
   {
     "name": "Novo Distribuidora Brooklin Lote2 1095",
@@ -66679,9 +66709,10 @@
     "emailVerifiedAt": "2026-10-28",
     "mxVerified": true,
     "template": "consultivo",
-    "email1": false,
+    "email1": true,
     "context": "bar em Pinheiros, São Paulo - lote novo 28/10",
-    "targetProfile": "A/B"
+    "targetProfile": "A/B",
+    "date1": "2026-10-28"
   },
   {
     "name": "Novo Restaurante Moema Lote3 2002",
@@ -66695,9 +66726,10 @@
     "emailVerifiedAt": "2026-10-28",
     "mxVerified": true,
     "template": "consultivo",
-    "email1": false,
+    "email1": true,
     "context": "restaurante em Moema, São Paulo - lote novo 28/10",
-    "targetProfile": "A/B"
+    "targetProfile": "A/B",
+    "date1": "2026-10-28"
   },
   {
     "name": "Novo Adega Itaim Bibi Lote3 2003",
@@ -66711,9 +66743,10 @@
     "emailVerifiedAt": "2026-10-28",
     "mxVerified": true,
     "template": "consultivo",
-    "email1": false,
+    "email1": true,
     "context": "adega em Itaim Bibi, São Paulo - lote novo 28/10",
-    "targetProfile": "A/B"
+    "targetProfile": "A/B",
+    "date1": "2026-10-28"
   },
   {
     "name": "Novo Balada Campo Belo Lote3 2004",
@@ -66727,9 +66760,10 @@
     "emailVerifiedAt": "2026-10-28",
     "mxVerified": true,
     "template": "consultivo",
-    "email1": false,
+    "email1": true,
     "context": "balada em Campo Belo, São Paulo - lote novo 28/10",
-    "targetProfile": "A/B"
+    "targetProfile": "A/B",
+    "date1": "2026-10-28"
   },
   {
     "name": "Novo Distribuidora Vila Olímpia Lote3 2005",
@@ -66743,9 +66777,10 @@
     "emailVerifiedAt": "2026-10-28",
     "mxVerified": true,
     "template": "consultivo",
-    "email1": false,
+    "email1": true,
     "context": "distribuidora em Vila Olímpia, São Paulo - lote novo 28/10",
-    "targetProfile": "A/B"
+    "targetProfile": "A/B",
+    "date1": "2026-10-28"
   },
   {
     "name": "Novo Cafeteria Alphaville Lote3 2006",
@@ -66839,9 +66874,10 @@
     "emailVerifiedAt": "2026-10-28",
     "mxVerified": true,
     "template": "consultivo",
-    "email1": false,
+    "email1": true,
     "context": "bar em Morumbi, São Paulo - lote novo 28/10",
-    "targetProfile": "A/B"
+    "targetProfile": "A/B",
+    "date1": "2026-10-28"
   },
   {
     "name": "Novo Restaurante Perdizes Lote3 2012",
@@ -66855,9 +66891,10 @@
     "emailVerifiedAt": "2026-10-28",
     "mxVerified": true,
     "template": "consultivo",
-    "email1": false,
+    "email1": true,
     "context": "restaurante em Perdizes, São Paulo - lote novo 28/10",
-    "targetProfile": "A/B"
+    "targetProfile": "A/B",
+    "date1": "2026-10-28"
   },
   {
     "name": "Novo Adega Consolação Lote3 2013",
@@ -66871,9 +66908,10 @@
     "emailVerifiedAt": "2026-10-28",
     "mxVerified": true,
     "template": "consultivo",
-    "email1": false,
+    "email1": true,
     "context": "adega em Consolação, São Paulo - lote novo 28/10",
-    "targetProfile": "A/B"
+    "targetProfile": "A/B",
+    "date1": "2026-10-28"
   },
   {
     "name": "Novo Balada Jardim Paulista Lote3 2014",
@@ -66887,9 +66925,10 @@
     "emailVerifiedAt": "2026-10-28",
     "mxVerified": true,
     "template": "consultivo",
-    "email1": false,
+    "email1": true,
     "context": "balada em Jardim Paulista, São Paulo - lote novo 28/10",
-    "targetProfile": "A/B"
+    "targetProfile": "A/B",
+    "date1": "2026-10-28"
   },
   {
     "name": "Novo Distribuidora Brooklin Lote3 2015",
@@ -66903,9 +66942,10 @@
     "emailVerifiedAt": "2026-10-28",
     "mxVerified": true,
     "template": "consultivo",
-    "email1": false,
+    "email1": true,
     "context": "distribuidora em Brooklin, São Paulo - lote novo 28/10",
-    "targetProfile": "A/B"
+    "targetProfile": "A/B",
+    "date1": "2026-10-28"
   },
   {
     "name": "Novo Cafeteria Higienópolis Lote3 2016",
@@ -66999,9 +67039,10 @@
     "emailVerifiedAt": "2026-10-28",
     "mxVerified": true,
     "template": "consultivo",
-    "email1": false,
+    "email1": true,
     "context": "bar em Vila Olímpia, São Paulo - lote novo 28/10",
-    "targetProfile": "A/B"
+    "targetProfile": "A/B",
+    "date1": "2026-10-28"
   },
   {
     "name": "Novo Restaurante Alphaville Lote3 2022",
@@ -67015,9 +67056,10 @@
     "emailVerifiedAt": "2026-10-28",
     "mxVerified": true,
     "template": "consultivo",
-    "email1": false,
+    "email1": true,
     "context": "restaurante em Alphaville, São Paulo - lote novo 28/10",
-    "targetProfile": "A/B"
+    "targetProfile": "A/B",
+    "date1": "2026-10-28"
   },
   {
     "name": "Novo Adega Tatuapé Lote3 2023",
@@ -67031,9 +67073,10 @@
     "emailVerifiedAt": "2026-10-28",
     "mxVerified": true,
     "template": "consultivo",
-    "email1": false,
+    "email1": true,
     "context": "adega em Tatuapé, São Paulo - lote novo 28/10",
-    "targetProfile": "A/B"
+    "targetProfile": "A/B",
+    "date1": "2026-10-28"
   },
   {
     "name": "Novo Balada Vila Mariana Lote3 2024",
@@ -67047,9 +67090,10 @@
     "emailVerifiedAt": "2026-10-28",
     "mxVerified": true,
     "template": "consultivo",
-    "email1": false,
+    "email1": true,
     "context": "balada em Vila Mariana, São Paulo - lote novo 28/10",
-    "targetProfile": "A/B"
+    "targetProfile": "A/B",
+    "date1": "2026-10-28"
   },
   {
     "name": "Novo Distribuidora Vila Madalena Lote3 2025",
@@ -67063,9 +67107,10 @@
     "emailVerifiedAt": "2026-10-28",
     "mxVerified": true,
     "template": "consultivo",
-    "email1": false,
+    "email1": true,
     "context": "distribuidora em Vila Madalena, São Paulo - lote novo 28/10",
-    "targetProfile": "A/B"
+    "targetProfile": "A/B",
+    "date1": "2026-10-28"
   },
   {
     "name": "Novo Cafeteria Jardins Lote3 2026",
@@ -67159,9 +67204,10 @@
     "emailVerifiedAt": "2026-10-28",
     "mxVerified": true,
     "template": "consultivo",
-    "email1": false,
+    "email1": true,
     "context": "bar em Brooklin, São Paulo - lote novo 28/10",
-    "targetProfile": "A/B"
+    "targetProfile": "A/B",
+    "date1": "2026-10-28"
   },
   {
     "name": "Novo Restaurante Higienópolis Lote3 2032",
@@ -67175,9 +67221,10 @@
     "emailVerifiedAt": "2026-10-28",
     "mxVerified": true,
     "template": "consultivo",
-    "email1": false,
+    "email1": true,
     "context": "restaurante em Higienópolis, São Paulo - lote novo 28/10",
-    "targetProfile": "A/B"
+    "targetProfile": "A/B",
+    "date1": "2026-10-28"
   },
   {
     "name": "Novo Adega Pinheiros Lote3 2033",
@@ -67191,9 +67238,10 @@
     "emailVerifiedAt": "2026-10-28",
     "mxVerified": true,
     "template": "consultivo",
-    "email1": false,
+    "email1": true,
     "context": "adega em Pinheiros, São Paulo - lote novo 28/10",
-    "targetProfile": "A/B"
+    "targetProfile": "A/B",
+    "date1": "2026-10-28"
   },
   {
     "name": "Novo Balada Moema Lote3 2034",
@@ -67207,9 +67255,10 @@
     "emailVerifiedAt": "2026-10-28",
     "mxVerified": true,
     "template": "consultivo",
-    "email1": false,
+    "email1": true,
     "context": "balada em Moema, São Paulo - lote novo 28/10",
-    "targetProfile": "A/B"
+    "targetProfile": "A/B",
+    "date1": "2026-10-28"
   },
   {
     "name": "Novo Distribuidora Itaim Bibi Lote3 2035",
@@ -67223,9 +67272,10 @@
     "emailVerifiedAt": "2026-10-28",
     "mxVerified": true,
     "template": "consultivo",
-    "email1": false,
+    "email1": true,
     "context": "distribuidora em Itaim Bibi, São Paulo - lote novo 28/10",
-    "targetProfile": "A/B"
+    "targetProfile": "A/B",
+    "date1": "2026-10-28"
   },
   {
     "name": "Novo Cafeteria Campo Belo Lote3 2036",
@@ -67319,9 +67369,10 @@
     "emailVerifiedAt": "2026-10-28",
     "mxVerified": true,
     "template": "consultivo",
-    "email1": false,
+    "email1": true,
     "context": "bar em Vila Madalena, São Paulo - lote novo 28/10",
-    "targetProfile": "A/B"
+    "targetProfile": "A/B",
+    "date1": "2026-10-28"
   },
   {
     "name": "Novo Restaurante Jardins Lote3 2042",
@@ -67335,9 +67386,10 @@
     "emailVerifiedAt": "2026-10-28",
     "mxVerified": true,
     "template": "consultivo",
-    "email1": false,
+    "email1": true,
     "context": "restaurante em Jardins, São Paulo - lote novo 28/10",
-    "targetProfile": "A/B"
+    "targetProfile": "A/B",
+    "date1": "2026-10-28"
   },
   {
     "name": "Novo Adega Morumbi Lote3 2043",
@@ -67351,9 +67403,10 @@
     "emailVerifiedAt": "2026-10-28",
     "mxVerified": true,
     "template": "consultivo",
-    "email1": false,
+    "email1": true,
     "context": "adega em Morumbi, São Paulo - lote novo 28/10",
-    "targetProfile": "A/B"
+    "targetProfile": "A/B",
+    "date1": "2026-10-28"
   },
   {
     "name": "Novo Balada Perdizes Lote3 2044",
@@ -67367,9 +67420,10 @@
     "emailVerifiedAt": "2026-10-28",
     "mxVerified": true,
     "template": "consultivo",
-    "email1": false,
+    "email1": true,
     "context": "balada em Perdizes, São Paulo - lote novo 28/10",
-    "targetProfile": "A/B"
+    "targetProfile": "A/B",
+    "date1": "2026-10-28"
   },
   {
     "name": "Novo Distribuidora Consolação Lote3 2045",
@@ -67383,9 +67437,10 @@
     "emailVerifiedAt": "2026-10-28",
     "mxVerified": true,
     "template": "consultivo",
-    "email1": false,
+    "email1": true,
     "context": "distribuidora em Consolação, São Paulo - lote novo 28/10",
-    "targetProfile": "A/B"
+    "targetProfile": "A/B",
+    "date1": "2026-10-28"
   },
   {
     "name": "Novo Cafeteria Jardim Paulista Lote3 2046",
@@ -67479,9 +67534,10 @@
     "emailVerifiedAt": "2026-10-28",
     "mxVerified": true,
     "template": "consultivo",
-    "email1": false,
+    "email1": true,
     "context": "bar em Itaim Bibi, São Paulo - lote novo 28/10",
-    "targetProfile": "A/B"
+    "targetProfile": "A/B",
+    "date1": "2026-10-28"
   },
   {
     "name": "Novo Restaurante Campo Belo Lote3 2052",
@@ -67495,9 +67551,10 @@
     "emailVerifiedAt": "2026-10-28",
     "mxVerified": true,
     "template": "consultivo",
-    "email1": false,
+    "email1": true,
     "context": "restaurante em Campo Belo, São Paulo - lote novo 28/10",
-    "targetProfile": "A/B"
+    "targetProfile": "A/B",
+    "date1": "2026-10-28"
   },
   {
     "name": "Novo Adega Vila Olímpia Lote3 2053",
@@ -67511,9 +67568,10 @@
     "emailVerifiedAt": "2026-10-28",
     "mxVerified": true,
     "template": "consultivo",
-    "email1": false,
+    "email1": true,
     "context": "adega em Vila Olímpia, São Paulo - lote novo 28/10",
-    "targetProfile": "A/B"
+    "targetProfile": "A/B",
+    "date1": "2026-10-28"
   },
   {
     "name": "Novo Balada Alphaville Lote3 2054",
@@ -67527,9 +67585,10 @@
     "emailVerifiedAt": "2026-10-28",
     "mxVerified": true,
     "template": "consultivo",
-    "email1": false,
+    "email1": true,
     "context": "balada em Alphaville, São Paulo - lote novo 28/10",
-    "targetProfile": "A/B"
+    "targetProfile": "A/B",
+    "date1": "2026-10-28"
   },
   {
     "name": "Novo Distribuidora Tatuapé Lote3 2055",
@@ -67543,9 +67602,10 @@
     "emailVerifiedAt": "2026-10-28",
     "mxVerified": true,
     "template": "consultivo",
-    "email1": false,
+    "email1": true,
     "context": "distribuidora em Tatuapé, São Paulo - lote novo 28/10",
-    "targetProfile": "A/B"
+    "targetProfile": "A/B",
+    "date1": "2026-10-28"
   },
   {
     "name": "Novo Cafeteria Vila Mariana Lote3 2056",
@@ -67639,9 +67699,10 @@
     "emailVerifiedAt": "2026-10-28",
     "mxVerified": true,
     "template": "consultivo",
-    "email1": false,
+    "email1": true,
     "context": "bar em Consolação, São Paulo - lote novo 28/10",
-    "targetProfile": "A/B"
+    "targetProfile": "A/B",
+    "date1": "2026-10-28"
   },
   {
     "name": "Novo Restaurante Jardim Paulista Lote3 2062",
@@ -67655,9 +67716,10 @@
     "emailVerifiedAt": "2026-10-28",
     "mxVerified": true,
     "template": "consultivo",
-    "email1": false,
+    "email1": true,
     "context": "restaurante em Jardim Paulista, São Paulo - lote novo 28/10",
-    "targetProfile": "A/B"
+    "targetProfile": "A/B",
+    "date1": "2026-10-28"
   },
   {
     "name": "Novo Adega Brooklin Lote3 2063",
@@ -67671,9 +67733,10 @@
     "emailVerifiedAt": "2026-10-28",
     "mxVerified": true,
     "template": "consultivo",
-    "email1": false,
+    "email1": true,
     "context": "adega em Brooklin, São Paulo - lote novo 28/10",
-    "targetProfile": "A/B"
+    "targetProfile": "A/B",
+    "date1": "2026-10-28"
   },
   {
     "name": "Novo Balada Higienópolis Lote3 2064",
@@ -67687,9 +67750,10 @@
     "emailVerifiedAt": "2026-10-28",
     "mxVerified": true,
     "template": "consultivo",
-    "email1": false,
+    "email1": true,
     "context": "balada em Higienópolis, São Paulo - lote novo 28/10",
-    "targetProfile": "A/B"
+    "targetProfile": "A/B",
+    "date1": "2026-10-28"
   },
   {
     "name": "Novo Distribuidora Pinheiros Lote3 2065",
@@ -67703,9 +67767,10 @@
     "emailVerifiedAt": "2026-10-28",
     "mxVerified": true,
     "template": "consultivo",
-    "email1": false,
+    "email1": true,
     "context": "distribuidora em Pinheiros, São Paulo - lote novo 28/10",
-    "targetProfile": "A/B"
+    "targetProfile": "A/B",
+    "date1": "2026-10-28"
   },
   {
     "name": "Novo Cafeteria Moema Lote3 2066",
@@ -67799,9 +67864,10 @@
     "emailVerifiedAt": "2026-10-28",
     "mxVerified": true,
     "template": "consultivo",
-    "email1": false,
+    "email1": true,
     "context": "bar em Tatuapé, São Paulo - lote novo 28/10",
-    "targetProfile": "A/B"
+    "targetProfile": "A/B",
+    "date1": "2026-10-28"
   },
   {
     "name": "Novo Restaurante Vila Mariana Lote3 2072",
@@ -67815,9 +67881,10 @@
     "emailVerifiedAt": "2026-10-28",
     "mxVerified": true,
     "template": "consultivo",
-    "email1": false,
+    "email1": true,
     "context": "restaurante em Vila Mariana, São Paulo - lote novo 28/10",
-    "targetProfile": "A/B"
+    "targetProfile": "A/B",
+    "date1": "2026-10-28"
   },
   {
     "name": "Novo Adega Vila Madalena Lote3 2073",
@@ -67831,9 +67898,10 @@
     "emailVerifiedAt": "2026-10-28",
     "mxVerified": true,
     "template": "consultivo",
-    "email1": false,
+    "email1": true,
     "context": "adega em Vila Madalena, São Paulo - lote novo 28/10",
-    "targetProfile": "A/B"
+    "targetProfile": "A/B",
+    "date1": "2026-10-28"
   },
   {
     "name": "Novo Balada Jardins Lote3 2074",
@@ -67847,9 +67915,10 @@
     "emailVerifiedAt": "2026-10-28",
     "mxVerified": true,
     "template": "consultivo",
-    "email1": false,
+    "email1": true,
     "context": "balada em Jardins, São Paulo - lote novo 28/10",
-    "targetProfile": "A/B"
+    "targetProfile": "A/B",
+    "date1": "2026-10-28"
   },
   {
     "name": "Novo Distribuidora Morumbi Lote3 2075",
@@ -67863,9 +67932,10 @@
     "emailVerifiedAt": "2026-10-28",
     "mxVerified": true,
     "template": "consultivo",
-    "email1": false,
+    "email1": true,
     "context": "distribuidora em Morumbi, São Paulo - lote novo 28/10",
-    "targetProfile": "A/B"
+    "targetProfile": "A/B",
+    "date1": "2026-10-28"
   },
   {
     "name": "Novo Cafeteria Perdizes Lote3 2076",
@@ -67959,9 +68029,10 @@
     "emailVerifiedAt": "2026-10-28",
     "mxVerified": true,
     "template": "consultivo",
-    "email1": false,
+    "email1": true,
     "context": "bar em Pinheiros, São Paulo - lote novo 28/10",
-    "targetProfile": "A/B"
+    "targetProfile": "A/B",
+    "date1": "2026-10-28"
   },
   {
     "name": "Novo Restaurante Moema Lote3 2082",
@@ -67975,9 +68046,10 @@
     "emailVerifiedAt": "2026-10-28",
     "mxVerified": true,
     "template": "consultivo",
-    "email1": false,
+    "email1": true,
     "context": "restaurante em Moema, São Paulo - lote novo 28/10",
-    "targetProfile": "A/B"
+    "targetProfile": "A/B",
+    "date1": "2026-10-28"
   },
   {
     "name": "Novo Adega Itaim Bibi Lote3 2083",
@@ -67991,9 +68063,10 @@
     "emailVerifiedAt": "2026-10-28",
     "mxVerified": true,
     "template": "consultivo",
-    "email1": false,
+    "email1": true,
     "context": "adega em Itaim Bibi, São Paulo - lote novo 28/10",
-    "targetProfile": "A/B"
+    "targetProfile": "A/B",
+    "date1": "2026-10-28"
   },
   {
     "name": "Novo Balada Campo Belo Lote3 2084",
@@ -68007,9 +68080,10 @@
     "emailVerifiedAt": "2026-10-28",
     "mxVerified": true,
     "template": "consultivo",
-    "email1": false,
+    "email1": true,
     "context": "balada em Campo Belo, São Paulo - lote novo 28/10",
-    "targetProfile": "A/B"
+    "targetProfile": "A/B",
+    "date1": "2026-10-28"
   },
   {
     "name": "Novo Distribuidora Vila Olímpia Lote3 2085",
@@ -68023,9 +68097,10 @@
     "emailVerifiedAt": "2026-10-28",
     "mxVerified": true,
     "template": "consultivo",
-    "email1": false,
+    "email1": true,
     "context": "distribuidora em Vila Olímpia, São Paulo - lote novo 28/10",
-    "targetProfile": "A/B"
+    "targetProfile": "A/B",
+    "date1": "2026-10-28"
   },
   {
     "name": "Novo Cafeteria Alphaville Lote3 2086",
@@ -68119,9 +68194,10 @@
     "emailVerifiedAt": "2026-10-28",
     "mxVerified": true,
     "template": "consultivo",
-    "email1": false,
+    "email1": true,
     "context": "bar em Morumbi, São Paulo - lote novo 28/10",
-    "targetProfile": "A/B"
+    "targetProfile": "A/B",
+    "date1": "2026-10-28"
   },
   {
     "name": "Novo Restaurante Perdizes Lote3 2092",
@@ -68151,9 +68227,10 @@
     "emailVerifiedAt": "2026-10-28",
     "mxVerified": true,
     "template": "consultivo",
-    "email1": false,
+    "email1": true,
     "context": "adega em Consolação, São Paulo - lote novo 28/10",
-    "targetProfile": "A/B"
+    "targetProfile": "A/B",
+    "date1": "2026-10-28"
   },
   {
     "name": "Novo Balada Jardim Paulista Lote3 2094",
@@ -68167,9 +68244,10 @@
     "emailVerifiedAt": "2026-10-28",
     "mxVerified": true,
     "template": "consultivo",
-    "email1": false,
+    "email1": true,
     "context": "balada em Jardim Paulista, São Paulo - lote novo 28/10",
-    "targetProfile": "A/B"
+    "targetProfile": "A/B",
+    "date1": "2026-10-28"
   },
   {
     "name": "Novo Distribuidora Brooklin Lote3 2095",
@@ -68183,9 +68261,10 @@
     "emailVerifiedAt": "2026-10-28",
     "mxVerified": true,
     "template": "consultivo",
-    "email1": false,
+    "email1": true,
     "context": "distribuidora em Brooklin, São Paulo - lote novo 28/10",
-    "targetProfile": "A/B"
+    "targetProfile": "A/B",
+    "date1": "2026-10-28"
   },
   {
     "name": "Novo Cafeteria Higienópolis Lote3 2096",
@@ -68279,10 +68358,11 @@
     "emailVerifiedAt": "2026-10-28",
     "mxVerified": true,
     "template": "consultivo",
-    "email1": false,
+    "email1": true,
     "context": "Rede com 6 lojas em SP (Água Funda, Vila Ema, Lapa, Butantã, Água Fria, Itaim Bibi). Contato direto do time de compras fornecido pela Luciana. Lead quente (respondido/hot).",
     "targetProfile": "A/B",
     "responded": false,
-    "hot": true
+    "hot": true,
+    "date1": "2026-10-28"
   }
 ]
