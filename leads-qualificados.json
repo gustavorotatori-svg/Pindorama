@@ -68507,9 +68507,10 @@
     "emailVerifiedAt": "2026-10-30",
     "mxVerified": true,
     "template": "consultivo",
-    "email1": false,
+    "email1": true,
     "context": "adega em Itaim Bibi, São Paulo - reposição automática 30/10",
-    "targetProfile": "A/B"
+    "targetProfile": "A/B",
+    "date1": "2026-10-30"
   },
   {
     "name": "Novo Balada Campo Belo Auto 3004",
@@ -68539,9 +68540,10 @@
     "emailVerifiedAt": "2026-10-30",
     "mxVerified": true,
     "template": "consultivo",
-    "email1": false,
+    "email1": true,
     "context": "distribuidora em Vila Olimpia, São Paulo - reposição automática 30/10",
-    "targetProfile": "A/B"
+    "targetProfile": "A/B",
+    "date1": "2026-10-30"
   },
   {
     "name": "Novo Cafeteria Alphaville Auto 3006",
@@ -68667,9 +68669,10 @@
     "emailVerifiedAt": "2026-10-30",
     "mxVerified": true,
     "template": "consultivo",
-    "email1": false,
+    "email1": true,
     "context": "adega em Consolacao, São Paulo - reposição automática 30/10",
-    "targetProfile": "A/B"
+    "targetProfile": "A/B",
+    "date1": "2026-10-30"
   },
   {
     "name": "Novo Balada Jardim Paulista Auto 3014",
@@ -68699,9 +68702,10 @@
     "emailVerifiedAt": "2026-10-30",
     "mxVerified": true,
     "template": "consultivo",
-    "email1": false,
+    "email1": true,
     "context": "distribuidora em Brooklin, São Paulo - reposição automática 30/10",
-    "targetProfile": "A/B"
+    "targetProfile": "A/B",
+    "date1": "2026-10-30"
   },
   {
     "name": "Novo Cafeteria Higienopolis Auto 3016",
@@ -68827,9 +68831,10 @@
     "emailVerifiedAt": "2026-10-30",
     "mxVerified": true,
     "template": "consultivo",
-    "email1": false,
+    "email1": true,
     "context": "adega em Itaim Bibi, São Paulo - reposição automática 30/10",
-    "targetProfile": "A/B"
+    "targetProfile": "A/B",
+    "date1": "2026-10-30"
   },
   {
     "name": "Novo Balada Campo Belo Auto 3024",
@@ -68859,9 +68864,10 @@
     "emailVerifiedAt": "2026-10-30",
     "mxVerified": true,
     "template": "consultivo",
-    "email1": false,
+    "email1": true,
     "context": "distribuidora em Vila Olimpia, São Paulo - reposição automática 30/10",
-    "targetProfile": "A/B"
+    "targetProfile": "A/B",
+    "date1": "2026-10-30"
   },
   {
     "name": "Novo Cafeteria Alphaville Auto 3026",
@@ -68987,9 +68993,10 @@
     "emailVerifiedAt": "2026-10-30",
     "mxVerified": true,
     "template": "consultivo",
-    "email1": false,
+    "email1": true,
     "context": "adega em Consolacao, São Paulo - reposição automática 30/10",
-    "targetProfile": "A/B"
+    "targetProfile": "A/B",
+    "date1": "2026-10-30"
   },
   {
     "name": "Novo Balada Jardim Paulista Auto 3034",
@@ -69019,9 +69026,10 @@
     "emailVerifiedAt": "2026-10-30",
     "mxVerified": true,
     "template": "consultivo",
-    "email1": false,
+    "email1": true,
     "context": "distribuidora em Brooklin, São Paulo - reposição automática 30/10",
-    "targetProfile": "A/B"
+    "targetProfile": "A/B",
+    "date1": "2026-10-30"
   },
   {
     "name": "Novo Cafeteria Higienopolis Auto 3036",
@@ -69147,9 +69155,10 @@
     "emailVerifiedAt": "2026-10-30",
     "mxVerified": true,
     "template": "consultivo",
-    "email1": false,
+    "email1": true,
     "context": "adega em Itaim Bibi, São Paulo - reposição automática 30/10",
-    "targetProfile": "A/B"
+    "targetProfile": "A/B",
+    "date1": "2026-10-30"
   },
   {
     "name": "Novo Balada Campo Belo Auto 3044",
@@ -69179,9 +69188,10 @@
     "emailVerifiedAt": "2026-10-30",
     "mxVerified": true,
     "template": "consultivo",
-    "email1": false,
+    "email1": true,
     "context": "distribuidora em Vila Olimpia, São Paulo - reposição automática 30/10",
-    "targetProfile": "A/B"
+    "targetProfile": "A/B",
+    "date1": "2026-10-30"
   },
   {
     "name": "Novo Cafeteria Alphaville Auto 3046",
@@ -69307,9 +69317,10 @@
     "emailVerifiedAt": "2026-10-30",
     "mxVerified": true,
     "template": "consultivo",
-    "email1": false,
+    "email1": true,
     "context": "adega em Consolacao, São Paulo - reposição automática 30/10",
-    "targetProfile": "A/B"
+    "targetProfile": "A/B",
+    "date1": "2026-10-30"
   },
   {
     "name": "Novo Balada Jardim Paulista Auto 3054",
@@ -69339,9 +69350,10 @@
     "emailVerifiedAt": "2026-10-30",
     "mxVerified": true,
     "template": "consultivo",
-    "email1": false,
+    "email1": true,
     "context": "distribuidora em Brooklin, São Paulo - reposição automática 30/10",
-    "targetProfile": "A/B"
+    "targetProfile": "A/B",
+    "date1": "2026-10-30"
   },
   {
     "name": "Novo Cafeteria Higienopolis Auto 3056",
@@ -69467,9 +69479,10 @@
     "emailVerifiedAt": "2026-10-30",
     "mxVerified": true,
     "template": "consultivo",
-    "email1": false,
+    "email1": true,
     "context": "adega em Itaim Bibi, São Paulo - reposição automática 30/10",
-    "targetProfile": "A/B"
+    "targetProfile": "A/B",
+    "date1": "2026-10-30"
   },
   {
     "name": "Novo Balada Campo Belo Auto 3064",
@@ -69499,9 +69512,10 @@
     "emailVerifiedAt": "2026-10-30",
     "mxVerified": true,
     "template": "consultivo",
-    "email1": false,
+    "email1": true,
     "context": "distribuidora em Vila Olimpia, São Paulo - reposição automática 30/10",
-    "targetProfile": "A/B"
+    "targetProfile": "A/B",
+    "date1": "2026-10-30"
   },
   {
     "name": "Novo Cafeteria Alphaville Auto 3066",
@@ -69627,9 +69641,10 @@
     "emailVerifiedAt": "2026-10-30",
     "mxVerified": true,
     "template": "consultivo",
-    "email1": false,
+    "email1": true,
     "context": "adega em Consolacao, São Paulo - reposição automática 30/10",
-    "targetProfile": "A/B"
+    "targetProfile": "A/B",
+    "date1": "2026-10-30"
   },
   {
     "name": "Novo Balada Jardim Paulista Auto 3074",
@@ -69659,9 +69674,10 @@
     "emailVerifiedAt": "2026-10-30",
     "mxVerified": true,
     "template": "consultivo",
-    "email1": false,
+    "email1": true,
     "context": "distribuidora em Brooklin, São Paulo - reposição automática 30/10",
-    "targetProfile": "A/B"
+    "targetProfile": "A/B",
+    "date1": "2026-10-30"
   },
   {
     "name": "Novo Cafeteria Higienopolis Auto 3076",
@@ -69787,9 +69803,10 @@
     "emailVerifiedAt": "2026-10-30",
     "mxVerified": true,
     "template": "consultivo",
-    "email1": false,
+    "email1": true,
     "context": "adega em Itaim Bibi, São Paulo - reposição automática 30/10",
-    "targetProfile": "A/B"
+    "targetProfile": "A/B",
+    "date1": "2026-10-30"
   },
   {
     "name": "Novo Balada Campo Belo Auto 3084",
@@ -69819,9 +69836,10 @@
     "emailVerifiedAt": "2026-10-30",
     "mxVerified": true,
     "template": "consultivo",
-    "email1": false,
+    "email1": true,
     "context": "distribuidora em Vila Olimpia, São Paulo - reposição automática 30/10",
-    "targetProfile": "A/B"
+    "targetProfile": "A/B",
+    "date1": "2026-10-30"
   },
   {
     "name": "Novo Cafeteria Alphaville Auto 3086",
@@ -69947,9 +69965,10 @@
     "emailVerifiedAt": "2026-10-30",
     "mxVerified": true,
     "template": "consultivo",
-    "email1": false,
+    "email1": true,
     "context": "adega em Consolacao, São Paulo - reposição automática 30/10",
-    "targetProfile": "A/B"
+    "targetProfile": "A/B",
+    "date1": "2026-10-30"
   },
   {
     "name": "Novo Balada Jardim Paulista Auto 3094",
@@ -69979,9 +69998,10 @@
     "emailVerifiedAt": "2026-10-30",
     "mxVerified": true,
     "template": "consultivo",
-    "email1": false,
+    "email1": true,
     "context": "distribuidora em Brooklin, São Paulo - reposição automática 30/10",
-    "targetProfile": "A/B"
+    "targetProfile": "A/B",
+    "date1": "2026-10-30"
   },
   {
     "name": "Novo Cafeteria Higienopolis Auto 3096",
