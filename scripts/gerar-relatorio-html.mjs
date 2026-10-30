@@ -1,0 +1,184 @@
+import { readFileSync, writeFileSync, mkdirSync } from 'fs';
+import { join } from 'path';
+
+const ROOT = process.cwd();
+const data = JSON.parse(readFileSync(join(ROOT, 'dashboard-data.json'), 'utf8'));
+
+const agora = new Date().toLocaleString('pt-BR', { timeZone: 'America/Sao_Paulo' });
+
+const segmentos = data.segments.slice(0, 12).map(s => `
+  <tr>
+    <td><span class="badge">${s.name}</span></td>
+    <td>${s.total}</td>
+    <td>${s.email1}</td>
+    <td>${s.responded}</td>
+    <td>${s.total > 0 ? ((s.responded / s.total) * 100).toFixed(1) + '%' : '0%'}</td>
+  </tr>
+`).join('');
+
+const dias = data.daily.slice(-7).map(day => {
+  const max = Math.max(...data.daily.map(d => d.count), 1);
+  const pct = Math.max(1, Math.round((day.count / max) * 100));
+  return `
+    <div class="day">
+      <div class="day-bar"><div class="bar-fill" style="width: ${pct}%"></div></div>
+      <div class="day-label">${day.date.slice(8, 10)}/${day.date.slice(5, 7)}</div>
+      <div class="day-value">${day.count}</div>
+    </div>
+  `;
+}).join('');
+
+const recentes = data.recentLeads.map(l => {
+  let status = l.responded
+    ? '<span class="badge badge-green">Respondeu</span>'
+    : l.email1
+      ? '<span class="badge badge-orange">Email1 ✓</span>'
+      : '<span class="badge badge-purple">Pendente</span>';
+  return `
+    <tr>
+      <td>${l.name}</td>
+      <td><span class="badge">${l.type}</span></td>
+      <td>${l.neighborhood || l.city || '—'}</td>
+      <td>${status}</td>
+    </tr>
+  `;
+}).join('');
+
+const html = `<!DOCTYPE html>
+<html lang="pt-BR">
+<head>
+<meta charset="UTF-8">
+<meta name="viewport" content="width=device-width, initial-scale=1.0">
+<title>Pindorama — Relatório de Prospecção</title>
+<style>
+  * { box-sizing: border-box; margin: 0; padding: 0; }
+  body { font-family: 'Segoe UI', Arial, sans-serif; color: #1a1a2e; background: #f5f7fa; padding: 24px; line-height: 1.5; }
+  .container { max-width: 1200px; margin: 0 auto; }
+  header { display: flex; justify-content: space-between; align-items: center; margin-bottom: 24px; }
+  h1 { font-size: 28px; color: #1a1a2e; }
+  .sub { color: #666; font-size: 13px; }
+  .atualizado { font-size: 12px; color: #888; font-style: italic; }
+  .cards { display: flex; gap: 14px; flex-wrap: wrap; margin-bottom: 30px; }
+  .card { flex: 1; min-width: 200px; background: #fff; border-radius: 12px; padding: 18px; box-shadow: 0 2px 8px rgba(0,0,0,0.06); border-top: 4px solid #f0c040; }
+  .card.green { border-top-color: #27ae60; }
+  .card.blue { border-top-color: #2f6fed; }
+  .card.purple { border-top-color: #8e44ad; }
+  .card.orange { border-top-color: #e67e22; }
+  .card.accent { border-top-color: #f39c12; }
+  .card .n { font-size: 32px; font-weight: 800; color: #1a1a2e; }
+  .card .l { font-size: 12px; color: #666; margin-top: 6px; text-transform: uppercase; letter-spacing: 0.5px; }
+  .card .s { font-size: 13px; color: #888; margin-top: 4px; }
+  h2 { font-size: 18px; color: #e07b39; margin: 24px 0 12px; border-bottom: 2px solid #f0c040; padding-bottom: 6px; }
+  table { width: 100%; border-collapse: collapse; background: #fff; border-radius: 10px; overflow: hidden; box-shadow: 0 2px 8px rgba(0,0,0,0.06); margin-bottom: 30px; }
+  th, td { padding: 12px 14px; text-align: left; border-bottom: 1px solid #eef1f6; }
+  th { background: #f8f9fb; font-weight: 700; color: #3a3f50; font-size: 12px; text-transform: uppercase; letter-spacing: 0.4px; }
+  tr:last-child td { border-bottom: none; }
+  tr:hover td { background: #fef9e7; }
+  .badge { display: inline-block; padding: 3px 10px; border-radius: 12px; font-size: 11px; font-weight: 700; text-transform: uppercase; }
+  .badge-green { background: #d4edda; color: #155724; }
+  .badge-orange { background: #ffeeba; color: #856404; }
+  .badge-purple { background: #e2d9f3; color: #5a3a9a; }
+  .badge-blue { background: #e3f2fd; color: #1565c0; }
+  .bar-chart { background: #fff; border-radius: 10px; padding: 20px; box-shadow: 0 2px 8px rgba(0,0,0,0.06); margin-bottom: 30px; }
+  .chart-title { font-size: 13px; font-weight: 700; color: #3a3f50; margin-bottom: 14px; text-transform: uppercase; letter-spacing: 0.4px; }
+  .days { display: flex; gap: 8px; margin-top: 12px; }
+  .day { flex: 1; text-align: center; }
+  .day-bar { background: #eef2f7; border-radius: 6px; height: 8px; width: 100%; margin-top: 6px; overflow: hidden; }
+  .bar-fill { background: linear-gradient(90deg, #f0c040, #e07b39); height: 100%; border-radius: 6px; }
+  .day-label { font-size: 11px; color: #777; margin-top: 4px; }
+  .day-value { font-size: 12px; font-weight: 700; color: #1a1a2e; margin-top: 2px; }
+  .info { background: #fff; border-radius: 10px; padding: 20px; box-shadow: 0 2px 8px rgba(0,0,0,0.06); margin-bottom: 30px; }
+  .info h3 { font-size: 15px; color: #1a1a2e; margin-bottom: 12px; }
+  .info p { margin: 6px 0; color: #4a5568; font-size: 14px; }
+  .info b { color: #e07b39; }
+  .footer { margin-top: 30px; padding-top: 20px; border-top: 1px solid #eef1f6; color: #888; font-size: 11px; text-align: center; }
+</style>
+</head>
+<body>
+<div class="container">
+  <header>
+    <div>
+      <h1>Pindorama — Relatório de Prospecção</h1>
+      <div class="sub">Cachaça Artesanal Premium · Dashboard atualizado automaticamente</div>
+    </div>
+    <div class="atualizado">Atualizado em: ${agora}</div>
+  </header>
+
+  <div class="cards">
+    <div class="card green">
+      <div class="n">${data.totalLeads}</div>
+      <div class="l">Total de leads</div>
+      <div class="s">Banco de dados master</div>
+    </div>
+    <div class="card blue">
+      <div class="n">${data.emails.email1}</div>
+      <div class="l">Email1 enviados</div>
+      <div class="s">Primeiro contato</div>
+    </div>
+    <div class="card purple">
+      <div class="n">${data.emails.email2 + data.emails.email3}</div>
+      <div class="l">Follow-ups (E2+E3)</div>
+      <div class="s">Desativados até 30/10</div>
+    </div>
+    <div class="card accent">
+      <div class="n">${data.pending}</div>
+      <div class="l">Pendentes email1</div>
+      <div class="s">Fila A/B aguardando envio</div>
+    </div>
+  </div>
+
+  <h2>Resumo por Período</h2>
+  <table>
+    <thead>
+      <tr><th>Período</th><th>Leads</th><th>Emails</th><th>Respostas</th></tr>
+    </thead>
+    <tbody>
+      <tr><td><b>Semana</b></td><td>${data.week.leads}</td><td>${data.week.emails.total}</td><td>${data.week.emails.responses || 0}</td></tr>
+      <tr><td><b>Mês</b></td><td>${data.month.leads}</td><td>${data.month.emails.total}</td><td>${data.month.emails.responses || 0}</td></tr>
+      <tr><td><b>Ano (YTD)</b></td><td>${data.year.leads}</td><td>${data.year.emails.total}</td><td>${data.year.emails.responses || 0}</td></tr>
+    </tbody>
+  </table>
+
+  <h2>Por Segmento (Top 12)</h2>
+  <table>
+    <thead>
+      <tr><th>Segmento</th><th>Leads</th><th>Email1</th><th>Responderam</th><th>Taxa resposta</th></tr>
+    </thead>
+    <tbody>
+      ${segmentos}
+    </tbody>
+  </table>
+
+  <div class="bar-chart">
+    <div class="chart-title">Envios por Dia (últimos 7 dias)</div>
+    <div class="days">${dias}</div>
+  </div>
+
+  <h2>Leads Recentes (últimos 10 adicionados)</h2>
+  <table>
+    <thead>
+      <tr><th>Nome</th><th>Tipo</th><th>Bairro</th><th>Status</th></tr>
+    </thead>
+    <tbody>
+      ${recentes}
+    </tbody>
+  </table>
+
+  <div class="info">
+    <h3>⚙️ Configuração atual do pipeline</h3>
+    <p><b>Foco:</b> 100% email1 para novos leads A/B (bairros nobres de SP) até sexta 30/10</p>
+    <p><b>Follow-ups:</b> DESATIVADOS até você autorizar a retomada</p>
+    <p><b>WhatsApp:</b> PAUSADO até 30/10</p>
+    <p><b>Quota email:</b> 100/dia (janela móvel 24h)</p>
+    <p><b>Atualização deste relatório:</b> a cada 6 horas via GitHub Actions (GitHub Pages)</p>
+    <p><b>Lead quente na fila:</b> luciana.muniz@imigrantesbebidas.com.br (Imigrantes Bebidas, rede com 6 lojas)</p>
+  </div>
+
+  <div class="footer">Pindorama — Cachaça Artesanal · Relatório gerado automaticamente pelo GitHub Actions e publicado no GitHub Pages</div>
+</div>
+</body>
+</html>`;
+
+mkdirSync(join(ROOT, 'relatorio'), { recursive: true });
+writeFileSync(join(ROOT, 'relatorio', 'index.html'), html);
+console.log('Relatório HTML gerado em relatorio/index.html');
