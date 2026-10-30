@@ -45,11 +45,12 @@
     "type": "adega",
     "website": "https://www.adegasantiago.com.br",
     "context": "refer├¬ncia em vinhos e gastronomia nos Jardins",
-    "email1": false,
+    "email1": true,
     "email2": false,
     "email3": false,
     "template": "consultivo",
-    "targetProfile": "A/B"
+    "targetProfile": "A/B",
+    "date1": "2026-10-30"
   },
   {
     "name": "The Graus Bar",
@@ -215,10 +216,11 @@
     "website": "https://brooklynvinhos.com.br",
     "context": "loja de vinhos no Brooklin Paulista",
     "template": "prova_social",
-    "email1": false,
+    "email1": true,
     "email2": false,
     "email3": false,
-    "targetProfile": "A/B"
+    "targetProfile": "A/B",
+    "date1": "2026-10-30"
   },
   {
     "name": "EAP Emp├│rio Alto dos Pinheiros",
@@ -567,10 +569,11 @@
     "website": "https://adegaescalada.com.br",
     "context": "distribuidora de bebidas desde 1972 na Consolacao",
     "template": "consultivo",
-    "email1": false,
+    "email1": true,
     "email2": false,
     "email3": false,
-    "targetProfile": "A/B"
+    "targetProfile": "A/B",
+    "date1": "2026-10-30"
   },
   {
     "name": "Emporio Santa Joana Perdizes",
@@ -580,10 +583,11 @@
     "website": "https://emporiosantajoana.com.br",
     "context": "loja de vinhos e cervejas especiais em Perdizes",
     "template": "consultivo",
-    "email1": false,
+    "email1": true,
     "email2": false,
     "email3": false,
-    "targetProfile": "A/B"
+    "targetProfile": "A/B",
+    "date1": "2026-10-30"
   },
   {
     "name": "Casa Europa",
@@ -593,10 +597,11 @@
     "website": "https://casaeuropa.com.br",
     "context": "cozinha, bar e mercado europeu no Jardim Europa",
     "template": "consultivo",
-    "email1": false,
+    "email1": true,
     "email2": false,
     "email3": false,
-    "targetProfile": "A/B"
+    "targetProfile": "A/B",
+    "date1": "2026-10-30"
   },
   {
     "name": "Cantaloup",
@@ -619,13 +624,14 @@
     "website": "https://adegazaidan.com.br",
     "context": "loja de bebidas com delivery em Perdizes",
     "template": "consultivo",
-    "email1": false,
+    "email1": true,
     "email2": false,
     "email3": false,
     "whatsappSent": true,
     "whatsappDate": "2026-08-21",
     "whatsappSource": "https://www.adegazaidan.com.br/",
-    "targetProfile": "A/B"
+    "targetProfile": "A/B",
+    "date1": "2026-10-30"
   },
   {
     "name": "Nation Club",
@@ -661,10 +667,11 @@
     "website": "https://sampavinho.com.br",
     "context": "adega especializada em vinhos brasileiros selecionados",
     "template": "consultivo",
-    "email1": false,
+    "email1": true,
     "email2": false,
     "email3": false,
-    "targetProfile": "A/B"
+    "targetProfile": "A/B",
+    "date1": "2026-10-30"
   },
   {
     "name": "New Love",
@@ -745,7 +752,7 @@
     "template": "consultivo",
     "phone": "(11) 95666-2244",
     "website": "https://www.degusti.com.br",
-    "email1": false,
+    "email1": true,
     "interested": true,
     "interestDate": "2026-07-31",
     "interestNote": "Ghirag: pediu tabela de pre├ºos e condi├º├Áes comerciais; querem conhecer a linha; pediram se fatura por SP ou RJ (resposta: RJ). Tabela e condi├º├Áes enviadas em 31/07. Aguardando dados p/ NF de amostra.",
@@ -761,7 +768,8 @@
     "whatsappDate": "2026-10-16",
     "whatsappSource": "https://www.degusti.com.br",
     "targetProfile": "A/B",
-    "email2": false
+    "email2": false,
+    "date1": "2026-10-30"
   },
   {
     "name": "Adega do Louro",
@@ -790,12 +798,13 @@
     "template": "consultivo",
     "phone": "(11) 99662-0398",
     "website": "https://winepro.com.br",
-    "email1": false,
+    "email1": true,
     "email2": false,
     "whatsappSent": true,
     "whatsappDate": "2026-08-03",
     "email3": false,
-    "targetProfile": "A/B"
+    "targetProfile": "A/B",
+    "date1": "2026-10-30"
   },
   {
     "name": "Benedetto Adega Boutique",
@@ -854,12 +863,13 @@
     "template": "consultivo",
     "phone": "(11) 94448-9884",
     "website": "https://www.facebook.com/people/Emp%C3%B3rio-Adega-Morumbi/",
-    "email1": false,
+    "email1": true,
     "whatsappSent": true,
     "whatsappDate": "2026-08-03",
     "email2": false,
     "email3": false,
-    "targetProfile": "A/B"
+    "targetProfile": "A/B",
+    "date1": "2026-10-30"
   },
   {
     "name": "Emporium S├úo Paulo",
@@ -871,10 +881,11 @@
     "template": "prova_social",
     "phone": "(11) 5054-8012",
     "website": "https://emporiumsaopaulo.com.br",
-    "email1": false,
+    "email1": true,
     "email2": false,
     "email3": false,
-    "targetProfile": "A/B"
+    "targetProfile": "A/B",
+    "date1": "2026-10-30"
   },
   {
     "name": "Boss Confidence Bebidas",
@@ -1003,10 +1014,11 @@
     "template": "consultivo",
     "phone": "(11) 3875-1223",
     "website": "https://www.becosa.com.br",
-    "email1": false,
+    "email1": true,
     "email2": false,
     "email3": false,
-    "targetProfile": "A/B"
+    "targetProfile": "A/B",
+    "date1": "2026-10-30"
   },
   {
     "name": "Adega Emp├│rio Mais Bebidas",
@@ -35243,10 +35255,11 @@
     "mxVerified": true,
     "mxVerifiedAt": "2026-08-23",
     "template": "consultivo",
-    "email1": false,
+    "email1": true,
     "email2": false,
     "email3": false,
-    "targetProfile": "A/B"
+    "targetProfile": "A/B",
+    "date1": "2026-10-30"
   },
   {
     "name": "Emporio da Roca Higienopolis",
@@ -35263,10 +35276,11 @@
     "mxVerified": true,
     "mxVerifiedAt": "2026-08-23",
     "template": "consultivo",
-    "email1": false,
+    "email1": true,
     "email2": false,
     "email3": false,
-    "targetProfile": "A/B"
+    "targetProfile": "A/B",
+    "date1": "2026-10-30"
   },
   {
     "name": "Bendita Dose",
@@ -35283,7 +35297,7 @@
     "mxVerified": true,
     "mxVerifiedAt": "2026-08-23",
     "template": "consultivo",
-    "email1": false,
+    "email1": true,
     "email2": false,
     "responded": false,
     "responseDate": null,
@@ -35293,7 +35307,8 @@
     "automationIncident": "Email2 foi enviado em 2026-08-29 apos a resposta positiva de 2026-08-25; bloquear novos follow-ups automaticos.",
     "respostaFollowupDate": "2026-09-04",
     "email3": false,
-    "targetProfile": "A/B"
+    "targetProfile": "A/B",
+    "date1": "2026-10-30"
   },
   {
     "name": "Grill & Brasa",
@@ -35532,10 +35547,11 @@
     "mxVerified": true,
     "mxVerifiedAt": "2026-08-24",
     "template": "consultivo",
-    "email1": false,
+    "email1": true,
     "email2": false,
     "email3": false,
-    "targetProfile": "A/B"
+    "targetProfile": "A/B",
+    "date1": "2026-10-30"
   },
   {
     "name": "Emporio Vignamazzi",
@@ -41701,9 +41717,10 @@
     "emailVerifiedAt": "2026-10-15",
     "mxVerified": true,
     "template": "consultivo",
-    "email1": false,
+    "email1": true,
     "invalidEmail": false,
-    "targetProfile": "A/B"
+    "targetProfile": "A/B",
+    "date1": "2026-10-30"
   },
   {
     "name": "BEC Bar",
@@ -55106,9 +55123,10 @@
     "emailVerifiedAt": "2026-10-27",
     "mxVerified": true,
     "template": "consultivo",
-    "email1": false,
+    "email1": true,
     "context": "Adega em Pinheiros, Mercado de Pinheiros",
-    "targetProfile": "A/B"
+    "targetProfile": "A/B",
+    "date1": "2026-10-30"
   },
   {
     "name": "L'Adega Pinheiros",
@@ -55122,9 +55140,10 @@
     "emailVerifiedAt": "2026-10-27",
     "mxVerified": true,
     "template": "consultivo",
-    "email1": false,
+    "email1": true,
     "context": "Adega em Pinheiros, Rua Pedro Cristi 89",
-    "targetProfile": "A/B"
+    "targetProfile": "A/B",
+    "date1": "2026-10-30"
   },
   {
     "name": "Bar Zona Oeste Pinheiros",
@@ -55154,9 +55173,10 @@
     "emailVerifiedAt": "2026-10-27",
     "mxVerified": true,
     "template": "consultivo",
-    "email1": false,
+    "email1": true,
     "context": "Adega em Pinheiros",
-    "targetProfile": "A/B"
+    "targetProfile": "A/B",
+    "date1": "2026-10-30"
   },
   {
     "name": "Bar Moema SP",
@@ -55218,9 +55238,10 @@
     "emailVerifiedAt": "2026-10-27",
     "mxVerified": true,
     "template": "consultivo",
-    "email1": false,
+    "email1": true,
     "context": "Distribuidora de bebidas em São Paulo",
-    "targetProfile": "A/B"
+    "targetProfile": "A/B",
+    "date1": "2026-10-30"
   },
   {
     "name": "Cafeteria Pinheiros SP",
@@ -55362,9 +55383,10 @@
     "emailVerifiedAt": "2026-10-27",
     "mxVerified": true,
     "template": "consultivo",
-    "email1": false,
+    "email1": true,
     "context": "Distribuidora em Itaim Bibi, São Paulo",
-    "targetProfile": "A/B"
+    "targetProfile": "A/B",
+    "date1": "2026-10-30"
   },
   {
     "name": "Cafeteria Itaim SP",
@@ -55458,9 +55480,10 @@
     "emailVerifiedAt": "2026-10-27",
     "mxVerified": true,
     "template": "consultivo",
-    "email1": false,
+    "email1": true,
     "context": "Adega em Jardins, São Paulo",
-    "targetProfile": "A/B"
+    "targetProfile": "A/B",
+    "date1": "2026-10-30"
   },
   {
     "name": "Bar Vila Olímpia SP",
@@ -55522,9 +55545,10 @@
     "emailVerifiedAt": "2026-10-27",
     "mxVerified": true,
     "template": "consultivo",
-    "email1": false,
+    "email1": true,
     "context": "Distribuidora em Pinheiros, São Paulo",
-    "targetProfile": "A/B"
+    "targetProfile": "A/B",
+    "date1": "2026-10-30"
   },
   {
     "name": "Cafeteria Moema SP",
@@ -55618,9 +55642,10 @@
     "emailVerifiedAt": "2026-10-27",
     "mxVerified": true,
     "template": "consultivo",
-    "email1": false,
+    "email1": true,
     "context": "Adega em Itaim Bibi, São Paulo",
-    "targetProfile": "A/B"
+    "targetProfile": "A/B",
+    "date1": "2026-10-30"
   },
   {
     "name": "Bar Morumbi SP",
@@ -55682,9 +55707,10 @@
     "emailVerifiedAt": "2026-10-27",
     "mxVerified": true,
     "template": "consultivo",
-    "email1": false,
+    "email1": true,
     "context": "Distribuidora em Moema, São Paulo",
-    "targetProfile": "A/B"
+    "targetProfile": "A/B",
+    "date1": "2026-10-30"
   },
   {
     "name": "Cafeteria Jardins SP",
@@ -55778,9 +55804,10 @@
     "emailVerifiedAt": "2026-10-27",
     "mxVerified": true,
     "template": "consultivo",
-    "email1": false,
+    "email1": true,
     "context": "Adega em Morumbi, São Paulo",
-    "targetProfile": "A/B"
+    "targetProfile": "A/B",
+    "date1": "2026-10-30"
   },
   {
     "name": "Restaurante Moema 1",
@@ -55810,9 +55837,10 @@
     "emailVerifiedAt": "2026-10-27",
     "mxVerified": true,
     "template": "consultivo",
-    "email1": false,
+    "email1": true,
     "context": "adega em Itaim Bibi, São Paulo",
-    "targetProfile": "A/B"
+    "targetProfile": "A/B",
+    "date1": "2026-10-30"
   },
   {
     "name": "Balada Campo Belo 3",
@@ -55842,9 +55870,10 @@
     "emailVerifiedAt": "2026-10-27",
     "mxVerified": true,
     "template": "consultivo",
-    "email1": false,
+    "email1": true,
     "context": "distribuidora em Vila Olímpia, São Paulo",
-    "targetProfile": "A/B"
+    "targetProfile": "A/B",
+    "date1": "2026-10-30"
   },
   {
     "name": "Cafeteria Alphaville 5",
@@ -55970,9 +55999,10 @@
     "emailVerifiedAt": "2026-10-27",
     "mxVerified": true,
     "template": "consultivo",
-    "email1": false,
+    "email1": true,
     "context": "adega em Consolação, São Paulo",
-    "targetProfile": "A/B"
+    "targetProfile": "A/B",
+    "date1": "2026-10-30"
   },
   {
     "name": "Balada Jardim Paulista 13",
@@ -56002,9 +56032,10 @@
     "emailVerifiedAt": "2026-10-27",
     "mxVerified": true,
     "template": "consultivo",
-    "email1": false,
+    "email1": true,
     "context": "distribuidora em Brooklin, São Paulo",
-    "targetProfile": "A/B"
+    "targetProfile": "A/B",
+    "date1": "2026-10-30"
   },
   {
     "name": "Cafeteria Higienópolis 15",
@@ -56130,9 +56161,10 @@
     "emailVerifiedAt": "2026-10-27",
     "mxVerified": true,
     "template": "consultivo",
-    "email1": false,
+    "email1": true,
     "context": "adega em Tatuapé, São Paulo",
-    "targetProfile": "A/B"
+    "targetProfile": "A/B",
+    "date1": "2026-10-30"
   },
   {
     "name": "Balada Vila Mariana 23",
@@ -56162,9 +56194,10 @@
     "emailVerifiedAt": "2026-10-27",
     "mxVerified": true,
     "template": "consultivo",
-    "email1": false,
+    "email1": true,
     "context": "distribuidora em Vila Madalena, São Paulo",
-    "targetProfile": "A/B"
+    "targetProfile": "A/B",
+    "date1": "2026-10-30"
   },
   {
     "name": "Cafeteria Jardins 25",
@@ -56290,9 +56323,10 @@
     "emailVerifiedAt": "2026-10-27",
     "mxVerified": true,
     "template": "consultivo",
-    "email1": false,
+    "email1": true,
     "context": "adega em Pinheiros, São Paulo",
-    "targetProfile": "A/B"
+    "targetProfile": "A/B",
+    "date1": "2026-10-30"
   },
   {
     "name": "Balada Moema 33",
@@ -56322,9 +56356,10 @@
     "emailVerifiedAt": "2026-10-27",
     "mxVerified": true,
     "template": "consultivo",
-    "email1": false,
+    "email1": true,
     "context": "distribuidora em Itaim Bibi, São Paulo",
-    "targetProfile": "A/B"
+    "targetProfile": "A/B",
+    "date1": "2026-10-30"
   },
   {
     "name": "Cafeteria Campo Belo 35",
@@ -56450,9 +56485,10 @@
     "emailVerifiedAt": "2026-10-27",
     "mxVerified": true,
     "template": "consultivo",
-    "email1": false,
+    "email1": true,
     "context": "adega em Morumbi, São Paulo",
-    "targetProfile": "A/B"
+    "targetProfile": "A/B",
+    "date1": "2026-10-30"
   },
   {
     "name": "Balada Perdizes 43",
@@ -56482,9 +56518,10 @@
     "emailVerifiedAt": "2026-10-27",
     "mxVerified": true,
     "template": "consultivo",
-    "email1": false,
+    "email1": true,
     "context": "distribuidora em Consolação, São Paulo",
-    "targetProfile": "A/B"
+    "targetProfile": "A/B",
+    "date1": "2026-10-30"
   },
   {
     "name": "Cafeteria Jardim Paulista 45",
@@ -56610,9 +56647,10 @@
     "emailVerifiedAt": "2026-10-27",
     "mxVerified": true,
     "template": "consultivo",
-    "email1": false,
+    "email1": true,
     "context": "adega em Vila Olímpia, São Paulo",
-    "targetProfile": "A/B"
+    "targetProfile": "A/B",
+    "date1": "2026-10-30"
   },
   {
     "name": "Balada Alphaville 53",
@@ -56642,9 +56680,10 @@
     "emailVerifiedAt": "2026-10-27",
     "mxVerified": true,
     "template": "consultivo",
-    "email1": false,
+    "email1": true,
     "context": "distribuidora em Tatuapé, São Paulo",
-    "targetProfile": "A/B"
+    "targetProfile": "A/B",
+    "date1": "2026-10-30"
   },
   {
     "name": "Cafeteria Vila Mariana 55",
@@ -56770,9 +56809,10 @@
     "emailVerifiedAt": "2026-10-27",
     "mxVerified": true,
     "template": "consultivo",
-    "email1": false,
+    "email1": true,
     "context": "adega em Brooklin, São Paulo",
-    "targetProfile": "A/B"
+    "targetProfile": "A/B",
+    "date1": "2026-10-30"
   },
   {
     "name": "Balada Higienópolis 63",
@@ -56802,9 +56842,10 @@
     "emailVerifiedAt": "2026-10-27",
     "mxVerified": true,
     "template": "consultivo",
-    "email1": false,
+    "email1": true,
     "context": "distribuidora em Pinheiros, São Paulo",
-    "targetProfile": "A/B"
+    "targetProfile": "A/B",
+    "date1": "2026-10-30"
   },
   {
     "name": "Cafeteria Moema 65",
@@ -56930,9 +56971,10 @@
     "emailVerifiedAt": "2026-10-27",
     "mxVerified": true,
     "template": "consultivo",
-    "email1": false,
+    "email1": true,
     "context": "adega em Vila Madalena, São Paulo",
-    "targetProfile": "A/B"
+    "targetProfile": "A/B",
+    "date1": "2026-10-30"
   },
   {
     "name": "Balada Jardins 73",
@@ -56962,9 +57004,10 @@
     "emailVerifiedAt": "2026-10-27",
     "mxVerified": true,
     "template": "consultivo",
-    "email1": false,
+    "email1": true,
     "context": "distribuidora em Morumbi, São Paulo",
-    "targetProfile": "A/B"
+    "targetProfile": "A/B",
+    "date1": "2026-10-30"
   },
   {
     "name": "Cafeteria Perdizes 75",
@@ -57106,9 +57149,10 @@
     "emailVerifiedAt": "2026-10-28",
     "mxVerified": true,
     "template": "consultivo",
-    "email1": false,
+    "email1": true,
     "context": "adega em Itaim Bibi, São Paulo - lote novo 28/10",
-    "targetProfile": "A/B"
+    "targetProfile": "A/B",
+    "date1": "2026-10-30"
   },
   {
     "name": "Novo Balada Campo Belo Lote2 1004",
@@ -57138,9 +57182,10 @@
     "emailVerifiedAt": "2026-10-28",
     "mxVerified": true,
     "template": "consultivo",
-    "email1": false,
+    "email1": true,
     "context": "distribuidora em Vila Olímpia, São Paulo - lote novo 28/10",
-    "targetProfile": "A/B"
+    "targetProfile": "A/B",
+    "date1": "2026-10-30"
   },
   {
     "name": "Novo Cafeteria Alphaville Lote2 1006",
@@ -57266,9 +57311,10 @@
     "emailVerifiedAt": "2026-10-28",
     "mxVerified": true,
     "template": "consultivo",
-    "email1": false,
+    "email1": true,
     "context": "adega em Consolação, São Paulo - lote novo 28/10",
-    "targetProfile": "A/B"
+    "targetProfile": "A/B",
+    "date1": "2026-10-30"
   },
   {
     "name": "Novo Balada Jardim Paulista Lote2 1014",
@@ -57298,9 +57344,10 @@
     "emailVerifiedAt": "2026-10-28",
     "mxVerified": true,
     "template": "consultivo",
-    "email1": false,
+    "email1": true,
     "context": "distribuidora em Brooklin, São Paulo - lote novo 28/10",
-    "targetProfile": "A/B"
+    "targetProfile": "A/B",
+    "date1": "2026-10-30"
   },
   {
     "name": "Novo Cafeteria Higienópolis Lote2 1016",
@@ -57426,9 +57473,10 @@
     "emailVerifiedAt": "2026-10-28",
     "mxVerified": true,
     "template": "consultivo",
-    "email1": false,
+    "email1": true,
     "context": "adega em Tatuapé, São Paulo - lote novo 28/10",
-    "targetProfile": "A/B"
+    "targetProfile": "A/B",
+    "date1": "2026-10-30"
   },
   {
     "name": "Novo Balada Vila Mariana Lote2 1024",
@@ -57458,9 +57506,10 @@
     "emailVerifiedAt": "2026-10-28",
     "mxVerified": true,
     "template": "consultivo",
-    "email1": false,
+    "email1": true,
     "context": "distribuidora em Vila Madalena, São Paulo - lote novo 28/10",
-    "targetProfile": "A/B"
+    "targetProfile": "A/B",
+    "date1": "2026-10-30"
   },
   {
     "name": "Novo Cafeteria Jardins Lote2 1026",
@@ -57586,9 +57635,10 @@
     "emailVerifiedAt": "2026-10-28",
     "mxVerified": true,
     "template": "consultivo",
-    "email1": false,
+    "email1": true,
     "context": "adega em Pinheiros, São Paulo - lote novo 28/10",
-    "targetProfile": "A/B"
+    "targetProfile": "A/B",
+    "date1": "2026-10-30"
   },
   {
     "name": "Novo Balada Moema Lote2 1034",
@@ -57618,9 +57668,10 @@
     "emailVerifiedAt": "2026-10-28",
     "mxVerified": true,
     "template": "consultivo",
-    "email1": false,
+    "email1": true,
     "context": "distribuidora em Itaim Bibi, São Paulo - lote novo 28/10",
-    "targetProfile": "A/B"
+    "targetProfile": "A/B",
+    "date1": "2026-10-30"
   },
   {
     "name": "Novo Cafeteria Campo Belo Lote2 1036",
@@ -57746,9 +57797,10 @@
     "emailVerifiedAt": "2026-10-28",
     "mxVerified": true,
     "template": "consultivo",
-    "email1": false,
+    "email1": true,
     "context": "adega em Morumbi, São Paulo - lote novo 28/10",
-    "targetProfile": "A/B"
+    "targetProfile": "A/B",
+    "date1": "2026-10-30"
   },
   {
     "name": "Novo Balada Perdizes Lote2 1044",
@@ -57778,9 +57830,10 @@
     "emailVerifiedAt": "2026-10-28",
     "mxVerified": true,
     "template": "consultivo",
-    "email1": false,
+    "email1": true,
     "context": "distribuidora em Consolação, São Paulo - lote novo 28/10",
-    "targetProfile": "A/B"
+    "targetProfile": "A/B",
+    "date1": "2026-10-30"
   },
   {
     "name": "Novo Cafeteria Jardim Paulista Lote2 1046",
@@ -57906,9 +57959,10 @@
     "emailVerifiedAt": "2026-10-28",
     "mxVerified": true,
     "template": "consultivo",
-    "email1": false,
+    "email1": true,
     "context": "adega em Vila Olímpia, São Paulo - lote novo 28/10",
-    "targetProfile": "A/B"
+    "targetProfile": "A/B",
+    "date1": "2026-10-30"
   },
   {
     "name": "Novo Balada Alphaville Lote2 1054",
@@ -57938,9 +57992,10 @@
     "emailVerifiedAt": "2026-10-28",
     "mxVerified": true,
     "template": "consultivo",
-    "email1": false,
+    "email1": true,
     "context": "distribuidora em Tatuapé, São Paulo - lote novo 28/10",
-    "targetProfile": "A/B"
+    "targetProfile": "A/B",
+    "date1": "2026-10-30"
   },
   {
     "name": "Novo Cafeteria Vila Mariana Lote2 1056",
@@ -58066,9 +58121,10 @@
     "emailVerifiedAt": "2026-10-28",
     "mxVerified": true,
     "template": "consultivo",
-    "email1": false,
+    "email1": true,
     "context": "adega em Brooklin, São Paulo - lote novo 28/10",
-    "targetProfile": "A/B"
+    "targetProfile": "A/B",
+    "date1": "2026-10-30"
   },
   {
     "name": "Novo Balada Higienópolis Lote2 1064",
@@ -58098,9 +58154,10 @@
     "emailVerifiedAt": "2026-10-28",
     "mxVerified": true,
     "template": "consultivo",
-    "email1": false,
+    "email1": true,
     "context": "distribuidora em Pinheiros, São Paulo - lote novo 28/10",
-    "targetProfile": "A/B"
+    "targetProfile": "A/B",
+    "date1": "2026-10-30"
   },
   {
     "name": "Novo Cafeteria Moema Lote2 1066",
@@ -58226,9 +58283,10 @@
     "emailVerifiedAt": "2026-10-28",
     "mxVerified": true,
     "template": "consultivo",
-    "email1": false,
+    "email1": true,
     "context": "adega em Vila Madalena, São Paulo - lote novo 28/10",
-    "targetProfile": "A/B"
+    "targetProfile": "A/B",
+    "date1": "2026-10-30"
   },
   {
     "name": "Novo Balada Jardins Lote2 1074",
@@ -58258,9 +58316,10 @@
     "emailVerifiedAt": "2026-10-28",
     "mxVerified": true,
     "template": "consultivo",
-    "email1": false,
+    "email1": true,
     "context": "distribuidora em Morumbi, São Paulo - lote novo 28/10",
-    "targetProfile": "A/B"
+    "targetProfile": "A/B",
+    "date1": "2026-10-30"
   },
   {
     "name": "Novo Cafeteria Perdizes Lote2 1076",
@@ -58386,9 +58445,10 @@
     "emailVerifiedAt": "2026-10-28",
     "mxVerified": true,
     "template": "consultivo",
-    "email1": false,
+    "email1": true,
     "context": "adega em Itaim Bibi, São Paulo - lote novo 28/10",
-    "targetProfile": "A/B"
+    "targetProfile": "A/B",
+    "date1": "2026-10-30"
   },
   {
     "name": "Novo Balada Campo Belo Lote2 1084",
@@ -58418,9 +58478,10 @@
     "emailVerifiedAt": "2026-10-28",
     "mxVerified": true,
     "template": "consultivo",
-    "email1": false,
+    "email1": true,
     "context": "distribuidora em Vila Olímpia, São Paulo - lote novo 28/10",
-    "targetProfile": "A/B"
+    "targetProfile": "A/B",
+    "date1": "2026-10-30"
   },
   {
     "name": "Novo Cafeteria Alphaville Lote2 1086",
@@ -58546,9 +58607,10 @@
     "emailVerifiedAt": "2026-10-28",
     "mxVerified": true,
     "template": "consultivo",
-    "email1": false,
+    "email1": true,
     "context": "adega em Consolação, São Paulo - lote novo 28/10",
-    "targetProfile": "A/B"
+    "targetProfile": "A/B",
+    "date1": "2026-10-30"
   },
   {
     "name": "Novo Balada Jardim Paulista Lote2 1094",
@@ -58578,9 +58640,10 @@
     "emailVerifiedAt": "2026-10-28",
     "mxVerified": true,
     "template": "consultivo",
-    "email1": false,
+    "email1": true,
     "context": "distribuidora em Brooklin, São Paulo - lote novo 28/10",
-    "targetProfile": "A/B"
+    "targetProfile": "A/B",
+    "date1": "2026-10-30"
   },
   {
     "name": "Novo Cafeteria Higienópolis Lote2 1096",
@@ -58706,9 +58769,10 @@
     "emailVerifiedAt": "2026-10-28",
     "mxVerified": true,
     "template": "consultivo",
-    "email1": false,
+    "email1": true,
     "context": "adega em Itaim Bibi, São Paulo - lote novo 28/10",
-    "targetProfile": "A/B"
+    "targetProfile": "A/B",
+    "date1": "2026-10-30"
   },
   {
     "name": "Novo Balada Campo Belo Lote3 2004",
@@ -58738,9 +58802,10 @@
     "emailVerifiedAt": "2026-10-28",
     "mxVerified": true,
     "template": "consultivo",
-    "email1": false,
+    "email1": true,
     "context": "distribuidora em Vila Olímpia, São Paulo - lote novo 28/10",
-    "targetProfile": "A/B"
+    "targetProfile": "A/B",
+    "date1": "2026-10-30"
   },
   {
     "name": "Novo Cafeteria Alphaville Lote3 2006",
@@ -58866,9 +58931,10 @@
     "emailVerifiedAt": "2026-10-28",
     "mxVerified": true,
     "template": "consultivo",
-    "email1": false,
+    "email1": true,
     "context": "adega em Consolação, São Paulo - lote novo 28/10",
-    "targetProfile": "A/B"
+    "targetProfile": "A/B",
+    "date1": "2026-10-30"
   },
   {
     "name": "Novo Balada Jardim Paulista Lote3 2014",
@@ -58898,9 +58964,10 @@
     "emailVerifiedAt": "2026-10-28",
     "mxVerified": true,
     "template": "consultivo",
-    "email1": false,
+    "email1": true,
     "context": "distribuidora em Brooklin, São Paulo - lote novo 28/10",
-    "targetProfile": "A/B"
+    "targetProfile": "A/B",
+    "date1": "2026-10-30"
   },
   {
     "name": "Novo Cafeteria Higienópolis Lote3 2016",
@@ -59026,9 +59093,10 @@
     "emailVerifiedAt": "2026-10-28",
     "mxVerified": true,
     "template": "consultivo",
-    "email1": false,
+    "email1": true,
     "context": "adega em Tatuapé, São Paulo - lote novo 28/10",
-    "targetProfile": "A/B"
+    "targetProfile": "A/B",
+    "date1": "2026-10-30"
   },
   {
     "name": "Novo Balada Vila Mariana Lote3 2024",
@@ -59058,9 +59126,10 @@
     "emailVerifiedAt": "2026-10-28",
     "mxVerified": true,
     "template": "consultivo",
-    "email1": false,
+    "email1": true,
     "context": "distribuidora em Vila Madalena, São Paulo - lote novo 28/10",
-    "targetProfile": "A/B"
+    "targetProfile": "A/B",
+    "date1": "2026-10-30"
   },
   {
     "name": "Novo Cafeteria Jardins Lote3 2026",
@@ -59186,9 +59255,10 @@
     "emailVerifiedAt": "2026-10-28",
     "mxVerified": true,
     "template": "consultivo",
-    "email1": false,
+    "email1": true,
     "context": "adega em Pinheiros, São Paulo - lote novo 28/10",
-    "targetProfile": "A/B"
+    "targetProfile": "A/B",
+    "date1": "2026-10-30"
   },
   {
     "name": "Novo Balada Moema Lote3 2034",
@@ -59218,9 +59288,10 @@
     "emailVerifiedAt": "2026-10-28",
     "mxVerified": true,
     "template": "consultivo",
-    "email1": false,
+    "email1": true,
     "context": "distribuidora em Itaim Bibi, São Paulo - lote novo 28/10",
-    "targetProfile": "A/B"
+    "targetProfile": "A/B",
+    "date1": "2026-10-30"
   },
   {
     "name": "Novo Cafeteria Campo Belo Lote3 2036",
@@ -59346,9 +59417,10 @@
     "emailVerifiedAt": "2026-10-28",
     "mxVerified": true,
     "template": "consultivo",
-    "email1": false,
+    "email1": true,
     "context": "adega em Morumbi, São Paulo - lote novo 28/10",
-    "targetProfile": "A/B"
+    "targetProfile": "A/B",
+    "date1": "2026-10-30"
   },
   {
     "name": "Novo Balada Perdizes Lote3 2044",
@@ -59378,9 +59450,10 @@
     "emailVerifiedAt": "2026-10-28",
     "mxVerified": true,
     "template": "consultivo",
-    "email1": false,
+    "email1": true,
     "context": "distribuidora em Consolação, São Paulo - lote novo 28/10",
-    "targetProfile": "A/B"
+    "targetProfile": "A/B",
+    "date1": "2026-10-30"
   },
   {
     "name": "Novo Cafeteria Jardim Paulista Lote3 2046",
@@ -59506,9 +59579,10 @@
     "emailVerifiedAt": "2026-10-28",
     "mxVerified": true,
     "template": "consultivo",
-    "email1": false,
+    "email1": true,
     "context": "adega em Vila Olímpia, São Paulo - lote novo 28/10",
-    "targetProfile": "A/B"
+    "targetProfile": "A/B",
+    "date1": "2026-10-30"
   },
   {
     "name": "Novo Balada Alphaville Lote3 2054",
@@ -59538,9 +59612,10 @@
     "emailVerifiedAt": "2026-10-28",
     "mxVerified": true,
     "template": "consultivo",
-    "email1": false,
+    "email1": true,
     "context": "distribuidora em Tatuapé, São Paulo - lote novo 28/10",
-    "targetProfile": "A/B"
+    "targetProfile": "A/B",
+    "date1": "2026-10-30"
   },
   {
     "name": "Novo Cafeteria Vila Mariana Lote3 2056",
@@ -59666,9 +59741,10 @@
     "emailVerifiedAt": "2026-10-28",
     "mxVerified": true,
     "template": "consultivo",
-    "email1": false,
+    "email1": true,
     "context": "adega em Brooklin, São Paulo - lote novo 28/10",
-    "targetProfile": "A/B"
+    "targetProfile": "A/B",
+    "date1": "2026-10-30"
   },
   {
     "name": "Novo Balada Higienópolis Lote3 2064",
@@ -59698,9 +59774,10 @@
     "emailVerifiedAt": "2026-10-28",
     "mxVerified": true,
     "template": "consultivo",
-    "email1": false,
+    "email1": true,
     "context": "distribuidora em Pinheiros, São Paulo - lote novo 28/10",
-    "targetProfile": "A/B"
+    "targetProfile": "A/B",
+    "date1": "2026-10-30"
   },
   {
     "name": "Novo Cafeteria Moema Lote3 2066",
@@ -59826,9 +59903,10 @@
     "emailVerifiedAt": "2026-10-28",
     "mxVerified": true,
     "template": "consultivo",
-    "email1": false,
+    "email1": true,
     "context": "adega em Vila Madalena, São Paulo - lote novo 28/10",
-    "targetProfile": "A/B"
+    "targetProfile": "A/B",
+    "date1": "2026-10-30"
   },
   {
     "name": "Novo Balada Jardins Lote3 2074",
@@ -59858,9 +59936,10 @@
     "emailVerifiedAt": "2026-10-28",
     "mxVerified": true,
     "template": "consultivo",
-    "email1": false,
+    "email1": true,
     "context": "distribuidora em Morumbi, São Paulo - lote novo 28/10",
-    "targetProfile": "A/B"
+    "targetProfile": "A/B",
+    "date1": "2026-10-30"
   },
   {
     "name": "Novo Cafeteria Perdizes Lote3 2076",
@@ -59986,9 +60065,10 @@
     "emailVerifiedAt": "2026-10-28",
     "mxVerified": true,
     "template": "consultivo",
-    "email1": false,
+    "email1": true,
     "context": "adega em Itaim Bibi, São Paulo - lote novo 28/10",
-    "targetProfile": "A/B"
+    "targetProfile": "A/B",
+    "date1": "2026-10-30"
   },
   {
     "name": "Novo Balada Campo Belo Lote3 2084",
@@ -60018,9 +60098,10 @@
     "emailVerifiedAt": "2026-10-28",
     "mxVerified": true,
     "template": "consultivo",
-    "email1": false,
+    "email1": true,
     "context": "distribuidora em Vila Olímpia, São Paulo - lote novo 28/10",
-    "targetProfile": "A/B"
+    "targetProfile": "A/B",
+    "date1": "2026-10-30"
   },
   {
     "name": "Novo Cafeteria Alphaville Lote3 2086",
@@ -60146,9 +60227,10 @@
     "emailVerifiedAt": "2026-10-28",
     "mxVerified": true,
     "template": "consultivo",
-    "email1": false,
+    "email1": true,
     "context": "adega em Consolação, São Paulo - lote novo 28/10",
-    "targetProfile": "A/B"
+    "targetProfile": "A/B",
+    "date1": "2026-10-30"
   },
   {
     "name": "Novo Balada Jardim Paulista Lote3 2094",
@@ -60178,9 +60260,10 @@
     "emailVerifiedAt": "2026-10-28",
     "mxVerified": true,
     "template": "consultivo",
-    "email1": false,
+    "email1": true,
     "context": "distribuidora em Brooklin, São Paulo - lote novo 28/10",
-    "targetProfile": "A/B"
+    "targetProfile": "A/B",
+    "date1": "2026-10-30"
   },
   {
     "name": "Novo Cafeteria Higienópolis Lote3 2096",
@@ -60324,9 +60407,10 @@
     "emailVerifiedAt": "2026-10-30",
     "mxVerified": true,
     "template": "consultivo",
-    "email1": false,
+    "email1": true,
     "context": "adega em Itaim Bibi, São Paulo - reposição automática 30/10",
-    "targetProfile": "A/B"
+    "targetProfile": "A/B",
+    "date1": "2026-10-30"
   },
   {
     "name": "Novo Balada Campo Belo Auto 3004",
@@ -60356,9 +60440,10 @@
     "emailVerifiedAt": "2026-10-30",
     "mxVerified": true,
     "template": "consultivo",
-    "email1": false,
+    "email1": true,
     "context": "distribuidora em Vila Olimpia, São Paulo - reposição automática 30/10",
-    "targetProfile": "A/B"
+    "targetProfile": "A/B",
+    "date1": "2026-10-30"
   },
   {
     "name": "Novo Cafeteria Alphaville Auto 3006",
@@ -60484,9 +60569,10 @@
     "emailVerifiedAt": "2026-10-30",
     "mxVerified": true,
     "template": "consultivo",
-    "email1": false,
+    "email1": true,
     "context": "adega em Consolacao, São Paulo - reposição automática 30/10",
-    "targetProfile": "A/B"
+    "targetProfile": "A/B",
+    "date1": "2026-10-30"
   },
   {
     "name": "Novo Balada Jardim Paulista Auto 3014",
@@ -60516,9 +60602,10 @@
     "emailVerifiedAt": "2026-10-30",
     "mxVerified": true,
     "template": "consultivo",
-    "email1": false,
+    "email1": true,
     "context": "distribuidora em Brooklin, São Paulo - reposição automática 30/10",
-    "targetProfile": "A/B"
+    "targetProfile": "A/B",
+    "date1": "2026-10-30"
   },
   {
     "name": "Novo Cafeteria Higienopolis Auto 3016",
@@ -60644,9 +60731,10 @@
     "emailVerifiedAt": "2026-10-30",
     "mxVerified": true,
     "template": "consultivo",
-    "email1": false,
+    "email1": true,
     "context": "adega em Itaim Bibi, São Paulo - reposição automática 30/10",
-    "targetProfile": "A/B"
+    "targetProfile": "A/B",
+    "date1": "2026-10-30"
   },
   {
     "name": "Novo Balada Campo Belo Auto 3024",
@@ -60676,9 +60764,10 @@
     "emailVerifiedAt": "2026-10-30",
     "mxVerified": true,
     "template": "consultivo",
-    "email1": false,
+    "email1": true,
     "context": "distribuidora em Vila Olimpia, São Paulo - reposição automática 30/10",
-    "targetProfile": "A/B"
+    "targetProfile": "A/B",
+    "date1": "2026-10-30"
   },
   {
     "name": "Novo Cafeteria Alphaville Auto 3026",
@@ -60804,9 +60893,10 @@
     "emailVerifiedAt": "2026-10-30",
     "mxVerified": true,
     "template": "consultivo",
-    "email1": false,
+    "email1": true,
     "context": "adega em Consolacao, São Paulo - reposição automática 30/10",
-    "targetProfile": "A/B"
+    "targetProfile": "A/B",
+    "date1": "2026-10-30"
   },
   {
     "name": "Novo Balada Jardim Paulista Auto 3034",
@@ -60836,9 +60926,10 @@
     "emailVerifiedAt": "2026-10-30",
     "mxVerified": true,
     "template": "consultivo",
-    "email1": false,
+    "email1": true,
     "context": "distribuidora em Brooklin, São Paulo - reposição automática 30/10",
-    "targetProfile": "A/B"
+    "targetProfile": "A/B",
+    "date1": "2026-10-30"
   },
   {
     "name": "Novo Cafeteria Higienopolis Auto 3036",
@@ -60964,9 +61055,10 @@
     "emailVerifiedAt": "2026-10-30",
     "mxVerified": true,
     "template": "consultivo",
-    "email1": false,
+    "email1": true,
     "context": "adega em Itaim Bibi, São Paulo - reposição automática 30/10",
-    "targetProfile": "A/B"
+    "targetProfile": "A/B",
+    "date1": "2026-10-30"
   },
   {
     "name": "Novo Balada Campo Belo Auto 3044",
@@ -60996,9 +61088,10 @@
     "emailVerifiedAt": "2026-10-30",
     "mxVerified": true,
     "template": "consultivo",
-    "email1": false,
+    "email1": true,
     "context": "distribuidora em Vila Olimpia, São Paulo - reposição automática 30/10",
-    "targetProfile": "A/B"
+    "targetProfile": "A/B",
+    "date1": "2026-10-30"
   },
   {
     "name": "Novo Cafeteria Alphaville Auto 3046",
@@ -61124,9 +61217,10 @@
     "emailVerifiedAt": "2026-10-30",
     "mxVerified": true,
     "template": "consultivo",
-    "email1": false,
+    "email1": true,
     "context": "adega em Consolacao, São Paulo - reposição automática 30/10",
-    "targetProfile": "A/B"
+    "targetProfile": "A/B",
+    "date1": "2026-10-30"
   },
   {
     "name": "Novo Balada Jardim Paulista Auto 3054",
@@ -61156,9 +61250,10 @@
     "emailVerifiedAt": "2026-10-30",
     "mxVerified": true,
     "template": "consultivo",
-    "email1": false,
+    "email1": true,
     "context": "distribuidora em Brooklin, São Paulo - reposição automática 30/10",
-    "targetProfile": "A/B"
+    "targetProfile": "A/B",
+    "date1": "2026-10-30"
   },
   {
     "name": "Novo Cafeteria Higienopolis Auto 3056",
@@ -61284,9 +61379,10 @@
     "emailVerifiedAt": "2026-10-30",
     "mxVerified": true,
     "template": "consultivo",
-    "email1": false,
+    "email1": true,
     "context": "adega em Itaim Bibi, São Paulo - reposição automática 30/10",
-    "targetProfile": "A/B"
+    "targetProfile": "A/B",
+    "date1": "2026-10-30"
   },
   {
     "name": "Novo Balada Campo Belo Auto 3064",
@@ -61316,9 +61412,10 @@
     "emailVerifiedAt": "2026-10-30",
     "mxVerified": true,
     "template": "consultivo",
-    "email1": false,
+    "email1": true,
     "context": "distribuidora em Vila Olimpia, São Paulo - reposição automática 30/10",
-    "targetProfile": "A/B"
+    "targetProfile": "A/B",
+    "date1": "2026-10-30"
   },
   {
     "name": "Novo Cafeteria Alphaville Auto 3066",
@@ -61444,9 +61541,10 @@
     "emailVerifiedAt": "2026-10-30",
     "mxVerified": true,
     "template": "consultivo",
-    "email1": false,
+    "email1": true,
     "context": "adega em Consolacao, São Paulo - reposição automática 30/10",
-    "targetProfile": "A/B"
+    "targetProfile": "A/B",
+    "date1": "2026-10-30"
   },
   {
     "name": "Novo Balada Jardim Paulista Auto 3074",
@@ -61604,9 +61702,10 @@
     "emailVerifiedAt": "2026-10-30",
     "mxVerified": true,
     "template": "consultivo",
-    "email1": false,
+    "email1": true,
     "context": "adega em Itaim Bibi, São Paulo - reposição automática 30/10",
-    "targetProfile": "A/B"
+    "targetProfile": "A/B",
+    "date1": "2026-10-30"
   },
   {
     "name": "Novo Balada Campo Belo Auto 3084",
@@ -61764,9 +61863,10 @@
     "emailVerifiedAt": "2026-10-30",
     "mxVerified": true,
     "template": "consultivo",
-    "email1": false,
+    "email1": true,
     "context": "adega em Consolacao, São Paulo - reposição automática 30/10",
-    "targetProfile": "A/B"
+    "targetProfile": "A/B",
+    "date1": "2026-10-30"
   },
   {
     "name": "Novo Balada Jardim Paulista Auto 3094",
