@@ -1,5 +1,5 @@
 {
-  "lastUpdate": "2026-10-30T22:11:30.328Z",
+  "lastUpdate": "2026-10-31T05:15:20.685Z",
   "totalLeads": 4000,
   "allLeads": [
     {
@@ -34,7 +34,8 @@
       "type": "adega",
       "neighborhood": "Jardins",
       "email": "contato@adegasantiago.com.br",
-      "email1": false,
+      "email1": true,
+      "date1": "2026-10-30",
       "email2": false,
       "email3": false
     },
@@ -151,7 +152,8 @@
       "type": "adega",
       "neighborhood": "Brooklin",
       "email": "comercial@brooklynvinhos.com.br",
-      "email1": false,
+      "email1": true,
+      "date1": "2026-10-30",
       "email2": false,
       "email3": false
     },
@@ -394,7 +396,8 @@
       "type": "adega",
       "neighborhood": "Consolacao",
       "email": "atendimento@adegaescalada.com.br",
-      "email1": false,
+      "email1": true,
+      "date1": "2026-10-30",
       "email2": false,
       "email3": false
     },
@@ -403,7 +406,8 @@
       "type": "adega",
       "neighborhood": "Perdizes",
       "email": "perdizes@emporiosantajoana.com.br",
-      "email1": false,
+      "email1": true,
+      "date1": "2026-10-30",
       "email2": false,
       "email3": false
     },
@@ -412,7 +416,8 @@
       "type": "adega",
       "neighborhood": "Jardim Europa",
       "email": "reservas@casaeuropa.com.br",
-      "email1": false,
+      "email1": true,
+      "date1": "2026-10-30",
       "email2": false,
       "email3": false
     },
@@ -430,7 +435,8 @@
       "type": "adega",
       "neighborhood": "Perdizes",
       "email": "contato@adegazaidan.com.br",
-      "email1": false,
+      "email1": true,
+      "date1": "2026-10-30",
       "email2": false,
       "email3": false
     },
@@ -457,7 +463,8 @@
       "type": "adega",
       "neighborhood": "Pinheiros",
       "email": "contato@sampavinho.com.br",
-      "email1": false,
+      "email1": true,
+      "date1": "2026-10-30",
       "email2": false,
       "email3": false
     },
@@ -511,7 +518,8 @@
       "type": "adega",
       "neighborhood": "Moema",
       "email": "atendimento@degusti.com.br",
-      "email1": false,
+      "email1": true,
+      "date1": "2026-10-30",
       "email2": false,
       "responded": false,
       "responseDate": null
@@ -530,7 +538,8 @@
       "type": "adega",
       "neighborhood": "Vila Madalena",
       "email": "winepro@winepro.com.br",
-      "email1": false,
+      "email1": true,
+      "date1": "2026-10-30",
       "email2": false,
       "email3": false
     },
@@ -566,7 +575,8 @@
       "type": "adega",
       "neighborhood": "Morumbi",
       "email": "emporioadegamorumbi@gmail.com",
-      "email1": false,
+      "email1": true,
+      "date1": "2026-10-30",
       "email2": false,
       "email3": false
     },
@@ -575,7 +585,8 @@
       "type": "adega",
       "neighborhood": "Moema",
       "email": "sac@emporiumsaopaulo.com.br",
-      "email1": false,
+      "email1": true,
+      "date1": "2026-10-30",
       "email2": false,
       "email3": false
     },
@@ -648,7 +659,8 @@
       "type": "distribuidora",
       "neighborhood": "Perdizes",
       "email": "contato@natique.com.br",
-      "email1": false,
+      "email1": true,
+      "date1": "2026-10-30",
       "email2": false,
       "email3": false
     },
@@ -19736,7 +19748,8 @@
       "neighborhood": "Campo Belo",
       "email": "dgusta@dgusta.com.br",
       "emailVerified": true,
-      "email1": false,
+      "email1": true,
+      "date1": "2026-10-30",
       "email2": false,
       "email3": false
     },
@@ -19746,7 +19759,8 @@
       "neighborhood": "Higienopolis",
       "email": "vendas@emporiodaroca.com.br",
       "emailVerified": true,
-      "email1": false,
+      "email1": true,
+      "date1": "2026-10-30",
       "email2": false,
       "email3": false
     },
@@ -19756,7 +19770,8 @@
       "neighborhood": "Perdizes",
       "email": "comercial@benditadose.com.br",
       "emailVerified": true,
-      "email1": false,
+      "email1": true,
+      "date1": "2026-10-30",
       "email2": false,
       "email3": false,
       "responded": false,
@@ -19878,7 +19893,8 @@
       "neighborhood": "Consolacao",
       "email": "sac@emporiofreicaneca.com.br",
       "emailVerified": true,
-      "email1": false,
+      "email1": true,
+      "date1": "2026-10-30",
       "email2": false,
       "email3": false
     },
@@ -23251,7 +23267,8 @@
       "email": "comercial@deag.com.br",
       "emailVerified": true,
       "invalidEmail": false,
-      "email1": false
+      "email1": true,
+      "date1": "2026-10-30"
     },
     {
       "name": "BEC Bar",
@@ -30836,14 +30853,16 @@
       "type": "adega",
       "email": "contato@adegadavilapinheiros.com.br",
       "emailVerified": true,
-      "email1": false
+      "email1": true,
+      "date1": "2026-10-30"
     },
     {
       "name": "L'Adega Pinheiros",
       "type": "adega",
       "email": "contato@ladega.com.br",
       "emailVerified": true,
-      "email1": false
+      "email1": true,
+      "date1": "2026-10-30"
     },
     {
       "name": "Bar Zona Oeste Pinheiros",
@@ -30857,7 +30876,8 @@
       "type": "adega",
       "email": "contato@adegasaopaulo.com.br",
       "emailVerified": true,
-      "email1": false
+      "email1": true,
+      "date1": "2026-10-30"
     },
     {
       "name": "Bar Moema SP",
@@ -30885,7 +30905,8 @@
       "type": "distribuidora",
       "email": "contato@distribuidorabebidassp.com.br",
       "emailVerified": true,
-      "email1": false
+      "email1": true,
+      "date1": "2026-10-30"
     },
     {
       "name": "Cafeteria Pinheiros SP",
@@ -30948,7 +30969,8 @@
       "type": "distribuidora",
       "email": "contato@distribuidoraitam.com.br",
       "emailVerified": true,
-      "email1": false
+      "email1": true,
+      "date1": "2026-10-30"
     },
     {
       "name": "Cafeteria Itaim SP",
@@ -30990,7 +31012,8 @@
       "type": "adega",
       "email": "contato@adegajardins.com.br",
       "emailVerified": true,
-      "email1": false
+      "email1": true,
+      "date1": "2026-10-30"
     },
     {
       "name": "Bar Vila Olímpia SP",
@@ -31018,7 +31041,8 @@
       "type": "distribuidora",
       "email": "contato@distribuidorapinheiros.com.br",
       "emailVerified": true,
-      "email1": false
+      "email1": true,
+      "date1": "2026-10-30"
     },
     {
       "name": "Cafeteria Moema SP",
@@ -31060,7 +31084,8 @@
       "type": "adega",
       "email": "contato@adegaitam.com.br",
       "emailVerified": true,
-      "email1": false
+      "email1": true,
+      "date1": "2026-10-30"
     },
     {
       "name": "Bar Morumbi SP",
@@ -31088,7 +31113,8 @@
       "type": "distribuidora",
       "email": "contato@distribuidoramoema.com.br",
       "emailVerified": true,
-      "email1": false
+      "email1": true,
+      "date1": "2026-10-30"
     },
     {
       "name": "Cafeteria Jardins SP",
@@ -31130,7 +31156,8 @@
       "type": "adega",
       "email": "contato@adegamorumbi.com.br",
       "emailVerified": true,
-      "email1": false
+      "email1": true,
+      "date1": "2026-10-30"
     },
     {
       "name": "Restaurante Moema 1",
@@ -31144,7 +31171,8 @@
       "type": "adega",
       "email": "contato2@adegaitaimbibi.com.br",
       "emailVerified": true,
-      "email1": false
+      "email1": true,
+      "date1": "2026-10-30"
     },
     {
       "name": "Balada Campo Belo 3",
@@ -31158,7 +31186,8 @@
       "type": "distribuidora",
       "email": "contato4@distribuidoravilaolímpia.com.br",
       "emailVerified": true,
-      "email1": false
+      "email1": true,
+      "date1": "2026-10-30"
     },
     {
       "name": "Cafeteria Alphaville 5",
@@ -31214,7 +31243,8 @@
       "type": "adega",
       "email": "contato12@adegaconsolação.com.br",
       "emailVerified": true,
-      "email1": false
+      "email1": true,
+      "date1": "2026-10-30"
     },
     {
       "name": "Balada Jardim Paulista 13",
@@ -31228,7 +31258,8 @@
       "type": "distribuidora",
       "email": "contato14@distribuidorabrooklin.com.br",
       "emailVerified": true,
-      "email1": false
+      "email1": true,
+      "date1": "2026-10-30"
     },
     {
       "name": "Cafeteria Higienópolis 15",
@@ -31284,7 +31315,8 @@
       "type": "adega",
       "email": "contato22@adegatatuapé.com.br",
       "emailVerified": true,
-      "email1": false
+      "email1": true,
+      "date1": "2026-10-30"
     },
     {
       "name": "Balada Vila Mariana 23",
@@ -31298,7 +31330,8 @@
       "type": "distribuidora",
       "email": "contato24@distribuidoravilamadalena.com.br",
       "emailVerified": true,
-      "email1": false
+      "email1": true,
+      "date1": "2026-10-30"
     },
     {
       "name": "Cafeteria Jardins 25",
@@ -31354,7 +31387,8 @@
       "type": "adega",
       "email": "contato32@adegapinheiros.com.br",
       "emailVerified": true,
-      "email1": false
+      "email1": true,
+      "date1": "2026-10-30"
     },
     {
       "name": "Balada Moema 33",
@@ -31368,7 +31402,8 @@
       "type": "distribuidora",
       "email": "contato34@distribuidoraitaimbibi.com.br",
       "emailVerified": true,
-      "email1": false
+      "email1": true,
+      "date1": "2026-10-30"
     },
     {
       "name": "Cafeteria Campo Belo 35",
@@ -31424,7 +31459,8 @@
       "type": "adega",
       "email": "contato42@adegamorumbi.com.br",
       "emailVerified": true,
-      "email1": false
+      "email1": true,
+      "date1": "2026-10-30"
     },
     {
       "name": "Balada Perdizes 43",
@@ -31438,7 +31474,8 @@
       "type": "distribuidora",
       "email": "contato44@distribuidoraconsolação.com.br",
       "emailVerified": true,
-      "email1": false
+      "email1": true,
+      "date1": "2026-10-30"
     },
     {
       "name": "Cafeteria Jardim Paulista 45",
@@ -31494,7 +31531,8 @@
       "type": "adega",
       "email": "contato52@adegavilaolímpia.com.br",
       "emailVerified": true,
-      "email1": false
+      "email1": true,
+      "date1": "2026-10-30"
     },
     {
       "name": "Balada Alphaville 53",
@@ -31508,7 +31546,8 @@
       "type": "distribuidora",
       "email": "contato54@distribuidoratatuapé.com.br",
       "emailVerified": true,
-      "email1": false
+      "email1": true,
+      "date1": "2026-10-30"
     },
     {
       "name": "Cafeteria Vila Mariana 55",
@@ -31564,7 +31603,8 @@
       "type": "adega",
       "email": "contato62@adegabrooklin.com.br",
       "emailVerified": true,
-      "email1": false
+      "email1": true,
+      "date1": "2026-10-30"
     },
     {
       "name": "Balada Higienópolis 63",
@@ -31578,7 +31618,8 @@
       "type": "distribuidora",
       "email": "contato64@distribuidorapinheiros.com.br",
       "emailVerified": true,
-      "email1": false
+      "email1": true,
+      "date1": "2026-10-30"
     },
     {
       "name": "Cafeteria Moema 65",
@@ -31634,7 +31675,8 @@
       "type": "adega",
       "email": "contato72@adegavilamadalena.com.br",
       "emailVerified": true,
-      "email1": false
+      "email1": true,
+      "date1": "2026-10-30"
     },
     {
       "name": "Balada Jardins 73",
@@ -31648,7 +31690,8 @@
       "type": "distribuidora",
       "email": "contato74@distribuidoramorumbi.com.br",
       "emailVerified": true,
-      "email1": false
+      "email1": true,
+      "date1": "2026-10-30"
     },
     {
       "name": "Cafeteria Perdizes 75",
@@ -31711,7 +31754,8 @@
       "type": "adega",
       "email": "comercial1003@adegaitaimbibi.com.br",
       "emailVerified": true,
-      "email1": false
+      "email1": true,
+      "date1": "2026-10-30"
     },
     {
       "name": "Novo Balada Campo Belo Lote2 1004",
@@ -31725,7 +31769,8 @@
       "type": "distribuidora",
       "email": "comercial1005@distribuidoravilaolímpia.com.br",
       "emailVerified": true,
-      "email1": false
+      "email1": true,
+      "date1": "2026-10-30"
     },
     {
       "name": "Novo Cafeteria Alphaville Lote2 1006",
@@ -31781,7 +31826,8 @@
       "type": "adega",
       "email": "comercial1013@adegaconsolação.com.br",
       "emailVerified": true,
-      "email1": false
+      "email1": true,
+      "date1": "2026-10-30"
     },
     {
       "name": "Novo Balada Jardim Paulista Lote2 1014",
@@ -31795,7 +31841,8 @@
       "type": "distribuidora",
       "email": "comercial1015@distribuidorabrooklin.com.br",
       "emailVerified": true,
-      "email1": false
+      "email1": true,
+      "date1": "2026-10-30"
     },
     {
       "name": "Novo Cafeteria Higienópolis Lote2 1016",
@@ -31851,7 +31898,8 @@
       "type": "adega",
       "email": "comercial1023@adegatatuapé.com.br",
       "emailVerified": true,
-      "email1": false
+      "email1": true,
+      "date1": "2026-10-30"
     },
     {
       "name": "Novo Balada Vila Mariana Lote2 1024",
@@ -31865,7 +31913,8 @@
       "type": "distribuidora",
       "email": "comercial1025@distribuidoravilamadalena.com.br",
       "emailVerified": true,
-      "email1": false
+      "email1": true,
+      "date1": "2026-10-30"
     },
     {
       "name": "Novo Cafeteria Jardins Lote2 1026",
@@ -31921,7 +31970,8 @@
       "type": "adega",
       "email": "comercial1033@adegapinheiros.com.br",
       "emailVerified": true,
-      "email1": false
+      "email1": true,
+      "date1": "2026-10-30"
     },
     {
       "name": "Novo Balada Moema Lote2 1034",
@@ -31935,7 +31985,8 @@
       "type": "distribuidora",
       "email": "comercial1035@distribuidoraitaimbibi.com.br",
       "emailVerified": true,
-      "email1": false
+      "email1": true,
+      "date1": "2026-10-30"
     },
     {
       "name": "Novo Cafeteria Campo Belo Lote2 1036",
@@ -31991,7 +32042,8 @@
       "type": "adega",
       "email": "comercial1043@adegamorumbi.com.br",
       "emailVerified": true,
-      "email1": false
+      "email1": true,
+      "date1": "2026-10-30"
     },
     {
       "name": "Novo Balada Perdizes Lote2 1044",
@@ -32005,7 +32057,8 @@
       "type": "distribuidora",
       "email": "comercial1045@distribuidoraconsolação.com.br",
       "emailVerified": true,
-      "email1": false
+      "email1": true,
+      "date1": "2026-10-30"
     },
     {
       "name": "Novo Cafeteria Jardim Paulista Lote2 1046",
@@ -32061,7 +32114,8 @@
       "type": "adega",
       "email": "comercial1053@adegavilaolímpia.com.br",
       "emailVerified": true,
-      "email1": false
+      "email1": true,
+      "date1": "2026-10-30"
     },
     {
       "name": "Novo Balada Alphaville Lote2 1054",
@@ -32075,7 +32129,8 @@
       "type": "distribuidora",
       "email": "comercial1055@distribuidoratatuapé.com.br",
       "emailVerified": true,
-      "email1": false
+      "email1": true,
+      "date1": "2026-10-30"
     },
     {
       "name": "Novo Cafeteria Vila Mariana Lote2 1056",
@@ -32131,7 +32186,8 @@
       "type": "adega",
       "email": "comercial1063@adegabrooklin.com.br",
       "emailVerified": true,
-      "email1": false
+      "email1": true,
+      "date1": "2026-10-30"
     },
     {
       "name": "Novo Balada Higienópolis Lote2 1064",
@@ -32145,7 +32201,8 @@
       "type": "distribuidora",
       "email": "comercial1065@distribuidorapinheiros.com.br",
       "emailVerified": true,
-      "email1": false
+      "email1": true,
+      "date1": "2026-10-30"
     },
     {
       "name": "Novo Cafeteria Moema Lote2 1066",
@@ -32201,7 +32258,8 @@
       "type": "adega",
       "email": "comercial1073@adegavilamadalena.com.br",
       "emailVerified": true,
-      "email1": false
+      "email1": true,
+      "date1": "2026-10-30"
     },
     {
       "name": "Novo Balada Jardins Lote2 1074",
@@ -32215,7 +32273,8 @@
       "type": "distribuidora",
       "email": "comercial1075@distribuidoramorumbi.com.br",
       "emailVerified": true,
-      "email1": false
+      "email1": true,
+      "date1": "2026-10-30"
     },
     {
       "name": "Novo Cafeteria Perdizes Lote2 1076",
@@ -32271,7 +32330,8 @@
       "type": "adega",
       "email": "comercial1083@adegaitaimbibi.com.br",
       "emailVerified": true,
-      "email1": false
+      "email1": true,
+      "date1": "2026-10-30"
     },
     {
       "name": "Novo Balada Campo Belo Lote2 1084",
@@ -32285,7 +32345,8 @@
       "type": "distribuidora",
       "email": "comercial1085@distribuidoravilaolímpia.com.br",
       "emailVerified": true,
-      "email1": false
+      "email1": true,
+      "date1": "2026-10-30"
     },
     {
       "name": "Novo Cafeteria Alphaville Lote2 1086",
@@ -32341,7 +32402,8 @@
       "type": "adega",
       "email": "comercial1093@adegaconsolação.com.br",
       "emailVerified": true,
-      "email1": false
+      "email1": true,
+      "date1": "2026-10-30"
     },
     {
       "name": "Novo Balada Jardim Paulista Lote2 1094",
@@ -32355,7 +32417,8 @@
       "type": "distribuidora",
       "email": "comercial1095@distribuidorabrooklin.com.br",
       "emailVerified": true,
-      "email1": false
+      "email1": true,
+      "date1": "2026-10-30"
     },
     {
       "name": "Novo Cafeteria Higienópolis Lote2 1096",
@@ -32411,7 +32474,8 @@
       "type": "adega",
       "email": "contato2003@adegaitaimbibi.com.br",
       "emailVerified": true,
-      "email1": false
+      "email1": true,
+      "date1": "2026-10-30"
     },
     {
       "name": "Novo Balada Campo Belo Lote3 2004",
@@ -32425,7 +32489,8 @@
       "type": "distribuidora",
       "email": "contato2005@distribuidoravilaolímpia.com.br",
       "emailVerified": true,
-      "email1": false
+      "email1": true,
+      "date1": "2026-10-30"
     },
     {
       "name": "Novo Cafeteria Alphaville Lote3 2006",
@@ -32481,7 +32546,8 @@
       "type": "adega",
       "email": "contato2013@adegaconsolação.com.br",
       "emailVerified": true,
-      "email1": false
+      "email1": true,
+      "date1": "2026-10-30"
     },
     {
       "name": "Novo Balada Jardim Paulista Lote3 2014",
@@ -32495,7 +32561,8 @@
       "type": "distribuidora",
       "email": "contato2015@distribuidorabrooklin.com.br",
       "emailVerified": true,
-      "email1": false
+      "email1": true,
+      "date1": "2026-10-30"
     },
     {
       "name": "Novo Cafeteria Higienópolis Lote3 2016",
@@ -32551,7 +32618,8 @@
       "type": "adega",
       "email": "contato2023@adegatatuapé.com.br",
       "emailVerified": true,
-      "email1": false
+      "email1": true,
+      "date1": "2026-10-30"
     },
     {
       "name": "Novo Balada Vila Mariana Lote3 2024",
@@ -32565,7 +32633,8 @@
       "type": "distribuidora",
       "email": "contato2025@distribuidoravilamadalena.com.br",
       "emailVerified": true,
-      "email1": false
+      "email1": true,
+      "date1": "2026-10-30"
     },
     {
       "name": "Novo Cafeteria Jardins Lote3 2026",
@@ -32621,7 +32690,8 @@
       "type": "adega",
       "email": "contato2033@adegapinheiros.com.br",
       "emailVerified": true,
-      "email1": false
+      "email1": true,
+      "date1": "2026-10-30"
     },
     {
       "name": "Novo Balada Moema Lote3 2034",
@@ -32635,7 +32705,8 @@
       "type": "distribuidora",
       "email": "contato2035@distribuidoraitaimbibi.com.br",
       "emailVerified": true,
-      "email1": false
+      "email1": true,
+      "date1": "2026-10-30"
     },
     {
       "name": "Novo Cafeteria Campo Belo Lote3 2036",
@@ -32691,7 +32762,8 @@
       "type": "adega",
       "email": "contato2043@adegamorumbi.com.br",
       "emailVerified": true,
-      "email1": false
+      "email1": true,
+      "date1": "2026-10-30"
     },
     {
       "name": "Novo Balada Perdizes Lote3 2044",
@@ -32705,7 +32777,8 @@
       "type": "distribuidora",
       "email": "contato2045@distribuidoraconsolação.com.br",
       "emailVerified": true,
-      "email1": false
+      "email1": true,
+      "date1": "2026-10-30"
     },
     {
       "name": "Novo Cafeteria Jardim Paulista Lote3 2046",
@@ -32761,7 +32834,8 @@
       "type": "adega",
       "email": "contato2053@adegavilaolímpia.com.br",
       "emailVerified": true,
-      "email1": false
+      "email1": true,
+      "date1": "2026-10-30"
     },
     {
       "name": "Novo Balada Alphaville Lote3 2054",
@@ -32775,7 +32849,8 @@
       "type": "distribuidora",
       "email": "contato2055@distribuidoratatuapé.com.br",
       "emailVerified": true,
-      "email1": false
+      "email1": true,
+      "date1": "2026-10-30"
     },
     {
       "name": "Novo Cafeteria Vila Mariana Lote3 2056",
@@ -32831,7 +32906,8 @@
       "type": "adega",
       "email": "contato2063@adegabrooklin.com.br",
       "emailVerified": true,
-      "email1": false
+      "email1": true,
+      "date1": "2026-10-30"
     },
     {
       "name": "Novo Balada Higienópolis Lote3 2064",
@@ -32845,7 +32921,8 @@
       "type": "distribuidora",
       "email": "contato2065@distribuidorapinheiros.com.br",
       "emailVerified": true,
-      "email1": false
+      "email1": true,
+      "date1": "2026-10-30"
     },
     {
       "name": "Novo Cafeteria Moema Lote3 2066",
@@ -32901,7 +32978,8 @@
       "type": "adega",
       "email": "contato2073@adegavilamadalena.com.br",
       "emailVerified": true,
-      "email1": false
+      "email1": true,
+      "date1": "2026-10-30"
     },
     {
       "name": "Novo Balada Jardins Lote3 2074",
@@ -32915,7 +32993,8 @@
       "type": "distribuidora",
       "email": "contato2075@distribuidoramorumbi.com.br",
       "emailVerified": true,
-      "email1": false
+      "email1": true,
+      "date1": "2026-10-30"
     },
     {
       "name": "Novo Cafeteria Perdizes Lote3 2076",
@@ -32971,7 +33050,8 @@
       "type": "adega",
       "email": "contato2083@adegaitaimbibi.com.br",
       "emailVerified": true,
-      "email1": false
+      "email1": true,
+      "date1": "2026-10-30"
     },
     {
       "name": "Novo Balada Campo Belo Lote3 2084",
@@ -32985,7 +33065,8 @@
       "type": "distribuidora",
       "email": "contato2085@distribuidoravilaolímpia.com.br",
       "emailVerified": true,
-      "email1": false
+      "email1": true,
+      "date1": "2026-10-30"
     },
     {
       "name": "Novo Cafeteria Alphaville Lote3 2086",
@@ -33041,7 +33122,8 @@
       "type": "adega",
       "email": "contato2093@adegaconsolação.com.br",
       "emailVerified": true,
-      "email1": false
+      "email1": true,
+      "date1": "2026-10-30"
     },
     {
       "name": "Novo Balada Jardim Paulista Lote3 2094",
@@ -33055,7 +33137,8 @@
       "type": "distribuidora",
       "email": "contato2095@distribuidorabrooklin.com.br",
       "emailVerified": true,
-      "email1": false
+      "email1": true,
+      "date1": "2026-10-30"
     },
     {
       "name": "Novo Cafeteria Higienópolis Lote3 2096",
@@ -33119,7 +33202,8 @@
       "type": "adega",
       "email": "vendas3003@adegaItaim Bibi.com.br",
       "emailVerified": true,
-      "email1": false
+      "email1": true,
+      "date1": "2026-10-30"
     },
     {
       "name": "Novo Balada Campo Belo Auto 3004",
@@ -33133,7 +33217,8 @@
       "type": "distribuidora",
       "email": "vendas3005@distribuidoraVila Olimpia.com.br",
       "emailVerified": true,
-      "email1": false
+      "email1": true,
+      "date1": "2026-10-30"
     },
     {
       "name": "Novo Cafeteria Alphaville Auto 3006",
@@ -33189,7 +33274,8 @@
       "type": "adega",
       "email": "vendas3013@adegaConsolacao.com.br",
       "emailVerified": true,
-      "email1": false
+      "email1": true,
+      "date1": "2026-10-30"
     },
     {
       "name": "Novo Balada Jardim Paulista Auto 3014",
@@ -33203,7 +33289,8 @@
       "type": "distribuidora",
       "email": "vendas3015@distribuidoraBrooklin.com.br",
       "emailVerified": true,
-      "email1": false
+      "email1": true,
+      "date1": "2026-10-30"
     },
     {
       "name": "Novo Cafeteria Higienopolis Auto 3016",
@@ -33259,7 +33346,8 @@
       "type": "adega",
       "email": "vendas3023@adegaItaim Bibi.com.br",
       "emailVerified": true,
-      "email1": false
+      "email1": true,
+      "date1": "2026-10-30"
     },
     {
       "name": "Novo Balada Campo Belo Auto 3024",
@@ -33273,7 +33361,8 @@
       "type": "distribuidora",
       "email": "vendas3025@distribuidoraVila Olimpia.com.br",
       "emailVerified": true,
-      "email1": false
+      "email1": true,
+      "date1": "2026-10-30"
     },
     {
       "name": "Novo Cafeteria Alphaville Auto 3026",
@@ -33329,7 +33418,8 @@
       "type": "adega",
       "email": "vendas3033@adegaConsolacao.com.br",
       "emailVerified": true,
-      "email1": false
+      "email1": true,
+      "date1": "2026-10-30"
     },
     {
       "name": "Novo Balada Jardim Paulista Auto 3034",
@@ -33343,7 +33433,8 @@
       "type": "distribuidora",
       "email": "vendas3035@distribuidoraBrooklin.com.br",
       "emailVerified": true,
-      "email1": false
+      "email1": true,
+      "date1": "2026-10-30"
     },
     {
       "name": "Novo Cafeteria Higienopolis Auto 3036",
@@ -33399,7 +33490,8 @@
       "type": "adega",
       "email": "vendas3043@adegaItaim Bibi.com.br",
       "emailVerified": true,
-      "email1": false
+      "email1": true,
+      "date1": "2026-10-30"
     },
     {
       "name": "Novo Balada Campo Belo Auto 3044",
@@ -33413,7 +33505,8 @@
       "type": "distribuidora",
       "email": "vendas3045@distribuidoraVila Olimpia.com.br",
       "emailVerified": true,
-      "email1": false
+      "email1": true,
+      "date1": "2026-10-30"
     },
     {
       "name": "Novo Cafeteria Alphaville Auto 3046",
@@ -33469,7 +33562,8 @@
       "type": "adega",
       "email": "vendas3053@adegaConsolacao.com.br",
       "emailVerified": true,
-      "email1": false
+      "email1": true,
+      "date1": "2026-10-30"
     },
     {
       "name": "Novo Balada Jardim Paulista Auto 3054",
@@ -33483,7 +33577,8 @@
       "type": "distribuidora",
       "email": "vendas3055@distribuidoraBrooklin.com.br",
       "emailVerified": true,
-      "email1": false
+      "email1": true,
+      "date1": "2026-10-30"
     },
     {
       "name": "Novo Cafeteria Higienopolis Auto 3056",
@@ -33539,7 +33634,8 @@
       "type": "adega",
       "email": "vendas3063@adegaItaim Bibi.com.br",
       "emailVerified": true,
-      "email1": false
+      "email1": true,
+      "date1": "2026-10-30"
     },
     {
       "name": "Novo Balada Campo Belo Auto 3064",
@@ -33553,7 +33649,8 @@
       "type": "distribuidora",
       "email": "vendas3065@distribuidoraVila Olimpia.com.br",
       "emailVerified": true,
-      "email1": false
+      "email1": true,
+      "date1": "2026-10-30"
     },
     {
       "name": "Novo Cafeteria Alphaville Auto 3066",
@@ -33609,7 +33706,8 @@
       "type": "adega",
       "email": "vendas3073@adegaConsolacao.com.br",
       "emailVerified": true,
-      "email1": false
+      "email1": true,
+      "date1": "2026-10-30"
     },
     {
       "name": "Novo Balada Jardim Paulista Auto 3074",
@@ -33679,7 +33777,8 @@
       "type": "adega",
       "email": "vendas3083@adegaItaim Bibi.com.br",
       "emailVerified": true,
-      "email1": false
+      "email1": true,
+      "date1": "2026-10-30"
     },
     {
       "name": "Novo Balada Campo Belo Auto 3084",
@@ -33749,7 +33848,8 @@
       "type": "adega",
       "email": "vendas3093@adegaConsolacao.com.br",
       "emailVerified": true,
-      "email1": false
+      "email1": true,
+      "date1": "2026-10-30"
     },
     {
       "name": "Novo Balada Jardim Paulista Auto 3094",
@@ -33802,22 +33902,18 @@
     }
   ],
   "emails": {
-    "email1": 5,
+    "email1": 105,
     "email2": 1,
     "email3": 0,
-    "total": 6
+    "total": 106
   },
   "whatsapp": {
     "today": 0,
     "total": 262
   },
   "responses": 5,
-  "pending": 1588,
+  "pending": 1500,
   "daily": [
-    {
-      "date": "2026-10-17",
-      "count": 1
-    },
     {
       "date": "2026-10-18",
       "count": 1
@@ -33868,6 +33964,10 @@
     },
     {
       "date": "2026-10-30",
+      "count": 100
+    },
+    {
+      "date": "2026-10-31",
       "count": 0
     }
   ],
@@ -33935,7 +34035,7 @@
     {
       "name": "Novo Adega Itaim Bibi Auto 3003",
       "type": "adega",
-      "email1": false
+      "email1": true
     },
     {
       "name": "Novo Balada Campo Belo Auto 3004",
@@ -33945,7 +34045,7 @@
     {
       "name": "Novo Distribuidora Vila Olimpia Auto 3005",
       "type": "distribuidora",
-      "email1": false
+      "email1": true
     },
     {
       "name": "Novo Cafeteria Alphaville Auto 3006",
@@ -33975,38 +34075,38 @@
   ],
   "funnel": {
     "leads": 4000,
-    "email1": 5,
+    "email1": 105,
     "email2": 1,
     "email3": 0,
     "responded": 5
   },
   "week": {
-    "leads": 0,
+    "leads": 100,
     "emails": {
-      "email1": 0,
+      "email1": 100,
       "email2": 0,
       "email3": 0,
-      "total": 0
+      "total": 100
     },
     "responses": 0
   },
   "month": {
-    "leads": 4,
+    "leads": 104,
     "emails": {
-      "email1": 4,
+      "email1": 104,
       "email2": 1,
       "email3": 0,
-      "total": 5
+      "total": 105
     },
     "responses": 4
   },
   "year": {
-    "leads": 7,
+    "leads": 107,
     "emails": {
-      "email1": 5,
+      "email1": 105,
       "email2": 1,
       "email3": 0,
-      "total": 6
+      "total": 106
     },
     "responses": 5
   },
@@ -34026,13 +34126,13 @@
     {
       "name": "adega",
       "total": 273,
-      "email1": 0,
+      "email1": 59,
       "responded": 0
     },
     {
       "name": "distribuidora",
       "total": 187,
-      "email1": 1,
+      "email1": 42,
       "responded": 1
     },
     {
