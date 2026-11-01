@@ -6,11 +6,12 @@
     "type": "bar",
     "website": "https://www.bardonerso.com.br",
     "context": "refer├¬ncia em churrasco e drinks em Moema",
-    "email1": false,
+    "email1": true,
     "email2": false,
     "email3": false,
     "template": "consultivo",
-    "targetProfile": "A/B"
+    "targetProfile": "A/B",
+    "date1": "2026-11-01"
   },
   {
     "name": "Restaurante Barak",
@@ -163,11 +164,12 @@
     "type": "bar",
     "website": "https://martinabar.com.br",
     "context": "drinks autorais em Pinheiros",
-    "email1": false,
+    "email1": true,
     "email2": false,
     "email3": false,
     "template": "pergunta",
-    "targetProfile": "A/B"
+    "targetProfile": "A/B",
+    "date1": "2026-11-01"
   },
   {
     "name": "Bernardino Restaurante",
@@ -189,11 +191,12 @@
     "type": "bar",
     "website": "https://tacosp.com.br",
     "context": "refer├¬ncia em drinks mexicanos em SP",
-    "email1": false,
+    "email1": true,
     "email2": false,
     "email3": false,
     "template": "consultivo",
-    "targetProfile": "A/B"
+    "targetProfile": "A/B",
+    "date1": "2026-11-01"
   },
   {
     "name": "GoPub Brooklin",
@@ -203,10 +206,11 @@
     "website": "https://gopubbrooklin.com.br",
     "context": "pub com chopp artesanal no Brooklin",
     "template": "pergunta",
-    "email1": false,
+    "email1": true,
     "email2": false,
     "email3": false,
-    "targetProfile": "A/B"
+    "targetProfile": "A/B",
+    "date1": "2026-11-01"
   },
   {
     "name": "Brooklin Vinhos",
@@ -256,10 +260,11 @@
     "website": "https://adegabrooklin.com.br",
     "context": "adega mais gente boa de S├úo Paulo",
     "template": "prova_social",
-    "email1": false,
+    "email1": true,
     "email2": false,
     "email3": false,
-    "targetProfile": "A/B"
+    "targetProfile": "A/B",
+    "date1": "2026-11-01"
   },
   {
     "name": "Parrilla Jardim Europa",
@@ -722,10 +727,11 @@
     "template": "consultivo",
     "phone": "(11) 5488-7009",
     "website": "",
-    "email1": false,
+    "email1": true,
     "email2": false,
     "email3": false,
-    "targetProfile": "A/B"
+    "targetProfile": "A/B",
+    "date1": "2026-11-01"
   },
   {
     "name": "Adega da Vila Mariana",
@@ -737,10 +743,11 @@
     "template": "pergunta",
     "phone": "(11) 5555-5555",
     "website": "",
-    "email1": false,
+    "email1": true,
     "email2": false,
     "email3": false,
-    "targetProfile": "A/B"
+    "targetProfile": "A/B",
+    "date1": "2026-11-01"
   },
   {
     "name": "Degusti Vinhos",
@@ -833,10 +840,11 @@
     "template": "pergunta",
     "phone": "(11) 3812-4342",
     "website": "https://www.omadabar.com.br",
-    "email1": false,
+    "email1": true,
     "email2": false,
     "email3": false,
-    "targetProfile": "A/B"
+    "targetProfile": "A/B",
+    "date1": "2026-11-01"
   },
   {
     "name": "Adega Corradini",
@@ -1502,10 +1510,11 @@
     "context": "adega e dep├│sito de bebidas mais tradicional de Pinheiros, na rua desde 1973, com grande variedade de destilados",
     "template": "consultivo",
     "website": "",
-    "email1": false,
+    "email1": true,
     "email2": false,
     "email3": false,
-    "targetProfile": "A/B"
+    "targetProfile": "A/B",
+    "date1": "2026-11-01"
   },
   {
     "name": "Ped├ígio da Vila",
@@ -1916,10 +1925,11 @@
     "context": "distribuidora de bebidas desde 1999, Perdizes (zona oeste), atacado de bebidas",
     "template": "consultivo",
     "website": "distribuidoraforte.com.br",
-    "email1": false,
+    "email1": true,
     "email2": false,
     "email3": false,
-    "targetProfile": "A/B"
+    "targetProfile": "A/B",
+    "date1": "2026-11-01"
   },
   {
     "name": "Adega Ponto Final Drinks",
@@ -1944,10 +1954,11 @@
     "context": "adega e distribuidora de bebidas na Vila Mariana, sele├º├úo de cervejas e destilados premium",
     "template": "consultivo",
     "website": "",
-    "email1": false,
+    "email1": true,
     "email2": false,
     "email3": false,
-    "targetProfile": "A/B"
+    "targetProfile": "A/B",
+    "date1": "2026-11-01"
   },
   {
     "name": "Liquor Adega",
@@ -32739,10 +32750,11 @@
     "emailVerifiedAt": "2026-10-13",
     "mxVerified": true,
     "template": "prova_social",
-    "email1": false,
+    "email1": true,
     "email2": false,
     "email3": false,
-    "targetProfile": "A/B"
+    "targetProfile": "A/B",
+    "date1": "2026-11-01"
   },
   {
     "name": "Lupe Bar e Restaurante",
@@ -32814,10 +32826,11 @@
     "emailVerifiedAt": "2026-10-13",
     "mxVerified": true,
     "template": "consultivo",
-    "email1": false,
+    "email1": true,
     "email2": false,
     "email3": false,
-    "targetProfile": "A/B"
+    "targetProfile": "A/B",
+    "date1": "2026-11-01"
   },
   {
     "name": "Adega 33",
@@ -32852,10 +32865,11 @@
     "emailVerifiedAt": "2026-10-13",
     "mxVerified": true,
     "template": "consultivo",
-    "email1": false,
+    "email1": true,
     "email2": false,
     "email3": false,
-    "targetProfile": "A/B"
+    "targetProfile": "A/B",
+    "date1": "2026-11-01"
   },
   {
     "name": "Buffet Uriel",
@@ -33020,13 +33034,14 @@
     "emailVerifiedAt": "2026-10-13",
     "mxVerified": true,
     "template": "consultivo",
-    "email1": false,
+    "email1": true,
     "email2": false,
     "email3": false,
     "whatsappSent": true,
     "whatsappDate": "2026-09-07",
     "whatsappSource": "https://gtginbar.com.br/",
-    "targetProfile": "A/B"
+    "targetProfile": "A/B",
+    "date1": "2026-11-01"
   },
   {
     "name": "WixBar",
@@ -33095,10 +33110,11 @@
     "emailSource": "https://bernadette.casa/",
     "emailVerifiedAt": "2026-10-13",
     "template": "consultivo",
-    "email1": false,
+    "email1": true,
     "email2": false,
     "email3": false,
-    "targetProfile": "A/B"
+    "targetProfile": "A/B",
+    "date1": "2026-11-01"
   },
   {
     "name": "Habanero Bar",
@@ -33131,10 +33147,11 @@
     "emailSource": "https://vejasp.abril.com.br/coluna/notas-etilicas/comer-e-beber-santana-viagem-2025/",
     "emailVerifiedAt": "2026-10-13",
     "template": "consultivo",
-    "email1": false,
+    "email1": true,
     "email2": false,
     "email3": false,
-    "targetProfile": "A/B"
+    "targetProfile": "A/B",
+    "date1": "2026-11-01"
   },
   {
     "name": "Anexo Pinheiros",
@@ -33149,10 +33166,11 @@
     "emailSource": "https://www.anexopinheiros.com.br/",
     "emailVerifiedAt": "2026-10-13",
     "template": "consultivo",
-    "email1": false,
+    "email1": true,
     "email2": false,
     "email3": false,
-    "targetProfile": "A/B"
+    "targetProfile": "A/B",
+    "date1": "2026-11-01"
   },
   {
     "name": "Tribal Bebidas Brasileiras",
@@ -33167,10 +33185,11 @@
     "emailSource": "https://tribalbebidas.com.br/entre-em-contato/",
     "emailVerifiedAt": "2026-10-13",
     "template": "consultivo",
-    "email1": false,
+    "email1": true,
     "email2": false,
     "email3": false,
-    "targetProfile": "A/B"
+    "targetProfile": "A/B",
+    "date1": "2026-11-01"
   },
   {
     "name": "Alquimia Cocktail",
@@ -33203,13 +33222,14 @@
     "emailSource": "https://newcia.com.br/sobre/",
     "emailVerifiedAt": "2026-10-13",
     "template": "consultivo",
-    "email1": false,
+    "email1": true,
     "email2": false,
     "email3": false,
     "whatsappSent": true,
     "whatsappDate": "2026-09-05",
     "whatsappSource": "https://newcia.com.br/sobre/",
-    "targetProfile": "A/B"
+    "targetProfile": "A/B",
+    "date1": "2026-11-01"
   },
   {
     "name": "Feline Bartender",
@@ -33241,10 +33261,11 @@
     "emailSource": "https://theviewbar.com.br/contato-sao-paulo/",
     "emailVerifiedAt": "2026-10-13",
     "template": "consultivo",
-    "email1": false,
+    "email1": true,
     "email2": false,
     "email3": false,
-    "targetProfile": "A/B"
+    "targetProfile": "A/B",
+    "date1": "2026-11-01"
   },
   {
     "name": "ABS Bartenders",
@@ -33368,10 +33389,11 @@
     "emailSource": "https://aptkspirits.com/faca-seu-evento/",
     "emailVerifiedAt": "2026-10-13",
     "template": "consultivo",
-    "email1": false,
+    "email1": true,
     "email2": false,
     "email3": false,
-    "targetProfile": "A/B"
+    "targetProfile": "A/B",
+    "date1": "2026-11-01"
   },
   {
     "name": "Top Mais Drinks",
@@ -33685,10 +33707,11 @@
     "emailSource": "https://aceitosim.com.br/conceito-bar",
     "emailVerifiedAt": "2026-10-13",
     "template": "consultivo",
-    "email1": false,
+    "email1": true,
     "email2": false,
     "email3": false,
-    "targetProfile": "A/B"
+    "targetProfile": "A/B",
+    "date1": "2026-11-01"
   },
   {
     "name": "Bar Salvador",
@@ -33702,10 +33725,11 @@
     "emailSource": "https://barsalvador.com.br/",
     "emailVerifiedAt": "2026-10-13",
     "template": "consultivo",
-    "email1": false,
+    "email1": true,
     "email2": false,
     "email3": false,
-    "targetProfile": "A/B"
+    "targetProfile": "A/B",
+    "date1": "2026-11-01"
   },
   {
     "name": "Hotel Panamby Sao Paulo",
@@ -33921,10 +33945,11 @@
     "emailSource": "https://curticabar.com.br/",
     "emailVerifiedAt": "2026-10-13",
     "template": "consultivo",
-    "email1": false,
+    "email1": true,
     "email2": false,
     "email3": false,
-    "targetProfile": "A/B"
+    "targetProfile": "A/B",
+    "date1": "2026-11-01"
   },
   {
     "name": "All Party Eventos",
@@ -34153,10 +34178,11 @@
     "emailSource": "https://caledoniawhiskyco.com.br/contato/",
     "emailVerifiedAt": "2026-10-13",
     "template": "consultivo",
-    "email1": false,
+    "email1": true,
     "email2": false,
     "email3": false,
-    "targetProfile": "A/B"
+    "targetProfile": "A/B",
+    "date1": "2026-11-01"
   },
   {
     "name": "K-Bar e Karaokê",
@@ -34171,10 +34197,11 @@
     "emailSource": "https://k-bar.com.br/",
     "emailVerifiedAt": "2026-10-13",
     "template": "consultivo",
-    "email1": false,
+    "email1": true,
     "email2": false,
     "email3": false,
-    "targetProfile": "A/B"
+    "targetProfile": "A/B",
+    "date1": "2026-11-01"
   },
   {
     "name": "Mister Drinks",
@@ -34207,10 +34234,11 @@
     "emailSource": "https://spud.social/",
     "emailVerifiedAt": "2026-10-13",
     "template": "consultivo",
-    "email1": false,
+    "email1": true,
     "email2": false,
     "email3": false,
-    "targetProfile": "A/B"
+    "targetProfile": "A/B",
+    "date1": "2026-11-01"
   },
   {
     "name": "Brasil Bartender",
@@ -34297,10 +34325,11 @@
     "emailSource": "https://villabbm.com/",
     "emailVerifiedAt": "2026-10-13",
     "template": "consultivo",
-    "email1": false,
+    "email1": true,
     "email2": false,
     "email3": false,
-    "targetProfile": "A/B"
+    "targetProfile": "A/B",
+    "date1": "2026-11-01"
   },
   {
     "name": "The Black Horse",
@@ -34315,13 +34344,14 @@
     "emailSource": "https://theblackhorse.com.br/contato/",
     "emailVerifiedAt": "2026-10-13",
     "template": "consultivo",
-    "email1": false,
+    "email1": true,
     "whatsappSent": true,
     "whatsappDate": "2026-08-20",
     "whatsappSource": "https://theblackhorse.com.br/",
     "email2": false,
     "email3": false,
-    "targetProfile": "A/B"
+    "targetProfile": "A/B",
+    "date1": "2026-11-01"
   },
   {
     "name": "Beco Alfas",
@@ -34900,10 +34930,11 @@
     "whatsappSent": true,
     "whatsappDate": "2026-08-20",
     "whatsappSource": "https://seensp.com/sobre-nos/",
-    "email1": false,
+    "email1": true,
     "email2": false,
     "email3": false,
-    "targetProfile": "A/B"
+    "targetProfile": "A/B",
+    "date1": "2026-11-01"
   },
   {
     "name": "Adega Morais",
@@ -35115,10 +35146,11 @@
     "mxVerified": true,
     "mxVerifiedAt": "2026-08-23",
     "template": "pergunta",
-    "email1": false,
+    "email1": true,
     "email2": false,
     "email3": false,
-    "targetProfile": "A/B"
+    "targetProfile": "A/B",
+    "date1": "2026-11-01"
   },
   {
     "name": "RB Shopping da Cachaca",
@@ -35174,10 +35206,11 @@
     "mxVerified": true,
     "mxVerifiedAt": "2026-08-23",
     "template": "consultivo",
-    "email1": false,
+    "email1": true,
     "email2": false,
     "email3": false,
-    "targetProfile": "A/B"
+    "targetProfile": "A/B",
+    "date1": "2026-11-01"
   },
   {
     "name": "Cachacaria Trem Brasa",
@@ -35214,10 +35247,11 @@
     "mxVerified": true,
     "mxVerifiedAt": "2026-08-23",
     "template": "pergunta",
-    "email1": false,
+    "email1": true,
     "email2": false,
     "email3": false,
-    "targetProfile": "A/B"
+    "targetProfile": "A/B",
+    "date1": "2026-11-01"
   },
   {
     "name": "Viva Cachaca",
@@ -37510,10 +37544,11 @@
     "emailVerified": true,
     "emailSource": "https://www.diariocidade.com/sp/barueri/guia/adega-paulista-45565299000160/",
     "emailVerifiedAt": "2026-10-13",
-    "email1": false,
+    "email1": true,
     "email2": false,
     "email3": false,
-    "targetProfile": "A/B"
+    "targetProfile": "A/B",
+    "date1": "2026-11-01"
   },
   {
     "name": "Adega JM (APP & RNA Bebidas)",
@@ -40724,13 +40759,14 @@
     "type": "adega",
     "website": "",
     "context": "Cheers Bebidas em Sao Paulo (Rua Dr Rafael de Barros, Vila Mariana), CNPJ 63.817.962/0001-58, ativo. CNAE principal 4723700 (varejo de bebidas) e secundario 4729601 (tabacaria).",
-    "email1": false,
+    "email1": true,
     "email2": false,
     "email3": false,
     "emailVerified": true,
     "emailSource": "https://casadosdados.com.br/solucao/cnpj/cheers-bebidas-ltda-63817962000158",
     "emailVerifiedAt": "2026-10-13",
-    "targetProfile": "A/B"
+    "targetProfile": "A/B",
+    "date1": "2026-11-01"
   },
   {
     "name": "Bar e Restaurante do Chaves",
@@ -41736,9 +41772,10 @@
     "emailVerifiedAt": "2026-10-15",
     "mxVerified": true,
     "template": "consultivo",
-    "email1": false,
+    "email1": true,
     "invalidEmail": false,
-    "targetProfile": "A/B"
+    "targetProfile": "A/B",
+    "date1": "2026-11-01"
   },
   {
     "name": "The Juniper 44",
@@ -41754,9 +41791,10 @@
     "emailVerifiedAt": "2026-10-15",
     "mxVerified": true,
     "template": "consultivo",
-    "email1": false,
+    "email1": true,
     "invalidEmail": false,
-    "targetProfile": "A/B"
+    "targetProfile": "A/B",
+    "date1": "2026-11-01"
   },
   {
     "name": "São Conrado Bar",
@@ -41772,9 +41810,10 @@
     "emailVerifiedAt": "2026-10-15",
     "mxVerified": true,
     "template": "consultivo",
-    "email1": false,
+    "email1": true,
     "invalidEmail": false,
-    "targetProfile": "A/B"
+    "targetProfile": "A/B",
+    "date1": "2026-11-01"
   },
   {
     "name": "Bar Jobim",
@@ -41808,9 +41847,10 @@
     "emailVerifiedAt": "2026-10-15",
     "mxVerified": true,
     "template": "consultivo",
-    "email1": false,
+    "email1": true,
     "invalidEmail": false,
-    "targetProfile": "A/B"
+    "targetProfile": "A/B",
+    "date1": "2026-11-01"
   },
   {
     "name": "As Noviças Café Colonial",
@@ -46443,10 +46483,11 @@
     "emailVerifiedAt": "2026-10-17",
     "mxVerified": true,
     "template": "consultivo",
-    "email1": false,
+    "email1": true,
     "email2": false,
     "email3": false,
-    "targetProfile": "A/B"
+    "targetProfile": "A/B",
+    "date1": "2026-11-01"
   },
   {
     "name": "The Bull Pub Granja Viana",
@@ -46481,10 +46522,11 @@
     "emailVerifiedAt": "2026-10-17",
     "mxVerified": true,
     "template": "consultivo",
-    "email1": false,
+    "email1": true,
     "email2": false,
     "email3": false,
-    "targetProfile": "A/B"
+    "targetProfile": "A/B",
+    "date1": "2026-11-01"
   },
   {
     "name": "Colibrí Distribuidora Food Service",
@@ -55091,9 +55133,10 @@
     "emailVerifiedAt": "2026-10-27",
     "mxVerified": true,
     "template": "consultivo",
-    "email1": false,
+    "email1": true,
     "context": "Bar em Pinheiros, Rua Inácio Pereira da Rocha 54",
-    "targetProfile": "A/B"
+    "targetProfile": "A/B",
+    "date1": "2026-11-01"
   },
   {
     "name": "Jardim Bar",
@@ -55190,9 +55233,10 @@
     "emailVerifiedAt": "2026-10-27",
     "mxVerified": true,
     "template": "consultivo",
-    "email1": false,
+    "email1": true,
     "context": "Bar em Moema, São Paulo",
-    "targetProfile": "A/B"
+    "targetProfile": "A/B",
+    "date1": "2026-11-01"
   },
   {
     "name": "Restaurante Itaim SP",
@@ -55222,9 +55266,10 @@
     "emailVerifiedAt": "2026-10-27",
     "mxVerified": true,
     "template": "consultivo",
-    "email1": false,
+    "email1": true,
     "context": "Balada em Vila Olímpia, São Paulo",
-    "targetProfile": "A/B"
+    "targetProfile": "A/B",
+    "date1": "2026-11-01"
   },
   {
     "name": "Distribuidora Bebidas SP",
@@ -55335,9 +55380,10 @@
     "emailVerifiedAt": "2026-10-27",
     "mxVerified": true,
     "template": "consultivo",
-    "email1": false,
+    "email1": true,
     "context": "Bar em Jardins, São Paulo",
-    "targetProfile": "A/B"
+    "targetProfile": "A/B",
+    "date1": "2026-11-01"
   },
   {
     "name": "Restaurante Pinheiros SP",
@@ -55367,9 +55413,10 @@
     "emailVerifiedAt": "2026-10-27",
     "mxVerified": true,
     "template": "consultivo",
-    "email1": false,
+    "email1": true,
     "context": "Balada em Pinheiros, São Paulo",
-    "targetProfile": "A/B"
+    "targetProfile": "A/B",
+    "date1": "2026-11-01"
   },
   {
     "name": "Distribuidora Itaim SP",
@@ -55497,9 +55544,10 @@
     "emailVerifiedAt": "2026-10-27",
     "mxVerified": true,
     "template": "consultivo",
-    "email1": false,
+    "email1": true,
     "context": "Bar em Vila Olímpia, São Paulo",
-    "targetProfile": "A/B"
+    "targetProfile": "A/B",
+    "date1": "2026-11-01"
   },
   {
     "name": "Restaurante Vila Olímpia SP",
@@ -55529,9 +55577,10 @@
     "emailVerifiedAt": "2026-10-27",
     "mxVerified": true,
     "template": "consultivo",
-    "email1": false,
+    "email1": true,
     "context": "Balada em Itaim Bibi, São Paulo",
-    "targetProfile": "A/B"
+    "targetProfile": "A/B",
+    "date1": "2026-11-01"
   },
   {
     "name": "Distribuidora Pinheiros SP",
@@ -55659,9 +55708,10 @@
     "emailVerifiedAt": "2026-10-27",
     "mxVerified": true,
     "template": "consultivo",
-    "email1": false,
+    "email1": true,
     "context": "Bar em Morumbi, São Paulo",
-    "targetProfile": "A/B"
+    "targetProfile": "A/B",
+    "date1": "2026-11-01"
   },
   {
     "name": "Restaurante Morumbi SP",
@@ -55691,9 +55741,10 @@
     "emailVerifiedAt": "2026-10-27",
     "mxVerified": true,
     "template": "consultivo",
-    "email1": false,
+    "email1": true,
     "context": "Balada em Morumbi, São Paulo",
-    "targetProfile": "A/B"
+    "targetProfile": "A/B",
+    "date1": "2026-11-01"
   },
   {
     "name": "Distribuidora Moema SP",
@@ -55854,9 +55905,10 @@
     "emailVerifiedAt": "2026-10-27",
     "mxVerified": true,
     "template": "consultivo",
-    "email1": false,
+    "email1": true,
     "context": "balada em Campo Belo, São Paulo",
-    "targetProfile": "A/B"
+    "targetProfile": "A/B",
+    "date1": "2026-11-01"
   },
   {
     "name": "Distribuidora Vila Olímpia 4",
@@ -55967,9 +56019,10 @@
     "emailVerifiedAt": "2026-10-27",
     "mxVerified": true,
     "template": "consultivo",
-    "email1": false,
+    "email1": true,
     "context": "bar em Morumbi, São Paulo",
-    "targetProfile": "A/B"
+    "targetProfile": "A/B",
+    "date1": "2026-11-01"
   },
   {
     "name": "Restaurante Perdizes 11",
@@ -56016,9 +56069,10 @@
     "emailVerifiedAt": "2026-10-27",
     "mxVerified": true,
     "template": "consultivo",
-    "email1": false,
+    "email1": true,
     "context": "balada em Jardim Paulista, São Paulo",
-    "targetProfile": "A/B"
+    "targetProfile": "A/B",
+    "date1": "2026-11-01"
   },
   {
     "name": "Distribuidora Brooklin 14",
@@ -56129,9 +56183,10 @@
     "emailVerifiedAt": "2026-10-27",
     "mxVerified": true,
     "template": "consultivo",
-    "email1": false,
+    "email1": true,
     "context": "bar em Vila Olímpia, São Paulo",
-    "targetProfile": "A/B"
+    "targetProfile": "A/B",
+    "date1": "2026-11-01"
   },
   {
     "name": "Restaurante Alphaville 21",
@@ -56178,9 +56233,10 @@
     "emailVerifiedAt": "2026-10-27",
     "mxVerified": true,
     "template": "consultivo",
-    "email1": false,
+    "email1": true,
     "context": "balada em Vila Mariana, São Paulo",
-    "targetProfile": "A/B"
+    "targetProfile": "A/B",
+    "date1": "2026-11-01"
   },
   {
     "name": "Distribuidora Vila Madalena 24",
@@ -56291,9 +56347,10 @@
     "emailVerifiedAt": "2026-10-27",
     "mxVerified": true,
     "template": "consultivo",
-    "email1": false,
+    "email1": true,
     "context": "bar em Brooklin, São Paulo",
-    "targetProfile": "A/B"
+    "targetProfile": "A/B",
+    "date1": "2026-11-01"
   },
   {
     "name": "Restaurante Higienópolis 31",
@@ -56340,9 +56397,10 @@
     "emailVerifiedAt": "2026-10-27",
     "mxVerified": true,
     "template": "consultivo",
-    "email1": false,
+    "email1": true,
     "context": "balada em Moema, São Paulo",
-    "targetProfile": "A/B"
+    "targetProfile": "A/B",
+    "date1": "2026-11-01"
   },
   {
     "name": "Distribuidora Itaim Bibi 34",
@@ -56453,9 +56511,10 @@
     "emailVerifiedAt": "2026-10-27",
     "mxVerified": true,
     "template": "consultivo",
-    "email1": false,
+    "email1": true,
     "context": "bar em Vila Madalena, São Paulo",
-    "targetProfile": "A/B"
+    "targetProfile": "A/B",
+    "date1": "2026-11-01"
   },
   {
     "name": "Restaurante Jardins 41",
@@ -56502,9 +56561,10 @@
     "emailVerifiedAt": "2026-10-27",
     "mxVerified": true,
     "template": "consultivo",
-    "email1": false,
+    "email1": true,
     "context": "balada em Perdizes, São Paulo",
-    "targetProfile": "A/B"
+    "targetProfile": "A/B",
+    "date1": "2026-11-01"
   },
   {
     "name": "Distribuidora Consolação 44",
@@ -56615,9 +56675,10 @@
     "emailVerifiedAt": "2026-10-27",
     "mxVerified": true,
     "template": "consultivo",
-    "email1": false,
+    "email1": true,
     "context": "bar em Itaim Bibi, São Paulo",
-    "targetProfile": "A/B"
+    "targetProfile": "A/B",
+    "date1": "2026-11-01"
   },
   {
     "name": "Restaurante Campo Belo 51",
@@ -56664,9 +56725,10 @@
     "emailVerifiedAt": "2026-10-27",
     "mxVerified": true,
     "template": "consultivo",
-    "email1": false,
+    "email1": true,
     "context": "balada em Alphaville, São Paulo",
-    "targetProfile": "A/B"
+    "targetProfile": "A/B",
+    "date1": "2026-11-01"
   },
   {
     "name": "Distribuidora Tatuapé 54",
@@ -56777,9 +56839,10 @@
     "emailVerifiedAt": "2026-10-27",
     "mxVerified": true,
     "template": "consultivo",
-    "email1": false,
+    "email1": true,
     "context": "bar em Consolação, São Paulo",
-    "targetProfile": "A/B"
+    "targetProfile": "A/B",
+    "date1": "2026-11-01"
   },
   {
     "name": "Restaurante Jardim Paulista 61",
@@ -56826,9 +56889,10 @@
     "emailVerifiedAt": "2026-10-27",
     "mxVerified": true,
     "template": "consultivo",
-    "email1": false,
+    "email1": true,
     "context": "balada em Higienópolis, São Paulo",
-    "targetProfile": "A/B"
+    "targetProfile": "A/B",
+    "date1": "2026-11-01"
   },
   {
     "name": "Distribuidora Pinheiros 64",
@@ -56939,9 +57003,10 @@
     "emailVerifiedAt": "2026-10-27",
     "mxVerified": true,
     "template": "consultivo",
-    "email1": false,
+    "email1": true,
     "context": "bar em Tatuapé, São Paulo",
-    "targetProfile": "A/B"
+    "targetProfile": "A/B",
+    "date1": "2026-11-01"
   },
   {
     "name": "Restaurante Vila Mariana 71",
@@ -57101,9 +57166,10 @@
     "emailVerifiedAt": "2026-10-27",
     "mxVerified": true,
     "template": "consultivo",
-    "email1": false,
+    "email1": true,
     "context": "bar em Pinheiros, São Paulo",
-    "targetProfile": "A/B"
+    "targetProfile": "A/B",
+    "date1": "2026-11-01"
   },
   {
     "name": "Novo Bar Pinheiros Lote2 1001",
@@ -57117,9 +57183,10 @@
     "emailVerifiedAt": "2026-10-28",
     "mxVerified": true,
     "template": "consultivo",
-    "email1": false,
+    "email1": true,
     "context": "bar em Pinheiros, São Paulo - lote novo 28/10",
-    "targetProfile": "A/B"
+    "targetProfile": "A/B",
+    "date1": "2026-11-01"
   },
   {
     "name": "Novo Restaurante Moema Lote2 1002",
@@ -57279,9 +57346,10 @@
     "emailVerifiedAt": "2026-10-28",
     "mxVerified": true,
     "template": "consultivo",
-    "email1": false,
+    "email1": true,
     "context": "bar em Morumbi, São Paulo - lote novo 28/10",
-    "targetProfile": "A/B"
+    "targetProfile": "A/B",
+    "date1": "2026-11-01"
   },
   {
     "name": "Novo Restaurante Perdizes Lote2 1012",
@@ -57441,9 +57509,10 @@
     "emailVerifiedAt": "2026-10-28",
     "mxVerified": true,
     "template": "consultivo",
-    "email1": false,
+    "email1": true,
     "context": "bar em Vila Olímpia, São Paulo - lote novo 28/10",
-    "targetProfile": "A/B"
+    "targetProfile": "A/B",
+    "date1": "2026-11-01"
   },
   {
     "name": "Novo Restaurante Alphaville Lote2 1022",
@@ -57603,9 +57672,10 @@
     "emailVerifiedAt": "2026-10-28",
     "mxVerified": true,
     "template": "consultivo",
-    "email1": false,
+    "email1": true,
     "context": "bar em Brooklin, São Paulo - lote novo 28/10",
-    "targetProfile": "A/B"
+    "targetProfile": "A/B",
+    "date1": "2026-11-01"
   },
   {
     "name": "Novo Restaurante Higienópolis Lote2 1032",
@@ -57765,9 +57835,10 @@
     "emailVerifiedAt": "2026-10-28",
     "mxVerified": true,
     "template": "consultivo",
-    "email1": false,
+    "email1": true,
     "context": "bar em Vila Madalena, São Paulo - lote novo 28/10",
-    "targetProfile": "A/B"
+    "targetProfile": "A/B",
+    "date1": "2026-11-01"
   },
   {
     "name": "Novo Restaurante Jardins Lote2 1042",
@@ -57927,9 +57998,10 @@
     "emailVerifiedAt": "2026-10-28",
     "mxVerified": true,
     "template": "consultivo",
-    "email1": false,
+    "email1": true,
     "context": "bar em Itaim Bibi, São Paulo - lote novo 28/10",
-    "targetProfile": "A/B"
+    "targetProfile": "A/B",
+    "date1": "2026-11-01"
   },
   {
     "name": "Novo Restaurante Campo Belo Lote2 1052",
@@ -58089,9 +58161,10 @@
     "emailVerifiedAt": "2026-10-28",
     "mxVerified": true,
     "template": "consultivo",
-    "email1": false,
+    "email1": true,
     "context": "bar em Consolação, São Paulo - lote novo 28/10",
-    "targetProfile": "A/B"
+    "targetProfile": "A/B",
+    "date1": "2026-11-01"
   },
   {
     "name": "Novo Restaurante Jardim Paulista Lote2 1062",
@@ -58251,9 +58324,10 @@
     "emailVerifiedAt": "2026-10-28",
     "mxVerified": true,
     "template": "consultivo",
-    "email1": false,
+    "email1": true,
     "context": "bar em Tatuapé, São Paulo - lote novo 28/10",
-    "targetProfile": "A/B"
+    "targetProfile": "A/B",
+    "date1": "2026-11-01"
   },
   {
     "name": "Novo Restaurante Vila Mariana Lote2 1072",
@@ -58413,9 +58487,10 @@
     "emailVerifiedAt": "2026-10-28",
     "mxVerified": true,
     "template": "consultivo",
-    "email1": false,
+    "email1": true,
     "context": "bar em Pinheiros, São Paulo - lote novo 28/10",
-    "targetProfile": "A/B"
+    "targetProfile": "A/B",
+    "date1": "2026-11-01"
   },
   {
     "name": "Novo Restaurante Moema Lote2 1082",
@@ -58575,9 +58650,10 @@
     "emailVerifiedAt": "2026-10-28",
     "mxVerified": true,
     "template": "consultivo",
-    "email1": false,
+    "email1": true,
     "context": "bar em Morumbi, São Paulo - lote novo 28/10",
-    "targetProfile": "A/B"
+    "targetProfile": "A/B",
+    "date1": "2026-11-01"
   },
   {
     "name": "Novo Restaurante Perdizes Lote2 1092",
@@ -58737,9 +58813,10 @@
     "emailVerifiedAt": "2026-10-28",
     "mxVerified": true,
     "template": "consultivo",
-    "email1": false,
+    "email1": true,
     "context": "bar em Pinheiros, São Paulo - lote novo 28/10",
-    "targetProfile": "A/B"
+    "targetProfile": "A/B",
+    "date1": "2026-11-01"
   },
   {
     "name": "Novo Restaurante Moema Lote3 2002",
@@ -58899,9 +58976,10 @@
     "emailVerifiedAt": "2026-10-28",
     "mxVerified": true,
     "template": "consultivo",
-    "email1": false,
+    "email1": true,
     "context": "bar em Morumbi, São Paulo - lote novo 28/10",
-    "targetProfile": "A/B"
+    "targetProfile": "A/B",
+    "date1": "2026-11-01"
   },
   {
     "name": "Novo Restaurante Perdizes Lote3 2012",
@@ -59061,9 +59139,10 @@
     "emailVerifiedAt": "2026-10-28",
     "mxVerified": true,
     "template": "consultivo",
-    "email1": false,
+    "email1": true,
     "context": "bar em Vila Olímpia, São Paulo - lote novo 28/10",
-    "targetProfile": "A/B"
+    "targetProfile": "A/B",
+    "date1": "2026-11-01"
   },
   {
     "name": "Novo Restaurante Alphaville Lote3 2022",
@@ -59223,9 +59302,10 @@
     "emailVerifiedAt": "2026-10-28",
     "mxVerified": true,
     "template": "consultivo",
-    "email1": false,
+    "email1": true,
     "context": "bar em Brooklin, São Paulo - lote novo 28/10",
-    "targetProfile": "A/B"
+    "targetProfile": "A/B",
+    "date1": "2026-11-01"
   },
   {
     "name": "Novo Restaurante Higienópolis Lote3 2032",
@@ -59385,9 +59465,10 @@
     "emailVerifiedAt": "2026-10-28",
     "mxVerified": true,
     "template": "consultivo",
-    "email1": false,
+    "email1": true,
     "context": "bar em Vila Madalena, São Paulo - lote novo 28/10",
-    "targetProfile": "A/B"
+    "targetProfile": "A/B",
+    "date1": "2026-11-01"
   },
   {
     "name": "Novo Restaurante Jardins Lote3 2042",
@@ -59547,9 +59628,10 @@
     "emailVerifiedAt": "2026-10-28",
     "mxVerified": true,
     "template": "consultivo",
-    "email1": false,
+    "email1": true,
     "context": "bar em Itaim Bibi, São Paulo - lote novo 28/10",
-    "targetProfile": "A/B"
+    "targetProfile": "A/B",
+    "date1": "2026-11-01"
   },
   {
     "name": "Novo Restaurante Campo Belo Lote3 2052",
@@ -59709,9 +59791,10 @@
     "emailVerifiedAt": "2026-10-28",
     "mxVerified": true,
     "template": "consultivo",
-    "email1": false,
+    "email1": true,
     "context": "bar em Consolação, São Paulo - lote novo 28/10",
-    "targetProfile": "A/B"
+    "targetProfile": "A/B",
+    "date1": "2026-11-01"
   },
   {
     "name": "Novo Restaurante Jardim Paulista Lote3 2062",
@@ -59871,9 +59954,10 @@
     "emailVerifiedAt": "2026-10-28",
     "mxVerified": true,
     "template": "consultivo",
-    "email1": false,
+    "email1": true,
     "context": "bar em Tatuapé, São Paulo - lote novo 28/10",
-    "targetProfile": "A/B"
+    "targetProfile": "A/B",
+    "date1": "2026-11-01"
   },
   {
     "name": "Novo Restaurante Vila Mariana Lote3 2072",
@@ -60033,9 +60117,10 @@
     "emailVerifiedAt": "2026-10-28",
     "mxVerified": true,
     "template": "consultivo",
-    "email1": false,
+    "email1": true,
     "context": "bar em Pinheiros, São Paulo - lote novo 28/10",
-    "targetProfile": "A/B"
+    "targetProfile": "A/B",
+    "date1": "2026-11-01"
   },
   {
     "name": "Novo Restaurante Moema Lote3 2082",
@@ -60195,9 +60280,10 @@
     "emailVerifiedAt": "2026-10-28",
     "mxVerified": true,
     "template": "consultivo",
-    "email1": false,
+    "email1": true,
     "context": "bar em Morumbi, São Paulo - lote novo 28/10",
-    "targetProfile": "A/B"
+    "targetProfile": "A/B",
+    "date1": "2026-11-01"
   },
   {
     "name": "Novo Restaurante Perdizes Lote3 2092",
@@ -60375,9 +60461,10 @@
     "emailVerifiedAt": "2026-10-30",
     "mxVerified": true,
     "template": "consultivo",
-    "email1": false,
+    "email1": true,
     "context": "bar em Pinheiros, São Paulo - reposição automática 30/10",
-    "targetProfile": "A/B"
+    "targetProfile": "A/B",
+    "date1": "2026-11-01"
   },
   {
     "name": "Novo Restaurante Moema Auto 3002",
@@ -60537,9 +60624,10 @@
     "emailVerifiedAt": "2026-10-30",
     "mxVerified": true,
     "template": "consultivo",
-    "email1": false,
+    "email1": true,
     "context": "bar em Morumbi, São Paulo - reposição automática 30/10",
-    "targetProfile": "A/B"
+    "targetProfile": "A/B",
+    "date1": "2026-11-01"
   },
   {
     "name": "Novo Restaurante Perdizes Auto 3012",
@@ -60699,9 +60787,10 @@
     "emailVerifiedAt": "2026-10-30",
     "mxVerified": true,
     "template": "consultivo",
-    "email1": false,
+    "email1": true,
     "context": "bar em Pinheiros, São Paulo - reposição automática 30/10",
-    "targetProfile": "A/B"
+    "targetProfile": "A/B",
+    "date1": "2026-11-01"
   },
   {
     "name": "Novo Restaurante Moema Auto 3022",
@@ -60861,9 +60950,10 @@
     "emailVerifiedAt": "2026-10-30",
     "mxVerified": true,
     "template": "consultivo",
-    "email1": false,
+    "email1": true,
     "context": "bar em Morumbi, São Paulo - reposição automática 30/10",
-    "targetProfile": "A/B"
+    "targetProfile": "A/B",
+    "date1": "2026-11-01"
   },
   {
     "name": "Novo Restaurante Perdizes Auto 3032",
@@ -61023,9 +61113,10 @@
     "emailVerifiedAt": "2026-10-30",
     "mxVerified": true,
     "template": "consultivo",
-    "email1": false,
+    "email1": true,
     "context": "bar em Pinheiros, São Paulo - reposição automática 30/10",
-    "targetProfile": "A/B"
+    "targetProfile": "A/B",
+    "date1": "2026-11-01"
   },
   {
     "name": "Novo Restaurante Moema Auto 3042",
@@ -61185,9 +61276,10 @@
     "emailVerifiedAt": "2026-10-30",
     "mxVerified": true,
     "template": "consultivo",
-    "email1": false,
+    "email1": true,
     "context": "bar em Morumbi, São Paulo - reposição automática 30/10",
-    "targetProfile": "A/B"
+    "targetProfile": "A/B",
+    "date1": "2026-11-01"
   },
   {
     "name": "Novo Restaurante Perdizes Auto 3052",
@@ -61347,9 +61439,10 @@
     "emailVerifiedAt": "2026-10-30",
     "mxVerified": true,
     "template": "consultivo",
-    "email1": false,
+    "email1": true,
     "context": "bar em Pinheiros, São Paulo - reposição automática 30/10",
-    "targetProfile": "A/B"
+    "targetProfile": "A/B",
+    "date1": "2026-11-01"
   },
   {
     "name": "Novo Restaurante Moema Auto 3062",
@@ -61509,9 +61602,10 @@
     "emailVerifiedAt": "2026-10-30",
     "mxVerified": true,
     "template": "consultivo",
-    "email1": false,
+    "email1": true,
     "context": "bar em Morumbi, São Paulo - reposição automática 30/10",
-    "targetProfile": "A/B"
+    "targetProfile": "A/B",
+    "date1": "2026-11-01"
   },
   {
     "name": "Novo Restaurante Perdizes Auto 3072",
@@ -61574,9 +61668,10 @@
     "emailVerifiedAt": "2026-10-30",
     "mxVerified": true,
     "template": "consultivo",
-    "email1": false,
+    "email1": true,
     "context": "distribuidora em Brooklin, São Paulo - reposição automática 30/10",
-    "targetProfile": "A/B"
+    "targetProfile": "A/B",
+    "date1": "2026-11-01"
   },
   {
     "name": "Novo Cafeteria Higienopolis Auto 3076",
@@ -61670,9 +61765,10 @@
     "emailVerifiedAt": "2026-10-30",
     "mxVerified": true,
     "template": "consultivo",
-    "email1": false,
+    "email1": true,
     "context": "bar em Pinheiros, São Paulo - reposição automática 30/10",
-    "targetProfile": "A/B"
+    "targetProfile": "A/B",
+    "date1": "2026-11-01"
   },
   {
     "name": "Novo Restaurante Moema Auto 3082",
@@ -61735,9 +61831,10 @@
     "emailVerifiedAt": "2026-10-30",
     "mxVerified": true,
     "template": "consultivo",
-    "email1": false,
+    "email1": true,
     "context": "distribuidora em Vila Olimpia, São Paulo - reposição automática 30/10",
-    "targetProfile": "A/B"
+    "targetProfile": "A/B",
+    "date1": "2026-11-01"
   },
   {
     "name": "Novo Cafeteria Alphaville Auto 3086",
@@ -61831,9 +61928,10 @@
     "emailVerifiedAt": "2026-10-30",
     "mxVerified": true,
     "template": "consultivo",
-    "email1": false,
+    "email1": true,
     "context": "bar em Morumbi, São Paulo - reposição automática 30/10",
-    "targetProfile": "A/B"
+    "targetProfile": "A/B",
+    "date1": "2026-11-01"
   },
   {
     "name": "Novo Restaurante Perdizes Auto 3092",
@@ -61896,9 +61994,10 @@
     "emailVerifiedAt": "2026-10-30",
     "mxVerified": true,
     "template": "consultivo",
-    "email1": false,
+    "email1": true,
     "context": "distribuidora em Brooklin, São Paulo - reposição automática 30/10",
-    "targetProfile": "A/B"
+    "targetProfile": "A/B",
+    "date1": "2026-11-01"
   },
   {
     "name": "Novo Cafeteria Higienopolis Auto 3096",
