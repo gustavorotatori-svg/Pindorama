@@ -1,5 +1,5 @@
 {
-  "lastUpdate": "2026-10-31T12:07:03.562Z",
+  "lastUpdate": "2026-11-01T05:44:19.948Z",
   "totalLeads": 4000,
   "allLeads": [
     {
@@ -7,7 +7,8 @@
       "type": "bar",
       "neighborhood": "Moema",
       "email": "contato@bardonerso.com.br",
-      "email1": false,
+      "email1": true,
+      "date1": "2026-11-01",
       "email2": false,
       "email3": false
     },
@@ -116,7 +117,8 @@
       "type": "bar",
       "neighborhood": "Pinheiros",
       "email": "contato@grupo-ftr.com",
-      "email1": false,
+      "email1": true,
+      "date1": "2026-11-01",
       "email2": false,
       "email3": false
     },
@@ -134,7 +136,8 @@
       "type": "bar",
       "neighborhood": "Campo Belo",
       "email": "tacosp@tacosp.com.br",
-      "email1": false,
+      "email1": true,
+      "date1": "2026-11-01",
       "email2": false,
       "email3": false
     },
@@ -143,7 +146,8 @@
       "type": "bar",
       "neighborhood": "Brooklin",
       "email": "mauro@gopub.com.br",
-      "email1": false,
+      "email1": true,
+      "date1": "2026-11-01",
       "email2": false,
       "email3": false
     },
@@ -180,7 +184,8 @@
       "type": "adega",
       "neighborhood": "Brooklin",
       "email": "adegabrooklin@terra.com.br",
-      "email1": false,
+      "email1": true,
+      "date1": "2026-11-01",
       "email2": false,
       "email3": false
     },
@@ -500,7 +505,8 @@
       "type": "adega",
       "neighborhood": "Vila Mariana",
       "email": "jmt89@terra.com.br",
-      "email1": false,
+      "email1": true,
+      "date1": "2026-11-01",
       "email2": false,
       "email3": false
     },
@@ -509,7 +515,8 @@
       "type": "adega",
       "neighborhood": "Vila Mariana",
       "email": "contato@mcastilhocontabil.com.br",
-      "email1": false,
+      "email1": true,
+      "date1": "2026-11-01",
       "email2": false,
       "email3": false
     },
@@ -557,7 +564,8 @@
       "type": "bar",
       "neighborhood": "Vila Madalena",
       "email": "contato@omadabar.com.br",
-      "email1": false,
+      "email1": true,
+      "date1": "2026-11-01",
       "email2": false,
       "email3": false
     },
@@ -975,7 +983,8 @@
       "type": "adega",
       "neighborhood": "Pinheiros",
       "email": "barricao2@hotmail.com",
-      "email1": false,
+      "email1": true,
+      "date1": "2026-11-01",
       "email2": false,
       "email3": false
     },
@@ -1239,7 +1248,8 @@
       "type": "distribuidora",
       "neighborhood": "Perdizes",
       "email": "fortedistrbuidora@gmail.com",
-      "email1": false,
+      "email1": true,
+      "date1": "2026-11-01",
       "email2": false,
       "email3": false
     },
@@ -1257,7 +1267,8 @@
       "type": "adega",
       "neighborhood": "Vila Mariana",
       "email": "rubens.kelvin2015@gmail.com",
-      "email1": false,
+      "email1": true,
+      "date1": "2026-11-01",
       "email2": false,
       "email3": false
     },
@@ -18403,7 +18414,8 @@
       "city": "S├úo Paulo",
       "email": "eventos@pulsohotel.com.br",
       "emailVerified": true,
-      "email1": false,
+      "email1": true,
+      "date1": "2026-11-01",
       "email2": false,
       "email3": false
     },
@@ -18447,7 +18459,8 @@
       "city": "S├úo Paulo",
       "email": "contato@dopabar.com.br",
       "emailVerified": true,
-      "email1": false,
+      "email1": true,
+      "date1": "2026-11-01",
       "email2": false,
       "email3": false
     },
@@ -18469,7 +18482,8 @@
       "city": "Barueri",
       "email": "vendas@barvip.com.br",
       "emailVerified": true,
-      "email1": false,
+      "email1": true,
+      "date1": "2026-11-01",
       "email2": false,
       "email3": false
     },
@@ -18568,7 +18582,8 @@
       "city": "S├úo Paulo",
       "email": "info@gtginbar.com.br",
       "emailVerified": true,
-      "email1": false,
+      "email1": true,
+      "date1": "2026-11-01",
       "email2": false,
       "email3": false
     },
@@ -18611,7 +18626,8 @@
       "neighborhood": "Consolacao",
       "email": "contato@bernadette.casa",
       "emailVerified": true,
-      "email1": false,
+      "email1": true,
+      "date1": "2026-11-01",
       "email2": false,
       "email3": false
     },
@@ -18631,7 +18647,8 @@
       "neighborhood": "Pinheiros",
       "email": "contato@santanabar.com.br",
       "emailVerified": true,
-      "email1": false,
+      "email1": true,
+      "date1": "2026-11-01",
       "email2": false,
       "email3": false
     },
@@ -18641,7 +18658,8 @@
       "neighborhood": "Pinheiros",
       "email": "contato@anexopinheiros.com.br",
       "emailVerified": true,
-      "email1": false,
+      "email1": true,
+      "date1": "2026-11-01",
       "email2": false,
       "email3": false
     },
@@ -18651,7 +18669,8 @@
       "neighborhood": "Jardim Paulista",
       "email": "eventos@tribalbebidas.com.br",
       "emailVerified": true,
-      "email1": false,
+      "email1": true,
+      "date1": "2026-11-01",
       "email2": false,
       "email3": false
     },
@@ -18671,7 +18690,8 @@
       "neighborhood": "Pinheiros",
       "email": "contato@newcia.com.br",
       "emailVerified": true,
-      "email1": false,
+      "email1": true,
+      "date1": "2026-11-01",
       "email2": false,
       "email3": false
     },
@@ -18691,7 +18711,8 @@
       "neighborhood": "Jardim Paulista",
       "email": "eventos@grupotheview.com.br",
       "emailVerified": true,
-      "email1": false,
+      "email1": true,
+      "date1": "2026-11-01",
       "email2": false,
       "email3": false
     },
@@ -18760,7 +18781,8 @@
       "neighborhood": "Campo Belo",
       "email": "contato@aptkspirits.com",
       "emailVerified": true,
-      "email1": false,
+      "email1": true,
+      "date1": "2026-11-01",
       "email2": false,
       "email3": false
     },
@@ -18931,7 +18953,8 @@
       "neighborhood": "Moema",
       "email": "contato@conceitobar.com.br",
       "emailVerified": true,
-      "email1": false,
+      "email1": true,
+      "date1": "2026-11-01",
       "email2": false,
       "email3": false
     },
@@ -18941,7 +18964,8 @@
       "neighborhood": "Moema",
       "email": "contato@barsalvador.com.br",
       "emailVerified": true,
-      "email1": false,
+      "email1": true,
+      "date1": "2026-11-01",
       "email2": false,
       "email3": false
     },
@@ -19060,7 +19084,8 @@
       "neighborhood": "Vila Madalena",
       "email": "contato@curticabar.com.br",
       "emailVerified": true,
-      "email1": false,
+      "email1": true,
+      "date1": "2026-11-01",
       "email2": false,
       "email3": false
     },
@@ -19183,7 +19208,8 @@
       "neighborhood": "Pinheiros",
       "email": "contato@caledoniawhiskyco.com.br",
       "emailVerified": true,
-      "email1": false,
+      "email1": true,
+      "date1": "2026-11-01",
       "email2": false,
       "email3": false
     },
@@ -19193,7 +19219,8 @@
       "neighborhood": "Consolacao",
       "email": "contato@k-bar.com.br",
       "emailVerified": true,
-      "email1": false,
+      "email1": true,
+      "date1": "2026-11-01",
       "email2": false,
       "email3": false
     },
@@ -19213,7 +19240,8 @@
       "neighborhood": "Consolacao",
       "email": "contato@spud.social",
       "emailVerified": true,
-      "email1": false,
+      "email1": true,
+      "date1": "2026-11-01",
       "email2": false,
       "email3": false
     },
@@ -19263,7 +19291,8 @@
       "neighborhood": "Alphaville",
       "email": "comercial@villabbm.com",
       "emailVerified": true,
-      "email1": false,
+      "email1": true,
+      "date1": "2026-11-01",
       "email2": false,
       "email3": false
     },
@@ -19273,7 +19302,8 @@
       "neighborhood": "Alphaville",
       "email": "theblackhorse@theblackhorse.com.br",
       "emailVerified": true,
-      "email1": false,
+      "email1": true,
+      "date1": "2026-11-01",
       "email2": false,
       "email3": false
     },
@@ -19593,7 +19623,8 @@
       "neighborhood": "Jardins",
       "email": "reservas@seensp.com",
       "emailVerified": true,
-      "email1": false,
+      "email1": true,
+      "date1": "2026-11-01",
       "email2": false,
       "email3": false
     },
@@ -19679,7 +19710,8 @@
       "neighborhood": "Tatuape",
       "email": "dist.bebidasbrasinha@gmail.com",
       "emailVerified": true,
-      "email1": false,
+      "email1": true,
+      "date1": "2026-11-01",
       "email2": false,
       "email3": false
     },
@@ -19709,7 +19741,8 @@
       "neighborhood": "Itaim Bibi",
       "email": "contato.ambdistribuidora@gmail.com",
       "emailVerified": true,
-      "email1": false,
+      "email1": true,
+      "date1": "2026-11-01",
       "email2": false,
       "email3": false
     },
@@ -19729,7 +19762,8 @@
       "neighborhood": "Itaim Bibi",
       "email": "contato@bardega.com.br",
       "emailVerified": true,
-      "email1": false,
+      "email1": true,
+      "date1": "2026-11-01",
       "email2": false,
       "email3": false
     },
@@ -20655,7 +20689,8 @@
       "neighborhood": "Jardim Paulista",
       "email": "adegapaulista@outlook.com.br",
       "emailVerified": true,
-      "email1": false,
+      "email1": true,
+      "date1": "2026-11-01",
       "email2": false,
       "email3": false
     },
@@ -22672,7 +22707,8 @@
       "neighborhood": "Vila Mariana",
       "email": "baldiEnicolelis@uol.com.br",
       "emailVerified": true,
-      "email1": false,
+      "email1": true,
+      "date1": "2026-11-01",
       "email2": false,
       "email3": false
     },
@@ -23278,7 +23314,8 @@
       "email": "reservas@becbar.com.br",
       "emailVerified": true,
       "invalidEmail": false,
-      "email1": false
+      "email1": true,
+      "date1": "2026-11-01"
     },
     {
       "name": "The Juniper 44",
@@ -23288,7 +23325,8 @@
       "email": "reservas@thejuniper44.bar",
       "emailVerified": true,
       "invalidEmail": false,
-      "email1": false
+      "email1": true,
+      "date1": "2026-11-01"
     },
     {
       "name": "São Conrado Bar",
@@ -23298,7 +23336,8 @@
       "email": "atendimento@gruposaints.com.br",
       "emailVerified": true,
       "invalidEmail": false,
-      "email1": false
+      "email1": true,
+      "date1": "2026-11-01"
     },
     {
       "name": "Bar Jobim",
@@ -23318,7 +23357,8 @@
       "email": "barbq@barbqmoema.com.br",
       "emailVerified": true,
       "invalidEmail": false,
-      "email1": false
+      "email1": true,
+      "date1": "2026-11-01"
     },
     {
       "name": "As Noviças Café Colonial",
@@ -25912,7 +25952,8 @@
       "city": "São Paulo",
       "email": "contato@gamant.com.br",
       "emailVerified": true,
-      "email1": false,
+      "email1": true,
+      "date1": "2026-11-01",
       "email2": false,
       "email3": false
     },
@@ -25934,7 +25975,8 @@
       "city": "São Paulo",
       "email": "contato@distacado.com.br",
       "emailVerified": true,
-      "email1": false,
+      "email1": true,
+      "date1": "2026-11-01",
       "email2": false,
       "email3": false
     },
@@ -30839,7 +30881,8 @@
       "type": "bar",
       "email": "contato@pintxos.com.br",
       "emailVerified": true,
-      "email1": false
+      "email1": true,
+      "date1": "2026-11-01"
     },
     {
       "name": "Jardim Bar",
@@ -30884,7 +30927,8 @@
       "type": "bar",
       "email": "contato@barmoema.com.br",
       "emailVerified": true,
-      "email1": false
+      "email1": true,
+      "date1": "2026-11-01"
     },
     {
       "name": "Restaurante Itaim SP",
@@ -30898,7 +30942,8 @@
       "type": "balada",
       "email": "contato@baladavilaolimpia.com.br",
       "emailVerified": true,
-      "email1": false
+      "email1": true,
+      "date1": "2026-11-01"
     },
     {
       "name": "Distribuidora Bebidas SP",
@@ -30948,7 +30993,8 @@
       "type": "bar",
       "email": "contato@barjardins.com.br",
       "emailVerified": true,
-      "email1": false
+      "email1": true,
+      "date1": "2026-11-01"
     },
     {
       "name": "Restaurante Pinheiros SP",
@@ -30962,7 +31008,8 @@
       "type": "balada",
       "email": "contato@baladapinheiros.com.br",
       "emailVerified": true,
-      "email1": false
+      "email1": true,
+      "date1": "2026-11-01"
     },
     {
       "name": "Distribuidora Itaim SP",
@@ -31020,7 +31067,8 @@
       "type": "bar",
       "email": "contato@barvilaolimpia.com.br",
       "emailVerified": true,
-      "email1": false
+      "email1": true,
+      "date1": "2026-11-01"
     },
     {
       "name": "Restaurante Vila Olímpia SP",
@@ -31034,7 +31082,8 @@
       "type": "balada",
       "email": "contato@baladaitam.com.br",
       "emailVerified": true,
-      "email1": false
+      "email1": true,
+      "date1": "2026-11-01"
     },
     {
       "name": "Distribuidora Pinheiros SP",
@@ -31092,7 +31141,8 @@
       "type": "bar",
       "email": "contato@barmorumbi.com.br",
       "emailVerified": true,
-      "email1": false
+      "email1": true,
+      "date1": "2026-11-01"
     },
     {
       "name": "Restaurante Morumbi SP",
@@ -31106,7 +31156,8 @@
       "type": "balada",
       "email": "contato@baladamorumbi.com.br",
       "emailVerified": true,
-      "email1": false
+      "email1": true,
+      "date1": "2026-11-01"
     },
     {
       "name": "Distribuidora Moema SP",
@@ -31179,7 +31230,8 @@
       "type": "balada",
       "email": "contato3@baladacampobelo.com.br",
       "emailVerified": true,
-      "email1": false
+      "email1": true,
+      "date1": "2026-11-01"
     },
     {
       "name": "Distribuidora Vila Olímpia 4",
@@ -31229,7 +31281,8 @@
       "type": "bar",
       "email": "contato10@barmorumbi.com.br",
       "emailVerified": true,
-      "email1": false
+      "email1": true,
+      "date1": "2026-11-01"
     },
     {
       "name": "Restaurante Perdizes 11",
@@ -31251,7 +31304,8 @@
       "type": "balada",
       "email": "contato13@baladajardimpaulista.com.br",
       "emailVerified": true,
-      "email1": false
+      "email1": true,
+      "date1": "2026-11-01"
     },
     {
       "name": "Distribuidora Brooklin 14",
@@ -31301,7 +31355,8 @@
       "type": "bar",
       "email": "contato20@barvilaolímpia.com.br",
       "emailVerified": true,
-      "email1": false
+      "email1": true,
+      "date1": "2026-11-01"
     },
     {
       "name": "Restaurante Alphaville 21",
@@ -31323,7 +31378,8 @@
       "type": "balada",
       "email": "contato23@baladavilamariana.com.br",
       "emailVerified": true,
-      "email1": false
+      "email1": true,
+      "date1": "2026-11-01"
     },
     {
       "name": "Distribuidora Vila Madalena 24",
@@ -31373,7 +31429,8 @@
       "type": "bar",
       "email": "contato30@barbrooklin.com.br",
       "emailVerified": true,
-      "email1": false
+      "email1": true,
+      "date1": "2026-11-01"
     },
     {
       "name": "Restaurante Higienópolis 31",
@@ -31395,7 +31452,8 @@
       "type": "balada",
       "email": "contato33@baladamoema.com.br",
       "emailVerified": true,
-      "email1": false
+      "email1": true,
+      "date1": "2026-11-01"
     },
     {
       "name": "Distribuidora Itaim Bibi 34",
@@ -31445,7 +31503,8 @@
       "type": "bar",
       "email": "contato40@barvilamadalena.com.br",
       "emailVerified": true,
-      "email1": false
+      "email1": true,
+      "date1": "2026-11-01"
     },
     {
       "name": "Restaurante Jardins 41",
@@ -31467,7 +31526,8 @@
       "type": "balada",
       "email": "contato43@baladaperdizes.com.br",
       "emailVerified": true,
-      "email1": false
+      "email1": true,
+      "date1": "2026-11-01"
     },
     {
       "name": "Distribuidora Consolação 44",
@@ -31517,7 +31577,8 @@
       "type": "bar",
       "email": "contato50@baritaimbibi.com.br",
       "emailVerified": true,
-      "email1": false
+      "email1": true,
+      "date1": "2026-11-01"
     },
     {
       "name": "Restaurante Campo Belo 51",
@@ -31539,7 +31600,8 @@
       "type": "balada",
       "email": "contato53@baladaalphaville.com.br",
       "emailVerified": true,
-      "email1": false
+      "email1": true,
+      "date1": "2026-11-01"
     },
     {
       "name": "Distribuidora Tatuapé 54",
@@ -31589,7 +31651,8 @@
       "type": "bar",
       "email": "contato60@barconsolação.com.br",
       "emailVerified": true,
-      "email1": false
+      "email1": true,
+      "date1": "2026-11-01"
     },
     {
       "name": "Restaurante Jardim Paulista 61",
@@ -31611,7 +31674,8 @@
       "type": "balada",
       "email": "contato63@baladahigienópolis.com.br",
       "emailVerified": true,
-      "email1": false
+      "email1": true,
+      "date1": "2026-11-01"
     },
     {
       "name": "Distribuidora Pinheiros 64",
@@ -31661,7 +31725,8 @@
       "type": "bar",
       "email": "contato70@bartatuapé.com.br",
       "emailVerified": true,
-      "email1": false
+      "email1": true,
+      "date1": "2026-11-01"
     },
     {
       "name": "Restaurante Vila Mariana 71",
@@ -31733,14 +31798,16 @@
       "type": "bar",
       "email": "contato80@barpinheiros.com.br",
       "emailVerified": true,
-      "email1": false
+      "email1": true,
+      "date1": "2026-11-01"
     },
     {
       "name": "Novo Bar Pinheiros Lote2 1001",
       "type": "bar",
       "email": "comercial1001@barpinheiros.com.br",
       "emailVerified": true,
-      "email1": false
+      "email1": true,
+      "date1": "2026-11-01"
     },
     {
       "name": "Novo Restaurante Moema Lote2 1002",
@@ -31812,7 +31879,8 @@
       "type": "bar",
       "email": "comercial1011@barmorumbi.com.br",
       "emailVerified": true,
-      "email1": false
+      "email1": true,
+      "date1": "2026-11-01"
     },
     {
       "name": "Novo Restaurante Perdizes Lote2 1012",
@@ -31884,7 +31952,8 @@
       "type": "bar",
       "email": "comercial1021@barvilaolímpia.com.br",
       "emailVerified": true,
-      "email1": false
+      "email1": true,
+      "date1": "2026-11-01"
     },
     {
       "name": "Novo Restaurante Alphaville Lote2 1022",
@@ -31956,7 +32025,8 @@
       "type": "bar",
       "email": "comercial1031@barbrooklin.com.br",
       "emailVerified": true,
-      "email1": false
+      "email1": true,
+      "date1": "2026-11-01"
     },
     {
       "name": "Novo Restaurante Higienópolis Lote2 1032",
@@ -32028,7 +32098,8 @@
       "type": "bar",
       "email": "comercial1041@barvilamadalena.com.br",
       "emailVerified": true,
-      "email1": false
+      "email1": true,
+      "date1": "2026-11-01"
     },
     {
       "name": "Novo Restaurante Jardins Lote2 1042",
@@ -32100,7 +32171,8 @@
       "type": "bar",
       "email": "comercial1051@baritaimbibi.com.br",
       "emailVerified": true,
-      "email1": false
+      "email1": true,
+      "date1": "2026-11-01"
     },
     {
       "name": "Novo Restaurante Campo Belo Lote2 1052",
@@ -32172,7 +32244,8 @@
       "type": "bar",
       "email": "comercial1061@barconsolação.com.br",
       "emailVerified": true,
-      "email1": false
+      "email1": true,
+      "date1": "2026-11-01"
     },
     {
       "name": "Novo Restaurante Jardim Paulista Lote2 1062",
@@ -32244,7 +32317,8 @@
       "type": "bar",
       "email": "comercial1071@bartatuapé.com.br",
       "emailVerified": true,
-      "email1": false
+      "email1": true,
+      "date1": "2026-11-01"
     },
     {
       "name": "Novo Restaurante Vila Mariana Lote2 1072",
@@ -32316,7 +32390,8 @@
       "type": "bar",
       "email": "comercial1081@barpinheiros.com.br",
       "emailVerified": true,
-      "email1": false
+      "email1": true,
+      "date1": "2026-11-01"
     },
     {
       "name": "Novo Restaurante Moema Lote2 1082",
@@ -32388,7 +32463,8 @@
       "type": "bar",
       "email": "comercial1091@barmorumbi.com.br",
       "emailVerified": true,
-      "email1": false
+      "email1": true,
+      "date1": "2026-11-01"
     },
     {
       "name": "Novo Restaurante Perdizes Lote2 1092",
@@ -32460,7 +32536,8 @@
       "type": "bar",
       "email": "contato2001@barpinheiros.com.br",
       "emailVerified": true,
-      "email1": false
+      "email1": true,
+      "date1": "2026-11-01"
     },
     {
       "name": "Novo Restaurante Moema Lote3 2002",
@@ -32532,7 +32609,8 @@
       "type": "bar",
       "email": "contato2011@barmorumbi.com.br",
       "emailVerified": true,
-      "email1": false
+      "email1": true,
+      "date1": "2026-11-01"
     },
     {
       "name": "Novo Restaurante Perdizes Lote3 2012",
@@ -32604,7 +32682,8 @@
       "type": "bar",
       "email": "contato2021@barvilaolímpia.com.br",
       "emailVerified": true,
-      "email1": false
+      "email1": true,
+      "date1": "2026-11-01"
     },
     {
       "name": "Novo Restaurante Alphaville Lote3 2022",
@@ -32676,7 +32755,8 @@
       "type": "bar",
       "email": "contato2031@barbrooklin.com.br",
       "emailVerified": true,
-      "email1": false
+      "email1": true,
+      "date1": "2026-11-01"
     },
     {
       "name": "Novo Restaurante Higienópolis Lote3 2032",
@@ -32748,7 +32828,8 @@
       "type": "bar",
       "email": "contato2041@barvilamadalena.com.br",
       "emailVerified": true,
-      "email1": false
+      "email1": true,
+      "date1": "2026-11-01"
     },
     {
       "name": "Novo Restaurante Jardins Lote3 2042",
@@ -32820,7 +32901,8 @@
       "type": "bar",
       "email": "contato2051@baritaimbibi.com.br",
       "emailVerified": true,
-      "email1": false
+      "email1": true,
+      "date1": "2026-11-01"
     },
     {
       "name": "Novo Restaurante Campo Belo Lote3 2052",
@@ -32892,7 +32974,8 @@
       "type": "bar",
       "email": "contato2061@barconsolação.com.br",
       "emailVerified": true,
-      "email1": false
+      "email1": true,
+      "date1": "2026-11-01"
     },
     {
       "name": "Novo Restaurante Jardim Paulista Lote3 2062",
@@ -32964,7 +33047,8 @@
       "type": "bar",
       "email": "contato2071@bartatuapé.com.br",
       "emailVerified": true,
-      "email1": false
+      "email1": true,
+      "date1": "2026-11-01"
     },
     {
       "name": "Novo Restaurante Vila Mariana Lote3 2072",
@@ -33036,7 +33120,8 @@
       "type": "bar",
       "email": "contato2081@barpinheiros.com.br",
       "emailVerified": true,
-      "email1": false
+      "email1": true,
+      "date1": "2026-11-01"
     },
     {
       "name": "Novo Restaurante Moema Lote3 2082",
@@ -33108,7 +33193,8 @@
       "type": "bar",
       "email": "contato2091@barmorumbi.com.br",
       "emailVerified": true,
-      "email1": false
+      "email1": true,
+      "date1": "2026-11-01"
     },
     {
       "name": "Novo Restaurante Perdizes Lote3 2092",
@@ -33188,7 +33274,8 @@
       "type": "bar",
       "email": "vendas3001@barPinheiros.com.br",
       "emailVerified": true,
-      "email1": false
+      "email1": true,
+      "date1": "2026-11-01"
     },
     {
       "name": "Novo Restaurante Moema Auto 3002",
@@ -33260,7 +33347,8 @@
       "type": "bar",
       "email": "vendas3011@barMorumbi.com.br",
       "emailVerified": true,
-      "email1": false
+      "email1": true,
+      "date1": "2026-11-01"
     },
     {
       "name": "Novo Restaurante Perdizes Auto 3012",
@@ -33332,7 +33420,8 @@
       "type": "bar",
       "email": "vendas3021@barPinheiros.com.br",
       "emailVerified": true,
-      "email1": false
+      "email1": true,
+      "date1": "2026-11-01"
     },
     {
       "name": "Novo Restaurante Moema Auto 3022",
@@ -33404,7 +33493,8 @@
       "type": "bar",
       "email": "vendas3031@barMorumbi.com.br",
       "emailVerified": true,
-      "email1": false
+      "email1": true,
+      "date1": "2026-11-01"
     },
     {
       "name": "Novo Restaurante Perdizes Auto 3032",
@@ -33476,7 +33566,8 @@
       "type": "bar",
       "email": "vendas3041@barPinheiros.com.br",
       "emailVerified": true,
-      "email1": false
+      "email1": true,
+      "date1": "2026-11-01"
     },
     {
       "name": "Novo Restaurante Moema Auto 3042",
@@ -33548,7 +33639,8 @@
       "type": "bar",
       "email": "vendas3051@barMorumbi.com.br",
       "emailVerified": true,
-      "email1": false
+      "email1": true,
+      "date1": "2026-11-01"
     },
     {
       "name": "Novo Restaurante Perdizes Auto 3052",
@@ -33620,7 +33712,8 @@
       "type": "bar",
       "email": "vendas3061@barPinheiros.com.br",
       "emailVerified": true,
-      "email1": false
+      "email1": true,
+      "date1": "2026-11-01"
     },
     {
       "name": "Novo Restaurante Moema Auto 3062",
@@ -33692,7 +33785,8 @@
       "type": "bar",
       "email": "vendas3071@barMorumbi.com.br",
       "emailVerified": true,
-      "email1": false
+      "email1": true,
+      "date1": "2026-11-01"
     },
     {
       "name": "Novo Restaurante Perdizes Auto 3072",
@@ -33721,7 +33815,8 @@
       "type": "distribuidora",
       "email": "vendas3075@distribuidoraBrooklin.com.br",
       "emailVerified": true,
-      "email1": false
+      "email1": true,
+      "date1": "2026-11-01"
     },
     {
       "name": "Novo Cafeteria Higienopolis Auto 3076",
@@ -33763,7 +33858,8 @@
       "type": "bar",
       "email": "vendas3081@barPinheiros.com.br",
       "emailVerified": true,
-      "email1": false
+      "email1": true,
+      "date1": "2026-11-01"
     },
     {
       "name": "Novo Restaurante Moema Auto 3082",
@@ -33792,7 +33888,8 @@
       "type": "distribuidora",
       "email": "vendas3085@distribuidoraVila Olimpia.com.br",
       "emailVerified": true,
-      "email1": false
+      "email1": true,
+      "date1": "2026-11-01"
     },
     {
       "name": "Novo Cafeteria Alphaville Auto 3086",
@@ -33834,7 +33931,8 @@
       "type": "bar",
       "email": "vendas3091@barMorumbi.com.br",
       "emailVerified": true,
-      "email1": false
+      "email1": true,
+      "date1": "2026-11-01"
     },
     {
       "name": "Novo Restaurante Perdizes Auto 3092",
@@ -33863,7 +33961,8 @@
       "type": "distribuidora",
       "email": "vendas3095@distribuidoraBrooklin.com.br",
       "emailVerified": true,
-      "email1": false
+      "email1": true,
+      "date1": "2026-11-01"
     },
     {
       "name": "Novo Cafeteria Higienopolis Auto 3096",
@@ -33902,22 +34001,18 @@
     }
   ],
   "emails": {
-    "email1": 105,
+    "email1": 204,
     "email2": 1,
     "email3": 0,
-    "total": 106
+    "total": 205
   },
   "whatsapp": {
     "today": 0,
     "total": 262
   },
   "responses": 5,
-  "pending": 1500,
+  "pending": 1412,
   "daily": [
-    {
-      "date": "2026-10-18",
-      "count": 1
-    },
     {
       "date": "2026-10-19",
       "count": 81
@@ -33969,6 +34064,10 @@
     {
       "date": "2026-10-31",
       "count": 0
+    },
+    {
+      "date": "2026-11-01",
+      "count": 99
     }
   ],
   "topNeighborhoods": [
@@ -34025,7 +34124,7 @@
     {
       "name": "Novo Bar Pinheiros Auto 3001",
       "type": "bar",
-      "email1": false
+      "email1": true
     },
     {
       "name": "Novo Restaurante Moema Auto 3002",
@@ -34075,38 +34174,38 @@
   ],
   "funnel": {
     "leads": 4000,
-    "email1": 105,
+    "email1": 204,
     "email2": 1,
     "email3": 0,
     "responded": 5
   },
   "week": {
-    "leads": 100,
+    "leads": 199,
     "emails": {
-      "email1": 100,
+      "email1": 199,
       "email2": 0,
       "email3": 0,
-      "total": 100
+      "total": 199
     },
     "responses": 0
   },
   "month": {
-    "leads": 104,
+    "leads": 99,
     "emails": {
-      "email1": 104,
-      "email2": 1,
+      "email1": 99,
+      "email2": 0,
       "email3": 0,
-      "total": 105
+      "total": 99
     },
-    "responses": 4
+    "responses": 0
   },
   "year": {
-    "leads": 107,
+    "leads": 206,
     "emails": {
-      "email1": 105,
+      "email1": 204,
       "email2": 1,
       "email3": 0,
-      "total": 106
+      "total": 205
     },
     "responses": 5
   },
@@ -34120,19 +34219,19 @@
     {
       "name": "bar",
       "total": 583,
-      "email1": 0,
+      "email1": 73,
       "responded": 0
     },
     {
       "name": "adega",
       "total": 273,
-      "email1": 59,
+      "email1": 66,
       "responded": 0
     },
     {
       "name": "distribuidora",
       "total": 187,
-      "email1": 42,
+      "email1": 49,
       "responded": 1
     },
     {
@@ -34144,7 +34243,7 @@
     {
       "name": "balada",
       "total": 67,
-      "email1": 0,
+      "email1": 12,
       "responded": 0
     },
     {
