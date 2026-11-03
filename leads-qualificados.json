@@ -20,11 +20,12 @@
     "type": "restaurante",
     "website": "https://restaurantebarak.com.br",
     "context": "um dos restaurantes mais tradicionais de Moema",
-    "email1": false,
+    "email1": true,
     "email2": false,
     "email3": false,
     "template": "prova_social",
-    "targetProfile": "A/B"
+    "targetProfile": "A/B",
+    "date1": "2026-11-03"
   },
   {
     "name": "Fogo de Ch├úo Moema",
@@ -33,11 +34,12 @@
     "type": "restaurante",
     "website": "https://fogodechao.com.br/location/moema/",
     "context": "primeira unidade da rede em SP",
-    "email1": false,
+    "email1": true,
     "email2": false,
     "email3": false,
     "template": "pergunta",
-    "targetProfile": "A/B"
+    "targetProfile": "A/B",
+    "date1": "2026-11-03"
   },
   {
     "name": "Adega Santiago",
@@ -73,11 +75,12 @@
     "type": "restaurante",
     "website": "https://www.ryogastronomia.com.br",
     "context": "alta gastronomia no Itaim Bibi",
-    "email1": false,
+    "email1": true,
     "email2": false,
     "email3": false,
     "template": "pergunta",
-    "targetProfile": "A/B"
+    "targetProfile": "A/B",
+    "date1": "2026-11-03"
   },
   {
     "name": "Terra├ºo Jardins",
@@ -86,11 +89,12 @@
     "type": "restaurante",
     "website": "https://www.restauranteterracojardins.com.br",
     "context": "gastronomia contempor├ónea no Renaissance Hotel",
-    "email1": false,
+    "email1": true,
     "email2": false,
     "email3": false,
     "template": null,
-    "targetProfile": "A/B"
+    "targetProfile": "A/B",
+    "date1": "2026-11-03"
   },
   {
     "name": "Pullman S├úo Paulo Vila Ol├¡mpia",
@@ -151,11 +155,12 @@
     "type": "restaurante",
     "website": "https://www.grupofito.com.br",
     "context": "cozinha brasileira autoral com coquetelaria pr├│pria",
-    "email1": false,
+    "email1": true,
     "email2": false,
     "email3": false,
     "template": "consultivo",
-    "targetProfile": "A/B"
+    "targetProfile": "A/B",
+    "date1": "2026-11-03"
   },
   {
     "name": "Bar Martina",
@@ -178,11 +183,12 @@
     "type": "restaurante",
     "website": "https://www.bernardinorestaurante.com.br",
     "context": "gastronomia tradicional no Campo Belo",
-    "email1": false,
+    "email1": true,
     "email2": false,
     "email3": false,
     "template": "prova_social",
-    "targetProfile": "A/B"
+    "targetProfile": "A/B",
+    "date1": "2026-11-03"
   },
   {
     "name": "Taco Bar e Cozinha Mexicana",
@@ -274,10 +280,11 @@
     "website": "",
     "context": "parrilla argentina no Jardim Europa",
     "template": "consultivo",
-    "email1": false,
+    "email1": true,
     "email2": false,
     "email3": false,
-    "targetProfile": "A/B"
+    "targetProfile": "A/B",
+    "date1": "2026-11-03"
   },
   {
     "name": "Restaurante America Alameda Santos",
@@ -287,11 +294,12 @@
     "website": "",
     "context": "restaurante cl├íssico nos Jardins",
     "template": "prova_social",
-    "email1": false,
+    "email1": true,
     "email2": false,
     "askedCadastro": true,
     "email3": false,
-    "targetProfile": "A/B"
+    "targetProfile": "A/B",
+    "date1": "2026-11-03"
   },
   {
     "name": "TUJU",
@@ -301,10 +309,11 @@
     "website": "https://tuju.com.br",
     "context": "alta gastronomia sazonal paulistana, Latin America 50 Best",
     "template": "consultivo",
-    "email1": false,
+    "email1": true,
     "email2": false,
     "email3": false,
-    "targetProfile": "A/B"
+    "targetProfile": "A/B",
+    "date1": "2026-11-03"
   },
   {
     "name": "Othelo Bar e Restaurante",
@@ -314,10 +323,11 @@
     "website": "https://www.othelobarrestaurante.com.br/",
     "context": "restaurante contempor├óneo com forneria e adega de 2k garrafas",
     "template": "consultivo",
-    "email1": false,
+    "email1": true,
     "email2": false,
     "email3": false,
-    "targetProfile": "A/B"
+    "targetProfile": "A/B",
+    "date1": "2026-11-03"
   },
   {
     "name": "Santo Gr├úo Higien├│polis",
@@ -340,10 +350,11 @@
     "website": "",
     "context": "bar ic├┤nico em Moema",
     "template": "prova_social",
-    "email1": false,
+    "email1": true,
     "email2": false,
     "email3": false,
-    "targetProfile": "A/B"
+    "targetProfile": "A/B",
+    "date1": "2026-11-03"
   },
   {
     "name": "Koi Moema",
@@ -353,10 +364,11 @@
     "website": "",
     "context": "restaurante japon├¬s em Moema",
     "template": "consultivo",
-    "email1": false,
+    "email1": true,
     "email2": false,
     "email3": false,
-    "targetProfile": "A/B"
+    "targetProfile": "A/B",
+    "date1": "2026-11-03"
   },
   {
     "name": "S├úo Conrado Bar Itaim",
@@ -366,10 +378,11 @@
     "website": "",
     "context": "bar tradicional no Itaim Bibi",
     "template": "pergunta",
-    "email1": false,
+    "email1": true,
     "email2": false,
     "email3": false,
-    "targetProfile": "A/B"
+    "targetProfile": "A/B",
+    "date1": "2026-11-03"
   },
   {
     "name": "Bassano Itaim",
@@ -379,10 +392,11 @@
     "website": "",
     "context": "restaurante italiano no Itaim",
     "template": "consultivo",
-    "email1": false,
+    "email1": true,
     "email2": false,
     "email3": false,
-    "targetProfile": "A/B"
+    "targetProfile": "A/B",
+    "date1": "2026-11-03"
   },
   {
     "name": "Caires Itaim Bar",
@@ -392,10 +406,11 @@
     "website": "",
     "context": "bar e restaurante variado no Itaim",
     "template": "prova_social",
-    "email1": false,
+    "email1": true,
     "email2": false,
     "email3": false,
-    "targetProfile": "A/B"
+    "targetProfile": "A/B",
+    "date1": "2026-11-03"
   },
   {
     "name": "Fisherman's Table Itaim",
@@ -405,10 +420,11 @@
     "website": "",
     "context": "cozinha variada de frutos do mar",
     "template": "consultivo",
-    "email1": false,
+    "email1": true,
     "email2": false,
     "email3": false,
-    "targetProfile": "A/B"
+    "targetProfile": "A/B",
+    "date1": "2026-11-03"
   },
   {
     "name": "Sushi Hall Pinheiros",
@@ -421,7 +437,10 @@
     "email1": false,
     "email2": false,
     "email3": false,
-    "targetProfile": "A/B"
+    "targetProfile": "A/B",
+    "invalidEmail": true,
+    "invalidEmailReason": "domain_without_mx",
+    "invalidEmailDate": "2026-11-03"
   },
   {
     "name": "Trash 80s Vila Ol├¡mpia",
@@ -444,10 +463,11 @@
     "website": "",
     "context": "adega/restaurante espanhol nos Jardins",
     "template": "prova_social",
-    "email1": false,
+    "email1": true,
     "email2": false,
     "email3": false,
-    "targetProfile": "A/B"
+    "targetProfile": "A/B",
+    "date1": "2026-11-03"
   },
   {
     "name": "Mega Adega",
@@ -484,10 +504,11 @@
     "website": "",
     "context": "balada liberal em Moema",
     "template": "pergunta",
-    "email1": false,
+    "email1": true,
     "email2": false,
     "email3": false,
-    "targetProfile": "A/B"
+    "targetProfile": "A/B",
+    "date1": "2026-11-03"
   },
   {
     "name": "Memphis All Music Moema",
@@ -497,10 +518,11 @@
     "website": "",
     "context": "balada all music em Moema",
     "template": "consultivo",
-    "email1": false,
+    "email1": true,
     "email2": false,
     "email3": false,
-    "targetProfile": "A/B"
+    "targetProfile": "A/B",
+    "date1": "2026-11-03"
   },
   {
     "name": "Bar Bacantes",
@@ -524,10 +546,11 @@
     "website": "https://clubepraga.com.br",
     "context": "bar underground tematico do leste europeu em Perdizes",
     "template": "pergunta",
-    "email1": false,
+    "email1": true,
     "email2": false,
     "email3": false,
-    "targetProfile": "A/B"
+    "targetProfile": "A/B",
+    "date1": "2026-11-03"
   },
   {
     "name": "Container",
@@ -537,10 +560,11 @@
     "website": "",
     "context": "balada na Rua Bela Cintra com musica eletronica",
     "template": "pergunta",
-    "email1": false,
+    "email1": true,
     "email2": false,
     "email3": false,
-    "targetProfile": "A/B"
+    "targetProfile": "A/B",
+    "date1": "2026-11-03"
   },
   {
     "name": "Milk Mellow Cidade Jardim",
@@ -618,10 +642,11 @@
     "website": "https://cantaloup.com.br",
     "context": "restaurante contemporaneo com ampla carta de vinhos no Jardim Europa",
     "template": "consultivo",
-    "email1": false,
+    "email1": true,
     "email2": false,
     "email3": false,
-    "targetProfile": "A/B"
+    "targetProfile": "A/B",
+    "date1": "2026-11-03"
   },
   {
     "name": "Adega Zaidan",
@@ -648,10 +673,11 @@
     "website": "",
     "context": "casa noturna dos anos 80 nos Jardins",
     "template": "pergunta",
-    "email1": false,
+    "email1": true,
     "email2": false,
     "email3": false,
-    "targetProfile": "A/B"
+    "targetProfile": "A/B",
+    "date1": "2026-11-03"
   },
   {
     "name": "Nostro Mondo",
@@ -661,10 +687,11 @@
     "website": "",
     "context": "casa noturna na Consolacao com pistas e lounge",
     "template": "pergunta",
-    "email1": false,
+    "email1": true,
     "email2": false,
     "email3": false,
-    "targetProfile": "A/B"
+    "targetProfile": "A/B",
+    "date1": "2026-11-03"
   },
   {
     "name": "Sampa Vinho",
@@ -688,10 +715,11 @@
     "website": "",
     "context": "casa liberal discreta com apresentacoes eroticas",
     "template": "pergunta",
-    "email1": false,
+    "email1": true,
     "email2": false,
     "email3": false,
-    "targetProfile": "A/B"
+    "targetProfile": "A/B",
+    "date1": "2026-11-03"
   },
   {
     "name": "Emp├│rio Santa Joana Aclima├º├úo",
@@ -1191,10 +1219,11 @@
     "context": "bar tradicional em Perdizes, com petiscos, caipirinhas e clima de boteco paulistano",
     "template": "pergunta",
     "website": "",
-    "email1": false,
+    "email1": true,
     "email2": false,
     "email3": false,
-    "targetProfile": "A/B"
+    "targetProfile": "A/B",
+    "date1": "2026-11-03"
   },
   {
     "name": "Boteco Mad├í",
@@ -1205,10 +1234,11 @@
     "context": "boteco na Vila Madalena, com feijoada, petiscos e drinks",
     "template": "prova_social",
     "website": "",
-    "email1": false,
+    "email1": true,
     "email2": false,
     "email3": false,
-    "targetProfile": "A/B"
+    "targetProfile": "A/B",
+    "date1": "2026-11-03"
   },
   {
     "name": "Itapura Bar",
@@ -1331,10 +1361,11 @@
     "context": "bar em Pinheiros com quintal, brech├│, pizzas e carta de drinques cl├íssicos",
     "template": "pergunta",
     "website": "",
-    "email1": false,
+    "email1": true,
     "email2": false,
     "email3": false,
-    "targetProfile": "A/B"
+    "targetProfile": "A/B",
+    "date1": "2026-11-03"
   },
   {
     "name": "Cervejaria 366",
@@ -1443,10 +1474,11 @@
     "context": "bar tradicional em Moema, com petiscos, chope e clima de boteco paulistano",
     "template": "consultivo",
     "website": "",
-    "email1": false,
+    "email1": true,
     "email2": false,
     "email3": false,
-    "targetProfile": "A/B"
+    "targetProfile": "A/B",
+    "date1": "2026-11-03"
   },
   {
     "name": "Brett Bierhaus Moema",
@@ -32927,10 +32959,11 @@
     "emailVerifiedAt": "2026-10-13",
     "mxVerified": true,
     "template": "consultivo",
-    "email1": false,
+    "email1": true,
     "email2": false,
     "email3": false,
-    "targetProfile": "A/B"
+    "targetProfile": "A/B",
+    "date1": "2026-11-03"
   },
   {
     "name": "Le Roof",
@@ -32982,10 +33015,11 @@
     "emailVerifiedAt": "2026-10-13",
     "mxVerified": true,
     "template": "pergunta",
-    "email1": false,
+    "email1": true,
     "email2": false,
     "email3": false,
-    "targetProfile": "A/B"
+    "targetProfile": "A/B",
+    "date1": "2026-11-03"
   },
   {
     "name": "Forcato Commerce",
@@ -33376,10 +33410,11 @@
     "emailSource": "https://cateringsp.com.br",
     "emailVerifiedAt": "2026-10-13",
     "template": "consultivo",
-    "email1": false,
+    "email1": true,
     "email2": false,
     "email3": false,
-    "targetProfile": "A/B"
+    "targetProfile": "A/B",
+    "date1": "2026-11-03"
   },
   {
     "name": "APTK Spirits Eventos",
@@ -34389,10 +34424,11 @@
     "emailSource": "https://www.tortellini.com.br/",
     "emailVerifiedAt": "2026-10-13",
     "template": "consultivo",
-    "email1": false,
+    "email1": true,
     "email2": false,
     "email3": false,
-    "targetProfile": "A/B"
+    "targetProfile": "A/B",
+    "date1": "2026-11-03"
   },
   {
     "name": "O Posto Bar e Restaurante",
@@ -34749,10 +34785,11 @@
     "emailSource": "https://salaosavana.com.br/",
     "emailVerifiedAt": "2026-10-13",
     "template": "consultivo",
-    "email1": false,
+    "email1": true,
     "email2": false,
     "email3": false,
-    "targetProfile": "A/B"
+    "targetProfile": "A/B",
+    "date1": "2026-11-03"
   },
   {
     "name": "Pacha Pizza Bar",
@@ -35875,11 +35912,12 @@
     "verifiedAt": "2026-08-30",
     "status": "contacted",
     "template": "consultivo",
-    "email1": false,
+    "email1": true,
     "messageId1": "<a5a2c3f5-3ec5-3c8c-0f87-2de0ec46b5d2@gmail.com>",
     "email2": false,
     "email3": false,
-    "targetProfile": "A/B"
+    "targetProfile": "A/B",
+    "date1": "2026-11-03"
   },
   {
     "name": "Espaco Refugio",
@@ -36822,11 +36860,12 @@
     "emailVerifiedAt": "2026-10-13",
     "verifiedAt": "2026-08-31",
     "status": "qualified_phone_web",
-    "email1": false,
+    "email1": true,
     "invalidEmail": false,
     "email2": false,
     "email3": false,
-    "targetProfile": "A/B"
+    "targetProfile": "A/B",
+    "date1": "2026-11-03"
   },
   {
     "name": "O Amadeu",
@@ -38256,10 +38295,11 @@
     "mxVerified": true,
     "template": "pergunta",
     "website": "",
-    "email1": false,
+    "email1": true,
     "email2": false,
     "email3": false,
-    "targetProfile": "A/B"
+    "targetProfile": "A/B",
+    "date1": "2026-11-03"
   },
   {
     "name": "Locale Caff├® (Depto Compras)",
@@ -38792,10 +38832,11 @@
     "emailVerified": true,
     "emailVerifiedAt": "2026-10-13",
     "emailSource": "https://guiapj.com.br/consulta-cnpj",
-    "email1": false,
+    "email1": true,
     "email2": false,
     "email3": false,
-    "targetProfile": "A/B"
+    "targetProfile": "A/B",
+    "date1": "2026-11-03"
   },
   {
     "name": "Dinamite Itaim Choperia",
@@ -38807,10 +38848,11 @@
     "emailVerified": true,
     "emailVerifiedAt": "2026-10-13",
     "emailSource": "https://guiapj.com.br/consulta-cnpj",
-    "email1": false,
+    "email1": true,
     "email2": false,
     "email3": false,
-    "targetProfile": "A/B"
+    "targetProfile": "A/B",
+    "date1": "2026-11-03"
   },
   {
     "name": "Dora Bar Itaim Bibi",
@@ -38822,10 +38864,11 @@
     "emailVerified": true,
     "emailVerifiedAt": "2026-10-13",
     "emailSource": "https://guiapj.com.br/consulta-cnpj",
-    "email1": false,
+    "email1": true,
     "email2": false,
     "email3": false,
-    "targetProfile": "A/B"
+    "targetProfile": "A/B",
+    "date1": "2026-11-03"
   },
   {
     "name": "Adega Bezerra",
@@ -38881,10 +38924,11 @@
     "emailVerified": true,
     "emailVerifiedAt": "2026-10-13",
     "emailSource": "https://guiapj.com.br/consulta-cnpj",
-    "email1": false,
+    "email1": true,
     "email2": false,
     "email3": false,
-    "targetProfile": "A/B"
+    "targetProfile": "A/B",
+    "date1": "2026-11-03"
   },
   {
     "name": "Restaurante Sultao Campo Belo",
@@ -38896,10 +38940,11 @@
     "emailVerified": true,
     "emailVerifiedAt": "2026-10-13",
     "emailSource": "https://guiapj.com.br/consulta-cnpj",
-    "email1": false,
+    "email1": true,
     "email2": false,
     "email3": false,
-    "targetProfile": "A/B"
+    "targetProfile": "A/B",
+    "date1": "2026-11-03"
   },
   {
     "name": "CBL Campo Belo Restaurante",
@@ -38911,10 +38956,11 @@
     "emailVerified": true,
     "emailVerifiedAt": "2026-10-13",
     "emailSource": "https://guiapj.com.br/consulta-cnpj",
-    "email1": false,
+    "email1": true,
     "email2": false,
     "email3": false,
-    "targetProfile": "A/B"
+    "targetProfile": "A/B",
+    "date1": "2026-11-03"
   },
   {
     "name": "Santorini Bar",
@@ -39001,10 +39047,11 @@
     "emailVerified": true,
     "emailVerifiedAt": "2026-10-13",
     "emailSource": "https://guiapj.com.br/consulta-cnpj",
-    "email1": false,
+    "email1": true,
     "email2": false,
     "email3": false,
-    "targetProfile": "A/B"
+    "targetProfile": "A/B",
+    "date1": "2026-11-03"
   },
   {
     "name": "Adega e Bar Salto",
@@ -39078,10 +39125,11 @@
     "emailVerified": true,
     "emailVerifiedAt": "2026-10-13",
     "emailSource": "https://guiapj.com.br/consulta-cnpj",
-    "email1": false,
+    "email1": true,
     "email2": false,
     "email3": false,
-    "targetProfile": "A/B"
+    "targetProfile": "A/B",
+    "date1": "2026-11-03"
   },
   {
     "name": "Adega Vila Sao Francisco",
@@ -39127,9 +39175,10 @@
     "type": "bar",
     "website": "",
     "context": "wine bar na Faria Lima, Jardim Paulistano, com foco em vinhos",
-    "email1": false,
+    "email1": true,
     "template": "consultivo",
-    "targetProfile": "A/B"
+    "targetProfile": "A/B",
+    "date1": "2026-11-03"
   },
   {
     "name": "Super Adega Com├®rcio de Bebidas",
@@ -40801,13 +40850,14 @@
     "type": "bar",
     "website": "",
     "context": "Gomo Pinheiros Bar e Restaurante em Sao Paulo (Rua Sumidouro 138, Pinheiros), CNPJ 55.061.910/0001-76, aberto 09/05/2024, capital R$ 30.000. CNAEs 5611203, 5611201 e 5611204 (bar/restaurante).",
-    "email1": false,
+    "email1": true,
     "email2": false,
     "email3": false,
     "emailVerified": true,
     "emailSource": "https://casadosdados.com.br/solucao/cnpj/gomo-pinheiros-bar-e-restaurante-ltda-55061910000176",
     "emailVerifiedAt": "2026-10-13",
-    "targetProfile": "A/B"
+    "targetProfile": "A/B",
+    "date1": "2026-11-03"
   },
   {
     "name": "Franco Gastro Bar",
@@ -40831,13 +40881,14 @@
     "type": "bar",
     "website": "",
     "context": "Caetanos Bar em Sao Paulo (Rua Vieira de Morais 1857, Campo Belo - unidade Zona Sul; ZN em Av. Eng. Caetano Alvares 5496, Mandaqui), CNPJ 48.498.178/0001-30, ativo. CNAE 5611203. Carta autoral de drinks assinada por Marco De La Roche, mais de 40 rotulos e cacha├ºas premiadas. Contato via site caetanosbar.com.br.",
-    "email1": false,
+    "email1": true,
     "email2": false,
     "email3": false,
     "emailVerified": true,
     "emailSource": "https://casadosdados.com.br/solucao/cnpj/caetanos-bar-ltda-48498178000130",
     "emailVerifiedAt": "2026-10-13",
-    "targetProfile": "A/B"
+    "targetProfile": "A/B",
+    "date1": "2026-11-03"
   },
   {
     "name": "Imperium Group Bar",
@@ -40897,13 +40948,14 @@
     "type": "bar",
     "website": "",
     "context": "Bar e Adega Vermelho em Sao Paulo (Consolacao), CNPJ 65.914.066/0001-32, ativo. CNAE principal 5611203 (lanchonete) e secundario 4723700 (comercio varejista de bebidas). Contato (11) 33715498.",
-    "email1": false,
+    "email1": true,
     "email2": false,
     "email3": false,
     "emailVerified": true,
     "emailSource": "https://casadosdados.com.br/solucao/cnpj/bar-e-adega-vermelho-ltda-65914066000132",
     "emailVerifiedAt": "2026-10-13",
-    "targetProfile": "A/B"
+    "targetProfile": "A/B",
+    "date1": "2026-11-03"
   },
   {
     "name": "Emporio Adega Global Ltda",
@@ -40945,13 +40997,14 @@
     "type": "bar",
     "website": "",
     "context": "Olho de Vidro Bar em Sao Paulo (Pinheiros, Rua Mourato Coelho 1168, CEP 05417-002), CNPJ 65.331.543/0001-37, ativa desde 24/02/2026. CNAE 5611204 (bar) e 4723700 (bebidas). Contato (11) 30377947.",
-    "email1": false,
+    "email1": true,
     "email2": false,
     "email3": false,
     "emailVerified": true,
     "emailSource": "https://casadosdados.com.br/solucao/cnpj/olho-de-vidro-bar-ltda-65331543000137",
     "emailVerifiedAt": "2026-10-13",
-    "targetProfile": "A/B"
+    "targetProfile": "A/B",
+    "date1": "2026-11-03"
   },
   {
     "name": "Barreto & Barreto Bebidas Ltda",
@@ -41070,13 +41123,14 @@
     "type": "bar",
     "website": "",
     "context": "Cervejaria artesanal bar - Vila Mariana, SP Capital",
-    "email1": false,
+    "email1": true,
     "email2": false,
     "email3": false,
     "emailVerified": true,
     "emailSource": "https://letsbeer.com.br",
     "emailVerifiedAt": "2026-10-13",
-    "targetProfile": "A/B"
+    "targetProfile": "A/B",
+    "date1": "2026-11-03"
   },
   {
     "name": "Gaivotas Bar / Pinheirinho Cerveja",
@@ -41085,13 +41139,14 @@
     "type": "bar",
     "website": "",
     "context": "CNAE 5611203 - bar/lanchete em Pinheiros, SP Capital, ativa ha 20 anos",
-    "email1": false,
+    "email1": true,
     "email2": false,
     "email3": false,
     "emailVerified": true,
     "emailSource": "https://cnpjgo.com.br/cnpj/68948793000109",
     "emailVerifiedAt": "2026-10-13",
-    "targetProfile": "A/B"
+    "targetProfile": "A/B",
+    "date1": "2026-11-03"
   },
   {
     "name": "Bar e Adega Altas Horas",
@@ -41281,10 +41336,11 @@
     "emailSource": "https://monicacatering.com.br",
     "emailVerifiedAt": "2026-10-13",
     "template": "consultivo",
-    "email1": false,
+    "email1": true,
     "email2": false,
     "email3": false,
-    "targetProfile": "A/B"
+    "targetProfile": "A/B",
+    "date1": "2026-11-03"
   },
   {
     "name": "RP Catering",
@@ -46669,10 +46725,11 @@
     "emailVerifiedAt": "2026-10-17",
     "mxVerified": true,
     "template": "consultivo",
-    "email1": false,
+    "email1": true,
     "email2": false,
     "email3": false,
-    "targetProfile": "A/B"
+    "targetProfile": "A/B",
+    "date1": "2026-11-03"
   },
   {
     "name": "Gero Jardins",
@@ -46688,10 +46745,11 @@
     "emailVerifiedAt": "2026-10-17",
     "mxVerified": true,
     "template": "consultivo",
-    "email1": false,
+    "email1": true,
     "email2": false,
     "email3": false,
-    "targetProfile": "A/B"
+    "targetProfile": "A/B",
+    "date1": "2026-11-03"
   },
   {
     "name": "Restaurante Fasano",
@@ -46707,10 +46765,11 @@
     "emailVerifiedAt": "2026-10-17",
     "mxVerified": true,
     "template": "consultivo",
-    "email1": false,
+    "email1": true,
     "email2": false,
     "email3": false,
-    "targetProfile": "A/B"
+    "targetProfile": "A/B",
+    "date1": "2026-11-03"
   },
   {
     "name": "Ristorantino Jardins",
@@ -46726,10 +46785,11 @@
     "emailVerifiedAt": "2026-10-17",
     "mxVerified": true,
     "template": "consultivo",
-    "email1": false,
+    "email1": true,
     "email2": false,
     "email3": false,
-    "targetProfile": "A/B"
+    "targetProfile": "A/B",
+    "date1": "2026-11-03"
   },
   {
     "name": "Miró Gastronomia",
@@ -46745,10 +46805,11 @@
     "emailVerifiedAt": "2026-10-17",
     "mxVerified": true,
     "template": "consultivo",
-    "email1": false,
+    "email1": true,
     "email2": false,
     "email3": false,
-    "targetProfile": "A/B"
+    "targetProfile": "A/B",
+    "date1": "2026-11-03"
   },
   {
     "name": "WZ Hotel Jardins",
@@ -46764,10 +46825,11 @@
     "emailVerifiedAt": "2026-10-17",
     "mxVerified": true,
     "template": "consultivo",
-    "email1": false,
+    "email1": true,
     "email2": false,
     "email3": false,
-    "targetProfile": "A/B"
+    "targetProfile": "A/B",
+    "date1": "2026-11-03"
   },
   {
     "name": "Hotel Trianon Paulista",
@@ -46783,10 +46845,11 @@
     "emailVerifiedAt": "2026-10-17",
     "mxVerified": true,
     "template": "consultivo",
-    "email1": false,
+    "email1": true,
     "email2": false,
     "email3": false,
-    "targetProfile": "A/B"
+    "targetProfile": "A/B",
+    "date1": "2026-11-03"
   },
   {
     "name": "Meliá Jardim Europa",
@@ -46802,10 +46865,11 @@
     "emailVerifiedAt": "2026-10-17",
     "mxVerified": true,
     "template": "consultivo",
-    "email1": false,
+    "email1": true,
     "email2": false,
     "email3": false,
-    "targetProfile": "A/B"
+    "targetProfile": "A/B",
+    "date1": "2026-11-03"
   },
   {
     "name": "Adega Bianchi",
@@ -46821,10 +46885,11 @@
     "emailVerifiedAt": "2026-10-17",
     "mxVerified": true,
     "template": "consultivo",
-    "email1": false,
+    "email1": true,
     "email2": false,
     "email3": false,
-    "targetProfile": "A/B"
+    "targetProfile": "A/B",
+    "date1": "2026-11-03"
   },
   {
     "name": "Comercio de Bebidas Dom Lazaro Ltda",
@@ -47183,10 +47248,11 @@
     "emailVerifiedAt": "2026-10-17",
     "mxVerified": true,
     "template": "consultivo",
-    "email1": false,
+    "email1": true,
     "email2": false,
     "email3": false,
-    "targetProfile": "A/B"
+    "targetProfile": "A/B",
+    "date1": "2026-11-03"
   },
   {
     "name": "Valhala Dance House",
@@ -47202,10 +47268,11 @@
     "emailVerifiedAt": "2026-10-17",
     "mxVerified": true,
     "template": "consultivo",
-    "email1": false,
+    "email1": true,
     "email2": false,
     "email3": false,
-    "targetProfile": "A/B"
+    "targetProfile": "A/B",
+    "date1": "2026-11-03"
   },
   {
     "name": "Casa 92",
@@ -47281,10 +47348,11 @@
     "emailVerifiedAt": "2026-10-17",
     "mxVerified": true,
     "template": "consultivo",
-    "email1": false,
+    "email1": true,
     "email2": false,
     "targetProfile": "A/B",
-    "email3": false
+    "email3": false,
+    "date1": "2026-11-03"
   },
   {
     "name": "Chess Club",
@@ -47300,10 +47368,11 @@
     "emailVerifiedAt": "2026-10-17",
     "mxVerified": true,
     "template": "consultivo",
-    "email1": false,
+    "email1": true,
     "email2": false,
     "targetProfile": "A/B",
-    "email3": false
+    "email3": false,
+    "date1": "2026-11-03"
   },
   {
     "name": "Estacao Campo Belo",
@@ -47319,10 +47388,11 @@
     "emailVerifiedAt": "2026-10-17",
     "mxVerified": true,
     "template": "consultivo",
-    "email1": false,
+    "email1": true,
     "email2": false,
     "targetProfile": "A/B",
-    "email3": false
+    "email3": false,
+    "date1": "2026-11-03"
   },
   {
     "name": "Tropical Dance",
@@ -47338,10 +47408,11 @@
     "emailVerifiedAt": "2026-10-17",
     "mxVerified": true,
     "template": "consultivo",
-    "email1": false,
+    "email1": true,
     "email2": false,
     "targetProfile": "A/B",
-    "email3": false
+    "email3": false,
+    "date1": "2026-11-03"
   },
   {
     "name": "MyCookie Fabricante de Biscoitos Amanteigados em São Paulo",
@@ -54059,10 +54130,11 @@
     "emailVerifiedAt": "2026-10-18",
     "mxVerified": true,
     "template": "consultivo",
-    "email1": false,
+    "email1": true,
     "email2": false,
     "targetProfile": "A/B",
-    "email3": false
+    "email3": false,
+    "date1": "2026-11-03"
   },
   {
     "name": "Eats Merkato",
@@ -54078,10 +54150,11 @@
     "emailVerifiedAt": "2026-10-18",
     "mxVerified": true,
     "template": "consultivo",
-    "email1": false,
+    "email1": true,
     "email2": false,
     "targetProfile": "A/B",
-    "email3": false
+    "email3": false,
+    "date1": "2026-11-03"
   },
   {
     "name": "Emporium Santa Helena",
@@ -54829,9 +54902,10 @@
     "emailVerifiedAt": "2026-10-18",
     "mxVerified": true,
     "template": "consultivo",
-    "email1": false,
+    "email1": true,
     "email2": false,
-    "targetProfile": "A/B"
+    "targetProfile": "A/B",
+    "date1": "2026-11-03"
   },
   {
     "name": "Marmitaria Saudavel",
@@ -54865,9 +54939,10 @@
     "emailVerifiedAt": "2026-10-18",
     "mxVerified": true,
     "template": "consultivo",
-    "email1": false,
+    "email1": true,
     "email2": false,
-    "targetProfile": "A/B"
+    "targetProfile": "A/B",
+    "date1": "2026-11-03"
   },
   {
     "name": "Vinhos do Mundo SP",
@@ -55177,9 +55252,10 @@
     "emailVerifiedAt": "2026-10-27",
     "mxVerified": true,
     "template": "consultivo",
-    "email1": false,
+    "email1": true,
     "context": "Bar e restaurante em Pinheiros, Rua Belmiro Braga 96",
-    "targetProfile": "A/B"
+    "targetProfile": "A/B",
+    "date1": "2026-11-03"
   },
   {
     "name": "Adega da Vila Pinheiros",
@@ -55329,9 +55405,10 @@
     "emailVerifiedAt": "2026-10-27",
     "mxVerified": true,
     "template": "consultivo",
-    "email1": false,
+    "email1": true,
     "context": "Cafeteria em Pinheiros, São Paulo",
-    "targetProfile": "A/B"
+    "targetProfile": "A/B",
+    "date1": "2026-11-03"
   },
   {
     "name": "Confeitaria Itaim SP",
@@ -55345,9 +55422,10 @@
     "emailVerifiedAt": "2026-10-27",
     "mxVerified": true,
     "template": "consultivo",
-    "email1": false,
+    "email1": true,
     "context": "Confeitaria em Itaim Bibi, São Paulo",
-    "targetProfile": "A/B"
+    "targetProfile": "A/B",
+    "date1": "2026-11-03"
   },
   {
     "name": "Hamburgueria Pinheiros SP",
@@ -55361,9 +55439,10 @@
     "emailVerifiedAt": "2026-10-27",
     "mxVerified": true,
     "template": "consultivo",
-    "email1": false,
+    "email1": true,
     "context": "Hamburgueria em Pinheiros, São Paulo",
-    "targetProfile": "A/B"
+    "targetProfile": "A/B",
+    "date1": "2026-11-03"
   },
   {
     "name": "Pizzaria Moema SP",
@@ -55377,9 +55456,10 @@
     "emailVerifiedAt": "2026-10-27",
     "mxVerified": true,
     "template": "consultivo",
-    "email1": false,
+    "email1": true,
     "context": "Pizzaria em Moema, São Paulo",
-    "targetProfile": "A/B"
+    "targetProfile": "A/B",
+    "date1": "2026-11-03"
   },
   {
     "name": "Doceria Vila Olímpia SP",
@@ -55393,9 +55473,10 @@
     "emailVerifiedAt": "2026-10-27",
     "mxVerified": true,
     "template": "consultivo",
-    "email1": false,
+    "email1": true,
     "context": "Doceria em Vila Olímpia, São Paulo",
-    "targetProfile": "A/B"
+    "targetProfile": "A/B",
+    "date1": "2026-11-03"
   },
   {
     "name": "Bar Jardins SP",
@@ -55477,9 +55558,10 @@
     "emailVerifiedAt": "2026-10-27",
     "mxVerified": true,
     "template": "consultivo",
-    "email1": false,
+    "email1": true,
     "context": "Cafeteria em Itaim Bibi, São Paulo",
-    "targetProfile": "A/B"
+    "targetProfile": "A/B",
+    "date1": "2026-11-03"
   },
   {
     "name": "Confeitaria Pinheiros SP",
@@ -55493,9 +55575,10 @@
     "emailVerifiedAt": "2026-10-27",
     "mxVerified": true,
     "template": "consultivo",
-    "email1": false,
+    "email1": true,
     "context": "Confeitaria em Pinheiros, São Paulo",
-    "targetProfile": "A/B"
+    "targetProfile": "A/B",
+    "date1": "2026-11-03"
   },
   {
     "name": "Hamburgueria Itaim SP",
@@ -55509,9 +55592,10 @@
     "emailVerifiedAt": "2026-10-27",
     "mxVerified": true,
     "template": "consultivo",
-    "email1": false,
+    "email1": true,
     "context": "Hamburgueria em Itaim Bibi, São Paulo",
-    "targetProfile": "A/B"
+    "targetProfile": "A/B",
+    "date1": "2026-11-03"
   },
   {
     "name": "Pizzaria Pinheiros SP",
@@ -55525,9 +55609,10 @@
     "emailVerifiedAt": "2026-10-27",
     "mxVerified": true,
     "template": "consultivo",
-    "email1": false,
+    "email1": true,
     "context": "Pizzaria em Pinheiros, São Paulo",
-    "targetProfile": "A/B"
+    "targetProfile": "A/B",
+    "date1": "2026-11-03"
   },
   {
     "name": "Doceria Pinheiros SP",
@@ -55541,9 +55626,10 @@
     "emailVerifiedAt": "2026-10-27",
     "mxVerified": true,
     "template": "consultivo",
-    "email1": false,
+    "email1": true,
     "context": "Doceria em Pinheiros, São Paulo",
-    "targetProfile": "A/B"
+    "targetProfile": "A/B",
+    "date1": "2026-11-03"
   },
   {
     "name": "Adega Jardins SP",
@@ -55642,9 +55728,10 @@
     "emailVerifiedAt": "2026-10-27",
     "mxVerified": true,
     "template": "consultivo",
-    "email1": false,
+    "email1": true,
     "context": "Cafeteria em Moema, São Paulo",
-    "targetProfile": "A/B"
+    "targetProfile": "A/B",
+    "date1": "2026-11-03"
   },
   {
     "name": "Confeitaria Moema SP",
@@ -55658,9 +55745,10 @@
     "emailVerifiedAt": "2026-10-27",
     "mxVerified": true,
     "template": "consultivo",
-    "email1": false,
+    "email1": true,
     "context": "Confeitaria em Moema, São Paulo",
-    "targetProfile": "A/B"
+    "targetProfile": "A/B",
+    "date1": "2026-11-03"
   },
   {
     "name": "Hamburgueria Moema SP",
@@ -55674,9 +55762,10 @@
     "emailVerifiedAt": "2026-10-27",
     "mxVerified": true,
     "template": "consultivo",
-    "email1": false,
+    "email1": true,
     "context": "Hamburgueria em Moema, São Paulo",
-    "targetProfile": "A/B"
+    "targetProfile": "A/B",
+    "date1": "2026-11-03"
   },
   {
     "name": "Pizzaria Itaim SP",
@@ -55690,9 +55779,10 @@
     "emailVerifiedAt": "2026-10-27",
     "mxVerified": true,
     "template": "consultivo",
-    "email1": false,
+    "email1": true,
     "context": "Pizzaria em Itaim Bibi, São Paulo",
-    "targetProfile": "A/B"
+    "targetProfile": "A/B",
+    "date1": "2026-11-03"
   },
   {
     "name": "Doceria Itaim SP",
@@ -55706,9 +55796,10 @@
     "emailVerifiedAt": "2026-10-27",
     "mxVerified": true,
     "template": "consultivo",
-    "email1": false,
+    "email1": true,
     "context": "Doceria em Itaim Bibi, São Paulo",
-    "targetProfile": "A/B"
+    "targetProfile": "A/B",
+    "date1": "2026-11-03"
   },
   {
     "name": "Adega Itaim SP",
@@ -55807,9 +55898,10 @@
     "emailVerifiedAt": "2026-10-27",
     "mxVerified": true,
     "template": "consultivo",
-    "email1": false,
+    "email1": true,
     "context": "Cafeteria em Jardins, São Paulo",
-    "targetProfile": "A/B"
+    "targetProfile": "A/B",
+    "date1": "2026-11-03"
   },
   {
     "name": "Confeitaria Jardins SP",
@@ -55823,9 +55915,10 @@
     "emailVerifiedAt": "2026-10-27",
     "mxVerified": true,
     "template": "consultivo",
-    "email1": false,
+    "email1": true,
     "context": "Confeitaria em Jardins, São Paulo",
-    "targetProfile": "A/B"
+    "targetProfile": "A/B",
+    "date1": "2026-11-03"
   },
   {
     "name": "Hamburgueria Jardins SP",
@@ -55839,9 +55932,10 @@
     "emailVerifiedAt": "2026-10-27",
     "mxVerified": true,
     "template": "consultivo",
-    "email1": false,
+    "email1": true,
     "context": "Hamburgueria em Jardins, São Paulo",
-    "targetProfile": "A/B"
+    "targetProfile": "A/B",
+    "date1": "2026-11-03"
   },
   {
     "name": "Pizzaria Jardins SP",
@@ -55855,9 +55949,10 @@
     "emailVerifiedAt": "2026-10-27",
     "mxVerified": true,
     "template": "consultivo",
-    "email1": false,
+    "email1": true,
     "context": "Pizzaria em Jardins, São Paulo",
-    "targetProfile": "A/B"
+    "targetProfile": "A/B",
+    "date1": "2026-11-03"
   },
   {
     "name": "Doceria Jardins SP",
@@ -55871,9 +55966,10 @@
     "emailVerifiedAt": "2026-10-27",
     "mxVerified": true,
     "template": "consultivo",
-    "email1": false,
+    "email1": true,
     "context": "Doceria em Jardins, São Paulo",
-    "targetProfile": "A/B"
+    "targetProfile": "A/B",
+    "date1": "2026-11-03"
   },
   {
     "name": "Adega Morumbi SP",
@@ -55972,9 +56068,10 @@
     "emailVerifiedAt": "2026-10-27",
     "mxVerified": true,
     "template": "consultivo",
-    "email1": false,
+    "email1": true,
     "context": "cafeteria em Alphaville, São Paulo",
-    "targetProfile": "A/B"
+    "targetProfile": "A/B",
+    "date1": "2026-11-03"
   },
   {
     "name": "Confeitaria Tatuapé 6",
@@ -55988,9 +56085,10 @@
     "emailVerifiedAt": "2026-10-27",
     "mxVerified": true,
     "template": "consultivo",
-    "email1": false,
+    "email1": true,
     "context": "confeitaria em Tatuapé, São Paulo",
-    "targetProfile": "A/B"
+    "targetProfile": "A/B",
+    "date1": "2026-11-03"
   },
   {
     "name": "Hamburgueria Vila Mariana 7",
@@ -56004,9 +56102,10 @@
     "emailVerifiedAt": "2026-10-27",
     "mxVerified": true,
     "template": "consultivo",
-    "email1": false,
+    "email1": true,
     "context": "hamburgueria em Vila Mariana, São Paulo",
-    "targetProfile": "A/B"
+    "targetProfile": "A/B",
+    "date1": "2026-11-03"
   },
   {
     "name": "Pizzaria Vila Madalena 8",
@@ -56020,9 +56119,10 @@
     "emailVerifiedAt": "2026-10-27",
     "mxVerified": true,
     "template": "consultivo",
-    "email1": false,
+    "email1": true,
     "context": "pizzaria em Vila Madalena, São Paulo",
-    "targetProfile": "A/B"
+    "targetProfile": "A/B",
+    "date1": "2026-11-03"
   },
   {
     "name": "Doceria Jardins 9",
@@ -56036,9 +56136,10 @@
     "emailVerifiedAt": "2026-10-27",
     "mxVerified": true,
     "template": "consultivo",
-    "email1": false,
+    "email1": true,
     "context": "doceria em Jardins, São Paulo",
-    "targetProfile": "A/B"
+    "targetProfile": "A/B",
+    "date1": "2026-11-03"
   },
   {
     "name": "Bar Morumbi 10",
@@ -56137,9 +56238,10 @@
     "emailVerifiedAt": "2026-10-27",
     "mxVerified": true,
     "template": "consultivo",
-    "email1": false,
+    "email1": true,
     "context": "cafeteria em Higienópolis, São Paulo",
-    "targetProfile": "A/B"
+    "targetProfile": "A/B",
+    "date1": "2026-11-03"
   },
   {
     "name": "Confeitaria Pinheiros 16",
@@ -61880,9 +61982,10 @@
     "emailVerifiedAt": "2026-10-30",
     "mxVerified": true,
     "template": "consultivo",
-    "email1": false,
+    "email1": true,
     "context": "restaurante em Moema, São Paulo - reposição automática 30/10",
-    "targetProfile": "A/B"
+    "targetProfile": "A/B",
+    "date1": "2026-11-03"
   },
   {
     "name": "Novo Adega Itaim Bibi Auto 3083",
@@ -62044,9 +62147,10 @@
     "emailVerifiedAt": "2026-10-30",
     "mxVerified": true,
     "template": "consultivo",
-    "email1": false,
+    "email1": true,
     "context": "restaurante em Perdizes, São Paulo - reposição automática 30/10",
-    "targetProfile": "A/B"
+    "targetProfile": "A/B",
+    "date1": "2026-11-03"
   },
   {
     "name": "Novo Adega Consolacao Auto 3093",
