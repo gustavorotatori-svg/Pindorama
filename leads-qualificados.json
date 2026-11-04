@@ -354,7 +354,9 @@
     "email2": false,
     "email3": false,
     "targetProfile": "A/B",
-    "date1": "2026-11-03"
+    "date1": "2026-11-03",
+    "mxVerified": true,
+    "mxVerifiedAt": "2026-11-04"
   },
   {
     "name": "Koi Moema",
@@ -2396,7 +2398,9 @@
     "email1": false,
     "email2": false,
     "email3": false,
-    "targetProfile": "C/D"
+    "targetProfile": "C/D",
+    "mxVerified": true,
+    "mxVerifiedAt": "2026-11-04"
   },
   {
     "name": "Miya Wine Bar",
@@ -4743,7 +4747,9 @@
     "email1": false,
     "email2": false,
     "email3": false,
-    "targetProfile": "C/D"
+    "targetProfile": "C/D",
+    "mxVerified": true,
+    "mxVerifiedAt": "2026-11-04"
   },
   {
     "name": "BAR L├â┬ëO",
@@ -4758,7 +4764,9 @@
     "email1": false,
     "email2": false,
     "email3": false,
-    "targetProfile": "C/D"
+    "targetProfile": "C/D",
+    "mxVerified": true,
+    "mxVerifiedAt": "2026-11-04"
   },
   {
     "name": "JACAR├â┬ë GRILL",
@@ -4788,7 +4796,9 @@
     "email1": false,
     "email2": false,
     "email3": false,
-    "targetProfile": "C/D"
+    "targetProfile": "C/D",
+    "mxVerified": true,
+    "mxVerifiedAt": "2026-11-04"
   },
   {
     "name": "FEIRINHA BAR",
@@ -4890,14 +4900,16 @@
     "type": "bar",
     "neighborhood": "",
     "address": "",
-    "context": "BAR DO COFRE; respons├ível: DENISE DO MKT; instagram: https://www.instagram.com/subastor/",
+    "context": "SubAstor, Vila Madalena — filial do grupo Astor, referência histórica de altíssima coquetelaria em São Paulo. Trabalhamos com cachaça de fazenda própria no Vale do Café (RJ), mesma que atende Fasano, Hilton e Rosewood.",
     "phone": "2620-0700 CENTRAL",
     "template": "consultivo",
     "website": "",
     "email1": false,
     "email2": false,
     "email3": false,
-    "targetProfile": "C/D"
+    "targetProfile": "A/B",
+    "mxVerified": true,
+    "mxVerifiedAt": "2026-11-04"
   },
   {
     "name": "PIRAJ├â┬ü",
@@ -4912,7 +4924,9 @@
     "email1": false,
     "email2": false,
     "email3": false,
-    "targetProfile": "C/D"
+    "targetProfile": "C/D",
+    "mxVerified": true,
+    "mxVerifiedAt": "2026-11-04"
   },
   {
     "name": "BR├â┬üZ",
@@ -4927,7 +4941,9 @@
     "email1": false,
     "email2": false,
     "email3": false,
-    "targetProfile": "C/D"
+    "targetProfile": "C/D",
+    "mxVerified": true,
+    "mxVerifiedAt": "2026-11-04"
   },
   {
     "name": "BRAZ ELETRICA",
@@ -4942,7 +4958,9 @@
     "email1": false,
     "email2": false,
     "email3": false,
-    "targetProfile": "C/D"
+    "targetProfile": "C/D",
+    "mxVerified": true,
+    "mxVerifiedAt": "2026-11-04"
   },
   {
     "name": "ICI BRASSERIE",
@@ -4957,7 +4975,9 @@
     "email1": false,
     "email2": false,
     "email3": false,
-    "targetProfile": "C/D"
+    "targetProfile": "C/D",
+    "mxVerified": true,
+    "mxVerifiedAt": "2026-11-04"
   },
   {
     "name": "MEAT BAR",
@@ -7227,14 +7247,16 @@
     "type": "bar",
     "neighborhood": "",
     "address": "",
-    "context": "bar; respons├ível: CLAUDIA E PEDRO; instagram: https://www.instagram.com/bardosarcos/",
+    "context": "Bar dos Arcos, grupo Fabrica de Bares — casa de coquetelaria e hospitalidade de alto padrão em São Paulo, conhecida pela carta autoral e pelo cuidado com cada detalhe. Trabalhamos com cachaça de fazenda própria no Vale do Café (RJ), mesma que atende Fasano, Hilton e Rosewood.",
     "phone": "984568732",
     "template": "prova_social",
     "website": "",
     "email1": false,
     "email2": false,
-    "targetProfile": "C/D",
-    "email3": false
+    "targetProfile": "A/B",
+    "email3": false,
+    "mxVerified": true,
+    "mxVerifiedAt": "2026-11-04"
   },
   {
     "name": "ST. JOHN`S",
@@ -7317,14 +7339,16 @@
     "type": "bar",
     "neighborhood": "",
     "address": "",
-    "context": "BAR; respons├ível: RODRIGO / M├â┬üRCIO; instagram: https://www.instagram.com/guilhotinabar/",
+    "context": "Guilhotina, Pinheiros/São Paulo — bar de coquetelaria de altíssimo padrão, premiado e referência de hospitalidade no Brasil. Trabalhamos com cachaça de fazenda própria, a mesma que atende Fasano, Hilton e Rosewood — três referências: Clássica, Ouro e Cobra Coral.",
     "phone": "11 3031 0955",
     "template": "consultivo",
     "website": "",
     "email1": false,
     "email2": false,
-    "targetProfile": "C/D",
-    "email3": false
+    "targetProfile": "A/B",
+    "email3": false,
+    "mxVerified": true,
+    "mxVerifiedAt": "2026-11-04"
   },
   {
     "name": "O Pasquim Bar e Prosa",
@@ -18096,15 +18120,17 @@
   {
     "name": "Kotori",
     "email": "contato@tantan.com.br",
-    "type": "restaurante",
+    "type": "bar",
     "neighborhood": "",
     "address": "",
-    "context": "RESTAURANTE; respons├ível: TIAGO; instagram: https://www.instagram.com/kotori.sp/",
+    "context": "Kotori, grupo Tan Tan — bar/restaurante com coquetelaria de altíssimo nível, gastronomia Nikkei e hospitalidade premium no Itaim Bibi. Trabalhamos com cachaça de fazenda própria no Vale do Café (RJ), mesma que atende Fasano, Hilton e Rosewood.",
     "phone": "(11) 2373-3587 / 11 997976781 THIAGO / Lucas Terribili 11-98202-5179",
     "template": "pergunta",
     "website": "",
     "email1": false,
-    "targetProfile": "C/D"
+    "targetProfile": "A/B",
+    "mxVerified": true,
+    "mxVerifiedAt": "2026-11-04"
   },
   {
     "name": "Trato Burger",
@@ -19034,15 +19060,17 @@
   {
     "name": "PICCO",
     "email": "contato@opicco.com.br",
-    "type": "restaurante",
+    "type": "bar",
     "neighborhood": "",
     "address": "",
-    "context": "PIZZARIA; respons├ível: LUIS SICILIANO; instagram: https://www.instagram.com/o.picco/",
+    "context": "Picco, grupo Pio — restaurante italiano de altíssima gastronomia no Jardim Paulista, referência em vinhos e hospitalidade. Trabalhamos com cachaça de fazenda própria no Vale do Café (RJ), mesma que atende Fasano, Hilton e Rosewood.",
     "phone": "3081-0066 / 99307-7651",
     "template": "consultivo",
     "website": "",
     "email1": false,
-    "targetProfile": "C/D"
+    "targetProfile": "A/B",
+    "mxVerified": true,
+    "mxVerifiedAt": "2026-11-04"
   },
   {
     "name": "JUNJI SAKAMOTO",
@@ -21215,7 +21243,9 @@
     "template": "pergunta",
     "website": "",
     "email1": false,
-    "targetProfile": "C/D"
+    "targetProfile": "C/D",
+    "mxVerified": true,
+    "mxVerifiedAt": "2026-11-04"
   },
   {
     "name": "MOCOT├â┬ô",
@@ -29100,15 +29130,17 @@
   {
     "name": "THE LIQUOR STORE",
     "email": "bianca@sibaris.com.br",
-    "type": "restaurante",
+    "type": "bar",
     "neighborhood": "",
     "address": "",
-    "context": "DRINQUES; respons├ível: BIANCA; instagram: https://www.instagram.com/theliquorstore.sp/",
+    "context": "The Liquor Store, grupo Sibaris — loja de destilados e garrafas raras, com bar e coquetelaria de altíssimo nível para clientes exigentes em São Paulo. Trabalhamos com cachaça de fazenda própria no Vale do Café (RJ), mesma que atende Fasano, Hilton e Rosewood.",
     "phone": "N TEM",
     "template": "consultivo",
     "website": "",
     "email1": false,
-    "targetProfile": "C/D"
+    "targetProfile": "A/B",
+    "mxVerified": true,
+    "mxVerifiedAt": "2026-11-04"
   },
   {
     "name": "Dom Galetos Grill",
