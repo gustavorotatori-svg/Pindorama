@@ -3584,5 +3584,27 @@
     "verifiedAt": "2026-10-16",
     "notBefore": "2026-10-16",
     "status": "queued"
+  },
+  {
+    "name": "Jiquitaia Restaurante e Bar",
+    "phone": "(11) 3051-5638",
+    "type": "restaurante",
+    "city": "São Paulo",
+    "source": "https://jiquitaia.com.br/",
+    "evidence": "Site oficial publica Contato com endereco R. Cel. Oscar Porto, 808 Paraiso, o telefone (11) 3051-5638 com a marcacao '(Whatsapp)' e o email contato@jiquitaia.com.br.",
+    "verifiedAt": "2026-11-04",
+    "notBefore": "2026-11-04",
+    "status": "queued"
+  },
+  {
+    "name": "Elo Drinks",
+    "phone": "(11) 9 9466-3100",
+    "type": "bar",
+    "city": "São Paulo",
+    "source": "https://elodrinks.com.br/",
+    "evidence": "Site oficial publica na secao ENTRE EM CONTATO o rotulo 'WhatsApp (11) 9 9466-3100' e o email atendimento@elodrinks.com.br.",
+    "verifiedAt": "2026-11-04",
+    "notBefore": "2026-11-04",
+    "status": "queued"
   }
 ]
