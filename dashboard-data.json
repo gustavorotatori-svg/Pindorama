@@ -1,5 +1,5 @@
 {
-  "lastUpdate": "2026-11-03T23:10:22.923Z",
+  "lastUpdate": "2026-11-04T05:56:55.626Z",
   "totalLeads": 4000,
   "allLeads": [
     {
@@ -34216,10 +34216,6 @@
   "pending": 1245,
   "daily": [
     {
-      "date": "2026-10-21",
-      "count": 13
-    },
-    {
       "date": "2026-10-22",
       "count": 0
     },
@@ -34270,6 +34266,10 @@
     {
       "date": "2026-11-03",
       "count": 101
+    },
+    {
+      "date": "2026-11-04",
+      "count": 0
     }
   ],
   "topNeighborhoods": [
