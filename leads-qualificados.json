@@ -12900,7 +12900,10 @@
     "website": "",
     "email1": false,
     "email2": false,
-    "targetProfile": "A/B"
+    "targetProfile": "C/D",
+    "invalidEmail": true,
+    "invalidEmailReason": "email_pessoal_sem_confirmacao_canal_corporativo",
+    "invalidEmailDate": "2026-11-04"
   },
   {
     "name": "QUITO QUITO IZAKAYA",
@@ -33285,7 +33288,10 @@
     "email1": false,
     "email2": false,
     "email3": false,
-    "targetProfile": "A/B"
+    "targetProfile": "C/D",
+    "invalidEmail": true,
+    "invalidEmailReason": "email_pessoal_sem_confirmacao_canal_corporativo",
+    "invalidEmailDate": "2026-11-04"
   },
   {
     "name": "The View Bar",
@@ -33451,7 +33457,10 @@
     "email1": false,
     "email2": false,
     "email3": false,
-    "targetProfile": "A/B"
+    "targetProfile": "C/D",
+    "invalidEmail": true,
+    "invalidEmailReason": "email_pessoal_sem_confirmacao_canal_corporativo",
+    "invalidEmailDate": "2026-11-04"
   },
   {
     "name": "Chapa Drinks",
@@ -33503,7 +33512,10 @@
     "email1": false,
     "email2": false,
     "email3": false,
-    "targetProfile": "A/B"
+    "targetProfile": "C/D",
+    "invalidEmail": true,
+    "invalidEmailReason": "email_pessoal_sem_confirmacao_canal_corporativo",
+    "invalidEmailDate": "2026-11-04"
   },
   {
     "name": "Primal Bartenders",
@@ -40939,7 +40951,10 @@
     "emailVerified": true,
     "emailSource": "https://juridicoonline.com.br/empresa/33549255000167-coquetel-bar-ltda",
     "emailVerifiedAt": "2026-10-13",
-    "targetProfile": "A/B"
+    "targetProfile": "C/D",
+    "invalidEmail": true,
+    "invalidEmailReason": "email_pessoal_sem_confirmacao_canal_corporativo",
+    "invalidEmailDate": "2026-11-04"
   },
   {
     "name": "Bar e Adega Vermelho Ltda",
@@ -55221,7 +55236,10 @@
     "template": "consultivo",
     "email1": false,
     "context": "Bar e restaurante em Pinheiros, Av Rebouças 3400",
-    "targetProfile": "A/B"
+    "targetProfile": "C/D",
+    "invalidEmail": true,
+    "invalidEmailReason": "sem_email_profissional",
+    "invalidEmailDate": "2026-11-04"
   },
   {
     "name": "Pintxos Bar",
