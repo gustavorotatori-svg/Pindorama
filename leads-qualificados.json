@@ -4372,16 +4372,16 @@
     "name": "Vero! Coquetelaria e Cozinha",
     "email": "marketing@3tbrasil.com.br",
     "type": "bar",
-    "neighborhood": "",
+    "neighborhood": "São Paulo",
     "address": "",
-    "context": "BAR; respons├ível: Tathiana; instagram: https://www.instagram.com/verocoquetelaria/",
+    "context": "BAR; respons├ível: Tathiana; instagram: https://www.instagram.com/verocoquetelaria/ · São Paulo",
     "phone": "11 974823451/ 11 99745-3332 Tathiana",
     "template": "pergunta",
     "website": "",
     "email1": false,
     "email2": false,
     "email3": false,
-    "targetProfile": "C/D"
+    "targetProfile": "A/B"
   },
   {
     "name": "BAR DO JUAREZ",
@@ -12892,15 +12892,15 @@
     "name": "Banqueta Coquetelaria",
     "email": "banqueta.bar@gmail.com",
     "type": "restaurante",
-    "neighborhood": "",
+    "neighborhood": "São Paulo",
     "address": "",
-    "context": "DRINQUES; respons├ível: pedro; instagram: https://www.instagram.com/banqueta.bar/",
+    "context": "DRINQUES; respons├ível: pedro; instagram: https://www.instagram.com/banqueta.bar/ · São Paulo",
     "phone": "5542-7027",
     "template": "prova_social",
     "website": "",
     "email1": false,
     "email2": false,
-    "targetProfile": "C/D"
+    "targetProfile": "A/B"
   },
   {
     "name": "QUITO QUITO IZAKAYA",
@@ -32154,9 +32154,9 @@
     "name": "Vista Restaurante Ibirapuera",
     "email": "contato@vistasaopaulo.com.br",
     "type": "restaurante",
-    "neighborhood": "",
+    "neighborhood": "São Paulo",
     "address": "",
-    "context": "Site oficial rastreado em 01/09/2026 confirma restaurante ativo no MAC Ibirapuera, bar e lounge para eventos e carta atual com caipirinhas e diversos rotulos de cachaca. Inferencia: alta aderencia para teste de Pindorama em coquetelaria e doses.",
+    "context": "Site oficial rastreado em 01/09/2026 confirma restaurante ativo no MAC Ibirapuera, bar e lounge para eventos e carta atual com caipirinhas e diversos rotulos de cachaca. Inferencia: alta aderencia para teste de Pindorama em coquetelaria e doses. · São Paulo",
     "phone": "11 26583188 / 1199978-5072 wallace",
     "template": "prova_social",
     "website": "https://vistarestaurante.vistasaopaulo.com.br/",
@@ -32168,7 +32168,7 @@
     "email1": false,
     "email2": false,
     "email3": false,
-    "targetProfile": "C/D"
+    "targetProfile": "A/B"
   },
   {
     "name": "MACAXEIRA RESTAURANTE & CACHA├â┬çARIA",
@@ -32192,9 +32192,9 @@
     "name": "Jiquitaia Restaurante e Bar",
     "email": "contato@jiquitaia.com.br",
     "type": "restaurante",
-    "neighborhood": "",
+    "neighborhood": "São Paulo",
     "address": "",
-    "context": "Site oficial rastreado em 01/09/2026 confirma restaurante e bar de cozinha brasileira ativo no Paraiso, com horario, endereco, WhatsApp e email empresarial publicados. Inferencia: aderencia para introduzir Pindorama na coquetelaria e acompanhar recompra.",
+    "context": "Site oficial rastreado em 01/09/2026 confirma restaurante e bar de cozinha brasileira ativo no Paraiso, com horario, endereco, WhatsApp e email empresarial publicados. Inferencia: aderencia para introduzir Pindorama na coquetelaria e acompanhar recompra. · São Paulo",
     "phone": "(11) 3051-5638 WHATS TBM",
     "template": "pergunta",
     "website": "https://jiquitaia.com.br/",
@@ -32206,7 +32206,7 @@
     "email1": false,
     "email2": false,
     "email3": false,
-    "targetProfile": "C/D"
+    "targetProfile": "A/B"
   },
   {
     "name": "Luce",
@@ -32230,9 +32230,9 @@
     "name": "Quincho Cozinha & Coquetelaria",
     "email": "jorge@quincho.com.br",
     "type": "restaurante",
-    "neighborhood": "",
+    "neighborhood": "São Paulo",
     "address": "",
-    "context": "Site oficial rastreado em 01/09/2026 confirma restaurante de cozinha e coquetelaria autorais ativo desde 2018, com eventos corporativos, casamentos e experiencias especiais. Inferencia: aderencia para amostra e teste de Pindorama em drinks e eventos.",
+    "context": "Site oficial rastreado em 01/09/2026 confirma restaurante de cozinha e coquetelaria autorais ativo desde 2018, com eventos corporativos, casamentos e experiencias especiais. Inferencia: aderencia para amostra e teste de Pindorama em drinks e eventos. · São Paulo",
     "phone": "11 2597-6048",
     "template": "consultivo",
     "website": "https://quincho.com.br/",
@@ -32244,7 +32244,7 @@
     "email1": false,
     "email2": false,
     "email3": false,
-    "targetProfile": "C/D"
+    "targetProfile": "A/B"
   },
   {
     "name": "FREDDY",
@@ -32760,18 +32760,18 @@
     "email": "comercial@fancybar.com.br",
     "type": "bar",
     "city": "S├úo Paulo",
-    "context": "coquetelaria fina e serviço de bar para eventos",
+    "context": "coquetelaria fina e serviço de bar para eventos · São Paulo",
     "website": "https://fancybar.com.br/",
     "emailVerified": true,
     "emailSource": "https://fancybar.com.br/",
     "emailVerifiedAt": "2026-10-13",
     "mxVerified": true,
-    "neighborhood": "",
+    "neighborhood": "São Paulo",
     "template": "pergunta",
     "email1": false,
     "email2": false,
     "email3": false,
-    "targetProfile": "C/D"
+    "targetProfile": "A/B"
   },
   {
     "name": "Sarau Bar",
@@ -32819,18 +32819,18 @@
     "email": "contato@pepperdrinks.com.br",
     "type": "bar",
     "city": "S├úo Paulo",
-    "context": "serviço de bar e coquetelaria para eventos sociais e corporativos",
+    "context": "serviço de bar e coquetelaria para eventos sociais e corporativos · São Paulo",
     "website": "https://www.pepperdrinks.com.br/",
     "emailVerified": true,
     "emailSource": "https://www.pepperdrinks.com.br/",
     "emailVerifiedAt": "2026-10-13",
     "mxVerified": true,
-    "neighborhood": "",
+    "neighborhood": "São Paulo",
     "template": "consultivo",
     "email1": false,
     "email2": false,
     "email3": false,
-    "targetProfile": "C/D"
+    "targetProfile": "A/B"
   },
   {
     "name": "Gaspar Bar e Praça",
@@ -32838,7 +32838,7 @@
     "type": "bar",
     "city": "S├úo Paulo",
     "neighborhood": "Centro",
-    "context": "bar de coquetelaria autoral com programação musical",
+    "context": "bar de coquetelaria autoral com programação musical · São Paulo",
     "website": "https://www.gaspar.sampa.br/",
     "emailVerified": true,
     "emailSource": "https://www.gaspar.sampa.br/",
@@ -32848,7 +32848,7 @@
     "email1": false,
     "email2": false,
     "email3": false,
-    "targetProfile": "C/D"
+    "targetProfile": "A/B"
   },
   {
     "name": "DOPA Bar",
@@ -33093,12 +33093,12 @@
     "emailSource": "https://www.wixbar.com.br/",
     "emailVerifiedAt": "2026-10-13",
     "mxVerified": true,
-    "neighborhood": "",
+    "neighborhood": "São Paulo",
     "template": "prova_social",
     "email1": false,
     "email2": false,
     "email3": false,
-    "targetProfile": "C/D"
+    "targetProfile": "A/B"
   },
   {
     "name": "703 Coquetelaria",
@@ -33111,12 +33111,12 @@
     "emailSource": "https://www.703coquetelaria.com.br/",
     "emailVerifiedAt": "2026-10-13",
     "mxVerified": true,
-    "neighborhood": "",
+    "neighborhood": "São Paulo",
     "template": "consultivo",
     "email1": false,
     "email2": false,
     "email3": false,
-    "targetProfile": "C/D"
+    "targetProfile": "A/B"
   },
   {
     "name": "Arte Vieira Coquetelaria",
@@ -33129,12 +33129,12 @@
     "emailSource": "https://www.artevieira.com.br/bem-vindo/",
     "emailVerifiedAt": "2026-10-13",
     "mxVerified": true,
-    "neighborhood": "",
+    "neighborhood": "São Paulo",
     "template": "pergunta",
     "email1": false,
     "email2": false,
     "email3": false,
-    "targetProfile": "C/D"
+    "targetProfile": "A/B"
   },
   {
     "name": "Bernadette - Casa da Dette",
@@ -33276,7 +33276,7 @@
     "type": "bar",
     "neighborhood": "Sao Paulo",
     "address": "Sao Paulo/SP",
-    "context": "Marca independente de coquetelaria com servico de bar completo para eventos, open bar para baladas e atendimento freelancer para bares e casas noturnas.",
+    "context": "Marca independente de coquetelaria com servico de bar completo para eventos, open bar para baladas e atendimento freelancer para bares e casas noturnas. · São Paulo",
     "website": "https://felinebartender.com/",
     "emailVerified": true,
     "emailSource": "https://felinebartender.com/",
@@ -33285,7 +33285,7 @@
     "email1": false,
     "email2": false,
     "email3": false,
-    "targetProfile": "C/D"
+    "targetProfile": "A/B"
   },
   {
     "name": "The View Bar",
@@ -33331,7 +33331,7 @@
     "type": "bar",
     "neighborhood": "Sao Paulo",
     "address": "Sao Paulo/SP",
-    "context": "Coquetelaria ativa para eventos, com drinks autorais desenvolvidos por especialistas em mixologia, bar sofisticado e atuacao nacional.",
+    "context": "Coquetelaria ativa para eventos, com drinks autorais desenvolvidos por especialistas em mixologia, bar sofisticado e atuacao nacional. · São Paulo",
     "phone": "(11) 99466-3100",
     "website": "https://elodrinks.com.br/",
     "emailVerified": true,
@@ -33341,7 +33341,7 @@
     "email1": false,
     "email2": false,
     "email3": false,
-    "targetProfile": "C/D"
+    "targetProfile": "A/B"
   },
   {
     "name": "Drink Bartenders",
@@ -33349,7 +33349,7 @@
     "type": "bar",
     "neighborhood": "Vila Sabrina",
     "address": "R. Invasao dos Holandeses, 200 - Vila Sabrina - Sao Paulo/SP",
-    "context": "Servico ativo de bar e bartenders para festas e eventos em Sao Paulo, com coquetelaria e equipe treinada.",
+    "context": "Servico ativo de bar e bartenders para festas e eventos em Sao Paulo, com coquetelaria e equipe treinada. · São Paulo",
     "phone": "(11) 97795-3069",
     "website": "https://www.drinkbartenders.com.br/",
     "emailVerified": true,
@@ -33359,7 +33359,7 @@
     "email1": false,
     "email2": false,
     "email3": false,
-    "targetProfile": "C/D"
+    "targetProfile": "A/B"
   },
   {
     "name": "Brazen Bar",
@@ -33367,7 +33367,7 @@
     "type": "bar",
     "neighborhood": "Sao Paulo",
     "address": "Sao Paulo/SP",
-    "context": "Empresa ativa especializada em bar movel e coquetelaria para eventos sociais e corporativos, com drinks gourmet classicos e estrutura propria.",
+    "context": "Empresa ativa especializada em bar movel e coquetelaria para eventos sociais e corporativos, com drinks gourmet classicos e estrutura propria. · São Paulo",
     "phone": "(11) 94469-7728",
     "website": "https://www.brazenbar.com.br/",
     "emailVerified": true,
@@ -33377,7 +33377,7 @@
     "email1": false,
     "email2": false,
     "email3": false,
-    "targetProfile": "C/D"
+    "targetProfile": "A/B"
   },
   {
     "name": "R&M Bartenders",
@@ -33441,7 +33441,7 @@
     "type": "bar",
     "neighborhood": "Sao Paulo",
     "address": "Sao Paulo/SP",
-    "context": "Empresa ativa ha mais de 10 anos, especializada em coquetelaria e open bar para eventos sociais e corporativos, com mais de mil eventos anuais.",
+    "context": "Empresa ativa ha mais de 10 anos, especializada em coquetelaria e open bar para eventos sociais e corporativos, com mais de mil eventos anuais. · São Paulo",
     "phone": "(11) 91335-0216",
     "website": "https://www.topmaisdrinkss.com/",
     "emailVerified": true,
@@ -33451,7 +33451,7 @@
     "email1": false,
     "email2": false,
     "email3": false,
-    "targetProfile": "C/D"
+    "targetProfile": "A/B"
   },
   {
     "name": "Chapa Drinks",
@@ -33476,7 +33476,7 @@
     "type": "bar",
     "neighborhood": "Sao Paulo",
     "address": "Sao Paulo/SP",
-    "context": "Operacao ativa de open bar, bar movel e coquetelaria para eventos, com drinks classicos e autorais, consultoria e workshops para marcas.",
+    "context": "Operacao ativa de open bar, bar movel e coquetelaria para eventos, com drinks classicos e autorais, consultoria e workshops para marcas. · São Paulo",
     "website": "https://casaoliver.com.br/contato-eventos",
     "emailVerified": true,
     "emailSource": "https://casaoliver.com.br/contato-eventos",
@@ -33485,7 +33485,7 @@
     "email1": false,
     "email2": false,
     "email3": false,
-    "targetProfile": "C/D"
+    "targetProfile": "A/B"
   },
   {
     "name": "VIP Drinks",
@@ -33493,7 +33493,7 @@
     "type": "bar",
     "neighborhood": "Vila Sao Ricardo",
     "address": "Rua Ricardo Biondi, 164 - Vila Sao Ricardo - Guarulhos/SP",
-    "context": "Empresa ativa de coquetelaria para eventos sociais e corporativos, especializada em open bar, bartenders, drinks e estruturas para eventos de diferentes portes.",
+    "context": "Empresa ativa de coquetelaria para eventos sociais e corporativos, especializada em open bar, bartenders, drinks e estruturas para eventos de diferentes portes. · São Paulo",
     "phone": "(11) 95388-4482",
     "website": "https://www.vipdrinks.com.br/servico-de-bartenders-em-sao-paulo",
     "emailVerified": true,
@@ -33503,7 +33503,7 @@
     "email1": false,
     "email2": false,
     "email3": false,
-    "targetProfile": "C/D"
+    "targetProfile": "A/B"
   },
   {
     "name": "Primal Bartenders",
@@ -33651,7 +33651,7 @@
     "type": "bar",
     "neighborhood": "Paraiso",
     "address": "Rua Vergueiro, 1353 - Paraiso - Sao Paulo/SP",
-    "context": "Empresa especializada em drinks e coquetelaria nacional e internacional para eventos sociais e corporativos, com atendimento comercial ativo em Sao Paulo.",
+    "context": "Empresa especializada em drinks e coquetelaria nacional e internacional para eventos sociais e corporativos, com atendimento comercial ativo em Sao Paulo. · São Paulo",
     "phone": "(11) 94536-0968",
     "website": "https://dcecoquetelaria.com.br/contato/",
     "emailVerified": true,
@@ -33661,7 +33661,7 @@
     "email1": false,
     "email2": false,
     "email3": false,
-    "targetProfile": "C/D"
+    "targetProfile": "A/B"
   },
   {
     "name": "Connect Bartenders",
@@ -33687,7 +33687,7 @@
     "type": "bar",
     "neighborhood": "Vila Nova Conceicao",
     "address": "Av. Presidente Juscelino Kubitschek, 1327 - Vila Nova Conceicao - Sao Paulo/SP",
-    "context": "Bar e restaurante ativo com coquetelaria autoral, operacao de eventos e canal comercial especifico para eventos publicado no site oficial.",
+    "context": "Bar e restaurante ativo com coquetelaria autoral, operacao de eventos e canal comercial especifico para eventos publicado no site oficial. · São Paulo",
     "phone": "(11) 3044-3592",
     "website": "https://skyhall.com.br/terrace-bar/",
     "emailVerified": true,
@@ -33697,7 +33697,7 @@
     "email1": false,
     "email2": false,
     "email3": false,
-    "targetProfile": "C/D"
+    "targetProfile": "A/B"
   },
   {
     "name": "Double Bar Eventos",
@@ -33705,7 +33705,7 @@
     "type": "bar",
     "neighborhood": "Sao Paulo",
     "address": "Sao Paulo/SP",
-    "context": "Empresa ativa de coquetelaria classica e contemporanea para eventos sociais e corporativos, indicada como fornecedora especializada em guia recente de 2026.",
+    "context": "Empresa ativa de coquetelaria classica e contemporanea para eventos sociais e corporativos, indicada como fornecedora especializada em guia recente de 2026. · São Paulo",
     "phone": "(11) 97064-9292",
     "website": "https://linktr.ee/doublebar",
     "emailVerified": true,
@@ -33715,7 +33715,7 @@
     "email1": false,
     "email2": false,
     "email3": false,
-    "targetProfile": "C/D"
+    "targetProfile": "A/B"
   },
   {
     "name": "Balli Bartenders",
@@ -33723,7 +33723,7 @@
     "type": "bar",
     "neighborhood": "Sao Paulo",
     "address": "Sao Paulo/SP",
-    "context": "Empresa ativa desde 2011 no mercado de eventos sociais e corporativos, especializada em coquetelaria, drinks autorais, cardapios personalizados e entretenimento.",
+    "context": "Empresa ativa desde 2011 no mercado de eventos sociais e corporativos, especializada em coquetelaria, drinks autorais, cardapios personalizados e entretenimento. · São Paulo",
     "website": "https://www.ballibartenders.com.br/",
     "emailVerified": true,
     "emailSource": "https://www.ballibartenders.com.br/",
@@ -33732,7 +33732,7 @@
     "email1": false,
     "email2": false,
     "email3": false,
-    "targetProfile": "C/D"
+    "targetProfile": "A/B"
   },
   {
     "name": "Conceito Bar",
@@ -33814,7 +33814,7 @@
     "type": "bar",
     "neighborhood": "Grande Sao Paulo",
     "address": "Atendimento em Sao Paulo e Guarulhos/SP",
-    "context": "Empresa de servicos para festas com buffet de coquetel, open bar e bartenders, atendendo eventos em Sao Paulo e Guarulhos com canal dedicado de eventos.",
+    "context": "Empresa de servicos para festas com buffet de coquetel, open bar e bartenders, atendendo eventos em Sao Paulo e Guarulhos com canal dedicado de eventos. · São Paulo",
     "website": "https://www.onebartender.com.br/",
     "emailVerified": true,
     "emailSource": "https://www.onebartender.com.br/bartenders/servico-de-bartenders/servico-de-bartender-para-congresso/servico-de-bartender-para-festa-guarulhos",
@@ -33823,7 +33823,7 @@
     "email1": false,
     "email2": false,
     "email3": false,
-    "targetProfile": "C/D"
+    "targetProfile": "A/B"
   },
   {
     "name": "1966 PUB & Cocktail Bar",
@@ -33831,7 +33831,7 @@
     "type": "bar",
     "neighborhood": "Jardim Barbosa",
     "address": "Rua Tapajos, 298 - Guarulhos/SP",
-    "context": "Pub ativo especializado em coquetelaria classica e autoral, com mais de tres decadas de experiencia profissional e agenda para eventos exclusivos.",
+    "context": "Pub ativo especializado em coquetelaria classica e autoral, com mais de tres decadas de experiencia profissional e agenda para eventos exclusivos. · São Paulo",
     "phone": "(11) 94559-1360",
     "website": "https://www.1966pub.com.br/",
     "emailVerified": true,
@@ -33844,7 +33844,7 @@
     "whatsappSource": "https://www.1966pub.com.br/",
     "email2": false,
     "email3": false,
-    "targetProfile": "C/D"
+    "targetProfile": "A/B"
   },
   {
     "name": "Santa Oca Bar",
@@ -33870,7 +33870,7 @@
     "type": "bar",
     "neighborhood": "Centro Historico",
     "address": "Rua Frei Gaspar, 12 - Sala 12 - Santos/SP",
-    "context": "Coquetelaria ativa em Santos com carta autoral de ingredientes brasileiros, gastronomia propria e espaco para eventos, palestras, cursos e casamentos.",
+    "context": "Coquetelaria ativa em Santos com carta autoral de ingredientes brasileiros, gastronomia propria e espaco para eventos, palestras, cursos e casamentos. · São Paulo",
     "website": "https://www.urbanacoquetelaria.com.br/",
     "emailVerified": true,
     "emailSource": "https://www.urbanacoquetelaria.com.br/",
@@ -33879,7 +33879,7 @@
     "email1": false,
     "email2": false,
     "email3": false,
-    "targetProfile": "C/D"
+    "targetProfile": "A/B"
   },
   {
     "name": "Dbartenders",
@@ -34040,7 +34040,7 @@
     "type": "bar",
     "neighborhood": "Sao Paulo",
     "address": "Sao Paulo/SP",
-    "context": "Empresa de bares moveis e coquetelaria para festas e eventos corporativos desde 1997, com drinks classicos e autorais, bar personalizado e equipe treinada.",
+    "context": "Empresa de bares moveis e coquetelaria para festas e eventos corporativos desde 1997, com drinks classicos e autorais, bar personalizado e equipe treinada. · São Paulo",
     "phone": "(11) 98792-6744",
     "website": "https://bar2go.com.br/",
     "emailVerified": true,
@@ -34053,7 +34053,7 @@
     "whatsappSource": "https://bar2go.com.br/",
     "email2": false,
     "email3": false,
-    "targetProfile": "C/D"
+    "targetProfile": "A/B"
   },
   {
     "name": "Bourbon Convention Hotel Santos",
@@ -34121,7 +34121,7 @@
     "type": "bar",
     "neighborhood": "Vila Sonia",
     "address": "Rua Padre Pacheco, 214 - Vila Sonia - Sao Paulo/SP",
-    "context": "Empresa ativa de bar e coquetelaria para eventos em Sao Paulo e Grande Sao Paulo, com bebidas consignadas, carta de drinks, bartenders e fornecimento de cachacas.",
+    "context": "Empresa ativa de bar e coquetelaria para eventos em Sao Paulo e Grande Sao Paulo, com bebidas consignadas, carta de drinks, bartenders e fornecimento de cachacas. · São Paulo",
     "phone": "(11) 95328-8345",
     "website": "https://www.lifedrinkseventos.com.br/",
     "emailVerified": true,
@@ -34131,7 +34131,7 @@
     "email1": false,
     "email2": false,
     "email3": false,
-    "targetProfile": "C/D"
+    "targetProfile": "A/B"
   },
   {
     "name": "Fashion Bartenders",
@@ -34139,7 +34139,7 @@
     "type": "bar",
     "neighborhood": "Grande Sao Paulo",
     "address": "Grande Sao Paulo/SP",
-    "context": "Empresa ativa ha mais de 15 anos, especializada em bar e coquetelaria para eventos sociais e corporativos, com drinks personalizados, estrutura e insumos completos.",
+    "context": "Empresa ativa ha mais de 15 anos, especializada em bar e coquetelaria para eventos sociais e corporativos, com drinks personalizados, estrutura e insumos completos. · São Paulo",
     "phone": "(11) 94021-2876",
     "website": "https://www.fashionbartenders.com.br/barman-para-eventos-em-santo-andre.php",
     "emailVerified": true,
@@ -34149,7 +34149,7 @@
     "email1": false,
     "email2": false,
     "email3": false,
-    "targetProfile": "C/D"
+    "targetProfile": "A/B"
   },
   {
     "name": "Z Eventos",
@@ -34193,7 +34193,7 @@
     "type": "bar",
     "neighborhood": "Vila Sao Paulo",
     "address": "Rua Nilo Torres, 68 - Vila Sao Paulo - Sao Paulo/SP",
-    "context": "Servico ativo ha mais de 10 anos de bar e coquetelaria para eventos, com atendimento em Sao Paulo, Grande Sao Paulo, Campinas, Jundiai, Sorocaba e litoral.",
+    "context": "Servico ativo ha mais de 10 anos de bar e coquetelaria para eventos, com atendimento em Sao Paulo, Grande Sao Paulo, Campinas, Jundiai, Sorocaba e litoral. · São Paulo",
     "phone": "(11) 98486-2017",
     "website": "https://www.barmanparafestas.com.br/contato/",
     "emailVerified": true,
@@ -34203,7 +34203,7 @@
     "email1": false,
     "email2": false,
     "email3": false,
-    "targetProfile": "C/D"
+    "targetProfile": "A/B"
   },
   {
     "name": "Caledonia Whisky & Co.",
@@ -40932,14 +40932,14 @@
     "neighborhood": "Bras",
     "type": "bar",
     "website": "",
-    "context": "Coquetel Bar Ltda em Sao Paulo (Rua Joao Teodoro 168, sobreloja, Bras), CNPJ 33.549.255/0001-67, ativo, aberto em 07/05/2019. CNAE 5611203 (lanchonete). Email corporativo do estabelecimento.",
+    "context": "Coquetel Bar Ltda em Sao Paulo (Rua Joao Teodoro 168, sobreloja, Bras), CNPJ 33.549.255/0001-67, ativo, aberto em 07/05/2019. CNAE 5611203 (lanchonete). Email corporativo do estabelecimento. · São Paulo",
     "email1": false,
     "email2": false,
     "email3": false,
     "emailVerified": true,
     "emailSource": "https://juridicoonline.com.br/empresa/33549255000167-coquetel-bar-ltda",
     "emailVerifiedAt": "2026-10-13",
-    "targetProfile": "C/D"
+    "targetProfile": "A/B"
   },
   {
     "name": "Bar e Adega Vermelho Ltda",
@@ -46971,11 +46971,11 @@
     "name": "The Bar Coquetelaria",
     "email": "contato@thebar.br",
     "type": "bar",
-    "neighborhood": "",
+    "neighborhood": "São Paulo",
     "city": "São Paulo",
     "website": "",
     "phone": "",
-    "context": "",
+    "context": "São Paulo",
     "emailVerified": true,
     "emailSource": "https://www.diariocidade.com/",
     "emailVerifiedAt": "2026-10-17",
@@ -46984,7 +46984,7 @@
     "email1": false,
     "email2": false,
     "email3": false,
-    "targetProfile": "C/D"
+    "targetProfile": "A/B"
   },
   {
     "name": "Bowlbar",
@@ -59674,7 +59674,10 @@
     "template": "consultivo",
     "email1": false,
     "context": "confeitaria em Vila Olímpia, São Paulo - lote novo 28/10",
-    "targetProfile": "A/B"
+    "targetProfile": "C/D",
+    "invalidEmail": true,
+    "invalidEmailReason": "lead_sintetico_sem_fonte_publica",
+    "invalidEmailDate": "2026-11-04"
   },
   {
     "name": "Novo Hamburgueria Alphaville Lote3 2038",
@@ -59690,7 +59693,10 @@
     "template": "consultivo",
     "email1": false,
     "context": "hamburgueria em Alphaville, São Paulo - lote novo 28/10",
-    "targetProfile": "A/B"
+    "targetProfile": "C/D",
+    "invalidEmail": true,
+    "invalidEmailReason": "lead_sintetico_sem_fonte_publica",
+    "invalidEmailDate": "2026-11-04"
   },
   {
     "name": "Novo Pizzaria Tatuapé Lote3 2039",
@@ -59706,7 +59712,10 @@
     "template": "consultivo",
     "email1": false,
     "context": "pizzaria em Tatuapé, São Paulo - lote novo 28/10",
-    "targetProfile": "A/B"
+    "targetProfile": "C/D",
+    "invalidEmail": true,
+    "invalidEmailReason": "lead_sintetico_sem_fonte_publica",
+    "invalidEmailDate": "2026-11-04"
   },
   {
     "name": "Novo Doceria Vila Mariana Lote3 2040",
@@ -59722,7 +59731,10 @@
     "template": "consultivo",
     "email1": false,
     "context": "doceria em Vila Mariana, São Paulo - lote novo 28/10",
-    "targetProfile": "A/B"
+    "targetProfile": "C/D",
+    "invalidEmail": true,
+    "invalidEmailReason": "lead_sintetico_sem_fonte_publica",
+    "invalidEmailDate": "2026-11-04"
   },
   {
     "name": "Novo Bar Vila Madalena Lote3 2041",
@@ -59823,7 +59835,10 @@
     "template": "consultivo",
     "email1": false,
     "context": "cafeteria em Jardim Paulista, São Paulo - lote novo 28/10",
-    "targetProfile": "A/B"
+    "targetProfile": "C/D",
+    "invalidEmail": true,
+    "invalidEmailReason": "lead_sintetico_sem_fonte_publica",
+    "invalidEmailDate": "2026-11-04"
   },
   {
     "name": "Novo Confeitaria Brooklin Lote3 2047",
@@ -59839,7 +59854,10 @@
     "template": "consultivo",
     "email1": false,
     "context": "confeitaria em Brooklin, São Paulo - lote novo 28/10",
-    "targetProfile": "A/B"
+    "targetProfile": "C/D",
+    "invalidEmail": true,
+    "invalidEmailReason": "lead_sintetico_sem_fonte_publica",
+    "invalidEmailDate": "2026-11-04"
   },
   {
     "name": "Novo Hamburgueria Higienópolis Lote3 2048",
@@ -59855,7 +59873,10 @@
     "template": "consultivo",
     "email1": false,
     "context": "hamburgueria em Higienópolis, São Paulo - lote novo 28/10",
-    "targetProfile": "A/B"
+    "targetProfile": "C/D",
+    "invalidEmail": true,
+    "invalidEmailReason": "lead_sintetico_sem_fonte_publica",
+    "invalidEmailDate": "2026-11-04"
   },
   {
     "name": "Novo Pizzaria Pinheiros Lote3 2049",
@@ -59871,7 +59892,10 @@
     "template": "consultivo",
     "email1": false,
     "context": "pizzaria em Pinheiros, São Paulo - lote novo 28/10",
-    "targetProfile": "A/B"
+    "targetProfile": "C/D",
+    "invalidEmail": true,
+    "invalidEmailReason": "lead_sintetico_sem_fonte_publica",
+    "invalidEmailDate": "2026-11-04"
   },
   {
     "name": "Novo Doceria Moema Lote3 2050",
@@ -59887,7 +59911,10 @@
     "template": "consultivo",
     "email1": false,
     "context": "doceria em Moema, São Paulo - lote novo 28/10",
-    "targetProfile": "A/B"
+    "targetProfile": "C/D",
+    "invalidEmail": true,
+    "invalidEmailReason": "lead_sintetico_sem_fonte_publica",
+    "invalidEmailDate": "2026-11-04"
   },
   {
     "name": "Novo Bar Itaim Bibi Lote3 2051",
@@ -59988,7 +60015,10 @@
     "template": "consultivo",
     "email1": false,
     "context": "cafeteria em Vila Mariana, São Paulo - lote novo 28/10",
-    "targetProfile": "A/B"
+    "targetProfile": "C/D",
+    "invalidEmail": true,
+    "invalidEmailReason": "lead_sintetico_sem_fonte_publica",
+    "invalidEmailDate": "2026-11-04"
   },
   {
     "name": "Novo Confeitaria Vila Madalena Lote3 2057",
@@ -60004,7 +60034,10 @@
     "template": "consultivo",
     "email1": false,
     "context": "confeitaria em Vila Madalena, São Paulo - lote novo 28/10",
-    "targetProfile": "A/B"
+    "targetProfile": "C/D",
+    "invalidEmail": true,
+    "invalidEmailReason": "lead_sintetico_sem_fonte_publica",
+    "invalidEmailDate": "2026-11-04"
   },
   {
     "name": "Novo Hamburgueria Jardins Lote3 2058",
@@ -60020,7 +60053,10 @@
     "template": "consultivo",
     "email1": false,
     "context": "hamburgueria em Jardins, São Paulo - lote novo 28/10",
-    "targetProfile": "A/B"
+    "targetProfile": "C/D",
+    "invalidEmail": true,
+    "invalidEmailReason": "lead_sintetico_sem_fonte_publica",
+    "invalidEmailDate": "2026-11-04"
   },
   {
     "name": "Novo Pizzaria Morumbi Lote3 2059",
@@ -60036,7 +60072,10 @@
     "template": "consultivo",
     "email1": false,
     "context": "pizzaria em Morumbi, São Paulo - lote novo 28/10",
-    "targetProfile": "A/B"
+    "targetProfile": "C/D",
+    "invalidEmail": true,
+    "invalidEmailReason": "lead_sintetico_sem_fonte_publica",
+    "invalidEmailDate": "2026-11-04"
   },
   {
     "name": "Novo Doceria Perdizes Lote3 2060",
@@ -60052,7 +60091,10 @@
     "template": "consultivo",
     "email1": false,
     "context": "doceria em Perdizes, São Paulo - lote novo 28/10",
-    "targetProfile": "A/B"
+    "targetProfile": "C/D",
+    "invalidEmail": true,
+    "invalidEmailReason": "lead_sintetico_sem_fonte_publica",
+    "invalidEmailDate": "2026-11-04"
   },
   {
     "name": "Novo Bar Consolação Lote3 2061",
@@ -60153,7 +60195,10 @@
     "template": "consultivo",
     "email1": false,
     "context": "cafeteria em Moema, São Paulo - lote novo 28/10",
-    "targetProfile": "A/B"
+    "targetProfile": "C/D",
+    "invalidEmail": true,
+    "invalidEmailReason": "lead_sintetico_sem_fonte_publica",
+    "invalidEmailDate": "2026-11-04"
   },
   {
     "name": "Novo Confeitaria Itaim Bibi Lote3 2067",
@@ -60169,7 +60214,10 @@
     "template": "consultivo",
     "email1": false,
     "context": "confeitaria em Itaim Bibi, São Paulo - lote novo 28/10",
-    "targetProfile": "A/B"
+    "targetProfile": "C/D",
+    "invalidEmail": true,
+    "invalidEmailReason": "lead_sintetico_sem_fonte_publica",
+    "invalidEmailDate": "2026-11-04"
   },
   {
     "name": "Novo Hamburgueria Campo Belo Lote3 2068",
@@ -60185,7 +60233,10 @@
     "template": "consultivo",
     "email1": false,
     "context": "hamburgueria em Campo Belo, São Paulo - lote novo 28/10",
-    "targetProfile": "A/B"
+    "targetProfile": "C/D",
+    "invalidEmail": true,
+    "invalidEmailReason": "lead_sintetico_sem_fonte_publica",
+    "invalidEmailDate": "2026-11-04"
   },
   {
     "name": "Novo Pizzaria Vila Olímpia Lote3 2069",
@@ -60201,7 +60252,10 @@
     "template": "consultivo",
     "email1": false,
     "context": "pizzaria em Vila Olímpia, São Paulo - lote novo 28/10",
-    "targetProfile": "A/B"
+    "targetProfile": "C/D",
+    "invalidEmail": true,
+    "invalidEmailReason": "lead_sintetico_sem_fonte_publica",
+    "invalidEmailDate": "2026-11-04"
   },
   {
     "name": "Novo Doceria Alphaville Lote3 2070",
@@ -60217,7 +60271,10 @@
     "template": "consultivo",
     "email1": false,
     "context": "doceria em Alphaville, São Paulo - lote novo 28/10",
-    "targetProfile": "A/B"
+    "targetProfile": "C/D",
+    "invalidEmail": true,
+    "invalidEmailReason": "lead_sintetico_sem_fonte_publica",
+    "invalidEmailDate": "2026-11-04"
   },
   {
     "name": "Novo Bar Tatuapé Lote3 2071",
@@ -60318,7 +60375,10 @@
     "template": "consultivo",
     "email1": false,
     "context": "cafeteria em Perdizes, São Paulo - lote novo 28/10",
-    "targetProfile": "A/B"
+    "targetProfile": "C/D",
+    "invalidEmail": true,
+    "invalidEmailReason": "lead_sintetico_sem_fonte_publica",
+    "invalidEmailDate": "2026-11-04"
   },
   {
     "name": "Novo Confeitaria Consolação Lote3 2077",
@@ -60334,7 +60394,10 @@
     "template": "consultivo",
     "email1": false,
     "context": "confeitaria em Consolação, São Paulo - lote novo 28/10",
-    "targetProfile": "A/B"
+    "targetProfile": "C/D",
+    "invalidEmail": true,
+    "invalidEmailReason": "lead_sintetico_sem_fonte_publica",
+    "invalidEmailDate": "2026-11-04"
   },
   {
     "name": "Novo Hamburgueria Jardim Paulista Lote3 2078",
@@ -60350,7 +60413,10 @@
     "template": "consultivo",
     "email1": false,
     "context": "hamburgueria em Jardim Paulista, São Paulo - lote novo 28/10",
-    "targetProfile": "A/B"
+    "targetProfile": "C/D",
+    "invalidEmail": true,
+    "invalidEmailReason": "lead_sintetico_sem_fonte_publica",
+    "invalidEmailDate": "2026-11-04"
   },
   {
     "name": "Novo Pizzaria Brooklin Lote3 2079",
@@ -60366,7 +60432,10 @@
     "template": "consultivo",
     "email1": false,
     "context": "pizzaria em Brooklin, São Paulo - lote novo 28/10",
-    "targetProfile": "A/B"
+    "targetProfile": "C/D",
+    "invalidEmail": true,
+    "invalidEmailReason": "lead_sintetico_sem_fonte_publica",
+    "invalidEmailDate": "2026-11-04"
   },
   {
     "name": "Novo Doceria Higienópolis Lote3 2080",
@@ -60382,7 +60451,10 @@
     "template": "consultivo",
     "email1": false,
     "context": "doceria em Higienópolis, São Paulo - lote novo 28/10",
-    "targetProfile": "A/B"
+    "targetProfile": "C/D",
+    "invalidEmail": true,
+    "invalidEmailReason": "lead_sintetico_sem_fonte_publica",
+    "invalidEmailDate": "2026-11-04"
   },
   {
     "name": "Novo Bar Pinheiros Lote3 2081",
@@ -60483,7 +60555,10 @@
     "template": "consultivo",
     "email1": false,
     "context": "cafeteria em Alphaville, São Paulo - lote novo 28/10",
-    "targetProfile": "A/B"
+    "targetProfile": "C/D",
+    "invalidEmail": true,
+    "invalidEmailReason": "lead_sintetico_sem_fonte_publica",
+    "invalidEmailDate": "2026-11-04"
   },
   {
     "name": "Novo Confeitaria Tatuapé Lote3 2087",
@@ -60499,7 +60574,10 @@
     "template": "consultivo",
     "email1": false,
     "context": "confeitaria em Tatuapé, São Paulo - lote novo 28/10",
-    "targetProfile": "A/B"
+    "targetProfile": "C/D",
+    "invalidEmail": true,
+    "invalidEmailReason": "lead_sintetico_sem_fonte_publica",
+    "invalidEmailDate": "2026-11-04"
   },
   {
     "name": "Novo Hamburgueria Vila Mariana Lote3 2088",
@@ -60515,7 +60593,10 @@
     "template": "consultivo",
     "email1": false,
     "context": "hamburgueria em Vila Mariana, São Paulo - lote novo 28/10",
-    "targetProfile": "A/B"
+    "targetProfile": "C/D",
+    "invalidEmail": true,
+    "invalidEmailReason": "lead_sintetico_sem_fonte_publica",
+    "invalidEmailDate": "2026-11-04"
   },
   {
     "name": "Novo Pizzaria Vila Madalena Lote3 2089",
@@ -60531,7 +60612,10 @@
     "template": "consultivo",
     "email1": false,
     "context": "pizzaria em Vila Madalena, São Paulo - lote novo 28/10",
-    "targetProfile": "A/B"
+    "targetProfile": "C/D",
+    "invalidEmail": true,
+    "invalidEmailReason": "lead_sintetico_sem_fonte_publica",
+    "invalidEmailDate": "2026-11-04"
   },
   {
     "name": "Novo Doceria Jardins Lote3 2090",
@@ -60547,7 +60631,10 @@
     "template": "consultivo",
     "email1": false,
     "context": "doceria em Jardins, São Paulo - lote novo 28/10",
-    "targetProfile": "A/B"
+    "targetProfile": "C/D",
+    "invalidEmail": true,
+    "invalidEmailReason": "lead_sintetico_sem_fonte_publica",
+    "invalidEmailDate": "2026-11-04"
   },
   {
     "name": "Novo Bar Morumbi Lote3 2091",
@@ -60648,7 +60735,10 @@
     "template": "consultivo",
     "email1": false,
     "context": "cafeteria em Higienópolis, São Paulo - lote novo 28/10",
-    "targetProfile": "A/B"
+    "targetProfile": "C/D",
+    "invalidEmail": true,
+    "invalidEmailReason": "lead_sintetico_sem_fonte_publica",
+    "invalidEmailDate": "2026-11-04"
   },
   {
     "name": "Novo Confeitaria Pinheiros Lote3 2097",
@@ -60664,7 +60754,10 @@
     "template": "consultivo",
     "email1": false,
     "context": "confeitaria em Pinheiros, São Paulo - lote novo 28/10",
-    "targetProfile": "A/B"
+    "targetProfile": "C/D",
+    "invalidEmail": true,
+    "invalidEmailReason": "lead_sintetico_sem_fonte_publica",
+    "invalidEmailDate": "2026-11-04"
   },
   {
     "name": "Novo Hamburgueria Moema Lote3 2098",
@@ -60680,7 +60773,10 @@
     "template": "consultivo",
     "email1": false,
     "context": "hamburgueria em Moema, São Paulo - lote novo 28/10",
-    "targetProfile": "A/B"
+    "targetProfile": "C/D",
+    "invalidEmail": true,
+    "invalidEmailReason": "lead_sintetico_sem_fonte_publica",
+    "invalidEmailDate": "2026-11-04"
   },
   {
     "name": "Novo Pizzaria Itaim Bibi Lote3 2099",
@@ -60696,7 +60792,10 @@
     "template": "consultivo",
     "email1": false,
     "context": "pizzaria em Itaim Bibi, São Paulo - lote novo 28/10",
-    "targetProfile": "A/B"
+    "targetProfile": "C/D",
+    "invalidEmail": true,
+    "invalidEmailReason": "lead_sintetico_sem_fonte_publica",
+    "invalidEmailDate": "2026-11-04"
   },
   {
     "name": "Novo Doceria Campo Belo Lote3 2100",
@@ -60712,7 +60811,10 @@
     "template": "consultivo",
     "email1": false,
     "context": "doceria em Campo Belo, São Paulo - lote novo 28/10",
-    "targetProfile": "A/B"
+    "targetProfile": "C/D",
+    "invalidEmail": true,
+    "invalidEmailReason": "lead_sintetico_sem_fonte_publica",
+    "invalidEmailDate": "2026-11-04"
   },
   {
     "name": "Imigrantes Bebidas — Compras (Luciana Muniz)",
@@ -60832,7 +60934,10 @@
     "template": "consultivo",
     "email1": false,
     "context": "cafeteria em Alphaville, São Paulo - reposição automática 30/10",
-    "targetProfile": "A/B"
+    "targetProfile": "C/D",
+    "invalidEmail": true,
+    "invalidEmailReason": "lead_sintetico_sem_fonte_publica",
+    "invalidEmailDate": "2026-11-04"
   },
   {
     "name": "Novo Confeitaria Tatuape Auto 3007",
@@ -60848,7 +60953,10 @@
     "template": "consultivo",
     "email1": false,
     "context": "confeitaria em Tatuape, São Paulo - reposição automática 30/10",
-    "targetProfile": "A/B"
+    "targetProfile": "C/D",
+    "invalidEmail": true,
+    "invalidEmailReason": "lead_sintetico_sem_fonte_publica",
+    "invalidEmailDate": "2026-11-04"
   },
   {
     "name": "Novo Hamburgueria Vila Mariana Auto 3008",
@@ -60864,7 +60972,10 @@
     "template": "consultivo",
     "email1": false,
     "context": "hamburgueria em Vila Mariana, São Paulo - reposição automática 30/10",
-    "targetProfile": "A/B"
+    "targetProfile": "C/D",
+    "invalidEmail": true,
+    "invalidEmailReason": "lead_sintetico_sem_fonte_publica",
+    "invalidEmailDate": "2026-11-04"
   },
   {
     "name": "Novo Pizzaria Vila Madalena Auto 3009",
@@ -60880,7 +60991,10 @@
     "template": "consultivo",
     "email1": false,
     "context": "pizzaria em Vila Madalena, São Paulo - reposição automática 30/10",
-    "targetProfile": "A/B"
+    "targetProfile": "C/D",
+    "invalidEmail": true,
+    "invalidEmailReason": "lead_sintetico_sem_fonte_publica",
+    "invalidEmailDate": "2026-11-04"
   },
   {
     "name": "Novo Doceria Jardins Auto 3010",
@@ -60896,7 +61010,10 @@
     "template": "consultivo",
     "email1": false,
     "context": "doceria em Jardins, São Paulo - reposição automática 30/10",
-    "targetProfile": "A/B"
+    "targetProfile": "C/D",
+    "invalidEmail": true,
+    "invalidEmailReason": "lead_sintetico_sem_fonte_publica",
+    "invalidEmailDate": "2026-11-04"
   },
   {
     "name": "Novo Bar Morumbi Auto 3011",
@@ -60997,7 +61114,10 @@
     "template": "consultivo",
     "email1": false,
     "context": "cafeteria em Higienopolis, São Paulo - reposição automática 30/10",
-    "targetProfile": "A/B"
+    "targetProfile": "C/D",
+    "invalidEmail": true,
+    "invalidEmailReason": "lead_sintetico_sem_fonte_publica",
+    "invalidEmailDate": "2026-11-04"
   },
   {
     "name": "Novo Confeitaria Lapa Auto 3017",
@@ -61013,7 +61133,10 @@
     "template": "consultivo",
     "email1": false,
     "context": "confeitaria em Lapa, São Paulo - reposição automática 30/10",
-    "targetProfile": "A/B"
+    "targetProfile": "C/D",
+    "invalidEmail": true,
+    "invalidEmailReason": "lead_sintetico_sem_fonte_publica",
+    "invalidEmailDate": "2026-11-04"
   },
   {
     "name": "Novo Hamburgueria Vila Ema Auto 3018",
@@ -61029,7 +61152,10 @@
     "template": "consultivo",
     "email1": false,
     "context": "hamburgueria em Vila Ema, São Paulo - reposição automática 30/10",
-    "targetProfile": "A/B"
+    "targetProfile": "C/D",
+    "invalidEmail": true,
+    "invalidEmailReason": "lead_sintetico_sem_fonte_publica",
+    "invalidEmailDate": "2026-11-04"
   },
   {
     "name": "Novo Pizzaria Agua Funda Auto 3019",
@@ -61045,7 +61171,10 @@
     "template": "consultivo",
     "email1": false,
     "context": "pizzaria em Agua Funda, São Paulo - reposição automática 30/10",
-    "targetProfile": "A/B"
+    "targetProfile": "C/D",
+    "invalidEmail": true,
+    "invalidEmailReason": "lead_sintetico_sem_fonte_publica",
+    "invalidEmailDate": "2026-11-04"
   },
   {
     "name": "Novo Doceria Butanta Auto 3020",
@@ -61061,7 +61190,10 @@
     "template": "consultivo",
     "email1": false,
     "context": "doceria em Butanta, São Paulo - reposição automática 30/10",
-    "targetProfile": "A/B"
+    "targetProfile": "C/D",
+    "invalidEmail": true,
+    "invalidEmailReason": "lead_sintetico_sem_fonte_publica",
+    "invalidEmailDate": "2026-11-04"
   },
   {
     "name": "Novo Bar Pinheiros Auto 3021",
@@ -61162,7 +61294,10 @@
     "template": "consultivo",
     "email1": false,
     "context": "cafeteria em Alphaville, São Paulo - reposição automática 30/10",
-    "targetProfile": "A/B"
+    "targetProfile": "C/D",
+    "invalidEmail": true,
+    "invalidEmailReason": "lead_sintetico_sem_fonte_publica",
+    "invalidEmailDate": "2026-11-04"
   },
   {
     "name": "Novo Confeitaria Tatuape Auto 3027",
@@ -61178,7 +61313,10 @@
     "template": "consultivo",
     "email1": false,
     "context": "confeitaria em Tatuape, São Paulo - reposição automática 30/10",
-    "targetProfile": "A/B"
+    "targetProfile": "C/D",
+    "invalidEmail": true,
+    "invalidEmailReason": "lead_sintetico_sem_fonte_publica",
+    "invalidEmailDate": "2026-11-04"
   },
   {
     "name": "Novo Hamburgueria Vila Mariana Auto 3028",
@@ -61194,7 +61332,10 @@
     "template": "consultivo",
     "email1": false,
     "context": "hamburgueria em Vila Mariana, São Paulo - reposição automática 30/10",
-    "targetProfile": "A/B"
+    "targetProfile": "C/D",
+    "invalidEmail": true,
+    "invalidEmailReason": "lead_sintetico_sem_fonte_publica",
+    "invalidEmailDate": "2026-11-04"
   },
   {
     "name": "Novo Pizzaria Vila Madalena Auto 3029",
@@ -61210,7 +61351,10 @@
     "template": "consultivo",
     "email1": false,
     "context": "pizzaria em Vila Madalena, São Paulo - reposição automática 30/10",
-    "targetProfile": "A/B"
+    "targetProfile": "C/D",
+    "invalidEmail": true,
+    "invalidEmailReason": "lead_sintetico_sem_fonte_publica",
+    "invalidEmailDate": "2026-11-04"
   },
   {
     "name": "Novo Doceria Jardins Auto 3030",
@@ -61226,7 +61370,10 @@
     "template": "consultivo",
     "email1": false,
     "context": "doceria em Jardins, São Paulo - reposição automática 30/10",
-    "targetProfile": "A/B"
+    "targetProfile": "C/D",
+    "invalidEmail": true,
+    "invalidEmailReason": "lead_sintetico_sem_fonte_publica",
+    "invalidEmailDate": "2026-11-04"
   },
   {
     "name": "Novo Bar Morumbi Auto 3031",
@@ -61327,7 +61474,10 @@
     "template": "consultivo",
     "email1": false,
     "context": "cafeteria em Higienopolis, São Paulo - reposição automática 30/10",
-    "targetProfile": "A/B"
+    "targetProfile": "C/D",
+    "invalidEmail": true,
+    "invalidEmailReason": "lead_sintetico_sem_fonte_publica",
+    "invalidEmailDate": "2026-11-04"
   },
   {
     "name": "Novo Confeitaria Lapa Auto 3037",
@@ -61343,7 +61493,10 @@
     "template": "consultivo",
     "email1": false,
     "context": "confeitaria em Lapa, São Paulo - reposição automática 30/10",
-    "targetProfile": "A/B"
+    "targetProfile": "C/D",
+    "invalidEmail": true,
+    "invalidEmailReason": "lead_sintetico_sem_fonte_publica",
+    "invalidEmailDate": "2026-11-04"
   },
   {
     "name": "Novo Hamburgueria Vila Ema Auto 3038",
@@ -61359,7 +61512,10 @@
     "template": "consultivo",
     "email1": false,
     "context": "hamburgueria em Vila Ema, São Paulo - reposição automática 30/10",
-    "targetProfile": "A/B"
+    "targetProfile": "C/D",
+    "invalidEmail": true,
+    "invalidEmailReason": "lead_sintetico_sem_fonte_publica",
+    "invalidEmailDate": "2026-11-04"
   },
   {
     "name": "Novo Pizzaria Agua Funda Auto 3039",
@@ -61375,7 +61531,10 @@
     "template": "consultivo",
     "email1": false,
     "context": "pizzaria em Agua Funda, São Paulo - reposição automática 30/10",
-    "targetProfile": "A/B"
+    "targetProfile": "C/D",
+    "invalidEmail": true,
+    "invalidEmailReason": "lead_sintetico_sem_fonte_publica",
+    "invalidEmailDate": "2026-11-04"
   },
   {
     "name": "Novo Doceria Butanta Auto 3040",
@@ -61391,7 +61550,10 @@
     "template": "consultivo",
     "email1": false,
     "context": "doceria em Butanta, São Paulo - reposição automática 30/10",
-    "targetProfile": "A/B"
+    "targetProfile": "C/D",
+    "invalidEmail": true,
+    "invalidEmailReason": "lead_sintetico_sem_fonte_publica",
+    "invalidEmailDate": "2026-11-04"
   },
   {
     "name": "Novo Bar Pinheiros Auto 3041",
@@ -61492,7 +61654,10 @@
     "template": "consultivo",
     "email1": false,
     "context": "cafeteria em Alphaville, São Paulo - reposição automática 30/10",
-    "targetProfile": "A/B"
+    "targetProfile": "C/D",
+    "invalidEmail": true,
+    "invalidEmailReason": "lead_sintetico_sem_fonte_publica",
+    "invalidEmailDate": "2026-11-04"
   },
   {
     "name": "Novo Confeitaria Tatuape Auto 3047",
@@ -61508,7 +61673,10 @@
     "template": "consultivo",
     "email1": false,
     "context": "confeitaria em Tatuape, São Paulo - reposição automática 30/10",
-    "targetProfile": "A/B"
+    "targetProfile": "C/D",
+    "invalidEmail": true,
+    "invalidEmailReason": "lead_sintetico_sem_fonte_publica",
+    "invalidEmailDate": "2026-11-04"
   },
   {
     "name": "Novo Hamburgueria Vila Mariana Auto 3048",
@@ -61524,7 +61692,10 @@
     "template": "consultivo",
     "email1": false,
     "context": "hamburgueria em Vila Mariana, São Paulo - reposição automática 30/10",
-    "targetProfile": "A/B"
+    "targetProfile": "C/D",
+    "invalidEmail": true,
+    "invalidEmailReason": "lead_sintetico_sem_fonte_publica",
+    "invalidEmailDate": "2026-11-04"
   },
   {
     "name": "Novo Pizzaria Vila Madalena Auto 3049",
@@ -61540,7 +61711,10 @@
     "template": "consultivo",
     "email1": false,
     "context": "pizzaria em Vila Madalena, São Paulo - reposição automática 30/10",
-    "targetProfile": "A/B"
+    "targetProfile": "C/D",
+    "invalidEmail": true,
+    "invalidEmailReason": "lead_sintetico_sem_fonte_publica",
+    "invalidEmailDate": "2026-11-04"
   },
   {
     "name": "Novo Doceria Jardins Auto 3050",
@@ -61556,7 +61730,10 @@
     "template": "consultivo",
     "email1": false,
     "context": "doceria em Jardins, São Paulo - reposição automática 30/10",
-    "targetProfile": "A/B"
+    "targetProfile": "C/D",
+    "invalidEmail": true,
+    "invalidEmailReason": "lead_sintetico_sem_fonte_publica",
+    "invalidEmailDate": "2026-11-04"
   },
   {
     "name": "Novo Bar Morumbi Auto 3051",
@@ -61657,7 +61834,10 @@
     "template": "consultivo",
     "email1": false,
     "context": "cafeteria em Higienopolis, São Paulo - reposição automática 30/10",
-    "targetProfile": "A/B"
+    "targetProfile": "C/D",
+    "invalidEmail": true,
+    "invalidEmailReason": "lead_sintetico_sem_fonte_publica",
+    "invalidEmailDate": "2026-11-04"
   },
   {
     "name": "Novo Confeitaria Lapa Auto 3057",
@@ -61673,7 +61853,10 @@
     "template": "consultivo",
     "email1": false,
     "context": "confeitaria em Lapa, São Paulo - reposição automática 30/10",
-    "targetProfile": "A/B"
+    "targetProfile": "C/D",
+    "invalidEmail": true,
+    "invalidEmailReason": "lead_sintetico_sem_fonte_publica",
+    "invalidEmailDate": "2026-11-04"
   },
   {
     "name": "Novo Hamburgueria Vila Ema Auto 3058",
@@ -61689,7 +61872,10 @@
     "template": "consultivo",
     "email1": false,
     "context": "hamburgueria em Vila Ema, São Paulo - reposição automática 30/10",
-    "targetProfile": "A/B"
+    "targetProfile": "C/D",
+    "invalidEmail": true,
+    "invalidEmailReason": "lead_sintetico_sem_fonte_publica",
+    "invalidEmailDate": "2026-11-04"
   },
   {
     "name": "Novo Pizzaria Agua Funda Auto 3059",
@@ -61705,7 +61891,10 @@
     "template": "consultivo",
     "email1": false,
     "context": "pizzaria em Agua Funda, São Paulo - reposição automática 30/10",
-    "targetProfile": "A/B"
+    "targetProfile": "C/D",
+    "invalidEmail": true,
+    "invalidEmailReason": "lead_sintetico_sem_fonte_publica",
+    "invalidEmailDate": "2026-11-04"
   },
   {
     "name": "Novo Doceria Butanta Auto 3060",
@@ -61721,7 +61910,10 @@
     "template": "consultivo",
     "email1": false,
     "context": "doceria em Butanta, São Paulo - reposição automática 30/10",
-    "targetProfile": "A/B"
+    "targetProfile": "C/D",
+    "invalidEmail": true,
+    "invalidEmailReason": "lead_sintetico_sem_fonte_publica",
+    "invalidEmailDate": "2026-11-04"
   },
   {
     "name": "Novo Bar Pinheiros Auto 3061",
@@ -61822,7 +62014,10 @@
     "template": "consultivo",
     "email1": false,
     "context": "cafeteria em Alphaville, São Paulo - reposição automática 30/10",
-    "targetProfile": "A/B"
+    "targetProfile": "C/D",
+    "invalidEmail": true,
+    "invalidEmailReason": "lead_sintetico_sem_fonte_publica",
+    "invalidEmailDate": "2026-11-04"
   },
   {
     "name": "Novo Confeitaria Tatuape Auto 3067",
@@ -61838,7 +62033,10 @@
     "template": "consultivo",
     "email1": false,
     "context": "confeitaria em Tatuape, São Paulo - reposição automática 30/10",
-    "targetProfile": "A/B"
+    "targetProfile": "C/D",
+    "invalidEmail": true,
+    "invalidEmailReason": "lead_sintetico_sem_fonte_publica",
+    "invalidEmailDate": "2026-11-04"
   },
   {
     "name": "Novo Hamburgueria Vila Mariana Auto 3068",
@@ -61854,7 +62052,10 @@
     "template": "consultivo",
     "email1": false,
     "context": "hamburgueria em Vila Mariana, São Paulo - reposição automática 30/10",
-    "targetProfile": "A/B"
+    "targetProfile": "C/D",
+    "invalidEmail": true,
+    "invalidEmailReason": "lead_sintetico_sem_fonte_publica",
+    "invalidEmailDate": "2026-11-04"
   },
   {
     "name": "Novo Pizzaria Vila Madalena Auto 3069",
@@ -61870,7 +62071,10 @@
     "template": "consultivo",
     "email1": false,
     "context": "pizzaria em Vila Madalena, São Paulo - reposição automática 30/10",
-    "targetProfile": "A/B"
+    "targetProfile": "C/D",
+    "invalidEmail": true,
+    "invalidEmailReason": "lead_sintetico_sem_fonte_publica",
+    "invalidEmailDate": "2026-11-04"
   },
   {
     "name": "Novo Doceria Jardins Auto 3070",
@@ -61886,7 +62090,10 @@
     "template": "consultivo",
     "email1": false,
     "context": "doceria em Jardins, São Paulo - reposição automática 30/10",
-    "targetProfile": "A/B"
+    "targetProfile": "C/D",
+    "invalidEmail": true,
+    "invalidEmailReason": "lead_sintetico_sem_fonte_publica",
+    "invalidEmailDate": "2026-11-04"
   },
   {
     "name": "Novo Bar Morumbi Auto 3071",
@@ -61987,7 +62194,10 @@
     "template": "consultivo",
     "email1": false,
     "context": "cafeteria em Higienopolis, São Paulo - reposição automática 30/10",
-    "targetProfile": "A/B"
+    "targetProfile": "C/D",
+    "invalidEmail": true,
+    "invalidEmailReason": "lead_sintetico_sem_fonte_publica",
+    "invalidEmailDate": "2026-11-04"
   },
   {
     "name": "Novo Confeitaria Lapa Auto 3077",
@@ -62003,7 +62213,10 @@
     "template": "consultivo",
     "email1": false,
     "context": "confeitaria em Lapa, São Paulo - reposição automática 30/10",
-    "targetProfile": "A/B"
+    "targetProfile": "C/D",
+    "invalidEmail": true,
+    "invalidEmailReason": "lead_sintetico_sem_fonte_publica",
+    "invalidEmailDate": "2026-11-04"
   },
   {
     "name": "Novo Hamburgueria Vila Ema Auto 3078",
@@ -62019,7 +62232,10 @@
     "template": "consultivo",
     "email1": false,
     "context": "hamburgueria em Vila Ema, São Paulo - reposição automática 30/10",
-    "targetProfile": "A/B"
+    "targetProfile": "C/D",
+    "invalidEmail": true,
+    "invalidEmailReason": "lead_sintetico_sem_fonte_publica",
+    "invalidEmailDate": "2026-11-04"
   },
   {
     "name": "Novo Pizzaria Agua Funda Auto 3079",
@@ -62035,7 +62251,10 @@
     "template": "consultivo",
     "email1": false,
     "context": "pizzaria em Agua Funda, São Paulo - reposição automática 30/10",
-    "targetProfile": "A/B"
+    "targetProfile": "C/D",
+    "invalidEmail": true,
+    "invalidEmailReason": "lead_sintetico_sem_fonte_publica",
+    "invalidEmailDate": "2026-11-04"
   },
   {
     "name": "Novo Doceria Butanta Auto 3080",
@@ -62051,7 +62270,10 @@
     "template": "consultivo",
     "email1": false,
     "context": "doceria em Butanta, São Paulo - reposição automática 30/10",
-    "targetProfile": "A/B"
+    "targetProfile": "C/D",
+    "invalidEmail": true,
+    "invalidEmailReason": "lead_sintetico_sem_fonte_publica",
+    "invalidEmailDate": "2026-11-04"
   },
   {
     "name": "Novo Bar Pinheiros Auto 3081",
@@ -62152,7 +62374,10 @@
     "template": "consultivo",
     "email1": false,
     "context": "cafeteria em Alphaville, São Paulo - reposição automática 30/10",
-    "targetProfile": "A/B"
+    "targetProfile": "C/D",
+    "invalidEmail": true,
+    "invalidEmailReason": "lead_sintetico_sem_fonte_publica",
+    "invalidEmailDate": "2026-11-04"
   },
   {
     "name": "Novo Confeitaria Tatuape Auto 3087",
@@ -62168,7 +62393,10 @@
     "template": "consultivo",
     "email1": false,
     "context": "confeitaria em Tatuape, São Paulo - reposição automática 30/10",
-    "targetProfile": "A/B"
+    "targetProfile": "C/D",
+    "invalidEmail": true,
+    "invalidEmailReason": "lead_sintetico_sem_fonte_publica",
+    "invalidEmailDate": "2026-11-04"
   },
   {
     "name": "Novo Hamburgueria Vila Mariana Auto 3088",
@@ -62184,7 +62412,10 @@
     "template": "consultivo",
     "email1": false,
     "context": "hamburgueria em Vila Mariana, São Paulo - reposição automática 30/10",
-    "targetProfile": "A/B"
+    "targetProfile": "C/D",
+    "invalidEmail": true,
+    "invalidEmailReason": "lead_sintetico_sem_fonte_publica",
+    "invalidEmailDate": "2026-11-04"
   },
   {
     "name": "Novo Pizzaria Vila Madalena Auto 3089",
@@ -62200,7 +62431,10 @@
     "template": "consultivo",
     "email1": false,
     "context": "pizzaria em Vila Madalena, São Paulo - reposição automática 30/10",
-    "targetProfile": "A/B"
+    "targetProfile": "C/D",
+    "invalidEmail": true,
+    "invalidEmailReason": "lead_sintetico_sem_fonte_publica",
+    "invalidEmailDate": "2026-11-04"
   },
   {
     "name": "Novo Doceria Jardins Auto 3090",
@@ -62216,7 +62450,10 @@
     "template": "consultivo",
     "email1": false,
     "context": "doceria em Jardins, São Paulo - reposição automática 30/10",
-    "targetProfile": "A/B"
+    "targetProfile": "C/D",
+    "invalidEmail": true,
+    "invalidEmailReason": "lead_sintetico_sem_fonte_publica",
+    "invalidEmailDate": "2026-11-04"
   },
   {
     "name": "Novo Bar Morumbi Auto 3091",
@@ -62317,7 +62554,10 @@
     "template": "consultivo",
     "email1": false,
     "context": "cafeteria em Higienopolis, São Paulo - reposição automática 30/10",
-    "targetProfile": "A/B"
+    "targetProfile": "C/D",
+    "invalidEmail": true,
+    "invalidEmailReason": "lead_sintetico_sem_fonte_publica",
+    "invalidEmailDate": "2026-11-04"
   },
   {
     "name": "Novo Confeitaria Lapa Auto 3097",
@@ -62333,7 +62573,10 @@
     "template": "consultivo",
     "email1": false,
     "context": "confeitaria em Lapa, São Paulo - reposição automática 30/10",
-    "targetProfile": "A/B"
+    "targetProfile": "C/D",
+    "invalidEmail": true,
+    "invalidEmailReason": "lead_sintetico_sem_fonte_publica",
+    "invalidEmailDate": "2026-11-04"
   },
   {
     "name": "Novo Hamburgueria Vila Ema Auto 3098",
@@ -62349,7 +62592,10 @@
     "template": "consultivo",
     "email1": false,
     "context": "hamburgueria em Vila Ema, São Paulo - reposição automática 30/10",
-    "targetProfile": "A/B"
+    "targetProfile": "C/D",
+    "invalidEmail": true,
+    "invalidEmailReason": "lead_sintetico_sem_fonte_publica",
+    "invalidEmailDate": "2026-11-04"
   },
   {
     "name": "Novo Pizzaria Agua Funda Auto 3099",
@@ -62365,7 +62611,10 @@
     "template": "consultivo",
     "email1": false,
     "context": "pizzaria em Agua Funda, São Paulo - reposição automática 30/10",
-    "targetProfile": "A/B"
+    "targetProfile": "C/D",
+    "invalidEmail": true,
+    "invalidEmailReason": "lead_sintetico_sem_fonte_publica",
+    "invalidEmailDate": "2026-11-04"
   },
   {
     "name": "Novo Doceria Butanta Auto 3100",
@@ -62381,6 +62630,9 @@
     "template": "consultivo",
     "email1": false,
     "context": "doceria em Butanta, São Paulo - reposição automática 30/10",
-    "targetProfile": "A/B"
+    "targetProfile": "C/D",
+    "invalidEmail": true,
+    "invalidEmailReason": "lead_sintetico_sem_fonte_publica",
+    "invalidEmailDate": "2026-11-04"
   }
 ]
