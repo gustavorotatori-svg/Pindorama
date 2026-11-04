@@ -59043,9 +59043,10 @@
     "emailVerifiedAt": "2026-10-28",
     "mxVerified": true,
     "template": "consultivo",
-    "email1": false,
+    "email1": true,
     "context": "doceria em Campo Belo, São Paulo - lote novo 28/10",
-    "targetProfile": "A/B"
+    "targetProfile": "A/B",
+    "date1": "2026-11-04"
   },
   {
     "name": "Novo Bar Pinheiros Lote3 2001",
@@ -59161,9 +59162,10 @@
     "emailVerifiedAt": "2026-10-28",
     "mxVerified": true,
     "template": "consultivo",
-    "email1": false,
+    "email1": true,
     "context": "confeitaria em Tatuapé, São Paulo - lote novo 28/10",
-    "targetProfile": "A/B"
+    "targetProfile": "A/B",
+    "date1": "2026-11-04"
   },
   {
     "name": "Novo Hamburgueria Vila Mariana Lote3 2008",
@@ -59177,9 +59179,10 @@
     "emailVerifiedAt": "2026-10-28",
     "mxVerified": true,
     "template": "consultivo",
-    "email1": false,
+    "email1": true,
     "context": "hamburgueria em Vila Mariana, São Paulo - lote novo 28/10",
-    "targetProfile": "A/B"
+    "targetProfile": "A/B",
+    "date1": "2026-11-04"
   },
   {
     "name": "Novo Pizzaria Vila Madalena Lote3 2009",
@@ -59193,9 +59196,10 @@
     "emailVerifiedAt": "2026-10-28",
     "mxVerified": true,
     "template": "consultivo",
-    "email1": false,
+    "email1": true,
     "context": "pizzaria em Vila Madalena, São Paulo - lote novo 28/10",
-    "targetProfile": "A/B"
+    "targetProfile": "A/B",
+    "date1": "2026-11-04"
   },
   {
     "name": "Novo Doceria Jardins Lote3 2010",
@@ -59209,9 +59213,10 @@
     "emailVerifiedAt": "2026-10-28",
     "mxVerified": true,
     "template": "consultivo",
-    "email1": false,
+    "email1": true,
     "context": "doceria em Jardins, São Paulo - lote novo 28/10",
-    "targetProfile": "A/B"
+    "targetProfile": "A/B",
+    "date1": "2026-11-04"
   },
   {
     "name": "Novo Bar Morumbi Lote3 2011",
@@ -59310,9 +59315,10 @@
     "emailVerifiedAt": "2026-10-28",
     "mxVerified": true,
     "template": "consultivo",
-    "email1": false,
+    "email1": true,
     "context": "cafeteria em Higienópolis, São Paulo - lote novo 28/10",
-    "targetProfile": "A/B"
+    "targetProfile": "A/B",
+    "date1": "2026-11-04"
   },
   {
     "name": "Novo Confeitaria Pinheiros Lote3 2017",
@@ -59326,9 +59332,10 @@
     "emailVerifiedAt": "2026-10-28",
     "mxVerified": true,
     "template": "consultivo",
-    "email1": false,
+    "email1": true,
     "context": "confeitaria em Pinheiros, São Paulo - lote novo 28/10",
-    "targetProfile": "A/B"
+    "targetProfile": "A/B",
+    "date1": "2026-11-04"
   },
   {
     "name": "Novo Hamburgueria Moema Lote3 2018",
@@ -59342,9 +59349,10 @@
     "emailVerifiedAt": "2026-10-28",
     "mxVerified": true,
     "template": "consultivo",
-    "email1": false,
+    "email1": true,
     "context": "hamburgueria em Moema, São Paulo - lote novo 28/10",
-    "targetProfile": "A/B"
+    "targetProfile": "A/B",
+    "date1": "2026-11-04"
   },
   {
     "name": "Novo Pizzaria Itaim Bibi Lote3 2019",
@@ -59358,9 +59366,10 @@
     "emailVerifiedAt": "2026-10-28",
     "mxVerified": true,
     "template": "consultivo",
-    "email1": false,
+    "email1": true,
     "context": "pizzaria em Itaim Bibi, São Paulo - lote novo 28/10",
-    "targetProfile": "A/B"
+    "targetProfile": "A/B",
+    "date1": "2026-11-04"
   },
   {
     "name": "Novo Doceria Campo Belo Lote3 2020",
@@ -59374,9 +59383,10 @@
     "emailVerifiedAt": "2026-10-28",
     "mxVerified": true,
     "template": "consultivo",
-    "email1": false,
+    "email1": true,
     "context": "doceria em Campo Belo, São Paulo - lote novo 28/10",
-    "targetProfile": "A/B"
+    "targetProfile": "A/B",
+    "date1": "2026-11-04"
   },
   {
     "name": "Novo Bar Vila Olímpia Lote3 2021",
@@ -59475,9 +59485,10 @@
     "emailVerifiedAt": "2026-10-28",
     "mxVerified": true,
     "template": "consultivo",
-    "email1": false,
+    "email1": true,
     "context": "cafeteria em Jardins, São Paulo - lote novo 28/10",
-    "targetProfile": "A/B"
+    "targetProfile": "A/B",
+    "date1": "2026-11-04"
   },
   {
     "name": "Novo Confeitaria Morumbi Lote3 2027",
@@ -59491,9 +59502,10 @@
     "emailVerifiedAt": "2026-10-28",
     "mxVerified": true,
     "template": "consultivo",
-    "email1": false,
+    "email1": true,
     "context": "confeitaria em Morumbi, São Paulo - lote novo 28/10",
-    "targetProfile": "A/B"
+    "targetProfile": "A/B",
+    "date1": "2026-11-04"
   },
   {
     "name": "Novo Hamburgueria Perdizes Lote3 2028",
@@ -59507,9 +59519,10 @@
     "emailVerifiedAt": "2026-10-28",
     "mxVerified": true,
     "template": "consultivo",
-    "email1": false,
+    "email1": true,
     "context": "hamburgueria em Perdizes, São Paulo - lote novo 28/10",
-    "targetProfile": "A/B"
+    "targetProfile": "A/B",
+    "date1": "2026-11-04"
   },
   {
     "name": "Novo Pizzaria Consolação Lote3 2029",
@@ -59523,9 +59536,10 @@
     "emailVerifiedAt": "2026-10-28",
     "mxVerified": true,
     "template": "consultivo",
-    "email1": false,
+    "email1": true,
     "context": "pizzaria em Consolação, São Paulo - lote novo 28/10",
-    "targetProfile": "A/B"
+    "targetProfile": "A/B",
+    "date1": "2026-11-04"
   },
   {
     "name": "Novo Doceria Jardim Paulista Lote3 2030",
@@ -59539,9 +59553,10 @@
     "emailVerifiedAt": "2026-10-28",
     "mxVerified": true,
     "template": "consultivo",
-    "email1": false,
+    "email1": true,
     "context": "doceria em Jardim Paulista, São Paulo - lote novo 28/10",
-    "targetProfile": "A/B"
+    "targetProfile": "A/B",
+    "date1": "2026-11-04"
   },
   {
     "name": "Novo Bar Brooklin Lote3 2031",
@@ -59640,9 +59655,10 @@
     "emailVerifiedAt": "2026-10-28",
     "mxVerified": true,
     "template": "consultivo",
-    "email1": false,
+    "email1": true,
     "context": "cafeteria em Campo Belo, São Paulo - lote novo 28/10",
-    "targetProfile": "A/B"
+    "targetProfile": "A/B",
+    "date1": "2026-11-04"
   },
   {
     "name": "Novo Confeitaria Vila Olímpia Lote3 2037",
