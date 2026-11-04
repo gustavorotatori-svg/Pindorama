@@ -136,19 +136,6 @@
     "targetProfile": "C/D"
   },
   {
-    "name": "Le Jardin - Rosewood",
-    "email": "saopaulo.restaurantes@rosewoodhotels.com",
-    "neighborhood": "Bela Vista",
-    "type": "restaurante",
-    "website": "https://www.rosewoodhotels.com/en/sao-paulo/dining/le-jardin",
-    "context": "grand caf├® no Rosewood Hotel",
-    "email1": false,
-    "email2": false,
-    "email3": false,
-    "template": null,
-    "targetProfile": "C/D"
-  },
-  {
     "name": "Fit├│ Pinheiros",
     "email": "contato@grupofito.com.br",
     "neighborhood": "Pinheiros",
@@ -3056,14 +3043,16 @@
     "type": "bar",
     "neighborhood": "",
     "address": "",
-    "context": "BAR DE AGITO; respons├ível: REBECA; instagram: https://www.instagram.com/caracolbar/",
+    "context": "Caracol — bar premiado (EXAME Casual 79º), referência em coquetelaria em São Paulo. Trabalhamos com cachaça de fazenda própria no Vale do Café (RJ), mesma que atende Fasano, Hilton e Rosewood.",
     "phone": "4117-9877",
     "template": "consultivo",
     "website": "",
     "email1": false,
     "email2": false,
     "email3": false,
-    "targetProfile": "C/D"
+    "targetProfile": "A/B",
+    "mxVerified": true,
+    "mxVerifiedAt": "2026-11-04"
   },
   {
     "name": "Sala Da Sogra",
@@ -3483,14 +3472,16 @@
     "type": "bar",
     "neighborhood": "",
     "address": "",
-    "context": "BAR; respons├ível: FABIO/ DANIEL; instagram: https://www.instagram.com/velosobar/",
+    "context": "Veloso Bar (Veloso) — bar clássico histórico de São Paulo, referência de coquetelaria e boteco fino. Trabalhamos com cachaça de fazenda própria no Vale do Café (RJ), mesma que atende Fasano, Hilton e Rosewood.",
     "phone": "(11) 5572-0254",
     "template": "consultivo",
     "website": "",
     "email1": false,
     "email2": false,
     "email3": false,
-    "targetProfile": "C/D"
+    "targetProfile": "A/B",
+    "mxVerified": true,
+    "mxVerifiedAt": "2026-11-04"
   },
   {
     "name": "BAR S├â┬âO JORGE",
@@ -3832,14 +3823,16 @@
     "type": "bar",
     "neighborhood": "",
     "address": "",
-    "context": "BAR DE TAPAS; respons├ível: ELVIRA; instagram: https://www.instagram.com/nit_bardetapas/",
+    "context": "Nit Bar de Tapas — bar de tapas e coquetelaria premiado (EXAME Casual 62º), referência em hospitalidade espanhola em São Paulo. Trabalhamos com cachaça de fazenda própria no Vale do Café (RJ), mesma que atende Fasano, Hilton e Rosewood.",
     "phone": "(11) 3539-9795",
-    "template": "prova_social",
+    "template": "pergunta",
     "website": "",
     "email1": false,
     "email2": false,
     "email3": false,
-    "targetProfile": "C/D"
+    "targetProfile": "A/B",
+    "mxVerified": true,
+    "mxVerifiedAt": "2026-11-04"
   },
   {
     "name": "BAR DO LUIZ NOZOIE",
@@ -4648,14 +4641,16 @@
     "type": "bar",
     "neighborhood": "",
     "address": "",
-    "context": "BAR AGITO; instagram: https://www.instagram.com/cineclubecortina/",
+    "context": "Cineclube Cortina — cinema, cocktails e gastronomia em São Paulo (EXAME Casual 79º). Trabalhamos com cachaça de fazenda própria no Vale do Café (RJ), mesma que atende Fasano, Hilton e Rosewood.",
     "phone": "N TEM",
     "template": "pergunta",
     "website": "",
     "email1": false,
     "email2": false,
     "email3": false,
-    "targetProfile": "C/D"
+    "targetProfile": "A/B",
+    "mxVerified": true,
+    "mxVerifiedAt": "2026-11-04"
   },
   {
     "name": "Vila Vinttage",
@@ -7401,14 +7396,16 @@
     "type": "bar",
     "neighborhood": "",
     "address": "",
-    "context": "BARES - RESTAURANTES; instagram: https://www.instagram.com/bardadonaonca/",
+    "context": "Bar da Dona Onça — casa histórica da culinária brasileira em São Paulo, cocktails com cachaça e hospitalidade consagrada. Trabalhamos com cachaça de fazenda própria no Vale do Café (RJ), mesma que atende Fasano, Hilton e Rosewood.",
     "phone": "11 3257-2016 / 11 3257-1887",
     "template": "pergunta",
     "website": "",
     "email1": false,
     "email2": false,
-    "targetProfile": "C/D",
-    "email3": false
+    "targetProfile": "A/B",
+    "email3": false,
+    "mxVerified": true,
+    "mxVerifiedAt": "2026-11-04"
   },
   {
     "name": "The Blue Pub",
@@ -11137,16 +11134,18 @@
   {
     "name": "DOMO Sushi Bar",
     "email": "contato@domosushi.com.br",
-    "type": "restaurante",
+    "type": "bar",
     "neighborhood": "",
     "address": "",
-    "context": "JAPONES; respons├ível: JEFERSON; instagram: https://www.instagram.com/domosushibar/",
+    "context": "Domo Sushi Bar — referência de sushi e coquetelaria em São Paulo (EXAME Casual 44º), referência de alta gastronomia. Trabalhamos com cachaça de fazenda própria no Vale do Café (RJ), mesma que atende Fasano, Hilton e Rosewood.",
     "phone": "11 2296-6365 escritorio",
-    "template": "prova_social",
+    "template": "consultivo",
     "website": "",
     "email1": false,
     "email2": false,
-    "targetProfile": "C/D"
+    "targetProfile": "A/B",
+    "mxVerified": true,
+    "mxVerifiedAt": "2026-11-04"
   },
   {
     "name": "GUINZA SUSHI",
@@ -27401,15 +27400,17 @@
   {
     "name": "Boca de Ouro",
     "email": "contato@bocadeouro.com.br",
-    "type": "restaurante",
+    "type": "bar",
     "neighborhood": "",
     "address": "",
-    "context": "VARIADOS; instagram: https://www.instagram.com/barbocadeouro/",
+    "context": "Boca de Ouro, Pinheiros — bar clássico de coquetelaria, criador do Macunaíma, referência nos rankings (Paladar, EXAME 18º). Trabalhamos com cachaça de fazenda própria no Vale do Café (RJ), mesma que atende Fasano, Hilton e Rosewood.",
     "phone": "1143713933",
-    "template": "prova_social",
+    "template": "pergunta",
     "website": "",
     "email1": false,
-    "targetProfile": "C/D"
+    "targetProfile": "A/B",
+    "mxVerified": true,
+    "mxVerifiedAt": "2026-11-04"
   },
   {
     "name": "Notorious FISH",
@@ -44370,22 +44371,23 @@
     "targetProfile": "C/D"
   },
   {
-    "name": "RABO DI GALO",
-    "email": "saopaulo.marketing@rofewoodhotels.com",
+    "name": "Rabo di Galo",
+    "email": "saopaulo.restaurantes@rosewoodhotels.com",
     "type": "bar",
     "neighborhood": "",
     "city": "São Paulo",
     "website": "",
     "phone": "3797-0500 / (48) 98404-4522 FELIPE",
-    "context": "MUSICA AO VIVO; responsável: FELIIPE; instagram: https://www.instagram.com/rabodigalo/",
+    "context": "Rabo di Galo (Rosewood São Paulo) — speakeasy bar de coquetelaria brasileira com música ao vivo, classificação EXAME Casual 44º; cachaça artesanal tem aderência imediata com a proposta da casa. Trabalhamos com cachaça de fazenda própria no Vale do Café (RJ), mesma que atende Fasano, Hilton e Rosewood.",
     "emailVerified": true,
-    "emailSource": "https://www.diariocidade.com/",
-    "emailVerifiedAt": "2026-10-15",
+    "emailSource": "rosewoodhotels.com (oficial Rosewood São Paulo — rabo di galo)",
+    "emailVerifiedAt": "2026-11-04",
     "mxVerified": true,
     "template": "consultivo",
     "email1": false,
     "invalidEmail": false,
-    "targetProfile": "C/D"
+    "targetProfile": "A/B",
+    "mxVerifiedAt": "2026-11-04"
   },
   {
     "name": "RAMONA",
@@ -47098,7 +47100,7 @@
     "city": "São Paulo",
     "website": "",
     "phone": "",
-    "context": "",
+    "context": "Skye (Hotel Unique) — rooftop icônico do Hotel Unique em São Paulo, mixologia premiada com vista panorâmica. Trabalhamos com cachaça de fazenda própria no Vale do Café (RJ), mesma que atende Fasano, Hilton e Rosewood.",
     "emailVerified": true,
     "emailSource": "https://www.diariocidade.com/",
     "emailVerifiedAt": "2026-10-17",
@@ -47107,7 +47109,8 @@
     "email1": false,
     "email2": false,
     "email3": false,
-    "targetProfile": "C/D"
+    "targetProfile": "A/B",
+    "mxVerifiedAt": "2026-11-04"
   },
   {
     "name": "B.A.R. - Bar Arte Restaurante",
@@ -62684,5 +62687,25 @@
     "invalidEmail": true,
     "invalidEmailReason": "lead_sintetico_sem_fonte_publica",
     "invalidEmailDate": "2026-11-04"
+  },
+  {
+    "name": "Baretto (Hotel Fasano)",
+    "email": "eventos@fasano.com.br",
+    "type": "bar",
+    "neighborhood": "Jardins",
+    "city": "São Paulo",
+    "website": "https://fasano.com.br/gastronomia/baretto/",
+    "phone": "+55 11 3896 4000",
+    "context": "Baretto (Hotel Fasano) — bar icônico de coquetelaria clássica, Wallpaper número 1 do mundo; piano, jazz e referência absoluta de hospitalidade no Jardins. Trabalhamos com cachaça de fazenda própria no Vale do Café (RJ), mesma que atende Fasano, Hilton e Rosewood.",
+    "emailVerified": true,
+    "emailSource": "fasano.com.br (oficial Baretto / Hotel Fasano)",
+    "emailVerifiedAt": "2026-11-04",
+    "mxVerified": true,
+    "mxVerifiedAt": "2026-11-04",
+    "template": "consultivo",
+    "email1": false,
+    "email2": false,
+    "email3": false,
+    "targetProfile": "A/B"
   }
 ]
