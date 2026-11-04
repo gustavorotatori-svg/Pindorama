@@ -1,5 +1,5 @@
 {
-  "lastUpdate": "2026-11-04T14:19:36.204Z",
+  "lastUpdate": "2026-11-04T23:31:02.104Z",
   "totalLeads": 4000,
   "allLeads": [
     {
@@ -94,15 +94,6 @@
       "type": "hotel",
       "neighborhood": "Vila Ol├¡mpia",
       "email": "reservas@theworld.com.br",
-      "email1": false,
-      "email2": false,
-      "email3": false
-    },
-    {
-      "name": "Le Jardin - Rosewood",
-      "type": "restaurante",
-      "neighborhood": "Bela Vista",
-      "email": "saopaulo.restaurantes@rosewoodhotels.com",
       "email1": false,
       "email2": false,
       "email3": false
@@ -6660,7 +6651,7 @@
     },
     {
       "name": "DOMO Sushi Bar",
-      "type": "restaurante",
+      "type": "bar",
       "neighborhood": "",
       "email": "contato@domosushi.com.br",
       "email1": false,
@@ -10559,7 +10550,7 @@
     },
     {
       "name": "Kotori",
-      "type": "restaurante",
+      "type": "bar",
       "neighborhood": "",
       "email": "contato@tantan.com.br",
       "email1": false
@@ -11064,7 +11055,7 @@
     },
     {
       "name": "PICCO",
-      "type": "restaurante",
+      "type": "bar",
       "neighborhood": "",
       "email": "contato@opicco.com.br",
       "email1": false
@@ -15550,7 +15541,7 @@
     },
     {
       "name": "Boca de Ouro",
-      "type": "restaurante",
+      "type": "bar",
       "neighborhood": "",
       "email": "contato@bocadeouro.com.br",
       "email1": false
@@ -16481,7 +16472,7 @@
     },
     {
       "name": "THE LIQUOR STORE",
-      "type": "restaurante",
+      "type": "bar",
       "neighborhood": "",
       "email": "bianca@sibaris.com.br",
       "email1": false
@@ -24770,11 +24761,11 @@
       "email1": false
     },
     {
-      "name": "RABO DI GALO",
+      "name": "Rabo di Galo",
       "type": "bar",
       "neighborhood": "",
       "city": "São Paulo",
-      "email": "saopaulo.marketing@rofewoodhotels.com",
+      "email": "saopaulo.restaurantes@rosewoodhotels.com",
       "emailVerified": true,
       "invalidEmail": false,
       "email1": false
@@ -34390,6 +34381,17 @@
       "emailVerified": true,
       "invalidEmail": true,
       "email1": false
+    },
+    {
+      "name": "Baretto (Hotel Fasano)",
+      "type": "bar",
+      "neighborhood": "Jardins",
+      "city": "São Paulo",
+      "email": "eventos@fasano.com.br",
+      "emailVerified": true,
+      "email1": false,
+      "email2": false,
+      "email3": false
     }
   ],
   "emails": {
@@ -34403,7 +34405,7 @@
     "total": 262
   },
   "responses": 5,
-  "pending": 1057,
+  "pending": 1058,
   "daily": [
     {
       "date": "2026-10-22",
@@ -34489,7 +34491,7 @@
     },
     {
       "name": "Jardins",
-      "count": 19
+      "count": 20
     },
     {
       "name": "Itaim Bibi",
@@ -34513,6 +34515,20 @@
     }
   ],
   "recentLeads": [
+    {
+      "name": "Rabo di Galo",
+      "type": "bar",
+      "neighborhood": "",
+      "city": "São Paulo",
+      "email1": false
+    },
+    {
+      "name": "Baretto (Hotel Fasano)",
+      "type": "bar",
+      "neighborhood": "Jardins",
+      "city": "São Paulo",
+      "email1": false
+    },
     {
       "name": "Novo Bar Pinheiros Auto 3001",
       "type": "bar",
@@ -34551,16 +34567,6 @@
     {
       "name": "Novo Hamburgueria Vila Mariana Auto 3008",
       "type": "hamburgueria",
-      "email1": false
-    },
-    {
-      "name": "Novo Pizzaria Vila Madalena Auto 3009",
-      "type": "pizzaria",
-      "email1": false
-    },
-    {
-      "name": "Novo Doceria Jardins Auto 3010",
-      "type": "doceria",
       "email1": false
     }
   ],
@@ -34604,13 +34610,13 @@
   "segments": [
     {
       "name": "restaurante",
-      "total": 2142,
+      "total": 2136,
       "email1": 79,
       "responded": 0
     },
     {
       "name": "bar",
-      "total": 583,
+      "total": 589,
       "email1": 103,
       "responded": 0
     },
