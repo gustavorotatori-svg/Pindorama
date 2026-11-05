@@ -1,6 +1,6 @@
 {
-  "lastUpdate": "2026-11-05T06:21:45.084Z",
-  "totalLeads": 4000,
+  "lastUpdate": "2026-11-05T19:49:33.228Z",
+  "totalLeads": 4001,
   "allLeads": [
     {
       "name": "Bar do Nerso",
@@ -1914,7 +1914,8 @@
       "type": "bar",
       "neighborhood": "",
       "email": "adm@caracolbar.com",
-      "email1": false,
+      "email1": true,
+      "date1": "2026-11-05",
       "email2": false,
       "email3": false
     },
@@ -1986,7 +1987,8 @@
       "type": "bar",
       "neighborhood": "",
       "email": "contato@koya88.com",
-      "email1": false,
+      "email1": true,
+      "date1": "2026-11-05",
       "email2": false,
       "email3": false
     },
@@ -2166,7 +2168,8 @@
       "type": "bar",
       "neighborhood": "",
       "email": "contato@velosobar.com.br",
-      "email1": false,
+      "email1": true,
+      "date1": "2026-11-05",
       "email2": false,
       "email3": false
     },
@@ -2373,7 +2376,8 @@
       "type": "bar",
       "neighborhood": "",
       "email": "adm@restaurantetanit.com.br",
-      "email1": false,
+      "email1": true,
+      "date1": "2026-11-05",
       "email2": false,
       "email3": false
     },
@@ -2697,7 +2701,8 @@
       "type": "bar",
       "neighborhood": "São Paulo",
       "email": "marketing@3tbrasil.com.br",
-      "email1": false,
+      "email1": true,
+      "date1": "2026-11-05",
       "email2": false,
       "email3": false
     },
@@ -2859,7 +2864,8 @@
       "type": "bar",
       "neighborhood": "",
       "email": "corporativo@cineclubecortina.com.br",
-      "email1": false,
+      "email1": true,
+      "date1": "2026-11-05",
       "email2": false,
       "email3": false
     },
@@ -3003,7 +3009,8 @@
       "type": "bar",
       "neighborhood": "",
       "email": "astor@ciatc.com.br",
-      "email1": false,
+      "email1": true,
+      "date1": "2026-11-05",
       "email2": false,
       "email3": false
     },
@@ -3804,7 +3811,9 @@
       "type": "bar",
       "neighborhood": "",
       "email": "info@casadefrancisca.art.br",
-      "email1": false,
+      "emailVerified": true,
+      "email1": true,
+      "date1": "2026-11-05",
       "email2": false,
       "email3": false
     },
@@ -4371,7 +4380,8 @@
       "type": "bar",
       "neighborhood": "",
       "email": "claudia@fabricadebares.com.br",
-      "email1": false,
+      "email1": true,
+      "date1": "2026-11-05",
       "email2": false,
       "email3": false
     },
@@ -4425,7 +4435,8 @@
       "type": "bar",
       "neighborhood": "",
       "email": "contato@guilhotinabar.com.br",
-      "email1": false,
+      "email1": true,
+      "date1": "2026-11-05",
       "email2": false,
       "email3": false
     },
@@ -4461,7 +4472,8 @@
       "type": "bar",
       "neighborhood": "",
       "email": "comunicacao@bardadonaonca.com.br",
-      "email1": false,
+      "email1": true,
+      "date1": "2026-11-05",
       "email2": false,
       "email3": false
     },
@@ -6654,7 +6666,8 @@
       "type": "bar",
       "neighborhood": "",
       "email": "contato@domosushi.com.br",
-      "email1": false,
+      "email1": true,
+      "date1": "2026-11-05",
       "email2": false
     },
     {
@@ -10553,7 +10566,8 @@
       "type": "bar",
       "neighborhood": "",
       "email": "contato@tantan.com.br",
-      "email1": false
+      "email1": true,
+      "date1": "2026-11-05"
     },
     {
       "name": "Trato Burger",
@@ -11058,7 +11072,8 @@
       "type": "bar",
       "neighborhood": "",
       "email": "contato@opicco.com.br",
-      "email1": false
+      "email1": true,
+      "date1": "2026-11-05"
     },
     {
       "name": "JUNJI SAKAMOTO",
@@ -15544,7 +15559,8 @@
       "type": "bar",
       "neighborhood": "",
       "email": "contato@bocadeouro.com.br",
-      "email1": false
+      "email1": true,
+      "date1": "2026-11-05"
     },
     {
       "name": "Notorious FISH",
@@ -16475,7 +16491,8 @@
       "type": "bar",
       "neighborhood": "",
       "email": "bianca@sibaris.com.br",
-      "email1": false
+      "email1": true,
+      "date1": "2026-11-05"
     },
     {
       "name": "Dom Galetos Grill",
@@ -18104,7 +18121,8 @@
       "neighborhood": "São Paulo",
       "email": "contato@vistasaopaulo.com.br",
       "emailVerified": true,
-      "email1": false,
+      "email1": true,
+      "date1": "2026-11-05",
       "email2": false,
       "email3": false
     },
@@ -18124,7 +18142,8 @@
       "neighborhood": "São Paulo",
       "email": "contato@jiquitaia.com.br",
       "emailVerified": true,
-      "email1": false,
+      "email1": true,
+      "date1": "2026-11-05",
       "email2": false,
       "email3": false
     },
@@ -18144,7 +18163,8 @@
       "neighborhood": "São Paulo",
       "email": "jorge@quincho.com.br",
       "emailVerified": true,
-      "email1": false,
+      "email1": true,
+      "date1": "2026-11-05",
       "email2": false,
       "email3": false
     },
@@ -18429,7 +18449,8 @@
       "city": "S├úo Paulo",
       "email": "comercial@fancybar.com.br",
       "emailVerified": true,
-      "email1": false,
+      "email1": true,
+      "date1": "2026-11-05",
       "email2": false,
       "email3": false
     },
@@ -18464,7 +18485,8 @@
       "city": "S├úo Paulo",
       "email": "contato@pepperdrinks.com.br",
       "emailVerified": true,
-      "email1": false,
+      "email1": true,
+      "date1": "2026-11-05",
       "email2": false,
       "email3": false
     },
@@ -18475,7 +18497,8 @@
       "city": "S├úo Paulo",
       "email": "contato@gaspar.sampa.br",
       "emailVerified": true,
-      "email1": false,
+      "email1": true,
+      "date1": "2026-11-05",
       "email2": false,
       "email3": false
     },
@@ -18623,7 +18646,8 @@
       "city": "S├úo Paulo",
       "email": "comercial4@wixbartenders.com.br",
       "emailVerified": true,
-      "email1": false,
+      "email1": true,
+      "date1": "2026-11-05",
       "email2": false,
       "email3": false
     },
@@ -18634,7 +18658,8 @@
       "city": "S├úo Paulo",
       "email": "contato@703coquetelaria.com.br",
       "emailVerified": true,
-      "email1": false,
+      "email1": true,
+      "date1": "2026-11-05",
       "email2": false,
       "email3": false
     },
@@ -18645,7 +18670,8 @@
       "city": "S├úo Paulo",
       "email": "contato@artevieira.com",
       "emailVerified": true,
-      "email1": false,
+      "email1": true,
+      "date1": "2026-11-05",
       "email2": false,
       "email3": false
     },
@@ -18761,7 +18787,8 @@
       "neighborhood": "Sao Paulo",
       "email": "atendimento@elodrinks.com.br",
       "emailVerified": true,
-      "email1": false,
+      "email1": true,
+      "date1": "2026-11-05",
       "email2": false,
       "email3": false
     },
@@ -18771,7 +18798,8 @@
       "neighborhood": "Vila Sabrina",
       "email": "contato@drinkbartenders.com.br",
       "emailVerified": true,
-      "email1": false,
+      "email1": true,
+      "date1": "2026-11-05",
       "email2": false,
       "email3": false
     },
@@ -18781,7 +18809,8 @@
       "neighborhood": "Sao Paulo",
       "email": "contato@brazenbar.com.br",
       "emailVerified": true,
-      "email1": false,
+      "email1": true,
+      "date1": "2026-11-05",
       "email2": false,
       "email3": false
     },
@@ -18844,7 +18873,8 @@
       "neighborhood": "Sao Paulo",
       "email": "contato@casaoliver.com.br",
       "emailVerified": true,
-      "email1": false,
+      "email1": true,
+      "date1": "2026-11-05",
       "email2": false,
       "email3": false
     },
@@ -18936,7 +18966,8 @@
       "neighborhood": "Paraiso",
       "email": "atendimento@dcecoquetelaria.com.br",
       "emailVerified": true,
-      "email1": false,
+      "email1": true,
+      "date1": "2026-11-05",
       "email2": false,
       "email3": false
     },
@@ -18956,7 +18987,8 @@
       "neighborhood": "Vila Nova Conceicao",
       "email": "eventos@skyhall.com.br",
       "emailVerified": true,
-      "email1": false,
+      "email1": true,
+      "date1": "2026-11-05",
       "email2": false,
       "email3": false
     },
@@ -18966,7 +18998,8 @@
       "neighborhood": "Sao Paulo",
       "email": "contato@doublebar.com.br",
       "emailVerified": true,
-      "email1": false,
+      "email1": true,
+      "date1": "2026-11-05",
       "email2": false,
       "email3": false
     },
@@ -18976,7 +19009,8 @@
       "neighborhood": "Sao Paulo",
       "email": "contato@ballibartenders.com.br",
       "emailVerified": true,
-      "email1": false,
+      "email1": true,
+      "date1": "2026-11-05",
       "email2": false,
       "email3": false
     },
@@ -19028,7 +19062,8 @@
       "neighborhood": "Grande Sao Paulo",
       "email": "eventos@onebartender.com.br",
       "emailVerified": true,
-      "email1": false,
+      "email1": true,
+      "date1": "2026-11-05",
       "email2": false,
       "email3": false
     },
@@ -19038,7 +19073,8 @@
       "neighborhood": "Jardim Barbosa",
       "email": "1966pub@1966pub.com.br",
       "emailVerified": true,
-      "email1": false,
+      "email1": true,
+      "date1": "2026-11-05",
       "email2": false,
       "email3": false
     },
@@ -19058,7 +19094,8 @@
       "neighborhood": "Centro Historico",
       "email": "comercial@urbanacoquetelaria.com.br",
       "emailVerified": true,
-      "email1": false,
+      "email1": true,
+      "date1": "2026-11-05",
       "email2": false,
       "email3": false
     },
@@ -19149,7 +19186,8 @@
       "neighborhood": "Sao Paulo",
       "email": "bar@bar2go.com.br",
       "emailVerified": true,
-      "email1": false,
+      "email1": true,
+      "date1": "2026-11-05",
       "email2": false,
       "email3": false
     },
@@ -19191,7 +19229,8 @@
       "neighborhood": "Vila Sonia",
       "email": "contato@lifedrinkseventos.com.br",
       "emailVerified": true,
-      "email1": false,
+      "email1": true,
+      "date1": "2026-11-05",
       "email2": false,
       "email3": false
     },
@@ -19201,7 +19240,8 @@
       "neighborhood": "Grande Sao Paulo",
       "email": "contato@fashionbartenders.com.br",
       "emailVerified": true,
-      "email1": false,
+      "email1": true,
+      "date1": "2026-11-05",
       "email2": false,
       "email3": false
     },
@@ -19231,7 +19271,8 @@
       "neighborhood": "Vila Sao Paulo",
       "email": "contato@barmanparafestas.com.br",
       "emailVerified": true,
-      "email1": false,
+      "email1": true,
+      "date1": "2026-11-05",
       "email2": false,
       "email3": false
     },
@@ -19294,7 +19335,8 @@
       "neighborhood": "Jardim",
       "email": "contato@vedebar.com.br",
       "emailVerified": true,
-      "email1": false,
+      "email1": true,
+      "date1": "2026-11-05",
       "email2": false,
       "email3": false
     },
@@ -24768,7 +24810,8 @@
       "email": "saopaulo.restaurantes@rosewoodhotels.com",
       "emailVerified": true,
       "invalidEmail": false,
-      "email1": false
+      "email1": true,
+      "date1": "2026-11-05"
     },
     {
       "name": "RAMONA",
@@ -25941,10 +25984,11 @@
       "type": "bar",
       "neighborhood": "",
       "city": "São Paulo",
-      "email": "drosophyla@drosophyla.com",
+      "email": "drosophyla@drosophyla.com.br",
       "emailVerified": true,
       "invalidEmail": false,
-      "email1": false
+      "email1": true,
+      "date1": "2026-11-05"
     },
     {
       "name": "TRABUCA",
@@ -26265,7 +26309,8 @@
       "city": "São Paulo",
       "email": "contato@thebar.br",
       "emailVerified": true,
-      "email1": false,
+      "email1": true,
+      "date1": "2026-11-05",
       "email2": false,
       "email3": false
     },
@@ -26309,7 +26354,8 @@
       "city": "São Paulo",
       "email": "skye@hotelunique.com",
       "emailVerified": true,
-      "email1": false,
+      "email1": true,
+      "date1": "2026-11-05",
       "email2": false,
       "email3": false
     },
@@ -34389,23 +34435,36 @@
       "city": "São Paulo",
       "email": "eventos@fasano.com.br",
       "emailVerified": true,
-      "email1": false,
+      "email1": true,
+      "date1": "2026-11-05",
+      "email2": false,
+      "email3": false
+    },
+    {
+      "name": "Barouche",
+      "type": "bar",
+      "neighborhood": "Jardim das Bandeiras",
+      "city": "São Paulo",
+      "email": "contato@barouche.com.br",
+      "emailVerified": true,
+      "email1": true,
+      "date1": "2026-11-05",
       "email2": false,
       "email3": false
     }
   ],
   "emails": {
-    "email1": 505,
+    "email1": 552,
     "email2": 1,
     "email3": 0,
-    "total": 506
+    "total": 553
   },
   "whatsapp": {
     "today": 0,
     "total": 262
   },
   "responses": 5,
-  "pending": 1058,
+  "pending": 1028,
   "daily": [
     {
       "date": "2026-10-23",
@@ -34461,7 +34520,7 @@
     },
     {
       "date": "2026-11-05",
-      "count": 0
+      "count": 47
     }
   ],
   "topNeighborhoods": [
@@ -34516,18 +34575,44 @@
   ],
   "recentLeads": [
     {
+      "name": "Casa de Francisca",
+      "type": "bar",
+      "neighborhood": "",
+      "email1": true
+    },
+    {
+      "name": "Vedê Coquetelaria & Arte",
+      "type": "bar",
+      "neighborhood": "Jardim",
+      "email1": true
+    },
+    {
+      "name": "Drosophyla",
+      "type": "bar",
+      "neighborhood": "",
+      "city": "São Paulo",
+      "email1": true
+    },
+    {
+      "name": "Barouche",
+      "type": "bar",
+      "neighborhood": "Jardim das Bandeiras",
+      "city": "São Paulo",
+      "email1": true
+    },
+    {
       "name": "Rabo di Galo",
       "type": "bar",
       "neighborhood": "",
       "city": "São Paulo",
-      "email1": false
+      "email1": true
     },
     {
       "name": "Baretto (Hotel Fasano)",
       "type": "bar",
       "neighborhood": "Jardins",
       "city": "São Paulo",
-      "email1": false
+      "email1": true
     },
     {
       "name": "Novo Bar Pinheiros Auto 3001",
@@ -34548,62 +34633,42 @@
       "name": "Novo Balada Campo Belo Auto 3004",
       "type": "balada",
       "email1": true
-    },
-    {
-      "name": "Novo Distribuidora Vila Olimpia Auto 3005",
-      "type": "distribuidora",
-      "email1": true
-    },
-    {
-      "name": "Novo Cafeteria Alphaville Auto 3006",
-      "type": "cafeteria",
-      "email1": false
-    },
-    {
-      "name": "Novo Confeitaria Tatuape Auto 3007",
-      "type": "confeitaria",
-      "email1": false
-    },
-    {
-      "name": "Novo Hamburgueria Vila Mariana Auto 3008",
-      "type": "hamburgueria",
-      "email1": false
     }
   ],
   "funnel": {
-    "leads": 4000,
-    "email1": 505,
+    "leads": 4001,
+    "email1": 552,
     "email2": 1,
     "email3": 0,
     "responded": 5
   },
   "week": {
-    "leads": 500,
+    "leads": 547,
     "emails": {
-      "email1": 500,
+      "email1": 547,
       "email2": 0,
       "email3": 0,
-      "total": 500
+      "total": 547
     },
     "responses": 0
   },
   "month": {
-    "leads": 400,
+    "leads": 447,
     "emails": {
-      "email1": 400,
+      "email1": 447,
       "email2": 0,
       "email3": 0,
-      "total": 400
+      "total": 447
     },
     "responses": 0
   },
   "year": {
-    "leads": 507,
+    "leads": 554,
     "emails": {
-      "email1": 505,
+      "email1": 552,
       "email2": 1,
       "email3": 0,
-      "total": 506
+      "total": 553
     },
     "responses": 5
   },
@@ -34611,13 +34676,13 @@
     {
       "name": "restaurante",
       "total": 2136,
-      "email1": 79,
+      "email1": 82,
       "responded": 0
     },
     {
       "name": "bar",
-      "total": 589,
-      "email1": 103,
+      "total": 590,
+      "email1": 147,
       "responded": 0
     },
     {
