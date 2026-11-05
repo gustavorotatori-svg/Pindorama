@@ -1,1 +1,1 @@
-{"version":2,"name":"pindorama-report","scripts":{"vercel-build":"echo static-ok"}}
+{"version":2,"scripts":{"vercel-build":"echo static-ok"}}
