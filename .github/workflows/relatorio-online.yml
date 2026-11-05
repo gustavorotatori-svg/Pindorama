@@ -24,10 +24,10 @@ jobs:
       - name: Gerar relatório HTML
         run: node scripts/gerar-relatorio-html.mjs
 
-      - name: Gerar configuração Vercel mínima
+      - name: Gerar configuração do site estático
         run: |
-          echo '{"version":2,"name":"pindorama-report","scripts":{"vercel-build":"echo static-ok"}}' > ./relatorio/package.json
-          echo '{"version":2,"public":true,"cleanUrls":true,"buildCommand":"npm run vercel-build"}' > ./relatorio/vercel.json
+          echo '{"version":2,"scripts":{"vercel-build":"echo static-ok"}}' > ./relatorio/package.json
+          echo '{"version":2,"cleanUrls":true}' > ./relatorio/vercel.json
 
       - name: Publicar no GitHub Pages
         uses: peaceiris/actions-gh-pages@v4
