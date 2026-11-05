@@ -3175,12 +3175,13 @@
     "phone": "11 33846926",
     "template": "pergunta",
     "website": "",
-    "email1": false,
+    "email1": true,
     "email2": false,
     "email3": false,
     "targetProfile": "A/B",
     "mxVerified": true,
-    "mxVerifiedAt": "2026-11-05"
+    "mxVerifiedAt": "2026-11-05",
+    "date1": "2026-11-05"
   },
   {
     "name": "Vinoteca Paulistana",
@@ -6306,7 +6307,7 @@
     "phone": "1130520547",
     "template": "consultivo",
     "website": "",
-    "email1": false,
+    "email1": true,
     "email2": false,
     "targetProfile": "A/B",
     "email3": false,
@@ -6314,7 +6315,8 @@
     "mxVerifiedAt": "2026-11-05",
     "emailVerified": true,
     "emailVerifiedAt": "2026-11-05",
-    "emailSource": "casadefrancisca.art.br (oficial) + BaresSP"
+    "emailSource": "casadefrancisca.art.br (oficial) + BaresSP",
+    "date1": "2026-11-05"
   },
   {
     "name": "Boteco Donna Vito├î┬üria",
@@ -34401,12 +34403,13 @@
     "emailSource": "https://vedebar.com.br/",
     "emailVerifiedAt": "2026-11-05",
     "template": "pergunta",
-    "email1": false,
+    "email1": true,
     "email2": false,
     "email3": false,
     "targetProfile": "A/B",
     "mxVerified": true,
-    "mxVerifiedAt": "2026-11-05"
+    "mxVerifiedAt": "2026-11-05",
+    "date1": "2026-11-05"
   },
   {
     "name": "Yummy Cocktails",
@@ -46521,10 +46524,11 @@
     "emailVerifiedAt": "2026-11-05",
     "mxVerified": true,
     "template": "consultivo",
-    "email1": false,
+    "email1": true,
     "invalidEmail": false,
     "targetProfile": "A/B",
-    "mxVerifiedAt": "2026-11-05"
+    "mxVerifiedAt": "2026-11-05",
+    "date1": "2026-11-05"
   },
   {
     "name": "TRABUCA",
@@ -62775,9 +62779,10 @@
     "mxVerified": true,
     "mxVerifiedAt": "2026-11-05",
     "template": "pergunta",
-    "email1": false,
+    "email1": true,
     "email2": false,
     "email3": false,
-    "targetProfile": "A/B"
+    "targetProfile": "A/B",
+    "date1": "2026-11-05"
   }
 ]
