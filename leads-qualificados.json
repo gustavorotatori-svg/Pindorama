@@ -3047,12 +3047,13 @@
     "phone": "4117-9877",
     "template": "consultivo",
     "website": "",
-    "email1": false,
+    "email1": true,
     "email2": false,
     "email3": false,
     "targetProfile": "A/B",
     "mxVerified": true,
-    "mxVerifiedAt": "2026-11-04"
+    "mxVerifiedAt": "2026-11-04",
+    "date1": "2026-11-05"
   },
   {
     "name": "Sala Da Sogra",
@@ -3476,12 +3477,13 @@
     "phone": "(11) 5572-0254",
     "template": "consultivo",
     "website": "",
-    "email1": false,
+    "email1": true,
     "email2": false,
     "email3": false,
     "targetProfile": "A/B",
     "mxVerified": true,
-    "mxVerifiedAt": "2026-11-04"
+    "mxVerifiedAt": "2026-11-04",
+    "date1": "2026-11-05"
   },
   {
     "name": "BAR S├â┬âO JORGE",
@@ -3827,12 +3829,13 @@
     "phone": "(11) 3539-9795",
     "template": "pergunta",
     "website": "",
-    "email1": false,
+    "email1": true,
     "email2": false,
     "email3": false,
     "targetProfile": "A/B",
     "mxVerified": true,
-    "mxVerifiedAt": "2026-11-04"
+    "mxVerifiedAt": "2026-11-04",
+    "date1": "2026-11-05"
   },
   {
     "name": "BAR DO LUIZ NOZOIE",
@@ -4375,10 +4378,11 @@
     "phone": "11 974823451/ 11 99745-3332 Tathiana",
     "template": "pergunta",
     "website": "",
-    "email1": false,
+    "email1": true,
     "email2": false,
     "email3": false,
-    "targetProfile": "A/B"
+    "targetProfile": "A/B",
+    "date1": "2026-11-05"
   },
   {
     "name": "BAR DO JUAREZ",
@@ -4645,12 +4649,13 @@
     "phone": "N TEM",
     "template": "pergunta",
     "website": "",
-    "email1": false,
+    "email1": true,
     "email2": false,
     "email3": false,
     "targetProfile": "A/B",
     "mxVerified": true,
-    "mxVerifiedAt": "2026-11-04"
+    "mxVerifiedAt": "2026-11-04",
+    "date1": "2026-11-05"
   },
   {
     "name": "Vila Vinttage",
@@ -4899,12 +4904,13 @@
     "phone": "2620-0700 CENTRAL",
     "template": "consultivo",
     "website": "",
-    "email1": false,
+    "email1": true,
     "email2": false,
     "email3": false,
     "targetProfile": "A/B",
     "mxVerified": true,
-    "mxVerifiedAt": "2026-11-04"
+    "mxVerifiedAt": "2026-11-04",
+    "date1": "2026-11-05"
   },
   {
     "name": "PIRAJ├â┬ü",
@@ -7246,12 +7252,13 @@
     "phone": "984568732",
     "template": "prova_social",
     "website": "",
-    "email1": false,
+    "email1": true,
     "email2": false,
     "targetProfile": "A/B",
     "email3": false,
     "mxVerified": true,
-    "mxVerifiedAt": "2026-11-04"
+    "mxVerifiedAt": "2026-11-04",
+    "date1": "2026-11-05"
   },
   {
     "name": "ST. JOHN`S",
@@ -7338,12 +7345,13 @@
     "phone": "11 3031 0955",
     "template": "consultivo",
     "website": "",
-    "email1": false,
+    "email1": true,
     "email2": false,
     "targetProfile": "A/B",
     "email3": false,
     "mxVerified": true,
-    "mxVerifiedAt": "2026-11-04"
+    "mxVerifiedAt": "2026-11-04",
+    "date1": "2026-11-05"
   },
   {
     "name": "O Pasquim Bar e Prosa",
@@ -7400,12 +7408,13 @@
     "phone": "11 3257-2016 / 11 3257-1887",
     "template": "pergunta",
     "website": "",
-    "email1": false,
+    "email1": true,
     "email2": false,
     "targetProfile": "A/B",
     "email3": false,
     "mxVerified": true,
-    "mxVerifiedAt": "2026-11-04"
+    "mxVerifiedAt": "2026-11-04",
+    "date1": "2026-11-05"
   },
   {
     "name": "The Blue Pub",
@@ -11141,11 +11150,12 @@
     "phone": "11 2296-6365 escritorio",
     "template": "consultivo",
     "website": "",
-    "email1": false,
+    "email1": true,
     "email2": false,
     "targetProfile": "A/B",
     "mxVerified": true,
-    "mxVerifiedAt": "2026-11-04"
+    "mxVerifiedAt": "2026-11-04",
+    "date1": "2026-11-05"
   },
   {
     "name": "GUINZA SUSHI",
@@ -18126,10 +18136,11 @@
     "phone": "(11) 2373-3587 / 11 997976781 THIAGO / Lucas Terribili 11-98202-5179",
     "template": "pergunta",
     "website": "",
-    "email1": false,
+    "email1": true,
     "targetProfile": "A/B",
     "mxVerified": true,
-    "mxVerifiedAt": "2026-11-04"
+    "mxVerifiedAt": "2026-11-04",
+    "date1": "2026-11-05"
   },
   {
     "name": "Trato Burger",
@@ -19066,10 +19077,11 @@
     "phone": "3081-0066 / 99307-7651",
     "template": "consultivo",
     "website": "",
-    "email1": false,
+    "email1": true,
     "targetProfile": "A/B",
     "mxVerified": true,
-    "mxVerifiedAt": "2026-11-04"
+    "mxVerifiedAt": "2026-11-04",
+    "date1": "2026-11-05"
   },
   {
     "name": "JUNJI SAKAMOTO",
@@ -27407,10 +27419,11 @@
     "phone": "1143713933",
     "template": "pergunta",
     "website": "",
-    "email1": false,
+    "email1": true,
     "targetProfile": "A/B",
     "mxVerified": true,
-    "mxVerifiedAt": "2026-11-04"
+    "mxVerifiedAt": "2026-11-04",
+    "date1": "2026-11-05"
   },
   {
     "name": "Notorious FISH",
@@ -29138,10 +29151,11 @@
     "phone": "N TEM",
     "template": "consultivo",
     "website": "",
-    "email1": false,
+    "email1": true,
     "targetProfile": "A/B",
     "mxVerified": true,
-    "mxVerifiedAt": "2026-11-04"
+    "mxVerifiedAt": "2026-11-04",
+    "date1": "2026-11-05"
   },
   {
     "name": "Dom Galetos Grill",
@@ -32201,10 +32215,11 @@
     "emailVerifiedAt": "2026-10-13",
     "mxVerified": true,
     "mxVerifiedAt": "2026-09-01",
-    "email1": false,
+    "email1": true,
     "email2": false,
     "email3": false,
-    "targetProfile": "A/B"
+    "targetProfile": "A/B",
+    "date1": "2026-11-05"
   },
   {
     "name": "MACAXEIRA RESTAURANTE & CACHA├â┬çARIA",
@@ -32239,10 +32254,11 @@
     "emailVerifiedAt": "2026-10-13",
     "mxVerified": true,
     "mxVerifiedAt": "2026-09-01",
-    "email1": false,
+    "email1": true,
     "email2": false,
     "email3": false,
-    "targetProfile": "A/B"
+    "targetProfile": "A/B",
+    "date1": "2026-11-05"
   },
   {
     "name": "Luce",
@@ -32277,10 +32293,11 @@
     "emailVerifiedAt": "2026-10-13",
     "mxVerified": true,
     "mxVerifiedAt": "2026-09-01",
-    "email1": false,
+    "email1": true,
     "email2": false,
     "email3": false,
-    "targetProfile": "A/B"
+    "targetProfile": "A/B",
+    "date1": "2026-11-05"
   },
   {
     "name": "FREDDY",
@@ -32804,10 +32821,11 @@
     "mxVerified": true,
     "neighborhood": "São Paulo",
     "template": "pergunta",
-    "email1": false,
+    "email1": true,
     "email2": false,
     "email3": false,
-    "targetProfile": "A/B"
+    "targetProfile": "A/B",
+    "date1": "2026-11-05"
   },
   {
     "name": "Sarau Bar",
@@ -32863,10 +32881,11 @@
     "mxVerified": true,
     "neighborhood": "São Paulo",
     "template": "consultivo",
-    "email1": false,
+    "email1": true,
     "email2": false,
     "email3": false,
-    "targetProfile": "A/B"
+    "targetProfile": "A/B",
+    "date1": "2026-11-05"
   },
   {
     "name": "Gaspar Bar e Praça",
@@ -32881,10 +32900,11 @@
     "emailVerifiedAt": "2026-10-13",
     "mxVerified": true,
     "template": "prova_social",
-    "email1": false,
+    "email1": true,
     "email2": false,
     "email3": false,
-    "targetProfile": "A/B"
+    "targetProfile": "A/B",
+    "date1": "2026-11-05"
   },
   {
     "name": "DOPA Bar",
@@ -33131,10 +33151,11 @@
     "mxVerified": true,
     "neighborhood": "São Paulo",
     "template": "prova_social",
-    "email1": false,
+    "email1": true,
     "email2": false,
     "email3": false,
-    "targetProfile": "A/B"
+    "targetProfile": "A/B",
+    "date1": "2026-11-05"
   },
   {
     "name": "703 Coquetelaria",
@@ -33149,10 +33170,11 @@
     "mxVerified": true,
     "neighborhood": "São Paulo",
     "template": "consultivo",
-    "email1": false,
+    "email1": true,
     "email2": false,
     "email3": false,
-    "targetProfile": "A/B"
+    "targetProfile": "A/B",
+    "date1": "2026-11-05"
   },
   {
     "name": "Arte Vieira Coquetelaria",
@@ -33167,10 +33189,11 @@
     "mxVerified": true,
     "neighborhood": "São Paulo",
     "template": "pergunta",
-    "email1": false,
+    "email1": true,
     "email2": false,
     "email3": false,
-    "targetProfile": "A/B"
+    "targetProfile": "A/B",
+    "date1": "2026-11-05"
   },
   {
     "name": "Bernadette - Casa da Dette",
@@ -33377,10 +33400,11 @@
     "emailSource": "https://elodrinks.com.br/",
     "emailVerifiedAt": "2026-10-13",
     "template": "consultivo",
-    "email1": false,
+    "email1": true,
     "email2": false,
     "email3": false,
-    "targetProfile": "A/B"
+    "targetProfile": "A/B",
+    "date1": "2026-11-05"
   },
   {
     "name": "Drink Bartenders",
@@ -33395,10 +33419,11 @@
     "emailSource": "https://www.drinkbartenders.com.br/",
     "emailVerifiedAt": "2026-10-13",
     "template": "consultivo",
-    "email1": false,
+    "email1": true,
     "email2": false,
     "email3": false,
-    "targetProfile": "A/B"
+    "targetProfile": "A/B",
+    "date1": "2026-11-05"
   },
   {
     "name": "Brazen Bar",
@@ -33413,10 +33438,11 @@
     "emailSource": "https://www.brazenbar.com.br/",
     "emailVerifiedAt": "2026-10-13",
     "template": "consultivo",
-    "email1": false,
+    "email1": true,
     "email2": false,
     "email3": false,
-    "targetProfile": "A/B"
+    "targetProfile": "A/B",
+    "date1": "2026-11-05"
   },
   {
     "name": "R&M Bartenders",
@@ -33524,10 +33550,11 @@
     "emailSource": "https://casaoliver.com.br/contato-eventos",
     "emailVerifiedAt": "2026-10-13",
     "template": "consultivo",
-    "email1": false,
+    "email1": true,
     "email2": false,
     "email3": false,
-    "targetProfile": "A/B"
+    "targetProfile": "A/B",
+    "date1": "2026-11-05"
   },
   {
     "name": "VIP Drinks",
@@ -33703,10 +33730,11 @@
     "emailSource": "https://dcecoquetelaria.com.br/contato/",
     "emailVerifiedAt": "2026-10-13",
     "template": "consultivo",
-    "email1": false,
+    "email1": true,
     "email2": false,
     "email3": false,
-    "targetProfile": "A/B"
+    "targetProfile": "A/B",
+    "date1": "2026-11-05"
   },
   {
     "name": "Connect Bartenders",
@@ -33739,10 +33767,11 @@
     "emailSource": "https://skyhall.com.br/terrace-bar/",
     "emailVerifiedAt": "2026-10-13",
     "template": "consultivo",
-    "email1": false,
+    "email1": true,
     "email2": false,
     "email3": false,
-    "targetProfile": "A/B"
+    "targetProfile": "A/B",
+    "date1": "2026-11-05"
   },
   {
     "name": "Double Bar Eventos",
@@ -33757,10 +33786,11 @@
     "emailSource": "https://www.fazendaparaizoitu.com.br/wp-content/uploads/2026/01/2026-Guia-de-Fornecedores-Faz-Paraizo-Itu.pdf_3e254ed0-269a-4db1-b9e9-f77e557a9ab3.pdf",
     "emailVerifiedAt": "2026-10-13",
     "template": "consultivo",
-    "email1": false,
+    "email1": true,
     "email2": false,
     "email3": false,
-    "targetProfile": "A/B"
+    "targetProfile": "A/B",
+    "date1": "2026-11-05"
   },
   {
     "name": "Balli Bartenders",
@@ -33774,10 +33804,11 @@
     "emailSource": "https://www.ballibartenders.com.br/",
     "emailVerifiedAt": "2026-10-13",
     "template": "consultivo",
-    "email1": false,
+    "email1": true,
     "email2": false,
     "email3": false,
-    "targetProfile": "A/B"
+    "targetProfile": "A/B",
+    "date1": "2026-11-05"
   },
   {
     "name": "Conceito Bar",
@@ -33865,10 +33896,11 @@
     "emailSource": "https://www.onebartender.com.br/bartenders/servico-de-bartenders/servico-de-bartender-para-congresso/servico-de-bartender-para-festa-guarulhos",
     "emailVerifiedAt": "2026-10-13",
     "template": "consultivo",
-    "email1": false,
+    "email1": true,
     "email2": false,
     "email3": false,
-    "targetProfile": "A/B"
+    "targetProfile": "A/B",
+    "date1": "2026-11-05"
   },
   {
     "name": "1966 PUB & Cocktail Bar",
@@ -33883,13 +33915,14 @@
     "emailSource": "https://www.1966pub.com.br/",
     "emailVerifiedAt": "2026-10-13",
     "template": "consultivo",
-    "email1": false,
+    "email1": true,
     "whatsappSent": true,
     "whatsappDate": "2026-08-20",
     "whatsappSource": "https://www.1966pub.com.br/",
     "email2": false,
     "email3": false,
-    "targetProfile": "A/B"
+    "targetProfile": "A/B",
+    "date1": "2026-11-05"
   },
   {
     "name": "Santa Oca Bar",
@@ -33921,10 +33954,11 @@
     "emailSource": "https://www.urbanacoquetelaria.com.br/",
     "emailVerifiedAt": "2026-10-13",
     "template": "consultivo",
-    "email1": false,
+    "email1": true,
     "email2": false,
     "email3": false,
-    "targetProfile": "A/B"
+    "targetProfile": "A/B",
+    "date1": "2026-11-05"
   },
   {
     "name": "Dbartenders",
@@ -34092,13 +34126,14 @@
     "emailSource": "https://bar2go.com.br/",
     "emailVerifiedAt": "2026-10-13",
     "template": "consultivo",
-    "email1": false,
+    "email1": true,
     "whatsappSent": true,
     "whatsappDate": "2026-08-20",
     "whatsappSource": "https://bar2go.com.br/",
     "email2": false,
     "email3": false,
-    "targetProfile": "A/B"
+    "targetProfile": "A/B",
+    "date1": "2026-11-05"
   },
   {
     "name": "Bourbon Convention Hotel Santos",
@@ -34173,10 +34208,11 @@
     "emailSource": "https://www.lifedrinkseventos.com.br/fale-conosco/",
     "emailVerifiedAt": "2026-10-13",
     "template": "consultivo",
-    "email1": false,
+    "email1": true,
     "email2": false,
     "email3": false,
-    "targetProfile": "A/B"
+    "targetProfile": "A/B",
+    "date1": "2026-11-05"
   },
   {
     "name": "Fashion Bartenders",
@@ -34191,10 +34227,11 @@
     "emailSource": "https://www.fashionbartenders.com.br/barman-para-eventos-em-santo-andre.php",
     "emailVerifiedAt": "2026-10-13",
     "template": "consultivo",
-    "email1": false,
+    "email1": true,
     "email2": false,
     "email3": false,
-    "targetProfile": "A/B"
+    "targetProfile": "A/B",
+    "date1": "2026-11-05"
   },
   {
     "name": "Z Eventos",
@@ -34245,10 +34282,11 @@
     "emailSource": "https://www.barmanparafestas.com.br/contato/",
     "emailVerifiedAt": "2026-10-13",
     "template": "consultivo",
-    "email1": false,
+    "email1": true,
     "email2": false,
     "email3": false,
-    "targetProfile": "A/B"
+    "targetProfile": "A/B",
+    "date1": "2026-11-05"
   },
   {
     "name": "Caledonia Whisky & Co.",
@@ -44384,10 +44422,11 @@
     "emailVerifiedAt": "2026-11-04",
     "mxVerified": true,
     "template": "consultivo",
-    "email1": false,
+    "email1": true,
     "invalidEmail": false,
     "targetProfile": "A/B",
-    "mxVerifiedAt": "2026-11-04"
+    "mxVerifiedAt": "2026-11-04",
+    "date1": "2026-11-05"
   },
   {
     "name": "RAMONA",
@@ -47030,10 +47069,11 @@
     "emailVerifiedAt": "2026-10-17",
     "mxVerified": true,
     "template": "consultivo",
-    "email1": false,
+    "email1": true,
     "email2": false,
     "email3": false,
-    "targetProfile": "A/B"
+    "targetProfile": "A/B",
+    "date1": "2026-11-05"
   },
   {
     "name": "Bowlbar",
@@ -47106,11 +47146,12 @@
     "emailVerifiedAt": "2026-10-17",
     "mxVerified": true,
     "template": "consultivo",
-    "email1": false,
+    "email1": true,
     "email2": false,
     "email3": false,
     "targetProfile": "A/B",
-    "mxVerifiedAt": "2026-11-04"
+    "mxVerifiedAt": "2026-11-04",
+    "date1": "2026-11-05"
   },
   {
     "name": "B.A.R. - Bar Arte Restaurante",
@@ -62703,9 +62744,10 @@
     "mxVerified": true,
     "mxVerifiedAt": "2026-11-04",
     "template": "consultivo",
-    "email1": false,
+    "email1": true,
     "email2": false,
     "email3": false,
-    "targetProfile": "A/B"
+    "targetProfile": "A/B",
+    "date1": "2026-11-05"
   }
 ]
