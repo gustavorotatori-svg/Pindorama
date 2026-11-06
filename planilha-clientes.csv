@@ -44,7 +44,7 @@ Adega Santiago Cidade Jardim;reservascj@adegasantiago.com.br;;;;Cidade Jardim;ad
 Adega Escalada;atendimento@adegaescalada.com.br;;;;Consolacao;adega;2026-10-30;;;
 Emporio Santa Joana Perdizes;perdizes@emporiosantajoana.com.br;;;;Perdizes;adega;2026-10-30;;;
 Casa Europa;reservas@casaeuropa.com.br;;;;Jardim Europa;adega;2026-10-30;;;
-Cantaloup;cantaloup@cantaloup.com.br;;;;Jardim Europa;restaurante;2026-11-03;;;
+Cantaloup;cantaloup@cantaloup.com.br;;;;Itaim Bibi;bar;2026-11-03;;;
 Adega Zaidan;contato@adegazaidan.com.br;(11) 94710-5521;;;Perdizes;adega;2026-10-30;;;2026-08-21
 Nation Club;nationdisco@gmail.com;;;;Cerqueira Cesar;balada;2026-11-03;;;
 Nostro Mondo;contatonostromondo@gmail.com;;;;Cerqueira Cesar;balada;2026-11-03;;;
@@ -1418,7 +1418,7 @@ Arturito;bennygb@uol.com.br;;11 3063-4951 / 011 3034-5074;;;restaurante;;;;
 BARBACOA;marketing@barbacoa.com.br;;3168-5522;;;restaurante;;;;
 A QUEIJARIA;eventos@aqueijaria.com.br;;3812-6449;;;restaurante;;;;
 Hot Pork;viviane@acasadoporco.com.br;;11 31298735 / 11 3257-1887 ESCRITORIO / 11 99679-9315 VIVIANE;;;restaurante;;;;
-A CASA DO PORCO BAR;eventos@acasadoporco.com.br;;11 3258 2578;;;restaurante;;;;
+A Casa do Porco Bar;eventos@acasadoporco.com.br;;11 3258 2578;;República;bar;2026-11-06;;;
 Frida & Mina Sorvete Artesanal;oi@fridaemina.com.br;;11 2579-1444;;;restaurante;;;;
 QUATTRATA;gui_hungria@hotmail.com;;(11) 96335-5665;;;restaurante;;;;
 Borgo Mooca;borgomooca@gmail.com;;11 3926-0899 MATHEUS  /  1197574-3213 BIANCA / 1197041-7543 MATEUS / 011 975743213;;;restaurante;;;;
@@ -1429,7 +1429,7 @@ ERA UMA VEZ UM CHALEZINHO;edson@chalezinho.com;;(11) 3501-9322 (11) 94623-1000;;
 Seen S├â┬úo Paulo;kfeher@minor.com;;11 3146.5923;;;restaurante;;;;
 SKYE RESTAURANTE & BAR;marketing@hotelunique.com;;3055-4700 / 1197494-8471 BRUNA ASSESSORA IMPRENSA;;;restaurante;;;;
 Tre Bicchieri;junior@trebicchieri.com.br;;11 3078-9013 / 11 3885-4004;;;restaurante;;;;
-Esther Rooftop;benoit@estherrooftop.com.br;;3256-1009 / 1196087-7601 WHATS / (11)9 9553-1535 BENOIT;;;restaurante;;;;
+Esther Rooftop;contato@estherrooftop.com.br;;3256-1009 / 1196087-7601 WHATS / (11)9 9553-1535 BENOIT;;;bar;2026-11-06;;;
 SAJ;laura@sajrestaurante.com.br;;3032-5939 MKT;;;restaurante;;;;
 Watanabe Restaurante;contato@watanabeculinaria.com;;1194463-0970;;;restaurante;;;;
 IL CAPITALE;reservas@ilcapitale.com.br;;11 2574-0545 / 1197832-3460 / 11 99858-6781 Carol;;;restaurante;;;;
@@ -2356,9 +2356,8 @@ Padaria St. Chico;contato@stchico.com.br;;113031-5096 / 1198446-9799 MARIA TEREZ
 HOSPEDARIA;contato@restaurantehospedaria.com.br;;11 22915629 / (11) 97500-0902 L├â┬¡gia /  11 98022-8486 CINTIA;;;restaurante;;;;
 Red Coffee & Co;redcoffeebrasil@gmail.com;;112372-4003 /  11 98022-8486 CINTIA;;;restaurante;;;;
 Tasteit Restaurante;tasteit@accor.com;;(11) 5088-4045 / 11 50884000 / 11 99188-1312 /  11 992843238 JULIANA;;;hotel;;;;
-Pal├â┬ício Tangar├â┬í;reservas.tangara@oetkercollection.com;;(11) 49044001;;;hotel;;;;
-PAL├â┬üCIO TANGAR├â┬ü;reservations.tangara@oetkercollection.com;;11 4904-4040;;;hotel;;;;
-EMILIANO;marketing@sp.emiliano.com.br;;11 3728-2020 / 113728-2000 / 41 9955-3960 RAIZA;;;hotel;;;;
+Palácio Tangará;reservas.tangara@oetkerhotels.com;;(11) 49044001;;Morumbi;bar;2026-11-06;;;
+Emiliano — Lobby Bar;reservas@sp.emiliano.com.br;;11 3728-2020 / 113728-2000 / 41 9955-3960 RAIZA;;;bar;2026-11-06;;;
 C-CULTURA CASEIRA;saogh-hostess@hyatt.com;;11 2838 1234;;;hotel;;;;
 Boamesa Restaurantes;contato@grupoboamesa.com;;11 3578-4024/ 11 3831-8095 / 1193321-7298;;;catering;;;;
 Ripa Na Brasa Restaurante;grupo@ripanabrasa.com.br;;(11) 2225-8450;;;catering;;;;

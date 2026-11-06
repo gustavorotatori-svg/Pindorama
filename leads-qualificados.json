@@ -20172,12 +20172,13 @@
     "phone": "11 3258 2578",
     "template": "consultivo",
     "website": "",
-    "email1": false,
+    "email1": true,
     "targetProfile": "A/B",
     "mxVerified": true,
     "mxVerifiedAt": "2026-11-06",
     "emailVerified": true,
-    "emailVerifiedAt": "2026-11-06"
+    "emailVerifiedAt": "2026-11-06",
+    "date1": "2026-11-06"
   },
   {
     "name": "Frida & Mina Sorvete Artesanal",
@@ -20319,13 +20320,14 @@
     "phone": "3256-1009 / 1196087-7601 WHATS / (11)9 9553-1535 BENOIT",
     "template": "consultivo",
     "website": "",
-    "email1": false,
+    "email1": true,
     "targetProfile": "A/B",
     "mxVerified": true,
     "mxVerifiedAt": "2026-11-06",
     "emailVerified": true,
     "emailVerifiedAt": "2026-11-06",
-    "emailSource": "estherrooftop.com.br (oficial) + TripAdvisor/Tripla"
+    "emailSource": "estherrooftop.com.br (oficial) + TripAdvisor/Tripla",
+    "date1": "2026-11-06"
   },
   {
     "name": "SAJ",
@@ -32719,12 +32721,13 @@
     "emailVerified": true,
     "emailVerifiedAt": "2026-11-06",
     "emailSource": "experienciaspalaciotangara.com.br (oficial) + oetkerhotels.com",
-    "email1": false,
+    "email1": true,
     "email2": false,
     "email3": false,
     "targetProfile": "A/B",
     "mxVerified": true,
-    "mxVerifiedAt": "2026-11-06"
+    "mxVerifiedAt": "2026-11-06",
+    "date1": "2026-11-06"
   },
   {
     "name": "Emiliano — Lobby Bar",
@@ -32739,12 +32742,13 @@
     "emailVerified": true,
     "emailVerifiedAt": "2026-11-06",
     "emailSource": "emiliano.com.br (oficial)",
-    "email1": false,
+    "email1": true,
     "email2": false,
     "email3": false,
     "targetProfile": "A/B",
     "mxVerified": true,
-    "mxVerifiedAt": "2026-11-06"
+    "mxVerifiedAt": "2026-11-06",
+    "date1": "2026-11-06"
   },
   {
     "name": "C-CULTURA CASEIRA",
