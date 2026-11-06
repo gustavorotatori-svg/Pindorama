@@ -626,16 +626,20 @@
   {
     "name": "Cantaloup",
     "email": "cantaloup@cantaloup.com.br",
-    "neighborhood": "Jardim Europa",
-    "type": "restaurante",
+    "neighborhood": "Itaim Bibi",
+    "type": "bar",
     "website": "https://cantaloup.com.br",
-    "context": "restaurante contemporaneo com ampla carta de vinhos no Jardim Europa",
-    "template": "consultivo",
+    "context": "Cantaloup (Itaim Bibi) — instituição da gastronomia paulistana, restaurante mediterrâneo no guia Michelin, anfitrião frequente de cartas de vinhos e destilados; a cachaça artesanal agrega repertório premium à carta. Trabalhamos com cachaça de fazenda própria no Vale do Café (RJ), mesma que atende Fasano, Hilton e Rosewood.",
+    "template": "pergunta",
     "email1": true,
     "email2": false,
     "email3": false,
     "targetProfile": "A/B",
-    "date1": "2026-11-03"
+    "date1": "2026-11-03",
+    "mxVerified": true,
+    "mxVerifiedAt": "2026-11-06",
+    "emailVerified": true,
+    "emailVerifiedAt": "2026-11-06"
   },
   {
     "name": "Adega Zaidan",
@@ -20159,17 +20163,21 @@
     "targetProfile": "C/D"
   },
   {
-    "name": "A CASA DO PORCO BAR",
+    "name": "A Casa do Porco Bar",
     "email": "eventos@acasadoporco.com.br",
-    "type": "restaurante",
-    "neighborhood": "",
+    "type": "bar",
+    "neighborhood": "República",
     "address": "",
-    "context": "N/I; respons├ível: VIVIANE; instagram: https://www.instagram.com/acasadoporcobar/",
+    "context": "A Casa do Porco / A Casa do Porco Bar (R. Araújo, 124 – República) — casa lendária, eleita melhor restaurante do mundo e estrela Michelin; as caipirinhas do balcão são referência nacional — encaixe natural para cachaça single-origin. Trabalhamos com cachaça de fazenda própria no Vale do Café (RJ), mesma que atende Fasano, Hilton e Rosewood.",
     "phone": "11 3258 2578",
-    "template": "prova_social",
+    "template": "consultivo",
     "website": "",
     "email1": false,
-    "targetProfile": "C/D"
+    "targetProfile": "A/B",
+    "mxVerified": true,
+    "mxVerifiedAt": "2026-11-06",
+    "emailVerified": true,
+    "emailVerifiedAt": "2026-11-06"
   },
   {
     "name": "Frida & Mina Sorvete Artesanal",
