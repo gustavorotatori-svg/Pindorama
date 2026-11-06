@@ -1,6 +1,6 @@
 {
-  "lastUpdate": "2026-11-06T06:15:59.602Z",
-  "totalLeads": 4001,
+  "lastUpdate": "2026-11-06T19:14:36.076Z",
+  "totalLeads": 4005,
   "allLeads": [
     {
       "name": "Bar do Nerso",
@@ -443,9 +443,10 @@
     },
     {
       "name": "Cantaloup",
-      "type": "restaurante",
-      "neighborhood": "Jardim Europa",
+      "type": "bar",
+      "neighborhood": "Itaim Bibi",
       "email": "cantaloup@cantaloup.com.br",
+      "emailVerified": true,
       "email1": true,
       "date1": "2026-11-03",
       "email2": false,
@@ -11650,11 +11651,13 @@
       "email1": false
     },
     {
-      "name": "A CASA DO PORCO BAR",
-      "type": "restaurante",
-      "neighborhood": "",
+      "name": "A Casa do Porco Bar",
+      "type": "bar",
+      "neighborhood": "República",
       "email": "eventos@acasadoporco.com.br",
-      "email1": false
+      "emailVerified": true,
+      "email1": true,
+      "date1": "2026-11-06"
     },
     {
       "name": "Frida & Mina Sorvete Artesanal",
@@ -11728,10 +11731,12 @@
     },
     {
       "name": "Esther Rooftop",
-      "type": "restaurante",
+      "type": "bar",
       "neighborhood": "",
-      "email": "benoit@estherrooftop.com.br",
-      "email1": false
+      "email": "contato@estherrooftop.com.br",
+      "emailVerified": true,
+      "email1": true,
+      "date1": "2026-11-06"
     },
     {
       "name": "SAJ",
@@ -18374,32 +18379,24 @@
       "email3": false
     },
     {
-      "name": "Pal├â┬ício Tangar├â┬í",
-      "type": "hotel",
-      "neighborhood": "",
-      "email": "reservas.tangara@oetkercollection.com",
+      "name": "Palácio Tangará",
+      "type": "bar",
+      "neighborhood": "Morumbi",
+      "email": "reservas.tangara@oetkerhotels.com",
       "emailVerified": true,
-      "email1": false,
+      "email1": true,
+      "date1": "2026-11-06",
       "email2": false,
       "email3": false
     },
     {
-      "name": "PAL├â┬üCIO TANGAR├â┬ü",
-      "type": "hotel",
+      "name": "Emiliano — Lobby Bar",
+      "type": "bar",
       "neighborhood": "",
-      "email": "reservations.tangara@oetkercollection.com",
+      "email": "reservas@sp.emiliano.com.br",
       "emailVerified": true,
-      "email1": false,
-      "email2": false,
-      "email3": false
-    },
-    {
-      "name": "EMILIANO",
-      "type": "hotel",
-      "neighborhood": "",
-      "email": "marketing@sp.emiliano.com.br",
-      "emailVerified": true,
-      "email1": false,
+      "email1": true,
+      "date1": "2026-11-06",
       "email2": false,
       "email3": false
     },
@@ -34451,20 +34448,80 @@
       "date1": "2026-11-05",
       "email2": false,
       "email3": false
+    },
+    {
+      "name": "JW Marriott São Paulo",
+      "type": "hotel",
+      "neighborhood": "Morumbi",
+      "city": "São Paulo",
+      "email": "ays.jwsp@marriott.com",
+      "emailVerified": true,
+      "email1": true,
+      "date1": "2026-11-06",
+      "email2": false,
+      "email3": false
+    },
+    {
+      "name": "InterContinental São Paulo",
+      "type": "hotel",
+      "neighborhood": "Jardim Paulista",
+      "city": "São Paulo",
+      "email": "reservas.saoha@ihg.com",
+      "emailVerified": true,
+      "email1": true,
+      "date1": "2026-11-06",
+      "email2": false,
+      "email3": false
+    },
+    {
+      "name": "L'Hotel PortoBay São Paulo",
+      "type": "hotel",
+      "neighborhood": "Cerqueira César",
+      "city": "São Paulo",
+      "email": "reservassp@portobay.com.br",
+      "emailVerified": true,
+      "email1": true,
+      "date1": "2026-11-06",
+      "email2": false,
+      "email3": false
+    },
+    {
+      "name": "Brasil Souvenirs",
+      "type": "emporio",
+      "neighborhood": "GRU (Aeroporto de Guarulhos)",
+      "city": "Guarulhos (SP)",
+      "email": "vendas@brasilsouvenirs.com.br",
+      "emailVerified": true,
+      "email1": true,
+      "date1": "2026-11-06",
+      "email2": false,
+      "email3": false
+    },
+    {
+      "name": "Brasileirissima",
+      "type": "emporio",
+      "neighborhood": "Congonhas (Aeroporto)",
+      "city": "Sao Paulo",
+      "email": "comunicacao@soubrasileirissima.com.br",
+      "emailVerified": true,
+      "email1": true,
+      "date1": "2026-11-06",
+      "email2": false,
+      "email3": false
     }
   ],
   "emails": {
-    "email1": 552,
+    "email1": 561,
     "email2": 1,
     "email3": 0,
-    "total": 553
+    "total": 562
   },
   "whatsapp": {
     "today": 0,
     "total": 262
   },
   "responses": 5,
-  "pending": 1028,
+  "pending": 1025,
   "daily": [
     {
       "date": "2026-10-24",
@@ -34520,13 +34577,13 @@
     },
     {
       "date": "2026-11-06",
-      "count": 0
+      "count": 9
     }
   ],
   "topNeighborhoods": [
     {
       "name": "Sem bairro",
-      "count": 2632
+      "count": 2629
     },
     {
       "name": "São Paulo",
@@ -34554,7 +34611,7 @@
     },
     {
       "name": "Itaim Bibi",
-      "count": 17
+      "count": 18
     },
     {
       "name": "Campo Belo",
@@ -34575,114 +34632,119 @@
   ],
   "recentLeads": [
     {
-      "name": "Casa de Francisca",
+      "name": "Cantaloup",
+      "type": "bar",
+      "neighborhood": "Itaim Bibi",
+      "email1": true
+    },
+    {
+      "name": "A Casa do Porco Bar",
+      "type": "bar",
+      "neighborhood": "República",
+      "email1": true
+    },
+    {
+      "name": "Esther Rooftop",
       "type": "bar",
       "neighborhood": "",
       "email1": true
     },
     {
-      "name": "Vedê Coquetelaria & Arte",
+      "name": "Palácio Tangará",
       "type": "bar",
-      "neighborhood": "Jardim",
+      "neighborhood": "Morumbi",
       "email1": true
     },
     {
-      "name": "Drosophyla",
-      "type": "bar",
-      "neighborhood": "",
-      "city": "São Paulo",
-      "email1": true
-    },
-    {
-      "name": "Barouche",
-      "type": "bar",
-      "neighborhood": "Jardim das Bandeiras",
-      "city": "São Paulo",
-      "email1": true
-    },
-    {
-      "name": "Rabo di Galo",
+      "name": "Emiliano — Lobby Bar",
       "type": "bar",
       "neighborhood": "",
+      "email1": true
+    },
+    {
+      "name": "JW Marriott São Paulo",
+      "type": "hotel",
+      "neighborhood": "Morumbi",
       "city": "São Paulo",
       "email1": true
     },
     {
-      "name": "Baretto (Hotel Fasano)",
-      "type": "bar",
-      "neighborhood": "Jardins",
+      "name": "InterContinental São Paulo",
+      "type": "hotel",
+      "neighborhood": "Jardim Paulista",
       "city": "São Paulo",
       "email1": true
     },
     {
-      "name": "Novo Bar Pinheiros Auto 3001",
-      "type": "bar",
+      "name": "L'Hotel PortoBay São Paulo",
+      "type": "hotel",
+      "neighborhood": "Cerqueira César",
+      "city": "São Paulo",
       "email1": true
     },
     {
-      "name": "Novo Restaurante Moema Auto 3002",
-      "type": "restaurante",
+      "name": "Brasil Souvenirs",
+      "type": "emporio",
+      "neighborhood": "GRU (Aeroporto de Guarulhos)",
+      "city": "Guarulhos (SP)",
       "email1": true
     },
     {
-      "name": "Novo Adega Itaim Bibi Auto 3003",
-      "type": "adega",
-      "email1": true
-    },
-    {
-      "name": "Novo Balada Campo Belo Auto 3004",
-      "type": "balada",
+      "name": "Brasileirissima",
+      "type": "emporio",
+      "neighborhood": "Congonhas (Aeroporto)",
+      "city": "Sao Paulo",
       "email1": true
     }
   ],
   "funnel": {
-    "leads": 4001,
-    "email1": 552,
+    "leads": 4005,
+    "email1": 561,
     "email2": 1,
     "email3": 0,
     "responded": 5
   },
   "week": {
-    "leads": 547,
+    "leads": 556,
     "emails": {
-      "email1": 547,
+      "email1": 556,
       "email2": 0,
       "email3": 0,
-      "total": 547
+      "total": 556
     },
     "responses": 0
   },
   "month": {
-    "leads": 447,
+    "leads": 456,
     "emails": {
-      "email1": 447,
+      "email1": 456,
       "email2": 0,
       "email3": 0,
-      "total": 447
+      "total": 456
     },
     "responses": 0
   },
   "year": {
-    "leads": 554,
+    "leads": 563,
     "emails": {
-      "email1": 552,
+      "email1": 561,
       "email2": 1,
       "email3": 0,
-      "total": 553
+      "total": 562
     },
     "responses": 5
   },
   "segments": [
     {
       "name": "restaurante",
-      "total": 2136,
-      "email1": 82,
+      "total": 2133,
+      "email1": 81,
       "responded": 0
     },
     {
       "name": "bar",
-      "total": 590,
-      "email1": 147,
+      "total": 595,
+      "email1": 152,
       "responded": 0
     },
     {
@@ -34788,15 +34850,15 @@
       "responded": 0
     },
     {
-      "name": "hotel",
-      "total": 12,
-      "email1": 0,
+      "name": "emporio",
+      "total": 13,
+      "email1": 4,
       "responded": 0
     },
     {
-      "name": "emporio",
-      "total": 11,
-      "email1": 2,
+      "name": "hotel",
+      "total": 12,
+      "email1": 3,
       "responded": 0
     },
     {
