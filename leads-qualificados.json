@@ -62803,10 +62803,11 @@
     "mxVerified": true,
     "mxVerifiedAt": "2026-11-06",
     "template": "consultivo",
-    "email1": false,
+    "email1": true,
     "email2": false,
     "email3": false,
-    "targetProfile": "A/B"
+    "targetProfile": "A/B",
+    "date1": "2026-11-06"
   },
   {
     "name": "InterContinental São Paulo",
@@ -62823,10 +62824,11 @@
     "mxVerified": true,
     "mxVerifiedAt": "2026-11-06",
     "template": "consultivo",
-    "email1": false,
+    "email1": true,
     "email2": false,
     "email3": false,
-    "targetProfile": "A/B"
+    "targetProfile": "A/B",
+    "date1": "2026-11-06"
   },
   {
     "name": "L'Hotel PortoBay São Paulo",
@@ -62843,9 +62845,10 @@
     "mxVerified": true,
     "mxVerifiedAt": "2026-11-06",
     "template": "consultivo",
-    "email1": false,
+    "email1": true,
     "email2": false,
     "email3": false,
-    "targetProfile": "A/B"
+    "targetProfile": "A/B",
+    "date1": "2026-11-06"
   }
 ]
