@@ -63002,5 +63002,26 @@
     "email3": false,
     "targetProfile": "A/B",
     "date1": "2026-11-07"
+  },
+  {
+    "name": "Rede Drops Motéis",
+    "email": "fornecedores@dropsmoteis.com.br",
+    "type": "hotel",
+    "neighborhood": "Araraquara (SP) / Florianópolis (SC)",
+    "city": "Florianópolis (SC)",
+    "address": "Rodovia José Carlos Daux, 5500 - Lagoa A/314, Florianópolis/SC",
+    "website": "https://dropsmoteis.com.br",
+    "phone": "(48) 3232-7777",
+    "context": "Rede Drops Motéis — rede premium de motéis (\"A Nova Motelaria\") com 26 unidades em 7 estados (SP: Araraquara, Barretos; SC: Florianópolis), experiências sensoriais para casais, cardápio com bebidas/souvenirs; contato comercial direcionado ao setor de compras (fornecedores@dropsmoteis.com.br). Fit: cachaça artesanal premium da Pindorama (Vale do Café/RJ) como drink de experiência/welcome e presente em motéis premium; mesma referência de Fasano, Hilton e Rosewood.",
+    "emailVerified": true,
+    "emailSource": "https://dropsmoteis.com.br",
+    "emailVerifiedAt": "2026-11-07",
+    "mxVerified": true,
+    "mxVerifiedAt": "2026-11-07",
+    "template": "consultivo",
+    "email1": false,
+    "email2": false,
+    "email3": false,
+    "targetProfile": "A/B"
   }
 ]
