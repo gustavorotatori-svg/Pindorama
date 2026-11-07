@@ -1,6 +1,6 @@
 {
-  "lastUpdate": "2026-11-07T12:50:17.616Z",
-  "totalLeads": 4005,
+  "lastUpdate": "2026-11-07T21:42:14.098Z",
+  "totalLeads": 4011,
   "allLeads": [
     {
       "name": "Bar do Nerso",
@@ -34508,13 +34508,85 @@
       "date1": "2026-11-06",
       "email2": false,
       "email3": false
+    },
+    {
+      "name": "Avolta - Duty Free",
+      "type": "loja_bebidas",
+      "neighborhood": "GRU (Aeroporto de Guarulhos)",
+      "city": "Guarulhos (SP)",
+      "email": "headoffice@avolta.net",
+      "emailVerified": true,
+      "email1": true,
+      "date1": "2026-11-07",
+      "email2": false,
+      "email3": false
+    },
+    {
+      "name": "SOUQ",
+      "type": "emporio",
+      "neighborhood": "Jardins / Iguatemi (SP)",
+      "city": "São Paulo (SP)",
+      "email": "sac@souqstore.com.br",
+      "emailVerified": true,
+      "email1": true,
+      "date1": "2026-11-07",
+      "email2": false,
+      "email3": false
+    },
+    {
+      "name": "Imaginarium",
+      "type": "emporio",
+      "neighborhood": "Bourbon / Vila Pompéia (SP)",
+      "city": "São Paulo (SP)",
+      "email": "lojavirtual@imaginarium.com.br",
+      "emailVerified": true,
+      "email1": true,
+      "date1": "2026-11-07",
+      "email2": false,
+      "email3": false
+    },
+    {
+      "name": "NekiNeko",
+      "type": "emporio",
+      "neighborhood": "Liberdade (SP)",
+      "city": "São Paulo (SP)",
+      "email": "contato@nekineko.com.br",
+      "emailVerified": true,
+      "email1": true,
+      "date1": "2026-11-07",
+      "email2": false,
+      "email3": false
+    },
+    {
+      "name": "Butiello",
+      "type": "emporio",
+      "neighborhood": "Jd. Iguatemi / Cidade Tiradentes (SP)",
+      "city": "São Paulo (SP)",
+      "email": "sac@butiello.com.br",
+      "emailVerified": true,
+      "email1": true,
+      "date1": "2026-11-07",
+      "email2": false,
+      "email3": false
+    },
+    {
+      "name": "Rede Drops Motéis",
+      "type": "hotel",
+      "neighborhood": "Araraquara (SP) / Florianópolis (SC)",
+      "city": "Florianópolis (SC)",
+      "email": "fornecedores@dropsmoteis.com.br",
+      "emailVerified": true,
+      "email1": true,
+      "date1": "2026-11-07",
+      "email2": false,
+      "email3": false
     }
   ],
   "emails": {
-    "email1": 561,
+    "email1": 567,
     "email2": 1,
     "email3": 0,
-    "total": 562
+    "total": 568
   },
   "whatsapp": {
     "today": 0,
@@ -34577,7 +34649,7 @@
     },
     {
       "date": "2026-11-07",
-      "count": 0
+      "count": 6
     }
   ],
   "topNeighborhoods": [
@@ -34632,6 +34704,48 @@
   ],
   "recentLeads": [
     {
+      "name": "Avolta - Duty Free",
+      "type": "loja_bebidas",
+      "neighborhood": "GRU (Aeroporto de Guarulhos)",
+      "city": "Guarulhos (SP)",
+      "email1": true
+    },
+    {
+      "name": "SOUQ",
+      "type": "emporio",
+      "neighborhood": "Jardins / Iguatemi (SP)",
+      "city": "São Paulo (SP)",
+      "email1": true
+    },
+    {
+      "name": "Imaginarium",
+      "type": "emporio",
+      "neighborhood": "Bourbon / Vila Pompéia (SP)",
+      "city": "São Paulo (SP)",
+      "email1": true
+    },
+    {
+      "name": "NekiNeko",
+      "type": "emporio",
+      "neighborhood": "Liberdade (SP)",
+      "city": "São Paulo (SP)",
+      "email1": true
+    },
+    {
+      "name": "Butiello",
+      "type": "emporio",
+      "neighborhood": "Jd. Iguatemi / Cidade Tiradentes (SP)",
+      "city": "São Paulo (SP)",
+      "email1": true
+    },
+    {
+      "name": "Rede Drops Motéis",
+      "type": "hotel",
+      "neighborhood": "Araraquara (SP) / Florianópolis (SC)",
+      "city": "Florianópolis (SC)",
+      "email1": true
+    },
+    {
       "name": "Cantaloup",
       "type": "bar",
       "neighborhood": "Itaim Bibi",
@@ -34654,83 +34768,42 @@
       "type": "bar",
       "neighborhood": "Morumbi",
       "email1": true
-    },
-    {
-      "name": "Emiliano — Lobby Bar",
-      "type": "bar",
-      "neighborhood": "",
-      "email1": true
-    },
-    {
-      "name": "JW Marriott São Paulo",
-      "type": "hotel",
-      "neighborhood": "Morumbi",
-      "city": "São Paulo",
-      "email1": true
-    },
-    {
-      "name": "InterContinental São Paulo",
-      "type": "hotel",
-      "neighborhood": "Jardim Paulista",
-      "city": "São Paulo",
-      "email1": true
-    },
-    {
-      "name": "L'Hotel PortoBay São Paulo",
-      "type": "hotel",
-      "neighborhood": "Cerqueira César",
-      "city": "São Paulo",
-      "email1": true
-    },
-    {
-      "name": "Brasil Souvenirs",
-      "type": "emporio",
-      "neighborhood": "GRU (Aeroporto de Guarulhos)",
-      "city": "Guarulhos (SP)",
-      "email1": true
-    },
-    {
-      "name": "Brasileirissima",
-      "type": "emporio",
-      "neighborhood": "Congonhas (Aeroporto)",
-      "city": "Sao Paulo",
-      "email1": true
     }
   ],
   "funnel": {
-    "leads": 4005,
-    "email1": 561,
+    "leads": 4011,
+    "email1": 567,
     "email2": 1,
     "email3": 0,
     "responded": 5
   },
   "week": {
-    "leads": 456,
+    "leads": 462,
     "emails": {
-      "email1": 456,
+      "email1": 462,
       "email2": 0,
       "email3": 0,
-      "total": 456
+      "total": 462
     },
     "responses": 0
   },
   "month": {
-    "leads": 456,
+    "leads": 462,
     "emails": {
-      "email1": 456,
+      "email1": 462,
       "email2": 0,
       "email3": 0,
-      "total": 456
+      "total": 462
     },
     "responses": 0
   },
   "year": {
-    "leads": 563,
+    "leads": 569,
     "emails": {
-      "email1": 561,
+      "email1": 567,
       "email2": 1,
       "email3": 0,
-      "total": 562
+      "total": 568
     },
     "responses": 5
   },
@@ -34826,6 +34899,12 @@
       "responded": 0
     },
     {
+      "name": "emporio",
+      "total": 17,
+      "email1": 8,
+      "responded": 0
+    },
+    {
       "name": "industria_bebidas",
       "total": 15,
       "email1": 0,
@@ -34845,20 +34924,14 @@
     },
     {
       "name": "loja_bebidas",
-      "total": 13,
-      "email1": 0,
-      "responded": 0
-    },
-    {
-      "name": "emporio",
-      "total": 13,
-      "email1": 4,
+      "total": 14,
+      "email1": 1,
       "responded": 0
     },
     {
       "name": "hotel",
-      "total": 12,
-      "email1": 3,
+      "total": 13,
+      "email1": 4,
       "responded": 0
     },
     {
