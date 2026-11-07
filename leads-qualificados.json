@@ -62909,10 +62909,11 @@
     "mxVerified": true,
     "mxVerifiedAt": "2026-11-07",
     "template": "consultivo",
-    "email1": false,
+    "email1": true,
     "email2": false,
     "email3": false,
-    "targetProfile": "A/B"
+    "targetProfile": "A/B",
+    "date1": "2026-11-07"
   },
   {
     "name": "SOUQ",
@@ -62930,10 +62931,11 @@
     "mxVerified": true,
     "mxVerifiedAt": "2026-11-07",
     "template": "consultivo",
-    "email1": false,
+    "email1": true,
     "email2": false,
     "email3": false,
-    "targetProfile": "A/B"
+    "targetProfile": "A/B",
+    "date1": "2026-11-07"
   },
   {
     "name": "Imaginarium",
@@ -62951,10 +62953,11 @@
     "mxVerified": true,
     "mxVerifiedAt": "2026-11-07",
     "template": "consultivo",
-    "email1": false,
+    "email1": true,
     "email2": false,
     "email3": false,
-    "targetProfile": "A/B"
+    "targetProfile": "A/B",
+    "date1": "2026-11-07"
   },
   {
     "name": "NekiNeko",
@@ -62972,10 +62975,11 @@
     "mxVerified": true,
     "mxVerifiedAt": "2026-11-07",
     "template": "consultivo",
-    "email1": false,
+    "email1": true,
     "email2": false,
     "email3": false,
-    "targetProfile": "A/B"
+    "targetProfile": "A/B",
+    "date1": "2026-11-07"
   },
   {
     "name": "Butiello",
@@ -62993,9 +62997,10 @@
     "mxVerified": true,
     "mxVerifiedAt": "2026-11-07",
     "template": "consultivo",
-    "email1": false,
+    "email1": true,
     "email2": false,
     "email3": false,
-    "targetProfile": "A/B"
+    "targetProfile": "A/B",
+    "date1": "2026-11-07"
   }
 ]
