@@ -63032,5 +63032,25 @@
     "email3": false,
     "targetProfile": "A/B",
     "date1": "2026-11-07"
+  },
+  {
+    "name": "D.EDGE",
+    "email": "contato@d-edge.com.br",
+    "type": "balada",
+    "neighborhood": "Barra Funda (SP)",
+    "city": "São Paulo (SP)",
+    "address": "Av. Auro Soares de Moura Andrade, 141 - Barra Funda, São Paulo/SP",
+    "website": "https://www.d-edge.com.br/",
+    "phone": "(11) 3665-9500",
+    "context": "D.EDGE — clube de música eletrônica reconhecido mundialmente em São Paulo (Barra Funda), operando desde 2003; conceito underground com DJs nacionais e internacionais, sistema de som Funktion-One, eventos que seguem até o amanhecer; fit para cachaça artesanal premium em drinks/events. Trabalhamos com cachaça de fazenda própria no Vale do Café (RJ), mesma que atende Fasano, Hilton e Rosewood.",
+    "emailVerified": true,
+    "emailSource": "https://www.d-edge.com.br/",
+    "emailVerifiedAt": "2026-11-08",
+    "mxVerified": false,
+    "template": "pergunta",
+    "email1": false,
+    "email2": false,
+    "email3": false,
+    "targetProfile": "A/B"
   }
 ]
