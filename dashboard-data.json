@@ -1,6 +1,6 @@
 {
-  "lastUpdate": "2026-11-08T13:11:03.994Z",
-  "totalLeads": 4011,
+  "lastUpdate": "2026-11-08T21:55:47.478Z",
+  "totalLeads": 4012,
   "allLeads": [
     {
       "name": "Bar do Nerso",
@@ -12509,10 +12509,14 @@
     },
     {
       "name": "Il Covo Bar",
-      "type": "restaurante",
-      "neighborhood": "",
+      "type": "bar",
+      "neighborhood": "Consolação (SP)",
       "email": "rh@zenacaffe.com.br",
-      "email1": false
+      "emailVerified": true,
+      "email1": true,
+      "date1": "2026-11-08",
+      "email2": false,
+      "email3": false
     },
     {
       "name": "Imma Restaurante",
@@ -34580,13 +34584,25 @@
       "date1": "2026-11-07",
       "email2": false,
       "email3": false
+    },
+    {
+      "name": "D.EDGE",
+      "type": "balada",
+      "neighborhood": "Barra Funda (SP)",
+      "city": "São Paulo (SP)",
+      "email": "contato@d-edge.com.br",
+      "emailVerified": true,
+      "email1": true,
+      "date1": "2026-11-08",
+      "email2": false,
+      "email3": false
     }
   ],
   "emails": {
-    "email1": 567,
+    "email1": 569,
     "email2": 1,
     "email3": 0,
-    "total": 568
+    "total": 570
   },
   "whatsapp": {
     "today": 0,
@@ -34649,13 +34665,13 @@
     },
     {
       "date": "2026-11-08",
-      "count": 0
+      "count": 2
     }
   ],
   "topNeighborhoods": [
     {
       "name": "Sem bairro",
-      "count": 2629
+      "count": 2628
     },
     {
       "name": "São Paulo",
@@ -34703,6 +34719,19 @@
     }
   ],
   "recentLeads": [
+    {
+      "name": "Il Covo Bar",
+      "type": "bar",
+      "neighborhood": "Consolação (SP)",
+      "email1": true
+    },
+    {
+      "name": "D.EDGE",
+      "type": "balada",
+      "neighborhood": "Barra Funda (SP)",
+      "city": "São Paulo (SP)",
+      "email1": true
+    },
     {
       "name": "Avolta - Duty Free",
       "type": "loja_bebidas",
@@ -34756,68 +34785,56 @@
       "type": "bar",
       "neighborhood": "República",
       "email1": true
-    },
-    {
-      "name": "Esther Rooftop",
-      "type": "bar",
-      "neighborhood": "",
-      "email1": true
-    },
-    {
-      "name": "Palácio Tangará",
-      "type": "bar",
-      "neighborhood": "Morumbi",
-      "email1": true
     }
   ],
   "funnel": {
-    "leads": 4011,
-    "email1": 567,
+    "leads": 4012,
+    "email1": 569,
     "email2": 1,
     "email3": 0,
     "responded": 5
   },
   "week": {
-    "leads": 462,
+    "leads": 464,
     "emails": {
-      "email1": 462,
+      "email1": 464,
       "email2": 0,
       "email3": 0,
-      "total": 462
+      "total": 464
     },
     "responses": 0
   },
   "month": {
-    "leads": 462,
+    "leads": 464,
     "emails": {
-      "email1": 462,
+      "email1": 464,
       "email2": 0,
       "email3": 0,
-      "total": 462
+      "total": 464
     },
     "responses": 0
   },
   "year": {
-    "leads": 569,
+    "leads": 571,
     "emails": {
-      "email1": 567,
+      "email1": 569,
       "email2": 1,
       "email3": 0,
-      "total": 568
+      "total": 570
     },
     "responses": 5
   },
   "segments": [
     {
       "name": "restaurante",
-      "total": 2133,
+      "total": 2132,
       "email1": 81,
       "responded": 0
     },
     {
       "name": "bar",
-      "total": 595,
-      "email1": 152,
+      "total": 596,
+      "email1": 153,
       "responded": 0
     },
     {
@@ -34840,8 +34857,8 @@
     },
     {
       "name": "balada",
-      "total": 67,
-      "email1": 62,
+      "total": 68,
+      "email1": 63,
       "responded": 0
     },
     {
