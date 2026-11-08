@@ -21772,7 +21772,7 @@
     "phone": "113082-9362",
     "template": "consultivo",
     "website": "",
-    "email1": false,
+    "email1": true,
     "targetProfile": "A/B",
     "emailVerified": true,
     "emailSource": "https://www.instagram.com/ilcovobar/",
@@ -21780,7 +21780,8 @@
     "mxVerified": true,
     "mxVerifiedAt": "2026-11-08",
     "email2": false,
-    "email3": false
+    "email3": false,
+    "date1": "2026-11-08"
   },
   {
     "name": "Imma Restaurante",
