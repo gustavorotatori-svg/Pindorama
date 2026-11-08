@@ -21765,15 +21765,22 @@
   {
     "name": "Il Covo Bar",
     "email": "rh@zenacaffe.com.br",
-    "type": "restaurante",
-    "neighborhood": "",
-    "address": "",
-    "context": "PARA IR A DOIS; respons├ível: DUDU; instagram: https://www.instagram.com/ilcovobar/",
+    "type": "bar",
+    "neighborhood": "Consolação (SP)",
+    "address": "Rua Haddock Lobo, 60 - Consolação, São Paulo/SP",
+    "context": "Il Covo Bar — coquetelaria secreta (escondida atraves da geladeira), foco em drinks autorais e degustacoes; ideal para carta de cachaça artesanal premium. Trabalhamos com cachaça de fazenda propria no Vale do Café (RJ), mesma que atende Fasano, Hilton e Rosewood.",
     "phone": "113082-9362",
-    "template": "prova_social",
+    "template": "consultivo",
     "website": "",
     "email1": false,
-    "targetProfile": "C/D"
+    "targetProfile": "A/B",
+    "emailVerified": true,
+    "emailSource": "https://www.instagram.com/ilcovobar/",
+    "emailVerifiedAt": "2026-11-08",
+    "mxVerified": true,
+    "mxVerifiedAt": "2026-11-08",
+    "email2": false,
+    "email3": false
   },
   {
     "name": "Imma Restaurante",
