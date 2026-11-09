@@ -1,6 +1,6 @@
 {
-  "lastUpdate": "2026-11-09T05:55:44.588Z",
-  "totalLeads": 4012,
+  "lastUpdate": "2026-11-09T15:58:17.065Z",
+  "totalLeads": 4016,
   "allLeads": [
     {
       "name": "Bar do Nerso",
@@ -34596,13 +34596,61 @@
       "date1": "2026-11-08",
       "email2": false,
       "email3": false
+    },
+    {
+      "name": "Coffee Lab",
+      "type": "cafeteria",
+      "neighborhood": "Aspicuelta / Fernão Dias (SP)",
+      "city": "São Paulo (SP)",
+      "email": "faleconosco@coffeelab.com.br",
+      "emailVerified": true,
+      "email1": true,
+      "date1": "2026-11-09",
+      "email2": false,
+      "email3": false
+    },
+    {
+      "name": "Um Coffee Co",
+      "type": "cafeteria",
+      "neighborhood": "Pinheiros (Vila Madalena) (SP)",
+      "city": "São Paulo (SP)",
+      "email": "adm@umcoffeeco.com.br",
+      "emailVerified": true,
+      "email1": true,
+      "date1": "2026-11-09",
+      "email2": false,
+      "email3": false
+    },
+    {
+      "name": "Mistral Wine Bar",
+      "type": "bar",
+      "neighborhood": "Jardim Paulistano / Iguatemi (SP)",
+      "city": "São Paulo (SP)",
+      "email": "winebar@mistral.com.br",
+      "emailVerified": true,
+      "email1": true,
+      "date1": "2026-11-09",
+      "email2": false,
+      "email3": false
+    },
+    {
+      "name": "Carnicero Steakhouse",
+      "type": "steakhouse",
+      "neighborhood": "São Paulo (SP)",
+      "city": "São Paulo (SP)",
+      "email": "info@carnicerogroup.com",
+      "emailVerified": true,
+      "email1": true,
+      "date1": "2026-11-09",
+      "email2": false,
+      "email3": false
     }
   ],
   "emails": {
-    "email1": 569,
+    "email1": 573,
     "email2": 1,
     "email3": 0,
-    "total": 570
+    "total": 574
   },
   "whatsapp": {
     "today": 0,
@@ -34665,7 +34713,7 @@
     },
     {
       "date": "2026-11-09",
-      "count": 0
+      "count": 4
     }
   ],
   "topNeighborhoods": [
@@ -34720,6 +34768,34 @@
   ],
   "recentLeads": [
     {
+      "name": "Coffee Lab",
+      "type": "cafeteria",
+      "neighborhood": "Aspicuelta / Fernão Dias (SP)",
+      "city": "São Paulo (SP)",
+      "email1": true
+    },
+    {
+      "name": "Um Coffee Co",
+      "type": "cafeteria",
+      "neighborhood": "Pinheiros (Vila Madalena) (SP)",
+      "city": "São Paulo (SP)",
+      "email1": true
+    },
+    {
+      "name": "Mistral Wine Bar",
+      "type": "bar",
+      "neighborhood": "Jardim Paulistano / Iguatemi (SP)",
+      "city": "São Paulo (SP)",
+      "email1": true
+    },
+    {
+      "name": "Carnicero Steakhouse",
+      "type": "steakhouse",
+      "neighborhood": "São Paulo (SP)",
+      "city": "São Paulo (SP)",
+      "email1": true
+    },
+    {
       "name": "Il Covo Bar",
       "type": "bar",
       "neighborhood": "Consolação (SP)",
@@ -34759,68 +34835,42 @@
       "neighborhood": "Liberdade (SP)",
       "city": "São Paulo (SP)",
       "email1": true
-    },
-    {
-      "name": "Butiello",
-      "type": "emporio",
-      "neighborhood": "Jd. Iguatemi / Cidade Tiradentes (SP)",
-      "city": "São Paulo (SP)",
-      "email1": true
-    },
-    {
-      "name": "Rede Drops Motéis",
-      "type": "hotel",
-      "neighborhood": "Araraquara (SP) / Florianópolis (SC)",
-      "city": "Florianópolis (SC)",
-      "email1": true
-    },
-    {
-      "name": "Cantaloup",
-      "type": "bar",
-      "neighborhood": "Itaim Bibi",
-      "email1": true
-    },
-    {
-      "name": "A Casa do Porco Bar",
-      "type": "bar",
-      "neighborhood": "República",
-      "email1": true
     }
   ],
   "funnel": {
-    "leads": 4012,
-    "email1": 569,
+    "leads": 4016,
+    "email1": 573,
     "email2": 1,
     "email3": 0,
     "responded": 5
   },
   "week": {
-    "leads": 365,
+    "leads": 369,
     "emails": {
-      "email1": 365,
+      "email1": 369,
       "email2": 0,
       "email3": 0,
-      "total": 365
+      "total": 369
     },
     "responses": 0
   },
   "month": {
-    "leads": 464,
+    "leads": 468,
     "emails": {
-      "email1": 464,
+      "email1": 468,
       "email2": 0,
       "email3": 0,
-      "total": 464
+      "total": 468
     },
     "responses": 0
   },
   "year": {
-    "leads": 571,
+    "leads": 575,
     "emails": {
-      "email1": 569,
+      "email1": 573,
       "email2": 1,
       "email3": 0,
-      "total": 570
+      "total": 574
     },
     "responses": 5
   },
@@ -34833,8 +34883,8 @@
     },
     {
       "name": "bar",
-      "total": 596,
-      "email1": 153,
+      "total": 597,
+      "email1": 154,
       "responded": 0
     },
     {
@@ -34875,8 +34925,8 @@
     },
     {
       "name": "cafeteria",
-      "total": 53,
-      "email1": 26,
+      "total": 55,
+      "email1": 28,
       "responded": 0
     },
     {
@@ -35417,6 +35467,12 @@
       "name": "marmitaria",
       "total": 1,
       "email1": 0,
+      "responded": 0
+    },
+    {
+      "name": "steakhouse",
+      "total": 1,
+      "email1": 1,
       "responded": 0
     }
   ]
