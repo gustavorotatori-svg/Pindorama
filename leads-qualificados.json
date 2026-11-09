@@ -63116,5 +63116,25 @@
     "email3": false,
     "targetProfile": "A/B",
     "date1": "2026-11-09"
+  },
+  {
+    "name": "Carnicero Steakhouse",
+    "email": "info@carnicerogroup.com",
+    "type": "steakhouse",
+    "neighborhood": "São Paulo (SP)",
+    "city": "São Paulo (SP)",
+    "address": "São Paulo/SP",
+    "website": "https://carnicerogroup.com/",
+    "phone": "",
+    "context": "Carnicero Steakhouse — unidade steakhouse do grupo Carnicero (açaou/esteira de carnes premium); cortes nobres, carne de alta qualidade e proposta gastronômica carnívora; B2B: cachaça artesanal premium como harmonização/complemento de experiências com cortes nobres e degustações de carne.",
+    "emailVerified": true,
+    "emailSource": "https://carnicerogroup.com/",
+    "emailVerifiedAt": "2026-11-09",
+    "mxVerified": true,
+    "template": "consultivo",
+    "email1": false,
+    "email2": false,
+    "email3": false,
+    "targetProfile": "A/B"
   }
 ]
