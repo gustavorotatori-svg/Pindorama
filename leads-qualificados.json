@@ -63095,5 +63095,25 @@
     "email3": false,
     "targetProfile": "A/B",
     "date1": "2026-11-09"
+  },
+  {
+    "name": "Mistral Wine Bar",
+    "email": "winebar@mistral.com.br",
+    "type": "bar",
+    "neighborhood": "Jardim Paulistano / Iguatemi (SP)",
+    "city": "São Paulo (SP)",
+    "address": "Av. Brigadeiro Faria Lima 2232 - Shopping Iguatemi, Jardim Paulistano, São Paulo/SP",
+    "website": "https://www.mistral.com.br/",
+    "phone": "(11) 96450-1461",
+    "context": "Mistral Wine Bar — wine bar do Shopping Iguatemi (Av. Brigadeiro Faria Lima 2232, Jardim Paulistano/SP) mantido pela maior importadora de vinhos do Brasil; vinho por taça/garrafa com harmonias, degustações e menu de harmonias; B2B com restaurantes/cafeterias/bares para experiências de degustação com cachaça artesanal premium.",
+    "emailVerified": true,
+    "emailSource": "https://www.mistral.com.br/",
+    "emailVerifiedAt": "2026-11-09",
+    "mxVerified": false,
+    "template": "consultivo",
+    "email1": false,
+    "email2": false,
+    "email3": false,
+    "targetProfile": "A/B"
   }
 ]
