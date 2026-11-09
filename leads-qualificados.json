@@ -63069,10 +63069,11 @@
     "emailVerifiedAt": "2026-11-09",
     "mxVerified": false,
     "template": "consultivo",
-    "email1": false,
+    "email1": true,
     "email2": false,
     "email3": false,
-    "targetProfile": "A/B"
+    "targetProfile": "A/B",
+    "date1": "2026-11-09"
   },
   {
     "name": "Um Coffee Co",
@@ -63089,9 +63090,10 @@
     "emailVerifiedAt": "2026-11-09",
     "mxVerified": false,
     "template": "consultivo",
-    "email1": false,
+    "email1": true,
     "email2": false,
     "email3": false,
-    "targetProfile": "A/B"
+    "targetProfile": "A/B",
+    "date1": "2026-11-09"
   }
 ]
