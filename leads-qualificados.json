@@ -63137,5 +63137,25 @@
     "email3": false,
     "targetProfile": "A/B",
     "date1": "2026-11-09"
+  },
+  {
+    "name": "Cebicheria Peruana (La Mar)",
+    "email": "contato@lamarcebicheria.com.br",
+    "type": "restaurante",
+    "neighborhood": "São Paulo (SP)",
+    "city": "São Paulo (SP)",
+    "address": "São Paulo/SP",
+    "website": "",
+    "phone": "",
+    "context": "Cebicheria Peruana (La Mar) — restaurante peruano especializado em ceviche e frutos do mar; proposta gastronômica com bases de caipirinha e harmonizações; B2B: cachaça artesanal premium como base de caipirinha para ceviche e bebida de degustação com frutos do mar.",
+    "emailVerified": true,
+    "emailSource": "https://lamarcebicheria.com.br/",
+    "emailVerifiedAt": "2026-11-09",
+    "mxVerified": true,
+    "template": "consultivo",
+    "email1": false,
+    "email2": false,
+    "email3": false,
+    "targetProfile": "A/B"
   }
 ]
