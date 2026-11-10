@@ -63168,5 +63168,25 @@
     "email3": false,
     "targetProfile": "A/B",
     "date1": "2026-11-09"
+  },
+  {
+    "name": "Vero! Coquetelaria e Cozinha",
+    "email": "reservas@verocoquetelaria.com.br",
+    "type": "bar",
+    "neighborhood": "Pinheiros (SP)",
+    "city": "São Paulo (SP)",
+    "address": "Praça dos Omaguás 62 - Pinheiros, São Paulo/SP",
+    "website": "",
+    "phone": "",
+    "context": "Vero! Coquetelaria e Cozinha — bar de coquetelaria autoral em Pinheiros (Praça dos Omaguás 62), com carta criativa de drinks e cozinha para harmonização; ambiente premium voltado à experiência de coquetelaria. Fit: cachaça artesanal premium como base para caipirinhas autorais e coquetéis de assinatura.",
+    "emailVerified": true,
+    "emailSource": "https://www.baressp.com.br/bares/vero-coquetelaria-e-cozinha",
+    "emailVerifiedAt": "2026-11-10",
+    "mxVerified": true,
+    "template": "consultivo",
+    "email1": false,
+    "email2": false,
+    "email3": false,
+    "targetProfile": "A/B"
   }
 ]
