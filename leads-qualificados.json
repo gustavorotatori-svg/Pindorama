@@ -31757,9 +31757,9 @@
     "name": "Sampa Sky",
     "email": "sampasky@sampasky.com.br",
     "type": "restaurante",
-    "neighborhood": "",
+    "neighborhood": "Centro",
     "address": "",
-    "context": "Site oficial rastreado em 01/09/2026 confirma mirante ativo no Centro Historico de Sao Paulo, bar, cafe e eventos como aniversarios, confraternizacoes, shows e ativacoes de marca. Inferencia: oportunidade para testar Pindorama no bar e em eventos, com potencial de recompra pelo calendario recorrente.",
+    "context": "Sampa Sky — mirante/restaurante e bar no Centro Histórico de São Paulo, com vista panorâmica e experiência premium de drinks e gastronomia; alta demanda por coquetelaria para visitantes e eventos. Fit: cachaça artesanal premium como base para caipirinhas autorais e carta de drinks no bar/mirante.",
     "phone": "",
     "template": "consultivo",
     "website": "https://www.sampasky.com.br/",
@@ -31771,7 +31771,10 @@
     "email1": false,
     "email2": false,
     "email3": false,
-    "targetProfile": "C/D"
+    "targetProfile": "A/B",
+    "city": "São Paulo (SP)",
+    "emailFrozenUntil": null,
+    "emailCycleClosed": false
   },
   {
     "name": "BAR Figueiras",
@@ -33250,7 +33253,7 @@
     "type": "bar",
     "neighborhood": "Santana",
     "address": "Rua Alfredo Pujol, 1765 - Sao Paulo/SP",
-    "context": "Bar Tex-Mex ativo desde 2007, com cocktails premium, margaritas, mezcal e carta autoral.",
+    "context": "Habanero Bar — bar Tex-Mex ativo desde 2007 em Santana (SP), com cocktails premium, margaritas, mezcal e carta autoral. Fit: cachaça artesanal premium para ampliar a carta de coquetéis tropicais e caipirinhas autorais.",
     "phone": "(11) 2978-6864",
     "website": "https://habanerobar.com.br/",
     "emailVerified": true,
@@ -33260,7 +33263,11 @@
     "email1": false,
     "email2": false,
     "email3": false,
-    "targetProfile": "C/D"
+    "targetProfile": "A/B",
+    "city": "São Paulo (SP)",
+    "mxVerified": true,
+    "emailFrozenUntil": null,
+    "emailCycleClosed": false
   },
   {
     "name": "Santana Bar",
@@ -34067,9 +34074,9 @@
     "name": "Casa Hibrida",
     "email": "contato@casahibrida.com.br",
     "type": "bar",
-    "neighborhood": "Sumare",
+    "neighborhood": "Sumaré",
     "address": "Avenida Doutor Arnaldo, 1620 - Sumare - Sao Paulo/SP",
-    "context": "Bar e karaokê ativo em Sao Paulo com drinks e estrutura comercial para confraternizacoes, happy hours, encontros, workshops e eventos corporativos.",
+    "context": "Casa Híbrida — bar e karaokê em Sumaré (SP) com drinks e estrutura para confraternizações e eventos. Fit: cachaça artesanal premium para carta de caipirinhas e coquetéis em noites e eventos.",
     "phone": "(11) 91309-7225",
     "website": "https://casahibrida.com.br/",
     "emailVerified": true,
@@ -34079,7 +34086,11 @@
     "email1": false,
     "email2": false,
     "email3": false,
-    "targetProfile": "C/D"
+    "targetProfile": "A/B",
+    "city": "São Paulo (SP)",
+    "mxVerified": true,
+    "emailFrozenUntil": null,
+    "emailCycleClosed": false
   },
   {
     "name": "Curtica Bar",
@@ -35211,7 +35222,7 @@
     "type": "bar",
     "neighborhood": "Centro",
     "address": "Avenida dos Estados, 6843 - Centro - Santo Andre/SP - 09290-520",
-    "context": "Bar ativo em Santo Andre com programacao semanal de musica ao vivo, comemoracoes, happy hour, area kids de 250 m2 e mega telao. O cardapio oficial cita caipirinhas e carta de destilados; site atualizado em 2026 publica email e WhatsApp empresarial. Potencial de recompra e inferido pela operacao de alto giro e eventos, sem volume divulgado.",
+    "context": "Charllu Bar — bar ativo em Santo André (Centro) com programação semanal, música ao vivo, happy hour e carta de bebidas. Fit: cachaça artesanal premium para caipirinhas e drinks autorais no atendimento de bar e eventos.",
     "phone": "(11) 97826-6974",
     "website": "https://charllu.com.br/",
     "emailVerified": true,
@@ -35226,7 +35237,10 @@
     "whatsappSent": true,
     "whatsappDate": "2026-09-12",
     "whatsappSource": "https://charllu.com.br/",
-    "targetProfile": "C/D"
+    "targetProfile": "A/B",
+    "city": "Santo André (SP)",
+    "emailFrozenUntil": null,
+    "emailCycleClosed": false
   },
   {
     "name": "Hortifruti Higienopolis",
@@ -36039,13 +36053,13 @@
     "name": "Espaco Refugio",
     "email": "contato@espacorefugio.com.br",
     "phone": "(11) 99175-6000",
-    "type": "bar_restaurante_cachacas_caipirinhas",
-    "city": "Sao Paulo",
+    "type": "bar",
+    "city": "São Paulo (SP)",
     "neighborhood": "Belenzinho",
     "address": "Rua Julio de Castilhos, 412 - Belenzinho - Sao Paulo/SP",
     "website": "https://espacorefugio.com.br/",
     "source": "https://espacorefugio.com.br/cardapio/",
-    "context": "Cardapio oficial consultado em 30/08/2026 confirma casa de samba e gastronomia brasileira no Belenzinho, com caipirinhas preparadas com cachacas especiais, carta de cachacas artesanais, vinhos, pratos e porcoes; o site publica telefone e email empresariais para contato e reservas. Fato: operacao ativa, cachaca e coquetelaria no cardapio, publico presencial e canais empresariais publicados. Inferencia: encaixe forte para testar a Pindorama em caipirinhas, doses ou degustacao e gerar recompra pelo movimento da casa.",
+    "context": "Espaço Refúgio — bar e restaurante no Belenzinho (SP) com foco em samba, gastronomia brasileira e carta que já inclui cachaças e caipirinhas. Fit ideal: cachaça artesanal premium (Pindorama Clássica/Ouro e Cobra Coral) para fortalecer a carta de caipirinhas e experiências com cachaça.",
     "emailVerified": true,
     "emailSource": "https://espacorefugio.com.br/cardapio/",
     "emailVerifiedAt": "2026-10-13",
@@ -36058,7 +36072,9 @@
     "messageId1": "<0f225a92-eab4-615a-1293-779aecf97b6c@gmail.com>",
     "email2": false,
     "email3": false,
-    "targetProfile": "C/D"
+    "targetProfile": "A/B",
+    "emailFrozenUntil": null,
+    "emailCycleClosed": false
   },
   {
     "name": "Cesta Premium",
@@ -46628,10 +46644,10 @@
     "email": "contato@aselva.com.br",
     "type": "bar",
     "neighborhood": "Cambuí",
-    "city": "São Paulo",
+    "city": "Campinas (SP)",
     "website": "https://aselvabar.com/",
     "phone": "",
-    "context": "Bar ativo de coquetelaria autoral em Campinas, com laboratorio criativo, drinks e mocktails de cafe, gastronomia nipolatina e agenda semanal atualizada.",
+    "context": "A Selva Bar — bar ativo de coquetelaria autoral em Campinas (Cambuí), com laboratório criativo, drinks e mocktails. Fit: cachaça artesanal premium para criação de coquetéis autorais e releituras de caipirinhas na carta.",
     "emailVerified": true,
     "emailSource": "https://aselvabar.com/",
     "emailVerifiedAt": "2026-10-17",
@@ -46640,7 +46656,9 @@
     "email1": false,
     "email2": false,
     "email3": false,
-    "targetProfile": "C/D"
+    "targetProfile": "A/B",
+    "emailFrozenUntil": null,
+    "emailCycleClosed": false
   },
   {
     "name": "Venda Dona Noêmia",
