@@ -1,5 +1,5 @@
 {
-  "lastUpdate": "2026-11-10T14:43:31.065Z",
+  "lastUpdate": "2026-11-10T23:07:26.038Z",
   "totalLeads": 4018,
   "allLeads": [
     {
@@ -17880,10 +17880,12 @@
     {
       "name": "Sampa Sky",
       "type": "restaurante",
-      "neighborhood": "",
+      "neighborhood": "Centro",
+      "city": "São Paulo (SP)",
       "email": "sampasky@sampasky.com.br",
       "emailVerified": true,
-      "email1": false,
+      "email1": true,
+      "date1": "2026-11-10",
       "email2": false,
       "email3": false
     },
@@ -18696,9 +18698,11 @@
       "name": "Habanero Bar",
       "type": "bar",
       "neighborhood": "Santana",
+      "city": "São Paulo (SP)",
       "email": "contato@habanerobar.com.br",
       "emailVerified": true,
-      "email1": false,
+      "email1": true,
+      "date1": "2026-11-10",
       "email2": false,
       "email3": false
     },
@@ -19147,10 +19151,12 @@
     {
       "name": "Casa Hibrida",
       "type": "bar",
-      "neighborhood": "Sumare",
+      "neighborhood": "Sumaré",
+      "city": "São Paulo (SP)",
       "email": "contato@casahibrida.com.br",
       "emailVerified": true,
-      "email1": false,
+      "email1": true,
+      "date1": "2026-11-10",
       "email2": false,
       "email3": false
     },
@@ -19752,9 +19758,11 @@
       "name": "Charllu Bar",
       "type": "bar",
       "neighborhood": "Centro",
+      "city": "Santo André (SP)",
       "email": "charllu@charllu.com.br",
       "emailVerified": true,
-      "email1": false,
+      "email1": true,
+      "date1": "2026-11-10",
       "email2": false,
       "email3": false
     },
@@ -19988,10 +19996,12 @@
     {
       "name": "Emporio NetDrinks",
       "type": "adega",
-      "neighborhood": "Pinheiros e Higienopolis",
+      "neighborhood": "Pinheiros / Higienópolis",
+      "city": "São Paulo (SP)",
       "email": "netdrinks@netdrinks.com.br",
       "emailVerified": true,
-      "email1": false,
+      "email1": true,
+      "date1": "2026-11-10",
       "email2": false,
       "email3": false
     },
@@ -20150,12 +20160,13 @@
     },
     {
       "name": "Espaco Refugio",
-      "type": "bar_restaurante_cachacas_caipirinhas",
+      "type": "bar",
       "neighborhood": "Belenzinho",
-      "city": "Sao Paulo",
+      "city": "São Paulo (SP)",
       "email": "contato@espacorefugio.com.br",
       "emailVerified": true,
-      "email1": false,
+      "email1": true,
+      "date1": "2026-11-10",
       "email2": false,
       "email3": false
     },
@@ -26040,10 +26051,11 @@
       "name": "A Selva Bar",
       "type": "bar",
       "neighborhood": "Cambuí",
-      "city": "São Paulo",
+      "city": "Campinas (SP)",
       "email": "contato@aselva.com.br",
       "emailVerified": true,
-      "email1": false,
+      "email1": true,
+      "date1": "2026-11-10",
       "email2": false,
       "email3": false
     },
@@ -26130,21 +26142,23 @@
       "name": "Sampa Adega",
       "type": "adega",
       "neighborhood": "Vila Ema",
-      "city": "São Paulo",
+      "city": "São Paulo (SP)",
       "email": "contato@sampaadega.com.br",
       "emailVerified": true,
       "invalidEmail": false,
-      "email1": false
+      "email1": true,
+      "date1": "2026-11-10"
     },
     {
       "name": "Polar Adega",
       "type": "adega",
       "neighborhood": "Cidade Líder",
-      "city": "São Paulo",
+      "city": "São Paulo (SP)",
       "email": "contato@adegapolar.com.br",
       "emailVerified": true,
       "invalidEmail": false,
-      "email1": false
+      "email1": true,
+      "date1": "2026-11-10"
     },
     {
       "name": "Leges Bebidas",
@@ -29844,11 +29858,12 @@
     {
       "name": "Viareggio Ristorante",
       "type": "restaurante",
-      "neighborhood": "Chácara Sto Antonio",
-      "city": "São Paulo",
+      "neighborhood": "Chácara Santo Antônio",
+      "city": "São Paulo (SP)",
       "email": "contato@viareggioristorante.com.br",
       "emailVerified": true,
-      "email1": false,
+      "email1": true,
+      "date1": "2026-11-10",
       "email2": false,
       "email3": false
     },
@@ -29978,10 +29993,11 @@
       "name": "Urbe Café Bar",
       "type": "cafeteria",
       "neighborhood": "Consolação",
-      "city": "São Paulo",
+      "city": "São Paulo (SP)",
       "email": "lojaonline@urbecafe.com.br",
       "emailVerified": true,
-      "email1": false,
+      "email1": true,
+      "date1": "2026-11-10",
       "email2": false,
       "email3": false
     },
@@ -30228,10 +30244,11 @@
       "name": "Restaurante Finesse",
       "type": "restaurante",
       "neighborhood": "Vila Clementino",
-      "city": "São Paulo",
+      "city": "São Paulo (SP)",
       "email": "sac@restaurantefinesse.com.br",
       "emailVerified": true,
-      "email1": false,
+      "email1": true,
+      "date1": "2026-11-10",
       "email2": false,
       "email3": false
     },
@@ -30735,31 +30752,34 @@
     {
       "name": "Fogo de Chao Jardins",
       "type": "churrascaria",
-      "neighborhood": "Cerqueira Cesar",
-      "city": "Sao Paulo",
+      "neighborhood": "Cerqueira César",
+      "city": "São Paulo (SP)",
       "email": "jardins@fogodechao.com.br",
       "emailVerified": true,
-      "email1": false,
+      "email1": true,
+      "date1": "2026-11-10",
       "email2": false
     },
     {
       "name": "Fogo de Chao Vila Olympia",
       "type": "churrascaria",
-      "neighborhood": "Vila Olimpia",
-      "city": "Sao Paulo",
+      "neighborhood": "Vila Olímpia",
+      "city": "São Paulo (SP)",
       "email": "bandeirantes@fogodechao.com.br",
       "emailVerified": true,
-      "email1": false,
+      "email1": true,
+      "date1": "2026-11-10",
       "email2": false
     },
     {
       "name": "Churrascos Marcio",
       "type": "churrascaria",
       "neighborhood": "Parque Colonial",
-      "city": "Sao Paulo",
+      "city": "São Paulo (SP)",
       "email": "contato@churrascosmarcio.com.br",
       "emailVerified": true,
-      "email1": false,
+      "email1": true,
+      "date1": "2026-11-10",
       "email2": false
     },
     {
@@ -30776,10 +30796,11 @@
       "name": "Viva o Churrasco Lapa",
       "type": "churrascaria",
       "neighborhood": "Lapa",
-      "city": "Sao Paulo",
+      "city": "São Paulo (SP)",
       "email": "contato@vivaochurrasco.com.br",
       "emailVerified": true,
-      "email1": false,
+      "email1": true,
+      "date1": "2026-11-10",
       "email2": false
     },
     {
@@ -30988,17 +31009,23 @@
     {
       "name": "Hotel Normandie",
       "type": "hotel",
+      "neighborhood": "Centro",
+      "city": "São Paulo (SP)",
       "email": "reservas@hotelnormandie.com.br",
       "emailVerified": true,
-      "email1": false,
+      "email1": true,
+      "date1": "2026-11-10",
       "email2": false
     },
     {
       "name": "San Michel Hotel",
       "type": "hotel",
+      "neighborhood": "Centro",
+      "city": "São Paulo (SP)",
       "email": "reservas@sanmichelhotel.com.br",
       "emailVerified": true,
-      "email1": false,
+      "email1": true,
+      "date1": "2026-11-10",
       "email2": false
     },
     {
@@ -34676,17 +34703,17 @@
     }
   ],
   "emails": {
-    "email1": 576,
+    "email1": 594,
     "email2": 1,
     "email3": 0,
-    "total": 577
+    "total": 595
   },
   "whatsapp": {
     "today": 0,
     "total": 262
   },
   "responses": 5,
-  "pending": 1025,
+  "pending": 1007,
   "daily": [
     {
       "date": "2026-10-28",
@@ -34742,13 +34769,13 @@
     },
     {
       "date": "2026-11-10",
-      "count": 2
+      "count": 20
     }
   ],
   "topNeighborhoods": [
     {
       "name": "Sem bairro",
-      "count": 2627
+      "count": 2624
     },
     {
       "name": "São Paulo",
@@ -34756,7 +34783,7 @@
     },
     {
       "name": "Centro",
-      "count": 41
+      "count": 44
     },
     {
       "name": "Pinheiros",
@@ -34868,38 +34895,38 @@
   ],
   "funnel": {
     "leads": 4018,
-    "email1": 576,
+    "email1": 594,
     "email2": 1,
     "email3": 0,
     "responded": 5
   },
   "week": {
-    "leads": 272,
+    "leads": 290,
     "emails": {
-      "email1": 272,
+      "email1": 290,
       "email2": 0,
       "email3": 0,
-      "total": 272
+      "total": 290
     },
     "responses": 0
   },
   "month": {
-    "leads": 471,
+    "leads": 489,
     "emails": {
-      "email1": 471,
+      "email1": 489,
       "email2": 0,
       "email3": 0,
-      "total": 471
+      "total": 489
     },
     "responses": 0
   },
   "year": {
-    "leads": 578,
+    "leads": 596,
     "emails": {
-      "email1": 576,
+      "email1": 594,
       "email2": 1,
       "email3": 0,
-      "total": 577
+      "total": 595
     },
     "responses": 5
   },
@@ -34907,19 +34934,19 @@
     {
       "name": "restaurante",
       "total": 2133,
-      "email1": 82,
+      "email1": 85,
       "responded": 0
     },
     {
       "name": "bar",
-      "total": 598,
-      "email1": 156,
+      "total": 599,
+      "email1": 161,
       "responded": 0
     },
     {
       "name": "adega",
       "total": 273,
-      "email1": 67,
+      "email1": 70,
       "responded": 0
     },
     {
@@ -34955,7 +34982,7 @@
     {
       "name": "cafeteria",
       "total": 55,
-      "email1": 28,
+      "email1": 29,
       "responded": 0
     },
     {
@@ -35027,7 +35054,7 @@
     {
       "name": "hotel",
       "total": 13,
-      "email1": 4,
+      "email1": 6,
       "responded": 0
     },
     {
@@ -35093,18 +35120,12 @@
     {
       "name": "churrascaria",
       "total": 5,
-      "email1": 0,
+      "email1": 4,
       "responded": 0
     },
     {
       "name": "vinhoteca",
       "total": 5,
-      "email1": 0,
-      "responded": 0
-    },
-    {
-      "name": "bar_restaurante_cachacas_caipirinhas",
-      "total": 4,
       "email1": 0,
       "responded": 0
     },
@@ -35140,6 +35161,12 @@
     },
     {
       "name": "emporio_ecommerce_cachacas_premium",
+      "total": 3,
+      "email1": 0,
+      "responded": 0
+    },
+    {
+      "name": "bar_restaurante_cachacas_caipirinhas",
       "total": 3,
       "email1": 0,
       "responded": 0
