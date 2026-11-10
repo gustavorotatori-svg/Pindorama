@@ -3439,7 +3439,7 @@
     "phone": "3062-2851 RESERVAS / 11 947042570 / 01195267-4437 / 11 99974-7443 VERONICA / 1195267-4437",
     "template": "consultivo",
     "website": "https://tettolounge.com/",
-    "email1": false,
+    "email1": true,
     "email2": false,
     "email3": false,
     "targetProfile": "A/B",
@@ -3451,7 +3451,8 @@
     "doNotContact": false,
     "invalidEmail": false,
     "emailFrozenUntil": null,
-    "emailCycleClosed": false
+    "emailCycleClosed": false,
+    "date1": "2026-11-10"
   },
   {
     "name": "S├â┬ôSHOTS & GIN CLUB",
