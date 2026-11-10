@@ -63184,9 +63184,10 @@
     "emailVerifiedAt": "2026-11-10",
     "mxVerified": true,
     "template": "consultivo",
-    "email1": false,
+    "email1": true,
     "email2": false,
     "email3": false,
-    "targetProfile": "A/B"
+    "targetProfile": "A/B",
+    "date1": "2026-11-10"
   }
 ]
