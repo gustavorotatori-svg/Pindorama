@@ -35707,9 +35707,9 @@
     "name": "Emporio NetDrinks",
     "email": "netdrinks@netdrinks.com.br",
     "type": "adega",
-    "neighborhood": "Pinheiros e Higienopolis",
+    "neighborhood": "Pinheiros / Higienópolis",
     "address": "Rua dos Pinheiros, 861 - Pinheiros; Rua Baronesa de Itu, 481 - Higienopolis - Sao Paulo/SP",
-    "context": "Emporio de bebidas ativo desde 2002 com duas unidades em Sao Paulo, delivery e selecao ampla de cachacas, vinhos e destilados. Fontes recentes confirmam quatro rotulos Brasilchik, inclusive premium e extra premium, email empresarial e WhatsApps publicados; fit direto para ampliacao da linha de cachacas e potencial de recompra inferido pelas duas lojas, sem comprador nominal divulgado.",
+    "context": "Empório NetDrinks — empório de bebidas ativo desde 2002 com unidades em Pinheiros e Higienópolis (SP), seleção ampla e delivery. Fit: cachaça artesanal premium (Pindorama e Cobra Coral) para portfólio de destilados premium e revenda.",
     "phone": "(11) 94036-2117",
     "website": "http://www.netdrinks.com.br/",
     "emailVerified": true,
@@ -35721,7 +35721,10 @@
     "email1": false,
     "email2": false,
     "email3": false,
-    "targetProfile": "C/D"
+    "targetProfile": "A/B",
+    "city": "São Paulo (SP)",
+    "emailFrozenUntil": null,
+    "emailCycleClosed": false
   },
   {
     "name": "Emporio Cananeia",
@@ -46806,9 +46809,9 @@
     "email": "contato@sampaadega.com.br",
     "type": "adega",
     "neighborhood": "Vila Ema",
-    "city": "São Paulo",
+    "city": "São Paulo (SP)",
     "website": "https://www.sampaadega.com.br",
-    "context": "Adega em Vila Ema, São Paulo.",
+    "context": "Sampa Adega — adega em Vila Ema (São Paulo/SP) com atendimento local e oferta de bebidas. Fit: cachaça artesanal premium para ampliar portfólio de cachaças especiais e indicações aos clientes.",
     "phone": "(11) 98402-3929",
     "emailVerified": true,
     "emailSource": "https://www.sampaadega.com.br",
@@ -46820,16 +46823,18 @@
     "whatsappSent": true,
     "whatsappDate": "2026-10-19",
     "whatsappSource": "https://www.sampaadega.com.br/",
-    "targetProfile": "C/D"
+    "targetProfile": "A/B",
+    "emailFrozenUntil": null,
+    "emailCycleClosed": false
   },
   {
     "name": "Polar Adega",
     "email": "contato@adegapolar.com.br",
     "type": "adega",
     "neighborhood": "Cidade Líder",
-    "city": "São Paulo",
+    "city": "São Paulo (SP)",
     "website": "http://adegapolar.com.br",
-    "context": "Adega e distribuidora em Cidade Líder.",
+    "context": "Polar Adega — adega e distribuidora em Cidade Líder (São Paulo/SP). Fit: cachaça artesanal premium para portfólio de destilados e revenda local.",
     "phone": "(11) 9620-6646",
     "emailVerified": true,
     "emailSource": "http://adegapolar.com.br",
@@ -46838,7 +46843,9 @@
     "template": "consultivo",
     "email1": false,
     "invalidEmail": false,
-    "targetProfile": "C/D"
+    "targetProfile": "A/B",
+    "emailFrozenUntil": null,
+    "emailCycleClosed": false
   },
   {
     "name": "Leges Bebidas",
@@ -53256,11 +53263,11 @@
     "name": "Viareggio Ristorante",
     "email": "contato@viareggioristorante.com.br",
     "type": "restaurante",
-    "neighborhood": "Chácara Sto Antonio",
-    "city": "São Paulo",
+    "neighborhood": "Chácara Santo Antônio",
+    "city": "São Paulo (SP)",
     "website": "https://viareggioristorante.com.br",
     "phone": "(11) 94516-1590",
-    "context": "Italiano zona sul, eventos corporativos",
+    "context": "Viareggio Ristorante — restaurante italiano na Chácara Santo Antônio (SP), com foco em gastronomia e eventos corporativos. Fit: cachaça artesanal premium para carta de drinks/caipirinhas e harmonização em eventos e serviço de salão.",
     "emailVerified": true,
     "emailSource": "https://viareggioristorante.com.br",
     "emailVerifiedAt": "2026-10-18",
@@ -53268,8 +53275,10 @@
     "template": "consultivo",
     "email1": false,
     "email2": false,
-    "targetProfile": "C/D",
-    "email3": false
+    "targetProfile": "A/B",
+    "email3": false,
+    "emailFrozenUntil": null,
+    "emailCycleClosed": false
   },
   {
     "name": "Donna di Nico Trattoria",
@@ -54875,10 +54884,10 @@
     "email": "contato@churrascosmarcio.com.br",
     "type": "churrascaria",
     "neighborhood": "Parque Colonial",
-    "city": "Sao Paulo",
+    "city": "São Paulo (SP)",
     "website": "https://www.churrascosmarcio.com.br",
     "phone": "(11) 2738-7518",
-    "context": "Festas em domicilio, eventos",
+    "context": "Churrascos Marcio — churrascaria e operação de eventos/festas em domicílio em São Paulo (SP). Fit: cachaça artesanal premium para caipirinhas e bar de drinks em eventos e atendimento gastronômico.",
     "emailVerified": true,
     "emailSource": "https://www.churrascosmarcio.com.br",
     "emailVerifiedAt": "2026-10-18",
@@ -54886,7 +54895,9 @@
     "template": "consultivo",
     "email1": false,
     "email2": false,
-    "targetProfile": "C/D"
+    "targetProfile": "A/B",
+    "emailFrozenUntil": null,
+    "emailCycleClosed": false
   },
   {
     "name": "Premier Haus Brooklin",
@@ -54911,10 +54922,10 @@
     "email": "contato@vivaochurrasco.com.br",
     "type": "churrascaria",
     "neighborhood": "Lapa",
-    "city": "Sao Paulo",
+    "city": "São Paulo (SP)",
     "website": "https://www.vivaochurrasco.com.br",
     "phone": "(11) 2337-5947",
-    "context": "Churrascaria Lapa",
+    "context": "Viva o Churrasco Lapa — churrascaria na Lapa (São Paulo/SP) com foco em carnes e experiência de rodízio. Fit: cachaça artesanal premium para caipirinhas e carta de drinks no bar/restaurante.",
     "emailVerified": true,
     "emailSource": "https://www.vivaochurrasco.com.br",
     "emailVerifiedAt": "2026-10-18",
@@ -54922,7 +54933,9 @@
     "template": "consultivo",
     "email1": false,
     "email2": false,
-    "targetProfile": "C/D"
+    "targetProfile": "A/B",
+    "emailFrozenUntil": null,
+    "emailCycleClosed": false
   },
   {
     "name": "Go Meat",
