@@ -31768,13 +31768,14 @@
     "emailVerifiedAt": "2026-10-13",
     "mxVerified": true,
     "mxVerifiedAt": "2026-09-01",
-    "email1": false,
+    "email1": true,
     "email2": false,
     "email3": false,
     "targetProfile": "A/B",
     "city": "São Paulo (SP)",
     "emailFrozenUntil": null,
-    "emailCycleClosed": false
+    "emailCycleClosed": false,
+    "date1": "2026-11-10"
   },
   {
     "name": "BAR Figueiras",
@@ -33260,14 +33261,15 @@
     "emailSource": "https://habanerobar.com.br/",
     "emailVerifiedAt": "2026-10-13",
     "template": "consultivo",
-    "email1": false,
+    "email1": true,
     "email2": false,
     "email3": false,
     "targetProfile": "A/B",
     "city": "São Paulo (SP)",
     "mxVerified": true,
     "emailFrozenUntil": null,
-    "emailCycleClosed": false
+    "emailCycleClosed": false,
+    "date1": "2026-11-10"
   },
   {
     "name": "Santana Bar",
@@ -34083,14 +34085,15 @@
     "emailSource": "https://casahibrida.com.br/",
     "emailVerifiedAt": "2026-10-13",
     "template": "consultivo",
-    "email1": false,
+    "email1": true,
     "email2": false,
     "email3": false,
     "targetProfile": "A/B",
     "city": "São Paulo (SP)",
     "mxVerified": true,
     "emailFrozenUntil": null,
-    "emailCycleClosed": false
+    "emailCycleClosed": false,
+    "date1": "2026-11-10"
   },
   {
     "name": "Curtica Bar",
@@ -35231,7 +35234,7 @@
     "mxVerified": true,
     "mxVerifiedAt": "2026-08-22",
     "template": "consultivo",
-    "email1": false,
+    "email1": true,
     "email2": false,
     "email3": false,
     "whatsappSent": true,
@@ -35240,7 +35243,8 @@
     "targetProfile": "A/B",
     "city": "Santo André (SP)",
     "emailFrozenUntil": null,
-    "emailCycleClosed": false
+    "emailCycleClosed": false,
+    "date1": "2026-11-10"
   },
   {
     "name": "Hortifruti Higienopolis",
@@ -36068,13 +36072,14 @@
     "verifiedAt": "2026-08-30",
     "status": "contacted",
     "template": "consultivo",
-    "email1": false,
+    "email1": true,
     "messageId1": "<0f225a92-eab4-615a-1293-779aecf97b6c@gmail.com>",
     "email2": false,
     "email3": false,
     "targetProfile": "A/B",
     "emailFrozenUntil": null,
-    "emailCycleClosed": false
+    "emailCycleClosed": false,
+    "date1": "2026-11-10"
   },
   {
     "name": "Cesta Premium",
@@ -46653,12 +46658,13 @@
     "emailVerifiedAt": "2026-10-17",
     "mxVerified": true,
     "template": "consultivo",
-    "email1": false,
+    "email1": true,
     "email2": false,
     "email3": false,
     "targetProfile": "A/B",
     "emailFrozenUntil": null,
-    "emailCycleClosed": false
+    "emailCycleClosed": false,
+    "date1": "2026-11-10"
   },
   {
     "name": "Venda Dona Noêmia",
