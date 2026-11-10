@@ -53495,12 +53495,13 @@
     "emailVerifiedAt": "2026-10-18",
     "mxVerified": true,
     "template": "consultivo",
-    "email1": false,
+    "email1": true,
     "email2": false,
     "targetProfile": "A/B",
     "email3": false,
     "emailFrozenUntil": null,
-    "emailCycleClosed": false
+    "emailCycleClosed": false,
+    "date1": "2026-11-10"
   },
   {
     "name": "Sterna Café",
@@ -53931,12 +53932,13 @@
     "emailVerifiedAt": "2026-10-18",
     "mxVerified": true,
     "template": "consultivo",
-    "email1": false,
+    "email1": true,
     "email2": false,
     "targetProfile": "A/B",
     "email3": false,
     "emailFrozenUntil": null,
-    "emailCycleClosed": false
+    "emailCycleClosed": false,
+    "date1": "2026-11-10"
   },
   {
     "name": "Bewow Kombucha",
@@ -54840,11 +54842,12 @@
     "emailVerifiedAt": "2026-10-18",
     "mxVerified": true,
     "template": "consultivo",
-    "email1": false,
+    "email1": true,
     "email2": false,
     "targetProfile": "A/B",
     "emailFrozenUntil": null,
-    "emailCycleClosed": false
+    "emailCycleClosed": false,
+    "date1": "2026-11-10"
   },
   {
     "name": "Fogo de Chao Vila Olympia",
@@ -54860,11 +54863,12 @@
     "emailVerifiedAt": "2026-10-18",
     "mxVerified": true,
     "template": "consultivo",
-    "email1": false,
+    "email1": true,
     "email2": false,
     "targetProfile": "A/B",
     "emailFrozenUntil": null,
-    "emailCycleClosed": false
+    "emailCycleClosed": false,
+    "date1": "2026-11-10"
   },
   {
     "name": "Churrascos Marcio",
@@ -55309,14 +55313,15 @@
     "emailVerifiedAt": "2026-10-21",
     "mxVerified": true,
     "template": "consultivo",
-    "email1": false,
+    "email1": true,
     "context": "Hotel Normandie — hotel histórico no Centro de São Paulo (Av. Ipiranga 1187) com operação hoteleira e atendimento a hóspedes/eventos. Fit: cachaça artesanal premium para bar/restaurante do hotel e experiências de bebidas para hóspedes.",
     "targetProfile": "A/B",
     "email2": false,
     "city": "São Paulo (SP)",
     "neighborhood": "Centro",
     "emailFrozenUntil": null,
-    "emailCycleClosed": false
+    "emailCycleClosed": false,
+    "date1": "2026-11-10"
   },
   {
     "name": "San Michel Hotel",
@@ -55330,14 +55335,15 @@
     "emailVerifiedAt": "2026-10-21",
     "mxVerified": true,
     "template": "consultivo",
-    "email1": false,
+    "email1": true,
     "context": "San Michel Hotel — hotel no Centro de São Paulo (Largo do Arouche 200) com restaurante próprio e atendimento a hóspedes. Fit: cachaça artesanal premium para carta de caipirinhas/drinks no bar e restaurante do hotel.",
     "targetProfile": "A/B",
     "email2": false,
     "city": "São Paulo (SP)",
     "neighborhood": "Centro",
     "emailFrozenUntil": null,
-    "emailCycleClosed": false
+    "emailCycleClosed": false,
+    "date1": "2026-11-10"
   },
   {
     "name": "LeoDolci Santo Amaro",
