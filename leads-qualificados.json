@@ -53486,10 +53486,10 @@
     "email": "lojaonline@urbecafe.com.br",
     "type": "cafeteria",
     "neighborhood": "Consolação",
-    "city": "São Paulo",
+    "city": "São Paulo (SP)",
     "website": "https://www.urbecafe.com.br",
     "phone": "(11) 91042-6815",
-    "context": "Café bar Consolação",
+    "context": "Urbe Café Bar — café bar em Consolação (SP), ambiente urbano com operação de cafeteria e bebidas. Fit: cachaça artesanal premium para coquetéis e caipirinhas autorais no menu de bar.",
     "emailVerified": true,
     "emailSource": "https://www.urbecafe.com.br",
     "emailVerifiedAt": "2026-10-18",
@@ -53497,8 +53497,10 @@
     "template": "consultivo",
     "email1": false,
     "email2": false,
-    "targetProfile": "C/D",
-    "email3": false
+    "targetProfile": "A/B",
+    "email3": false,
+    "emailFrozenUntil": null,
+    "emailCycleClosed": false
   },
   {
     "name": "Sterna Café",
@@ -53920,10 +53922,10 @@
     "email": "sac@restaurantefinesse.com.br",
     "type": "restaurante",
     "neighborhood": "Vila Clementino",
-    "city": "São Paulo",
+    "city": "São Paulo (SP)",
     "website": "https://restaurantefinesse.com.br",
     "phone": "(11) 96607-5409",
-    "context": "Desde 1954, lanche pernil Estadão, UNIFESP",
+    "context": "Restaurante Finesse — restaurante tradicional desde 1954 em Vila Clementino (SP), referência em clássicos paulistanos e grande fluxo. Fit: cachaça artesanal premium para caipirinhas e drinks no atendimento de salão/bar.",
     "emailVerified": true,
     "emailSource": "https://restaurantefinesse.com.br",
     "emailVerifiedAt": "2026-10-18",
@@ -53931,8 +53933,10 @@
     "template": "consultivo",
     "email1": false,
     "email2": false,
-    "targetProfile": "C/D",
-    "email3": false
+    "targetProfile": "A/B",
+    "email3": false,
+    "emailFrozenUntil": null,
+    "emailCycleClosed": false
   },
   {
     "name": "Bewow Kombucha",
@@ -54826,11 +54830,11 @@
     "name": "Fogo de Chao Jardins",
     "email": "jardins@fogodechao.com.br",
     "type": "churrascaria",
-    "neighborhood": "Cerqueira Cesar",
-    "city": "Sao Paulo",
+    "neighborhood": "Cerqueira César",
+    "city": "São Paulo (SP)",
     "website": "https://fogodechao.com.br",
     "phone": "(11) 96644-1397",
-    "context": "380 lugares, Next Level Lounge, premium",
+    "context": "Fogo de Chão Jardins — churrascaria premium (Cerqueira César, SP), 380 lugares e lounge; alta demanda por experiências gastronômicas e carta de bebidas. Fit: cachaça artesanal premium para caipirinhas e harmonização com carnes na operação do bar/restaurante.",
     "emailVerified": true,
     "emailSource": "https://fogodechao.com.br",
     "emailVerifiedAt": "2026-10-18",
@@ -54838,17 +54842,19 @@
     "template": "consultivo",
     "email1": false,
     "email2": false,
-    "targetProfile": "C/D"
+    "targetProfile": "A/B",
+    "emailFrozenUntil": null,
+    "emailCycleClosed": false
   },
   {
     "name": "Fogo de Chao Vila Olympia",
     "email": "bandeirantes@fogodechao.com.br",
     "type": "churrascaria",
-    "neighborhood": "Vila Olimpia",
-    "city": "Sao Paulo",
+    "neighborhood": "Vila Olímpia",
+    "city": "São Paulo (SP)",
     "website": "https://fogodechao.com.br",
     "phone": "(11) 96644-1397",
-    "context": "Unidade Vila Olimpia Fogo de Chao",
+    "context": "Fogo de Chão Vila Olímpia — churrascaria premium (Vila Olímpia, SP) com foco em experiência de rodízio e atendimento corporativo/social. Fit: cachaça artesanal premium para caipirinhas autorais e carta de drinks do bar.",
     "emailVerified": true,
     "emailSource": "https://fogodechao.com.br",
     "emailVerifiedAt": "2026-10-18",
@@ -54856,7 +54862,9 @@
     "template": "consultivo",
     "email1": false,
     "email2": false,
-    "targetProfile": "C/D"
+    "targetProfile": "A/B",
+    "emailFrozenUntil": null,
+    "emailCycleClosed": false
   },
   {
     "name": "Churrascos Marcio",
@@ -55302,9 +55310,13 @@
     "mxVerified": true,
     "template": "consultivo",
     "email1": false,
-    "context": "Hotel desde 1981, Av Ipiranga 1187 Centro Historico SP; central de reservas + WhatsApp",
-    "targetProfile": "C/D",
-    "email2": false
+    "context": "Hotel Normandie — hotel histórico no Centro de São Paulo (Av. Ipiranga 1187) com operação hoteleira e atendimento a hóspedes/eventos. Fit: cachaça artesanal premium para bar/restaurante do hotel e experiências de bebidas para hóspedes.",
+    "targetProfile": "A/B",
+    "email2": false,
+    "city": "São Paulo (SP)",
+    "neighborhood": "Centro",
+    "emailFrozenUntil": null,
+    "emailCycleClosed": false
   },
   {
     "name": "San Michel Hotel",
@@ -55319,9 +55331,13 @@
     "mxVerified": true,
     "template": "consultivo",
     "email1": false,
-    "context": "Hotel economico Centro SP, Largo do Arouche 200, restaurante proprio (cardapio San Raphael), WhatsApp (11) 95743-7160",
-    "targetProfile": "C/D",
-    "email2": false
+    "context": "San Michel Hotel — hotel no Centro de São Paulo (Largo do Arouche 200) com restaurante próprio e atendimento a hóspedes. Fit: cachaça artesanal premium para carta de caipirinhas/drinks no bar e restaurante do hotel.",
+    "targetProfile": "A/B",
+    "email2": false,
+    "city": "São Paulo (SP)",
+    "neighborhood": "Centro",
+    "emailFrozenUntil": null,
+    "emailCycleClosed": false
   },
   {
     "name": "LeoDolci Santo Amaro",
