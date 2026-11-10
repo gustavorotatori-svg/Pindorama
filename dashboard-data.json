@@ -1,6 +1,6 @@
 {
-  "lastUpdate": "2026-11-09T15:58:17.065Z",
-  "totalLeads": 4016,
+  "lastUpdate": "2026-11-10T01:25:39.901Z",
+  "totalLeads": 4017,
   "allLeads": [
     {
       "name": "Bar do Nerso",
@@ -34644,13 +34644,25 @@
       "date1": "2026-11-09",
       "email2": false,
       "email3": false
+    },
+    {
+      "name": "Cebicheria Peruana (La Mar)",
+      "type": "restaurante",
+      "neighborhood": "São Paulo (SP)",
+      "city": "São Paulo (SP)",
+      "email": "contato@lamarcebicheria.com.br",
+      "emailVerified": true,
+      "email1": true,
+      "date1": "2026-11-09",
+      "email2": false,
+      "email3": false
     }
   ],
   "emails": {
-    "email1": 573,
+    "email1": 574,
     "email2": 1,
     "email3": 0,
-    "total": 574
+    "total": 575
   },
   "whatsapp": {
     "today": 0,
@@ -34659,10 +34671,6 @@
   "responses": 5,
   "pending": 1025,
   "daily": [
-    {
-      "date": "2026-10-27",
-      "count": 0
-    },
     {
       "date": "2026-10-28",
       "count": 0
@@ -34713,7 +34721,11 @@
     },
     {
       "date": "2026-11-09",
-      "count": 4
+      "count": 5
+    },
+    {
+      "date": "2026-11-10",
+      "count": 0
     }
   ],
   "topNeighborhoods": [
@@ -34796,6 +34808,13 @@
       "email1": true
     },
     {
+      "name": "Cebicheria Peruana (La Mar)",
+      "type": "restaurante",
+      "neighborhood": "São Paulo (SP)",
+      "city": "São Paulo (SP)",
+      "email1": true
+    },
+    {
       "name": "Il Covo Bar",
       "type": "bar",
       "neighborhood": "Consolação (SP)",
@@ -34828,57 +34847,50 @@
       "neighborhood": "Bourbon / Vila Pompéia (SP)",
       "city": "São Paulo (SP)",
       "email1": true
-    },
-    {
-      "name": "NekiNeko",
-      "type": "emporio",
-      "neighborhood": "Liberdade (SP)",
-      "city": "São Paulo (SP)",
-      "email1": true
     }
   ],
   "funnel": {
-    "leads": 4016,
-    "email1": 573,
+    "leads": 4017,
+    "email1": 574,
     "email2": 1,
     "email3": 0,
     "responded": 5
   },
   "week": {
-    "leads": 369,
+    "leads": 270,
     "emails": {
-      "email1": 369,
+      "email1": 270,
       "email2": 0,
       "email3": 0,
-      "total": 369
+      "total": 270
     },
     "responses": 0
   },
   "month": {
-    "leads": 468,
+    "leads": 469,
     "emails": {
-      "email1": 468,
+      "email1": 469,
       "email2": 0,
       "email3": 0,
-      "total": 468
+      "total": 469
     },
     "responses": 0
   },
   "year": {
-    "leads": 575,
+    "leads": 576,
     "emails": {
-      "email1": 573,
+      "email1": 574,
       "email2": 1,
       "email3": 0,
-      "total": 574
+      "total": 575
     },
     "responses": 5
   },
   "segments": [
     {
       "name": "restaurante",
-      "total": 2132,
-      "email1": 81,
+      "total": 2133,
+      "email1": 82,
       "responded": 0
     },
     {
