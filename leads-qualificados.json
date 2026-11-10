@@ -35718,13 +35718,14 @@
     "mxVerified": true,
     "mxVerifiedAt": "2026-08-24",
     "template": "consultivo",
-    "email1": false,
+    "email1": true,
     "email2": false,
     "email3": false,
     "targetProfile": "A/B",
     "city": "São Paulo (SP)",
     "emailFrozenUntil": null,
-    "emailCycleClosed": false
+    "emailCycleClosed": false,
+    "date1": "2026-11-10"
   },
   {
     "name": "Emporio Cananeia",
@@ -46818,14 +46819,15 @@
     "emailVerifiedAt": "2026-10-16",
     "mxVerified": true,
     "template": "consultivo",
-    "email1": false,
+    "email1": true,
     "invalidEmail": false,
     "whatsappSent": true,
     "whatsappDate": "2026-10-19",
     "whatsappSource": "https://www.sampaadega.com.br/",
     "targetProfile": "A/B",
     "emailFrozenUntil": null,
-    "emailCycleClosed": false
+    "emailCycleClosed": false,
+    "date1": "2026-11-10"
   },
   {
     "name": "Polar Adega",
@@ -46841,11 +46843,12 @@
     "emailVerifiedAt": "2026-10-16",
     "mxVerified": true,
     "template": "consultivo",
-    "email1": false,
+    "email1": true,
     "invalidEmail": false,
     "targetProfile": "A/B",
     "emailFrozenUntil": null,
-    "emailCycleClosed": false
+    "emailCycleClosed": false,
+    "date1": "2026-11-10"
   },
   {
     "name": "Leges Bebidas",
@@ -53273,12 +53276,13 @@
     "emailVerifiedAt": "2026-10-18",
     "mxVerified": true,
     "template": "consultivo",
-    "email1": false,
+    "email1": true,
     "email2": false,
     "targetProfile": "A/B",
     "email3": false,
     "emailFrozenUntil": null,
-    "emailCycleClosed": false
+    "emailCycleClosed": false,
+    "date1": "2026-11-10"
   },
   {
     "name": "Donna di Nico Trattoria",
@@ -54893,11 +54897,12 @@
     "emailVerifiedAt": "2026-10-18",
     "mxVerified": true,
     "template": "consultivo",
-    "email1": false,
+    "email1": true,
     "email2": false,
     "targetProfile": "A/B",
     "emailFrozenUntil": null,
-    "emailCycleClosed": false
+    "emailCycleClosed": false,
+    "date1": "2026-11-10"
   },
   {
     "name": "Premier Haus Brooklin",
@@ -54931,11 +54936,12 @@
     "emailVerifiedAt": "2026-10-18",
     "mxVerified": true,
     "template": "consultivo",
-    "email1": false,
+    "email1": true,
     "email2": false,
     "targetProfile": "A/B",
     "emailFrozenUntil": null,
-    "emailCycleClosed": false
+    "emailCycleClosed": false,
+    "date1": "2026-11-10"
   },
   {
     "name": "Go Meat",
