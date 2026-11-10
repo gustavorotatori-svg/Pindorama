@@ -1,6 +1,6 @@
 {
-  "lastUpdate": "2026-11-10T01:25:39.901Z",
-  "totalLeads": 4017,
+  "lastUpdate": "2026-11-10T14:43:31.065Z",
+  "totalLeads": 4018,
   "allLeads": [
     {
       "name": "Bar do Nerso",
@@ -2140,9 +2140,14 @@
     {
       "name": "TETTO ROOFTOP LOUNGE",
       "type": "bar",
-      "neighborhood": "",
+      "neighborhood": "Pinheiros (SP)",
+      "city": "São Paulo (SP)",
       "email": "tetto@tettolounge.com",
-      "email1": false,
+      "emailVerified": true,
+      "invalidEmail": false,
+      "doNotContact": false,
+      "email1": true,
+      "date1": "2026-11-10",
       "email2": false,
       "email3": false
     },
@@ -34656,13 +34661,25 @@
       "date1": "2026-11-09",
       "email2": false,
       "email3": false
+    },
+    {
+      "name": "Vero! Coquetelaria e Cozinha",
+      "type": "bar",
+      "neighborhood": "Pinheiros (SP)",
+      "city": "São Paulo (SP)",
+      "email": "reservas@verocoquetelaria.com.br",
+      "emailVerified": true,
+      "email1": true,
+      "date1": "2026-11-10",
+      "email2": false,
+      "email3": false
     }
   ],
   "emails": {
-    "email1": 574,
+    "email1": 576,
     "email2": 1,
     "email3": 0,
-    "total": 575
+    "total": 577
   },
   "whatsapp": {
     "today": 0,
@@ -34725,13 +34742,13 @@
     },
     {
       "date": "2026-11-10",
-      "count": 0
+      "count": 2
     }
   ],
   "topNeighborhoods": [
     {
       "name": "Sem bairro",
-      "count": 2628
+      "count": 2627
     },
     {
       "name": "São Paulo",
@@ -34779,6 +34796,20 @@
     }
   ],
   "recentLeads": [
+    {
+      "name": "TETTO ROOFTOP LOUNGE",
+      "type": "bar",
+      "neighborhood": "Pinheiros (SP)",
+      "city": "São Paulo (SP)",
+      "email1": true
+    },
+    {
+      "name": "Vero! Coquetelaria e Cozinha",
+      "type": "bar",
+      "neighborhood": "Pinheiros (SP)",
+      "city": "São Paulo (SP)",
+      "email1": true
+    },
     {
       "name": "Coffee Lab",
       "type": "cafeteria",
@@ -34833,56 +34864,42 @@
       "neighborhood": "GRU (Aeroporto de Guarulhos)",
       "city": "Guarulhos (SP)",
       "email1": true
-    },
-    {
-      "name": "SOUQ",
-      "type": "emporio",
-      "neighborhood": "Jardins / Iguatemi (SP)",
-      "city": "São Paulo (SP)",
-      "email1": true
-    },
-    {
-      "name": "Imaginarium",
-      "type": "emporio",
-      "neighborhood": "Bourbon / Vila Pompéia (SP)",
-      "city": "São Paulo (SP)",
-      "email1": true
     }
   ],
   "funnel": {
-    "leads": 4017,
-    "email1": 574,
+    "leads": 4018,
+    "email1": 576,
     "email2": 1,
     "email3": 0,
     "responded": 5
   },
   "week": {
-    "leads": 270,
+    "leads": 272,
     "emails": {
-      "email1": 270,
+      "email1": 272,
       "email2": 0,
       "email3": 0,
-      "total": 270
+      "total": 272
     },
     "responses": 0
   },
   "month": {
-    "leads": 469,
+    "leads": 471,
     "emails": {
-      "email1": 469,
+      "email1": 471,
       "email2": 0,
       "email3": 0,
-      "total": 469
+      "total": 471
     },
     "responses": 0
   },
   "year": {
-    "leads": 576,
+    "leads": 578,
     "emails": {
-      "email1": 574,
+      "email1": 576,
       "email2": 1,
       "email3": 0,
-      "total": 575
+      "total": 577
     },
     "responses": 5
   },
@@ -34895,8 +34912,8 @@
     },
     {
       "name": "bar",
-      "total": 597,
-      "email1": 154,
+      "total": 598,
+      "email1": 156,
       "responded": 0
     },
     {
