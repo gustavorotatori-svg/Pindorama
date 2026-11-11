@@ -134,58 +134,46 @@ const TEMPLATES = {
 
 Vi que {contexto}.
 
-Sou o Gustavo, da Pindorama — cachaça artesanal premium de fazenda própria no Vale do Café (RJ), a mesma que atende Fasano, Hilton e Rosewood.
+Sou o Gustavo, da Pindorama (cachaça artesanal do Vale do Café/RJ). Trabalho com rótulos premium como a Pindorama Clássica, Pindorama Ouro e Cobra Coral (jabuticaba) — ótimos para caipirinhas e coquetéis autorais.
 
-Trabalho com 3 referências:
-• Pindorama Clássica (prata envelhecida) — 700ml
-• Pindorama Ouro (envelhecida em carvalho) — 700ml
-• Cobra Coral de jabuticaba (premium) — 700ml
+Faz sentido eu te enviar 2 sugestões de drinks e as condições para a {nome}? Se preferir, posso separar uma amostra para degustação.
 
-Catálogo completo em anexo (PDF). Frete CIF por nossa conta e 21 dias para pagar no primeiro pedido.
-
-Posso te mandar a tabela de preços e condições para a {nome}?
-
-Se não fizer sentido, sem problema — basta responder "não" que não insisto.`,
+Se não for do seu interesse, é só responder "não" que não insisto.`,
   email1_prova_social: `Olá {nome},
 
-Fasano, Hilton e Rosewood já trabalham com a Pindorama — e estou abrindo a mesma condição para poucas casas da região:
+Vi que {contexto}.
 
-• Pindorama Clássica (prata envelhecida) — 700ml
-• Pindorama Ouro (envelhecida em carvalho) — 700ml
-• Cobra Coral de jabuticaba (premium) — 700ml
+Sou o Gustavo, da Pindorama — cachaça artesanal do Vale do Café (RJ), já presente em casas como Fasano, Hilton e Rosewood. Nossos rótulos (Clássica, Ouro e Cobra Coral de jabuticaba) funcionam muito bem em caipirinhas e coquetelaria.
 
-Catálogo completo em anexo (PDF). Frete CIF e 21 dias para pagar.
+Posso te mandar uma sugestão rápida de aplicação no bar e as condições para a {nome}? Também consigo levar amostra para teste.
 
-Posso te mandar a tabela de preços e condições para a {nome}?
-
-Se não fizer sentido, sem problema — basta responder "não" que não insisto.`,
+Se não fizer sentido, responda "não" que encerro por aqui.`,
   email1_pergunta: `Olá {nome},
 
-Pergunta rápida: vocês já têm uma cachaça premium no cardápio?
+Pergunta rápida: a {nome} já trabalha com alguma cachaça artesanal premium na carta de drinks?
 
-Sou o Gustavo, da Pindorama (Vale do Café, RJ). Vi que {contexto} — e para casas assim ofereço:
+Vi que {contexto}. Sou o Gustavo, da Pindorama (Vale do Café/RJ) — temos rótulos como Clássica, Ouro e Cobra Coral (jabuticaba) que vão muito bem em caipirinhas e coquetéis.
 
-• Pindorama Clássica (prata envelhecida) — 700ml
-• Pindorama Ouro (envelhecida em carvalho) — 700ml
-• Cobra Coral de jabuticaba (premium) — 700ml
+Se fizer sentido, te envio condições e posso separar uma amostra para degustação. Se não, é só responder "não".`,
+  email1_revenda: `Olá {nome},
 
-Catálogo completo em anexo (PDF). Frete CIF e 21 dias para pagar.
+Vi que {contexto}.
 
-Posso te mandar a tabela de preços e condições para a {nome}?
+Sou o Gustavo, da Pindorama (cachaça artesanal do Vale do Café/RJ). Temos rótulos premium (Pindorama Clássica, Ouro e Cobra Coral de jabuticaba) com boa saída no canal premium.
 
-Se não fizer sentido, sem problema — basta responder "não" que não insisto.`,
+Posso te enviar mix sugerido, condições e tabela para avaliar revenda na {nome}? Se preferir, começo com um pedido teste.
+
+Se não fizer sentido, responda "não" que não insisto.`,
   email2: `Olá {nome},
 
-Semana passada te escrevi sobre a Pindorama e não tive retorno — normal, caixa cheia.
+Passando rápido: na semana passada falei da Pindorama (cachaça artesanal premium do Vale do Café/RJ).
 
-Resumo em 3 linhas: cachaça artesanal premium (a mesma de Fasano, Hilton e Rosewood), catálogo em anexo e tabela de preços disponível. Zero risco.
-
-Posso te mandar a tabela de preços e condições?`,
+Se fizer sentido para a {nome}, posso te enviar 2 sugestões de uso (bar ou revenda) + condições em uma mensagem curta. Quer que eu te mande?`,
   email3: `Olá {nome},
 
-Último contato — prometo não insistir depois deste.
+Último toque por aqui para não insistir.
 
-Deixo a porta aberta: catálogo em anexo e tabela de preços disponível, quando fizer sentido para vocês. Basta responder este e-mail.
+Se em algum momento fizer sentido testar a Pindorama (Clássica, Ouro ou Cobra Coral) na {nome}, é só responder este e-mail que te envio condições e opções.
 
 Sucesso aí!`,
 };
@@ -193,34 +181,53 @@ Sucesso aí!`,
 Object.keys(TEMPLATES).forEach(k => { TEMPLATES[k] += SIGNATURE; });
 
 const SUBJECTS = {
-  bar: 'Pindorama \u2014 cat\u00e1logo e tabela de pre\u00e7os para seu bar',
-  restaurante: 'Pindorama \u2014 cat\u00e1logo e tabela de pre\u00e7os para seu restaurante',
-  adega: 'Pindorama \u2014 cat\u00e1logo e tabela de pre\u00e7os para sua adega',
-  loja_bebidas: 'Pindorama \u2014 cat\u00e1logo e tabela de pre\u00e7os para sua loja',
-  distribuidora: 'Pindorama \u2014 cat\u00e1logo e tabela de pre\u00e7os para sua distribuidora',
-  hotel: 'Pindorama \u2014 cat\u00e1logo e tabela de pre\u00e7os para seu hotel',
-  balada: 'Pindorama \u2014 cat\u00e1logo e tabela de pre\u00e7os para sua balada'
+  bar: 'Cachaça artesanal para a carta de drinks',
+  restaurante: 'Cachaça artesanal para drinks e caipirinhas',
+  adega: 'Cachaça artesanal premium para o portfólio',
+  loja_bebidas: 'Cachaça artesanal premium para sua loja',
+  distribuidora: 'Cachaça artesanal premium para o portfólio B2B',
+  hotel: 'Cachaça artesanal para o bar do hotel',
+  balada: 'Cachaça artesanal para os drinks da casa',
+  supermercado: 'Cachaça artesanal premium para gôndola',
+  emporio: 'Cachaça artesanal premium para o empório',
+  cafeteria: 'Cachaça artesanal para drinks especiais'
 };
 
 function pickTemplate(lead, step) {
   if (step === 'email1') {
-    const t = lead.template || 'consultivo';
-    return TEMPLATES['email1_' + t];
+    const t = String(lead.type || '').toLowerCase();
+    const isResale = ['adega','loja_bebidas','distribuidora','distribuidor','atacadista','supermercado','emporio'].some(k => t.includes(k));
+    const chosen = lead.template || (isResale ? 'revenda' : 'pergunta');
+    return TEMPLATES['email1_' + chosen] || TEMPLATES.email1_consultivo;
   }
   return TEMPLATES[step];
 }
 
 function getSubject(lead, step) {
   if (step === 'email1') {
-    return SUBJECTS[lead.type] || 'Pindorama \u2014 cat\u00e1logo e tabela de pre\u00e7os';
+    const t = String(lead.type || '').toLowerCase();
+    for (const k of Object.keys(SUBJECTS)) {
+      if (t === k || t.includes(k)) return SUBJECTS[k];
+    }
+    return 'Cachaça artesanal premium da Pindorama';
   }
-  if (step === 'email2') return 'Pindorama \u2014 posso mandar a tabela de pre\u00e7os?';
-  if (step === 'email3') return 'Pindorama \u2014 cat\u00e1logo e tabela de pre\u00e7os';
-  return 'Pindorama \u2014 encerrando o ciclo';}
+  if (step === 'email2') return 'Posso te enviar sugestões + condições?';
+  if (step === 'email3') return 'Último toque — Pindorama';
+  return 'Pindorama';
+}
 
 async function sendEmail(lead, step) {
-  const text = pickTemplate(lead, step).replace(/{nome}/g, lead.name.split(' ')[0]).replace(/{contexto}/g, lead.context || '');
-  const html = text.replace(/\n/g, '<br>') + GIF_TAG;
+  const text = pickTemplate(lead, step).replace(/{nome}/g, (lead.name || '').split(' ')[0] || lead.name || '').replace(/{contexto}/g, lead.context || '');
+  const bodyHtml = text
+    .split(/\n{2,}/)
+    .map(p => `<p style="margin:0 0 14px 0;">${p.replace(/\n/g, '<br>')}</p>`)
+    .join('');
+  const html = `<div style="font-family:Arial,Helvetica,sans-serif;font-size:15px;line-height:1.6;color:#1f2937;max-width:640px;">
+    <div style="padding:4px 0 8px 0;">
+      ${bodyHtml}
+    </div>
+    <div style="margin-top:8px;">${GIF_TAG}</div>
+  </div>`;
   const info = await transporter.sendMail({
     from: '"Gustavo - Pindorama" <cachaca011pindorama@gmail.com>',
     to: lead.email,
