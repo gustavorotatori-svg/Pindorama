@@ -37262,12 +37262,13 @@
     "verifiedAt": "2026-09-01",
     "status": "qualified_pending_import",
     "template": "consultivo",
-    "email1": false,
+    "email1": true,
     "email2": false,
     "email3": false,
     "targetProfile": "A/B",
     "emailFrozenUntil": null,
-    "emailCycleClosed": false
+    "emailCycleClosed": false,
+    "date1": "2026-11-10"
   },
   {
     "name": "HS Bebidas Atacado",
@@ -37322,12 +37323,13 @@
     "verifiedAt": "2026-09-02",
     "status": "qualified_pending_import",
     "template": "consultivo",
-    "email1": false,
+    "email1": true,
     "email2": false,
     "email3": false,
     "targetProfile": "A/B",
     "emailFrozenUntil": null,
-    "emailCycleClosed": false
+    "emailCycleClosed": false,
+    "date1": "2026-11-10"
   },
   {
     "name": "Amdib",
@@ -37353,12 +37355,13 @@
     "verifiedAt": "2026-09-02",
     "status": "qualified_pending_import",
     "template": "consultivo",
-    "email1": false,
+    "email1": true,
     "email2": false,
     "email3": false,
     "targetProfile": "A/B",
     "emailFrozenUntil": null,
-    "emailCycleClosed": false
+    "emailCycleClosed": false,
+    "date1": "2026-11-10"
   },
   {
     "name": "Dos Bacanas Bar",
@@ -37488,13 +37491,14 @@
     "verifiedAt": "2026-09-02",
     "status": "qualified_pending_import",
     "template": "consultivo",
-    "email1": false,
+    "email1": true,
     "whatsapp1": false,
     "email2": false,
     "email3": false,
     "targetProfile": "A/B",
     "emailFrozenUntil": null,
-    "emailCycleClosed": false
+    "emailCycleClosed": false,
+    "date1": "2026-11-10"
   },
   {
     "name": "Estacao da Comida Sorocaba",
@@ -37581,12 +37585,13 @@
     "verifiedAt": "2026-09-02",
     "status": "uncontacted",
     "template": "consultivo",
-    "email1": false,
+    "email1": true,
     "email2": false,
     "email3": false,
     "targetProfile": "A/B",
     "emailFrozenUntil": null,
-    "emailCycleClosed": false
+    "emailCycleClosed": false,
+    "date1": "2026-11-10"
   },
   {
     "name": "Buteco em Casa Campinas",
