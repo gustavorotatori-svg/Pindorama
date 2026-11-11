@@ -42123,11 +42123,11 @@
     "name": "Adega do Kinho",
     "email": "contato@elementadega.com.br",
     "type": "adega",
-    "neighborhood": "Jardim Sao Bernardo",
-    "city": "São Paulo",
+    "neighborhood": "Jardim São Bernardo",
+    "city": "São Paulo (SP)",
     "website": "https://www.adegadokinho.com.br/",
     "phone": "",
-    "context": "a loja publica cervejas, destilados, combos e delivery em Sao Paulo",
+    "context": "Adega do Kinho — adega em São Paulo (Jardim São Bernardo) com cervejas, destilados, combos e delivery. Fit: cachaça artesanal premium (Pindorama e Cobra Coral) para ampliar portfólio de destilados e vendas/indicações.",
     "emailVerified": true,
     "emailSource": "https://www.adegadokinho.com.br/",
     "emailVerifiedAt": "2026-10-15",
@@ -42135,7 +42135,9 @@
     "template": "consultivo",
     "email1": false,
     "invalidEmail": false,
-    "targetProfile": "C/D"
+    "targetProfile": "A/B",
+    "emailFrozenUntil": null,
+    "emailCycleClosed": false
   },
   {
     "name": "LassuÌ",
@@ -46714,10 +46716,10 @@
     "email": "contato@thebullpubgv.com",
     "type": "bar",
     "neighborhood": "Granja Viana",
-    "city": "São Paulo",
+    "city": "Cotia (SP)",
     "website": "https://thebullpubgv.com/",
     "phone": "(11) 4702-0451",
-    "context": "Gastropub ativo na Granja Viana, com cervejas artesanais, agenda de eventos e operação noturna até 01h às sextas e sábados.",
+    "context": "The Bull Pub Granja Viana — gastropub ativo na Granja Viana (Cotia/SP), com cervejas artesanais, agenda de eventos e operação noturna. Fit: cachaça artesanal premium para caipirinhas e coquetéis na carta de drinks do bar.",
     "emailVerified": true,
     "emailSource": "https://thebullpubgv.com/",
     "emailVerifiedAt": "2026-10-17",
@@ -46726,7 +46728,9 @@
     "email1": false,
     "email2": false,
     "email3": false,
-    "targetProfile": "C/D"
+    "targetProfile": "A/B",
+    "emailFrozenUntil": null,
+    "emailCycleClosed": false
   },
   {
     "name": "Distacado Distribuidora",
@@ -46772,10 +46776,10 @@
     "email": "contato@rossopizza.com.br",
     "type": "restaurante",
     "neighborhood": "Centro",
-    "city": "São Paulo",
+    "city": "São Bernardo do Campo (SP)",
     "website": "https://rossopizza.com.br/",
     "phone": "(11) 2669-6036",
-    "context": "Pizzaria ativa em São Bernardo do Campo, com operação noturna, reservas e atendimento comercial próprio.",
+    "context": "Rosso Pizza — pizzaria/restaurante ativo em São Bernardo do Campo (SP), operação noturna com reservas e atendimento comercial. Fit: cachaça artesanal premium para caipirinhas e drinks no serviço de bar.",
     "emailVerified": true,
     "emailSource": "https://rossopizza.com.br/",
     "emailVerifiedAt": "2026-10-17",
@@ -46784,17 +46788,19 @@
     "email1": false,
     "email2": false,
     "email3": false,
-    "targetProfile": "C/D"
+    "targetProfile": "A/B",
+    "emailFrozenUntil": null,
+    "emailCycleClosed": false
   },
   {
     "name": "Le Sorelle Gastronomia",
     "email": "contato@lsgastronomia.com.br",
     "type": "restaurante",
     "neighborhood": "São Bernardo do Campo",
-    "city": "São Paulo",
+    "city": "São Bernardo do Campo (SP)",
     "website": "https://www.lsgastronomia.com.br/",
     "phone": "(11) 93323-1902",
-    "context": "Operação gastronômica ativa em São Bernardo do Campo, com refeições, pratos executivos e festivais corporativos, mantendo atendimento comercial próprio.",
+    "context": "Le Sorelle Gastronomia — operação gastronômica ativa em São Bernardo do Campo (SP), com refeições e atendimento a eventos/refeições. Fit: cachaça artesanal premium para carta de bebidas e serviço em eventos.",
     "emailVerified": true,
     "emailSource": "https://www.lsgastronomia.com.br/",
     "emailVerifiedAt": "2026-10-17",
@@ -46803,7 +46809,9 @@
     "email1": false,
     "email2": false,
     "email3": false,
-    "targetProfile": "C/D"
+    "targetProfile": "A/B",
+    "emailFrozenUntil": null,
+    "emailCycleClosed": false
   },
   {
     "name": "Sampa Adega",
@@ -47091,10 +47099,10 @@
     "email": "contato@adedgaetonel.com.br",
     "type": "adega",
     "neighborhood": "São Bernardo do Campo",
-    "city": "São Paulo",
+    "city": "São Bernardo do Campo (SP)",
     "website": "https://www.casamentos.com.br/bebidas-casamento/adega-tonel--e118815",
     "phone": "",
-    "context": "Adega para eventos e casamentos, nota 4.8 de 5, localizada em São Bernardo do Campo",
+    "context": "Adega Tonel — adega em São Bernardo do Campo (SP) com atuação em bebidas para eventos e casamentos. Fit: cachaça artesanal premium para compor kits/bar de cachaças e caipirinhas em eventos.",
     "emailVerified": true,
     "emailSource": "https://www.casamentos.com.br/bebidas-casamento/adega-tonel--e118815",
     "emailVerifiedAt": "2026-10-17",
@@ -47103,7 +47111,9 @@
     "email1": false,
     "email2": false,
     "email3": false,
-    "targetProfile": "C/D"
+    "targetProfile": "A/B",
+    "emailFrozenUntil": null,
+    "emailCycleClosed": false
   },
   {
     "name": "Lounge da Villa - Adega da Villa Distribuidora",
@@ -53289,10 +53299,10 @@
     "email": "trattoria@salavippizzaria.com.br",
     "type": "restaurante",
     "neighborhood": "Ipiranga",
-    "city": "São Paulo",
+    "city": "São Paulo (SP)",
     "website": "https://www.donnadinico.com.br",
     "phone": "(11) 2274-5455",
-    "context": "Trattoria grupo SalaVip desde 1992",
+    "context": "Donna di Nico Trattoria — trattoria no Ipiranga (São Paulo/SP), do grupo SalaVip, com operação consolidada de restaurante. Fit: cachaça artesanal premium para caipirinhas e coquetéis de assinatura no bar/restaurante.",
     "emailVerified": true,
     "emailSource": "https://www.donnadinico.com.br",
     "emailVerifiedAt": "2026-10-18",
@@ -53300,8 +53310,10 @@
     "template": "consultivo",
     "email1": false,
     "email2": false,
-    "targetProfile": "C/D",
-    "email3": false
+    "targetProfile": "A/B",
+    "email3": false,
+    "emailFrozenUntil": null,
+    "emailCycleClosed": false
   },
   {
     "name": "Grotta Cucina",
