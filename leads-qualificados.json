@@ -35799,13 +35799,14 @@
     "mxVerified": true,
     "mxVerifiedAt": "2026-08-24",
     "template": "consultivo",
-    "email1": false,
+    "email1": true,
     "email2": false,
     "email3": false,
     "targetProfile": "A/B",
     "city": "São Paulo (SP)",
     "emailFrozenUntil": null,
-    "emailCycleClosed": false
+    "emailCycleClosed": false,
+    "date1": "2026-11-11"
   },
   {
     "name": "Emporio Di Callani",
