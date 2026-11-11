@@ -42145,10 +42145,10 @@
     "email": "contato@lassurestaurante.com",
     "type": "restaurante",
     "neighborhood": "",
-    "city": "São Paulo",
+    "city": "São Paulo (SP)",
     "website": "",
     "phone": "1123737717 / 11976276148",
-    "context": "Restaurante italiano; instagram: https://www.instagram.com/lassu_ristorante/",
+    "context": "Lassù Ristorante — restaurante italiano em São Paulo (SP). Fit: cachaça artesanal premium para caipirinhas e drinks no bar do restaurante.",
     "emailVerified": true,
     "emailSource": "https://www.diariocidade.com/",
     "emailVerifiedAt": "2026-10-15",
@@ -42156,7 +42156,9 @@
     "template": "consultivo",
     "email1": false,
     "invalidEmail": false,
-    "targetProfile": "C/D"
+    "targetProfile": "A/B",
+    "emailFrozenUntil": null,
+    "emailCycleClosed": false
   },
   {
     "name": "Gorooh Burguer",
@@ -42253,10 +42255,10 @@
     "email": "ciao@ciaovinoebirra.com.br",
     "type": "restaurante",
     "neighborhood": "",
-    "city": "São Paulo",
+    "city": "São Paulo (SP)",
     "website": "",
     "phone": "11 2306-3561",
-    "context": "ITALIANOS; responsável: DENIS; instagram: https://www.instagram.com/ciaovinoebirra/",
+    "context": "Ciao! Vino & Birra — restaurante/bar italiano em São Paulo (SP), com proposta de vinhos e birras. Fit: cachaça artesanal premium para caipirinhas e coquetéis autorais no bar.",
     "emailVerified": true,
     "emailSource": "https://www.diariocidade.com/",
     "emailVerifiedAt": "2026-10-17",
@@ -42265,17 +42267,19 @@
     "email1": false,
     "email2": false,
     "email3": false,
-    "targetProfile": "C/D"
+    "targetProfile": "A/B",
+    "emailFrozenUntil": null,
+    "emailCycleClosed": false
   },
   {
     "name": "KAÃ RESTAURANTE",
     "email": "contato@kaarestaurante.com.br",
     "type": "restaurante",
     "neighborhood": "",
-    "city": "São Paulo",
+    "city": "São Paulo (SP)",
     "website": "",
     "phone": "11 3045-0043/11 4637-3820 MKT",
-    "context": "mediterraneo; responsável: THAINA / ELENA; instagram: https://www.instagram.com/restaurantekaa/",
+    "context": "Kaá Restaurante — restaurante mediterrâneo em São Paulo (SP). Fit: cachaça artesanal premium para caipirinhas e coquetéis no bar, complementando a experiência gastronômica.",
     "emailVerified": true,
     "emailSource": "https://www.diariocidade.com/",
     "emailVerifiedAt": "2026-10-15",
@@ -42283,7 +42287,9 @@
     "template": "consultivo",
     "email1": false,
     "invalidEmail": false,
-    "targetProfile": "C/D"
+    "targetProfile": "A/B",
+    "emailFrozenUntil": null,
+    "emailCycleClosed": false
   },
   {
     "name": "Doceria Food Shop",
@@ -42326,10 +42332,10 @@
     "email": "contato@esquinagrill.com.br",
     "type": "restaurante",
     "neighborhood": "",
-    "city": "São Paulo",
+    "city": "São Paulo (SP)",
     "website": "",
     "phone": "11 3666-4493/ 2679-2593 direto",
-    "context": "BRASILEIRO; responsável: LILIAN; instagram: https://www.instagram.com/esquinadofuad/",
+    "context": "Esquina do Fuad/Esquina Grill — restaurante brasileiro em São Paulo (SP). Fit: cachaça artesanal premium para caipirinhas e doses no serviço de bar.",
     "emailVerified": true,
     "emailSource": "https://www.diariocidade.com/",
     "emailVerifiedAt": "2026-10-15",
@@ -42337,17 +42343,19 @@
     "template": "consultivo",
     "email1": false,
     "invalidEmail": false,
-    "targetProfile": "C/D"
+    "targetProfile": "A/B",
+    "emailFrozenUntil": null,
+    "emailCycleClosed": false
   },
   {
     "name": "LAPIN CAFÃ ET BISTROT",
     "email": "compras@lapinrestaurante.com.br",
     "type": "restaurante",
     "neighborhood": "",
-    "city": "São Paulo",
+    "city": "São Paulo (SP)",
     "website": "",
     "phone": "2157-6541 /  11 97133-6541",
-    "context": "FRANCES; responsável: RUBIA; instagram: https://www.instagram.com/lapincafebistrot/",
+    "context": "Lapin Café et Bistrot — café/bistrô francês em São Paulo (SP). Fit: cachaça artesanal premium para coquetéis e caipirinhas no menu de bebidas.",
     "emailVerified": true,
     "emailSource": "https://www.diariocidade.com/",
     "emailVerifiedAt": "2026-10-15",
@@ -42355,7 +42363,9 @@
     "template": "consultivo",
     "email1": false,
     "invalidEmail": false,
-    "targetProfile": "C/D"
+    "targetProfile": "A/B",
+    "emailFrozenUntil": null,
+    "emailCycleClosed": false
   },
   {
     "name": "Black`n Load CafÃ©s Especiais",
@@ -42380,10 +42390,10 @@
     "email": "contato@partisanspub.com.br",
     "type": "bar",
     "neighborhood": "",
-    "city": "São Paulo",
+    "city": "São Paulo (SP)",
     "website": "",
     "phone": "11 2361-6457",
-    "context": "PUB; responsável: MARCOS; instagram: https://www.instagram.com/partisanspub/",
+    "context": "Partisans Pub — pub/bar em São Paulo (SP). Fit: cachaça artesanal premium Pindorama e Cobra Coral para caipirinhas e drinks no balcão, ampliando a carta além de cervejas.",
     "emailVerified": true,
     "emailSource": "https://www.diariocidade.com/",
     "emailVerifiedAt": "2026-10-15",
@@ -42391,7 +42401,9 @@
     "template": "consultivo",
     "email1": false,
     "invalidEmail": false,
-    "targetProfile": "C/D"
+    "targetProfile": "A/B",
+    "emailFrozenUntil": null,
+    "emailCycleClosed": false
   },
   {
     "name": "Pita Bar e Kebab",
@@ -43156,12 +43168,12 @@
   {
     "name": "CAVA BAR",
     "email": "contato@cavabar.com.br",
-    "type": "restaurante",
+    "type": "bar",
     "neighborhood": "",
-    "city": "São Paulo",
+    "city": "São Paulo (SP)",
     "website": "",
     "phone": "N TEM",
-    "context": "DRINQUES; instagram: https://www.instagram.com/cavabarsp/",
+    "context": "Cava Bar — bar de drinques em São Paulo (SP). Fit: cachaça artesanal premium para coquetelaria e caipirinhas de assinatura na carta de drinks.",
     "emailVerified": true,
     "emailSource": "https://www.diariocidade.com/",
     "emailVerifiedAt": "2026-10-15",
@@ -43169,17 +43181,19 @@
     "template": "consultivo",
     "email1": false,
     "invalidEmail": false,
-    "targetProfile": "C/D"
+    "targetProfile": "A/B",
+    "emailFrozenUntil": null,
+    "emailCycleClosed": false
   },
   {
     "name": "BOTECO SÃO PAULO",
     "email": "botecosaopaulo@botecosaopaulo.com.br",
     "type": "bar",
     "neighborhood": "",
-    "city": "São Paulo",
+    "city": "São Paulo (SP)",
     "website": "",
     "phone": "11 3872 2444 / 98830-2140",
-    "context": "BARES; responsável: JENIFER; instagram: https://www.instagram.com/botecosp/",
+    "context": "Boteco São Paulo — bar/boteco em São Paulo (SP). Fit: cachaça artesanal premium para caipirinhas clássicas e autorais, ideal para o perfil de boteco.",
     "emailVerified": true,
     "emailSource": "https://www.diariocidade.com/",
     "emailVerifiedAt": "2026-10-17",
@@ -43188,7 +43202,9 @@
     "email1": false,
     "email2": false,
     "email3": false,
-    "targetProfile": "C/D"
+    "targetProfile": "A/B",
+    "emailFrozenUntil": null,
+    "emailCycleClosed": false
   },
   {
     "name": "NOW BURGER",
@@ -43247,12 +43263,12 @@
   {
     "name": "MUDA ORGANIC BURGER & BAR",
     "email": "mkt@mudaburger.com.br",
-    "type": "restaurante",
+    "type": "bar",
     "neighborhood": "",
-    "city": "São Paulo",
+    "city": "São Paulo (SP)",
     "website": "",
     "phone": "3078-2293 /  99283-8001 RAFA",
-    "context": "HAMBURGUERIA; responsável: RAFAEL; instagram: https://www.instagram.com/mudaburger/",
+    "context": "Muda Organic Burger & Bar — hamburgueria e bar em São Paulo (SP). Fit: cachaça artesanal premium para caipirinhas e drinks na operação de bar.",
     "emailVerified": true,
     "emailSource": "https://www.diariocidade.com/",
     "emailVerifiedAt": "2026-10-15",
@@ -43260,7 +43276,9 @@
     "template": "consultivo",
     "email1": false,
     "invalidEmail": false,
-    "targetProfile": "C/D"
+    "targetProfile": "A/B",
+    "emailFrozenUntil": null,
+    "emailCycleClosed": false
   },
   {
     "name": "Bendito BBQ & Burger",
@@ -43356,12 +43374,12 @@
   {
     "name": "La Gloria Pizza Bar",
     "email": "lagloria@lagloriapizzabar.com.br",
-    "type": "restaurante",
+    "type": "bar",
     "neighborhood": "",
-    "city": "São Paulo",
+    "city": "São Paulo (SP)",
     "website": "",
     "phone": "11 5051-5329 / 11 5054-0909 / 947695830 WILLIAN",
-    "context": "PIZZARIA; responsável: WILLIAN; instagram: https://www.instagram.com/lagloriapizzabar/",
+    "context": "La Gloria Pizza Bar — pizzaria e bar em São Paulo (SP). Fit: cachaça artesanal premium para caipirinhas e coquetéis, combinando com a proposta de pizza bar.",
     "emailVerified": true,
     "emailSource": "https://www.diariocidade.com/",
     "emailVerifiedAt": "2026-10-16",
@@ -43369,7 +43387,9 @@
     "template": "consultivo",
     "email1": false,
     "invalidEmail": false,
-    "targetProfile": "C/D"
+    "targetProfile": "A/B",
+    "emailFrozenUntil": null,
+    "emailCycleClosed": false
   },
   {
     "name": "BAR DO ARNESTO",
