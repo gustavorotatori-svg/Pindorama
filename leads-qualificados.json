@@ -42443,11 +42443,12 @@
     "emailVerifiedAt": "2026-10-15",
     "mxVerified": true,
     "template": "consultivo",
-    "email1": false,
+    "email1": true,
     "invalidEmail": false,
     "targetProfile": "A/B",
     "emailFrozenUntil": null,
-    "emailCycleClosed": false
+    "emailCycleClosed": false,
+    "date1": "2026-11-10"
   },
   {
     "name": "TEA CONNECTION",
@@ -42463,11 +42464,12 @@
     "emailVerifiedAt": "2026-10-15",
     "mxVerified": true,
     "template": "consultivo",
-    "email1": false,
+    "email1": true,
     "invalidEmail": false,
     "targetProfile": "A/B",
     "emailFrozenUntil": null,
-    "emailCycleClosed": false
+    "emailCycleClosed": false,
+    "date1": "2026-11-10"
   },
   {
     "name": "PASTAGRANO",
@@ -42609,11 +42611,12 @@
     "emailVerifiedAt": "2026-10-15",
     "mxVerified": true,
     "template": "consultivo",
-    "email1": false,
+    "email1": true,
     "invalidEmail": false,
     "targetProfile": "A/B",
     "emailFrozenUntil": null,
-    "emailCycleClosed": false
+    "emailCycleClosed": false,
+    "date1": "2026-11-10"
   },
   {
     "name": "NATTU Restaurante",
@@ -42720,11 +42723,12 @@
     "emailVerifiedAt": "2026-10-15",
     "mxVerified": true,
     "template": "consultivo",
-    "email1": false,
+    "email1": true,
     "invalidEmail": false,
     "targetProfile": "A/B",
     "emailFrozenUntil": null,
-    "emailCycleClosed": false
+    "emailCycleClosed": false,
+    "date1": "2026-11-10"
   },
   {
     "name": "Cantina San Marco",
@@ -42740,12 +42744,13 @@
     "emailVerifiedAt": "2026-10-17",
     "mxVerified": true,
     "template": "consultivo",
-    "email1": false,
+    "email1": true,
     "email2": false,
     "email3": false,
     "targetProfile": "A/B",
     "emailFrozenUntil": null,
-    "emailCycleClosed": false
+    "emailCycleClosed": false,
+    "date1": "2026-11-10"
   },
   {
     "name": "CÃR",
@@ -42761,11 +42766,12 @@
     "emailVerifiedAt": "2026-10-15",
     "mxVerified": true,
     "template": "consultivo",
-    "email1": false,
+    "email1": true,
     "invalidEmail": false,
     "targetProfile": "A/B",
     "emailFrozenUntil": null,
-    "emailCycleClosed": false
+    "emailCycleClosed": false,
+    "date1": "2026-11-10"
   },
   {
     "name": "SERAFINA",
@@ -42853,11 +42859,12 @@
     "emailVerifiedAt": "2026-10-15",
     "mxVerified": true,
     "template": "consultivo",
-    "email1": false,
+    "email1": true,
     "invalidEmail": false,
     "targetProfile": "A/B",
     "emailFrozenUntil": null,
-    "emailCycleClosed": false
+    "emailCycleClosed": false,
+    "date1": "2026-11-10"
   },
   {
     "name": "Rota do AcarajÃ©",
@@ -42891,12 +42898,13 @@
     "emailVerifiedAt": "2026-10-17",
     "mxVerified": true,
     "template": "consultivo",
-    "email1": false,
+    "email1": true,
     "email2": false,
     "email3": false,
     "targetProfile": "A/B",
     "emailFrozenUntil": null,
-    "emailCycleClosed": false
+    "emailCycleClosed": false,
+    "date1": "2026-11-10"
   },
   {
     "name": "JAPS",
@@ -42966,11 +42974,12 @@
     "emailVerifiedAt": "2026-10-15",
     "mxVerified": true,
     "template": "consultivo",
-    "email1": false,
+    "email1": true,
     "invalidEmail": false,
     "targetProfile": "A/B",
     "emailFrozenUntil": null,
-    "emailCycleClosed": false
+    "emailCycleClosed": false,
+    "date1": "2026-11-10"
   },
   {
     "name": "Panificadora Vila Monumento",
@@ -43005,11 +43014,12 @@
     "emailVerifiedAt": "2026-10-15",
     "mxVerified": true,
     "template": "consultivo",
-    "email1": false,
+    "email1": true,
     "invalidEmail": false,
     "targetProfile": "A/B",
     "emailFrozenUntil": null,
-    "emailCycleClosed": false
+    "emailCycleClosed": false,
+    "date1": "2026-11-10"
   },
   {
     "name": "MoDi Gastronomia",
