@@ -42434,10 +42434,10 @@
     "email": "contato@timorestaurante.com.br",
     "type": "restaurante",
     "neighborhood": "",
-    "city": "São Paulo",
+    "city": "São Paulo (SP)",
     "website": "",
     "phone": "4115-9098/ 95840-7871 RAFAELA MKT",
-    "context": "TRATTORIAS; responsável: RAFAELA; instagram: https://www.instagram.com/timocucina/",
+    "context": "Timo Cucina — trattoria/restaurante italiano em São Paulo (SP). Fit: cachaça artesanal premium para coquetéis e caipirinhas no bar, complementando a carta de bebidas do restaurante.",
     "emailVerified": true,
     "emailSource": "https://www.diariocidade.com/",
     "emailVerifiedAt": "2026-10-15",
@@ -42445,17 +42445,19 @@
     "template": "consultivo",
     "email1": false,
     "invalidEmail": false,
-    "targetProfile": "C/D"
+    "targetProfile": "A/B",
+    "emailFrozenUntil": null,
+    "emailCycleClosed": false
   },
   {
     "name": "TEA CONNECTION",
     "email": "oi@teaconnection.com.br",
     "type": "restaurante",
     "neighborhood": "",
-    "city": "São Paulo",
+    "city": "São Paulo (SP)",
     "website": "",
     "phone": "11 3063-4018 /  (11) 99531-8468 Delivery",
-    "context": "CHAS; responsável: RICARDO OU JUAN; instagram: https://www.instagram.com/teaconnectionbrasil/",
+    "context": "Tea Connection — casa de chás e gastronomia leve em São Paulo (SP). Fit: cachaça artesanal premium para coquetéis autorais e caipirinhas diferenciadas no menu de bebidas.",
     "emailVerified": true,
     "emailSource": "https://www.diariocidade.com/",
     "emailVerifiedAt": "2026-10-15",
@@ -42463,7 +42465,9 @@
     "template": "consultivo",
     "email1": false,
     "invalidEmail": false,
-    "targetProfile": "C/D"
+    "targetProfile": "A/B",
+    "emailFrozenUntil": null,
+    "emailCycleClosed": false
   },
   {
     "name": "PASTAGRANO",
@@ -42594,12 +42598,12 @@
   {
     "name": "Canto da cerva",
     "email": "contato@cantodacerva.com.br",
-    "type": "adega",
+    "type": "bar",
     "neighborhood": "",
-    "city": "São Paulo",
+    "city": "São Paulo (SP)",
     "website": "",
     "phone": "2359-8782 / 2359-8706 / 36757415 DIRETO / 11 947661516 LUCIANO / 11 99629-0250 PRISCILA",
-    "context": "CERVEJARIA; responsável: LUCIANO / PRISCILA; instagram: https://www.instagram.com/cantodacerva_biergarten/",
+    "context": "Canto da Cerva — cervejaria/biergarten em São Paulo (SP) com ambiente de bar. Fit: cachaça artesanal premium para ampliar carta além de cervejas, com caipirinhas e doses premium.",
     "emailVerified": true,
     "emailSource": "https://www.diariocidade.com/",
     "emailVerifiedAt": "2026-10-15",
@@ -42607,7 +42611,9 @@
     "template": "consultivo",
     "email1": false,
     "invalidEmail": false,
-    "targetProfile": "C/D"
+    "targetProfile": "A/B",
+    "emailFrozenUntil": null,
+    "emailCycleClosed": false
   },
   {
     "name": "NATTU Restaurante",
@@ -42705,10 +42711,10 @@
     "email": "reservas@barolotrattoriasp.com.br",
     "type": "restaurante",
     "neighborhood": "",
-    "city": "São Paulo",
+    "city": "São Paulo (SP)",
     "website": "",
     "phone": "3064-3406",
-    "context": "TRATTORIAS; responsável: CARLOS ROCHA  / LAURA; instagram: https://www.instagram.com/barolosaopaulo/",
+    "context": "Barolo Trattoria — trattoria italiana em São Paulo (SP), com serviço de restaurante e reservas. Fit: cachaça artesanal premium Pindorama para caipirinhas e coquetéis autorais no bar, harmonizando com a proposta italiana.",
     "emailVerified": true,
     "emailSource": "https://www.diariocidade.com/",
     "emailVerifiedAt": "2026-10-15",
@@ -42716,17 +42722,19 @@
     "template": "consultivo",
     "email1": false,
     "invalidEmail": false,
-    "targetProfile": "C/D"
+    "targetProfile": "A/B",
+    "emailFrozenUntil": null,
+    "emailCycleClosed": false
   },
   {
     "name": "Cantina San Marco",
     "email": "sanmarco@cantinasanmarco.com.br",
     "type": "restaurante",
-    "neighborhood": "",
-    "city": "São Paulo",
+    "neighborhood": "Mooca",
+    "city": "São Paulo (SP)",
     "website": "",
     "phone": "11 2292-3193",
-    "context": "ITALIANOS; responsável: LUIGI; instagram: https://www.instagram.com/cantinasanmarcomooca/",
+    "context": "Cantina San Marco (Mooca) — cantina italiana tradicional em São Paulo (SP). Fit: cachaça artesanal premium para caipirinhas e drinks no serviço de salão e celebrações em família/grupos.",
     "emailVerified": true,
     "emailSource": "https://www.diariocidade.com/",
     "emailVerifiedAt": "2026-10-17",
@@ -42735,17 +42743,19 @@
     "email1": false,
     "email2": false,
     "email3": false,
-    "targetProfile": "C/D"
+    "targetProfile": "A/B",
+    "emailFrozenUntil": null,
+    "emailCycleClosed": false
   },
   {
     "name": "CÃR",
     "email": "contato@corgastronomia.com.br",
     "type": "restaurante",
     "neighborhood": "",
-    "city": "São Paulo",
+    "city": "São Paulo (SP)",
     "website": "",
     "phone": "11 37262908 / 19 998635942 DAVI",
-    "context": "CARNE; responsável: DAVI; instagram: https://www.instagram.com/corgastronomia/",
+    "context": "Cór Gastronomia — restaurante em São Paulo (SP) com foco em carnes. Fit: cachaça artesanal premium para caipirinhas e carta de drinks, ideal para harmonizar com o menu.",
     "emailVerified": true,
     "emailSource": "https://www.diariocidade.com/",
     "emailVerifiedAt": "2026-10-15",
@@ -42753,7 +42763,9 @@
     "template": "consultivo",
     "email1": false,
     "invalidEmail": false,
-    "targetProfile": "C/D"
+    "targetProfile": "A/B",
+    "emailFrozenUntil": null,
+    "emailCycleClosed": false
   },
   {
     "name": "SERAFINA",
@@ -42832,10 +42844,10 @@
     "email": "contato@japasushi.com.br",
     "type": "restaurante",
     "neighborhood": "",
-    "city": "São Paulo",
+    "city": "São Paulo (SP)",
     "website": "",
     "phone": "11 2950-9799",
-    "context": "JAPONES; responsável: REBECA / PAULO; instagram: https://www.instagram.com/japa.sushi.sp/",
+    "context": "Japa Sushi e Bar — restaurante japonês com operação de bar em São Paulo (SP). Fit: cachaça artesanal premium para caipirinhas e coquetéis na carta de drinks, agregando rótulos brasileiros premium.",
     "emailVerified": true,
     "emailSource": "https://www.diariocidade.com/",
     "emailVerifiedAt": "2026-10-15",
@@ -42843,7 +42855,9 @@
     "template": "consultivo",
     "email1": false,
     "invalidEmail": false,
-    "targetProfile": "C/D"
+    "targetProfile": "A/B",
+    "emailFrozenUntil": null,
+    "emailCycleClosed": false
   },
   {
     "name": "Rota do AcarajÃ©",
@@ -42868,10 +42882,10 @@
     "email": "brado@bradorestaurante.com.br",
     "type": "restaurante",
     "neighborhood": "",
-    "city": "São Paulo",
+    "city": "São Paulo (SP)",
     "website": "",
     "phone": "11 3061-9293 WPP",
-    "context": "RESTAURANTE; responsável: ANNA LUIZA; instagram: https://www.instagram.com/bradorestaurante/",
+    "context": "Brado Restaurante — restaurante em São Paulo (SP) com foco em carnes e experiência gastronômica. Fit: cachaça artesanal premium para caipirinhas e drinks de assinatura no bar.",
     "emailVerified": true,
     "emailSource": "https://www.diariocidade.com/",
     "emailVerifiedAt": "2026-10-17",
@@ -42880,7 +42894,9 @@
     "email1": false,
     "email2": false,
     "email3": false,
-    "targetProfile": "C/D"
+    "targetProfile": "A/B",
+    "emailFrozenUntil": null,
+    "emailCycleClosed": false
   },
   {
     "name": "JAPS",
@@ -42941,10 +42957,10 @@
     "email": "wori@aragonrestaurante.com.br",
     "type": "restaurante",
     "neighborhood": "",
-    "city": "São Paulo",
+    "city": "São Paulo (SP)",
     "website": "",
     "phone": "11 3085-1877 / 11 97777-6999",
-    "context": "MEDITERRANEO/ variados; responsável: RAPHAEL; instagram: https://www.instagram.com/aragonrestaurante/",
+    "context": "Aragon Restaurante — restaurante de cozinha mediterrânea/variada em São Paulo (SP). Fit: cachaça artesanal premium para caipirinhas e coquetéis no bar do restaurante.",
     "emailVerified": true,
     "emailSource": "https://www.diariocidade.com/",
     "emailVerifiedAt": "2026-10-15",
@@ -42952,7 +42968,9 @@
     "template": "consultivo",
     "email1": false,
     "invalidEmail": false,
-    "targetProfile": "C/D"
+    "targetProfile": "A/B",
+    "emailFrozenUntil": null,
+    "emailCycleClosed": false
   },
   {
     "name": "Panificadora Vila Monumento",
@@ -42976,12 +42994,12 @@
   {
     "name": "Boteco Coutinho",
     "email": "contato@botecocoutinho.com.br",
-    "type": "restaurante",
+    "type": "bar",
     "neighborhood": "",
-    "city": "São Paulo",
+    "city": "São Paulo (SP)",
     "website": "",
     "phone": "11 3031-6586/11 3032-6068",
-    "context": "N/I; responsável: WILSON; instagram: https://www.instagram.com/botecocoutinho/",
+    "context": "Boteco Coutinho — boteco/bar em São Paulo (SP) com proposta descontraída. Fit: cachaça artesanal premium Pindorama e Cobra Coral para caipirinhas e doses especiais no balcão.",
     "emailVerified": true,
     "emailSource": "https://www.diariocidade.com/",
     "emailVerifiedAt": "2026-10-15",
@@ -42989,7 +43007,9 @@
     "template": "consultivo",
     "email1": false,
     "invalidEmail": false,
-    "targetProfile": "C/D"
+    "targetProfile": "A/B",
+    "emailFrozenUntil": null,
+    "emailCycleClosed": false
   },
   {
     "name": "MoDi Gastronomia",
