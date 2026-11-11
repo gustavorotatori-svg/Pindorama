@@ -35843,7 +35843,7 @@
     "mxVerified": true,
     "mxVerifiedAt": "2026-08-24",
     "template": "consultivo",
-    "email1": false,
+    "email1": true,
     "bounced": true,
     "bounceDate": "2026-08-24",
     "bounceReason": "550 5.1.1 User unknown in relay recipient table",
@@ -35851,7 +35851,8 @@
     "targetProfile": "A/B",
     "city": "Guarulhos (SP)",
     "emailFrozenUntil": null,
-    "emailCycleClosed": false
+    "emailCycleClosed": false,
+    "date1": "2026-11-10"
   },
   {
     "name": "Confraria Queijo e Vinho",
@@ -35868,13 +35869,14 @@
     "mxVerified": true,
     "mxVerifiedAt": "2026-08-24",
     "template": "consultivo",
-    "email1": false,
+    "email1": true,
     "email2": false,
     "email3": false,
     "targetProfile": "A/B",
     "city": "São Paulo (SP)",
     "emailFrozenUntil": null,
-    "emailCycleClosed": false
+    "emailCycleClosed": false,
+    "date1": "2026-11-10"
   },
   {
     "name": "Beale Bebidas",
@@ -35891,13 +35893,14 @@
     "mxVerified": true,
     "mxVerifiedAt": "2026-08-24",
     "template": "consultivo",
-    "email1": false,
+    "email1": true,
     "email2": false,
     "email3": false,
     "targetProfile": "A/B",
     "city": "São Paulo (SP)",
     "emailFrozenUntil": null,
-    "emailCycleClosed": false
+    "emailCycleClosed": false,
+    "date1": "2026-11-10"
   },
   {
     "name": "Bar da Zilda",
@@ -36361,14 +36364,15 @@
     "phoneVerifiedAt": "2026-08-30",
     "verifiedAt": "2026-08-30",
     "status": "contacted",
-    "email1": false,
+    "email1": true,
     "messageId1": "<6b620d6b-d50a-cce5-586f-1443c76b957d@gmail.com>",
     "email2": false,
     "email3": false,
     "targetProfile": "A/B",
     "template": "consultivo",
     "emailFrozenUntil": null,
-    "emailCycleClosed": false
+    "emailCycleClosed": false,
+    "date1": "2026-11-10"
   },
   {
     "name": "Emporio Incasa",
@@ -36472,14 +36476,15 @@
     "phoneVerifiedAt": "2026-08-30",
     "verifiedAt": "2026-08-30",
     "status": "contacted",
-    "email1": false,
+    "email1": true,
     "messageId1": "<77d900e6-7810-decf-187a-855e7d310a01@gmail.com>",
     "email2": false,
     "email3": false,
     "targetProfile": "A/B",
     "template": "consultivo",
     "emailFrozenUntil": null,
-    "emailCycleClosed": false
+    "emailCycleClosed": false,
+    "date1": "2026-11-10"
   },
   {
     "name": "Schneider Bebidas",
@@ -36502,14 +36507,15 @@
     "phoneVerifiedAt": "2026-08-27",
     "verifiedAt": "2026-08-30",
     "status": "contacted",
-    "email1": false,
+    "email1": true,
     "messageId1": "<9460993f-ee93-24b1-5034-c0867eb8318c@gmail.com>",
     "email2": false,
     "email3": false,
     "targetProfile": "A/B",
     "template": "consultivo",
     "emailFrozenUntil": null,
-    "emailCycleClosed": false
+    "emailCycleClosed": false,
+    "date1": "2026-11-10"
   },
   {
     "name": "Adega Caca",
@@ -36532,14 +36538,15 @@
     "phoneVerifiedAt": "2026-08-30",
     "verifiedAt": "2026-08-30",
     "status": "contacted",
-    "email1": false,
+    "email1": true,
     "messageId1": "<9dabc452-f303-ddbb-81d4-79496f8f4395@gmail.com>",
     "email2": false,
     "email3": false,
     "targetProfile": "A/B",
     "template": "consultivo",
     "emailFrozenUntil": null,
-    "emailCycleClosed": false
+    "emailCycleClosed": false,
+    "date1": "2026-11-10"
   },
   {
     "name": "Don Fernandes",
@@ -37166,13 +37173,14 @@
     "verifiedAt": "2026-09-01",
     "status": "contacted",
     "template": "consultivo",
-    "email1": false,
+    "email1": true,
     "automationIncident": "Contato ja constava nos Enviados do Gmail em 01/09/2026 17:55; registro reconciliado e novo envio cancelado pela checagem transacional anti-duplicidade.",
     "email2": false,
     "email3": false,
     "targetProfile": "A/B",
     "emailFrozenUntil": null,
-    "emailCycleClosed": false
+    "emailCycleClosed": false,
+    "date1": "2026-11-10"
   },
   {
     "name": "Stark Chopp",
@@ -37222,12 +37230,13 @@
     "verifiedAt": "2026-09-01",
     "status": "qualified_pending_import",
     "template": "consultivo",
-    "email1": false,
+    "email1": true,
     "email2": false,
     "email3": false,
     "targetProfile": "A/B",
     "emailFrozenUntil": null,
-    "emailCycleClosed": false
+    "emailCycleClosed": false,
+    "date1": "2026-11-10"
   },
   {
     "name": "Bolsao Distribuidora",
