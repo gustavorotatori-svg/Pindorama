@@ -1,5 +1,5 @@
 {
-  "lastUpdate": "2026-11-11T05:51:31.745Z",
+  "lastUpdate": "2026-11-11T13:59:05.121Z",
   "totalLeads": 4018,
   "allLeads": [
     {
@@ -19910,7 +19910,8 @@
       "city": "São Paulo (SP)",
       "email": "contato@grillbrasa.com.br",
       "emailVerified": true,
-      "email1": false,
+      "email1": true,
+      "date1": "2026-11-11",
       "email2": false,
       "email3": false
     },
@@ -34794,17 +34795,17 @@
     }
   ],
   "emails": {
-    "email1": 674,
+    "email1": 675,
     "email2": 1,
     "email3": 0,
-    "total": 675
+    "total": 676
   },
   "whatsapp": {
     "today": 0,
     "total": 262
   },
   "responses": 5,
-  "pending": 927,
+  "pending": 926,
   "daily": [
     {
       "date": "2026-10-29",
@@ -34860,7 +34861,7 @@
     },
     {
       "date": "2026-11-11",
-      "count": 0
+      "count": 1
     }
   ],
   "topNeighborhoods": [
@@ -34986,38 +34987,38 @@
   ],
   "funnel": {
     "leads": 4018,
-    "email1": 674,
+    "email1": 675,
     "email2": 1,
     "email3": 0,
     "responded": 5
   },
   "week": {
-    "leads": 269,
+    "leads": 270,
     "emails": {
-      "email1": 269,
+      "email1": 270,
       "email2": 0,
       "email3": 0,
-      "total": 269
+      "total": 270
     },
     "responses": 0
   },
   "month": {
-    "leads": 569,
+    "leads": 570,
     "emails": {
-      "email1": 569,
+      "email1": 570,
       "email2": 0,
       "email3": 0,
-      "total": 569
+      "total": 570
     },
     "responses": 0
   },
   "year": {
-    "leads": 676,
+    "leads": 677,
     "emails": {
-      "email1": 674,
+      "email1": 675,
       "email2": 1,
       "email3": 0,
-      "total": 675
+      "total": 676
     },
     "responses": 5
   },
@@ -35037,7 +35038,7 @@
     {
       "name": "adega",
       "total": 274,
-      "email1": 75,
+      "email1": 76,
       "responded": 0
     },
     {
