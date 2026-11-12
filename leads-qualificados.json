@@ -44416,11 +44416,12 @@
     "emailVerifiedAt": "2026-10-16",
     "mxVerified": true,
     "template": "pergunta",
-    "email1": false,
+    "email1": true,
     "invalidEmail": false,
     "targetProfile": "A/B",
     "emailFrozenUntil": null,
-    "emailCycleClosed": false
+    "emailCycleClosed": false,
+    "date1": "2026-11-12"
   },
   {
     "name": "ArmazÃ©n Paulista",
@@ -44457,11 +44458,12 @@
     "emailVerifiedAt": "2026-10-16",
     "mxVerified": true,
     "template": "pergunta",
-    "email1": false,
+    "email1": true,
     "invalidEmail": false,
     "targetProfile": "A/B",
     "emailFrozenUntil": null,
-    "emailCycleClosed": false
+    "emailCycleClosed": false,
+    "date1": "2026-11-12"
   },
   {
     "name": "Caos Brasilis",
@@ -44519,11 +44521,12 @@
     "emailVerifiedAt": "2026-10-16",
     "mxVerified": true,
     "template": "pergunta",
-    "email1": false,
+    "email1": true,
     "invalidEmail": false,
     "targetProfile": "A/B",
     "emailFrozenUntil": null,
-    "emailCycleClosed": false
+    "emailCycleClosed": false,
+    "date1": "2026-11-12"
   },
   {
     "name": "GRAND CRU VINHOS",
@@ -44557,11 +44560,12 @@
     "emailVerifiedAt": "2026-10-16",
     "mxVerified": true,
     "template": "pergunta",
-    "email1": false,
+    "email1": true,
     "invalidEmail": false,
     "targetProfile": "A/B",
     "emailFrozenUntil": null,
-    "emailCycleClosed": false
+    "emailCycleClosed": false,
+    "date1": "2026-11-12"
   },
   {
     "name": "Farfalla Restaurante Pizzaria",
@@ -44577,11 +44581,12 @@
     "emailVerifiedAt": "2026-10-16",
     "mxVerified": true,
     "template": "pergunta",
-    "email1": false,
+    "email1": true,
     "invalidEmail": false,
     "targetProfile": "A/B",
     "emailFrozenUntil": null,
-    "emailCycleClosed": false
+    "emailCycleClosed": false,
+    "date1": "2026-11-12"
   },
   {
     "name": "SANDOUI",
@@ -44597,11 +44602,12 @@
     "emailVerifiedAt": "2026-10-16",
     "mxVerified": true,
     "template": "pergunta",
-    "email1": false,
+    "email1": true,
     "invalidEmail": false,
     "targetProfile": "A/B",
     "emailFrozenUntil": null,
-    "emailCycleClosed": false
+    "emailCycleClosed": false,
+    "date1": "2026-11-12"
   },
   {
     "name": "TonToNi",
@@ -44617,11 +44623,12 @@
     "emailVerifiedAt": "2026-10-16",
     "mxVerified": true,
     "template": "pergunta",
-    "email1": false,
+    "email1": true,
     "invalidEmail": false,
     "targetProfile": "A/B",
     "emailFrozenUntil": null,
-    "emailCycleClosed": false
+    "emailCycleClosed": false,
+    "date1": "2026-11-12"
   },
   {
     "name": "NirÃ¡ Sushi",
@@ -44637,11 +44644,12 @@
     "emailVerifiedAt": "2026-10-16",
     "mxVerified": true,
     "template": "pergunta",
-    "email1": false,
+    "email1": true,
     "invalidEmail": false,
     "targetProfile": "A/B",
     "emailFrozenUntil": null,
-    "emailCycleClosed": false
+    "emailCycleClosed": false,
+    "date1": "2026-11-12"
   },
   {
     "name": "CHARCO",
@@ -44657,11 +44665,12 @@
     "emailVerifiedAt": "2026-10-16",
     "mxVerified": true,
     "template": "pergunta",
-    "email1": false,
+    "email1": true,
     "invalidEmail": false,
     "targetProfile": "A/B",
     "emailFrozenUntil": null,
-    "emailCycleClosed": false
+    "emailCycleClosed": false,
+    "date1": "2026-11-12"
   },
   {
     "name": "QUINTANA",
@@ -44698,11 +44707,12 @@
     "emailVerifiedAt": "2026-10-16",
     "mxVerified": true,
     "template": "pergunta",
-    "email1": false,
+    "email1": true,
     "invalidEmail": false,
     "targetProfile": "A/B",
     "emailFrozenUntil": null,
-    "emailCycleClosed": false
+    "emailCycleClosed": false,
+    "date1": "2026-11-12"
   },
   {
     "name": "VERÃSSIMO BAR",
