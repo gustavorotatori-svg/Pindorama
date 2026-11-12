@@ -33347,13 +33347,14 @@
     "emailSource": "https://alquimiacocktail.com.br/",
     "emailVerifiedAt": "2026-10-13",
     "template": "pergunta",
-    "email1": false,
+    "email1": true,
     "email2": false,
     "email3": false,
     "targetProfile": "A/B",
     "mxVerified": true,
     "emailFrozenUntil": null,
-    "emailCycleClosed": false
+    "emailCycleClosed": false,
+    "date1": "2026-11-12"
   },
   {
     "name": "New Cia Experience & Drinks",
@@ -46214,11 +46215,12 @@
     "emailVerifiedAt": "2026-10-15",
     "mxVerified": true,
     "template": "pergunta",
-    "email1": false,
+    "email1": true,
     "invalidEmail": false,
     "targetProfile": "A/B",
     "emailFrozenUntil": null,
-    "emailCycleClosed": false
+    "emailCycleClosed": false,
+    "date1": "2026-11-12"
   },
   {
     "name": "Baco Dvino Wine Bar",
@@ -46271,11 +46273,12 @@
     "emailVerifiedAt": "2026-10-15",
     "mxVerified": true,
     "template": "pergunta",
-    "email1": false,
+    "email1": true,
     "invalidEmail": false,
     "targetProfile": "A/B",
     "emailFrozenUntil": null,
-    "emailCycleClosed": false
+    "emailCycleClosed": false,
+    "date1": "2026-11-12"
   },
   {
     "name": "Cuattro EstaÃ§Ãµes",
@@ -46329,11 +46332,12 @@
     "emailVerifiedAt": "2026-10-15",
     "mxVerified": true,
     "template": "pergunta",
-    "email1": false,
+    "email1": true,
     "invalidEmail": false,
     "targetProfile": "A/B",
     "emailFrozenUntil": null,
-    "emailCycleClosed": false
+    "emailCycleClosed": false,
+    "date1": "2026-11-12"
   },
   {
     "name": "Giro Ristobar",
@@ -46425,11 +46429,12 @@
     "emailVerifiedAt": "2026-10-15",
     "mxVerified": true,
     "template": "pergunta",
-    "email1": false,
+    "email1": true,
     "invalidEmail": false,
     "targetProfile": "A/B",
     "emailFrozenUntil": null,
-    "emailCycleClosed": false
+    "emailCycleClosed": false,
+    "date1": "2026-11-12"
   },
   {
     "name": "EspacÌ§o Manakah",
@@ -46445,11 +46450,12 @@
     "emailVerifiedAt": "2026-10-15",
     "mxVerified": true,
     "template": "pergunta",
-    "email1": false,
+    "email1": true,
     "invalidEmail": false,
     "targetProfile": "A/B",
     "emailFrozenUntil": null,
-    "emailCycleClosed": false
+    "emailCycleClosed": false,
+    "date1": "2026-11-12"
   },
   {
     "name": "Beerwings Pub",
@@ -46465,11 +46471,12 @@
     "emailVerifiedAt": "2026-10-15",
     "mxVerified": true,
     "template": "pergunta",
-    "email1": false,
+    "email1": true,
     "invalidEmail": false,
     "targetProfile": "A/B",
     "emailFrozenUntil": null,
-    "emailCycleClosed": false
+    "emailCycleClosed": false,
+    "date1": "2026-11-12"
   },
   {
     "name": "BurgerBits Hamburgueria",
@@ -46504,11 +46511,12 @@
     "emailVerifiedAt": "2026-10-15",
     "mxVerified": true,
     "template": "pergunta",
-    "email1": false,
+    "email1": true,
     "invalidEmail": false,
     "targetProfile": "A/B",
     "emailFrozenUntil": null,
-    "emailCycleClosed": false
+    "emailCycleClosed": false,
+    "date1": "2026-11-12"
   },
   {
     "name": "Bar e Hamburgueria Jardim",
@@ -46524,11 +46532,12 @@
     "emailVerifiedAt": "2026-10-15",
     "mxVerified": true,
     "template": "pergunta",
-    "email1": false,
+    "email1": true,
     "invalidEmail": false,
     "targetProfile": "A/B",
     "emailFrozenUntil": null,
-    "emailCycleClosed": false
+    "emailCycleClosed": false,
+    "date1": "2026-11-12"
   },
   {
     "name": "Tanoshimi",
@@ -46711,11 +46720,12 @@
     "emailVerifiedAt": "2026-10-15",
     "mxVerified": true,
     "template": "pergunta",
-    "email1": false,
+    "email1": true,
     "invalidEmail": false,
     "targetProfile": "A/B",
     "emailFrozenUntil": null,
-    "emailCycleClosed": false
+    "emailCycleClosed": false,
+    "date1": "2026-11-12"
   },
   {
     "name": "EspacÌ§oâ¢724",
@@ -46749,11 +46759,12 @@
     "emailVerifiedAt": "2026-10-15",
     "mxVerified": true,
     "template": "pergunta",
-    "email1": false,
+    "email1": true,
     "invalidEmail": false,
     "targetProfile": "A/B",
     "emailFrozenUntil": null,
-    "emailCycleClosed": false
+    "emailCycleClosed": false,
+    "date1": "2026-11-12"
   },
   {
     "name": "Sr. Temaki CulinÃ¡ria Japonesa",
@@ -46805,11 +46816,12 @@
     "emailVerifiedAt": "2026-10-15",
     "mxVerified": true,
     "template": "pergunta",
-    "email1": false,
+    "email1": true,
     "invalidEmail": false,
     "targetProfile": "A/B",
     "emailFrozenUntil": null,
-    "emailCycleClosed": false
+    "emailCycleClosed": false,
+    "date1": "2026-11-12"
   },
   {
     "name": "Asami Sushi SA",
@@ -46879,11 +46891,12 @@
     "emailVerifiedAt": "2026-10-15",
     "mxVerified": true,
     "template": "pergunta",
-    "email1": false,
+    "email1": true,
     "invalidEmail": false,
     "targetProfile": "A/B",
     "emailFrozenUntil": null,
-    "emailCycleClosed": false
+    "emailCycleClosed": false,
+    "date1": "2026-11-12"
   },
   {
     "name": "Maxi Frango",
@@ -47061,11 +47074,12 @@
     "emailVerifiedAt": "2026-10-15",
     "mxVerified": true,
     "template": "pergunta",
-    "email1": false,
+    "email1": true,
     "invalidEmail": false,
     "targetProfile": "A/B",
     "emailFrozenUntil": null,
-    "emailCycleClosed": false
+    "emailCycleClosed": false,
+    "date1": "2026-11-12"
   },
   {
     "name": "DoDuda",
@@ -47119,11 +47133,12 @@
     "emailVerifiedAt": "2026-10-15",
     "mxVerified": true,
     "template": "pergunta",
-    "email1": false,
+    "email1": true,
     "invalidEmail": false,
     "targetProfile": "A/B",
     "emailFrozenUntil": null,
-    "emailCycleClosed": false
+    "emailCycleClosed": false,
+    "date1": "2026-11-12"
   },
   {
     "name": "Prainha Trambuca",
@@ -47139,11 +47154,12 @@
     "emailVerifiedAt": "2026-10-15",
     "mxVerified": true,
     "template": "pergunta",
-    "email1": false,
+    "email1": true,
     "invalidEmail": false,
     "targetProfile": "A/B",
     "emailFrozenUntil": null,
-    "emailCycleClosed": false
+    "emailCycleClosed": false,
+    "date1": "2026-11-12"
   },
   {
     "name": "SUPLICY CAFÃS ESPECIAIS",
