@@ -44080,11 +44080,12 @@
     "emailVerifiedAt": "2026-10-16",
     "mxVerified": true,
     "template": "pergunta",
-    "email1": false,
+    "email1": true,
     "invalidEmail": false,
     "targetProfile": "A/B",
     "emailFrozenUntil": null,
-    "emailCycleClosed": false
+    "emailCycleClosed": false,
+    "date1": "2026-11-12"
   },
   {
     "name": "Greentable",
@@ -44118,11 +44119,12 @@
     "emailVerifiedAt": "2026-10-16",
     "mxVerified": true,
     "template": "pergunta",
-    "email1": false,
+    "email1": true,
     "invalidEmail": false,
     "targetProfile": "A/B",
     "emailFrozenUntil": null,
-    "emailCycleClosed": false
+    "emailCycleClosed": false,
+    "date1": "2026-11-12"
   },
   {
     "name": "BOTECO VIRIATO",
@@ -44138,11 +44140,12 @@
     "emailVerifiedAt": "2026-10-15",
     "mxVerified": true,
     "template": "pergunta",
-    "email1": false,
+    "email1": true,
     "invalidEmail": false,
     "targetProfile": "A/B",
     "emailFrozenUntil": null,
-    "emailCycleClosed": false
+    "emailCycleClosed": false,
+    "date1": "2026-11-12"
   },
   {
     "name": "Temakeria Paulista",
@@ -44158,11 +44161,12 @@
     "emailVerifiedAt": "2026-10-16",
     "mxVerified": true,
     "template": "pergunta",
-    "email1": false,
+    "email1": true,
     "invalidEmail": false,
     "targetProfile": "A/B",
     "emailFrozenUntil": null,
-    "emailCycleClosed": false
+    "emailCycleClosed": false,
+    "date1": "2026-11-12"
   },
   {
     "name": "BOX ST. BURGER BAR",
@@ -44178,11 +44182,12 @@
     "emailVerifiedAt": "2026-10-16",
     "mxVerified": true,
     "template": "pergunta",
-    "email1": false,
+    "email1": true,
     "invalidEmail": false,
     "targetProfile": "A/B",
     "emailFrozenUntil": null,
-    "emailCycleClosed": false
+    "emailCycleClosed": false,
+    "date1": "2026-11-12"
   },
   {
     "name": "Yakissoba Mix Sushi",
@@ -44198,11 +44203,12 @@
     "emailVerifiedAt": "2026-10-16",
     "mxVerified": true,
     "template": "pergunta",
-    "email1": false,
+    "email1": true,
     "invalidEmail": false,
     "targetProfile": "A/B",
     "emailFrozenUntil": null,
-    "emailCycleClosed": false
+    "emailCycleClosed": false,
+    "date1": "2026-11-12"
   },
   {
     "name": "BRAVO BAR MOOCA",
@@ -44218,11 +44224,12 @@
     "emailVerifiedAt": "2026-10-15",
     "mxVerified": true,
     "template": "pergunta",
-    "email1": false,
+    "email1": true,
     "invalidEmail": false,
     "targetProfile": "A/B",
     "emailFrozenUntil": null,
-    "emailCycleClosed": false
+    "emailCycleClosed": false,
+    "date1": "2026-11-12"
   },
   {
     "name": "Mila",
@@ -44238,11 +44245,12 @@
     "emailVerifiedAt": "2026-10-16",
     "mxVerified": true,
     "template": "pergunta",
-    "email1": false,
+    "email1": true,
     "invalidEmail": false,
     "targetProfile": "A/B",
     "emailFrozenUntil": null,
-    "emailCycleClosed": false
+    "emailCycleClosed": false,
+    "date1": "2026-11-12"
   },
   {
     "name": "FÃRNO",
@@ -44276,11 +44284,12 @@
     "emailVerifiedAt": "2026-10-15",
     "mxVerified": true,
     "template": "pergunta",
-    "email1": false,
+    "email1": true,
     "invalidEmail": false,
     "targetProfile": "A/B",
     "emailFrozenUntil": null,
-    "emailCycleClosed": false
+    "emailCycleClosed": false,
+    "date1": "2026-11-12"
   },
   {
     "name": "FAIRE LA BOMBE",
@@ -44314,11 +44323,12 @@
     "emailVerifiedAt": "2026-10-15",
     "mxVerified": true,
     "template": "pergunta",
-    "email1": false,
+    "email1": true,
     "invalidEmail": false,
     "targetProfile": "A/B",
     "emailFrozenUntil": null,
-    "emailCycleClosed": false
+    "emailCycleClosed": false,
+    "date1": "2026-11-12"
   },
   {
     "name": "HB - Hamburgueria & Cia",
