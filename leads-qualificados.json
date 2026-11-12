@@ -43440,11 +43440,12 @@
     "emailVerifiedAt": "2026-10-16",
     "mxVerified": true,
     "template": "pergunta",
-    "email1": false,
+    "email1": true,
     "invalidEmail": false,
     "targetProfile": "A/B",
     "emailFrozenUntil": null,
-    "emailCycleClosed": false
+    "emailCycleClosed": false,
+    "date1": "2026-11-12"
   },
   {
     "name": "TRI BURGER",
@@ -43460,11 +43461,12 @@
     "emailVerifiedAt": "2026-10-16",
     "mxVerified": true,
     "template": "pergunta",
-    "email1": false,
+    "email1": true,
     "invalidEmail": false,
     "targetProfile": "A/B",
     "emailFrozenUntil": null,
-    "emailCycleClosed": false
+    "emailCycleClosed": false,
+    "date1": "2026-11-12"
   },
   {
     "name": "Depot 4 Grilled Burger",
@@ -43480,11 +43482,12 @@
     "emailVerifiedAt": "2026-10-16",
     "mxVerified": true,
     "template": "pergunta",
-    "email1": false,
+    "email1": true,
     "invalidEmail": false,
     "targetProfile": "A/B",
     "emailFrozenUntil": null,
-    "emailCycleClosed": false
+    "emailCycleClosed": false,
+    "date1": "2026-11-12"
   },
   {
     "name": "Padaria Manuella",
@@ -43621,11 +43624,12 @@
     "emailVerifiedAt": "2026-10-16",
     "mxVerified": true,
     "template": "pergunta",
-    "email1": false,
+    "email1": true,
     "invalidEmail": false,
     "targetProfile": "A/B",
     "emailFrozenUntil": null,
-    "emailCycleClosed": false
+    "emailCycleClosed": false,
+    "date1": "2026-11-12"
   },
   {
     "name": "Mag Market",
@@ -43734,11 +43738,12 @@
     "emailVerifiedAt": "2026-10-16",
     "mxVerified": true,
     "template": "pergunta",
-    "email1": false,
+    "email1": true,
     "invalidEmail": false,
     "targetProfile": "A/B",
     "emailFrozenUntil": null,
-    "emailCycleClosed": false
+    "emailCycleClosed": false,
+    "date1": "2026-11-12"
   },
   {
     "name": "Trattoria Nacional",
@@ -43754,11 +43759,12 @@
     "emailVerifiedAt": "2026-10-16",
     "mxVerified": true,
     "template": "pergunta",
-    "email1": false,
+    "email1": true,
     "invalidEmail": false,
     "targetProfile": "A/B",
     "emailFrozenUntil": null,
-    "emailCycleClosed": false
+    "emailCycleClosed": false,
+    "date1": "2026-11-12"
   },
   {
     "name": "Nanuky Sushi",
@@ -43831,11 +43837,12 @@
     "emailVerifiedAt": "2026-10-16",
     "mxVerified": true,
     "template": "pergunta",
-    "email1": false,
+    "email1": true,
     "invalidEmail": false,
     "targetProfile": "A/B",
     "emailFrozenUntil": null,
-    "emailCycleClosed": false
+    "emailCycleClosed": false,
+    "date1": "2026-11-12"
   },
   {
     "name": "AE! Cozinha",
@@ -43851,11 +43858,12 @@
     "emailVerifiedAt": "2026-10-16",
     "mxVerified": true,
     "template": "pergunta",
-    "email1": false,
+    "email1": true,
     "invalidEmail": false,
     "targetProfile": "A/B",
     "emailFrozenUntil": null,
-    "emailCycleClosed": false
+    "emailCycleClosed": false,
+    "date1": "2026-11-12"
   },
   {
     "name": "TGI Fridays Brasil",
@@ -43871,11 +43879,12 @@
     "emailVerifiedAt": "2026-10-16",
     "mxVerified": true,
     "template": "pergunta",
-    "email1": false,
+    "email1": true,
     "invalidEmail": false,
     "targetProfile": "A/B",
     "emailFrozenUntil": null,
-    "emailCycleClosed": false
+    "emailCycleClosed": false,
+    "date1": "2026-11-12"
   },
   {
     "name": "Chef Koji Yokomizo",
@@ -43945,11 +43954,12 @@
     "emailVerifiedAt": "2026-10-16",
     "mxVerified": true,
     "template": "pergunta",
-    "email1": false,
+    "email1": true,
     "invalidEmail": false,
     "targetProfile": "A/B",
     "emailFrozenUntil": null,
-    "emailCycleClosed": false
+    "emailCycleClosed": false,
+    "date1": "2026-11-12"
   },
   {
     "name": "Burger 700",
