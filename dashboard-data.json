@@ -1,5 +1,5 @@
 {
-  "lastUpdate": "2026-11-11T13:59:05.121Z",
+  "lastUpdate": "2026-11-12T00:27:38.308Z",
   "totalLeads": 4018,
   "allLeads": [
     {
@@ -19769,10 +19769,12 @@
     {
       "name": "Hortifruti Higienopolis",
       "type": "supermercado",
-      "neighborhood": "Grande Sao Paulo",
+      "neighborhood": "Grande São Paulo",
+      "city": "Santo André (SP)",
       "email": "contato@hortifrutihigienopolis.com.br",
       "emailVerified": true,
-      "email1": false,
+      "email1": true,
+      "date1": "2026-11-11",
       "email2": false,
       "email3": false
     },
@@ -19819,11 +19821,13 @@
     },
     {
       "name": "Liberal Club",
-      "type": "balada",
-      "neighborhood": "Centro",
+      "type": "bar",
+      "neighborhood": "ABC Paulista",
+      "city": "Santo André (SP)",
       "email": "atendimento@liberalclub.com.br",
       "emailVerified": true,
-      "email1": false,
+      "email1": true,
+      "date1": "2026-11-11",
       "email2": false,
       "email3": false
     },
@@ -19922,7 +19926,8 @@
       "city": "São Paulo (SP)",
       "email": "adm.vendas@maisdistribuidora.net.br",
       "emailVerified": true,
-      "email1": false,
+      "email1": true,
+      "date1": "2026-11-11",
       "email2": false,
       "email3": false
     },
@@ -19953,7 +19958,8 @@
       "city": "São Paulo (SP)",
       "email": "contato@destill.com.br",
       "emailVerified": true,
-      "email1": false,
+      "email1": true,
+      "date1": "2026-11-11",
       "email2": false,
       "email3": false
     },
@@ -19964,7 +19970,8 @@
       "city": "Guarulhos (SP)",
       "email": "contato@ferrazcomercio.com.br",
       "emailVerified": true,
-      "email1": false,
+      "email1": true,
+      "date1": "2026-11-11",
       "email2": false,
       "email3": false
     },
@@ -19985,7 +19992,8 @@
       "city": "São Paulo (SP)",
       "email": "vendas@nrdistribuidora.com.br",
       "emailVerified": true,
-      "email1": false,
+      "email1": true,
+      "date1": "2026-11-11",
       "email2": false,
       "email3": false
     },
@@ -20039,7 +20047,8 @@
       "city": "São Paulo (SP)",
       "email": "oemporio@oemporio.com.br",
       "emailVerified": true,
-      "email1": false,
+      "email1": true,
+      "date1": "2026-11-11",
       "email2": false,
       "email3": false
     },
@@ -20060,7 +20069,8 @@
       "city": "São Paulo (SP)",
       "email": "atendimento@bancadoramon.com.br",
       "emailVerified": true,
-      "email1": false,
+      "email1": true,
+      "date1": "2026-11-11",
       "email2": false,
       "email3": false
     },
@@ -20746,7 +20756,8 @@
       "city": "Campinas (SP)",
       "email": "contato@taxibeer.com.br",
       "emailVerified": true,
-      "email1": false,
+      "email1": true,
+      "date1": "2026-11-11",
       "email2": false,
       "email3": false
     },
@@ -20766,12 +20777,13 @@
     },
     {
       "name": "Vinicola e Adega Castanho",
-      "type": "vinicola_adega_cachacas_eventos",
+      "type": "adega",
       "neighborhood": "Castanho",
-      "city": "Jundiai",
+      "city": "Jundiaí (SP)",
       "email": "contato@vinicolacastanho.com.br",
       "emailVerified": true,
-      "email1": false,
+      "email1": true,
+      "date1": "2026-11-11",
       "email2": false,
       "email3": false
     },
@@ -23171,7 +23183,8 @@
       "city": "São Paulo (SP)",
       "email": "vendas@saopaulodistribuidora.com.br",
       "emailVerified": true,
-      "email1": false,
+      "email1": true,
+      "date1": "2026-11-11",
       "email2": false,
       "email3": false
     },
@@ -23565,51 +23578,56 @@
       "name": "Gorooh Burguer",
       "type": "restaurante",
       "neighborhood": "",
-      "city": "São Paulo",
+      "city": "São Paulo (SP)",
       "email": "adm@goroohburguer.com.br",
       "emailVerified": true,
       "invalidEmail": false,
-      "email1": false
+      "email1": true,
+      "date1": "2026-11-11"
     },
     {
       "name": "Milk & Mellow",
       "type": "restaurante",
       "neighborhood": "",
-      "city": "São Paulo",
+      "city": "São Paulo (SP)",
       "email": "jorge@alvk.com.br",
       "emailVerified": true,
       "invalidEmail": false,
-      "email1": false
+      "email1": true,
+      "date1": "2026-11-11"
     },
     {
       "name": "BLACK TRUNCK BRASIL",
       "type": "restaurante",
       "neighborhood": "",
-      "city": "São Paulo",
+      "city": "São Paulo (SP)",
       "email": "financeiro@blacktrunkbrasil.com.br",
       "emailVerified": true,
       "invalidEmail": false,
-      "email1": false
+      "email1": true,
+      "date1": "2026-11-11"
     },
     {
       "name": "ANTONIETTA CUCINA",
       "type": "restaurante",
       "neighborhood": "",
-      "city": "São Paulo",
+      "city": "São Paulo (SP)",
       "email": "contato@regionaljacaranda.com.br",
       "emailVerified": true,
       "invalidEmail": false,
-      "email1": false
+      "email1": true,
+      "date1": "2026-11-11"
     },
     {
       "name": "BIO - COMER SAUDÃVEL",
       "type": "restaurante",
       "neighborhood": "",
-      "city": "São Paulo",
+      "city": "São Paulo (SP)",
       "email": "adm@restaurantebio.com.br",
       "emailVerified": true,
       "invalidEmail": false,
-      "email1": false
+      "email1": true,
+      "date1": "2026-11-11"
     },
     {
       "name": "CIAO! VINO & BIRRA",
@@ -23638,21 +23656,23 @@
       "name": "Doceria Food Shop",
       "type": "restaurante",
       "neighborhood": "",
-      "city": "São Paulo",
+      "city": "São Paulo (SP)",
       "email": "contato@doceriafoodshop.com.br",
       "emailVerified": true,
       "invalidEmail": false,
-      "email1": false
+      "email1": true,
+      "date1": "2026-11-11"
     },
     {
       "name": "AteliÃª Dona Formiga",
       "type": "restaurante",
       "neighborhood": "",
-      "city": "São Paulo",
+      "city": "São Paulo (SP)",
       "email": "contato@ateliedonaformiga.com.br",
       "emailVerified": true,
       "invalidEmail": false,
-      "email1": false
+      "email1": true,
+      "date1": "2026-11-11"
     },
     {
       "name": "Esquina do Fuad",
@@ -26136,7 +26156,8 @@
       "city": "Sorocaba (SP)",
       "email": "contato@vendadonanoemia.com.br",
       "emailVerified": true,
-      "email1": false,
+      "email1": true,
+      "date1": "2026-11-11",
       "email2": false,
       "email3": false
     },
@@ -34795,22 +34816,18 @@
     }
   ],
   "emails": {
-    "email1": 675,
+    "email1": 694,
     "email2": 1,
     "email3": 0,
-    "total": 676
+    "total": 695
   },
   "whatsapp": {
     "today": 0,
     "total": 262
   },
   "responses": 5,
-  "pending": 926,
+  "pending": 907,
   "daily": [
-    {
-      "date": "2026-10-29",
-      "count": 0
-    },
     {
       "date": "2026-10-30",
       "count": 100
@@ -34861,7 +34878,11 @@
     },
     {
       "date": "2026-11-11",
-      "count": 1
+      "count": 20
+    },
+    {
+      "date": "2026-11-12",
+      "count": 0
     }
   ],
   "topNeighborhoods": [
@@ -34871,15 +34892,15 @@
     },
     {
       "name": "São Paulo",
-      "count": 298
+      "count": 291
     },
     {
       "name": "São Paulo (SP)",
-      "count": 50
+      "count": 57
     },
     {
       "name": "Centro",
-      "count": 44
+      "count": 43
     },
     {
       "name": "Pinheiros",
@@ -34987,38 +35008,38 @@
   ],
   "funnel": {
     "leads": 4018,
-    "email1": 675,
+    "email1": 694,
     "email2": 1,
     "email3": 0,
     "responded": 5
   },
   "week": {
-    "leads": 270,
+    "leads": 189,
     "emails": {
-      "email1": 270,
+      "email1": 189,
       "email2": 0,
       "email3": 0,
-      "total": 270
+      "total": 189
     },
     "responses": 0
   },
   "month": {
-    "leads": 570,
+    "leads": 589,
     "emails": {
-      "email1": 570,
+      "email1": 589,
       "email2": 0,
       "email3": 0,
-      "total": 570
+      "total": 589
     },
     "responses": 0
   },
   "year": {
-    "leads": 677,
+    "leads": 696,
     "emails": {
-      "email1": 675,
+      "email1": 694,
       "email2": 1,
       "email3": 0,
-      "total": 676
+      "total": 695
     },
     "responses": 5
   },
@@ -35026,25 +35047,25 @@
     {
       "name": "restaurante",
       "total": 2127,
-      "email1": 121,
+      "email1": 128,
       "responded": 0
     },
     {
       "name": "bar",
-      "total": 607,
-      "email1": 172,
+      "total": 608,
+      "email1": 174,
       "responded": 0
     },
     {
       "name": "adega",
-      "total": 274,
-      "email1": 76,
+      "total": 275,
+      "email1": 80,
       "responded": 0
     },
     {
       "name": "distribuidora",
       "total": 195,
-      "email1": 68,
+      "email1": 73,
       "responded": 1
     },
     {
@@ -35055,7 +35076,7 @@
     },
     {
       "name": "balada",
-      "total": 68,
+      "total": 67,
       "email1": 63,
       "responded": 0
     },
@@ -35242,7 +35263,7 @@
     {
       "name": "supermercado",
       "total": 2,
-      "email1": 0,
+      "email1": 1,
       "responded": 0
     },
     {
@@ -35541,12 +35562,6 @@
     },
     {
       "name": "buffet_eventos_bar_caipirinhas",
-      "total": 1,
-      "email1": 0,
-      "responded": 0
-    },
-    {
-      "name": "vinicola_adega_cachacas_eventos",
       "total": 1,
       "email1": 0,
       "responded": 0
