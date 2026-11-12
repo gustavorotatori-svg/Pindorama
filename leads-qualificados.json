@@ -32304,7 +32304,10 @@
     "email2": false,
     "email3": false,
     "targetProfile": "A/B",
-    "date1": "2026-11-05"
+    "date1": "2026-11-05",
+    "whatsappSent": true,
+    "whatsappDate": "2026-11-12",
+    "whatsappSource": "https://jiquitaia.com.br/"
   },
   {
     "name": "Luce",
@@ -33343,11 +33346,14 @@
     "emailVerified": true,
     "emailSource": "https://alquimiacocktail.com.br/",
     "emailVerifiedAt": "2026-10-13",
-    "template": "consultivo",
+    "template": "pergunta",
     "email1": false,
     "email2": false,
     "email3": false,
-    "targetProfile": "C/D"
+    "targetProfile": "A/B",
+    "mxVerified": true,
+    "emailFrozenUntil": null,
+    "emailCycleClosed": false
   },
   {
     "name": "New Cia Experience & Drinks",
@@ -33446,7 +33452,10 @@
     "email2": false,
     "email3": false,
     "targetProfile": "A/B",
-    "date1": "2026-11-05"
+    "date1": "2026-11-05",
+    "whatsappSent": true,
+    "whatsappDate": "2026-11-12",
+    "whatsappSource": "https://elodrinks.com.br/"
   },
   {
     "name": "Drink Bartenders",
@@ -46204,10 +46213,12 @@
     "emailSource": "https://www.diariocidade.com/",
     "emailVerifiedAt": "2026-10-15",
     "mxVerified": true,
-    "template": "consultivo",
+    "template": "pergunta",
     "email1": false,
     "invalidEmail": false,
-    "targetProfile": "C/D"
+    "targetProfile": "A/B",
+    "emailFrozenUntil": null,
+    "emailCycleClosed": false
   },
   {
     "name": "Baco Dvino Wine Bar",
@@ -46259,10 +46270,12 @@
     "emailSource": "https://www.diariocidade.com/",
     "emailVerifiedAt": "2026-10-15",
     "mxVerified": true,
-    "template": "consultivo",
+    "template": "pergunta",
     "email1": false,
     "invalidEmail": false,
-    "targetProfile": "C/D"
+    "targetProfile": "A/B",
+    "emailFrozenUntil": null,
+    "emailCycleClosed": false
   },
   {
     "name": "Cuattro EstaÃ§Ãµes",
@@ -46315,10 +46328,12 @@
     "emailSource": "https://www.diariocidade.com/",
     "emailVerifiedAt": "2026-10-15",
     "mxVerified": true,
-    "template": "consultivo",
+    "template": "pergunta",
     "email1": false,
     "invalidEmail": false,
-    "targetProfile": "C/D"
+    "targetProfile": "A/B",
+    "emailFrozenUntil": null,
+    "emailCycleClosed": false
   },
   {
     "name": "Giro Ristobar",
@@ -46409,10 +46424,12 @@
     "emailSource": "https://www.diariocidade.com/",
     "emailVerifiedAt": "2026-10-15",
     "mxVerified": true,
-    "template": "consultivo",
+    "template": "pergunta",
     "email1": false,
     "invalidEmail": false,
-    "targetProfile": "C/D"
+    "targetProfile": "A/B",
+    "emailFrozenUntil": null,
+    "emailCycleClosed": false
   },
   {
     "name": "EspacÌ§o Manakah",
@@ -46427,10 +46444,12 @@
     "emailSource": "https://www.diariocidade.com/",
     "emailVerifiedAt": "2026-10-15",
     "mxVerified": true,
-    "template": "consultivo",
+    "template": "pergunta",
     "email1": false,
     "invalidEmail": false,
-    "targetProfile": "C/D"
+    "targetProfile": "A/B",
+    "emailFrozenUntil": null,
+    "emailCycleClosed": false
   },
   {
     "name": "Beerwings Pub",
@@ -46445,10 +46464,12 @@
     "emailSource": "https://www.diariocidade.com/",
     "emailVerifiedAt": "2026-10-15",
     "mxVerified": true,
-    "template": "consultivo",
+    "template": "pergunta",
     "email1": false,
     "invalidEmail": false,
-    "targetProfile": "C/D"
+    "targetProfile": "A/B",
+    "emailFrozenUntil": null,
+    "emailCycleClosed": false
   },
   {
     "name": "BurgerBits Hamburgueria",
@@ -46482,10 +46503,12 @@
     "emailSource": "https://www.diariocidade.com/",
     "emailVerifiedAt": "2026-10-15",
     "mxVerified": true,
-    "template": "consultivo",
+    "template": "pergunta",
     "email1": false,
     "invalidEmail": false,
-    "targetProfile": "C/D"
+    "targetProfile": "A/B",
+    "emailFrozenUntil": null,
+    "emailCycleClosed": false
   },
   {
     "name": "Bar e Hamburgueria Jardim",
@@ -46500,10 +46523,12 @@
     "emailSource": "https://www.diariocidade.com/",
     "emailVerifiedAt": "2026-10-15",
     "mxVerified": true,
-    "template": "consultivo",
+    "template": "pergunta",
     "email1": false,
     "invalidEmail": false,
-    "targetProfile": "C/D"
+    "targetProfile": "A/B",
+    "emailFrozenUntil": null,
+    "emailCycleClosed": false
   },
   {
     "name": "Tanoshimi",
@@ -46685,10 +46710,12 @@
     "emailSource": "https://www.diariocidade.com/",
     "emailVerifiedAt": "2026-10-15",
     "mxVerified": true,
-    "template": "consultivo",
+    "template": "pergunta",
     "email1": false,
     "invalidEmail": false,
-    "targetProfile": "C/D"
+    "targetProfile": "A/B",
+    "emailFrozenUntil": null,
+    "emailCycleClosed": false
   },
   {
     "name": "EspacÌ§oâ¢724",
@@ -46721,10 +46748,12 @@
     "emailSource": "https://www.diariocidade.com/",
     "emailVerifiedAt": "2026-10-15",
     "mxVerified": true,
-    "template": "consultivo",
+    "template": "pergunta",
     "email1": false,
     "invalidEmail": false,
-    "targetProfile": "C/D"
+    "targetProfile": "A/B",
+    "emailFrozenUntil": null,
+    "emailCycleClosed": false
   },
   {
     "name": "Sr. Temaki CulinÃ¡ria Japonesa",
@@ -46775,10 +46804,12 @@
     "emailSource": "https://www.diariocidade.com/",
     "emailVerifiedAt": "2026-10-15",
     "mxVerified": true,
-    "template": "consultivo",
+    "template": "pergunta",
     "email1": false,
     "invalidEmail": false,
-    "targetProfile": "C/D"
+    "targetProfile": "A/B",
+    "emailFrozenUntil": null,
+    "emailCycleClosed": false
   },
   {
     "name": "Asami Sushi SA",
@@ -46847,10 +46878,12 @@
     "emailSource": "https://www.diariocidade.com/",
     "emailVerifiedAt": "2026-10-15",
     "mxVerified": true,
-    "template": "consultivo",
+    "template": "pergunta",
     "email1": false,
     "invalidEmail": false,
-    "targetProfile": "C/D"
+    "targetProfile": "A/B",
+    "emailFrozenUntil": null,
+    "emailCycleClosed": false
   },
   {
     "name": "Maxi Frango",
@@ -47027,10 +47060,12 @@
     "emailSource": "https://www.diariocidade.com/",
     "emailVerifiedAt": "2026-10-15",
     "mxVerified": true,
-    "template": "consultivo",
+    "template": "pergunta",
     "email1": false,
     "invalidEmail": false,
-    "targetProfile": "C/D"
+    "targetProfile": "A/B",
+    "emailFrozenUntil": null,
+    "emailCycleClosed": false
   },
   {
     "name": "DoDuda",
@@ -47083,10 +47118,12 @@
     "emailSource": "https://www.diariocidade.com/",
     "emailVerifiedAt": "2026-10-15",
     "mxVerified": true,
-    "template": "consultivo",
+    "template": "pergunta",
     "email1": false,
     "invalidEmail": false,
-    "targetProfile": "C/D"
+    "targetProfile": "A/B",
+    "emailFrozenUntil": null,
+    "emailCycleClosed": false
   },
   {
     "name": "Prainha Trambuca",
@@ -47101,10 +47138,12 @@
     "emailSource": "https://www.diariocidade.com/",
     "emailVerifiedAt": "2026-10-15",
     "mxVerified": true,
-    "template": "consultivo",
+    "template": "pergunta",
     "email1": false,
     "invalidEmail": false,
-    "targetProfile": "C/D"
+    "targetProfile": "A/B",
+    "emailFrozenUntil": null,
+    "emailCycleClosed": false
   },
   {
     "name": "SUPLICY CAFÃS ESPECIAIS",
