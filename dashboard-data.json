@@ -1,5 +1,5 @@
 {
-  "lastUpdate": "2026-11-12T00:27:38.308Z",
+  "lastUpdate": "2026-11-12T14:59:35.736Z",
   "totalLeads": 4018,
   "allLeads": [
     {
@@ -24105,23 +24105,25 @@
     },
     {
       "name": "WHAT`S ON TAP",
-      "type": "adega",
+      "type": "bar",
       "neighborhood": "",
-      "city": "São Paulo",
+      "city": "São Paulo (SP)",
       "email": "contato@wot.com.br",
       "emailVerified": true,
       "invalidEmail": false,
-      "email1": false
+      "email1": true,
+      "date1": "2026-11-12"
     },
     {
       "name": "Pizzaria Monte Vero",
       "type": "restaurante",
       "neighborhood": "",
-      "city": "São Paulo",
+      "city": "São Paulo (SP)",
       "email": "contato@pizzariamontevero.com.br",
       "emailVerified": true,
       "invalidEmail": false,
-      "email1": false
+      "email1": true,
+      "date1": "2026-11-12"
     },
     {
       "name": "CAVA BAR",
@@ -24160,21 +24162,23 @@
       "name": "Santo Xis",
       "type": "restaurante",
       "neighborhood": "",
-      "city": "São Paulo",
+      "city": "São Paulo (SP)",
       "email": "contato@santoxis.com",
       "emailVerified": true,
       "invalidEmail": false,
-      "email1": false
+      "email1": true,
+      "date1": "2026-11-12"
     },
     {
       "name": "The Xtreme Burger",
       "type": "restaurante",
       "neighborhood": "",
-      "city": "São Paulo",
+      "city": "São Paulo (SP)",
       "email": "contato@txburger.com.br",
       "emailVerified": true,
       "invalidEmail": false,
-      "email1": false
+      "email1": true,
+      "date1": "2026-11-12"
     },
     {
       "name": "MUDA ORGANIC BURGER & BAR",
@@ -24253,31 +24257,34 @@
       "name": "BAR DO ARNESTO",
       "type": "bar",
       "neighborhood": "",
-      "city": "São Paulo",
+      "city": "São Paulo (SP)",
       "email": "paulo@bardoarnesto.com.br",
       "emailVerified": true,
       "invalidEmail": false,
-      "email1": false
+      "email1": true,
+      "date1": "2026-11-12"
     },
     {
       "name": "Bao bar",
       "type": "bar",
       "neighborhood": "",
-      "city": "São Paulo",
+      "city": "São Paulo (SP)",
       "email": "contato@baobarsp.com.br",
       "emailVerified": true,
       "invalidEmail": false,
-      "email1": false
+      "email1": true,
+      "date1": "2026-11-12"
     },
     {
       "name": "TÃRREO BAR",
       "type": "bar",
       "neighborhood": "",
-      "city": "São Paulo",
+      "city": "São Paulo (SP)",
       "email": "arouche@terreobar.com.br",
       "emailVerified": true,
       "invalidEmail": false,
-      "email1": false
+      "email1": true,
+      "date1": "2026-11-12"
     },
     {
       "name": "Tonkotsu Barikote RAMEN MARU",
@@ -24331,13 +24338,14 @@
     },
     {
       "name": "BIER & BIER",
-      "type": "adega",
+      "type": "bar",
       "neighborhood": "",
-      "city": "São Paulo",
+      "city": "São Paulo (SP)",
       "email": "contato@bierbier.com.br",
       "emailVerified": true,
       "invalidEmail": false,
-      "email1": false
+      "email1": true,
+      "date1": "2026-11-12"
     },
     {
       "name": "SA Cozinha Japonesa",
@@ -24371,13 +24379,14 @@
     },
     {
       "name": "Bottled Dog",
-      "type": "adega",
+      "type": "bar",
       "neighborhood": "",
-      "city": "São Paulo",
+      "city": "São Paulo (SP)",
       "email": "contato@bottleddog.com",
       "emailVerified": true,
       "invalidEmail": false,
-      "email1": false
+      "email1": true,
+      "date1": "2026-11-12"
     },
     {
       "name": "SOW CAKE LOUNGE",
@@ -24471,13 +24480,14 @@
     },
     {
       "name": "MUNDIBAR",
-      "type": "restaurante",
+      "type": "bar",
       "neighborhood": "",
-      "city": "São Paulo",
+      "city": "São Paulo (SP)",
       "email": "luciano@mundibar.com.br",
       "emailVerified": true,
       "invalidEmail": false,
-      "email1": false
+      "email1": true,
+      "date1": "2026-11-12"
     },
     {
       "name": "BURGER MATCH",
@@ -34816,17 +34826,17 @@
     }
   ],
   "emails": {
-    "email1": 694,
+    "email1": 704,
     "email2": 1,
     "email3": 0,
-    "total": 695
+    "total": 705
   },
   "whatsapp": {
     "today": 0,
     "total": 262
   },
   "responses": 5,
-  "pending": 907,
+  "pending": 897,
   "daily": [
     {
       "date": "2026-10-30",
@@ -34882,7 +34892,7 @@
     },
     {
       "date": "2026-11-12",
-      "count": 0
+      "count": 10
     }
   ],
   "topNeighborhoods": [
@@ -34892,11 +34902,11 @@
     },
     {
       "name": "São Paulo",
-      "count": 291
+      "count": 281
     },
     {
       "name": "São Paulo (SP)",
-      "count": 57
+      "count": 67
     },
     {
       "name": "Centro",
@@ -35008,57 +35018,57 @@
   ],
   "funnel": {
     "leads": 4018,
-    "email1": 694,
+    "email1": 704,
     "email2": 1,
     "email3": 0,
     "responded": 5
   },
   "week": {
-    "leads": 189,
+    "leads": 199,
     "emails": {
-      "email1": 189,
+      "email1": 199,
       "email2": 0,
       "email3": 0,
-      "total": 189
+      "total": 199
     },
     "responses": 0
   },
   "month": {
-    "leads": 589,
+    "leads": 599,
     "emails": {
-      "email1": 589,
+      "email1": 599,
       "email2": 0,
       "email3": 0,
-      "total": 589
+      "total": 599
     },
     "responses": 0
   },
   "year": {
-    "leads": 696,
+    "leads": 706,
     "emails": {
-      "email1": 694,
+      "email1": 704,
       "email2": 1,
       "email3": 0,
-      "total": 695
+      "total": 705
     },
     "responses": 5
   },
   "segments": [
     {
       "name": "restaurante",
-      "total": 2127,
-      "email1": 128,
+      "total": 2126,
+      "email1": 131,
       "responded": 0
     },
     {
       "name": "bar",
-      "total": 608,
-      "email1": 174,
+      "total": 612,
+      "email1": 181,
       "responded": 0
     },
     {
       "name": "adega",
-      "total": 275,
+      "total": 272,
       "email1": 80,
       "responded": 0
     },
