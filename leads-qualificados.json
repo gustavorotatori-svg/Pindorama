@@ -43359,11 +43359,12 @@
     "emailVerifiedAt": "2026-10-15",
     "mxVerified": true,
     "template": "pergunta",
-    "email1": false,
+    "email1": true,
     "invalidEmail": false,
     "targetProfile": "A/B",
     "emailFrozenUntil": null,
-    "emailCycleClosed": false
+    "emailCycleClosed": false,
+    "date1": "2026-11-12"
   },
   {
     "name": "Santo Xis",
@@ -43524,11 +43525,12 @@
     "emailVerifiedAt": "2026-10-16",
     "mxVerified": true,
     "template": "pergunta",
-    "email1": false,
+    "email1": true,
     "invalidEmail": false,
     "targetProfile": "A/B",
     "emailFrozenUntil": null,
-    "emailCycleClosed": false
+    "emailCycleClosed": false,
+    "date1": "2026-11-12"
   },
   {
     "name": "La Gloria Pizza Bar",
@@ -43649,11 +43651,12 @@
     "emailVerifiedAt": "2026-10-16",
     "mxVerified": true,
     "template": "pergunta",
-    "email1": false,
+    "email1": true,
     "invalidEmail": false,
     "targetProfile": "A/B",
     "emailFrozenUntil": null,
-    "emailCycleClosed": false
+    "emailCycleClosed": false,
+    "date1": "2026-11-12"
   },
   {
     "name": "Coffee Lab",
@@ -43669,11 +43672,12 @@
     "emailVerifiedAt": "2026-10-16",
     "mxVerified": true,
     "template": "pergunta",
-    "email1": false,
+    "email1": true,
     "invalidEmail": false,
     "targetProfile": "A/B",
     "emailFrozenUntil": null,
-    "emailCycleClosed": false
+    "emailCycleClosed": false,
+    "date1": "2026-11-12"
   },
   {
     "name": "TEMAKI BROTHERS",
@@ -43827,11 +43831,12 @@
     "emailVerifiedAt": "2026-10-16",
     "mxVerified": true,
     "template": "pergunta",
-    "email1": false,
+    "email1": true,
     "invalidEmail": false,
     "targetProfile": "A/B",
     "emailFrozenUntil": null,
-    "emailCycleClosed": false
+    "emailCycleClosed": false,
+    "date1": "2026-11-12"
   },
   {
     "name": "BBC Container",
@@ -43910,11 +43915,12 @@
     "emailVerifiedAt": "2026-10-16",
     "mxVerified": true,
     "template": "pergunta",
-    "email1": false,
+    "email1": true,
     "invalidEmail": false,
     "targetProfile": "A/B",
     "emailFrozenUntil": null,
-    "emailCycleClosed": false
+    "emailCycleClosed": false,
+    "date1": "2026-11-12"
   },
   {
     "name": "ðððððððððð ðð ðð...",
@@ -43930,11 +43936,12 @@
     "emailVerifiedAt": "2026-10-16",
     "mxVerified": true,
     "template": "pergunta",
-    "email1": false,
+    "email1": true,
     "invalidEmail": false,
     "targetProfile": "A/B",
     "emailFrozenUntil": null,
-    "emailCycleClosed": false
+    "emailCycleClosed": false,
+    "date1": "2026-11-12"
   },
   {
     "name": "EspaÃ§o ArimbÃ¡",
@@ -43950,11 +43957,12 @@
     "emailVerifiedAt": "2026-10-16",
     "mxVerified": true,
     "template": "pergunta",
-    "email1": false,
+    "email1": true,
     "invalidEmail": false,
     "targetProfile": "A/B",
     "emailFrozenUntil": null,
-    "emailCycleClosed": false
+    "emailCycleClosed": false,
+    "date1": "2026-11-12"
   },
   {
     "name": "Nanako",
@@ -43991,11 +43999,12 @@
     "emailVerifiedAt": "2026-10-16",
     "mxVerified": true,
     "template": "pergunta",
-    "email1": false,
+    "email1": true,
     "invalidEmail": false,
     "targetProfile": "A/B",
     "emailFrozenUntil": null,
-    "emailCycleClosed": false
+    "emailCycleClosed": false,
+    "date1": "2026-11-12"
   },
   {
     "name": "MUNDIBAR",
@@ -44032,11 +44041,12 @@
     "emailVerifiedAt": "2026-10-16",
     "mxVerified": true,
     "template": "pergunta",
-    "email1": false,
+    "email1": true,
     "invalidEmail": false,
     "targetProfile": "A/B",
     "emailFrozenUntil": null,
-    "emailCycleClosed": false
+    "emailCycleClosed": false,
+    "date1": "2026-11-12"
   },
   {
     "name": "El Mariachi",
