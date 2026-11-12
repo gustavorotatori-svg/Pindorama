@@ -63827,7 +63827,7 @@
     "context": "Selvagem Ibirapuera — restaurante/bar em São Paulo (SP), com ambiente de experiência, eventos e operação de salão. Fit: cachaça artesanal premium Pindorama para caipirinhas e coquetéis autorais na carta de drinks e em eventos.",
     "emailSource": "https://www.selvagemibirapuera.com.br/contato",
     "template": "pergunta",
-    "email1": false,
+    "email1": true,
     "targetProfile": "A/B",
     "emailVerified": true,
     "mxVerified": true,
@@ -63835,7 +63835,8 @@
     "emailFrozenUntil": null,
     "emailCycleClosed": false,
     "invalidEmail": false,
-    "doNotContact": false
+    "doNotContact": false,
+    "date1": "2026-11-12"
   },
   {
     "email": "contato@tropicalirestaurante.com.br",
@@ -63846,7 +63847,7 @@
     "context": "Tropicali Restaurante — restaurante em Pinheiros, São Paulo (SP), com operação de almoço e eventos. Fit: cachaça artesanal premium para caipirinhas e drinks no serviço de bar e em eventos.",
     "emailSource": "https://tropicalirestaurante.com.br/contato",
     "template": "pergunta",
-    "email1": false,
+    "email1": true,
     "targetProfile": "A/B",
     "emailVerified": true,
     "mxVerified": true,
@@ -63854,6 +63855,7 @@
     "emailFrozenUntil": null,
     "emailCycleClosed": false,
     "invalidEmail": false,
-    "doNotContact": false
+    "doNotContact": false,
+    "date1": "2026-11-12"
   }
 ]
