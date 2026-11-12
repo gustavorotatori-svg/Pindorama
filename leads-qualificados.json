@@ -33089,7 +33089,9 @@
     "email1": false,
     "email2": false,
     "email3": false,
-    "targetProfile": "C/D"
+    "targetProfile": "A/B",
+    "emailFrozenUntil": null,
+    "emailCycleClosed": false
   },
   {
     "name": "Clube Outs",
@@ -44727,10 +44729,12 @@
     "emailSource": "https://www.diariocidade.com/",
     "emailVerifiedAt": "2026-10-15",
     "mxVerified": true,
-    "template": "consultivo",
+    "template": "pergunta",
     "email1": false,
     "invalidEmail": false,
-    "targetProfile": "C/D"
+    "targetProfile": "A/B",
+    "emailFrozenUntil": null,
+    "emailCycleClosed": false
   },
   {
     "name": "THE HIT",
@@ -44835,10 +44839,12 @@
     "emailSource": "https://www.diariocidade.com/",
     "emailVerifiedAt": "2026-10-15",
     "mxVerified": true,
-    "template": "consultivo",
+    "template": "pergunta",
     "email1": false,
     "invalidEmail": false,
-    "targetProfile": "C/D"
+    "targetProfile": "A/B",
+    "emailFrozenUntil": null,
+    "emailCycleClosed": false
   },
   {
     "name": "Eataly Brasil",
@@ -44963,10 +44969,12 @@
     "emailSource": "https://www.diariocidade.com/",
     "emailVerifiedAt": "2026-10-15",
     "mxVerified": true,
-    "template": "consultivo",
+    "template": "pergunta",
     "email1": false,
     "invalidEmail": false,
-    "targetProfile": "C/D"
+    "targetProfile": "A/B",
+    "emailFrozenUntil": null,
+    "emailCycleClosed": false
   },
   {
     "name": "BOSSA",
@@ -45017,10 +45025,12 @@
     "emailSource": "https://www.diariocidade.com/",
     "emailVerifiedAt": "2026-10-15",
     "mxVerified": true,
-    "template": "consultivo",
+    "template": "pergunta",
     "email1": false,
     "invalidEmail": false,
-    "targetProfile": "C/D"
+    "targetProfile": "A/B",
+    "emailFrozenUntil": null,
+    "emailCycleClosed": false
   },
   {
     "name": "Griffinn CafÃ© & Afins",
@@ -45179,10 +45189,12 @@
     "emailSource": "https://www.diariocidade.com/",
     "emailVerifiedAt": "2026-10-15",
     "mxVerified": true,
-    "template": "consultivo",
+    "template": "pergunta",
     "email1": false,
     "invalidEmail": false,
-    "targetProfile": "C/D"
+    "targetProfile": "A/B",
+    "emailFrozenUntil": null,
+    "emailCycleClosed": false
   },
   {
     "name": "IaiaÌ Cave aÌ Manger",
@@ -45377,10 +45389,12 @@
     "emailSource": "https://www.diariocidade.com/",
     "emailVerifiedAt": "2026-10-15",
     "mxVerified": true,
-    "template": "consultivo",
+    "template": "pergunta",
     "email1": false,
     "invalidEmail": false,
-    "targetProfile": "C/D"
+    "targetProfile": "A/B",
+    "emailFrozenUntil": null,
+    "emailCycleClosed": false
   },
   {
     "name": "D-KINGS DOGUERIA",
@@ -45485,10 +45499,12 @@
     "emailSource": "https://www.diariocidade.com/",
     "emailVerifiedAt": "2026-10-15",
     "mxVerified": true,
-    "template": "consultivo",
+    "template": "pergunta",
     "email1": false,
     "invalidEmail": false,
-    "targetProfile": "C/D"
+    "targetProfile": "A/B",
+    "emailFrozenUntil": null,
+    "emailCycleClosed": false
   },
   {
     "name": "Eat Asia",
@@ -45685,10 +45701,12 @@
     "emailSource": "https://www.diariocidade.com/",
     "emailVerifiedAt": "2026-10-15",
     "mxVerified": true,
-    "template": "consultivo",
+    "template": "pergunta",
     "email1": false,
     "invalidEmail": false,
-    "targetProfile": "C/D"
+    "targetProfile": "A/B",
+    "emailFrozenUntil": null,
+    "emailCycleClosed": false
   },
   {
     "name": "Bonita Bar e Cozinha",
@@ -45740,11 +45758,13 @@
     "emailSource": "https://www.diariocidade.com/",
     "emailVerifiedAt": "2026-10-15",
     "mxVerified": true,
-    "template": "consultivo",
+    "template": "pergunta",
     "email1": false,
     "email2": false,
     "email3": false,
-    "targetProfile": "C/D"
+    "targetProfile": "A/B",
+    "emailFrozenUntil": null,
+    "emailCycleClosed": false
   },
   {
     "name": "Balada Mix SÃ£o Paulo",
@@ -45816,11 +45836,13 @@
     "emailSource": "https://www.diariocidade.com/",
     "emailVerifiedAt": "2026-10-15",
     "mxVerified": true,
-    "template": "consultivo",
+    "template": "pergunta",
     "email1": false,
     "email2": false,
     "email3": false,
-    "targetProfile": "C/D"
+    "targetProfile": "A/B",
+    "emailFrozenUntil": null,
+    "emailCycleClosed": false
   },
   {
     "name": "Paiol Urbano Osasco",
@@ -45835,11 +45857,13 @@
     "emailSource": "https://www.diariocidade.com/",
     "emailVerifiedAt": "2026-10-15",
     "mxVerified": true,
-    "template": "consultivo",
+    "template": "pergunta",
     "email1": false,
     "email2": false,
     "email3": false,
-    "targetProfile": "C/D"
+    "targetProfile": "A/B",
+    "emailFrozenUntil": null,
+    "emailCycleClosed": false
   },
   {
     "name": "PRIME GOLDEN POTATO",
@@ -45930,11 +45954,13 @@
     "emailSource": "https://www.diariocidade.com/",
     "emailVerifiedAt": "2026-10-15",
     "mxVerified": true,
-    "template": "consultivo",
+    "template": "pergunta",
     "email1": false,
     "email2": false,
     "email3": false,
-    "targetProfile": "C/D"
+    "targetProfile": "A/B",
+    "emailFrozenUntil": null,
+    "emailCycleClosed": false
   },
   {
     "name": "Restaurante Malagueta",
@@ -45968,11 +45994,13 @@
     "emailSource": "https://www.diariocidade.com/",
     "emailVerifiedAt": "2026-10-15",
     "mxVerified": true,
-    "template": "consultivo",
+    "template": "pergunta",
     "email1": false,
     "email2": false,
     "email3": false,
-    "targetProfile": "C/D"
+    "targetProfile": "A/B",
+    "emailFrozenUntil": null,
+    "emailCycleClosed": false
   },
   {
     "name": "Dultier",
@@ -46006,10 +46034,12 @@
     "emailSource": "https://www.diariocidade.com/",
     "emailVerifiedAt": "2026-10-15",
     "mxVerified": true,
-    "template": "consultivo",
+    "template": "pergunta",
     "email1": false,
     "invalidEmail": false,
-    "targetProfile": "C/D"
+    "targetProfile": "A/B",
+    "emailFrozenUntil": null,
+    "emailCycleClosed": false
   },
   {
     "name": "MomÃ´zinho",
@@ -46043,10 +46073,12 @@
     "emailSource": "https://www.diariocidade.com/",
     "emailVerifiedAt": "2026-10-15",
     "mxVerified": true,
-    "template": "consultivo",
+    "template": "pergunta",
     "email1": false,
     "invalidEmail": false,
-    "targetProfile": "C/D"
+    "targetProfile": "A/B",
+    "emailFrozenUntil": null,
+    "emailCycleClosed": false
   },
   {
     "name": "Filomena CafeÌ BistroÌ",
