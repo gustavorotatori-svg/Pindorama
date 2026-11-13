@@ -34438,7 +34438,9 @@
     "email3": false,
     "mxVerified": true,
     "emailFrozenUntil": null,
-    "emailCycleClosed": false
+    "emailCycleClosed": false,
+    "targetProfile": "A/B",
+    "template": "pergunta"
   },
   {
     "name": "São Paulo Urban Distillery",
@@ -34678,7 +34680,10 @@
     "email1": false,
     "email2": false,
     "email3": false,
-    "targetProfile": "C/D"
+    "targetProfile": "A/B",
+    "mxVerified": true,
+    "emailFrozenUntil": null,
+    "emailCycleClosed": false
   },
   {
     "name": "Alemão Bar e Bistrô",
@@ -35033,7 +35038,10 @@
     "email1": false,
     "email2": false,
     "email3": false,
-    "targetProfile": "C/D"
+    "targetProfile": "A/B",
+    "mxVerified": true,
+    "emailFrozenUntil": null,
+    "emailCycleClosed": false
   },
   {
     "name": "Zao Sushi Taboão",
@@ -35105,7 +35113,10 @@
     "email1": false,
     "email2": false,
     "email3": false,
-    "targetProfile": "C/D"
+    "targetProfile": "A/B",
+    "mxVerified": true,
+    "emailFrozenUntil": null,
+    "emailCycleClosed": false
   },
   {
     "name": "Gaia Restaurante",
@@ -35123,7 +35134,10 @@
     "email1": false,
     "email2": false,
     "email3": false,
-    "targetProfile": "C/D"
+    "targetProfile": "A/B",
+    "mxVerified": true,
+    "emailFrozenUntil": null,
+    "emailCycleClosed": false
   },
   {
     "name": "Cantinho do Luiz",
@@ -38593,12 +38607,14 @@
     "emailSource": "https://magnoliapocketclub.com.br/",
     "emailVerifiedAt": "2026-10-13",
     "mxVerified": true,
-    "template": "prova_social",
+    "template": "pergunta",
     "website": "",
     "email1": false,
     "email2": false,
     "email3": false,
-    "targetProfile": "C/D"
+    "targetProfile": "A/B",
+    "emailFrozenUntil": null,
+    "emailCycleClosed": false
   },
   {
     "name": "G&T Bar (Depto Compras)",
@@ -39293,7 +39309,11 @@
     "email1": false,
     "email2": false,
     "email3": false,
-    "targetProfile": "C/D"
+    "targetProfile": "A/B",
+    "template": "pergunta",
+    "mxVerified": true,
+    "emailFrozenUntil": null,
+    "emailCycleClosed": false
   },
   {
     "name": "Seu Clemente Bar",
@@ -43162,7 +43182,9 @@
     "template": "consultivo",
     "email1": false,
     "invalidEmail": false,
-    "targetProfile": "C/D"
+    "targetProfile": "A/B",
+    "emailFrozenUntil": null,
+    "emailCycleClosed": false
   },
   {
     "name": "Brado Restaurante",
@@ -43350,7 +43372,9 @@
     "template": "consultivo",
     "email1": false,
     "invalidEmail": false,
-    "targetProfile": "C/D"
+    "targetProfile": "A/B",
+    "emailFrozenUntil": null,
+    "emailCycleClosed": false
   },
   {
     "name": "WHAT`S ON TAP",
@@ -44630,7 +44654,9 @@
     "template": "consultivo",
     "email1": false,
     "invalidEmail": false,
-    "targetProfile": "C/D"
+    "targetProfile": "A/B",
+    "emailFrozenUntil": null,
+    "emailCycleClosed": false
   },
   {
     "name": "Estela Passoni",
@@ -44837,7 +44863,9 @@
     "template": "consultivo",
     "email1": false,
     "invalidEmail": false,
-    "targetProfile": "C/D"
+    "targetProfile": "A/B",
+    "emailFrozenUntil": null,
+    "emailCycleClosed": false
   },
   {
     "name": "NILO BURGERS",
@@ -44855,7 +44883,9 @@
     "template": "consultivo",
     "email1": false,
     "invalidEmail": false,
-    "targetProfile": "C/D"
+    "targetProfile": "A/B",
+    "emailFrozenUntil": null,
+    "emailCycleClosed": false
   },
   {
     "name": "Bistrot Venuto",
@@ -44873,7 +44903,9 @@
     "template": "consultivo",
     "email1": false,
     "invalidEmail": false,
-    "targetProfile": "C/D"
+    "targetProfile": "A/B",
+    "emailFrozenUntil": null,
+    "emailCycleClosed": false
   },
   {
     "name": "Garage Burger",
@@ -44891,7 +44923,9 @@
     "template": "consultivo",
     "email1": false,
     "invalidEmail": false,
-    "targetProfile": "C/D"
+    "targetProfile": "A/B",
+    "emailFrozenUntil": null,
+    "emailCycleClosed": false
   },
   {
     "name": "Charada Burguer",
@@ -44909,7 +44943,9 @@
     "template": "consultivo",
     "email1": false,
     "invalidEmail": false,
-    "targetProfile": "C/D"
+    "targetProfile": "A/B",
+    "emailFrozenUntil": null,
+    "emailCycleClosed": false
   },
   {
     "name": "PORTO LUNA",
@@ -44948,7 +44984,9 @@
     "template": "consultivo",
     "email1": false,
     "invalidEmail": false,
-    "targetProfile": "C/D"
+    "targetProfile": "A/B",
+    "emailFrozenUntil": null,
+    "emailCycleClosed": false
   },
   {
     "name": "BON CAFÃ",
@@ -44966,7 +45004,9 @@
     "template": "consultivo",
     "email1": false,
     "invalidEmail": false,
-    "targetProfile": "C/D"
+    "targetProfile": "A/B",
+    "emailFrozenUntil": null,
+    "emailCycleClosed": false
   },
   {
     "name": "Zi Tereza Di Napoli",
@@ -44984,7 +45024,9 @@
     "template": "consultivo",
     "email1": false,
     "invalidEmail": false,
-    "targetProfile": "C/D"
+    "targetProfile": "A/B",
+    "emailFrozenUntil": null,
+    "emailCycleClosed": false
   },
   {
     "name": "MAKOTO",
@@ -45002,7 +45044,9 @@
     "template": "consultivo",
     "email1": false,
     "invalidEmail": false,
-    "targetProfile": "C/D"
+    "targetProfile": "A/B",
+    "emailFrozenUntil": null,
+    "emailCycleClosed": false
   },
   {
     "name": "Rabo di Galo",
@@ -45040,7 +45084,9 @@
     "template": "consultivo",
     "email1": false,
     "invalidEmail": false,
-    "targetProfile": "C/D"
+    "targetProfile": "A/B",
+    "emailFrozenUntil": null,
+    "emailCycleClosed": false
   },
   {
     "name": "Bar das Patroas",
@@ -45079,7 +45125,9 @@
     "template": "consultivo",
     "email1": false,
     "invalidEmail": false,
-    "targetProfile": "C/D"
+    "targetProfile": "A/B",
+    "emailFrozenUntil": null,
+    "emailCycleClosed": false
   },
   {
     "name": "Cafe Donut's",
@@ -45097,7 +45145,9 @@
     "template": "consultivo",
     "email1": false,
     "invalidEmail": false,
-    "targetProfile": "C/D"
+    "targetProfile": "A/B",
+    "emailFrozenUntil": null,
+    "emailCycleClosed": false
   },
   {
     "name": "ECLAIR BAR",
@@ -45136,7 +45186,9 @@
     "template": "consultivo",
     "email1": false,
     "invalidEmail": false,
-    "targetProfile": "C/D"
+    "targetProfile": "A/B",
+    "emailFrozenUntil": null,
+    "emailCycleClosed": false
   },
   {
     "name": "Porco Paulista Bar",
@@ -45154,7 +45206,9 @@
     "template": "consultivo",
     "email1": false,
     "invalidEmail": false,
-    "targetProfile": "C/D"
+    "targetProfile": "A/B",
+    "emailFrozenUntil": null,
+    "emailCycleClosed": false
   },
   {
     "name": "Prego Cucina",
@@ -47848,16 +47902,18 @@
     "city": "São Paulo",
     "website": "",
     "phone": "",
-    "context": "",
+    "context": "Imperio das Esfihas Jandira — bar em São Paulo. Fit: cachaça artesanal premium Pindorama para caipirinhas e drinks na carta.",
     "emailVerified": true,
     "emailSource": "https://www.diariocidade.com/",
     "emailVerifiedAt": "2026-10-17",
     "mxVerified": true,
-    "template": "consultivo",
+    "template": "pergunta",
     "email1": false,
     "email2": false,
     "email3": false,
-    "targetProfile": "C/D"
+    "targetProfile": "A/B",
+    "emailFrozenUntil": null,
+    "emailCycleClosed": false
   },
   {
     "name": "Skye Restaurant & Bar",
@@ -47888,16 +47944,18 @@
     "city": "São Paulo",
     "website": "",
     "phone": "",
-    "context": "",
+    "context": "B.A.R. - Bar Arte Restaurante — bar em São Paulo. Fit: cachaça artesanal premium Pindorama para caipirinhas e drinks na carta.",
     "emailVerified": true,
     "emailSource": "https://www.diariocidade.com/",
     "emailVerifiedAt": "2026-10-17",
     "mxVerified": true,
-    "template": "consultivo",
+    "template": "pergunta",
     "email1": false,
     "email2": false,
     "email3": false,
-    "targetProfile": "C/D"
+    "targetProfile": "A/B",
+    "emailFrozenUntil": null,
+    "emailCycleClosed": false
   },
   {
     "name": "Distribuidora Importline",
@@ -47907,16 +47965,18 @@
     "city": "São Paulo",
     "website": "",
     "phone": "",
-    "context": "",
+    "context": "Distribuidora Importline — bar em São Paulo. Fit: cachaça artesanal premium Pindorama para caipirinhas e drinks na carta.",
     "emailVerified": true,
     "emailSource": "https://www.diariocidade.com/",
     "emailVerifiedAt": "2026-10-17",
     "mxVerified": true,
-    "template": "consultivo",
+    "template": "revenda",
     "email1": false,
     "email2": false,
     "email3": false,
-    "targetProfile": "C/D"
+    "targetProfile": "A/B",
+    "emailFrozenUntil": null,
+    "emailCycleClosed": false
   },
   {
     "name": "JLX Distribuidora",
@@ -47926,16 +47986,18 @@
     "city": "São Paulo",
     "website": "",
     "phone": "",
-    "context": "",
+    "context": "JLX Distribuidora — bar em São Paulo. Fit: cachaça artesanal premium Pindorama para caipirinhas e drinks na carta.",
     "emailVerified": true,
     "emailSource": "https://www.diariocidade.com/",
     "emailVerifiedAt": "2026-10-17",
     "mxVerified": true,
-    "template": "consultivo",
+    "template": "revenda",
     "email1": false,
     "email2": false,
     "email3": false,
-    "targetProfile": "C/D"
+    "targetProfile": "A/B",
+    "emailFrozenUntil": null,
+    "emailCycleClosed": false
   },
   {
     "name": "Ramari Distribuidora",
@@ -47945,16 +48007,18 @@
     "city": "São Paulo",
     "website": "",
     "phone": "",
-    "context": "",
+    "context": "Ramari Distribuidora — bar em São Paulo. Fit: cachaça artesanal premium Pindorama para caipirinhas e drinks na carta.",
     "emailVerified": true,
     "emailSource": "https://www.diariocidade.com/",
     "emailVerifiedAt": "2026-10-17",
     "mxVerified": true,
-    "template": "consultivo",
+    "template": "revenda",
     "email1": false,
     "email2": false,
     "email3": false,
-    "targetProfile": "C/D"
+    "targetProfile": "A/B",
+    "emailFrozenUntil": null,
+    "emailCycleClosed": false
   },
   {
     "name": "Barrigudinha Express",
@@ -47964,16 +48028,18 @@
     "city": "São Paulo",
     "website": "",
     "phone": "",
-    "context": "",
+    "context": "Barrigudinha Express — bar em São Paulo. Fit: cachaça artesanal premium Pindorama para caipirinhas e drinks na carta.",
     "emailVerified": true,
     "emailSource": "https://www.diariocidade.com/",
     "emailVerifiedAt": "2026-10-17",
     "mxVerified": true,
-    "template": "consultivo",
+    "template": "pergunta",
     "email1": false,
     "email2": false,
     "email3": false,
-    "targetProfile": "C/D"
+    "targetProfile": "A/B",
+    "emailFrozenUntil": null,
+    "emailCycleClosed": false
   },
   {
     "name": "Emporio Sagarana",
@@ -48002,16 +48068,18 @@
     "city": "São Paulo",
     "website": "",
     "phone": "",
-    "context": "",
+    "context": "Adega Brasil — bar em São Paulo. Fit: cachaça artesanal premium Pindorama para caipirinhas e drinks na carta.",
     "emailVerified": true,
     "emailSource": "https://www.diariocidade.com/",
     "emailVerifiedAt": "2026-10-17",
     "mxVerified": true,
-    "template": "consultivo",
+    "template": "revenda",
     "email1": false,
     "email2": false,
     "email3": false,
-    "targetProfile": "C/D"
+    "targetProfile": "A/B",
+    "emailFrozenUntil": null,
+    "emailCycleClosed": false
   },
   {
     "email": "adm.vendas@maisdistribuidoraalimentos.com.br",
@@ -48025,12 +48093,14 @@
     "emailSource": "https://www.diariocidade.com/",
     "emailVerifiedAt": "2026-10-17",
     "mxVerified": true,
-    "template": "consultivo",
+    "template": "revenda",
     "email1": false,
     "name": "Mais Distribuidora Alimentos",
     "email2": false,
-    "targetProfile": "C/D",
-    "email3": false
+    "targetProfile": "A/B",
+    "email3": false,
+    "emailFrozenUntil": null,
+    "emailCycleClosed": false
   },
   {
     "name": "00 Sao Paulo",
