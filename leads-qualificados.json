@@ -30622,7 +30622,15 @@
     "template": "prova_social",
     "website": "",
     "email1": false,
-    "targetProfile": "C/D"
+    "targetProfile": "A/B",
+    "emailVerified": true,
+    "mxVerified": true,
+    "emailSource": "https://www.fornalenha.com.br/",
+    "emailVerifiedAt": "2026-11-13",
+    "emailFrozenUntil": null,
+    "emailCycleClosed": false,
+    "invalidEmail": false,
+    "doNotContact": false
   },
   {
     "name": "Restaurante America",
