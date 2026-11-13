@@ -26499,7 +26499,7 @@
     "phone": "114433-0888",
     "template": "consultivo",
     "website": "",
-    "email1": false,
+    "email1": true,
     "targetProfile": "A/B",
     "emailVerified": true,
     "mxVerified": true,
@@ -26508,7 +26508,8 @@
     "emailFrozenUntil": null,
     "emailCycleClosed": false,
     "invalidEmail": false,
-    "doNotContact": false
+    "doNotContact": false,
+    "date1": "2026-11-13"
   },
   {
     "name": "Rancho do Comanche",
@@ -30621,7 +30622,7 @@
     "phone": "11 45557664 / 11 940231281 ERIK",
     "template": "prova_social",
     "website": "",
-    "email1": false,
+    "email1": true,
     "targetProfile": "A/B",
     "emailVerified": true,
     "mxVerified": true,
@@ -30630,7 +30631,8 @@
     "emailFrozenUntil": null,
     "emailCycleClosed": false,
     "invalidEmail": false,
-    "doNotContact": false
+    "doNotContact": false,
+    "date1": "2026-11-13"
   },
   {
     "name": "Restaurante America",
@@ -32856,12 +32858,13 @@
     "mxVerified": true,
     "neighborhood": "",
     "template": "pergunta",
-    "email1": false,
+    "email1": true,
     "email2": false,
     "email3": false,
     "targetProfile": "A/B",
     "emailFrozenUntil": null,
-    "emailCycleClosed": false
+    "emailCycleClosed": false,
+    "date1": "2026-11-13"
   },
   {
     "name": "Fancy Bar",
@@ -33089,12 +33092,13 @@
     "mxVerified": true,
     "neighborhood": "",
     "template": "pergunta",
-    "email1": false,
+    "email1": true,
     "email2": false,
     "email3": false,
     "targetProfile": "A/B",
     "emailFrozenUntil": null,
-    "emailCycleClosed": false
+    "emailCycleClosed": false,
+    "date1": "2026-11-13"
   },
   {
     "name": "Yo Ho Pub",
@@ -34333,13 +34337,14 @@
     "emailSource": "https://zeventos.com/zeze-di-camargo-e-luciano",
     "emailVerifiedAt": "2026-10-13",
     "template": "pergunta",
-    "email1": false,
+    "email1": true,
     "email2": false,
     "email3": false,
     "targetProfile": "A/B",
     "mxVerified": true,
     "emailFrozenUntil": null,
-    "emailCycleClosed": false
+    "emailCycleClosed": false,
+    "date1": "2026-11-13"
   },
   {
     "name": "Recanto Santa Rita",
@@ -34585,13 +34590,14 @@
     "emailSource": "https://becoalfas.com.br/",
     "emailVerifiedAt": "2026-10-13",
     "template": "pergunta",
-    "email1": false,
+    "email1": true,
     "email2": false,
     "email3": false,
     "targetProfile": "A/B",
     "mxVerified": true,
     "emailFrozenUntil": null,
-    "emailCycleClosed": false
+    "emailCycleClosed": false,
+    "date1": "2026-11-13"
   },
   {
     "name": "Tortellini Restaurante e Pizzaria",
@@ -34625,13 +34631,14 @@
     "emailSource": "https://opostobar.com.br/",
     "emailVerifiedAt": "2026-10-13",
     "template": "pergunta",
-    "email1": false,
+    "email1": true,
     "email2": false,
     "email3": false,
     "targetProfile": "A/B",
     "mxVerified": true,
     "emailFrozenUntil": null,
-    "emailCycleClosed": false
+    "emailCycleClosed": false,
+    "date1": "2026-11-13"
   },
   {
     "name": "Beer Place Tap House",
@@ -34646,13 +34653,14 @@
     "emailSource": "https://www.beerplace.com.br/contato",
     "emailVerifiedAt": "2026-10-13",
     "template": "pergunta",
-    "email1": false,
+    "email1": true,
     "email2": false,
     "email3": false,
     "targetProfile": "A/B",
     "mxVerified": true,
     "emailFrozenUntil": null,
-    "emailCycleClosed": false
+    "emailCycleClosed": false,
+    "date1": "2026-11-13"
   },
   {
     "name": "Pedra Branca Jandira",
@@ -34703,13 +34711,14 @@
     "emailSource": "https://www.benditaareia.com.br/",
     "emailVerifiedAt": "2026-10-13",
     "template": "pergunta",
-    "email1": false,
+    "email1": true,
     "email2": false,
     "email3": false,
     "targetProfile": "A/B",
     "mxVerified": true,
     "emailFrozenUntil": null,
-    "emailCycleClosed": false
+    "emailCycleClosed": false,
+    "date1": "2026-11-13"
   },
   {
     "name": "Lig Chopp Germânia Barueri",
@@ -34904,13 +34913,14 @@
     "emailSource": "https://www.tacacheia.com/contato",
     "emailVerifiedAt": "2026-10-13",
     "template": "pergunta",
-    "email1": false,
+    "email1": true,
     "email2": false,
     "email3": false,
     "targetProfile": "A/B",
     "mxVerified": true,
     "emailFrozenUntil": null,
-    "emailCycleClosed": false
+    "emailCycleClosed": false,
+    "date1": "2026-11-13"
   },
   {
     "name": "Pizzaria Nostra Carapicuíba",
@@ -34998,13 +35008,14 @@
     "emailSource": "https://www.pachabar.com.br/contato/",
     "emailVerifiedAt": "2026-10-13",
     "template": "pergunta",
-    "email1": false,
+    "email1": true,
     "email2": false,
     "email3": false,
     "targetProfile": "A/B",
     "mxVerified": true,
     "emailFrozenUntil": null,
-    "emailCycleClosed": false
+    "emailCycleClosed": false,
+    "date1": "2026-11-13"
   },
   {
     "name": "O Taboão 2 Restaurante e Delivery",
@@ -35127,13 +35138,14 @@
     "emailSource": "https://cantinhodoluiz.com.br/?page_id=10",
     "emailVerifiedAt": "2026-10-13",
     "template": "consultivo",
-    "email1": false,
+    "email1": true,
     "email2": false,
     "email3": false,
     "targetProfile": "A/B",
     "mxVerified": true,
     "emailFrozenUntil": null,
-    "emailCycleClosed": false
+    "emailCycleClosed": false,
+    "date1": "2026-11-13"
   },
   {
     "name": "Fahrenheit JK Iguatemi",
@@ -38510,13 +38522,14 @@
     "emailVerifiedAt": "2026-10-13",
     "template": "pergunta",
     "website": "",
-    "email1": false,
+    "email1": true,
     "email2": false,
     "email3": false,
     "targetProfile": "A/B",
     "mxVerified": true,
     "emailFrozenUntil": null,
-    "emailCycleClosed": false
+    "emailCycleClosed": false,
+    "date1": "2026-11-13"
   },
   {
     "name": "Verace Cantina",
@@ -45304,11 +45317,12 @@
     "emailVerifiedAt": "2026-10-16",
     "mxVerified": true,
     "template": "consultivo",
-    "email1": false,
+    "email1": true,
     "invalidEmail": false,
     "targetProfile": "A/B",
     "emailFrozenUntil": null,
-    "emailCycleClosed": false
+    "emailCycleClosed": false,
+    "date1": "2026-11-13"
   },
   {
     "name": "Ston Bar",
@@ -45690,11 +45704,12 @@
     "emailVerifiedAt": "2026-10-16",
     "mxVerified": true,
     "template": "consultivo",
-    "email1": false,
+    "email1": true,
     "invalidEmail": false,
     "targetProfile": "A/B",
     "emailFrozenUntil": null,
-    "emailCycleClosed": false
+    "emailCycleClosed": false,
+    "date1": "2026-11-13"
   },
   {
     "name": "La Coppa Ristorante",
@@ -46674,11 +46689,12 @@
     "emailVerifiedAt": "2026-10-15",
     "mxVerified": true,
     "template": "pergunta",
-    "email1": false,
+    "email1": true,
     "invalidEmail": false,
     "targetProfile": "A/B",
     "emailFrozenUntil": null,
-    "emailCycleClosed": false
+    "emailCycleClosed": false,
+    "date1": "2026-11-13"
   },
   {
     "name": "SAN MARCO",
@@ -47794,12 +47810,13 @@
     "emailVerifiedAt": "2026-10-17",
     "mxVerified": true,
     "template": "pergunta",
-    "email1": false,
+    "email1": true,
     "email2": false,
     "email3": false,
     "targetProfile": "A/B",
     "emailFrozenUntil": null,
-    "emailCycleClosed": false
+    "emailCycleClosed": false,
+    "date1": "2026-11-13"
   },
   {
     "name": "Arapuka Bar",
@@ -47815,12 +47832,13 @@
     "emailVerifiedAt": "2026-10-17",
     "mxVerified": true,
     "template": "pergunta",
-    "email1": false,
+    "email1": true,
     "email2": false,
     "email3": false,
     "targetProfile": "A/B",
     "emailFrozenUntil": null,
-    "emailCycleClosed": false
+    "emailCycleClosed": false,
+    "date1": "2026-11-13"
   },
   {
     "name": "Imperio das Esfihas Jandira",
