@@ -32843,7 +32843,9 @@
     "email1": false,
     "email2": false,
     "email3": false,
-    "targetProfile": "C/D"
+    "targetProfile": "A/B",
+    "emailFrozenUntil": null,
+    "emailCycleClosed": false
   },
   {
     "name": "Fancy Bar",
@@ -33070,11 +33072,13 @@
     "emailVerifiedAt": "2026-10-13",
     "mxVerified": true,
     "neighborhood": "",
-    "template": "consultivo",
+    "template": "pergunta",
     "email1": false,
     "email2": false,
     "email3": false,
-    "targetProfile": "C/D"
+    "targetProfile": "A/B",
+    "emailFrozenUntil": null,
+    "emailCycleClosed": false
   },
   {
     "name": "Yo Ho Pub",
@@ -33508,11 +33512,12 @@
     "emailVerified": true,
     "emailSource": "https://www.rembartenders.com.br/",
     "emailVerifiedAt": "2026-10-13",
-    "template": "consultivo",
     "email1": false,
     "email2": false,
     "email3": false,
-    "targetProfile": "C/D"
+    "mxVerified": true,
+    "emailFrozenUntil": null,
+    "emailCycleClosed": false
   },
   {
     "name": "Buffet Damasco",
@@ -33584,11 +33589,12 @@
     "emailVerified": true,
     "emailSource": "https://chapadrinks.com.br/",
     "emailVerifiedAt": "2026-10-13",
-    "template": "consultivo",
     "email1": false,
     "email2": false,
     "email3": false,
-    "targetProfile": "C/D"
+    "mxVerified": true,
+    "emailFrozenUntil": null,
+    "emailCycleClosed": false
   },
   {
     "name": "Casa Oliver",
@@ -33658,11 +33664,12 @@
     "emailVerified": true,
     "emailSource": "https://drinksbartender.com.br/",
     "emailVerifiedAt": "2026-10-13",
-    "template": "consultivo",
     "email1": false,
     "email2": false,
     "email3": false,
-    "targetProfile": "C/D"
+    "mxVerified": true,
+    "emailFrozenUntil": null,
+    "emailCycleClosed": false
   },
   {
     "name": "WDG Events",
@@ -33709,11 +33716,12 @@
     "emailVerified": true,
     "emailSource": "https://labeventos.com.br/duvidas-frequentes",
     "emailVerifiedAt": "2026-10-13",
-    "template": "consultivo",
     "email1": false,
     "email2": false,
     "email3": false,
-    "targetProfile": "C/D"
+    "mxVerified": true,
+    "emailFrozenUntil": null,
+    "emailCycleClosed": false
   },
   {
     "name": "ShowBartenders",
@@ -33727,11 +33735,12 @@
     "emailVerified": true,
     "emailSource": "https://showbartenders.com.br/",
     "emailVerifiedAt": "2026-10-13",
-    "template": "consultivo",
     "email1": false,
     "email2": false,
     "email3": false,
-    "targetProfile": "C/D"
+    "mxVerified": true,
+    "emailFrozenUntil": null,
+    "emailCycleClosed": false
   },
   {
     "name": "Energy Drinks Bar",
@@ -33800,11 +33809,12 @@
     "emailVerified": true,
     "emailSource": "https://connectbartenders.com.br/landing-page/",
     "emailVerifiedAt": "2026-10-13",
-    "template": "consultivo",
     "email1": false,
     "email2": false,
     "email3": false,
-    "targetProfile": "C/D"
+    "mxVerified": true,
+    "emailFrozenUntil": null,
+    "emailCycleClosed": false
   },
   {
     "name": "Sky Hall Terrace Bar",
@@ -33930,11 +33940,12 @@
     "emailVerified": true,
     "emailSource": "https://www.agaridrinks.com.br/contato",
     "emailVerifiedAt": "2026-10-13",
-    "template": "consultivo",
     "email1": false,
     "email2": false,
     "email3": false,
-    "targetProfile": "C/D"
+    "mxVerified": true,
+    "emailFrozenUntil": null,
+    "emailCycleClosed": false
   },
   {
     "name": "One Bartender",
@@ -34024,11 +34035,12 @@
     "emailVerified": true,
     "emailSource": "https://dbartenders.com/",
     "emailVerifiedAt": "2026-10-13",
-    "template": "consultivo",
     "email1": false,
     "email2": false,
     "email3": false,
-    "targetProfile": "C/D"
+    "mxVerified": true,
+    "emailFrozenUntil": null,
+    "emailCycleClosed": false
   },
   {
     "name": "MADZ Eventos",
@@ -34042,11 +34054,12 @@
     "emailVerified": true,
     "emailSource": "https://www.madzeventos.com.br/",
     "emailVerifiedAt": "2026-10-13",
-    "template": "consultivo",
     "email1": false,
     "email2": false,
     "email3": false,
-    "targetProfile": "C/D"
+    "mxVerified": true,
+    "emailFrozenUntil": null,
+    "emailCycleClosed": false
   },
   {
     "name": "Mr Cocktail Eventos",
@@ -34228,11 +34241,12 @@
     "emailVerified": true,
     "emailSource": "https://www.xbar.com.br/",
     "emailVerifiedAt": "2026-10-13",
-    "template": "consultivo",
     "email1": false,
     "email2": false,
     "email3": false,
-    "targetProfile": "C/D"
+    "mxVerified": true,
+    "emailFrozenUntil": null,
+    "emailCycleClosed": false
   },
   {
     "name": "Adega Don Marte",
@@ -34302,11 +34316,14 @@
     "emailVerified": true,
     "emailSource": "https://zeventos.com/zeze-di-camargo-e-luciano",
     "emailVerifiedAt": "2026-10-13",
-    "template": "consultivo",
+    "template": "pergunta",
     "email1": false,
     "email2": false,
     "email3": false,
-    "targetProfile": "C/D"
+    "targetProfile": "A/B",
+    "mxVerified": true,
+    "emailFrozenUntil": null,
+    "emailCycleClosed": false
   },
   {
     "name": "Recanto Santa Rita",
@@ -34395,11 +34412,12 @@
     "emailVerified": true,
     "emailSource": "https://mister.net.br/mister-drinks/",
     "emailVerifiedAt": "2026-10-13",
-    "template": "consultivo",
     "email1": false,
     "email2": false,
     "email3": false,
-    "targetProfile": "C/D"
+    "mxVerified": true,
+    "emailFrozenUntil": null,
+    "emailCycleClosed": false
   },
   {
     "name": "São Paulo Urban Distillery",
@@ -34432,11 +34450,12 @@
     "emailVerified": true,
     "emailSource": "https://brasilbartender.com.br/servicos.html",
     "emailVerifiedAt": "2026-10-13",
-    "template": "consultivo",
     "email1": false,
     "email2": false,
     "email3": false,
-    "targetProfile": "C/D"
+    "mxVerified": true,
+    "emailFrozenUntil": null,
+    "emailCycleClosed": false
   },
   {
     "name": "Vedê Coquetelaria & Arte",
@@ -34471,11 +34490,12 @@
     "emailVerified": true,
     "emailSource": "https://www.yummycocktails.com.br/",
     "emailVerifiedAt": "2026-10-13",
-    "template": "consultivo",
     "email1": false,
     "email2": false,
     "email3": false,
-    "targetProfile": "C/D"
+    "mxVerified": true,
+    "emailFrozenUntil": null,
+    "emailCycleClosed": false
   },
   {
     "name": "Cervejaria Rei do Malte",
@@ -34548,11 +34568,14 @@
     "emailVerified": true,
     "emailSource": "https://becoalfas.com.br/",
     "emailVerifiedAt": "2026-10-13",
-    "template": "consultivo",
+    "template": "pergunta",
     "email1": false,
     "email2": false,
     "email3": false,
-    "targetProfile": "C/D"
+    "targetProfile": "A/B",
+    "mxVerified": true,
+    "emailFrozenUntil": null,
+    "emailCycleClosed": false
   },
   {
     "name": "Tortellini Restaurante e Pizzaria",
@@ -34585,11 +34608,14 @@
     "emailVerified": true,
     "emailSource": "https://opostobar.com.br/",
     "emailVerifiedAt": "2026-10-13",
-    "template": "consultivo",
+    "template": "pergunta",
     "email1": false,
     "email2": false,
     "email3": false,
-    "targetProfile": "C/D"
+    "targetProfile": "A/B",
+    "mxVerified": true,
+    "emailFrozenUntil": null,
+    "emailCycleClosed": false
   },
   {
     "name": "Beer Place Tap House",
@@ -34603,11 +34629,14 @@
     "emailVerified": true,
     "emailSource": "https://www.beerplace.com.br/contato",
     "emailVerifiedAt": "2026-10-13",
-    "template": "consultivo",
+    "template": "pergunta",
     "email1": false,
     "email2": false,
     "email3": false,
-    "targetProfile": "C/D"
+    "targetProfile": "A/B",
+    "mxVerified": true,
+    "emailFrozenUntil": null,
+    "emailCycleClosed": false
   },
   {
     "name": "Pedra Branca Jandira",
@@ -34657,11 +34686,14 @@
     "emailVerified": true,
     "emailSource": "https://www.benditaareia.com.br/",
     "emailVerifiedAt": "2026-10-13",
-    "template": "consultivo",
+    "template": "pergunta",
     "email1": false,
     "email2": false,
     "email3": false,
-    "targetProfile": "C/D"
+    "targetProfile": "A/B",
+    "mxVerified": true,
+    "emailFrozenUntil": null,
+    "emailCycleClosed": false
   },
   {
     "name": "Lig Chopp Germânia Barueri",
@@ -34855,11 +34887,14 @@
     "emailVerified": true,
     "emailSource": "https://www.tacacheia.com/contato",
     "emailVerifiedAt": "2026-10-13",
-    "template": "consultivo",
+    "template": "pergunta",
     "email1": false,
     "email2": false,
     "email3": false,
-    "targetProfile": "C/D"
+    "targetProfile": "A/B",
+    "mxVerified": true,
+    "emailFrozenUntil": null,
+    "emailCycleClosed": false
   },
   {
     "name": "Pizzaria Nostra Carapicuíba",
@@ -34946,11 +34981,14 @@
     "emailVerified": true,
     "emailSource": "https://www.pachabar.com.br/contato/",
     "emailVerifiedAt": "2026-10-13",
-    "template": "consultivo",
+    "template": "pergunta",
     "email1": false,
     "email2": false,
     "email3": false,
-    "targetProfile": "C/D"
+    "targetProfile": "A/B",
+    "mxVerified": true,
+    "emailFrozenUntil": null,
+    "emailCycleClosed": false
   },
   {
     "name": "O Taboão 2 Restaurante e Delivery",
@@ -35076,7 +35114,10 @@
     "email1": false,
     "email2": false,
     "email3": false,
-    "targetProfile": "C/D"
+    "targetProfile": "A/B",
+    "mxVerified": true,
+    "emailFrozenUntil": null,
+    "emailCycleClosed": false
   },
   {
     "name": "Fahrenheit JK Iguatemi",
@@ -38451,12 +38492,15 @@
     "emailVerified": true,
     "emailSource": "https://bardoalemaojundiai.com.br/",
     "emailVerifiedAt": "2026-10-13",
-    "template": "prova_social",
+    "template": "pergunta",
     "website": "",
     "email1": false,
     "email2": false,
     "email3": false,
-    "targetProfile": "C/D"
+    "targetProfile": "A/B",
+    "mxVerified": true,
+    "emailFrozenUntil": null,
+    "emailCycleClosed": false
   },
   {
     "name": "Verace Cantina",
@@ -45246,7 +45290,9 @@
     "template": "consultivo",
     "email1": false,
     "invalidEmail": false,
-    "targetProfile": "C/D"
+    "targetProfile": "A/B",
+    "emailFrozenUntil": null,
+    "emailCycleClosed": false
   },
   {
     "name": "Ston Bar",
@@ -45630,7 +45676,9 @@
     "template": "consultivo",
     "email1": false,
     "invalidEmail": false,
-    "targetProfile": "C/D"
+    "targetProfile": "A/B",
+    "emailFrozenUntil": null,
+    "emailCycleClosed": false
   },
   {
     "name": "La Coppa Ristorante",
@@ -46609,10 +46657,12 @@
     "emailSource": "https://www.diariocidade.com/",
     "emailVerifiedAt": "2026-10-15",
     "mxVerified": true,
-    "template": "consultivo",
+    "template": "pergunta",
     "email1": false,
     "invalidEmail": false,
-    "targetProfile": "C/D"
+    "targetProfile": "A/B",
+    "emailFrozenUntil": null,
+    "emailCycleClosed": false
   },
   {
     "name": "SAN MARCO",
@@ -47722,16 +47772,18 @@
     "city": "São Paulo",
     "website": "",
     "phone": "",
-    "context": "",
+    "context": "Bowlbar — bar em São Paulo. Fit: cachaça artesanal premium Pindorama para caipirinhas e drinks na carta.",
     "emailVerified": true,
     "emailSource": "https://www.diariocidade.com/",
     "emailVerifiedAt": "2026-10-17",
     "mxVerified": true,
-    "template": "consultivo",
+    "template": "pergunta",
     "email1": false,
     "email2": false,
     "email3": false,
-    "targetProfile": "C/D"
+    "targetProfile": "A/B",
+    "emailFrozenUntil": null,
+    "emailCycleClosed": false
   },
   {
     "name": "Arapuka Bar",
@@ -47741,16 +47793,18 @@
     "city": "São Paulo",
     "website": "",
     "phone": "",
-    "context": "",
+    "context": "Arapuka Bar — bar em São Paulo. Fit: cachaça artesanal premium Pindorama para caipirinhas e drinks na carta.",
     "emailVerified": true,
     "emailSource": "https://www.diariocidade.com/",
     "emailVerifiedAt": "2026-10-17",
     "mxVerified": true,
-    "template": "consultivo",
+    "template": "pergunta",
     "email1": false,
     "email2": false,
     "email3": false,
-    "targetProfile": "C/D"
+    "targetProfile": "A/B",
+    "emailFrozenUntil": null,
+    "emailCycleClosed": false
   },
   {
     "name": "Imperio das Esfihas Jandira",
