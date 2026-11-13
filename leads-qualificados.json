@@ -26497,10 +26497,18 @@
     "address": "",
     "context": "PIZZARIA; respons├ível: JUNIOR; instagram: https://www.instagram.com/pizzariaveroverde/",
     "phone": "114433-0888",
-    "template": "prova_social",
+    "template": "consultivo",
     "website": "",
     "email1": false,
-    "targetProfile": "C/D"
+    "targetProfile": "A/B",
+    "emailVerified": true,
+    "mxVerified": true,
+    "emailSource": "https://veroverde.com.br/contato/",
+    "emailVerifiedAt": "2026-11-13",
+    "emailFrozenUntil": null,
+    "emailCycleClosed": false,
+    "invalidEmail": false,
+    "doNotContact": false
   },
   {
     "name": "Rancho do Comanche",
