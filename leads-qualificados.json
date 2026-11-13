@@ -34433,14 +34433,15 @@
     "emailVerified": true,
     "emailSource": "https://mister.net.br/mister-drinks/",
     "emailVerifiedAt": "2026-10-13",
-    "email1": false,
+    "email1": true,
     "email2": false,
     "email3": false,
     "mxVerified": true,
     "emailFrozenUntil": null,
     "emailCycleClosed": false,
     "targetProfile": "A/B",
-    "template": "pergunta"
+    "template": "pergunta",
+    "date1": "2026-11-13"
   },
   {
     "name": "São Paulo Urban Distillery",
@@ -34677,13 +34678,14 @@
     "emailSource": "https://restaurantepedrabranca.com.br/jandira2/",
     "emailVerifiedAt": "2026-10-13",
     "template": "consultivo",
-    "email1": false,
+    "email1": true,
     "email2": false,
     "email3": false,
     "targetProfile": "A/B",
     "mxVerified": true,
     "emailFrozenUntil": null,
-    "emailCycleClosed": false
+    "emailCycleClosed": false,
+    "date1": "2026-11-13"
   },
   {
     "name": "Alemão Bar e Bistrô",
@@ -35035,13 +35037,14 @@
     "emailSource": "https://www.otaboao2.com/",
     "emailVerifiedAt": "2026-10-13",
     "template": "consultivo",
-    "email1": false,
+    "email1": true,
     "email2": false,
     "email3": false,
     "targetProfile": "A/B",
     "mxVerified": true,
     "emailFrozenUntil": null,
-    "emailCycleClosed": false
+    "emailCycleClosed": false,
+    "date1": "2026-11-13"
   },
   {
     "name": "Zao Sushi Taboão",
@@ -35110,13 +35113,14 @@
     "emailSource": "https://boiadeirogrill.com.br/",
     "emailVerifiedAt": "2026-10-13",
     "template": "consultivo",
-    "email1": false,
+    "email1": true,
     "email2": false,
     "email3": false,
     "targetProfile": "A/B",
     "mxVerified": true,
     "emailFrozenUntil": null,
-    "emailCycleClosed": false
+    "emailCycleClosed": false,
+    "date1": "2026-11-13"
   },
   {
     "name": "Gaia Restaurante",
@@ -35131,13 +35135,14 @@
     "emailSource": "https://gaiarestaurante.com.br/",
     "emailVerifiedAt": "2026-10-13",
     "template": "consultivo",
-    "email1": false,
+    "email1": true,
     "email2": false,
     "email3": false,
     "targetProfile": "A/B",
     "mxVerified": true,
     "emailFrozenUntil": null,
-    "emailCycleClosed": false
+    "emailCycleClosed": false,
+    "date1": "2026-11-13"
   },
   {
     "name": "Cantinho do Luiz",
@@ -38609,12 +38614,13 @@
     "mxVerified": true,
     "template": "pergunta",
     "website": "",
-    "email1": false,
+    "email1": true,
     "email2": false,
     "email3": false,
     "targetProfile": "A/B",
     "emailFrozenUntil": null,
-    "emailCycleClosed": false
+    "emailCycleClosed": false,
+    "date1": "2026-11-13"
   },
   {
     "name": "G&T Bar (Depto Compras)",
@@ -39306,14 +39312,15 @@
     "emailVerified": true,
     "emailVerifiedAt": "2026-10-13",
     "emailSource": "https://guiapj.com.br/consulta-cnpj",
-    "email1": false,
+    "email1": true,
     "email2": false,
     "email3": false,
     "targetProfile": "A/B",
     "template": "pergunta",
     "mxVerified": true,
     "emailFrozenUntil": null,
-    "emailCycleClosed": false
+    "emailCycleClosed": false,
+    "date1": "2026-11-13"
   },
   {
     "name": "Seu Clemente Bar",
@@ -43180,11 +43187,12 @@
     "emailVerifiedAt": "2026-10-15",
     "mxVerified": true,
     "template": "consultivo",
-    "email1": false,
+    "email1": true,
     "invalidEmail": false,
     "targetProfile": "A/B",
     "emailFrozenUntil": null,
-    "emailCycleClosed": false
+    "emailCycleClosed": false,
+    "date1": "2026-11-13"
   },
   {
     "name": "Brado Restaurante",
@@ -43370,11 +43378,12 @@
     "emailVerifiedAt": "2026-10-15",
     "mxVerified": true,
     "template": "consultivo",
-    "email1": false,
+    "email1": true,
     "invalidEmail": false,
     "targetProfile": "A/B",
     "emailFrozenUntil": null,
-    "emailCycleClosed": false
+    "emailCycleClosed": false,
+    "date1": "2026-11-13"
   },
   {
     "name": "WHAT`S ON TAP",
@@ -44652,11 +44661,12 @@
     "emailVerifiedAt": "2026-10-16",
     "mxVerified": true,
     "template": "consultivo",
-    "email1": false,
+    "email1": true,
     "invalidEmail": false,
     "targetProfile": "A/B",
     "emailFrozenUntil": null,
-    "emailCycleClosed": false
+    "emailCycleClosed": false,
+    "date1": "2026-11-13"
   },
   {
     "name": "Estela Passoni",
@@ -44861,11 +44871,12 @@
     "emailVerifiedAt": "2026-10-16",
     "mxVerified": true,
     "template": "consultivo",
-    "email1": false,
+    "email1": true,
     "invalidEmail": false,
     "targetProfile": "A/B",
     "emailFrozenUntil": null,
-    "emailCycleClosed": false
+    "emailCycleClosed": false,
+    "date1": "2026-11-13"
   },
   {
     "name": "NILO BURGERS",
@@ -44881,11 +44892,12 @@
     "emailVerifiedAt": "2026-10-16",
     "mxVerified": true,
     "template": "consultivo",
-    "email1": false,
+    "email1": true,
     "invalidEmail": false,
     "targetProfile": "A/B",
     "emailFrozenUntil": null,
-    "emailCycleClosed": false
+    "emailCycleClosed": false,
+    "date1": "2026-11-13"
   },
   {
     "name": "Bistrot Venuto",
@@ -44901,11 +44913,12 @@
     "emailVerifiedAt": "2026-10-16",
     "mxVerified": true,
     "template": "consultivo",
-    "email1": false,
+    "email1": true,
     "invalidEmail": false,
     "targetProfile": "A/B",
     "emailFrozenUntil": null,
-    "emailCycleClosed": false
+    "emailCycleClosed": false,
+    "date1": "2026-11-13"
   },
   {
     "name": "Garage Burger",
@@ -44921,11 +44934,12 @@
     "emailVerifiedAt": "2026-10-16",
     "mxVerified": true,
     "template": "consultivo",
-    "email1": false,
+    "email1": true,
     "invalidEmail": false,
     "targetProfile": "A/B",
     "emailFrozenUntil": null,
-    "emailCycleClosed": false
+    "emailCycleClosed": false,
+    "date1": "2026-11-13"
   },
   {
     "name": "Charada Burguer",
@@ -44941,11 +44955,12 @@
     "emailVerifiedAt": "2026-10-16",
     "mxVerified": true,
     "template": "consultivo",
-    "email1": false,
+    "email1": true,
     "invalidEmail": false,
     "targetProfile": "A/B",
     "emailFrozenUntil": null,
-    "emailCycleClosed": false
+    "emailCycleClosed": false,
+    "date1": "2026-11-13"
   },
   {
     "name": "PORTO LUNA",
@@ -44982,11 +44997,12 @@
     "emailVerifiedAt": "2026-10-16",
     "mxVerified": true,
     "template": "consultivo",
-    "email1": false,
+    "email1": true,
     "invalidEmail": false,
     "targetProfile": "A/B",
     "emailFrozenUntil": null,
-    "emailCycleClosed": false
+    "emailCycleClosed": false,
+    "date1": "2026-11-13"
   },
   {
     "name": "BON CAFÃ",
@@ -45002,11 +45018,12 @@
     "emailVerifiedAt": "2026-10-16",
     "mxVerified": true,
     "template": "consultivo",
-    "email1": false,
+    "email1": true,
     "invalidEmail": false,
     "targetProfile": "A/B",
     "emailFrozenUntil": null,
-    "emailCycleClosed": false
+    "emailCycleClosed": false,
+    "date1": "2026-11-13"
   },
   {
     "name": "Zi Tereza Di Napoli",
@@ -45022,11 +45039,12 @@
     "emailVerifiedAt": "2026-10-16",
     "mxVerified": true,
     "template": "consultivo",
-    "email1": false,
+    "email1": true,
     "invalidEmail": false,
     "targetProfile": "A/B",
     "emailFrozenUntil": null,
-    "emailCycleClosed": false
+    "emailCycleClosed": false,
+    "date1": "2026-11-13"
   },
   {
     "name": "MAKOTO",
@@ -45042,11 +45060,12 @@
     "emailVerifiedAt": "2026-10-16",
     "mxVerified": true,
     "template": "consultivo",
-    "email1": false,
+    "email1": true,
     "invalidEmail": false,
     "targetProfile": "A/B",
     "emailFrozenUntil": null,
-    "emailCycleClosed": false
+    "emailCycleClosed": false,
+    "date1": "2026-11-13"
   },
   {
     "name": "Rabo di Galo",
@@ -45082,11 +45101,12 @@
     "emailVerifiedAt": "2026-10-16",
     "mxVerified": true,
     "template": "consultivo",
-    "email1": false,
+    "email1": true,
     "invalidEmail": false,
     "targetProfile": "A/B",
     "emailFrozenUntil": null,
-    "emailCycleClosed": false
+    "emailCycleClosed": false,
+    "date1": "2026-11-13"
   },
   {
     "name": "Bar das Patroas",
@@ -45123,11 +45143,12 @@
     "emailVerifiedAt": "2026-10-16",
     "mxVerified": true,
     "template": "consultivo",
-    "email1": false,
+    "email1": true,
     "invalidEmail": false,
     "targetProfile": "A/B",
     "emailFrozenUntil": null,
-    "emailCycleClosed": false
+    "emailCycleClosed": false,
+    "date1": "2026-11-13"
   },
   {
     "name": "Cafe Donut's",
@@ -45143,11 +45164,12 @@
     "emailVerifiedAt": "2026-10-16",
     "mxVerified": true,
     "template": "consultivo",
-    "email1": false,
+    "email1": true,
     "invalidEmail": false,
     "targetProfile": "A/B",
     "emailFrozenUntil": null,
-    "emailCycleClosed": false
+    "emailCycleClosed": false,
+    "date1": "2026-11-13"
   },
   {
     "name": "ECLAIR BAR",
@@ -45184,11 +45206,12 @@
     "emailVerifiedAt": "2026-10-16",
     "mxVerified": true,
     "template": "consultivo",
-    "email1": false,
+    "email1": true,
     "invalidEmail": false,
     "targetProfile": "A/B",
     "emailFrozenUntil": null,
-    "emailCycleClosed": false
+    "emailCycleClosed": false,
+    "date1": "2026-11-13"
   },
   {
     "name": "Porco Paulista Bar",
@@ -45204,11 +45227,12 @@
     "emailVerifiedAt": "2026-10-16",
     "mxVerified": true,
     "template": "consultivo",
-    "email1": false,
+    "email1": true,
     "invalidEmail": false,
     "targetProfile": "A/B",
     "emailFrozenUntil": null,
-    "emailCycleClosed": false
+    "emailCycleClosed": false,
+    "date1": "2026-11-13"
   },
   {
     "name": "Prego Cucina",
@@ -47908,12 +47932,13 @@
     "emailVerifiedAt": "2026-10-17",
     "mxVerified": true,
     "template": "pergunta",
-    "email1": false,
+    "email1": true,
     "email2": false,
     "email3": false,
     "targetProfile": "A/B",
     "emailFrozenUntil": null,
-    "emailCycleClosed": false
+    "emailCycleClosed": false,
+    "date1": "2026-11-13"
   },
   {
     "name": "Skye Restaurant & Bar",
@@ -47950,12 +47975,13 @@
     "emailVerifiedAt": "2026-10-17",
     "mxVerified": true,
     "template": "pergunta",
-    "email1": false,
+    "email1": true,
     "email2": false,
     "email3": false,
     "targetProfile": "A/B",
     "emailFrozenUntil": null,
-    "emailCycleClosed": false
+    "emailCycleClosed": false,
+    "date1": "2026-11-13"
   },
   {
     "name": "Distribuidora Importline",
@@ -47971,12 +47997,13 @@
     "emailVerifiedAt": "2026-10-17",
     "mxVerified": true,
     "template": "revenda",
-    "email1": false,
+    "email1": true,
     "email2": false,
     "email3": false,
     "targetProfile": "A/B",
     "emailFrozenUntil": null,
-    "emailCycleClosed": false
+    "emailCycleClosed": false,
+    "date1": "2026-11-13"
   },
   {
     "name": "JLX Distribuidora",
@@ -47992,12 +48019,13 @@
     "emailVerifiedAt": "2026-10-17",
     "mxVerified": true,
     "template": "revenda",
-    "email1": false,
+    "email1": true,
     "email2": false,
     "email3": false,
     "targetProfile": "A/B",
     "emailFrozenUntil": null,
-    "emailCycleClosed": false
+    "emailCycleClosed": false,
+    "date1": "2026-11-13"
   },
   {
     "name": "Ramari Distribuidora",
@@ -48013,12 +48041,13 @@
     "emailVerifiedAt": "2026-10-17",
     "mxVerified": true,
     "template": "revenda",
-    "email1": false,
+    "email1": true,
     "email2": false,
     "email3": false,
     "targetProfile": "A/B",
     "emailFrozenUntil": null,
-    "emailCycleClosed": false
+    "emailCycleClosed": false,
+    "date1": "2026-11-13"
   },
   {
     "name": "Barrigudinha Express",
@@ -48034,12 +48063,13 @@
     "emailVerifiedAt": "2026-10-17",
     "mxVerified": true,
     "template": "pergunta",
-    "email1": false,
+    "email1": true,
     "email2": false,
     "email3": false,
     "targetProfile": "A/B",
     "emailFrozenUntil": null,
-    "emailCycleClosed": false
+    "emailCycleClosed": false,
+    "date1": "2026-11-13"
   },
   {
     "name": "Emporio Sagarana",
@@ -48074,12 +48104,13 @@
     "emailVerifiedAt": "2026-10-17",
     "mxVerified": true,
     "template": "revenda",
-    "email1": false,
+    "email1": true,
     "email2": false,
     "email3": false,
     "targetProfile": "A/B",
     "emailFrozenUntil": null,
-    "emailCycleClosed": false
+    "emailCycleClosed": false,
+    "date1": "2026-11-13"
   },
   {
     "email": "adm.vendas@maisdistribuidoraalimentos.com.br",
@@ -48094,13 +48125,14 @@
     "emailVerifiedAt": "2026-10-17",
     "mxVerified": true,
     "template": "revenda",
-    "email1": false,
+    "email1": true,
     "name": "Mais Distribuidora Alimentos",
     "email2": false,
     "targetProfile": "A/B",
     "email3": false,
     "emailFrozenUntil": null,
-    "emailCycleClosed": false
+    "emailCycleClosed": false,
+    "date1": "2026-11-13"
   },
   {
     "name": "00 Sao Paulo",
