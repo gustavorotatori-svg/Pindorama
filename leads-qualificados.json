@@ -47148,7 +47148,7 @@
     "template": "consultivo",
     "email1": false,
     "invalidEmail": false,
-    "targetProfile": "C/D"
+    "targetProfile": "A/B"
   },
   {
     "name": "I LOVE",
@@ -64251,5 +64251,21 @@
     "invalidEmail": false,
     "doNotContact": false,
     "date1": "2026-11-12"
+  },
+  {
+    "name": "Rancho das Figueiras",
+    "type": "bar e restaurante",
+    "city": "Santo André",
+    "neighborhood": "Jardim",
+    "phone": "1123247553",
+    "email": "contato@ranchodasfigueiras.com.br",
+    "emailVerified": true,
+    "mxVerified": true,
+    "emailSource": "https://ranchodasfigueiras.com.br/",
+    "emailVerifiedAt": "2026-11-14",
+    "targetProfile": "A/B",
+    "template": "pergunta",
+    "context": "Rancho das Figueiras — bar e restaurante em Santo André (SP), Jardim. Fit: cachaça artesanal premium Pindorama para caipirinhas e drinks na carta.",
+    "notes": "Lead fornecido pelo usuário (Inventário 2024); e-mail publicado no site oficial."
   }
 ]
