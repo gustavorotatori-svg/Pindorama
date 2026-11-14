@@ -1,5 +1,5 @@
 {
-  "lastUpdate": "2026-11-13T19:30:30.083Z",
+  "lastUpdate": "2026-11-14T05:59:47.666Z",
   "totalLeads": 4020,
   "allLeads": [
     {
@@ -35039,10 +35039,6 @@
   "pending": 729,
   "daily": [
     {
-      "date": "2026-10-31",
-      "count": 0
-    },
-    {
       "date": "2026-11-01",
       "count": 99
     },
@@ -35093,6 +35089,10 @@
     {
       "date": "2026-11-13",
       "count": 82
+    },
+    {
+      "date": "2026-11-14",
+      "count": 0
     }
   ],
   "topNeighborhoods": [
@@ -35223,12 +35223,12 @@
     "responded": 5
   },
   "week": {
-    "leads": 324,
+    "leads": 315,
     "emails": {
-      "email1": 324,
+      "email1": 315,
       "email2": 0,
       "email3": 0,
-      "total": 324
+      "total": 315
     },
     "responses": 0
   },
