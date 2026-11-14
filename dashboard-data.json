@@ -1,6 +1,6 @@
 {
-  "lastUpdate": "2026-11-14T13:24:44.749Z",
-  "totalLeads": 4020,
+  "lastUpdate": "2026-11-14T22:14:23.300Z",
+  "totalLeads": 4021,
   "allLeads": [
     {
       "name": "Bar do Nerso",
@@ -25603,7 +25603,8 @@
       "city": "São Paulo",
       "email": "massasartesanais@verttoni.com.br",
       "emailVerified": true,
-      "email1": false,
+      "email1": true,
+      "date1": "2026-11-14",
       "email2": false,
       "email3": false
     },
@@ -25614,7 +25615,8 @@
       "city": "São Paulo",
       "email": "contato@farolgourmet.com.br",
       "emailVerified": true,
-      "email1": false,
+      "email1": true,
+      "date1": "2026-11-14",
       "email2": false,
       "email3": false
     },
@@ -25625,7 +25627,8 @@
       "city": "São Paulo",
       "email": "contato@marinnagastronomia.com.br",
       "emailVerified": true,
-      "email1": false,
+      "email1": true,
+      "date1": "2026-11-14",
       "email2": false,
       "email3": false
     },
@@ -25648,7 +25651,8 @@
       "city": "São Paulo",
       "email": "contato@restaurantemalagueta.com.br",
       "emailVerified": true,
-      "email1": false,
+      "email1": true,
+      "date1": "2026-11-14",
       "email2": false,
       "email3": false
     },
@@ -25671,7 +25675,8 @@
       "city": "São Paulo",
       "email": "contato@dultier.com.br",
       "emailVerified": true,
-      "email1": false,
+      "email1": true,
+      "date1": "2026-11-14",
       "email2": false,
       "email3": false
     },
@@ -25693,7 +25698,8 @@
       "city": "São Paulo",
       "email": "laura@labiamidias.com",
       "emailVerified": true,
-      "email1": false,
+      "email1": true,
+      "date1": "2026-11-14",
       "email2": false,
       "email3": false
     },
@@ -25715,7 +25721,8 @@
       "city": "São Paulo",
       "email": "contato@filomenacafebistro.com.br",
       "emailVerified": true,
-      "email1": false,
+      "email1": true,
+      "date1": "2026-11-14",
       "email2": false,
       "email3": false
     },
@@ -25726,7 +25733,8 @@
       "city": "São Paulo",
       "email": "contato@pizzeriamammaconcetta.com.br",
       "emailVerified": true,
-      "email1": false,
+      "email1": true,
+      "date1": "2026-11-14",
       "email2": false,
       "email3": false
     },
@@ -25737,7 +25745,8 @@
       "city": "São Paulo",
       "email": "alessandro@paradisocasacomida.com.br",
       "emailVerified": true,
-      "email1": false,
+      "email1": true,
+      "date1": "2026-11-14",
       "email2": false,
       "email3": false
     },
@@ -25748,7 +25757,8 @@
       "city": "São Paulo",
       "email": "amordechurros@amordechurros.com.br",
       "emailVerified": true,
-      "email1": false,
+      "email1": true,
+      "date1": "2026-11-14",
       "email2": false,
       "email3": false
     },
@@ -25759,7 +25769,8 @@
       "city": "São Paulo",
       "email": "contato@dhomus.com.br",
       "emailVerified": true,
-      "email1": false,
+      "email1": true,
+      "date1": "2026-11-14",
       "email2": false,
       "email3": false
     },
@@ -25791,7 +25802,8 @@
       "city": "São Paulo",
       "email": "marketing@docevie.com.br",
       "emailVerified": true,
-      "email1": false,
+      "email1": true,
+      "date1": "2026-11-14",
       "email2": false,
       "email3": false
     },
@@ -25813,7 +25825,8 @@
       "city": "São Paulo",
       "email": "douglas@cuattroestacoes.com.br",
       "emailVerified": true,
-      "email1": false,
+      "email1": true,
+      "date1": "2026-11-14",
       "email2": false,
       "email3": false
     },
@@ -25824,7 +25837,8 @@
       "city": "São Paulo",
       "email": "contato@lanchesstopdog.com.br",
       "emailVerified": true,
-      "email1": false,
+      "email1": true,
+      "date1": "2026-11-14",
       "email2": false,
       "email3": false
     },
@@ -25846,7 +25860,8 @@
       "city": "São Paulo",
       "email": "adm@giroristobar.com.br",
       "emailVerified": true,
-      "email1": false,
+      "email1": true,
+      "date1": "2026-11-14",
       "email2": false,
       "email3": false
     },
@@ -25857,7 +25872,8 @@
       "city": "São Paulo",
       "email": "vilacafe@220.com",
       "emailVerified": true,
-      "email1": false,
+      "email1": true,
+      "date1": "2026-11-14",
       "email2": false,
       "email3": false
     },
@@ -25868,7 +25884,8 @@
       "city": "São Paulo",
       "email": "contato@cangoteservetes.com.br",
       "emailVerified": true,
-      "email1": false,
+      "email1": true,
+      "date1": "2026-11-14",
       "email2": false,
       "email3": false
     },
@@ -25879,7 +25896,8 @@
       "city": "São Paulo",
       "email": "contato@sidequest-xp.com.br",
       "emailVerified": true,
-      "email1": false,
+      "email1": true,
+      "date1": "2026-11-14",
       "email2": false,
       "email3": false
     },
@@ -26116,7 +26134,8 @@
       "email": "contato@asamisushi.com.br",
       "emailVerified": true,
       "invalidEmail": false,
-      "email1": false
+      "email1": true,
+      "date1": "2026-11-14"
     },
     {
       "name": "I LOVE",
@@ -35023,20 +35042,30 @@
       "doNotContact": false,
       "email1": true,
       "date1": "2026-11-12"
+    },
+    {
+      "name": "Rancho das Figueiras",
+      "type": "bar e restaurante",
+      "neighborhood": "Jardim",
+      "city": "Santo André",
+      "email": "contato@ranchodasfigueiras.com.br",
+      "emailVerified": true,
+      "email1": true,
+      "date1": "2026-11-14"
     }
   ],
   "emails": {
-    "email1": 876,
+    "email1": 896,
     "email2": 1,
     "email3": 0,
-    "total": 877
+    "total": 897
   },
   "whatsapp": {
     "today": 0,
     "total": 262
   },
   "responses": 5,
-  "pending": 729,
+  "pending": 710,
   "daily": [
     {
       "date": "2026-11-01",
@@ -35092,7 +35121,7 @@
     },
     {
       "date": "2026-11-14",
-      "count": 0
+      "count": 20
     }
   ],
   "topNeighborhoods": [
@@ -35146,6 +35175,13 @@
     }
   ],
   "recentLeads": [
+    {
+      "name": "Rancho das Figueiras",
+      "type": "bar e restaurante",
+      "neighborhood": "Jardim",
+      "city": "Santo André",
+      "email1": true
+    },
     {
       "name": "Vero Verde",
       "type": "restaurante",
@@ -35206,49 +35242,42 @@
       "neighborhood": "Jardim Paulistano / Iguatemi (SP)",
       "city": "São Paulo (SP)",
       "email1": true
-    },
-    {
-      "name": "Carnicero Steakhouse",
-      "type": "steakhouse",
-      "neighborhood": "São Paulo (SP)",
-      "city": "São Paulo (SP)",
-      "email1": true
     }
   ],
   "funnel": {
-    "leads": 4020,
-    "email1": 876,
+    "leads": 4021,
+    "email1": 896,
     "email2": 1,
     "email3": 0,
     "responded": 5
   },
   "week": {
-    "leads": 315,
+    "leads": 335,
     "emails": {
-      "email1": 315,
+      "email1": 335,
       "email2": 0,
       "email3": 0,
-      "total": 315
+      "total": 335
     },
     "responses": 0
   },
   "month": {
-    "leads": 771,
+    "leads": 791,
     "emails": {
-      "email1": 771,
+      "email1": 791,
       "email2": 0,
       "email3": 0,
-      "total": 771
+      "total": 791
     },
     "responses": 0
   },
   "year": {
-    "leads": 878,
+    "leads": 898,
     "emails": {
-      "email1": 876,
+      "email1": 896,
       "email2": 1,
       "email3": 0,
-      "total": 877
+      "total": 897
     },
     "responses": 5
   },
@@ -35256,7 +35285,7 @@
     {
       "name": "restaurante",
       "total": 2127,
-      "email1": 239,
+      "email1": 258,
       "responded": 0
     },
     {
@@ -35807,6 +35836,12 @@
     },
     {
       "name": "steakhouse",
+      "total": 1,
+      "email1": 1,
+      "responded": 0
+    },
+    {
+      "name": "bar e restaurante",
       "total": 1,
       "email1": 1,
       "responded": 0
