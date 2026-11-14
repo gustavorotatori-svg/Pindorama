@@ -46714,12 +46714,13 @@
     "emailVerifiedAt": "2026-10-16",
     "mxVerified": true,
     "template": "consultivo",
-    "email1": false,
+    "email1": true,
     "email2": false,
     "email3": false,
     "targetProfile": "A/B",
     "emailFrozenUntil": null,
-    "emailCycleClosed": false
+    "emailCycleClosed": false,
+    "date1": "2026-11-14"
   },
   {
     "name": "ðð§ð¡ð ðð¥ð§ ððð¥",
@@ -47146,9 +47147,10 @@
     "emailVerifiedAt": "2026-10-16",
     "mxVerified": true,
     "template": "consultivo",
-    "email1": false,
+    "email1": true,
     "invalidEmail": false,
-    "targetProfile": "A/B"
+    "targetProfile": "A/B",
+    "date1": "2026-11-14"
   },
   {
     "name": "I LOVE",
@@ -64266,6 +64268,8 @@
     "targetProfile": "A/B",
     "template": "pergunta",
     "context": "Rancho das Figueiras — bar e restaurante em Santo André (SP), Jardim. Fit: cachaça artesanal premium Pindorama para caipirinhas e drinks na carta.",
-    "notes": "Lead fornecido pelo usuário (Inventário 2024); e-mail publicado no site oficial."
+    "notes": "Lead fornecido pelo usuário (Inventário 2024); e-mail publicado no site oficial.",
+    "email1": true,
+    "date1": "2026-11-14"
   }
 ]
