@@ -56498,13 +56498,14 @@
     "emailVerifiedAt": "2026-10-21",
     "mxVerified": true,
     "template": "revenda",
-    "email1": false,
+    "email1": true,
     "context": "Distribuidora SP + litoral, pedidos SP (11) 2217-3380, litoral (12) 3865-3303",
     "notes": "",
     "targetProfile": "A/B",
     "email2": false,
     "emailFrozenUntil": null,
-    "emailCycleClosed": false
+    "emailCycleClosed": false,
+    "date1": "2026-11-15"
   },
   {
     "name": "Adega Online",
