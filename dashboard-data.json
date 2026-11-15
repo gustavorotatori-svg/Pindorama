@@ -1,5 +1,5 @@
 {
-  "lastUpdate": "2026-11-14T22:14:23.300Z",
+  "lastUpdate": "2026-11-15T06:03:56.041Z",
   "totalLeads": 4021,
   "allLeads": [
     {
@@ -18106,7 +18106,8 @@
       "neighborhood": "",
       "email": "dinnerinthesky@mestica.com.br",
       "emailVerified": true,
-      "email1": false,
+      "email1": true,
+      "date1": "2026-11-14",
       "email2": false,
       "email3": false
     },
@@ -18135,7 +18136,8 @@
       "neighborhood": "",
       "email": "velhao@velhao.com.br",
       "emailVerified": true,
-      "email1": false,
+      "email1": true,
+      "date1": "2026-11-14",
       "email2": false,
       "email3": false
     },
@@ -18156,7 +18158,8 @@
       "neighborhood": "",
       "email": "contato@macaxeirarestaurante.com.br",
       "emailVerified": true,
-      "email1": false,
+      "email1": true,
+      "date1": "2026-11-14",
       "email2": false,
       "email3": false
     },
@@ -18177,7 +18180,8 @@
       "neighborhood": "",
       "email": "contato@luce.com.br",
       "emailVerified": true,
-      "email1": false,
+      "email1": true,
+      "date1": "2026-11-14",
       "email2": false,
       "email3": false
     },
@@ -18198,7 +18202,8 @@
       "neighborhood": "",
       "email": "contato@restaurantefreddy.com.br",
       "emailVerified": true,
-      "email1": false,
+      "email1": true,
+      "date1": "2026-11-14",
       "email2": false,
       "email3": false
     },
@@ -18208,7 +18213,8 @@
       "neighborhood": "",
       "email": "contato@bananaverde.com.br",
       "emailVerified": true,
-      "email1": false,
+      "email1": true,
+      "date1": "2026-11-14",
       "email2": false,
       "email3": false
     },
@@ -18227,7 +18233,8 @@
       "neighborhood": "",
       "email": "contato@brownsugar.com.br",
       "emailVerified": true,
-      "email1": false,
+      "email1": true,
+      "date1": "2026-11-14",
       "email2": false,
       "email3": false
     },
@@ -18274,7 +18281,8 @@
       "neighborhood": "",
       "email": "contato@atorteria.com.br",
       "emailVerified": true,
-      "email1": false,
+      "email1": true,
+      "date1": "2026-11-14",
       "email2": false,
       "email3": false
     },
@@ -18284,7 +18292,8 @@
       "neighborhood": "",
       "email": "contato@cakess.com.br",
       "emailVerified": true,
-      "email1": false,
+      "email1": true,
+      "date1": "2026-11-14",
       "email2": false,
       "email3": false
     },
@@ -18303,7 +18312,8 @@
       "neighborhood": "",
       "email": "contato@gelatoboutique.com.br",
       "emailVerified": true,
-      "email1": false,
+      "email1": true,
+      "date1": "2026-11-14",
       "email2": false,
       "email3": false
     },
@@ -18323,7 +18333,8 @@
       "neighborhood": "",
       "email": "tuespao@tuespao.com.br",
       "emailVerified": true,
-      "email1": false,
+      "email1": true,
+      "date1": "2026-11-14",
       "email2": false,
       "email3": false
     },
@@ -18343,7 +18354,8 @@
       "neighborhood": "",
       "email": "pinheiros@damooca.com.br",
       "emailVerified": true,
-      "email1": false,
+      "email1": true,
+      "date1": "2026-11-14",
       "email2": false,
       "email3": false
     },
@@ -18363,7 +18375,8 @@
       "neighborhood": "",
       "email": "contato@stchico.com.br",
       "emailVerified": true,
-      "email1": false,
+      "email1": true,
+      "date1": "2026-11-14",
       "email2": false,
       "email3": false
     },
@@ -18373,7 +18386,8 @@
       "neighborhood": "",
       "email": "contato@restaurantehospedaria.com.br",
       "emailVerified": true,
-      "email1": false,
+      "email1": true,
+      "date1": "2026-11-14",
       "email2": false,
       "email3": false
     },
@@ -18631,7 +18645,8 @@
       "city": "Guarulhos",
       "email": "contato@forcato.com.br",
       "emailVerified": true,
-      "email1": false,
+      "email1": true,
+      "date1": "2026-11-14",
       "email2": false,
       "email3": false
     },
@@ -18642,7 +18657,8 @@
       "city": "S├úo Bernardo do Campo",
       "email": "vendas@distribuidorajg.com.br",
       "emailVerified": true,
-      "email1": false,
+      "email1": true,
+      "date1": "2026-11-14",
       "email2": false,
       "email3": false
     },
@@ -19243,7 +19259,8 @@
       "neighborhood": "Chacaras Itamar",
       "email": "contato@adegamartins.com.br",
       "emailVerified": true,
-      "email1": false,
+      "email1": true,
+      "date1": "2026-11-14",
       "email2": false,
       "email3": false
     },
@@ -19490,7 +19507,8 @@
       "neighborhood": "Boa Vista",
       "email": "contato@choppgermaniabarueri.com.br",
       "emailVerified": true,
-      "email1": false,
+      "email1": true,
+      "date1": "2026-11-14",
       "email2": false,
       "email3": false
     },
@@ -19510,7 +19528,8 @@
       "neighborhood": "Granja Viana",
       "email": "contato@royalbebidas.com",
       "emailVerified": true,
-      "email1": false,
+      "email1": true,
+      "date1": "2026-11-14",
       "email2": false,
       "email3": false
     },
@@ -19520,7 +19539,8 @@
       "neighborhood": "Granja Viana",
       "email": "palaciodosvinhos@palaciodosvinhos.com.br",
       "emailVerified": true,
-      "email1": false,
+      "email1": true,
+      "date1": "2026-11-14",
       "email2": false,
       "email3": false
     },
@@ -19540,7 +19560,8 @@
       "neighborhood": "Jardim da Glória",
       "email": "contato@cofigdistribuidora.com.br",
       "emailVerified": true,
-      "email1": false,
+      "email1": true,
+      "date1": "2026-11-14",
       "email2": false,
       "email3": false
     },
@@ -19560,7 +19581,8 @@
       "neighborhood": "Alphaville Conde II",
       "email": "loja@thewinespot.com.br",
       "emailVerified": true,
-      "email1": false,
+      "email1": true,
+      "date1": "2026-11-14",
       "email2": false,
       "email3": false
     },
@@ -19570,7 +19592,8 @@
       "neighborhood": "Centro",
       "email": "sac@centralosasco.com.br",
       "emailVerified": true,
-      "email1": false,
+      "email1": true,
+      "date1": "2026-11-14",
       "email2": false,
       "email3": false
     },
@@ -19580,7 +19603,8 @@
       "neighborhood": "Centro",
       "email": "centralwine@centralwine.com.br",
       "emailVerified": true,
-      "email1": false,
+      "email1": true,
+      "date1": "2026-11-14",
       "email2": false,
       "email3": false
     },
@@ -19674,7 +19698,8 @@
       "neighborhood": "Jardim Frei Galvão",
       "email": "vendas@rapidochopp.com.br",
       "emailVerified": true,
-      "email1": false,
+      "email1": true,
+      "date1": "2026-11-14",
       "email2": false,
       "email3": false
     },
@@ -20582,7 +20607,8 @@
       "email": "contato@acasadoprodutor.com.br",
       "emailVerified": true,
       "invalidEmail": false,
-      "email1": false
+      "email1": true,
+      "date1": "2026-11-14"
     },
     {
       "name": "Dose7 Bebidas",
@@ -20752,7 +20778,8 @@
       "neighborhood": "Mirandopolis",
       "email": "comercial@jmatosbebidas.com.br",
       "emailVerified": true,
-      "email1": false,
+      "email1": true,
+      "date1": "2026-11-14",
       "email2": false,
       "email3": false
     },
@@ -21199,7 +21226,8 @@
       "city": "Jundiai",
       "email": "contato@cantinajundiaiense.com.br",
       "emailVerified": true,
-      "email1": false,
+      "email1": true,
+      "date1": "2026-11-14",
       "email2": false,
       "email3": false
     },
@@ -21222,7 +21250,8 @@
       "city": "Jundiai",
       "email": "contato@veracejundiai.com.br",
       "emailVerified": true,
-      "email1": false,
+      "email1": true,
+      "date1": "2026-11-14",
       "email2": false,
       "email3": false
     },
@@ -21279,7 +21308,8 @@
       "city": "S├úo Paulo",
       "email": "compras@grupolocale.com.br",
       "emailVerified": true,
-      "email1": false,
+      "email1": true,
+      "date1": "2026-11-14",
       "email2": false,
       "email3": false
     },
@@ -21335,7 +21365,8 @@
       "neighborhood": "Vila Colorado",
       "email": "429.fis@alberg.com.br",
       "emailVerified": true,
-      "email1": false,
+      "email1": true,
+      "date1": "2026-11-14",
       "email2": false,
       "email3": false
     },
@@ -21535,7 +21566,8 @@
       "neighborhood": "Jardim Jurema",
       "email": "contato@xapadaobebidas.com.br",
       "emailVerified": true,
-      "email1": false,
+      "email1": true,
+      "date1": "2026-11-14",
       "email2": false,
       "email3": false
     },
@@ -21681,7 +21713,8 @@
       "neighborhood": "Vila Nova Concei├º├úo",
       "email": "financeiro@muzarestaurante.com.br",
       "emailVerified": true,
-      "email1": false,
+      "email1": true,
+      "date1": "2026-11-14",
       "email2": false,
       "email3": false
     },
@@ -21701,7 +21734,8 @@
       "neighborhood": "Mooca",
       "email": "contato@adegamoema.com.br",
       "emailVerified": true,
-      "email1": false,
+      "email1": true,
+      "date1": "2026-11-14",
       "email2": false,
       "email3": false
     },
@@ -21732,7 +21766,8 @@
       "neighborhood": "Cerqueira C├®sar",
       "email": "cristina@vistasaopaulo.com.br",
       "emailVerified": true,
-      "email1": false,
+      "email1": true,
+      "date1": "2026-11-14",
       "email2": false,
       "email3": false
     },
@@ -22014,7 +22049,8 @@
       "neighborhood": "Vila Alpina",
       "email": "projetoagua@projetoagua.com.br",
       "emailVerified": true,
-      "email1": false,
+      "email1": true,
+      "date1": "2026-11-14",
       "email2": false,
       "email3": false
     },
@@ -22257,7 +22293,8 @@
       "neighborhood": "Vila Sao Paulo",
       "email": "rosana@nsabebidas.com.br",
       "emailVerified": true,
-      "email1": false,
+      "email1": true,
+      "date1": "2026-11-14",
       "email2": false,
       "email3": false
     },
@@ -22823,7 +22860,8 @@
       "neighborhood": "Vila Hortencia",
       "email": "pagar@smbebidas.com.br",
       "emailVerified": true,
-      "email1": false,
+      "email1": true,
+      "date1": "2026-11-14",
       "email2": false,
       "email3": false
     },
@@ -23149,8 +23187,8 @@
       "email": "contato@wwwwhopp.com.br",
       "emailVerified": true,
       "invalidEmail": false,
-      "email1": false,
-      "date1": "2026-09-18",
+      "email1": true,
+      "date1": "2026-11-14",
       "email2": false,
       "email3": false
     },
@@ -23578,7 +23616,8 @@
       "email": "comercial@milfontdistribuidora.com.br",
       "emailVerified": true,
       "invalidEmail": false,
-      "email1": false
+      "email1": true,
+      "date1": "2026-11-14"
     },
     {
       "name": "Adega do Kinho",
@@ -25190,7 +25229,8 @@
       "email": "contato@iaiacaveamanger.com.br",
       "emailVerified": true,
       "invalidEmail": false,
-      "email1": false
+      "email1": true,
+      "date1": "2026-11-14"
     },
     {
       "name": "Axado drinks",
@@ -25451,7 +25491,8 @@
       "city": "São Paulo",
       "email": "contato@boccanerabar.com",
       "emailVerified": true,
-      "email1": false,
+      "email1": true,
+      "date1": "2026-11-14",
       "email2": false,
       "email3": false
     },
@@ -25793,7 +25834,8 @@
       "email": "raphael@dbacowinebar.com",
       "emailVerified": true,
       "invalidEmail": false,
-      "email1": false
+      "email1": true,
+      "date1": "2026-11-14"
     },
     {
       "name": "DOCEVIE",
@@ -25941,7 +25983,8 @@
       "city": "São Paulo",
       "email": "contato@burgerbits.com.br",
       "emailVerified": true,
-      "email1": false,
+      "email1": true,
+      "date1": "2026-11-14",
       "email2": false,
       "email3": false
     },
@@ -25974,7 +26017,8 @@
       "city": "São Paulo",
       "email": "henrique@duboie.com.br",
       "emailVerified": true,
-      "email1": false,
+      "email1": true,
+      "date1": "2026-11-14",
       "email2": false,
       "email3": false
     },
@@ -25985,7 +26029,8 @@
       "city": "São Paulo",
       "email": "contato@zombieburger.com.br",
       "emailVerified": true,
-      "email1": false,
+      "email1": true,
+      "date1": "2026-11-14",
       "email2": false,
       "email3": false
     },
@@ -25996,7 +26041,8 @@
       "city": "São Paulo",
       "email": "contato@edoushibar.com.br",
       "emailVerified": true,
-      "email1": false,
+      "email1": true,
+      "date1": "2026-11-14",
       "email2": false,
       "email3": false
     },
@@ -26018,7 +26064,8 @@
       "city": "São Paulo",
       "email": "contato@sanmarconepizzaria.com.br",
       "emailVerified": true,
-      "email1": false,
+      "email1": true,
+      "date1": "2026-11-14",
       "email2": false,
       "email3": false
     },
@@ -26029,7 +26076,8 @@
       "city": "São Paulo",
       "email": "atendimento@garoupafrutosdomar.com",
       "emailVerified": true,
-      "email1": false,
+      "email1": true,
+      "date1": "2026-11-14",
       "email2": false,
       "email3": false
     },
@@ -26041,7 +26089,8 @@
       "email": "social@kenseisushibar.com.br",
       "emailVerified": true,
       "invalidEmail": false,
-      "email1": false
+      "email1": true,
+      "date1": "2026-11-14"
     },
     {
       "name": "EstaÃ§Ã£o Leopoldina",
@@ -26051,7 +26100,8 @@
       "email": "adm@estacaoleopoldina.com.br",
       "emailVerified": true,
       "invalidEmail": false,
-      "email1": false
+      "email1": true,
+      "date1": "2026-11-14"
     },
     {
       "name": "Tamagochi Sushi Garden",
@@ -26061,7 +26111,8 @@
       "email": "carlos@tamagochi.com.br",
       "emailVerified": true,
       "invalidEmail": false,
-      "email1": false
+      "email1": true,
+      "date1": "2026-11-14"
     },
     {
       "name": "La Revolucion Bar",
@@ -26082,7 +26133,8 @@
       "email": "atendimento@espaco724.com.br",
       "emailVerified": true,
       "invalidEmail": false,
-      "email1": false
+      "email1": true,
+      "date1": "2026-11-14"
     },
     {
       "name": "Fica a Dica Gastrobar",
@@ -26103,7 +26155,8 @@
       "email": "adm@senhortemaki.com.br",
       "emailVerified": true,
       "invalidEmail": false,
-      "email1": false
+      "email1": true,
+      "date1": "2026-11-14"
     },
     {
       "name": "Underground Gastro Bar",
@@ -26113,7 +26166,8 @@
       "email": "bbq@underbbq.com.br",
       "emailVerified": true,
       "invalidEmail": false,
-      "email1": false
+      "email1": true,
+      "date1": "2026-11-14"
     },
     {
       "name": "Quintal das Figueiras",
@@ -26145,7 +26199,8 @@
       "email": "contato@iloveacaiburger.com",
       "emailVerified": true,
       "invalidEmail": false,
-      "email1": false
+      "email1": true,
+      "date1": "2026-11-14"
     },
     {
       "name": "Terumi Sushi MauaÌ",
@@ -26155,7 +26210,8 @@
       "email": "contato@terumisushi.com.br",
       "emailVerified": true,
       "invalidEmail": false,
-      "email1": false
+      "email1": true,
+      "date1": "2026-11-14"
     },
     {
       "name": "SoÌ Santo Bar",
@@ -26176,7 +26232,8 @@
       "email": "sac@maxifrango.com.br",
       "emailVerified": true,
       "invalidEmail": false,
-      "email1": false
+      "email1": true,
+      "date1": "2026-11-14"
     },
     {
       "name": "Smashân Tasty",
@@ -26186,7 +26243,8 @@
       "email": "contato@smashtasty.com",
       "emailVerified": true,
       "invalidEmail": false,
-      "email1": false
+      "email1": true,
+      "date1": "2026-11-14"
     },
     {
       "name": "Mansion XV",
@@ -26196,7 +26254,8 @@
       "email": "contato@mansionxv.com.br",
       "emailVerified": true,
       "invalidEmail": false,
-      "email1": false
+      "email1": true,
+      "date1": "2026-11-14"
     },
     {
       "name": "NANICA",
@@ -26206,7 +26265,8 @@
       "email": "administrativo@nanicabrasil.com",
       "emailVerified": true,
       "invalidEmail": false,
-      "email1": false
+      "email1": true,
+      "date1": "2026-11-14"
     },
     {
       "name": "MAIS BURGUINHO",
@@ -26216,7 +26276,8 @@
       "email": "contato@maisburguinho.com.br",
       "emailVerified": true,
       "invalidEmail": false,
-      "email1": false
+      "email1": true,
+      "date1": "2026-11-14"
     },
     {
       "name": "BurgUp Hamburgueria",
@@ -26226,7 +26287,8 @@
       "email": "contato@burgup.com.br",
       "emailVerified": true,
       "invalidEmail": false,
-      "email1": false
+      "email1": true,
+      "date1": "2026-11-14"
     },
     {
       "name": "PANTCHOÂ´S HOUSE BURGER",
@@ -26236,7 +26298,8 @@
       "email": "contato@pantchoshouse.com.br",
       "emailVerified": true,
       "invalidEmail": false,
-      "email1": false
+      "email1": true,
+      "date1": "2026-11-14"
     },
     {
       "name": "ALL_IN SMOKED TASTE",
@@ -26246,7 +26309,8 @@
       "email": "adm@allinburger.com.br",
       "emailVerified": true,
       "invalidEmail": false,
-      "email1": false
+      "email1": true,
+      "date1": "2026-11-14"
     },
     {
       "name": "SAN DO IT",
@@ -26256,7 +26320,8 @@
       "email": "contato@sandoit.com.br",
       "emailVerified": true,
       "invalidEmail": false,
-      "email1": false
+      "email1": true,
+      "date1": "2026-11-14"
     },
     {
       "name": "ESTAÃÃO",
@@ -26277,7 +26342,8 @@
       "email": "atendimento@doduda.com.br",
       "emailVerified": true,
       "invalidEmail": false,
-      "email1": false
+      "email1": true,
+      "date1": "2026-11-14"
     },
     {
       "name": "Drosophyla",
@@ -26320,7 +26386,8 @@
       "email": "sarita.ronchi@suplicycafes.com.br",
       "emailVerified": true,
       "invalidEmail": false,
-      "email1": false
+      "email1": true,
+      "date1": "2026-11-14"
     },
     {
       "name": "JacarandaÌ",
@@ -26330,7 +26397,8 @@
       "email": "contato@grupofamiliafreitas.com.br",
       "emailVerified": true,
       "invalidEmail": false,
-      "email1": false
+      "email1": true,
+      "date1": "2026-11-14"
     },
     {
       "name": "A Selva Bar",
@@ -26576,7 +26644,8 @@
       "city": "São Paulo",
       "email": "lazaro@distribuidoradobebidas.com.br",
       "emailVerified": true,
-      "email1": false,
+      "email1": true,
+      "date1": "2026-11-14",
       "email2": false,
       "email3": false
     },
@@ -26587,7 +26656,8 @@
       "city": "São Paulo",
       "email": "contato@serrageralbebidas.com.br",
       "emailVerified": true,
-      "email1": false,
+      "email1": true,
+      "date1": "2026-11-14",
       "email2": false,
       "email3": false
     },
@@ -26610,7 +26680,8 @@
       "city": "São Paulo",
       "email": "loungevilla@distribuidoralavilla.com.br",
       "emailVerified": true,
-      "email1": false,
+      "email1": true,
+      "date1": "2026-11-14",
       "email2": false,
       "email3": false
     },
@@ -27314,7 +27385,8 @@
       "city": "Mogi das Cruzes",
       "email": "vendas@prodooze.com.br",
       "emailVerified": true,
-      "email1": false,
+      "email1": true,
+      "date1": "2026-11-14",
       "email2": false,
       "email3": false
     },
@@ -27380,7 +27452,8 @@
       "city": "Porto Alegre",
       "email": "sac@weconsultoria.com.br",
       "emailVerified": true,
-      "email1": false,
+      "email1": true,
+      "date1": "2026-11-14",
       "email2": false,
       "email3": false
     },
@@ -27523,7 +27596,8 @@
       "city": "Várzea Paulista",
       "email": "contato@danielbebidas.com.br",
       "emailVerified": true,
-      "email1": false,
+      "email1": true,
+      "date1": "2026-11-14",
       "email2": false,
       "email3": false
     },
@@ -28594,7 +28668,8 @@
       "city": "Presidente Prudente",
       "email": "contato@sannaalimentos.com.br",
       "emailVerified": true,
-      "email1": false,
+      "email1": true,
+      "date1": "2026-11-14",
       "email2": false,
       "email3": false
     },
@@ -30726,7 +30801,8 @@
       "city": "São Paulo",
       "email": "dp@www.dpemporio.com.br",
       "emailVerified": true,
-      "email1": false,
+      "email1": true,
+      "date1": "2026-11-14",
       "email2": false,
       "email3": false
     },
@@ -31269,7 +31345,8 @@
       "city": "Guarulhos",
       "email": "epice@epice.com.br",
       "emailVerified": true,
-      "email1": false,
+      "email1": true,
+      "date1": "2026-11-14",
       "email2": false
     },
     {
@@ -31306,7 +31383,8 @@
       "type": "adega",
       "email": "contato@adegaonline.com.br",
       "emailVerified": true,
-      "email1": false,
+      "email1": true,
+      "date1": "2026-11-14",
       "email2": false
     },
     {
@@ -35055,22 +35133,18 @@
     }
   ],
   "emails": {
-    "email1": 896,
+    "email1": 975,
     "email2": 1,
     "email3": 0,
-    "total": 897
+    "total": 976
   },
   "whatsapp": {
     "today": 0,
     "total": 262
   },
   "responses": 5,
-  "pending": 710,
+  "pending": 631,
   "daily": [
-    {
-      "date": "2026-11-01",
-      "count": 99
-    },
     {
       "date": "2026-11-02",
       "count": 100
@@ -35121,7 +35195,11 @@
     },
     {
       "date": "2026-11-14",
-      "count": 20
+      "count": 99
+    },
+    {
+      "date": "2026-11-15",
+      "count": 0
     }
   ],
   "topNeighborhoods": [
@@ -35246,38 +35324,38 @@
   ],
   "funnel": {
     "leads": 4021,
-    "email1": 896,
+    "email1": 975,
     "email2": 1,
     "email3": 0,
     "responded": 5
   },
   "week": {
-    "leads": 335,
+    "leads": 408,
     "emails": {
-      "email1": 335,
+      "email1": 408,
       "email2": 0,
       "email3": 0,
-      "total": 335
+      "total": 408
     },
     "responses": 0
   },
   "month": {
-    "leads": 791,
+    "leads": 870,
     "emails": {
-      "email1": 791,
+      "email1": 870,
       "email2": 0,
       "email3": 0,
-      "total": 791
+      "total": 870
     },
     "responses": 0
   },
   "year": {
-    "leads": 898,
+    "leads": 976,
     "emails": {
-      "email1": 896,
+      "email1": 975,
       "email2": 1,
       "email3": 0,
-      "total": 897
+      "total": 976
     },
     "responses": 5
   },
@@ -35285,25 +35363,25 @@
     {
       "name": "restaurante",
       "total": 2127,
-      "email1": 258,
+      "email1": 302,
       "responded": 0
     },
     {
       "name": "bar",
       "total": 613,
-      "email1": 244,
+      "email1": 245,
       "responded": 0
     },
     {
       "name": "adega",
       "total": 272,
-      "email1": 80,
+      "email1": 89,
       "responded": 0
     },
     {
       "name": "distribuidora",
       "total": 195,
-      "email1": 73,
+      "email1": 91,
       "responded": 1
     },
     {
@@ -35333,7 +35411,7 @@
     {
       "name": "cafeteria",
       "total": 55,
-      "email1": 36,
+      "email1": 37,
       "responded": 0
     },
     {
@@ -35369,7 +35447,7 @@
     {
       "name": "emporio",
       "total": 21,
-      "email1": 16,
+      "email1": 17,
       "responded": 0
     },
     {
@@ -35465,7 +35543,7 @@
     {
       "name": "distribuidora_bebidas",
       "total": 5,
-      "email1": 0,
+      "email1": 3,
       "responded": 0
     },
     {
@@ -35765,7 +35843,7 @@
     {
       "name": "emporio_ecommerce_produtos_artesanais_cachacas",
       "total": 1,
-      "email1": 0,
+      "email1": 1,
       "responded": 0
     },
     {
@@ -35813,7 +35891,7 @@
     {
       "name": "distribuidora_alimentos",
       "total": 1,
-      "email1": 0,
+      "email1": 1,
       "responded": 0
     },
     {
