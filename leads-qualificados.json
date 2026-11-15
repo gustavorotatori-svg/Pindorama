@@ -32199,7 +32199,7 @@
     "address": "",
     "context": "N/I; instagram: https://www.instagram.com/dinnerintheskybr/",
     "phone": "N TEM",
-    "template": "prova_social",
+    "template": "consultivo",
     "website": "",
     "emailVerified": true,
     "emailVerifiedAt": "2026-10-13",
@@ -32207,7 +32207,10 @@
     "email1": false,
     "email2": false,
     "email3": false,
-    "targetProfile": "C/D"
+    "targetProfile": "A/B",
+    "mxVerified": true,
+    "emailFrozenUntil": null,
+    "emailCycleClosed": false
   },
   {
     "name": "3 Brasseurs Brasil",
@@ -32262,7 +32265,10 @@
     "email1": false,
     "email2": false,
     "email3": false,
-    "targetProfile": "C/D"
+    "targetProfile": "A/B",
+    "mxVerified": true,
+    "emailFrozenUntil": null,
+    "emailCycleClosed": false
   },
   {
     "name": "Vista Restaurante Ibirapuera",
@@ -32301,7 +32307,10 @@
     "email1": false,
     "email2": false,
     "email3": false,
-    "targetProfile": "C/D"
+    "targetProfile": "A/B",
+    "mxVerified": true,
+    "emailFrozenUntil": null,
+    "emailCycleClosed": false
   },
   {
     "name": "Jiquitaia Restaurante e Bar",
@@ -32335,7 +32344,7 @@
     "address": "",
     "context": "RESTAURANTE; instagram: https://www.instagram.com/lucegastronomia/",
     "phone": "(11) 99457-4554",
-    "template": "prova_social",
+    "template": "consultivo",
     "website": "",
     "emailVerified": true,
     "emailVerifiedAt": "2026-10-13",
@@ -32343,7 +32352,10 @@
     "email1": false,
     "email2": false,
     "email3": false,
-    "targetProfile": "C/D"
+    "targetProfile": "A/B",
+    "mxVerified": true,
+    "emailFrozenUntil": null,
+    "emailCycleClosed": false
   },
   {
     "name": "Quincho Cozinha & Coquetelaria",
@@ -32374,7 +32386,7 @@
     "address": "",
     "context": "FRANCES; respons├ível: ILTON; instagram: https://www.instagram.com/restaurantefreddy/",
     "phone": "3167-0977",
-    "template": "pergunta",
+    "template": "consultivo",
     "website": "",
     "emailVerified": true,
     "emailVerifiedAt": "2026-10-13",
@@ -32382,7 +32394,10 @@
     "email1": false,
     "email2": false,
     "email3": false,
-    "targetProfile": "C/D"
+    "targetProfile": "A/B",
+    "mxVerified": true,
+    "emailFrozenUntil": null,
+    "emailCycleClosed": false
   },
   {
     "name": "BANANA VERDE",
@@ -32400,7 +32415,10 @@
     "email1": false,
     "email2": false,
     "email3": false,
-    "targetProfile": "C/D"
+    "targetProfile": "A/B",
+    "mxVerified": true,
+    "emailFrozenUntil": null,
+    "emailCycleClosed": false
   },
   {
     "name": "CAPIM SANTO",
@@ -32429,7 +32447,7 @@
     "address": "",
     "context": "ITALIANOS; respons├ível: ROBERTO; instagram: https://www.instagram.com/brownsugarrestaurante/",
     "phone": "11 3063 4249 / 94325 6211 / 954633000 ROBERTO",
-    "template": "prova_social",
+    "template": "consultivo",
     "website": "",
     "emailVerified": true,
     "emailVerifiedAt": "2026-10-13",
@@ -32437,7 +32455,10 @@
     "email1": false,
     "email2": false,
     "email3": false,
-    "targetProfile": "C/D"
+    "targetProfile": "A/B",
+    "mxVerified": true,
+    "emailFrozenUntil": null,
+    "emailCycleClosed": false
   },
   {
     "name": "Le Manjue Organique",
@@ -32532,7 +32553,10 @@
     "email1": false,
     "email2": false,
     "email3": false,
-    "targetProfile": "C/D"
+    "targetProfile": "A/B",
+    "mxVerified": true,
+    "emailFrozenUntil": null,
+    "emailCycleClosed": false
   },
   {
     "name": "CAKESS",
@@ -32550,7 +32574,10 @@
     "email1": false,
     "email2": false,
     "email3": false,
-    "targetProfile": "C/D"
+    "targetProfile": "A/B",
+    "mxVerified": true,
+    "emailFrozenUntil": null,
+    "emailCycleClosed": false
   },
   {
     "name": "LIL├â┬ôRI",
@@ -32579,7 +32606,7 @@
     "address": "",
     "context": "SORVETES; respons├ível: JESSICA; instagram: https://www.instagram.com/gelatoboutique/",
     "phone": "11 3541 1532 / 11 3595.2560",
-    "template": "prova_social",
+    "template": "consultivo",
     "website": "",
     "emailVerified": true,
     "emailVerifiedAt": "2026-10-13",
@@ -32587,7 +32614,10 @@
     "email1": false,
     "email2": false,
     "email3": false,
-    "targetProfile": "C/D"
+    "targetProfile": "A/B",
+    "mxVerified": true,
+    "emailFrozenUntil": null,
+    "emailCycleClosed": false
   },
   {
     "name": "Carlota Bistr├â┬┤",
@@ -32623,7 +32653,10 @@
     "email1": false,
     "email2": false,
     "email3": false,
-    "targetProfile": "C/D"
+    "targetProfile": "A/B",
+    "mxVerified": true,
+    "emailFrozenUntil": null,
+    "emailCycleClosed": false
   },
   {
     "name": "Tiramisu Sossi",
@@ -32651,7 +32684,7 @@
     "address": "",
     "context": "PIZZA; respons├ível: FELIPE; instagram: https://www.instagram.com/damoocapizzashop/",
     "phone": "(11) 3062-0422 /  11 98022-8486 CINTIA",
-    "template": "prova_social",
+    "template": "consultivo",
     "website": "",
     "emailVerified": true,
     "emailVerifiedAt": "2026-10-13",
@@ -32659,7 +32692,10 @@
     "email1": false,
     "email2": false,
     "email3": false,
-    "targetProfile": "C/D"
+    "targetProfile": "A/B",
+    "mxVerified": true,
+    "emailFrozenUntil": null,
+    "emailCycleClosed": false
   },
   {
     "name": "Exquisito ! Bar",
@@ -32687,7 +32723,7 @@
     "address": "",
     "context": "PADARIA; respons├ível: HELENA E MARIA TEREZA (PROP) / RUAN; instagram: https://www.instagram.com/st.chico/",
     "phone": "113031-5096 / 1198446-9799 MARIA TEREZA / 011 97413-9266 n tem whats / 11 98022-8486 CINTIA",
-    "template": "prova_social",
+    "template": "consultivo",
     "website": "",
     "emailVerified": true,
     "emailVerifiedAt": "2026-10-13",
@@ -32695,7 +32731,10 @@
     "email1": false,
     "email2": false,
     "email3": false,
-    "targetProfile": "C/D"
+    "targetProfile": "A/B",
+    "mxVerified": true,
+    "emailFrozenUntil": null,
+    "emailCycleClosed": false
   },
   {
     "name": "HOSPEDARIA",
@@ -32705,7 +32744,7 @@
     "address": "",
     "context": "VARIADOS; respons├ível: ELISON e L├â┬ìGIA; instagram: https://www.instagram.com/hospedariasp/",
     "phone": "11 22915629 / (11) 97500-0902 L├â┬¡gia /  11 98022-8486 CINTIA",
-    "template": "prova_social",
+    "template": "consultivo",
     "website": "",
     "emailVerified": true,
     "emailVerifiedAt": "2026-10-13",
@@ -32713,7 +32752,10 @@
     "email1": false,
     "email2": false,
     "email3": false,
-    "targetProfile": "C/D"
+    "targetProfile": "A/B",
+    "mxVerified": true,
+    "emailFrozenUntil": null,
+    "emailCycleClosed": false
   },
   {
     "name": "Red Coffee & Co",
@@ -38815,7 +38857,7 @@
     "type": "distribuidora",
     "address": "Rua Jose Sanches Marin, 451 - Vila Colorado, Suzano/SP",
     "context": "Alberg Distribuidora de Bebidas Ltda, CNPJ 18.469.501/0001-87, ativa desde 2013 em Suzano no comercio atacadista de cerveja, chope e refrigerante, email corporativo, telefones e site publicos; MX validado (outlook). Fato: distribuidora atacadista de bebidas. Inferencia comercial: perfil com potencial de recompra e inclusao de cachaca no mix.",
-    "template": "consultivo",
+    "template": "revenda",
     "phone": "(11) 4746-4505",
     "website": "https://alberg.com.br",
     "email1": false,
@@ -38825,7 +38867,10 @@
     "date": "2026-09-09",
     "email2": false,
     "email3": false,
-    "targetProfile": "C/D"
+    "targetProfile": "A/B",
+    "mxVerified": true,
+    "emailFrozenUntil": null,
+    "emailCycleClosed": false
   },
   {
     "name": "MB Distribuidora",
@@ -39450,7 +39495,11 @@
     "email1": false,
     "email2": false,
     "email3": false,
-    "targetProfile": "C/D"
+    "targetProfile": "A/B",
+    "template": "revenda",
+    "mxVerified": true,
+    "emailFrozenUntil": null,
+    "emailCycleClosed": false
   },
   {
     "name": "Lanchonete Bar e Temakeria Moema",
@@ -39496,7 +39545,11 @@
     "email1": false,
     "email2": false,
     "email3": false,
-    "targetProfile": "C/D"
+    "targetProfile": "A/B",
+    "template": "consultivo",
+    "mxVerified": true,
+    "emailFrozenUntil": null,
+    "emailCycleClosed": false
   },
   {
     "name": "Adega Brooklin",
@@ -39930,7 +39983,11 @@
     "emailVerified": true,
     "emailSource": "https://guiapj.com.br/consulta-cnpj/00119392000102",
     "emailVerifiedAt": "2026-10-13",
-    "targetProfile": "C/D"
+    "targetProfile": "A/B",
+    "template": "revenda",
+    "mxVerified": true,
+    "emailFrozenUntil": null,
+    "emailCycleClosed": false
   },
   {
     "name": "Santropa Bebidas",
@@ -56422,12 +56479,14 @@
     "emailVerified": true,
     "emailVerifiedAt": "2026-10-21",
     "mxVerified": true,
-    "template": "consultivo",
+    "template": "revenda",
     "email1": false,
     "context": "Distribuidora SP + litoral, pedidos SP (11) 2217-3380, litoral (12) 3865-3303",
     "notes": "",
-    "targetProfile": "C/D",
-    "email2": false
+    "targetProfile": "A/B",
+    "email2": false,
+    "emailFrozenUntil": null,
+    "emailCycleClosed": false
   },
   {
     "name": "Adega Online",
@@ -56440,12 +56499,14 @@
     "emailVerified": true,
     "emailVerifiedAt": "2026-10-21",
     "mxVerified": true,
-    "template": "consultivo",
+    "template": "revenda",
     "email1": false,
     "context": "Adega online com entrega propria de vinhos e destilados, SP capital + GSP",
     "notes": "",
-    "targetProfile": "C/D",
-    "email2": false
+    "targetProfile": "A/B",
+    "email2": false,
+    "emailFrozenUntil": null,
+    "emailCycleClosed": false
   },
   {
     "name": "Five Distribuidora de Bebidas",
