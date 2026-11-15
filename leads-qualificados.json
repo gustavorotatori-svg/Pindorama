@@ -33153,14 +33153,16 @@
     "emailVerifiedAt": "2026-10-13",
     "mxVerified": true,
     "neighborhood": "",
-    "template": "prova_social",
+    "template": "revenda",
     "email1": false,
     "email2": false,
     "whatsappSent": true,
     "whatsappDate": "2026-08-22",
     "whatsappSource": "https://www.forcato.com.br/",
     "email3": false,
-    "targetProfile": "C/D"
+    "targetProfile": "A/B",
+    "emailFrozenUntil": null,
+    "emailCycleClosed": false
   },
   {
     "name": "Distribuidora de Bebidas JG",
@@ -41571,7 +41573,11 @@
     "emailSource": "https://guiapj.com.br",
     "emailVerifiedAt": "2026-10-13",
     "invalidEmail": false,
-    "targetProfile": "C/D"
+    "targetProfile": "A/B",
+    "template": "pergunta",
+    "mxVerified": true,
+    "emailFrozenUntil": null,
+    "emailCycleClosed": false
   },
   {
     "name": "Bar e Restaurante O Postinho",
@@ -46802,7 +46808,9 @@
     "email1": false,
     "email2": false,
     "email3": false,
-    "targetProfile": "C/D"
+    "targetProfile": "A/B",
+    "emailFrozenUntil": null,
+    "emailCycleClosed": false
   },
   {
     "name": "FRITZÂ® - Santo AndreÌ",
@@ -46863,7 +46871,9 @@
     "email1": false,
     "email2": false,
     "email3": false,
-    "targetProfile": "C/D"
+    "targetProfile": "A/B",
+    "emailFrozenUntil": null,
+    "emailCycleClosed": false
   },
   {
     "name": "Zombie Burger",
@@ -46882,7 +46892,9 @@
     "email1": false,
     "email2": false,
     "email3": false,
-    "targetProfile": "C/D"
+    "targetProfile": "A/B",
+    "emailFrozenUntil": null,
+    "emailCycleClosed": false
   },
   {
     "name": "EdoÌ Sushi Bar",
@@ -46901,7 +46913,9 @@
     "email1": false,
     "email2": false,
     "email3": false,
-    "targetProfile": "C/D"
+    "targetProfile": "A/B",
+    "emailFrozenUntil": null,
+    "emailCycleClosed": false
   },
   {
     "name": "Boteco Brazuka",
@@ -46941,7 +46955,9 @@
     "email1": false,
     "email2": false,
     "email3": false,
-    "targetProfile": "C/D"
+    "targetProfile": "A/B",
+    "emailFrozenUntil": null,
+    "emailCycleClosed": false
   },
   {
     "name": "garoupa frutos do mar",
@@ -46960,7 +46976,9 @@
     "email1": false,
     "email2": false,
     "email3": false,
-    "targetProfile": "C/D"
+    "targetProfile": "A/B",
+    "emailFrozenUntil": null,
+    "emailCycleClosed": false
   },
   {
     "name": "Kensei Sushi Bar",
@@ -46978,7 +46996,9 @@
     "template": "consultivo",
     "email1": false,
     "invalidEmail": false,
-    "targetProfile": "C/D"
+    "targetProfile": "A/B",
+    "emailFrozenUntil": null,
+    "emailCycleClosed": false
   },
   {
     "name": "EstaÃ§Ã£o Leopoldina",
@@ -46996,7 +47016,9 @@
     "template": "consultivo",
     "email1": false,
     "invalidEmail": false,
-    "targetProfile": "C/D"
+    "targetProfile": "A/B",
+    "emailFrozenUntil": null,
+    "emailCycleClosed": false
   },
   {
     "name": "Tamagochi Sushi Garden",
@@ -47014,7 +47036,9 @@
     "template": "consultivo",
     "email1": false,
     "invalidEmail": false,
-    "targetProfile": "C/D"
+    "targetProfile": "A/B",
+    "emailFrozenUntil": null,
+    "emailCycleClosed": false
   },
   {
     "name": "La Revolucion Bar",
@@ -47053,7 +47077,9 @@
     "template": "consultivo",
     "email1": false,
     "invalidEmail": false,
-    "targetProfile": "C/D"
+    "targetProfile": "A/B",
+    "emailFrozenUntil": null,
+    "emailCycleClosed": false
   },
   {
     "name": "Fica a Dica Gastrobar",
@@ -47092,7 +47118,9 @@
     "template": "consultivo",
     "email1": false,
     "invalidEmail": false,
-    "targetProfile": "C/D"
+    "targetProfile": "A/B",
+    "emailFrozenUntil": null,
+    "emailCycleClosed": false
   },
   {
     "name": "Underground Gastro Bar",
@@ -47110,7 +47138,9 @@
     "template": "consultivo",
     "email1": false,
     "invalidEmail": false,
-    "targetProfile": "C/D"
+    "targetProfile": "A/B",
+    "emailFrozenUntil": null,
+    "emailCycleClosed": false
   },
   {
     "name": "Quintal das Figueiras",
@@ -47168,7 +47198,9 @@
     "template": "consultivo",
     "email1": false,
     "invalidEmail": false,
-    "targetProfile": "C/D"
+    "targetProfile": "A/B",
+    "emailFrozenUntil": null,
+    "emailCycleClosed": false
   },
   {
     "name": "Terumi Sushi MauaÌ",
@@ -47186,7 +47218,9 @@
     "template": "consultivo",
     "email1": false,
     "invalidEmail": false,
-    "targetProfile": "C/D"
+    "targetProfile": "A/B",
+    "emailFrozenUntil": null,
+    "emailCycleClosed": false
   },
   {
     "name": "SoÌ Santo Bar",
@@ -47225,7 +47259,9 @@
     "template": "consultivo",
     "email1": false,
     "invalidEmail": false,
-    "targetProfile": "C/D"
+    "targetProfile": "A/B",
+    "emailFrozenUntil": null,
+    "emailCycleClosed": false
   },
   {
     "name": "Smashân Tasty",
@@ -47243,7 +47279,9 @@
     "template": "consultivo",
     "email1": false,
     "invalidEmail": false,
-    "targetProfile": "C/D"
+    "targetProfile": "A/B",
+    "emailFrozenUntil": null,
+    "emailCycleClosed": false
   },
   {
     "name": "Mansion XV",
@@ -47261,7 +47299,9 @@
     "template": "consultivo",
     "email1": false,
     "invalidEmail": false,
-    "targetProfile": "C/D"
+    "targetProfile": "A/B",
+    "emailFrozenUntil": null,
+    "emailCycleClosed": false
   },
   {
     "name": "NANICA",
@@ -47279,7 +47319,9 @@
     "template": "consultivo",
     "email1": false,
     "invalidEmail": false,
-    "targetProfile": "C/D"
+    "targetProfile": "A/B",
+    "emailFrozenUntil": null,
+    "emailCycleClosed": false
   },
   {
     "name": "MAIS BURGUINHO",
@@ -47297,7 +47339,9 @@
     "template": "consultivo",
     "email1": false,
     "invalidEmail": false,
-    "targetProfile": "C/D"
+    "targetProfile": "A/B",
+    "emailFrozenUntil": null,
+    "emailCycleClosed": false
   },
   {
     "name": "BurgUp Hamburgueria",
@@ -47315,7 +47359,9 @@
     "template": "consultivo",
     "email1": false,
     "invalidEmail": false,
-    "targetProfile": "C/D"
+    "targetProfile": "A/B",
+    "emailFrozenUntil": null,
+    "emailCycleClosed": false
   },
   {
     "name": "PANTCHOÂ´S HOUSE BURGER",
@@ -47333,7 +47379,9 @@
     "template": "consultivo",
     "email1": false,
     "invalidEmail": false,
-    "targetProfile": "C/D"
+    "targetProfile": "A/B",
+    "emailFrozenUntil": null,
+    "emailCycleClosed": false
   },
   {
     "name": "ALL_IN SMOKED TASTE",
@@ -47351,7 +47399,9 @@
     "template": "consultivo",
     "email1": false,
     "invalidEmail": false,
-    "targetProfile": "C/D"
+    "targetProfile": "A/B",
+    "emailFrozenUntil": null,
+    "emailCycleClosed": false
   },
   {
     "name": "SAN DO IT",
@@ -47369,7 +47419,9 @@
     "template": "consultivo",
     "email1": false,
     "invalidEmail": false,
-    "targetProfile": "C/D"
+    "targetProfile": "A/B",
+    "emailFrozenUntil": null,
+    "emailCycleClosed": false
   },
   {
     "name": "ESTAÃÃO",
@@ -47408,7 +47460,9 @@
     "template": "consultivo",
     "email1": false,
     "invalidEmail": false,
-    "targetProfile": "C/D"
+    "targetProfile": "A/B",
+    "emailFrozenUntil": null,
+    "emailCycleClosed": false
   },
   {
     "name": "Drosophyla",
@@ -47488,7 +47542,9 @@
     "template": "consultivo",
     "email1": false,
     "invalidEmail": false,
-    "targetProfile": "C/D"
+    "targetProfile": "A/B",
+    "emailFrozenUntil": null,
+    "emailCycleClosed": false
   },
   {
     "name": "JacarandaÌ",
@@ -47506,7 +47562,9 @@
     "template": "consultivo",
     "email1": false,
     "invalidEmail": false,
-    "targetProfile": "C/D"
+    "targetProfile": "A/B",
+    "emailFrozenUntil": null,
+    "emailCycleClosed": false
   },
   {
     "name": "A Selva Bar",
@@ -55185,11 +55243,13 @@
     "emailSource": "https://dpemporio.com.br",
     "emailVerifiedAt": "2026-10-18",
     "mxVerified": true,
-    "template": "consultivo",
+    "template": "revenda",
     "email1": false,
     "email2": false,
-    "targetProfile": "C/D",
-    "email3": false
+    "targetProfile": "A/B",
+    "email3": false,
+    "emailFrozenUntil": null,
+    "emailCycleClosed": false
   },
   {
     "name": "Empório Zucchini",
@@ -56166,10 +56226,12 @@
     "emailSource": "https://www.epice.com.br",
     "emailVerifiedAt": "2026-10-18",
     "mxVerified": true,
-    "template": "consultivo",
+    "template": "revenda",
     "email1": false,
     "email2": false,
-    "targetProfile": "C/D"
+    "targetProfile": "A/B",
+    "emailFrozenUntil": null,
+    "emailCycleClosed": false
   },
   {
     "name": "Overwine Importadora",
