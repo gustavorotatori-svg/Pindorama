@@ -1,5 +1,5 @@
 {
-  "lastUpdate": "2026-11-15T06:03:56.041Z",
+  "lastUpdate": "2026-11-15T18:43:48.602Z",
   "totalLeads": 4021,
   "allLeads": [
     {
@@ -31375,7 +31375,8 @@
       "type": "distribuidora_bebidas",
       "email": "pedidos@blzbebidas.com.br",
       "emailVerified": true,
-      "email1": false,
+      "email1": true,
+      "date1": "2026-11-15",
       "email2": false
     },
     {
@@ -35133,17 +35134,17 @@
     }
   ],
   "emails": {
-    "email1": 975,
+    "email1": 976,
     "email2": 1,
     "email3": 0,
-    "total": 976
+    "total": 977
   },
   "whatsapp": {
     "today": 0,
     "total": 262
   },
   "responses": 5,
-  "pending": 631,
+  "pending": 630,
   "daily": [
     {
       "date": "2026-11-02",
@@ -35199,7 +35200,7 @@
     },
     {
       "date": "2026-11-15",
-      "count": 0
+      "count": 1
     }
   ],
   "topNeighborhoods": [
@@ -35324,38 +35325,38 @@
   ],
   "funnel": {
     "leads": 4021,
-    "email1": 975,
+    "email1": 976,
     "email2": 1,
     "email3": 0,
     "responded": 5
   },
   "week": {
-    "leads": 408,
+    "leads": 409,
     "emails": {
-      "email1": 408,
+      "email1": 409,
       "email2": 0,
       "email3": 0,
-      "total": 408
+      "total": 409
     },
     "responses": 0
   },
   "month": {
-    "leads": 870,
+    "leads": 871,
     "emails": {
-      "email1": 870,
+      "email1": 871,
       "email2": 0,
       "email3": 0,
-      "total": 870
+      "total": 871
     },
     "responses": 0
   },
   "year": {
-    "leads": 976,
+    "leads": 977,
     "emails": {
-      "email1": 975,
+      "email1": 976,
       "email2": 1,
       "email3": 0,
-      "total": 976
+      "total": 977
     },
     "responses": 5
   },
@@ -35543,7 +35544,7 @@
     {
       "name": "distribuidora_bebidas",
       "total": 5,
-      "email1": 3,
+      "email1": 4,
       "responded": 0
     },
     {
