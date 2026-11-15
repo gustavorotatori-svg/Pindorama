@@ -33178,12 +33178,13 @@
     "mxVerified": true,
     "neighborhood": "",
     "template": "revenda",
-    "email1": false,
+    "email1": true,
     "email2": false,
     "email3": false,
     "targetProfile": "A/B",
     "emailFrozenUntil": null,
-    "emailCycleClosed": false
+    "emailCycleClosed": false,
+    "date1": "2026-11-14"
   },
   {
     "name": "G&T Bar",
@@ -34286,13 +34287,14 @@
     "emailSource": "https://adegamartins.com.br/contato/",
     "emailVerifiedAt": "2026-10-13",
     "template": "revenda",
-    "email1": false,
+    "email1": true,
     "email2": false,
     "email3": false,
     "targetProfile": "A/B",
     "mxVerified": true,
     "emailFrozenUntil": null,
-    "emailCycleClosed": false
+    "emailCycleClosed": false,
+    "date1": "2026-11-14"
   },
   {
     "name": "Life Drinks e Eventos",
@@ -34748,13 +34750,14 @@
     "emailSource": "https://www.choppgermaniabarueri.com.br/contato/",
     "emailVerifiedAt": "2026-10-13",
     "template": "revenda",
-    "email1": false,
+    "email1": true,
     "email2": false,
     "email3": false,
     "targetProfile": "A/B",
     "mxVerified": true,
     "emailFrozenUntil": null,
-    "emailCycleClosed": false
+    "emailCycleClosed": false,
+    "date1": "2026-11-14"
   },
   {
     "name": "Adega Rubi",
@@ -34787,13 +34790,14 @@
     "emailSource": "https://www.royalbebidas.com/contato",
     "emailVerifiedAt": "2026-10-13",
     "template": "revenda",
-    "email1": false,
+    "email1": true,
     "email2": false,
     "email3": false,
     "targetProfile": "A/B",
     "mxVerified": true,
     "emailFrozenUntil": null,
-    "emailCycleClosed": false
+    "emailCycleClosed": false,
+    "date1": "2026-11-14"
   },
   {
     "name": "Palácio dos Vinhos",
@@ -34808,13 +34812,14 @@
     "emailSource": "https://www.palaciodosvinhos.com.br/contato",
     "emailVerifiedAt": "2026-10-13",
     "template": "revenda",
-    "email1": false,
+    "email1": true,
     "email2": false,
     "email3": false,
     "targetProfile": "A/B",
     "mxVerified": true,
     "emailFrozenUntil": null,
-    "emailCycleClosed": false
+    "emailCycleClosed": false,
+    "date1": "2026-11-14"
   },
   {
     "name": "Distribuidora Cotia",
@@ -34847,13 +34852,14 @@
     "emailSource": "https://cofigdistribuidora.com.br/contato/",
     "emailVerifiedAt": "2026-10-13",
     "template": "revenda",
-    "email1": false,
+    "email1": true,
     "email2": false,
     "email3": false,
     "targetProfile": "A/B",
     "mxVerified": true,
     "emailFrozenUntil": null,
-    "emailCycleClosed": false
+    "emailCycleClosed": false,
+    "date1": "2026-11-14"
   },
   {
     "name": "Maxx Indústria de Bebidas",
@@ -34886,13 +34892,14 @@
     "emailSource": "https://thewinespot.com.br/",
     "emailVerifiedAt": "2026-10-13",
     "template": "revenda",
-    "email1": false,
+    "email1": true,
     "email2": false,
     "email3": false,
     "targetProfile": "A/B",
     "mxVerified": true,
     "emailFrozenUntil": null,
-    "emailCycleClosed": false
+    "emailCycleClosed": false,
+    "date1": "2026-11-14"
   },
   {
     "name": "Central Osasco",
@@ -34907,13 +34914,14 @@
     "emailSource": "https://centralosasco.com.br/contato.aspx",
     "emailVerifiedAt": "2026-10-13",
     "template": "revenda",
-    "email1": false,
+    "email1": true,
     "email2": false,
     "email3": false,
     "targetProfile": "A/B",
     "mxVerified": true,
     "emailFrozenUntil": null,
-    "emailCycleClosed": false
+    "emailCycleClosed": false,
+    "date1": "2026-11-14"
   },
   {
     "name": "Central Wine",
@@ -34928,13 +34936,14 @@
     "emailSource": "https://www.centralwine.com.br/",
     "emailVerifiedAt": "2026-10-13",
     "template": "revenda",
-    "email1": false,
+    "email1": true,
     "email2": false,
     "email3": false,
     "targetProfile": "A/B",
     "mxVerified": true,
     "emailFrozenUntil": null,
-    "emailCycleClosed": false
+    "emailCycleClosed": false,
+    "date1": "2026-11-14"
   },
   {
     "name": "Taça Cheia Bar e Restaurante",
@@ -35106,13 +35115,14 @@
     "emailSource": "https://rapidochopp.com.br/contato/",
     "emailVerifiedAt": "2026-10-13",
     "template": "revenda",
-    "email1": false,
+    "email1": true,
     "email2": false,
     "email3": false,
     "targetProfile": "A/B",
     "mxVerified": true,
     "emailFrozenUntil": null,
-    "emailCycleClosed": false
+    "emailCycleClosed": false,
+    "date1": "2026-11-14"
   },
   {
     "name": "Adega Caramuru",
@@ -37272,13 +37282,14 @@
     "emailVerifiedAt": "2026-10-13",
     "verifiedAt": "2026-08-31",
     "status": "qualified_phone_web",
-    "email1": false,
+    "email1": true,
     "invalidEmail": false,
     "targetProfile": "A/B",
     "template": "revenda",
     "mxVerified": true,
     "emailFrozenUntil": null,
-    "emailCycleClosed": false
+    "emailCycleClosed": false,
+    "date1": "2026-11-14"
   },
   {
     "name": "Dose7 Bebidas",
@@ -37731,12 +37742,13 @@
     "emailVerifiedAt": "2026-10-13",
     "mxVerified": true,
     "template": "revenda",
-    "email1": false,
+    "email1": true,
     "email2": false,
     "email3": false,
     "targetProfile": "A/B",
     "emailFrozenUntil": null,
-    "emailCycleClosed": false
+    "emailCycleClosed": false,
+    "date1": "2026-11-14"
   },
   {
     "name": "Pezasa Distribuidora de Bebidas",
@@ -38562,13 +38574,14 @@
     "emailVerifiedAt": "2026-10-13",
     "template": "consultivo",
     "website": "",
-    "email1": false,
+    "email1": true,
     "email2": false,
     "email3": false,
     "targetProfile": "A/B",
     "mxVerified": true,
     "emailFrozenUntil": null,
-    "emailCycleClosed": false
+    "emailCycleClosed": false,
+    "date1": "2026-11-14"
   },
   {
     "name": "Bar do Alemao Jundiai",
@@ -38603,13 +38616,14 @@
     "emailVerifiedAt": "2026-10-13",
     "template": "consultivo",
     "website": "",
-    "email1": false,
+    "email1": true,
     "email2": false,
     "email3": false,
     "targetProfile": "A/B",
     "mxVerified": true,
     "emailFrozenUntil": null,
-    "emailCycleClosed": false
+    "emailCycleClosed": false,
+    "date1": "2026-11-14"
   },
   {
     "name": "Adega Dias (Erisberto Comercio de Bebidas)",
@@ -38698,12 +38712,13 @@
     "mxVerified": true,
     "template": "consultivo",
     "website": "",
-    "email1": false,
+    "email1": true,
     "email2": false,
     "targetProfile": "A/B",
     "email3": false,
     "emailFrozenUntil": null,
-    "emailCycleClosed": false
+    "emailCycleClosed": false,
+    "date1": "2026-11-14"
   },
   {
     "name": "Locale Caff├® (Compras Carla)",
@@ -39167,13 +39182,14 @@
     "emailSource": "https://inteligen.com.br/empresa/adega-chapadao-comercio-de-bebidas-chapada-d-oeste-ltda-08859942000131",
     "emailVerifiedAt": "2026-10-13",
     "date": "2026-09-11",
-    "email1": false,
+    "email1": true,
     "email2": false,
     "email3": false,
     "targetProfile": "A/B",
     "mxVerified": true,
     "emailFrozenUntil": null,
-    "emailCycleClosed": false
+    "emailCycleClosed": false,
+    "date1": "2026-11-14"
   },
   {
     "name": "Adega do Joca",
@@ -39396,14 +39412,15 @@
     "emailVerified": true,
     "emailVerifiedAt": "2026-10-13",
     "emailSource": "https://guiapj.com.br/consulta-cnpj",
-    "email1": false,
+    "email1": true,
     "email2": false,
     "email3": false,
     "targetProfile": "A/B",
     "template": "consultivo",
     "mxVerified": true,
     "emailFrozenUntil": null,
-    "emailCycleClosed": false
+    "emailCycleClosed": false,
+    "date1": "2026-11-14"
   },
   {
     "name": "Bar e Botequim Moema",
@@ -40274,7 +40291,7 @@
     "type": "adega",
     "website": "",
     "context": "Emporio Vila Sao Paulo, comercio varejista de bebidas com fracionamento secundario, Vila Sao Paulo, Sao Paulo (SP), tel (11) 2344-8100",
-    "email1": false,
+    "email1": true,
     "email2": false,
     "email3": false,
     "emailVerified": true,
@@ -40284,7 +40301,8 @@
     "template": "revenda",
     "mxVerified": true,
     "emailFrozenUntil": null,
-    "emailCycleClosed": false
+    "emailCycleClosed": false,
+    "date1": "2026-11-14"
   },
   {
     "name": "StoreBeer Comercio de Bebidas",
@@ -41128,7 +41146,7 @@
     "type": "distribuidora",
     "website": "",
     "context": "SM Distribuidora de Bebidas e Produtos Alimenticios em Sorocaba (Vila Hortencia), CNPJ 17.865.088/0001-07, ativa desde 08/06/2026. CNAE principal 4635402 (atacado de cerveja, chope e refrigerante). Endereco: Rua Madrid 85, CEP 18020-240.",
-    "email1": false,
+    "email1": true,
     "email2": false,
     "email3": false,
     "emailVerified": true,
@@ -41138,7 +41156,8 @@
     "template": "revenda",
     "mxVerified": true,
     "emailFrozenUntil": null,
-    "emailCycleClosed": false
+    "emailCycleClosed": false,
+    "date1": "2026-11-14"
   },
   {
     "name": "Itu Distribuidora de Bebidas",
@@ -42391,11 +42410,12 @@
     "emailVerifiedAt": "2026-10-15",
     "mxVerified": true,
     "template": "revenda",
-    "email1": false,
+    "email1": true,
     "invalidEmail": false,
     "targetProfile": "A/B",
     "emailFrozenUntil": null,
-    "emailCycleClosed": false
+    "emailCycleClosed": false,
+    "date1": "2026-11-14"
   },
   {
     "name": "Adega do Kinho",
@@ -45462,11 +45482,12 @@
     "emailVerifiedAt": "2026-10-15",
     "mxVerified": true,
     "template": "revenda",
-    "email1": false,
+    "email1": true,
     "invalidEmail": false,
     "targetProfile": "A/B",
     "emailFrozenUntil": null,
-    "emailCycleClosed": false
+    "emailCycleClosed": false,
+    "date1": "2026-11-14"
   },
   {
     "name": "Axado drinks",
@@ -45962,12 +45983,13 @@
     "emailVerifiedAt": "2026-10-15",
     "mxVerified": true,
     "template": "revenda",
-    "email1": false,
+    "email1": true,
     "email2": false,
     "email3": false,
     "targetProfile": "A/B",
     "emailFrozenUntil": null,
-    "emailCycleClosed": false
+    "emailCycleClosed": false,
+    "date1": "2026-11-14"
   },
   {
     "name": "Dasian",
@@ -46593,11 +46615,12 @@
     "emailVerifiedAt": "2026-10-15",
     "mxVerified": true,
     "template": "revenda",
-    "email1": false,
+    "email1": true,
     "invalidEmail": false,
     "targetProfile": "A/B",
     "emailFrozenUntil": null,
-    "emailCycleClosed": false
+    "emailCycleClosed": false,
+    "date1": "2026-11-14"
   },
   {
     "name": "DOCEVIE",
@@ -48091,12 +48114,13 @@
     "emailVerifiedAt": "2026-10-17",
     "mxVerified": true,
     "template": "revenda",
-    "email1": false,
+    "email1": true,
     "email2": false,
     "email3": false,
     "targetProfile": "A/B",
     "emailFrozenUntil": null,
-    "emailCycleClosed": false
+    "emailCycleClosed": false,
+    "date1": "2026-11-14"
   },
   {
     "name": "Serra Geral Distribuidora de Bebidas LTDA",
@@ -48112,12 +48136,13 @@
     "emailVerifiedAt": "2026-10-17",
     "mxVerified": true,
     "template": "revenda",
-    "email1": false,
+    "email1": true,
     "email2": false,
     "email3": false,
     "targetProfile": "A/B",
     "emailFrozenUntil": null,
-    "emailCycleClosed": false
+    "emailCycleClosed": false,
+    "date1": "2026-11-14"
   },
   {
     "name": "Adega Tonel",
@@ -48155,12 +48180,13 @@
     "emailVerifiedAt": "2026-10-17",
     "mxVerified": true,
     "template": "revenda",
-    "email1": false,
+    "email1": true,
     "email2": false,
     "email3": false,
     "targetProfile": "A/B",
     "emailFrozenUntil": null,
-    "emailCycleClosed": false
+    "emailCycleClosed": false,
+    "date1": "2026-11-14"
   },
   {
     "name": "The Bar Coquetelaria",
@@ -49378,12 +49404,13 @@
     "emailVerifiedAt": "2026-10-17",
     "mxVerified": true,
     "template": "revenda",
-    "email1": false,
+    "email1": true,
     "email2": false,
     "targetProfile": "A/B",
     "email3": false,
     "emailFrozenUntil": null,
-    "emailCycleClosed": false
+    "emailCycleClosed": false,
+    "date1": "2026-11-14"
   },
   {
     "name": "Rocky Brewing Cerveja Artesanal Caiçara",
@@ -49494,12 +49521,13 @@
     "emailVerifiedAt": "2026-10-17",
     "mxVerified": true,
     "template": "revenda",
-    "email1": false,
+    "email1": true,
     "email2": false,
     "targetProfile": "A/B",
     "email3": false,
     "emailFrozenUntil": null,
-    "emailCycleClosed": false
+    "emailCycleClosed": false,
+    "date1": "2026-11-14"
   },
   {
     "name": "Zanlorenzi Indústria de Bebidas (Sucos e Chás Campo Largo)",
@@ -49743,12 +49771,13 @@
     "emailVerifiedAt": "2026-10-17",
     "mxVerified": true,
     "template": "revenda",
-    "email1": false,
+    "email1": true,
     "email2": false,
     "targetProfile": "A/B",
     "email3": false,
     "emailFrozenUntil": null,
-    "emailCycleClosed": false
+    "emailCycleClosed": false,
+    "date1": "2026-11-14"
   },
   {
     "name": "Bivolt Energy Drink",
@@ -51618,12 +51647,13 @@
     "emailVerifiedAt": "2026-10-17",
     "mxVerified": true,
     "template": "revenda",
-    "email1": false,
+    "email1": true,
     "email2": false,
     "targetProfile": "A/B",
     "email3": false,
     "emailFrozenUntil": null,
-    "emailCycleClosed": false
+    "emailCycleClosed": false,
+    "date1": "2026-11-14"
   },
   {
     "name": "Liotécnica",
