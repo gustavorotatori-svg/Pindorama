@@ -32204,13 +32204,14 @@
     "emailVerified": true,
     "emailVerifiedAt": "2026-10-13",
     "emailSource": "https://www.instagram.com/dinnerintheskybr/",
-    "email1": false,
+    "email1": true,
     "email2": false,
     "email3": false,
     "targetProfile": "A/B",
     "mxVerified": true,
     "emailFrozenUntil": null,
-    "emailCycleClosed": false
+    "emailCycleClosed": false,
+    "date1": "2026-11-14"
   },
   {
     "name": "3 Brasseurs Brasil",
@@ -32262,13 +32263,14 @@
     "emailVerified": true,
     "emailVerifiedAt": "2026-10-13",
     "emailSource": "https://www.instagram.com/ovelhaodemolicoes/",
-    "email1": false,
+    "email1": true,
     "email2": false,
     "email3": false,
     "targetProfile": "A/B",
     "mxVerified": true,
     "emailFrozenUntil": null,
-    "emailCycleClosed": false
+    "emailCycleClosed": false,
+    "date1": "2026-11-14"
   },
   {
     "name": "Vista Restaurante Ibirapuera",
@@ -32304,13 +32306,14 @@
     "emailVerified": true,
     "emailVerifiedAt": "2026-10-13",
     "emailSource": "https://www.instagram.com/macaxeirarestaurante/",
-    "email1": false,
+    "email1": true,
     "email2": false,
     "email3": false,
     "targetProfile": "A/B",
     "mxVerified": true,
     "emailFrozenUntil": null,
-    "emailCycleClosed": false
+    "emailCycleClosed": false,
+    "date1": "2026-11-14"
   },
   {
     "name": "Jiquitaia Restaurante e Bar",
@@ -32349,13 +32352,14 @@
     "emailVerified": true,
     "emailVerifiedAt": "2026-10-13",
     "emailSource": "https://www.instagram.com/lucegastronomia/",
-    "email1": false,
+    "email1": true,
     "email2": false,
     "email3": false,
     "targetProfile": "A/B",
     "mxVerified": true,
     "emailFrozenUntil": null,
-    "emailCycleClosed": false
+    "emailCycleClosed": false,
+    "date1": "2026-11-14"
   },
   {
     "name": "Quincho Cozinha & Coquetelaria",
@@ -32391,13 +32395,14 @@
     "emailVerified": true,
     "emailVerifiedAt": "2026-10-13",
     "emailSource": "https://www.instagram.com/restaurantefreddy/",
-    "email1": false,
+    "email1": true,
     "email2": false,
     "email3": false,
     "targetProfile": "A/B",
     "mxVerified": true,
     "emailFrozenUntil": null,
-    "emailCycleClosed": false
+    "emailCycleClosed": false,
+    "date1": "2026-11-14"
   },
   {
     "name": "BANANA VERDE",
@@ -32412,13 +32417,14 @@
     "emailVerified": true,
     "emailVerifiedAt": "2026-10-13",
     "emailSource": "https://www.instagram.com/restbananaverde/",
-    "email1": false,
+    "email1": true,
     "email2": false,
     "email3": false,
     "targetProfile": "A/B",
     "mxVerified": true,
     "emailFrozenUntil": null,
-    "emailCycleClosed": false
+    "emailCycleClosed": false,
+    "date1": "2026-11-14"
   },
   {
     "name": "CAPIM SANTO",
@@ -32452,13 +32458,14 @@
     "emailVerified": true,
     "emailVerifiedAt": "2026-10-13",
     "emailSource": "https://www.instagram.com/brownsugarrestaurante/",
-    "email1": false,
+    "email1": true,
     "email2": false,
     "email3": false,
     "targetProfile": "A/B",
     "mxVerified": true,
     "emailFrozenUntil": null,
-    "emailCycleClosed": false
+    "emailCycleClosed": false,
+    "date1": "2026-11-14"
   },
   {
     "name": "Le Manjue Organique",
@@ -32550,13 +32557,14 @@
     "emailVerified": true,
     "emailVerifiedAt": "2026-10-13",
     "emailSource": "https://www.instagram.com/atorteria/",
-    "email1": false,
+    "email1": true,
     "email2": false,
     "email3": false,
     "targetProfile": "A/B",
     "mxVerified": true,
     "emailFrozenUntil": null,
-    "emailCycleClosed": false
+    "emailCycleClosed": false,
+    "date1": "2026-11-14"
   },
   {
     "name": "CAKESS",
@@ -32571,13 +32579,14 @@
     "emailVerified": true,
     "emailVerifiedAt": "2026-10-13",
     "emailSource": "https://www.instagram.com/cakess_sweet_sugar/",
-    "email1": false,
+    "email1": true,
     "email2": false,
     "email3": false,
     "targetProfile": "A/B",
     "mxVerified": true,
     "emailFrozenUntil": null,
-    "emailCycleClosed": false
+    "emailCycleClosed": false,
+    "date1": "2026-11-14"
   },
   {
     "name": "LIL├â┬ôRI",
@@ -32611,13 +32620,14 @@
     "emailVerified": true,
     "emailVerifiedAt": "2026-10-13",
     "emailSource": "https://www.instagram.com/gelatoboutique/",
-    "email1": false,
+    "email1": true,
     "email2": false,
     "email3": false,
     "targetProfile": "A/B",
     "mxVerified": true,
     "emailFrozenUntil": null,
-    "emailCycleClosed": false
+    "emailCycleClosed": false,
+    "date1": "2026-11-14"
   },
   {
     "name": "Carlota Bistr├â┬┤",
@@ -32650,13 +32660,14 @@
     "emailVerified": true,
     "emailVerifiedAt": "2026-10-13",
     "emailSource": "https://www.instagram.com/tuespao/?hl=pt",
-    "email1": false,
+    "email1": true,
     "email2": false,
     "email3": false,
     "targetProfile": "A/B",
     "mxVerified": true,
     "emailFrozenUntil": null,
-    "emailCycleClosed": false
+    "emailCycleClosed": false,
+    "date1": "2026-11-14"
   },
   {
     "name": "Tiramisu Sossi",
@@ -32689,13 +32700,14 @@
     "emailVerified": true,
     "emailVerifiedAt": "2026-10-13",
     "emailSource": "https://www.instagram.com/damoocapizzashop/",
-    "email1": false,
+    "email1": true,
     "email2": false,
     "email3": false,
     "targetProfile": "A/B",
     "mxVerified": true,
     "emailFrozenUntil": null,
-    "emailCycleClosed": false
+    "emailCycleClosed": false,
+    "date1": "2026-11-14"
   },
   {
     "name": "Exquisito ! Bar",
@@ -32728,13 +32740,14 @@
     "emailVerified": true,
     "emailVerifiedAt": "2026-10-13",
     "emailSource": "https://www.instagram.com/st.chico/",
-    "email1": false,
+    "email1": true,
     "email2": false,
     "email3": false,
     "targetProfile": "A/B",
     "mxVerified": true,
     "emailFrozenUntil": null,
-    "emailCycleClosed": false
+    "emailCycleClosed": false,
+    "date1": "2026-11-14"
   },
   {
     "name": "HOSPEDARIA",
@@ -32749,13 +32762,14 @@
     "emailVerified": true,
     "emailVerifiedAt": "2026-10-13",
     "emailSource": "https://www.instagram.com/hospedariasp/",
-    "email1": false,
+    "email1": true,
     "email2": false,
     "email3": false,
     "targetProfile": "A/B",
     "mxVerified": true,
     "emailFrozenUntil": null,
-    "emailCycleClosed": false
+    "emailCycleClosed": false,
+    "date1": "2026-11-14"
   },
   {
     "name": "Red Coffee & Co",
@@ -38860,7 +38874,7 @@
     "template": "revenda",
     "phone": "(11) 4746-4505",
     "website": "https://alberg.com.br",
-    "email1": false,
+    "email1": true,
     "emailVerified": true,
     "emailSource": "https://guiapj.com.br/consulta-cnpj/18469501000187",
     "emailVerifiedAt": "2026-10-13",
@@ -38870,7 +38884,8 @@
     "targetProfile": "A/B",
     "mxVerified": true,
     "emailFrozenUntil": null,
-    "emailCycleClosed": false
+    "emailCycleClosed": false,
+    "date1": "2026-11-14"
   },
   {
     "name": "MB Distribuidora",
@@ -39492,14 +39507,15 @@
     "emailVerified": true,
     "emailVerifiedAt": "2026-10-13",
     "emailSource": "https://guiapj.com.br/consulta-cnpj",
-    "email1": false,
+    "email1": true,
     "email2": false,
     "email3": false,
     "targetProfile": "A/B",
     "template": "revenda",
     "mxVerified": true,
     "emailFrozenUntil": null,
-    "emailCycleClosed": false
+    "emailCycleClosed": false,
+    "date1": "2026-11-14"
   },
   {
     "name": "Lanchonete Bar e Temakeria Moema",
@@ -39542,14 +39558,15 @@
     "emailVerified": true,
     "emailVerifiedAt": "2026-10-13",
     "emailSource": "https://guiapj.com.br/consulta-cnpj",
-    "email1": false,
+    "email1": true,
     "email2": false,
     "email3": false,
     "targetProfile": "A/B",
     "template": "consultivo",
     "mxVerified": true,
     "emailFrozenUntil": null,
-    "emailCycleClosed": false
+    "emailCycleClosed": false,
+    "date1": "2026-11-14"
   },
   {
     "name": "Adega Brooklin",
@@ -39977,7 +39994,7 @@
     "type": "adega",
     "website": "projetoagua.com.br",
     "context": "comercio varejista de bebidas na Rua S Carlos Borromeu 158, Vila Alpina, Sao Paulo (SP), tel (11) 99480-7201, site ativo",
-    "email1": false,
+    "email1": true,
     "email2": false,
     "email3": false,
     "emailVerified": true,
@@ -39987,7 +40004,8 @@
     "template": "revenda",
     "mxVerified": true,
     "emailFrozenUntil": null,
-    "emailCycleClosed": false
+    "emailCycleClosed": false,
+    "date1": "2026-11-14"
   },
   {
     "name": "Santropa Bebidas",
@@ -56500,13 +56518,14 @@
     "emailVerifiedAt": "2026-10-21",
     "mxVerified": true,
     "template": "revenda",
-    "email1": false,
+    "email1": true,
     "context": "Adega online com entrega propria de vinhos e destilados, SP capital + GSP",
     "notes": "",
     "targetProfile": "A/B",
     "email2": false,
     "emailFrozenUntil": null,
-    "emailCycleClosed": false
+    "emailCycleClosed": false,
+    "date1": "2026-11-14"
   },
   {
     "name": "Five Distribuidora de Bebidas",
