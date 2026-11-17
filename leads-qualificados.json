@@ -978,7 +978,7 @@
     "template": "revenda",
     "phone": "(11) 2959-2659",
     "website": "https://freitasbebidas.com.br/",
-    "email1": false,
+    "email1": true,
     "email2": false,
     "email3": false,
     "emailVerified": true,
@@ -991,7 +991,8 @@
     "score": 14,
     "mxVerified": true,
     "emailFrozenUntil": null,
-    "emailCycleClosed": false
+    "emailCycleClosed": false,
+    "date1": "2026-11-17"
   },
   {
     "name": "JG Bebidas",
@@ -38155,7 +38156,7 @@
     "emailVerified": true,
     "emailSource": "https://www.diariocidade.com/sp/jundiai/guia/adega-brunholi-ltda-05323537000106/",
     "emailVerifiedAt": "2026-11-17",
-    "email1": false,
+    "email1": true,
     "email2": false,
     "email3": false,
     "targetProfile": "A/B",
@@ -38163,7 +38164,8 @@
     "template": "revenda",
     "mxVerified": true,
     "emailFrozenUntil": null,
-    "emailCycleClosed": false
+    "emailCycleClosed": false,
+    "date1": "2026-11-17"
   },
   {
     "name": "Adega Ponto Certo",
@@ -39978,7 +39980,7 @@
     "type": "distribuidora",
     "website": "aoita.com.br",
     "context": "comercio varejista de bebidas na Rua Saldanha da Gama 446, Jardim Moncoes, Santo Andre (SP), tel (11) 4109-1875",
-    "email1": false,
+    "email1": true,
     "email2": false,
     "email3": false,
     "emailVerified": true,
@@ -39989,7 +39991,8 @@
     "template": "revenda",
     "mxVerified": true,
     "emailFrozenUntil": null,
-    "emailCycleClosed": false
+    "emailCycleClosed": false,
+    "date1": "2026-11-17"
   },
   {
     "name": "Adega Iuri Lima",
@@ -40237,7 +40240,7 @@
     "type": "distribuidora",
     "website": "bebazoza.com.br",
     "context": "comercio atacadista de cerveja, chope e refrigerante, Av Roberto Pinto Sobrinho 181, Indl Mazzei, Osasco (SP), tel (11) 99240-6688",
-    "email1": false,
+    "email1": true,
     "email2": false,
     "email3": false,
     "emailVerified": true,
@@ -40248,7 +40251,8 @@
     "template": "revenda",
     "mxVerified": true,
     "emailFrozenUntil": null,
-    "emailCycleClosed": false
+    "emailCycleClosed": false,
+    "date1": "2026-11-17"
   },
   {
     "name": "Xibata Bebidas",
@@ -40581,7 +40585,7 @@
     "type": "distribuidora",
     "website": "",
     "context": "Dopi Distribuidora de Bebidas e Alimentos Ltda, comercio atacadista de bebidas, Rua Murutu 446, Jardim Silvestre, Guarulhos (SP), tel (11) 2063-1005",
-    "email1": false,
+    "email1": true,
     "email2": false,
     "email3": false,
     "emailVerified": true,
@@ -40592,7 +40596,8 @@
     "template": "revenda",
     "mxVerified": true,
     "emailFrozenUntil": null,
-    "emailCycleClosed": false
+    "emailCycleClosed": false,
+    "date1": "2026-11-17"
   },
   {
     "name": "Isalex Distribuidora de Bebidas",
@@ -41274,7 +41279,7 @@
     "type": "distribuidora",
     "website": "",
     "context": "Itu Distribuidora de Bebidas Varejo em Itu (Jardim Aeroporto), CNPJ 61.284.186/0001-42, ativa desde 12/06/2025, capital R$ 15.000. CNAE principal 4723700 (varejo de bebidas). Endereco: Avenida Senador Teotonio Vilela 71, galpao 6.",
-    "email1": false,
+    "email1": true,
     "email2": false,
     "email3": false,
     "emailVerified": true,
@@ -41285,7 +41290,8 @@
     "template": "revenda",
     "mxVerified": true,
     "emailFrozenUntil": null,
-    "emailCycleClosed": false
+    "emailCycleClosed": false,
+    "date1": "2026-11-17"
   },
   {
     "name": "Ze Bar e Comercio de Bebidas",
@@ -48900,13 +48906,14 @@
     "emailVerifiedAt": "2026-11-17",
     "mxVerified": true,
     "template": "consultivo",
-    "email1": false,
+    "email1": true,
     "email2": false,
     "targetProfile": "A/B",
     "email3": false,
     "score": 12,
     "emailFrozenUntil": null,
-    "emailCycleClosed": false
+    "emailCycleClosed": false,
+    "date1": "2026-11-17"
   },
   {
     "name": "Bombons Lalka Industrial",
@@ -48922,13 +48929,14 @@
     "emailVerifiedAt": "2026-11-17",
     "mxVerified": true,
     "template": "consultivo",
-    "email1": false,
+    "email1": true,
     "email2": false,
     "targetProfile": "A/B",
     "email3": false,
     "score": 12,
     "emailFrozenUntil": null,
-    "emailCycleClosed": false
+    "emailCycleClosed": false,
+    "date1": "2026-11-17"
   },
   {
     "name": "Bread King Indústria de Panificação (Pães, Doces e Salgados Super Congelados)",
@@ -52322,13 +52330,14 @@
     "emailVerifiedAt": "2026-11-17",
     "mxVerified": true,
     "template": "consultivo",
-    "email1": false,
+    "email1": true,
     "email2": false,
     "targetProfile": "A/B",
     "email3": false,
     "score": 15,
     "emailFrozenUntil": null,
-    "emailCycleClosed": false
+    "emailCycleClosed": false,
+    "date1": "2026-11-17"
   },
   {
     "name": "Pan Cristal",
@@ -52403,13 +52412,14 @@
     "emailVerifiedAt": "2026-11-17",
     "mxVerified": true,
     "template": "consultivo",
-    "email1": false,
+    "email1": true,
     "email2": false,
     "targetProfile": "A/B",
     "email3": false,
     "score": 15,
     "emailFrozenUntil": null,
-    "emailCycleClosed": false
+    "emailCycleClosed": false,
+    "date1": "2026-11-17"
   },
   {
     "name": "Panfácil",
@@ -52425,13 +52435,14 @@
     "emailVerifiedAt": "2026-11-17",
     "mxVerified": true,
     "template": "consultivo",
-    "email1": false,
+    "email1": true,
     "email2": false,
     "targetProfile": "A/B",
     "email3": false,
     "score": 15,
     "emailFrozenUntil": null,
-    "emailCycleClosed": false
+    "emailCycleClosed": false,
+    "date1": "2026-11-17"
   },
   {
     "name": "Fat Cat Beer",
@@ -52507,13 +52518,14 @@
     "emailVerifiedAt": "2026-11-17",
     "mxVerified": true,
     "template": "consultivo",
-    "email1": false,
+    "email1": true,
     "email2": false,
     "targetProfile": "A/B",
     "email3": false,
     "score": 15,
     "emailFrozenUntil": null,
-    "emailCycleClosed": false
+    "emailCycleClosed": false,
+    "date1": "2026-11-17"
   },
   {
     "name": "Cervejaria Bamberg",
@@ -52529,13 +52541,14 @@
     "emailVerifiedAt": "2026-11-17",
     "mxVerified": true,
     "template": "consultivo",
-    "email1": false,
+    "email1": true,
     "email2": false,
     "targetProfile": "A/B",
     "email3": false,
     "score": 15,
     "emailFrozenUntil": null,
-    "emailCycleClosed": false
+    "emailCycleClosed": false,
+    "date1": "2026-11-17"
   },
   {
     "name": "Brewto's",
@@ -52631,13 +52644,14 @@
     "emailVerifiedAt": "2026-11-17",
     "mxVerified": true,
     "template": "consultivo",
-    "email1": false,
+    "email1": true,
     "email2": false,
     "targetProfile": "A/B",
     "email3": false,
     "score": 15,
     "emailFrozenUntil": null,
-    "emailCycleClosed": false
+    "emailCycleClosed": false,
+    "date1": "2026-11-17"
   },
   {
     "name": "Mina Beer",
@@ -53735,13 +53749,14 @@
     "emailVerifiedAt": "2026-11-17",
     "mxVerified": true,
     "template": "consultivo",
-    "email1": false,
+    "email1": true,
     "targetProfile": "A/B",
     "email2": false,
     "email3": false,
     "score": 15,
     "emailFrozenUntil": null,
-    "emailCycleClosed": false
+    "emailCycleClosed": false,
+    "date1": "2026-11-17"
   },
   {
     "name": "Príncipe Alimentos",
@@ -53757,13 +53772,14 @@
     "emailVerifiedAt": "2026-11-17",
     "mxVerified": true,
     "template": "consultivo",
-    "email1": false,
+    "email1": true,
     "targetProfile": "A/B",
     "email2": false,
     "email3": false,
     "score": 15,
     "emailFrozenUntil": null,
-    "emailCycleClosed": false
+    "emailCycleClosed": false,
+    "date1": "2026-11-17"
   },
   {
     "name": "Pães & Pães",
@@ -53779,13 +53795,14 @@
     "emailVerifiedAt": "2026-11-17",
     "mxVerified": true,
     "template": "consultivo",
-    "email1": false,
+    "email1": true,
     "targetProfile": "A/B",
     "email2": false,
     "email3": false,
     "score": 15,
     "emailFrozenUntil": null,
-    "emailCycleClosed": false
+    "emailCycleClosed": false,
+    "date1": "2026-11-17"
   },
   {
     "name": "Vó Alzira",
@@ -53801,13 +53818,14 @@
     "emailVerifiedAt": "2026-11-17",
     "mxVerified": true,
     "template": "consultivo",
-    "email1": false,
+    "email1": true,
     "email2": false,
     "targetProfile": "A/B",
     "email3": false,
     "score": 15,
     "emailFrozenUntil": null,
-    "emailCycleClosed": false
+    "emailCycleClosed": false,
+    "date1": "2026-11-17"
   },
   {
     "name": "Beijo Gelado",
@@ -54332,13 +54350,14 @@
     "emailVerifiedAt": "2026-11-17",
     "mxVerified": true,
     "template": "consultivo",
-    "email1": false,
+    "email1": true,
     "email2": false,
     "targetProfile": "A/B",
     "email3": false,
     "score": 15,
     "emailFrozenUntil": null,
-    "emailCycleClosed": false
+    "emailCycleClosed": false,
+    "date1": "2026-11-17"
   },
   {
     "name": "Cervejaria Dádiva",
@@ -54354,13 +54373,14 @@
     "emailVerifiedAt": "2026-11-17",
     "mxVerified": true,
     "template": "consultivo",
-    "email1": false,
+    "email1": true,
     "email2": false,
     "targetProfile": "A/B",
     "email3": false,
     "score": 15,
     "emailFrozenUntil": null,
-    "emailCycleClosed": false
+    "emailCycleClosed": false,
+    "date1": "2026-11-17"
   },
   {
     "name": "Cervejaria 7 Grao",
