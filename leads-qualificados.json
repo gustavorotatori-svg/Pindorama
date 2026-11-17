@@ -975,7 +975,7 @@
     "type": "distribuidora",
     "address": "Av. Nova Cantareira, 330 - Tucuruvi",
     "context": "Site oficial ativo e rastreado em agosto de 2026 publica operacao de distribuidora de bebidas online em Sao Paulo, endereco na Nova Cantareira, Tucuruvi, email empresarial e categoria de destilados. Fato: vende bebidas e destilados por canal online. Inferencia comercial: perfil com potencial de recompra e inclusao de cachaca no mix.",
-    "template": "consultivo",
+    "template": "revenda",
     "phone": "(11) 2959-2659",
     "website": "https://freitasbebidas.com.br/",
     "email1": false,
@@ -983,11 +983,15 @@
     "email3": false,
     "emailVerified": true,
     "emailSource": "https://freitasbebidas.com.br/",
-    "emailVerifiedAt": "2026-10-13",
+    "emailVerifiedAt": "2026-11-17",
     "whatsappSent": true,
     "whatsappDate": "2026-10-20",
     "whatsappSource": "https://freitasbebidas.com.br/",
-    "targetProfile": "C/D"
+    "targetProfile": "A/B",
+    "score": 14,
+    "mxVerified": true,
+    "emailFrozenUntil": null,
+    "emailCycleClosed": false
   },
   {
     "name": "JG Bebidas",
@@ -32805,7 +32809,8 @@
     "email1": false,
     "email2": false,
     "email3": false,
-    "targetProfile": "C/D"
+    "targetProfile": "C/D",
+    "score": 10
   },
   {
     "name": "Palácio Tangará",
@@ -32881,7 +32886,8 @@
     "email1": false,
     "email2": false,
     "email3": false,
-    "targetProfile": "C/D"
+    "targetProfile": "C/D",
+    "score": 10
   },
   {
     "name": "Ripa Na Brasa Restaurante",
@@ -32899,7 +32905,8 @@
     "email1": false,
     "email2": false,
     "email3": false,
-    "targetProfile": "C/D"
+    "targetProfile": "C/D",
+    "score": 10
   },
   {
     "name": "Drink Me Co.",
@@ -34835,7 +34842,8 @@
     "email1": false,
     "email2": false,
     "email3": false,
-    "targetProfile": "C/D"
+    "targetProfile": "C/D",
+    "score": 10
   },
   {
     "name": "Royal Bebidas",
@@ -38146,11 +38154,16 @@
     "website": "https://www.brunholi.com.br",
     "emailVerified": true,
     "emailSource": "https://www.diariocidade.com/sp/jundiai/guia/adega-brunholi-ltda-05323537000106/",
-    "emailVerifiedAt": "2026-10-13",
+    "emailVerifiedAt": "2026-11-17",
     "email1": false,
     "email2": false,
     "email3": false,
-    "targetProfile": "C/D"
+    "targetProfile": "A/B",
+    "score": 14,
+    "template": "revenda",
+    "mxVerified": true,
+    "emailFrozenUntil": null,
+    "emailCycleClosed": false
   },
   {
     "name": "Adega Ponto Certo",
@@ -39970,8 +39983,13 @@
     "email3": false,
     "emailVerified": true,
     "emailSource": "https://guiapj.com.br/consulta-cnpj/50730826000184",
-    "emailVerifiedAt": "2026-10-13",
-    "targetProfile": "C/D"
+    "emailVerifiedAt": "2026-11-17",
+    "targetProfile": "A/B",
+    "score": 14,
+    "template": "revenda",
+    "mxVerified": true,
+    "emailFrozenUntil": null,
+    "emailCycleClosed": false
   },
   {
     "name": "Adega Iuri Lima",
@@ -40224,8 +40242,13 @@
     "email3": false,
     "emailVerified": true,
     "emailSource": "https://guiapj.com.br/consulta-cnpj/62184266000199",
-    "emailVerifiedAt": "2026-10-13",
-    "targetProfile": "C/D"
+    "emailVerifiedAt": "2026-11-17",
+    "targetProfile": "A/B",
+    "score": 14,
+    "template": "revenda",
+    "mxVerified": true,
+    "emailFrozenUntil": null,
+    "emailCycleClosed": false
   },
   {
     "name": "Xibata Bebidas",
@@ -40271,7 +40294,8 @@
     "emailVerified": true,
     "emailSource": "https://guiapj.com.br/consulta-cnpj/37973882000181",
     "emailVerifiedAt": "2026-10-13",
-    "targetProfile": "C/D"
+    "targetProfile": "C/D",
+    "score": 10
   },
   {
     "name": "Santa Adega II",
@@ -40562,8 +40586,13 @@
     "email3": false,
     "emailVerified": true,
     "emailSource": "https://maiscnpj.com.br/cnpj/15391793000194-dopi-distribuidora-de-bebidas-e-alimentos-ltda",
-    "emailVerifiedAt": "2026-10-13",
-    "targetProfile": "C/D"
+    "emailVerifiedAt": "2026-11-17",
+    "targetProfile": "A/B",
+    "score": 14,
+    "template": "revenda",
+    "mxVerified": true,
+    "emailFrozenUntil": null,
+    "emailCycleClosed": false
   },
   {
     "name": "Isalex Distribuidora de Bebidas",
@@ -41250,8 +41279,13 @@
     "email3": false,
     "emailVerified": true,
     "emailSource": "https://casadosdados.com.br/solucao/cnpj/itu-distribuidora-de-bebidas-varejo-ltda-61284186000142",
-    "emailVerifiedAt": "2026-10-13",
-    "targetProfile": "C/D"
+    "emailVerifiedAt": "2026-11-17",
+    "targetProfile": "A/B",
+    "score": 14,
+    "template": "revenda",
+    "mxVerified": true,
+    "emailFrozenUntil": null,
+    "emailCycleClosed": false
   },
   {
     "name": "Ze Bar e Comercio de Bebidas",
@@ -41591,7 +41625,8 @@
     "emailSource": "https://consultas.plus/lista-de-empresas/sao-paulo/sao-paulo/52047229000185-adega-dvn-bar-e-lounge-ltda/",
     "emailVerifiedAt": "2026-10-13",
     "invalidEmail": false,
-    "targetProfile": "C/D"
+    "targetProfile": "C/D",
+    "score": 10
   },
   {
     "name": "Adega Sao Pedro / I.R. Nunes",
@@ -48862,13 +48897,16 @@
     "context": "Indústria de alimentos com produção própria de padaria e confeitaria (CNAE 1091102), especializada em cookies, no bairro Batel.",
     "emailVerified": true,
     "emailSource": "https://cookiedoboleta.com.br/",
-    "emailVerifiedAt": "2026-10-17",
+    "emailVerifiedAt": "2026-11-17",
     "mxVerified": true,
     "template": "consultivo",
     "email1": false,
     "email2": false,
-    "targetProfile": "C/D",
-    "email3": false
+    "targetProfile": "A/B",
+    "email3": false,
+    "score": 12,
+    "emailFrozenUntil": null,
+    "emailCycleClosed": false
   },
   {
     "name": "Bombons Lalka Industrial",
@@ -48881,13 +48919,16 @@
     "context": "Indústria de balas, chocolates e bombons (linhas premium e diet/zona industrial em Belo Horizonte/MG).",
     "emailVerified": true,
     "emailSource": "https://www.lalka.com.br/",
-    "emailVerifiedAt": "2026-10-17",
+    "emailVerifiedAt": "2026-11-17",
     "mxVerified": true,
     "template": "consultivo",
     "email1": false,
     "email2": false,
-    "targetProfile": "C/D",
-    "email3": false
+    "targetProfile": "A/B",
+    "email3": false,
+    "score": 12,
+    "emailFrozenUntil": null,
+    "emailCycleClosed": false
   },
   {
     "name": "Bread King Indústria de Panificação (Pães, Doces e Salgados Super Congelados)",
@@ -48906,7 +48947,8 @@
     "email1": false,
     "email2": false,
     "targetProfile": "C/D",
-    "email3": false
+    "email3": false,
+    "score": 12
   },
   {
     "name": "Bristot Alimentos",
@@ -48966,7 +49008,8 @@
     "email1": false,
     "email2": false,
     "targetProfile": "C/D",
-    "email3": false
+    "email3": false,
+    "score": 12
   },
   {
     "name": "Cervejaria Dado Bier",
@@ -49007,7 +49050,8 @@
     "email1": false,
     "email2": false,
     "targetProfile": "C/D",
-    "email3": false
+    "email3": false,
+    "score": 12
   },
   {
     "name": "Cervejaria RT166",
@@ -49026,7 +49070,8 @@
     "email1": false,
     "email2": false,
     "targetProfile": "C/D",
-    "email3": false
+    "email3": false,
+    "score": 12
   },
   {
     "name": "Cervejaria UNIKA Ltda",
@@ -49045,7 +49090,8 @@
     "email1": false,
     "email2": false,
     "targetProfile": "C/D",
-    "email3": false
+    "email3": false,
+    "score": 12
   },
   {
     "name": "CICAJU (Grupo Cione)",
@@ -49102,7 +49148,8 @@
     "email1": false,
     "email2": false,
     "targetProfile": "C/D",
-    "email3": false
+    "email3": false,
+    "score": 12
   },
   {
     "name": "Didius Indústria de Pães e Lanches",
@@ -49121,7 +49168,8 @@
     "email1": false,
     "email2": false,
     "targetProfile": "C/D",
-    "email3": false
+    "email3": false,
+    "score": 12
   },
   {
     "name": "Dortmund Bier Cerveja e Chopp Artesanal",
@@ -49140,7 +49188,8 @@
     "email1": false,
     "email2": false,
     "targetProfile": "C/D",
-    "email3": false
+    "email3": false,
+    "score": 12
   },
   {
     "name": "Else Beer",
@@ -49159,7 +49208,8 @@
     "email1": false,
     "email2": false,
     "targetProfile": "C/D",
-    "email3": false
+    "email3": false,
+    "score": 12
   },
   {
     "name": "Flavour Mix Indústria de Sucos e Polpas",
@@ -49257,7 +49307,8 @@
     "email1": false,
     "email2": false,
     "targetProfile": "C/D",
-    "email3": false
+    "email3": false,
+    "score": 12
   },
   {
     "name": "Laciella Chocolates (Fábrica de Chocolates Artesanais)",
@@ -49371,7 +49422,8 @@
     "email1": false,
     "email2": false,
     "targetProfile": "C/D",
-    "email3": false
+    "email3": false,
+    "score": 12
   },
   {
     "name": "Oura Polpas (Ouraçaí)",
@@ -49409,7 +49461,8 @@
     "email1": false,
     "email2": false,
     "targetProfile": "C/D",
-    "email3": false
+    "email3": false,
+    "score": 12
   },
   {
     "name": "Padaria Paulista (Panificação e Confeitaria desde 1986)",
@@ -49485,7 +49538,8 @@
     "email1": false,
     "email2": false,
     "targetProfile": "C/D",
-    "email3": false
+    "email3": false,
+    "score": 12
   },
   {
     "name": "Prodooze Insumos Cervejeiros",
@@ -49526,7 +49580,8 @@
     "email1": false,
     "email2": false,
     "targetProfile": "C/D",
-    "email3": false
+    "email3": false,
+    "score": 12
   },
   {
     "name": "Sucobase",
@@ -49725,7 +49780,8 @@
     "email1": false,
     "email2": false,
     "targetProfile": "C/D",
-    "email3": false
+    "email3": false,
+    "score": 12
   },
   {
     "name": "Produtos Alimentícios Sankio",
@@ -49918,7 +49974,8 @@
     "email1": false,
     "email2": false,
     "targetProfile": "C/D",
-    "email3": false
+    "email3": false,
+    "score": 12
   },
   {
     "name": "Nineties Bier",
@@ -49937,7 +49994,8 @@
     "email1": false,
     "email2": false,
     "targetProfile": "C/D",
-    "email3": false
+    "email3": false,
+    "score": 12
   },
   {
     "name": "Festera Cervejaria",
@@ -49956,7 +50014,8 @@
     "email1": false,
     "email2": false,
     "targetProfile": "C/D",
-    "email3": false
+    "email3": false,
+    "score": 12
   },
   {
     "name": "Marés Cervejaria Artesanal",
@@ -49975,7 +50034,8 @@
     "email1": false,
     "email2": false,
     "targetProfile": "C/D",
-    "email3": false
+    "email3": false,
+    "score": 12
   },
   {
     "name": "Cervejaria Sarapó",
@@ -49994,7 +50054,8 @@
     "email1": false,
     "email2": false,
     "targetProfile": "C/D",
-    "email3": false
+    "email3": false,
+    "score": 12
   },
   {
     "name": "Cervejaria Escafandrista",
@@ -50035,7 +50096,8 @@
     "email1": false,
     "email2": false,
     "targetProfile": "C/D",
-    "email3": false
+    "email3": false,
+    "score": 12
   },
   {
     "name": "Indústria K&K Alimentos",
@@ -50209,7 +50271,8 @@
     "email1": false,
     "email2": false,
     "targetProfile": "C/D",
-    "email3": false
+    "email3": false,
+    "score": 12
   },
   {
     "name": "Puma Alimentos Congelados",
@@ -50228,7 +50291,8 @@
     "email1": false,
     "email2": false,
     "targetProfile": "C/D",
-    "email3": false
+    "email3": false,
+    "score": 12
   },
   {
     "name": "KMS Atacadista",
@@ -51664,7 +51728,8 @@
     "email1": false,
     "email2": false,
     "targetProfile": "C/D",
-    "email3": false
+    "email3": false,
+    "score": 12
   },
   {
     "name": "Pão & Companhia",
@@ -52218,7 +52283,8 @@
     "email1": false,
     "email2": false,
     "targetProfile": "C/D",
-    "email3": false
+    "email3": false,
+    "score": 12
   },
   {
     "name": "Mab Pães Congelados",
@@ -52253,13 +52319,16 @@
     "context": "Empresa familiar de pães congelados desde 2009 (congelados desde 2011) em Guarulhos/SP, com cinco tipos de fermentação e logística própria para Grande São Paulo, Rio de Janeiro e sul de Minas.",
     "emailVerified": true,
     "emailSource": "https://valochisousa.com.br/",
-    "emailVerifiedAt": "2026-10-17",
+    "emailVerifiedAt": "2026-11-17",
     "mxVerified": true,
     "template": "consultivo",
     "email1": false,
     "email2": false,
-    "targetProfile": "ZZZTEST",
-    "email3": false
+    "targetProfile": "A/B",
+    "email3": false,
+    "score": 15,
+    "emailFrozenUntil": null,
+    "emailCycleClosed": false
   },
   {
     "name": "Pan Cristal",
@@ -52278,7 +52347,8 @@
     "email1": false,
     "email2": false,
     "targetProfile": "C/D",
-    "email3": false
+    "email3": false,
+    "score": 12
   },
   {
     "name": "Trigo Arte",
@@ -52297,7 +52367,8 @@
     "email1": false,
     "email2": false,
     "targetProfile": "C/D",
-    "email3": false
+    "email3": false,
+    "score": 12
   },
   {
     "name": "Serrano Congelados",
@@ -52329,13 +52400,16 @@
     "context": "Fábrica de pães ultra congelados com matriz em São Paulo/SP e fábrica em Volta Redonda/RJ, distribuindo para SP (capital e interior), RJ e sul de Minas.",
     "emailVerified": true,
     "emailSource": "https://www.paesaofrancisco.com.br/",
-    "emailVerifiedAt": "2026-10-17",
+    "emailVerifiedAt": "2026-11-17",
     "mxVerified": true,
     "template": "consultivo",
     "email1": false,
     "email2": false,
-    "targetProfile": "C/D",
-    "email3": false
+    "targetProfile": "A/B",
+    "email3": false,
+    "score": 15,
+    "emailFrozenUntil": null,
+    "emailCycleClosed": false
   },
   {
     "name": "Panfácil",
@@ -52348,13 +52422,16 @@
     "context": "Indústria de panificação congelada com linha de pães crocantes, doces, de queijo, lanches e massas, atendendo RS, SC, RJ e ES por representantes regionais.",
     "emailVerified": true,
     "emailSource": "https://www.panfacil.com.br/",
-    "emailVerifiedAt": "2026-10-17",
+    "emailVerifiedAt": "2026-11-17",
     "mxVerified": true,
     "template": "consultivo",
     "email1": false,
     "email2": false,
-    "targetProfile": "C/D",
-    "email3": false
+    "targetProfile": "A/B",
+    "email3": false,
+    "score": 15,
+    "emailFrozenUntil": null,
+    "emailCycleClosed": false
   },
   {
     "name": "Fat Cat Beer",
@@ -52373,7 +52450,8 @@
     "email1": false,
     "email2": false,
     "targetProfile": "C/D",
-    "email3": false
+    "email3": false,
+    "score": 12
   },
   {
     "name": "Locomotive Brew",
@@ -52392,7 +52470,8 @@
     "email1": false,
     "email2": false,
     "targetProfile": "C/D",
-    "email3": false
+    "email3": false,
+    "score": 12
   },
   {
     "name": "HZB Cervejas Artesanais",
@@ -52411,7 +52490,8 @@
     "email1": false,
     "email2": false,
     "targetProfile": "C/D",
-    "email3": false
+    "email3": false,
+    "score": 12
   },
   {
     "name": "GG Cervejaria",
@@ -52424,13 +52504,16 @@
     "context": "Cervejaria que vende direto da fábrica, com atendimento ao cliente e envio próprio.",
     "emailVerified": true,
     "emailSource": "https://www.ggcervejaria.com.br/",
-    "emailVerifiedAt": "2026-10-17",
+    "emailVerifiedAt": "2026-11-17",
     "mxVerified": true,
     "template": "consultivo",
     "email1": false,
     "email2": false,
-    "targetProfile": "C/D",
-    "email3": false
+    "targetProfile": "A/B",
+    "email3": false,
+    "score": 15,
+    "emailFrozenUntil": null,
+    "emailCycleClosed": false
   },
   {
     "name": "Cervejaria Bamberg",
@@ -52443,13 +52526,16 @@
     "context": "Cervejaria artesanal com loja própria e venda direto da fábrica em São Paulo.",
     "emailVerified": true,
     "emailSource": "https://www.cervejariabamberg.com.br/",
-    "emailVerifiedAt": "2026-10-17",
+    "emailVerifiedAt": "2026-11-17",
     "mxVerified": true,
     "template": "consultivo",
     "email1": false,
     "email2": false,
-    "targetProfile": "C/D",
-    "email3": false
+    "targetProfile": "A/B",
+    "email3": false,
+    "score": 15,
+    "emailFrozenUntil": null,
+    "emailCycleClosed": false
   },
   {
     "name": "Brewto's",
@@ -52468,7 +52554,8 @@
     "email1": false,
     "email2": false,
     "targetProfile": "C/D",
-    "email3": false
+    "email3": false,
+    "score": 12
   },
   {
     "name": "Cervejaria Bierbaum",
@@ -52487,7 +52574,8 @@
     "email1": false,
     "email2": false,
     "targetProfile": "C/D",
-    "email3": false
+    "email3": false,
+    "score": 12
   },
   {
     "name": "Giffa Imperial Cervejaria",
@@ -52506,7 +52594,8 @@
     "email1": false,
     "email2": false,
     "targetProfile": "C/D",
-    "email3": false
+    "email3": false,
+    "score": 12
   },
   {
     "name": "Cervejaria Monte Crista",
@@ -52525,7 +52614,8 @@
     "email1": false,
     "email2": false,
     "targetProfile": "C/D",
-    "email3": false
+    "email3": false,
+    "score": 12
   },
   {
     "name": "Cruls Cervejaria",
@@ -52538,13 +52628,16 @@
     "context": "Cervejaria artesanal com loja online e produção própria.",
     "emailVerified": true,
     "emailSource": "https://www.crulscervejaria.com/",
-    "emailVerifiedAt": "2026-10-17",
+    "emailVerifiedAt": "2026-11-17",
     "mxVerified": true,
     "template": "consultivo",
     "email1": false,
     "email2": false,
-    "targetProfile": "C/D",
-    "email3": false
+    "targetProfile": "A/B",
+    "email3": false,
+    "score": 15,
+    "emailFrozenUntil": null,
+    "emailCycleClosed": false
   },
   {
     "name": "Mina Beer",
@@ -53006,7 +53099,8 @@
     "email1": false,
     "targetProfile": "C/D",
     "email2": false,
-    "email3": false
+    "email3": false,
+    "score": 12
   },
   {
     "name": "Costa Lavos",
@@ -53025,7 +53119,8 @@
     "email1": false,
     "targetProfile": "C/D",
     "email2": false,
-    "email3": false
+    "email3": false,
+    "score": 12
   },
   {
     "name": "Grupo Farina",
@@ -53044,7 +53139,8 @@
     "email1": false,
     "targetProfile": "C/D",
     "email2": false,
-    "email3": false
+    "email3": false,
+    "score": 12
   },
   {
     "name": "Leforth",
@@ -53063,7 +53159,8 @@
     "email1": false,
     "targetProfile": "C/D",
     "email2": false,
-    "email3": false
+    "email3": false,
+    "score": 12
   },
   {
     "name": "Selmi (Renata e Galo)",
@@ -53635,13 +53732,16 @@
     "context": "Indústria de panificação.",
     "emailVerified": true,
     "emailSource": "https://www.prodipani.com.br/",
-    "emailVerifiedAt": "2026-10-17",
+    "emailVerifiedAt": "2026-11-17",
     "mxVerified": true,
     "template": "consultivo",
     "email1": false,
-    "targetProfile": "C/D",
+    "targetProfile": "A/B",
     "email2": false,
-    "email3": false
+    "email3": false,
+    "score": 15,
+    "emailFrozenUntil": null,
+    "emailCycleClosed": false
   },
   {
     "name": "Príncipe Alimentos",
@@ -53654,13 +53754,16 @@
     "context": "Indústria de pães congelados.",
     "emailVerified": true,
     "emailSource": "https://www.paesprincipe.com.br/",
-    "emailVerifiedAt": "2026-10-17",
+    "emailVerifiedAt": "2026-11-17",
     "mxVerified": true,
     "template": "consultivo",
     "email1": false,
-    "targetProfile": "C/D",
+    "targetProfile": "A/B",
     "email2": false,
-    "email3": false
+    "email3": false,
+    "score": 15,
+    "emailFrozenUntil": null,
+    "emailCycleClosed": false
   },
   {
     "name": "Pães & Pães",
@@ -53673,13 +53776,16 @@
     "context": "Fábrica de pães em São Paulo.",
     "emailVerified": true,
     "emailSource": "https://www.pppanificadora.com.br/",
-    "emailVerifiedAt": "2026-10-17",
+    "emailVerifiedAt": "2026-11-17",
     "mxVerified": true,
     "template": "consultivo",
     "email1": false,
-    "targetProfile": "C/D",
+    "targetProfile": "A/B",
     "email2": false,
-    "email3": false
+    "email3": false,
+    "score": 15,
+    "emailFrozenUntil": null,
+    "emailCycleClosed": false
   },
   {
     "name": "Vó Alzira",
@@ -53689,16 +53795,19 @@
     "city": "São Paulo",
     "website": "https://voalzira.com/",
     "phone": "",
-    "context": "Fábrica de bolos.",
+    "context": "Vó Alzira — confeitaria_industrial em São Paulo. Fit: cachaça artesanal premium Pindorama para produção industrial e bebidas.",
     "emailVerified": true,
     "emailSource": "https://voalzira.com/",
-    "emailVerifiedAt": "2026-10-17",
+    "emailVerifiedAt": "2026-11-17",
     "mxVerified": true,
     "template": "consultivo",
     "email1": false,
     "email2": false,
-    "targetProfile": "C/D",
-    "email3": false
+    "targetProfile": "A/B",
+    "email3": false,
+    "score": 15,
+    "emailFrozenUntil": null,
+    "emailCycleClosed": false
   },
   {
     "name": "Beijo Gelado",
@@ -54005,7 +54114,8 @@
     "email1": false,
     "targetProfile": "C/D",
     "email2": false,
-    "email3": false
+    "email3": false,
+    "score": 12
   },
   {
     "name": "Biscoitos Porto Alegre",
@@ -54219,13 +54329,16 @@
     "context": "Cervejaria artesanal desde 2017, atacado e varejo",
     "emailVerified": true,
     "emailSource": "https://cervejarialossantoz.com.br",
-    "emailVerifiedAt": "2026-10-18",
+    "emailVerifiedAt": "2026-11-17",
     "mxVerified": true,
     "template": "consultivo",
     "email1": false,
     "email2": false,
-    "targetProfile": "C/D",
-    "email3": false
+    "targetProfile": "A/B",
+    "email3": false,
+    "score": 15,
+    "emailFrozenUntil": null,
+    "emailCycleClosed": false
   },
   {
     "name": "Cervejaria Dádiva",
@@ -54238,13 +54351,16 @@
     "context": "Cervejaria artesanal SP",
     "emailVerified": true,
     "emailSource": "https://cervejariadadiva.com.br",
-    "emailVerifiedAt": "2026-10-18",
+    "emailVerifiedAt": "2026-11-17",
     "mxVerified": true,
     "template": "consultivo",
     "email1": false,
     "email2": false,
-    "targetProfile": "C/D",
-    "email3": false
+    "targetProfile": "A/B",
+    "email3": false,
+    "score": 15,
+    "emailFrozenUntil": null,
+    "emailCycleClosed": false
   },
   {
     "name": "Cervejaria 7 Grao",
@@ -54320,7 +54436,8 @@
     "email1": false,
     "email2": false,
     "targetProfile": "C/D",
-    "email3": false
+    "email3": false,
+    "score": 12
   },
   {
     "name": "LeoDolci Confeitaria",
@@ -56249,7 +56366,8 @@
     "template": "consultivo",
     "email1": false,
     "email2": false,
-    "targetProfile": "C/D"
+    "targetProfile": "C/D",
+    "score": 12
   },
   {
     "name": "Guia Food Trucks",
@@ -56267,7 +56385,8 @@
     "template": "consultivo",
     "email1": false,
     "email2": false,
-    "targetProfile": "C/D"
+    "targetProfile": "C/D",
+    "score": 12
   },
   {
     "name": "Melgar Eventos",
@@ -56285,7 +56404,8 @@
     "template": "consultivo",
     "email1": false,
     "email2": false,
-    "targetProfile": "C/D"
+    "targetProfile": "C/D",
+    "score": 12
   },
   {
     "name": "Go Trucks Food e Drinks",
@@ -56324,7 +56444,8 @@
     "template": "consultivo",
     "email1": false,
     "email2": false,
-    "targetProfile": "C/D"
+    "targetProfile": "C/D",
+    "score": 12
   },
   {
     "name": "Fit Truck",
