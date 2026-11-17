@@ -33766,7 +33766,7 @@
     "emailSource": "https://www.wdgevents.com/",
     "emailVerifiedAt": "2026-11-17",
     "template": "consultivo",
-    "email1": false,
+    "email1": true,
     "status": "interested",
     "messageId1": "<7defdaf9-9c11-cf48-a938-73f3abbcebb0@gmail.com>",
     "interested": true,
@@ -33787,7 +33787,8 @@
     "targetProfile": "A/B",
     "mxVerified": true,
     "emailFrozenUntil": null,
-    "emailCycleClosed": false
+    "emailCycleClosed": false,
+    "date1": "2026-11-17"
   },
   {
     "name": "Lab Bar Eventos",
@@ -41870,12 +41871,13 @@
     "emailSource": "https://rpcatering.com.br",
     "emailVerifiedAt": "2026-11-17",
     "template": "consultivo",
-    "email1": false,
+    "email1": true,
     "email2": false,
     "email3": false,
     "targetProfile": "A/B",
     "emailFrozenUntil": null,
-    "emailCycleClosed": false
+    "emailCycleClosed": false,
+    "date1": "2026-11-17"
   },
   {
     "name": "La Fenix Buffet",
@@ -41929,12 +41931,13 @@
     "emailSource": "https://www.daterragastronomia.com.br",
     "emailVerifiedAt": "2026-11-17",
     "template": "consultivo",
-    "email1": false,
+    "email1": true,
     "email2": false,
     "email3": false,
     "targetProfile": "A/B",
     "emailFrozenUntil": null,
-    "emailCycleClosed": false
+    "emailCycleClosed": false,
+    "date1": "2026-11-17"
   },
   {
     "name": "Verrine Buffet",
@@ -48802,12 +48805,13 @@
     "emailVerifiedAt": "2026-11-17",
     "mxVerified": true,
     "template": "consultivo",
-    "email1": false,
+    "email1": true,
     "email2": false,
     "targetProfile": "A/B",
     "email3": false,
     "emailFrozenUntil": null,
-    "emailCycleClosed": false
+    "emailCycleClosed": false,
+    "date1": "2026-11-17"
   },
   {
     "name": "Tropical Sorvetes",
@@ -48937,12 +48941,13 @@
     "emailVerifiedAt": "2026-11-17",
     "mxVerified": true,
     "template": "consultivo",
-    "email1": false,
+    "email1": true,
     "email2": false,
     "targetProfile": "A/B",
     "email3": false,
     "emailFrozenUntil": null,
-    "emailCycleClosed": false
+    "emailCycleClosed": false,
+    "date1": "2026-11-17"
   },
   {
     "name": "Cervejaria Complô",
@@ -48977,12 +48982,13 @@
     "emailVerifiedAt": "2026-11-17",
     "mxVerified": true,
     "template": "consultivo",
-    "email1": false,
+    "email1": true,
     "email2": false,
     "targetProfile": "A/B",
     "email3": false,
     "emailFrozenUntil": null,
-    "emailCycleClosed": false
+    "emailCycleClosed": false,
+    "date1": "2026-11-17"
   },
   {
     "name": "Cervejaria Pontal",
@@ -49169,12 +49175,13 @@
     "emailVerifiedAt": "2026-11-17",
     "mxVerified": true,
     "template": "consultivo",
-    "email1": false,
+    "email1": true,
     "email2": false,
     "targetProfile": "A/B",
     "email3": false,
     "emailFrozenUntil": null,
-    "emailCycleClosed": false
+    "emailCycleClosed": false,
+    "date1": "2026-11-17"
   },
   {
     "name": "Frutã Indústria de Polpas de Frutas",
@@ -49573,12 +49580,13 @@
     "emailVerifiedAt": "2026-11-17",
     "mxVerified": true,
     "template": "consultivo",
-    "email1": false,
+    "email1": true,
     "email2": false,
     "targetProfile": "A/B",
     "email3": false,
     "emailFrozenUntil": null,
-    "emailCycleClosed": false
+    "emailCycleClosed": false,
+    "date1": "2026-11-17"
   },
   {
     "name": "Via Néctare (GoldX Alimentos)",
@@ -49635,12 +49643,13 @@
     "emailVerifiedAt": "2026-11-17",
     "mxVerified": true,
     "template": "consultivo",
-    "email1": false,
+    "email1": true,
     "email2": false,
     "targetProfile": "A/B",
     "email3": false,
     "emailFrozenUntil": null,
-    "emailCycleClosed": false
+    "emailCycleClosed": false,
+    "date1": "2026-11-17"
   },
   {
     "name": "Biscoitos Zagonel",
@@ -50001,12 +50010,13 @@
     "emailVerifiedAt": "2026-11-17",
     "mxVerified": true,
     "template": "consultivo",
-    "email1": false,
+    "email1": true,
     "email2": false,
     "targetProfile": "A/B",
     "email3": false,
     "emailFrozenUntil": null,
-    "emailCycleClosed": false
+    "emailCycleClosed": false,
+    "date1": "2026-11-17"
   },
   {
     "name": "Cervejaria Vitruviana (Seven Cervejaria)",
@@ -50174,12 +50184,13 @@
     "emailVerifiedAt": "2026-11-17",
     "mxVerified": true,
     "template": "consultivo",
-    "email1": false,
+    "email1": true,
     "email2": false,
     "targetProfile": "A/B",
     "email3": false,
     "emailFrozenUntil": null,
-    "emailCycleClosed": false
+    "emailCycleClosed": false,
+    "date1": "2026-11-17"
   },
   {
     "name": "BR Alimentos Congelados",
@@ -52223,12 +52234,13 @@
     "emailVerifiedAt": "2026-11-17",
     "mxVerified": true,
     "template": "consultivo",
-    "email1": false,
+    "email1": true,
     "email2": false,
     "targetProfile": "A/B",
     "email3": false,
     "emailFrozenUntil": null,
-    "emailCycleClosed": false
+    "emailCycleClosed": false,
+    "date1": "2026-11-17"
   },
   {
     "name": "Valochi Sousa",
@@ -52605,12 +52617,13 @@
     "emailVerifiedAt": "2026-11-17",
     "mxVerified": true,
     "template": "consultivo",
-    "email1": false,
+    "email1": true,
     "email2": false,
     "targetProfile": "A/B",
     "email3": false,
     "emailFrozenUntil": null,
-    "emailCycleClosed": false
+    "emailCycleClosed": false,
+    "date1": "2026-11-17"
   },
   {
     "name": "Biosense",
@@ -52664,12 +52677,13 @@
     "emailVerifiedAt": "2026-11-17",
     "mxVerified": true,
     "template": "consultivo",
-    "email1": false,
+    "email1": true,
     "email2": false,
     "targetProfile": "A/B",
     "email3": false,
     "emailFrozenUntil": null,
-    "emailCycleClosed": false
+    "emailCycleClosed": false,
+    "date1": "2026-11-17"
   },
   {
     "name": "Idayo Sorvetes",
@@ -56287,11 +56301,12 @@
     "emailVerifiedAt": "2026-11-17",
     "mxVerified": true,
     "template": "consultivo",
-    "email1": false,
+    "email1": true,
     "email2": false,
     "targetProfile": "A/B",
     "emailFrozenUntil": null,
-    "emailCycleClosed": false
+    "emailCycleClosed": false,
+    "date1": "2026-11-17"
   },
   {
     "name": "Gourmetiza Eventos",
