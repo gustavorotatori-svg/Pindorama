@@ -50161,13 +50161,14 @@
     "emailVerifiedAt": "2026-11-17",
     "mxVerified": true,
     "template": "consultivo",
-    "email1": false,
+    "email1": true,
     "email2": false,
     "targetProfile": "A/B",
     "email3": false,
     "score": 12,
     "emailFrozenUntil": null,
-    "emailCycleClosed": false
+    "emailCycleClosed": false,
+    "date1": "2026-11-17"
   },
   {
     "name": "Indústria K&K Alimentos",
@@ -50338,13 +50339,14 @@
     "emailVerifiedAt": "2026-11-17",
     "mxVerified": true,
     "template": "consultivo",
-    "email1": false,
+    "email1": true,
     "email2": false,
     "targetProfile": "A/B",
     "email3": false,
     "score": 12,
     "emailFrozenUntil": null,
-    "emailCycleClosed": false
+    "emailCycleClosed": false,
+    "date1": "2026-11-17"
   },
   {
     "name": "Puma Alimentos Congelados",
@@ -50360,13 +50362,14 @@
     "emailVerifiedAt": "2026-11-17",
     "mxVerified": true,
     "template": "consultivo",
-    "email1": false,
+    "email1": true,
     "email2": false,
     "targetProfile": "A/B",
     "email3": false,
     "score": 12,
     "emailFrozenUntil": null,
-    "emailCycleClosed": false
+    "emailCycleClosed": false,
+    "date1": "2026-11-17"
   },
   {
     "name": "KMS Atacadista",
@@ -51799,13 +51802,14 @@
     "emailVerifiedAt": "2026-11-17",
     "mxVerified": true,
     "template": "consultivo",
-    "email1": false,
+    "email1": true,
     "email2": false,
     "targetProfile": "A/B",
     "email3": false,
     "score": 12,
     "emailFrozenUntil": null,
-    "emailCycleClosed": false
+    "emailCycleClosed": false,
+    "date1": "2026-11-17"
   },
   {
     "name": "Pão & Companhia",
@@ -52356,13 +52360,14 @@
     "emailVerifiedAt": "2026-11-17",
     "mxVerified": true,
     "template": "consultivo",
-    "email1": false,
+    "email1": true,
     "email2": false,
     "targetProfile": "A/B",
     "email3": false,
     "score": 12,
     "emailFrozenUntil": null,
-    "emailCycleClosed": false
+    "emailCycleClosed": false,
+    "date1": "2026-11-17"
   },
   {
     "name": "Mab Pães Congelados",
@@ -52423,13 +52428,14 @@
     "emailVerifiedAt": "2026-11-17",
     "mxVerified": true,
     "template": "consultivo",
-    "email1": false,
+    "email1": true,
     "email2": false,
     "targetProfile": "A/B",
     "email3": false,
     "score": 12,
     "emailFrozenUntil": null,
-    "emailCycleClosed": false
+    "emailCycleClosed": false,
+    "date1": "2026-11-17"
   },
   {
     "name": "Trigo Arte",
@@ -52445,13 +52451,14 @@
     "emailVerifiedAt": "2026-11-17",
     "mxVerified": true,
     "template": "consultivo",
-    "email1": false,
+    "email1": true,
     "email2": false,
     "targetProfile": "A/B",
     "email3": false,
     "score": 12,
     "emailFrozenUntil": null,
-    "emailCycleClosed": false
+    "emailCycleClosed": false,
+    "date1": "2026-11-17"
   },
   {
     "name": "Serrano Congelados",
@@ -52532,13 +52539,14 @@
     "emailVerifiedAt": "2026-11-17",
     "mxVerified": true,
     "template": "consultivo",
-    "email1": false,
+    "email1": true,
     "email2": false,
     "targetProfile": "A/B",
     "email3": false,
     "score": 12,
     "emailFrozenUntil": null,
-    "emailCycleClosed": false
+    "emailCycleClosed": false,
+    "date1": "2026-11-17"
   },
   {
     "name": "Locomotive Brew",
@@ -52554,13 +52562,14 @@
     "emailVerifiedAt": "2026-11-17",
     "mxVerified": true,
     "template": "consultivo",
-    "email1": false,
+    "email1": true,
     "email2": false,
     "targetProfile": "A/B",
     "email3": false,
     "score": 12,
     "emailFrozenUntil": null,
-    "emailCycleClosed": false
+    "emailCycleClosed": false,
+    "date1": "2026-11-17"
   },
   {
     "name": "HZB Cervejas Artesanais",
@@ -52576,13 +52585,14 @@
     "emailVerifiedAt": "2026-11-17",
     "mxVerified": true,
     "template": "consultivo",
-    "email1": false,
+    "email1": true,
     "email2": false,
     "targetProfile": "A/B",
     "email3": false,
     "score": 12,
     "emailFrozenUntil": null,
-    "emailCycleClosed": false
+    "emailCycleClosed": false,
+    "date1": "2026-11-17"
   },
   {
     "name": "GG Cervejaria",
@@ -52644,13 +52654,14 @@
     "emailVerifiedAt": "2026-11-17",
     "mxVerified": true,
     "template": "consultivo",
-    "email1": false,
+    "email1": true,
     "email2": false,
     "targetProfile": "A/B",
     "email3": false,
     "score": 12,
     "emailFrozenUntil": null,
-    "emailCycleClosed": false
+    "emailCycleClosed": false,
+    "date1": "2026-11-17"
   },
   {
     "name": "Cervejaria Bierbaum",
@@ -52666,13 +52677,14 @@
     "emailVerifiedAt": "2026-11-17",
     "mxVerified": true,
     "template": "consultivo",
-    "email1": false,
+    "email1": true,
     "email2": false,
     "targetProfile": "A/B",
     "email3": false,
     "score": 12,
     "emailFrozenUntil": null,
-    "emailCycleClosed": false
+    "emailCycleClosed": false,
+    "date1": "2026-11-17"
   },
   {
     "name": "Giffa Imperial Cervejaria",
@@ -52688,13 +52700,14 @@
     "emailVerifiedAt": "2026-11-17",
     "mxVerified": true,
     "template": "consultivo",
-    "email1": false,
+    "email1": true,
     "email2": false,
     "targetProfile": "A/B",
     "email3": false,
     "score": 12,
     "emailFrozenUntil": null,
-    "emailCycleClosed": false
+    "emailCycleClosed": false,
+    "date1": "2026-11-17"
   },
   {
     "name": "Cervejaria Monte Crista",
@@ -52710,13 +52723,14 @@
     "emailVerifiedAt": "2026-11-17",
     "mxVerified": true,
     "template": "consultivo",
-    "email1": false,
+    "email1": true,
     "email2": false,
     "targetProfile": "A/B",
     "email3": false,
     "score": 12,
     "emailFrozenUntil": null,
-    "emailCycleClosed": false
+    "emailCycleClosed": false,
+    "date1": "2026-11-17"
   },
   {
     "name": "Cruls Cervejaria",
@@ -53198,13 +53212,14 @@
     "emailVerifiedAt": "2026-11-17",
     "mxVerified": true,
     "template": "consultivo",
-    "email1": false,
+    "email1": true,
     "targetProfile": "A/B",
     "email2": false,
     "email3": false,
     "score": 12,
     "emailFrozenUntil": null,
-    "emailCycleClosed": false
+    "emailCycleClosed": false,
+    "date1": "2026-11-17"
   },
   {
     "name": "Costa Lavos",
@@ -53220,13 +53235,14 @@
     "emailVerifiedAt": "2026-11-17",
     "mxVerified": true,
     "template": "consultivo",
-    "email1": false,
+    "email1": true,
     "targetProfile": "A/B",
     "email2": false,
     "email3": false,
     "score": 12,
     "emailFrozenUntil": null,
-    "emailCycleClosed": false
+    "emailCycleClosed": false,
+    "date1": "2026-11-17"
   },
   {
     "name": "Grupo Farina",
@@ -53242,13 +53258,14 @@
     "emailVerifiedAt": "2026-11-17",
     "mxVerified": true,
     "template": "consultivo",
-    "email1": false,
+    "email1": true,
     "targetProfile": "A/B",
     "email2": false,
     "email3": false,
     "score": 12,
     "emailFrozenUntil": null,
-    "emailCycleClosed": false
+    "emailCycleClosed": false,
+    "date1": "2026-11-17"
   },
   {
     "name": "Leforth",
@@ -53264,13 +53281,14 @@
     "emailVerifiedAt": "2026-11-17",
     "mxVerified": true,
     "template": "consultivo",
-    "email1": false,
+    "email1": true,
     "targetProfile": "A/B",
     "email2": false,
     "email3": false,
     "score": 12,
     "emailFrozenUntil": null,
-    "emailCycleClosed": false
+    "emailCycleClosed": false,
+    "date1": "2026-11-17"
   },
   {
     "name": "Selmi (Renata e Galo)",
@@ -54225,13 +54243,14 @@
     "emailVerifiedAt": "2026-11-17",
     "mxVerified": true,
     "template": "consultivo",
-    "email1": false,
+    "email1": true,
     "targetProfile": "A/B",
     "email2": false,
     "email3": false,
     "score": 12,
     "emailFrozenUntil": null,
-    "emailCycleClosed": false
+    "emailCycleClosed": false,
+    "date1": "2026-11-17"
   },
   {
     "name": "Biscoitos Porto Alegre",
@@ -54551,13 +54570,14 @@
     "emailVerifiedAt": "2026-11-17",
     "mxVerified": true,
     "template": "consultivo",
-    "email1": false,
+    "email1": true,
     "email2": false,
     "targetProfile": "A/B",
     "email3": false,
     "score": 12,
     "emailFrozenUntil": null,
-    "emailCycleClosed": false
+    "emailCycleClosed": false,
+    "date1": "2026-11-17"
   },
   {
     "name": "LeoDolci Confeitaria",
