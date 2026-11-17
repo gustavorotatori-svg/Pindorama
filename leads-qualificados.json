@@ -33764,7 +33764,7 @@
     "website": "https://www.wdgevents.com/",
     "emailVerified": true,
     "emailSource": "https://www.wdgevents.com/",
-    "emailVerifiedAt": "2026-10-13",
+    "emailVerifiedAt": "2026-11-17",
     "template": "consultivo",
     "email1": false,
     "status": "interested",
@@ -33784,7 +33784,10 @@
     "respostaFollowupDate": "2026-09-04",
     "email2": false,
     "invalidEmail": false,
-    "targetProfile": "C/D"
+    "targetProfile": "A/B",
+    "mxVerified": true,
+    "emailFrozenUntil": null,
+    "emailCycleClosed": false
   },
   {
     "name": "Lab Bar Eventos",
@@ -41865,12 +41868,14 @@
     "mxVerified": true,
     "emailVerified": true,
     "emailSource": "https://rpcatering.com.br",
-    "emailVerifiedAt": "2026-10-13",
+    "emailVerifiedAt": "2026-11-17",
     "template": "consultivo",
     "email1": false,
     "email2": false,
     "email3": false,
-    "targetProfile": "C/D"
+    "targetProfile": "A/B",
+    "emailFrozenUntil": null,
+    "emailCycleClosed": false
   },
   {
     "name": "La Fenix Buffet",
@@ -41922,12 +41927,14 @@
     "mxVerified": true,
     "emailVerified": true,
     "emailSource": "https://www.daterragastronomia.com.br",
-    "emailVerifiedAt": "2026-10-13",
+    "emailVerifiedAt": "2026-11-17",
     "template": "consultivo",
     "email1": false,
     "email2": false,
     "email3": false,
-    "targetProfile": "C/D"
+    "targetProfile": "A/B",
+    "emailFrozenUntil": null,
+    "emailCycleClosed": false
   },
   {
     "name": "Verrine Buffet",
@@ -48792,13 +48799,15 @@
     "context": "Iceteck Soluções em Congelamento e Resfriamento de Alimentos",
     "emailVerified": true,
     "emailSource": "https://iceteck.com.br/",
-    "emailVerifiedAt": "2026-10-17",
+    "emailVerifiedAt": "2026-11-17",
     "mxVerified": true,
     "template": "consultivo",
     "email1": false,
     "email2": false,
-    "targetProfile": "C/D",
-    "email3": false
+    "targetProfile": "A/B",
+    "email3": false,
+    "emailFrozenUntil": null,
+    "emailCycleClosed": false
   },
   {
     "name": "Tropical Sorvetes",
@@ -48925,13 +48934,15 @@
     "context": "Cervejaria dedicada à fabricação terceirizada de bebidas (incubadora de microcervejarias), sem marca própria; envasamento em barril, lata e garrafa.",
     "emailVerified": true,
     "emailSource": "https://www.cervejariacogumelo.com.br/",
-    "emailVerifiedAt": "2026-10-17",
+    "emailVerifiedAt": "2026-11-17",
     "mxVerified": true,
     "template": "consultivo",
     "email1": false,
     "email2": false,
-    "targetProfile": "C/D",
-    "email3": false
+    "targetProfile": "A/B",
+    "email3": false,
+    "emailFrozenUntil": null,
+    "emailCycleClosed": false
   },
   {
     "name": "Cervejaria Complô",
@@ -48963,13 +48974,15 @@
     "context": "Primeira cervejaria artesanal do Brasil, gaúcha, com três décadas de mercado, rede de food halls e microcervejaria própria",
     "emailVerified": true,
     "emailSource": "https://dadobier.com.br/",
-    "emailVerifiedAt": "2026-10-17",
+    "emailVerifiedAt": "2026-11-17",
     "mxVerified": true,
     "template": "consultivo",
     "email1": false,
     "email2": false,
-    "targetProfile": "C/D",
-    "email3": false
+    "targetProfile": "A/B",
+    "email3": false,
+    "emailFrozenUntil": null,
+    "emailCycleClosed": false
   },
   {
     "name": "Cervejaria Pontal",
@@ -49153,13 +49166,15 @@
     "context": "Indústria especializada em sucos e polpas concentrados para o segmento industrial; foco em bases para bebidas — refris, energéticos, isotônicos, chás e bebidas funcionais, mantém estoques reguladores",
     "emailVerified": true,
     "emailSource": "http://flavourmix.com.br/",
-    "emailVerifiedAt": "2026-10-17",
+    "emailVerifiedAt": "2026-11-17",
     "mxVerified": true,
     "template": "consultivo",
     "email1": false,
     "email2": false,
-    "targetProfile": "C/D",
-    "email3": false
+    "targetProfile": "A/B",
+    "email3": false,
+    "emailFrozenUntil": null,
+    "emailCycleClosed": false
   },
   {
     "name": "Frutã Indústria de Polpas de Frutas",
@@ -49555,13 +49570,15 @@
     "context": "Cervejaria artesanal com fábrica própria, atendimento fale conosco e e-mail de contato direto",
     "emailVerified": true,
     "emailSource": "https://www.texbeer.com.br/",
-    "emailVerifiedAt": "2026-10-17",
+    "emailVerifiedAt": "2026-11-17",
     "mxVerified": true,
     "template": "consultivo",
     "email1": false,
     "email2": false,
-    "targetProfile": "C/D",
-    "email3": false
+    "targetProfile": "A/B",
+    "email3": false,
+    "emailFrozenUntil": null,
+    "emailCycleClosed": false
   },
   {
     "name": "Via Néctare (GoldX Alimentos)",
@@ -49615,13 +49632,15 @@
     "context": "Compre Sucos Campo Largo, Espumantes, Chás, Água de côco e Vinhos Campo Largo direto da Fábrica — e seu polo industrial se encontra na cidade de Campo Largo/PR.",
     "emailVerified": true,
     "emailSource": "https://www.zanlorenzi.com.br/",
-    "emailVerifiedAt": "2026-10-17",
+    "emailVerifiedAt": "2026-11-17",
     "mxVerified": true,
     "template": "consultivo",
     "email1": false,
     "email2": false,
-    "targetProfile": "C/D",
-    "email3": false
+    "targetProfile": "A/B",
+    "email3": false,
+    "emailFrozenUntil": null,
+    "emailCycleClosed": false
   },
   {
     "name": "Biscoitos Zagonel",
@@ -49979,13 +49998,15 @@
     "context": "Cervejaria artesanal paulista com projetos especiais (Barrel Project) e atendimento comercial por e-mail e telefone.",
     "emailVerified": true,
     "emailSource": "https://cervejariaescafandrista.com.br/",
-    "emailVerifiedAt": "2026-10-17",
+    "emailVerifiedAt": "2026-11-17",
     "mxVerified": true,
     "template": "consultivo",
     "email1": false,
     "email2": false,
-    "targetProfile": "C/D",
-    "email3": false
+    "targetProfile": "A/B",
+    "email3": false,
+    "emailFrozenUntil": null,
+    "emailCycleClosed": false
   },
   {
     "name": "Cervejaria Vitruviana (Seven Cervejaria)",
@@ -50150,13 +50171,15 @@
     "context": "Fábrica de pães congelados com estrutura completa (forno, freezer e estufa) para o negócio do cliente, no Parque Cisper.",
     "emailVerified": true,
     "emailSource": "https://alexpaes.com.br/",
-    "emailVerifiedAt": "2026-10-17",
+    "emailVerifiedAt": "2026-11-17",
     "mxVerified": true,
     "template": "consultivo",
     "email1": false,
     "email2": false,
-    "targetProfile": "C/D",
-    "email3": false
+    "targetProfile": "A/B",
+    "email3": false,
+    "emailFrozenUntil": null,
+    "emailCycleClosed": false
   },
   {
     "name": "BR Alimentos Congelados",
@@ -52197,13 +52220,15 @@
     "context": "Fábrica de pães congelados especializada em entregas no atacado, com forno industrial, freezer e armários para os clientes.",
     "emailVerified": true,
     "emailSource": "https://www.mabpaescongelados.com.br/",
-    "emailVerifiedAt": "2026-10-17",
+    "emailVerifiedAt": "2026-11-17",
     "mxVerified": true,
     "template": "consultivo",
     "email1": false,
     "email2": false,
-    "targetProfile": "C/D",
-    "email3": false
+    "targetProfile": "A/B",
+    "email3": false,
+    "emailFrozenUntil": null,
+    "emailCycleClosed": false
   },
   {
     "name": "Valochi Sousa",
@@ -52577,13 +52602,15 @@
     "context": "Há 25 anos atua na produção e terceirização de bebidas (sucos, néctares, refrescos, bebidas mistas, águas saborizadas e refrigerantes) e no desenvolvimento de sabores, com unidades em São Paulo, Ceará e Espírito Santo.",
     "emailVerified": true,
     "emailSource": "https://www.tecnosuco.ind.br/",
-    "emailVerifiedAt": "2026-10-17",
+    "emailVerifiedAt": "2026-11-17",
     "mxVerified": true,
     "template": "consultivo",
     "email1": false,
     "email2": false,
-    "targetProfile": "C/D",
-    "email3": false
+    "targetProfile": "A/B",
+    "email3": false,
+    "emailFrozenUntil": null,
+    "emailCycleClosed": false
   },
   {
     "name": "Biosense",
@@ -52634,13 +52661,15 @@
     "context": "Unidade agroindustrial que processa sucos clarificados, polpas e concentrados de frutas tropicais, com equipe de atendimento B2B para cotações e amostras.",
     "emailVerified": true,
     "emailSource": "https://www.itaueira.com/",
-    "emailVerifiedAt": "2026-10-17",
+    "emailVerifiedAt": "2026-11-17",
     "mxVerified": true,
     "template": "consultivo",
     "email1": false,
     "email2": false,
-    "targetProfile": "C/D",
-    "email3": false
+    "targetProfile": "A/B",
+    "email3": false,
+    "emailFrozenUntil": null,
+    "emailCycleClosed": false
   },
   {
     "name": "Idayo Sorvetes",
@@ -56255,12 +56284,14 @@
     "context": "20+ parceiros, corporativo, festival, casamento",
     "emailVerified": true,
     "emailSource": "https://www.gofoodtrucks.com.br",
-    "emailVerifiedAt": "2026-10-18",
+    "emailVerifiedAt": "2026-11-17",
     "mxVerified": true,
     "template": "consultivo",
     "email1": false,
     "email2": false,
-    "targetProfile": "C/D"
+    "targetProfile": "A/B",
+    "emailFrozenUntil": null,
+    "emailCycleClosed": false
   },
   {
     "name": "Gourmetiza Eventos",
