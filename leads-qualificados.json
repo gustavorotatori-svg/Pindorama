@@ -48949,14 +48949,16 @@
     "context": "A Bread King é uma das mais modernas indústrias de panificação do Brasil — pães, doces e salgados supercongelados.",
     "emailVerified": true,
     "emailSource": "https://breadking.com.br/",
-    "emailVerifiedAt": "2026-10-17",
+    "emailVerifiedAt": "2026-11-17",
     "mxVerified": true,
     "template": "consultivo",
     "email1": false,
     "email2": false,
-    "targetProfile": "C/D",
+    "targetProfile": "A/B",
     "email3": false,
-    "score": 12
+    "score": 12,
+    "emailFrozenUntil": null,
+    "emailCycleClosed": false
   },
   {
     "name": "Bristot Alimentos",
@@ -49010,14 +49012,16 @@
     "context": "Cervejaria artesanal com fábrica própria (Rod. João Amaral Gurgel, Jambeiro/SP), tour na fábrica e unidades no Vale do Paraíba.",
     "emailVerified": true,
     "emailSource": "https://cervejariacomplo.com.br/",
-    "emailVerifiedAt": "2026-10-17",
+    "emailVerifiedAt": "2026-11-17",
     "mxVerified": true,
     "template": "consultivo",
     "email1": false,
     "email2": false,
-    "targetProfile": "C/D",
+    "targetProfile": "A/B",
     "email3": false,
-    "score": 12
+    "score": 12,
+    "emailFrozenUntil": null,
+    "emailCycleClosed": false
   },
   {
     "name": "Cervejaria Dado Bier",
@@ -49052,14 +49056,16 @@
     "context": "Cervejaria artesanal com fábrica própria em Nova Friburgo (RJ) — Av. Conselheiro Július Arp, Galpão 14",
     "emailVerified": true,
     "emailSource": "https://www.pontalcervejaria.com.br/",
-    "emailVerifiedAt": "2026-10-17",
+    "emailVerifiedAt": "2026-11-17",
     "mxVerified": true,
     "template": "consultivo",
     "email1": false,
     "email2": false,
-    "targetProfile": "C/D",
+    "targetProfile": "A/B",
     "email3": false,
-    "score": 12
+    "score": 12,
+    "emailFrozenUntil": null,
+    "emailCycleClosed": false
   },
   {
     "name": "Cervejaria RT166",
@@ -49072,14 +49078,16 @@
     "context": "Os dois criaram, juntos, o que hoje é uma das maiores cervejarias do interior de São Paulo.",
     "emailVerified": true,
     "emailSource": "https://www.rt166cervejaria.com.br/",
-    "emailVerifiedAt": "2026-10-17",
+    "emailVerifiedAt": "2026-11-17",
     "mxVerified": true,
     "template": "consultivo",
     "email1": false,
     "email2": false,
-    "targetProfile": "C/D",
+    "targetProfile": "A/B",
     "email3": false,
-    "score": 12
+    "score": 12,
+    "emailFrozenUntil": null,
+    "emailCycleClosed": false
   },
   {
     "name": "Cervejaria UNIKA Ltda",
@@ -49092,14 +49100,16 @@
     "context": "Nas belas paisagens de Rancho Queimado, que desde 2016, produzimos nossas cervejas sempre prezando a qualidade e criatividade na receita.",
     "emailVerified": true,
     "emailSource": "https://cervejariaunika.com.br/",
-    "emailVerifiedAt": "2026-10-17",
+    "emailVerifiedAt": "2026-11-17",
     "mxVerified": true,
     "template": "consultivo",
     "email1": false,
     "email2": false,
-    "targetProfile": "C/D",
+    "targetProfile": "A/B",
     "email3": false,
-    "score": 12
+    "score": 12,
+    "emailFrozenUntil": null,
+    "emailCycleClosed": false
   },
   {
     "name": "CICAJU (Grupo Cione)",
@@ -49150,14 +49160,16 @@
     "context": "Cervejaria artesanal em área rural de Brasília (DF), com loja oficial e atendimento via e-mail",
     "emailVerified": true,
     "emailSource": "https://www.lojacrulscervejaria.com.br/",
-    "emailVerifiedAt": "2026-10-17",
+    "emailVerifiedAt": "2026-11-17",
     "mxVerified": true,
     "template": "consultivo",
     "email1": false,
     "email2": false,
-    "targetProfile": "C/D",
+    "targetProfile": "A/B",
     "email3": false,
-    "score": 12
+    "score": 12,
+    "emailFrozenUntil": null,
+    "emailCycleClosed": false
   },
   {
     "name": "Didius Indústria de Pães e Lanches",
@@ -49170,14 +49182,16 @@
     "context": "Indústria de pães e lanches desde 1991, produção própria e atendimento comercial via vendas@.",
     "emailVerified": true,
     "emailSource": "http://www.didius.com.br/",
-    "emailVerifiedAt": "2026-10-17",
+    "emailVerifiedAt": "2026-11-17",
     "mxVerified": true,
     "template": "consultivo",
     "email1": false,
     "email2": false,
-    "targetProfile": "C/D",
+    "targetProfile": "A/B",
     "email3": false,
-    "score": 12
+    "score": 12,
+    "emailFrozenUntil": null,
+    "emailCycleClosed": false
   },
   {
     "name": "Dortmund Bier Cerveja e Chopp Artesanal",
@@ -49190,14 +49204,16 @@
     "context": "Cervejaria e chopp artesanal em Serra Negra (SP) — Rod. SP 360 Km 144,7",
     "emailVerified": true,
     "emailSource": "https://www.dortmund.com.br/",
-    "emailVerifiedAt": "2026-10-17",
+    "emailVerifiedAt": "2026-11-17",
     "mxVerified": true,
     "template": "consultivo",
     "email1": false,
     "email2": false,
-    "targetProfile": "C/D",
+    "targetProfile": "A/B",
     "email3": false,
-    "score": 12
+    "score": 12,
+    "emailFrozenUntil": null,
+    "emailCycleClosed": false
   },
   {
     "name": "Else Beer",
@@ -49210,14 +49226,16 @@
     "context": "Cervejaria com fábrica própria em Viana/ES; contato comercial via email industrial@.",
     "emailVerified": true,
     "emailSource": "http://cervejariaelse.com.br/",
-    "emailVerifiedAt": "2026-10-17",
+    "emailVerifiedAt": "2026-11-17",
     "mxVerified": true,
     "template": "consultivo",
     "email1": false,
     "email2": false,
-    "targetProfile": "C/D",
+    "targetProfile": "A/B",
     "email3": false,
-    "score": 12
+    "score": 12,
+    "emailFrozenUntil": null,
+    "emailCycleClosed": false
   },
   {
     "name": "Flavour Mix Indústria de Sucos e Polpas",
@@ -49309,14 +49327,16 @@
     "context": "Cervejaria 100% brasileira com tradição alemã, fabricação de chopes e cervejas artesanais desde 2009, rede de franquias Chopp Kremer Express.",
     "emailVerified": true,
     "emailSource": "https://www.choppkremer.com.br/",
-    "emailVerifiedAt": "2026-10-17",
+    "emailVerifiedAt": "2026-11-17",
     "mxVerified": true,
     "template": "consultivo",
     "email1": false,
     "email2": false,
-    "targetProfile": "C/D",
+    "targetProfile": "A/B",
     "email3": false,
-    "score": 12
+    "score": 12,
+    "emailFrozenUntil": null,
+    "emailCycleClosed": false
   },
   {
     "name": "Laciella Chocolates (Fábrica de Chocolates Artesanais)",
@@ -49424,14 +49444,16 @@
     "context": "Aproveite para comprar as cervejas Olímpia diretamente da fábrica com preços exclusivos! (Olimpiabier Microcervejaria Ltda, Rua Conselheiro Antônio Prado, nº33 - Olímpia/SP)",
     "emailVerified": true,
     "emailSource": "https://olimpiacervejaria.com.br/",
-    "emailVerifiedAt": "2026-10-17",
+    "emailVerifiedAt": "2026-11-17",
     "mxVerified": true,
     "template": "consultivo",
     "email1": false,
     "email2": false,
-    "targetProfile": "C/D",
+    "targetProfile": "A/B",
     "email3": false,
-    "score": 12
+    "score": 12,
+    "emailFrozenUntil": null,
+    "emailCycleClosed": false
   },
   {
     "name": "Oura Polpas (Ouraçaí)",
@@ -49463,14 +49485,16 @@
     "context": "Empresa com ~250 funcionários; filial é indústria de pães e salgados congelados com distribuição para supermercados e empresas.",
     "emailVerified": true,
     "emailSource": "https://padariabrasil.com.br/",
-    "emailVerifiedAt": "2026-10-17",
+    "emailVerifiedAt": "2026-11-17",
     "mxVerified": true,
     "template": "consultivo",
     "email1": false,
     "email2": false,
-    "targetProfile": "C/D",
+    "targetProfile": "A/B",
     "email3": false,
-    "score": 12
+    "score": 12,
+    "emailFrozenUntil": null,
+    "emailCycleClosed": false
   },
   {
     "name": "Padaria Paulista (Panificação e Confeitaria desde 1986)",
@@ -49540,14 +49564,16 @@
     "context": "Indústria de polpas de fruta desde 1996, com 20 frutas no portfólio e sede no Distrito Industrial de Aracaju.",
     "emailVerified": true,
     "emailSource": "https://pomardobrasil.com.br/",
-    "emailVerifiedAt": "2026-10-17",
+    "emailVerifiedAt": "2026-11-17",
     "mxVerified": true,
     "template": "consultivo",
     "email1": false,
     "email2": false,
-    "targetProfile": "C/D",
+    "targetProfile": "A/B",
     "email3": false,
-    "score": 12
+    "score": 12,
+    "emailFrozenUntil": null,
+    "emailCycleClosed": false
   },
   {
     "name": "Prodooze Insumos Cervejeiros",
@@ -49582,14 +49608,16 @@
     "context": "Cervejaria artesanal caiçara com fábrica própria no coração de Praia Grande (SP)",
     "emailVerified": true,
     "emailSource": "https://rockybrewing.com/",
-    "emailVerifiedAt": "2026-10-17",
+    "emailVerifiedAt": "2026-11-17",
     "mxVerified": true,
     "template": "consultivo",
     "email1": false,
     "email2": false,
-    "targetProfile": "C/D",
+    "targetProfile": "A/B",
     "email3": false,
-    "score": 12
+    "score": 12,
+    "emailFrozenUntil": null,
+    "emailCycleClosed": false
   },
   {
     "name": "Sucobase",
@@ -49782,14 +49810,16 @@
     "context": "Indústria de panificação em Ceilândia/DF, com atendimento por especialistas e produção própria de pães.",
     "emailVerified": true,
     "emailSource": "https://industriacontrigo.com.br/",
-    "emailVerifiedAt": "2026-10-17",
+    "emailVerifiedAt": "2026-11-17",
     "mxVerified": true,
     "template": "consultivo",
     "email1": false,
     "email2": false,
-    "targetProfile": "C/D",
+    "targetProfile": "A/B",
     "email3": false,
-    "score": 12
+    "score": 12,
+    "emailFrozenUntil": null,
+    "emailCycleClosed": false
   },
   {
     "name": "Produtos Alimentícios Sankio",
@@ -49976,14 +50006,16 @@
     "context": "Nanocervejaria artesanal do interior de São Paulo com foco em cervejas não pasteurizadas e não filtradas, no bairro Figueira Branca.",
     "emailVerified": true,
     "emailSource": "https://www.cervejariaprisma.com.br/",
-    "emailVerifiedAt": "2026-10-17",
+    "emailVerifiedAt": "2026-11-17",
     "mxVerified": true,
     "template": "consultivo",
     "email1": false,
     "email2": false,
-    "targetProfile": "C/D",
+    "targetProfile": "A/B",
     "email3": false,
-    "score": 12
+    "score": 12,
+    "emailFrozenUntil": null,
+    "emailCycleClosed": false
   },
   {
     "name": "Nineties Bier",
@@ -49996,14 +50028,16 @@
     "context": "Primeira e única fábrica de cerveja artesanal da região de Vinhedo e Valinhos, em operação desde maio de 2018.",
     "emailVerified": true,
     "emailSource": "https://ninetiesbier.com.br/",
-    "emailVerifiedAt": "2026-10-17",
+    "emailVerifiedAt": "2026-11-17",
     "mxVerified": true,
     "template": "consultivo",
     "email1": false,
     "email2": false,
-    "targetProfile": "C/D",
+    "targetProfile": "A/B",
     "email3": false,
-    "score": 12
+    "score": 12,
+    "emailFrozenUntil": null,
+    "emailCycleClosed": false
   },
   {
     "name": "Festera Cervejaria",
@@ -50016,14 +50050,16 @@
     "context": "Primeira cervejaria artesanal de Ubiratã/PR (fundada em 2021), com linha própria de chopp e produções terceirizadas para cervejarias ciganas.",
     "emailVerified": true,
     "emailSource": "https://www.cervejariafestera.com.br/",
-    "emailVerifiedAt": "2026-10-17",
+    "emailVerifiedAt": "2026-11-17",
     "mxVerified": true,
     "template": "consultivo",
     "email1": false,
     "email2": false,
-    "targetProfile": "C/D",
+    "targetProfile": "A/B",
     "email3": false,
-    "score": 12
+    "score": 12,
+    "emailFrozenUntil": null,
+    "emailCycleClosed": false
   },
   {
     "name": "Marés Cervejaria Artesanal",
@@ -50036,14 +50072,16 @@
     "context": "Cervejaria artesanal com produção própria em Americana/SP e atendimento comercial por telefone e WhatsApp.",
     "emailVerified": true,
     "emailSource": "https://www.cervejariamares.com.br/",
-    "emailVerifiedAt": "2026-10-17",
+    "emailVerifiedAt": "2026-11-17",
     "mxVerified": true,
     "template": "consultivo",
     "email1": false,
     "email2": false,
-    "targetProfile": "C/D",
+    "targetProfile": "A/B",
     "email3": false,
-    "score": 12
+    "score": 12,
+    "emailFrozenUntil": null,
+    "emailCycleClosed": false
   },
   {
     "name": "Cervejaria Sarapó",
@@ -50056,14 +50094,16 @@
     "context": "Microcervejaria familiar à margem do rio Negro, com maltes e lúpulos importados e cervejas vivas, não pasteurizadas e sem aditivos.",
     "emailVerified": true,
     "emailSource": "https://www.cervejariasarapo.com/",
-    "emailVerifiedAt": "2026-10-17",
+    "emailVerifiedAt": "2026-11-17",
     "mxVerified": true,
     "template": "consultivo",
     "email1": false,
     "email2": false,
-    "targetProfile": "C/D",
+    "targetProfile": "A/B",
     "email3": false,
-    "score": 12
+    "score": 12,
+    "emailFrozenUntil": null,
+    "emailCycleClosed": false
   },
   {
     "name": "Cervejaria Escafandrista",
