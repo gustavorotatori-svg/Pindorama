@@ -50158,14 +50158,16 @@
     "context": "Cervejaria artesanal de Ibaté/SP com loja online e linha própria de rótulos e estilos variados.",
     "emailVerified": true,
     "emailSource": "https://www.cervejariavitruviana.com.br/",
-    "emailVerifiedAt": "2026-10-17",
+    "emailVerifiedAt": "2026-11-17",
     "mxVerified": true,
     "template": "consultivo",
     "email1": false,
     "email2": false,
-    "targetProfile": "C/D",
+    "targetProfile": "A/B",
     "email3": false,
-    "score": 12
+    "score": 12,
+    "emailFrozenUntil": null,
+    "emailCycleClosed": false
   },
   {
     "name": "Indústria K&K Alimentos",
@@ -50333,14 +50335,16 @@
     "context": "Indústria de panificação de pães congelados em operação desde 2014, com foco em praticidade e qualidade para o food service.",
     "emailVerified": true,
     "emailSource": "https://bralimentos.com.br/",
-    "emailVerifiedAt": "2026-10-17",
+    "emailVerifiedAt": "2026-11-17",
     "mxVerified": true,
     "template": "consultivo",
     "email1": false,
     "email2": false,
-    "targetProfile": "C/D",
+    "targetProfile": "A/B",
     "email3": false,
-    "score": 12
+    "score": 12,
+    "emailFrozenUntil": null,
+    "emailCycleClosed": false
   },
   {
     "name": "Puma Alimentos Congelados",
@@ -50353,14 +50357,16 @@
     "context": "Indústria de congelados com linha diversificada de pães, salgados, chipa e pães de queijo, com sistema de entrega rápida.",
     "emailVerified": true,
     "emailSource": "https://pumaalimentos.com.br/",
-    "emailVerifiedAt": "2026-10-17",
+    "emailVerifiedAt": "2026-11-17",
     "mxVerified": true,
     "template": "consultivo",
     "email1": false,
     "email2": false,
-    "targetProfile": "C/D",
+    "targetProfile": "A/B",
     "email3": false,
-    "score": 12
+    "score": 12,
+    "emailFrozenUntil": null,
+    "emailCycleClosed": false
   },
   {
     "name": "KMS Atacadista",
@@ -51790,14 +51796,16 @@
     "context": "Fabricante de pães congelados para hambúrgueres com as instalações de panificação mais modernas da América do Sul, atendendo Norte e Nordeste.",
     "emailVerified": true,
     "emailSource": "https://www.puropao.com.br/",
-    "emailVerifiedAt": "2026-10-17",
+    "emailVerifiedAt": "2026-11-17",
     "mxVerified": true,
     "template": "consultivo",
     "email1": false,
     "email2": false,
-    "targetProfile": "C/D",
+    "targetProfile": "A/B",
     "email3": false,
-    "score": 12
+    "score": 12,
+    "emailFrozenUntil": null,
+    "emailCycleClosed": false
   },
   {
     "name": "Pão & Companhia",
@@ -52345,14 +52353,16 @@
     "context": "Indústria de panificação congelados desde 2008 em Marialva/PR, com 8.000 m² de área (2.000 m² de indústria), frota própria climatizada e cardápio que inclui pão francês, coxinhas, empadas, mini pizzas e salgadinhos.",
     "emailVerified": true,
     "emailSource": "https://supermassas.com/",
-    "emailVerifiedAt": "2026-10-17",
+    "emailVerifiedAt": "2026-11-17",
     "mxVerified": true,
     "template": "consultivo",
     "email1": false,
     "email2": false,
-    "targetProfile": "C/D",
+    "targetProfile": "A/B",
     "email3": false,
-    "score": 12
+    "score": 12,
+    "emailFrozenUntil": null,
+    "emailCycleClosed": false
   },
   {
     "name": "Mab Pães Congelados",
@@ -52410,14 +52420,16 @@
     "context": "Indústria em Surubim/PE com mix de mais de 250 itens congelados (massas para pães, bolos e pizzas, doces e salgados), distribuindo com frota própria para PE, PB, AL, RN, SE e partes de PI, BA e CE.",
     "emailVerified": true,
     "emailSource": "https://pancristal.com.br/",
-    "emailVerifiedAt": "2026-10-17",
+    "emailVerifiedAt": "2026-11-17",
     "mxVerified": true,
     "template": "consultivo",
     "email1": false,
     "email2": false,
-    "targetProfile": "C/D",
+    "targetProfile": "A/B",
     "email3": false,
-    "score": 12
+    "score": 12,
+    "emailFrozenUntil": null,
+    "emailCycleClosed": false
   },
   {
     "name": "Trigo Arte",
@@ -52430,14 +52442,16 @@
     "context": "Pioneira na panificação congelada desde 1998 em Santa Luzia/MG, com catálogo de pães congelados e massas para bolos.",
     "emailVerified": true,
     "emailSource": "https://www.trigoarteecia.com.br/",
-    "emailVerifiedAt": "2026-10-17",
+    "emailVerifiedAt": "2026-11-17",
     "mxVerified": true,
     "template": "consultivo",
     "email1": false,
     "email2": false,
-    "targetProfile": "C/D",
+    "targetProfile": "A/B",
     "email3": false,
-    "score": 12
+    "score": 12,
+    "emailFrozenUntil": null,
+    "emailCycleClosed": false
   },
   {
     "name": "Serrano Congelados",
@@ -52515,14 +52529,16 @@
     "context": "Cervejaria artesanal (Cervejaria Charlesbier Ltda) na zona rural de Cássia dos Coqueiros/SP, com visita técnica e entrega para todo o Brasil.",
     "emailVerified": true,
     "emailSource": "https://fatcatbeer.com.br/",
-    "emailVerifiedAt": "2026-10-17",
+    "emailVerifiedAt": "2026-11-17",
     "mxVerified": true,
     "template": "consultivo",
     "email1": false,
     "email2": false,
-    "targetProfile": "C/D",
+    "targetProfile": "A/B",
     "email3": false,
-    "score": 12
+    "score": 12,
+    "emailFrozenUntil": null,
+    "emailCycleClosed": false
   },
   {
     "name": "Locomotive Brew",
@@ -52535,14 +52551,16 @@
     "context": "Cervejaria artesanal em Rio Negrinho/SC focada em cervejas bem lupuladas, com delivery.",
     "emailVerified": true,
     "emailSource": "https://www.locomotivebrew.com.br/",
-    "emailVerifiedAt": "2026-10-17",
+    "emailVerifiedAt": "2026-11-17",
     "mxVerified": true,
     "template": "consultivo",
     "email1": false,
     "email2": false,
-    "targetProfile": "C/D",
+    "targetProfile": "A/B",
     "email3": false,
-    "score": 12
+    "score": 12,
+    "emailFrozenUntil": null,
+    "emailCycleClosed": false
   },
   {
     "name": "HZB Cervejas Artesanais",
@@ -52555,14 +52573,16 @@
     "context": "Cervejaria artesanal em São Pedro/SP com produção própria.",
     "emailVerified": true,
     "emailSource": "https://hzb.com.br/",
-    "emailVerifiedAt": "2026-10-17",
+    "emailVerifiedAt": "2026-11-17",
     "mxVerified": true,
     "template": "consultivo",
     "email1": false,
     "email2": false,
-    "targetProfile": "C/D",
+    "targetProfile": "A/B",
     "email3": false,
-    "score": 12
+    "score": 12,
+    "emailFrozenUntil": null,
+    "emailCycleClosed": false
   },
   {
     "name": "GG Cervejaria",
@@ -52621,14 +52641,16 @@
     "context": "Fábrica de cerveja artesanal própria e independente em Vargem Grande Paulista/SP.",
     "emailVerified": true,
     "emailSource": "https://www.brewtos.com.br/",
-    "emailVerifiedAt": "2026-10-17",
+    "emailVerifiedAt": "2026-11-17",
     "mxVerified": true,
     "template": "consultivo",
     "email1": false,
     "email2": false,
-    "targetProfile": "C/D",
+    "targetProfile": "A/B",
     "email3": false,
-    "score": 12
+    "score": 12,
+    "emailFrozenUntil": null,
+    "emailCycleClosed": false
   },
   {
     "name": "Cervejaria Bierbaum",
@@ -52641,14 +52663,16 @@
     "context": "Cervejaria artesanal de estilo alemão em Treze Tílias/SC, com venda online e loja na fábrica.",
     "emailVerified": true,
     "emailSource": "https://www.bierbaum.com.br/",
-    "emailVerifiedAt": "2026-10-17",
+    "emailVerifiedAt": "2026-11-17",
     "mxVerified": true,
     "template": "consultivo",
     "email1": false,
     "email2": false,
-    "targetProfile": "C/D",
+    "targetProfile": "A/B",
     "email3": false,
-    "score": 12
+    "score": 12,
+    "emailFrozenUntil": null,
+    "emailCycleClosed": false
   },
   {
     "name": "Giffa Imperial Cervejaria",
@@ -52661,14 +52685,16 @@
     "context": "Cervejaria artesanal de Jundiaí/SP desde 2015, com produção própria e bar/loja com vista para a fábrica, mais de 8 estilos de chope e growlers.",
     "emailVerified": true,
     "emailSource": "https://giffa.com.br/",
-    "emailVerifiedAt": "2026-10-17",
+    "emailVerifiedAt": "2026-11-17",
     "mxVerified": true,
     "template": "consultivo",
     "email1": false,
     "email2": false,
-    "targetProfile": "C/D",
+    "targetProfile": "A/B",
     "email3": false,
-    "score": 12
+    "score": 12,
+    "emailFrozenUntil": null,
+    "emailCycleClosed": false
   },
   {
     "name": "Cervejaria Monte Crista",
@@ -52681,14 +52707,16 @@
     "context": "Cervejaria artesanal em Garuva/SC, com fabricação puro malte sem conservantes e água de nascentes do Monte Crista.",
     "emailVerified": true,
     "emailSource": "http://www.cervejariamontecrista.com.br/",
-    "emailVerifiedAt": "2026-10-17",
+    "emailVerifiedAt": "2026-11-17",
     "mxVerified": true,
     "template": "consultivo",
     "email1": false,
     "email2": false,
-    "targetProfile": "C/D",
+    "targetProfile": "A/B",
     "email3": false,
-    "score": 12
+    "score": 12,
+    "emailFrozenUntil": null,
+    "emailCycleClosed": false
   },
   {
     "name": "Cruls Cervejaria",
@@ -53167,14 +53195,16 @@
     "context": "Maior indústria de panificação do Brasil: oito fábricas e cerca de 16-17 milhões de pães por dia, frota de 600 caminhões refrigerados, atuando em SP, RS, PR, MG e MS.",
     "emailVerified": true,
     "emailSource": "https://www.marquespan.com.br/",
-    "emailVerifiedAt": "2026-10-17",
+    "emailVerifiedAt": "2026-11-17",
     "mxVerified": true,
     "template": "consultivo",
     "email1": false,
-    "targetProfile": "C/D",
+    "targetProfile": "A/B",
     "email2": false,
     "email3": false,
-    "score": 12
+    "score": 12,
+    "emailFrozenUntil": null,
+    "emailCycleClosed": false
   },
   {
     "name": "Costa Lavos",
@@ -53187,14 +53217,16 @@
     "context": "Fábrica de pão francês congelado em Caieiras/SP, com canal comercial para novas parcerias, proposta e cadastro de cliente.",
     "emailVerified": true,
     "emailSource": "https://www.costalavos.com.br/",
-    "emailVerifiedAt": "2026-10-17",
+    "emailVerifiedAt": "2026-11-17",
     "mxVerified": true,
     "template": "consultivo",
     "email1": false,
-    "targetProfile": "C/D",
+    "targetProfile": "A/B",
     "email2": false,
     "email3": false,
-    "score": 12
+    "score": 12,
+    "emailFrozenUntil": null,
+    "emailCycleClosed": false
   },
   {
     "name": "Grupo Farina",
@@ -53207,14 +53239,16 @@
     "context": "Grupo de panificação com as marcas Pita Bread, Reali Pães e Cabocla Mineira, com plantas em Atibaia/SP (8.000 m²) e Jarinu/SP.",
     "emailVerified": true,
     "emailSource": "https://www.grupofarina.com.br/",
-    "emailVerifiedAt": "2026-10-17",
+    "emailVerifiedAt": "2026-11-17",
     "mxVerified": true,
     "template": "consultivo",
     "email1": false,
-    "targetProfile": "C/D",
+    "targetProfile": "A/B",
     "email2": false,
     "email3": false,
-    "score": 12
+    "score": 12,
+    "emailFrozenUntil": null,
+    "emailCycleClosed": false
   },
   {
     "name": "Leforth",
@@ -53227,14 +53261,16 @@
     "context": "Indústria de pães e bolos constituída em 1986 no ABCD paulista, com atuação em atacado, institucional e varejo.",
     "emailVerified": true,
     "emailSource": "https://leforth.com.br/",
-    "emailVerifiedAt": "2026-10-17",
+    "emailVerifiedAt": "2026-11-17",
     "mxVerified": true,
     "template": "consultivo",
     "email1": false,
-    "targetProfile": "C/D",
+    "targetProfile": "A/B",
     "email2": false,
     "email3": false,
-    "score": 12
+    "score": 12,
+    "emailFrozenUntil": null,
+    "emailCycleClosed": false
   },
   {
     "name": "Selmi (Renata e Galo)",
@@ -54186,14 +54222,16 @@
     "context": "Indústria de panificação com fábrica em Gravataí/RS (pães, salgados e doces), fabricação e venda em escala industrial.",
     "emailVerified": true,
     "emailSource": "https://hiperpan.com.br/",
-    "emailVerifiedAt": "2026-10-17",
+    "emailVerifiedAt": "2026-11-17",
     "mxVerified": true,
     "template": "consultivo",
     "email1": false,
-    "targetProfile": "C/D",
+    "targetProfile": "A/B",
     "email2": false,
     "email3": false,
-    "score": 12
+    "score": 12,
+    "emailFrozenUntil": null,
+    "emailCycleClosed": false
   },
   {
     "name": "Biscoitos Porto Alegre",
@@ -54510,14 +54548,16 @@
     "context": "Cervejaria clássica Louveira/SP",
     "emailVerified": true,
     "emailSource": "https://www.cervejariahebling.com.br",
-    "emailVerifiedAt": "2026-10-18",
+    "emailVerifiedAt": "2026-11-17",
     "mxVerified": true,
     "template": "consultivo",
     "email1": false,
     "email2": false,
-    "targetProfile": "C/D",
+    "targetProfile": "A/B",
     "email3": false,
-    "score": 12
+    "score": 12,
+    "emailFrozenUntil": null,
+    "emailCycleClosed": false
   },
   {
     "name": "LeoDolci Confeitaria",
