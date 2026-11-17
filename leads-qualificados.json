@@ -48952,13 +48952,14 @@
     "emailVerifiedAt": "2026-11-17",
     "mxVerified": true,
     "template": "consultivo",
-    "email1": false,
+    "email1": true,
     "email2": false,
     "targetProfile": "A/B",
     "email3": false,
     "score": 12,
     "emailFrozenUntil": null,
-    "emailCycleClosed": false
+    "emailCycleClosed": false,
+    "date1": "2026-11-17"
   },
   {
     "name": "Bristot Alimentos",
@@ -49015,13 +49016,14 @@
     "emailVerifiedAt": "2026-11-17",
     "mxVerified": true,
     "template": "consultivo",
-    "email1": false,
+    "email1": true,
     "email2": false,
     "targetProfile": "A/B",
     "email3": false,
     "score": 12,
     "emailFrozenUntil": null,
-    "emailCycleClosed": false
+    "emailCycleClosed": false,
+    "date1": "2026-11-17"
   },
   {
     "name": "Cervejaria Dado Bier",
@@ -49059,13 +49061,14 @@
     "emailVerifiedAt": "2026-11-17",
     "mxVerified": true,
     "template": "consultivo",
-    "email1": false,
+    "email1": true,
     "email2": false,
     "targetProfile": "A/B",
     "email3": false,
     "score": 12,
     "emailFrozenUntil": null,
-    "emailCycleClosed": false
+    "emailCycleClosed": false,
+    "date1": "2026-11-17"
   },
   {
     "name": "Cervejaria RT166",
@@ -49081,13 +49084,14 @@
     "emailVerifiedAt": "2026-11-17",
     "mxVerified": true,
     "template": "consultivo",
-    "email1": false,
+    "email1": true,
     "email2": false,
     "targetProfile": "A/B",
     "email3": false,
     "score": 12,
     "emailFrozenUntil": null,
-    "emailCycleClosed": false
+    "emailCycleClosed": false,
+    "date1": "2026-11-17"
   },
   {
     "name": "Cervejaria UNIKA Ltda",
@@ -49103,13 +49107,14 @@
     "emailVerifiedAt": "2026-11-17",
     "mxVerified": true,
     "template": "consultivo",
-    "email1": false,
+    "email1": true,
     "email2": false,
     "targetProfile": "A/B",
     "email3": false,
     "score": 12,
     "emailFrozenUntil": null,
-    "emailCycleClosed": false
+    "emailCycleClosed": false,
+    "date1": "2026-11-17"
   },
   {
     "name": "CICAJU (Grupo Cione)",
@@ -49163,13 +49168,14 @@
     "emailVerifiedAt": "2026-11-17",
     "mxVerified": true,
     "template": "consultivo",
-    "email1": false,
+    "email1": true,
     "email2": false,
     "targetProfile": "A/B",
     "email3": false,
     "score": 12,
     "emailFrozenUntil": null,
-    "emailCycleClosed": false
+    "emailCycleClosed": false,
+    "date1": "2026-11-17"
   },
   {
     "name": "Didius Indústria de Pães e Lanches",
@@ -49185,13 +49191,14 @@
     "emailVerifiedAt": "2026-11-17",
     "mxVerified": true,
     "template": "consultivo",
-    "email1": false,
+    "email1": true,
     "email2": false,
     "targetProfile": "A/B",
     "email3": false,
     "score": 12,
     "emailFrozenUntil": null,
-    "emailCycleClosed": false
+    "emailCycleClosed": false,
+    "date1": "2026-11-17"
   },
   {
     "name": "Dortmund Bier Cerveja e Chopp Artesanal",
@@ -49207,13 +49214,14 @@
     "emailVerifiedAt": "2026-11-17",
     "mxVerified": true,
     "template": "consultivo",
-    "email1": false,
+    "email1": true,
     "email2": false,
     "targetProfile": "A/B",
     "email3": false,
     "score": 12,
     "emailFrozenUntil": null,
-    "emailCycleClosed": false
+    "emailCycleClosed": false,
+    "date1": "2026-11-17"
   },
   {
     "name": "Else Beer",
@@ -49229,13 +49237,14 @@
     "emailVerifiedAt": "2026-11-17",
     "mxVerified": true,
     "template": "consultivo",
-    "email1": false,
+    "email1": true,
     "email2": false,
     "targetProfile": "A/B",
     "email3": false,
     "score": 12,
     "emailFrozenUntil": null,
-    "emailCycleClosed": false
+    "emailCycleClosed": false,
+    "date1": "2026-11-17"
   },
   {
     "name": "Flavour Mix Indústria de Sucos e Polpas",
@@ -49330,13 +49339,14 @@
     "emailVerifiedAt": "2026-11-17",
     "mxVerified": true,
     "template": "consultivo",
-    "email1": false,
+    "email1": true,
     "email2": false,
     "targetProfile": "A/B",
     "email3": false,
     "score": 12,
     "emailFrozenUntil": null,
-    "emailCycleClosed": false
+    "emailCycleClosed": false,
+    "date1": "2026-11-17"
   },
   {
     "name": "Laciella Chocolates (Fábrica de Chocolates Artesanais)",
@@ -49447,13 +49457,14 @@
     "emailVerifiedAt": "2026-11-17",
     "mxVerified": true,
     "template": "consultivo",
-    "email1": false,
+    "email1": true,
     "email2": false,
     "targetProfile": "A/B",
     "email3": false,
     "score": 12,
     "emailFrozenUntil": null,
-    "emailCycleClosed": false
+    "emailCycleClosed": false,
+    "date1": "2026-11-17"
   },
   {
     "name": "Oura Polpas (Ouraçaí)",
@@ -49488,13 +49499,14 @@
     "emailVerifiedAt": "2026-11-17",
     "mxVerified": true,
     "template": "consultivo",
-    "email1": false,
+    "email1": true,
     "email2": false,
     "targetProfile": "A/B",
     "email3": false,
     "score": 12,
     "emailFrozenUntil": null,
-    "emailCycleClosed": false
+    "emailCycleClosed": false,
+    "date1": "2026-11-17"
   },
   {
     "name": "Padaria Paulista (Panificação e Confeitaria desde 1986)",
@@ -49567,13 +49579,14 @@
     "emailVerifiedAt": "2026-11-17",
     "mxVerified": true,
     "template": "consultivo",
-    "email1": false,
+    "email1": true,
     "email2": false,
     "targetProfile": "A/B",
     "email3": false,
     "score": 12,
     "emailFrozenUntil": null,
-    "emailCycleClosed": false
+    "emailCycleClosed": false,
+    "date1": "2026-11-17"
   },
   {
     "name": "Prodooze Insumos Cervejeiros",
@@ -49611,13 +49624,14 @@
     "emailVerifiedAt": "2026-11-17",
     "mxVerified": true,
     "template": "consultivo",
-    "email1": false,
+    "email1": true,
     "email2": false,
     "targetProfile": "A/B",
     "email3": false,
     "score": 12,
     "emailFrozenUntil": null,
-    "emailCycleClosed": false
+    "emailCycleClosed": false,
+    "date1": "2026-11-17"
   },
   {
     "name": "Sucobase",
@@ -49813,13 +49827,14 @@
     "emailVerifiedAt": "2026-11-17",
     "mxVerified": true,
     "template": "consultivo",
-    "email1": false,
+    "email1": true,
     "email2": false,
     "targetProfile": "A/B",
     "email3": false,
     "score": 12,
     "emailFrozenUntil": null,
-    "emailCycleClosed": false
+    "emailCycleClosed": false,
+    "date1": "2026-11-17"
   },
   {
     "name": "Produtos Alimentícios Sankio",
@@ -50009,13 +50024,14 @@
     "emailVerifiedAt": "2026-11-17",
     "mxVerified": true,
     "template": "consultivo",
-    "email1": false,
+    "email1": true,
     "email2": false,
     "targetProfile": "A/B",
     "email3": false,
     "score": 12,
     "emailFrozenUntil": null,
-    "emailCycleClosed": false
+    "emailCycleClosed": false,
+    "date1": "2026-11-17"
   },
   {
     "name": "Nineties Bier",
@@ -50031,13 +50047,14 @@
     "emailVerifiedAt": "2026-11-17",
     "mxVerified": true,
     "template": "consultivo",
-    "email1": false,
+    "email1": true,
     "email2": false,
     "targetProfile": "A/B",
     "email3": false,
     "score": 12,
     "emailFrozenUntil": null,
-    "emailCycleClosed": false
+    "emailCycleClosed": false,
+    "date1": "2026-11-17"
   },
   {
     "name": "Festera Cervejaria",
@@ -50053,13 +50070,14 @@
     "emailVerifiedAt": "2026-11-17",
     "mxVerified": true,
     "template": "consultivo",
-    "email1": false,
+    "email1": true,
     "email2": false,
     "targetProfile": "A/B",
     "email3": false,
     "score": 12,
     "emailFrozenUntil": null,
-    "emailCycleClosed": false
+    "emailCycleClosed": false,
+    "date1": "2026-11-17"
   },
   {
     "name": "Marés Cervejaria Artesanal",
@@ -50075,13 +50093,14 @@
     "emailVerifiedAt": "2026-11-17",
     "mxVerified": true,
     "template": "consultivo",
-    "email1": false,
+    "email1": true,
     "email2": false,
     "targetProfile": "A/B",
     "email3": false,
     "score": 12,
     "emailFrozenUntil": null,
-    "emailCycleClosed": false
+    "emailCycleClosed": false,
+    "date1": "2026-11-17"
   },
   {
     "name": "Cervejaria Sarapó",
@@ -50097,13 +50116,14 @@
     "emailVerifiedAt": "2026-11-17",
     "mxVerified": true,
     "template": "consultivo",
-    "email1": false,
+    "email1": true,
     "email2": false,
     "targetProfile": "A/B",
     "email3": false,
     "score": 12,
     "emailFrozenUntil": null,
-    "emailCycleClosed": false
+    "emailCycleClosed": false,
+    "date1": "2026-11-17"
   },
   {
     "name": "Cervejaria Escafandrista",
