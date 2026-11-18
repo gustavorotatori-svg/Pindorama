@@ -32437,7 +32437,7 @@
     "type": "restaurante",
     "neighborhood": "",
     "address": "",
-    "context": "Site oficial consultado em 01/09/2026 confirma restaurante ativo no Solar Fabio Prado, proposta de gastronomia brasileira, menu de drinks e petiscos, carta de bebidas e eventos internos; o canal cs.eventos@capimsanto.com.br e publicado para eventos no restaurante.",
+    "context": "o Capim Santo, restaurante no Jardim Paulistano com cozinha brasileira autoral e operação de eventos",
     "phone": "3034-4673/ 98559-0024 ANA / 3089-9500",
     "template": "consultivo",
     "website": "https://www.restaurantecapimsanto.com.br/saopaulo",
@@ -32447,8 +32447,11 @@
     "mxVerified": true,
     "mxVerifiedAt": "2026-09-01",
     "email1": false,
-    "targetProfile": "C/D",
-    "email2": false
+    "targetProfile": "A/B",
+    "email2": false,
+    "emailSource": "https://www.restaurantecapimsanto.com.br/saopaulo",
+    "emailFrozenUntil": null,
+    "emailCycleClosed": false
   },
   {
     "name": "BROWN SUGAR",
@@ -32800,7 +32803,7 @@
     "type": "hotel",
     "neighborhood": "",
     "address": "",
-    "context": "Cozinha do Hotel Pullman SP Ibirapuera; respons├ível: juliana; instagram: https://www.instagram.com/tasteitrestaurante/",
+    "context": "o Tasteit, restaurante do Pullman São Paulo Ibirapuera, com carta de bebidas para hóspedes e clientes",
     "phone": "(11) 5088-4045 / 11 50884000 / 11 99188-1312 /  11 992843238 JULIANA",
     "template": "consultivo",
     "website": "",
@@ -32810,8 +32813,11 @@
     "email1": false,
     "email2": false,
     "email3": false,
-    "targetProfile": "C/D",
-    "score": 10
+    "targetProfile": "A/B",
+    "score": 10,
+    "mxVerified": false,
+    "emailFrozenUntil": null,
+    "emailCycleClosed": false
   },
   {
     "name": "Palácio Tangará",
@@ -33596,7 +33602,7 @@
     "type": "bar",
     "neighborhood": "Sao Paulo",
     "address": "Sao Paulo/SP",
-    "context": "Servico ativo de bar e bartenders para eventos sociais e corporativos, com drinks classicos e personalizados e mais de mil eventos realizados.",
+    "context": "a R&M Bartenders, que atua com bar e drinks personalizados em eventos sociais e corporativos em SP",
     "phone": "(11) 99815-4156",
     "website": "https://www.rembartenders.com.br/",
     "emailVerified": true,
@@ -33607,7 +33613,9 @@
     "email3": false,
     "mxVerified": true,
     "emailFrozenUntil": null,
-    "emailCycleClosed": false
+    "emailCycleClosed": false,
+    "targetProfile": "A/B",
+    "template": "consultivo"
   },
   {
     "name": "Buffet Damasco",
@@ -33823,7 +33831,7 @@
     "type": "bar",
     "neighborhood": "Santo Andre",
     "address": "Rua Teofilo Otoni - Santo Andre/SP",
-    "context": "Servico ativo de open bar e bartenders para casamentos, aniversarios e eventos sociais, com estrutura de bar e drinks classicos e autorais.",
+    "context": "a ShowBartenders, com serviço de open bar e coquetelaria para eventos em São Paulo",
     "phone": "(11) 99191-1212",
     "website": "https://showbartenders.com.br/",
     "emailVerified": true,
@@ -33834,7 +33842,9 @@
     "email3": false,
     "mxVerified": true,
     "emailFrozenUntil": null,
-    "emailCycleClosed": false
+    "emailCycleClosed": false,
+    "targetProfile": "A/B",
+    "template": "consultivo"
   },
   {
     "name": "Energy Drinks Bar",
@@ -34009,7 +34019,7 @@
     "type": "hotel",
     "neighborhood": "Barra Funda",
     "address": "Sao Paulo/SP",
-    "context": "Hotel ativo com estrutura comercial para eventos e canal dedicado de eventos publicado em material oficial recente de 2026.",
+    "context": "o Hotel Panamby São Paulo, com estrutura para eventos e operação de alimentos e bebidas",
     "website": "https://hotelpanambysaopaulo.com.br/",
     "emailVerified": true,
     "emailSource": "https://hotelpanambysaopaulo.com.br/wp-content/uploads/Eventos-Hotel-Panamby-Sao-Paulo.pdf",
@@ -34020,7 +34030,10 @@
     "messageId1": "<f3495139-8e6e-00f0-233d-43069306089c@gmail.com>",
     "email2": false,
     "email3": false,
-    "targetProfile": "C/D"
+    "targetProfile": "A/B",
+    "mxVerified": false,
+    "emailFrozenUntil": null,
+    "emailCycleClosed": false
   },
   {
     "name": "Agari Drinks",
@@ -34259,7 +34272,7 @@
     "type": "hotel",
     "neighborhood": "Cambuí",
     "address": "Campinas/SP",
-    "context": "Hotel ativo com estrutura dedicada para casamentos e eventos, buffet proprio, bebidas selecionadas e opcao comercial de open bar.",
+    "context": "o Vitória Concept Campinas, hotel com estrutura para eventos, buffet e bebidas selecionadas",
     "phone": "(19) 3755-8000",
     "website": "https://www.vitoriahoteis.com.br/casamentos-campinas",
     "emailVerified": true,
@@ -34275,7 +34288,10 @@
     "responseNote": "Resposta recebida em 31/08/2026: contato encaminhado ao setor de compras. Proximo passo manual: aguardar retorno do comprador; nenhum follow-up automatico enviado.",
     "email2": false,
     "invalidEmail": false,
-    "targetProfile": "C/D"
+    "targetProfile": "A/B",
+    "mxVerified": false,
+    "emailFrozenUntil": null,
+    "emailCycleClosed": false
   },
   {
     "name": "Bar2Go",
@@ -34305,7 +34321,7 @@
     "type": "hotel",
     "neighborhood": "Gonzaga",
     "address": "Avenida Marechal Floriano Peixoto, 42 - Gonzaga - Santos/SP",
-    "context": "Hotel ativo com o maior centro de eventos hoteleiro de Santos, 35 salas, alimentos e bebidas, First Bar e Pool Bar com coqueteis.",
+    "context": "o Bourbon Convention Hotel Santos, com centro de eventos, bar e operação de A&B",
     "phone": "(13) 3208-6400",
     "website": "https://www.bourbon.com.br/hoteis-e-resorts/bourbon-convention-hotel-santos",
     "emailVerified": true,
@@ -34321,7 +34337,10 @@
     "responseNote": "Resposta recebida em 31/08/2026: solicitacao encaminhada internamente a equipe do hotel. Proximo passo manual: aguardar retorno; nenhum follow-up automatico enviado.",
     "email2": false,
     "invalidEmail": false,
-    "targetProfile": "C/D"
+    "targetProfile": "A/B",
+    "mxVerified": false,
+    "emailFrozenUntil": null,
+    "emailCycleClosed": false
   },
   {
     "name": "XBAR",
@@ -34329,7 +34348,7 @@
     "type": "bar",
     "neighborhood": "Jardim Aquarius",
     "address": "Rua Jurema Vieira Medrado, 88 - Sala 1004 - Sao Jose dos Campos/SP",
-    "context": "Empresa ativa de bar para eventos em Sao Jose dos Campos, com drinks padronizados, mocktails, estrutura completa, frota propria e sala de degustacao.",
+    "context": "a XBAR em São José dos Campos, bar para eventos com drinks padronizados e estrutura completa",
     "phone": "(12) 3302-7052",
     "website": "https://www.xbar.com.br/",
     "emailVerified": true,
@@ -34340,7 +34359,9 @@
     "email3": false,
     "mxVerified": true,
     "emailFrozenUntil": null,
-    "emailCycleClosed": false
+    "emailCycleClosed": false,
+    "targetProfile": "A/B",
+    "template": "consultivo"
   },
   {
     "name": "Adega Don Marte",
@@ -34546,7 +34567,7 @@
     "type": "bar",
     "neighborhood": "Vila Mathias",
     "address": "Rua Luis de Camoes, 45 sala 11 - Vila Mathias - Santos/SP",
-    "context": "Empresa ativa ha mais de 15 anos em servicos completos de bar e coquetelaria para eventos, com venda de produtos para bares, restaurantes e casas noturnas.",
+    "context": "a Brasil Bartender, com mais de 15 anos em coquetelaria para eventos premium em São Paulo",
     "phone": "(13) 3014-3655",
     "website": "https://brasilbartender.com.br/servicos.html",
     "emailVerified": true,
@@ -34557,7 +34578,9 @@
     "email3": false,
     "mxVerified": true,
     "emailFrozenUntil": null,
-    "emailCycleClosed": false
+    "emailCycleClosed": false,
+    "targetProfile": "A/B",
+    "template": "consultivo"
   },
   {
     "name": "Vedê Coquetelaria & Arte",
@@ -34586,7 +34609,7 @@
     "type": "bar",
     "neighborhood": "Alves Dias",
     "address": "Rua Valentim Dal Checo, 231 - Alves Dias - Sao Bernardo do Campo/SP",
-    "context": "Operador ativo de bar para eventos no ABC, com mais de 50 coqueteis classicos, receitas proprias e atendimento a eventos corporativos e sociais.",
+    "context": "a Yummy Cocktails no ABC, com carta ampla de coquetéis clássicos e autorais para eventos",
     "phone": "(11) 99225-1091",
     "website": "https://www.yummycocktails.com.br/",
     "emailVerified": true,
@@ -34597,7 +34620,9 @@
     "email3": false,
     "mxVerified": true,
     "emailFrozenUntil": null,
-    "emailCycleClosed": false
+    "emailCycleClosed": false,
+    "targetProfile": "A/B",
+    "template": "consultivo"
   },
   {
     "name": "Cervejaria Rei do Malte",
@@ -34605,7 +34630,7 @@
     "type": "bar",
     "neighborhood": "Jardim Novo Horizonte",
     "address": "Avenida Ipanema, 4300 - Jardim Novo Horizonte - Sorocaba/SP",
-    "context": "Cervejaria e bar ativo em Sorocaba, com fabricacao propria, variedade de drinks, porcoes, musica ao vivo e funcionamento de quarta a domingo.",
+    "context": "a Cervejaria Rei do Malte em Sorocaba, bar ativo com variedade de drinks e música ao vivo",
     "phone": "(15) 3141-9264",
     "website": "https://reidomaltecervejaria.com.br/index.php",
     "emailVerified": true,
@@ -34615,7 +34640,10 @@
     "email1": false,
     "email2": false,
     "email3": false,
-    "targetProfile": "C/D"
+    "targetProfile": "A/B",
+    "mxVerified": false,
+    "emailFrozenUntil": null,
+    "emailCycleClosed": false
   },
   {
     "name": "Villa BBM Gastrobar",
@@ -34771,7 +34799,7 @@
     "type": "bar",
     "neighborhood": "Jardim da Rainha",
     "address": "Rua José Avelino da Costa, 1 - Jardim da Rainha - Itapevi/SP - 06656-410",
-    "context": "Bar, bistrô e pizzaria ativo em Itapevi, reconhecido por drinks elaborados, música ao vivo e funcionamento noturno.",
+    "context": "o Alemão Bar e Bistrô em Itapevi, com drinks elaborados, bistrô e música ao vivo",
     "phone": "(11) 4142-4110",
     "website": "https://alemaobarebistro.com.br/",
     "emailVerified": true,
@@ -34781,7 +34809,10 @@
     "email1": false,
     "email2": false,
     "email3": false,
-    "targetProfile": "C/D"
+    "targetProfile": "A/B",
+    "mxVerified": false,
+    "emailFrozenUntil": null,
+    "emailCycleClosed": false
   },
   {
     "name": "Bendita Areia",
@@ -35817,7 +35848,7 @@
     "type": "bar",
     "neighborhood": "Santa Terezinha",
     "address": "Rua Conselheiro Moreira de Barros, 1084 - Santa Terezinha - Sao Paulo/SP - 02018-012",
-    "context": "Boteco tradicional ativo desde 1971, com vasta carta de cachacas, uisques, batidas artesanais e mais de 40 petiscos. Uma fonte recente de marco de 2026 confirma operacao, email, celular, horarios e o comando familiar por Orlando Fernandes; alto fit para apresentacao da Pindorama e recompra inferida pela carta permanente, sem volume divulgado.",
+    "context": "o Bar Bambu, boteco tradicional na Zona Norte de SP conhecido pela ampla carta de cachaças e drinks",
     "phone": "(11) 96283-4350",
     "website": "https://barbambu.com.br/",
     "emailVerified": true,
@@ -35825,11 +35856,13 @@
     "emailVerifiedAt": "2026-10-13",
     "mxVerified": true,
     "mxVerifiedAt": "2026-08-23",
-    "template": "consultivo",
+    "template": "pergunta",
     "email1": false,
     "email2": false,
     "email3": false,
-    "targetProfile": "C/D"
+    "targetProfile": "A/B",
+    "emailFrozenUntil": null,
+    "emailCycleClosed": false
   },
   {
     "name": "Destill Comercial",
@@ -41332,14 +41365,18 @@
     "neighborhood": "Guaianases",
     "type": "bar",
     "website": "",
-    "context": "Copenhague Bar Drinks em Sao Paulo (Rua Copenhague, Guaianases), CNPJ 63.113.210/0001-06, aberto em 09/10/2025. CNAE principal 9329801 (discotecas) ÔÇö bar com foco em drinks.",
+    "context": "o Copenhague Bar Drinks em Guaianases (SP), bar ativo com foco em drinks",
     "email1": false,
     "email2": false,
     "email3": false,
     "emailVerified": true,
     "emailSource": "https://casadosdados.com.br/solucao/cnpj/copenhague-bar-drinks-ltda-63113210000106",
     "emailVerifiedAt": "2026-10-13",
-    "targetProfile": "C/D"
+    "targetProfile": "A/B",
+    "template": "pergunta",
+    "mxVerified": false,
+    "emailFrozenUntil": null,
+    "emailCycleClosed": false
   },
   {
     "name": "A Beira Bar",
@@ -45707,7 +45744,7 @@
     "city": "São Paulo",
     "website": "",
     "phone": "(11) 3168-3479  /  11941126219",
-    "context": "DOCES E RESTAURANTE; responsável: JULIA; instagram: https://www.instagram.com/sweetpimenta/",
+    "context": "a Sweet Pimenta, operação de restaurante e eventos em São Paulo",
     "emailVerified": true,
     "emailSource": "https://www.diariocidade.com/",
     "emailVerifiedAt": "2026-10-16",
@@ -45715,7 +45752,9 @@
     "template": "consultivo",
     "email1": false,
     "invalidEmail": false,
-    "targetProfile": "C/D"
+    "targetProfile": "A/B",
+    "emailFrozenUntil": null,
+    "emailCycleClosed": false
   },
   {
     "name": "Restaurante Saru Sushi",
