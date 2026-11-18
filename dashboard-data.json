@@ -1,19 +1,19 @@
 {
-  "lastUpdate": "2026-11-18T14:18:42.329Z",
+  "lastUpdate": "2026-11-18T20:20:49.247Z",
   "sinceDate": "2026-08-02",
   "totalLeads": 4021,
   "emails": {
-    "email1": 1051,
-    "email2": 1,
+    "email1": 1066,
+    "email2": 11,
     "email3": 0,
-    "total": 1052
+    "total": 1077
   },
   "whatsapp": {
     "today": 0,
-    "total": 264
+    "total": 262
   },
   "responses": 7,
-  "pending": 555,
+  "pending": 540,
   "daily": [
     {
       "date": "2026-10-20",
@@ -109,7 +109,7 @@
     },
     {
       "date": "2026-11-12",
-      "count": 102
+      "count": 100
     },
     {
       "date": "2026-11-13",
@@ -133,7 +133,7 @@
     },
     {
       "date": "2026-11-18",
-      "count": 0
+      "count": 25
     }
   ],
   "monthly": [
@@ -160,10 +160,10 @@
     },
     {
       "month": "2026-11",
-      "email1": 946,
-      "email2": 0,
+      "email1": 961,
+      "email2": 10,
       "email3": 0,
-      "total": 946
+      "total": 971
     }
   ],
   "topNeighborhoods": [
@@ -218,165 +218,160 @@
   ],
   "recentLeads": [
     {
-      "name": "Freitas Bebidas",
-      "type": "distribuidora",
-      "neighborhood": "Tucuruvi",
+      "name": "CAPIM SANTO",
+      "type": "restaurante",
       "responded": false,
       "email1": true,
-      "date1": "2026-11-17"
+      "date1": "2026-11-18"
     },
     {
-      "name": "WDG Events",
-      "type": "catering",
-      "neighborhood": "Litoral Norte",
-      "responded": true,
-      "email1": true,
-      "date1": "2026-11-17"
-    },
-    {
-      "name": "Adega Brunholi",
-      "type": "adega",
-      "neighborhood": "Caxambu",
+      "name": "Tasteit Restaurante",
+      "type": "hotel",
       "responded": false,
       "email1": true,
-      "date1": "2026-11-17"
+      "date1": "2026-11-18"
     },
     {
-      "name": "KL Distribuidora de Bebidas",
-      "type": "distribuidora",
-      "neighborhood": "Jardim Moncoes",
+      "name": "R&M Bartenders",
+      "type": "bar",
+      "neighborhood": "Sao Paulo",
       "responded": false,
       "email1": true,
-      "date1": "2026-11-17"
+      "date1": "2026-11-18"
     },
     {
-      "name": "Bebidas Zoza",
-      "type": "distribuidora",
-      "neighborhood": "Indl. Mazzei",
+      "name": "ShowBartenders",
+      "type": "bar",
+      "neighborhood": "Santo Andre",
       "responded": false,
       "email1": true,
-      "date1": "2026-11-17"
+      "date1": "2026-11-18"
     },
     {
-      "name": "Dopi Distribuidora de Bebidas e Alimentos",
-      "type": "distribuidora",
-      "neighborhood": "Jardim Silvestre",
+      "name": "Hotel Panamby Sao Paulo",
+      "type": "hotel",
+      "neighborhood": "Barra Funda",
       "responded": false,
       "email1": true,
-      "date1": "2026-11-17"
+      "date1": "2026-11-18"
     },
     {
-      "name": "Itu Distribuidora de Bebidas",
-      "type": "distribuidora",
-      "neighborhood": "Jardim Aeroporto",
+      "name": "Vitoria Concept Campinas",
+      "type": "hotel",
+      "neighborhood": "Cambuí",
       "responded": false,
       "email1": true,
-      "date1": "2026-11-17"
+      "date1": "2026-11-18"
     },
     {
-      "name": "RP Catering",
-      "type": "catering",
-      "neighborhood": "São Paulo",
+      "name": "Bourbon Convention Hotel Santos",
+      "type": "hotel",
+      "neighborhood": "Gonzaga",
       "responded": false,
       "email1": true,
-      "date1": "2026-11-17"
+      "date1": "2026-11-18"
     },
     {
-      "name": "Da Terra Gastronomia",
-      "type": "catering",
-      "neighborhood": "Vila Nova Conceicao",
+      "name": "XBAR",
+      "type": "bar",
+      "neighborhood": "Jardim Aquarius",
       "responded": false,
       "email1": true,
-      "date1": "2026-11-17"
+      "date1": "2026-11-18"
     },
     {
-      "name": "Iceteck Soluções em Congelamento e Resfriamento de Alimentos",
-      "type": "industria_panificacao",
-      "neighborhood": "São Paulo",
-      "city": "São Paulo",
+      "name": "Brasil Bartender",
+      "type": "bar",
+      "neighborhood": "Vila Mathias",
       "responded": false,
       "email1": true,
-      "date1": "2026-11-17"
+      "date1": "2026-11-18"
     },
     {
-      "name": "Cookie do Boleta (Boleta Indústria de Alimentos)",
-      "type": "confeitaria_industrial",
-      "neighborhood": "Batel",
-      "city": "Guarapuava",
+      "name": "Yummy Cocktails",
+      "type": "bar",
+      "neighborhood": "Alves Dias",
       "responded": false,
       "email1": true,
-      "date1": "2026-11-17"
+      "date1": "2026-11-18"
     },
     {
-      "name": "Bombons Lalka Industrial",
-      "type": "confeitaria_industrial",
-      "neighborhood": "Belo Horizonte",
-      "city": "Belo Horizonte",
+      "name": "Cervejaria Rei do Malte",
+      "type": "bar",
+      "neighborhood": "Jardim Novo Horizonte",
       "responded": false,
       "email1": true,
-      "date1": "2026-11-17"
+      "date1": "2026-11-18"
+    },
+    {
+      "name": "Alemão Bar e Bistrô",
+      "type": "bar",
+      "neighborhood": "Jardim da Rainha",
+      "responded": false,
+      "email1": true,
+      "date1": "2026-11-18"
     }
   ],
   "funnel": {
     "leads": 4021,
-    "email1": 1051,
-    "email2": 1,
+    "email1": 1066,
+    "email2": 11,
     "email3": 0,
     "responded": 7
   },
   "week": {
-    "leads": 377,
+    "leads": 392,
     "emails": {
-      "email1": 377,
-      "email2": 0,
+      "email1": 392,
+      "email2": 10,
       "email3": 0,
-      "total": 377,
+      "total": 402,
       "responses": 1
     }
   },
   "month": {
-    "leads": 946,
+    "leads": 961,
     "emails": {
-      "email1": 946,
-      "email2": 0,
+      "email1": 961,
+      "email2": 10,
       "email3": 0,
-      "total": 946,
+      "total": 971,
       "responses": 1
     }
   },
   "year": {
-    "leads": 1052,
+    "leads": 1067,
     "emails": {
-      "email1": 1051,
-      "email2": 1,
+      "email1": 1066,
+      "email2": 11,
       "email3": 0,
-      "total": 1052,
+      "total": 1077,
       "responses": 7
     }
   },
   "sinceBeginning": {
     "leads": 4021,
     "emails": {
-      "email1": 1051,
-      "email2": 1,
+      "email1": 1066,
+      "email2": 11,
       "email3": 0,
-      "total": 1052
+      "total": 1077
     },
     "responses": 7,
-    "whatsapp": 264,
+    "whatsapp": 262,
     "firstDate": "2026-08-02"
   },
   "segments": [
     {
       "name": "restaurante",
       "total": 2127,
-      "email1": 302,
+      "email1": 304,
       "responded": 0
     },
     {
       "name": "bar",
       "total": 613,
-      "email1": 245,
+      "email1": 254,
       "responded": 0
     },
     {
@@ -490,7 +485,7 @@
     {
       "name": "hotel",
       "total": 13,
-      "email1": 6,
+      "email1": 10,
       "responded": 0
     },
     {
