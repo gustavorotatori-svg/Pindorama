@@ -1,5 +1,5 @@
 {
-  "lastUpdate": "2026-11-17T20:44:43.268Z",
+  "lastUpdate": "2026-11-18T07:02:26.039Z",
   "totalLeads": 4021,
   "allLeads": [
     {
@@ -27056,7 +27056,8 @@
       "city": "Porto Belo",
       "email": "breadking@breadking.com.br",
       "emailVerified": true,
-      "email1": false,
+      "email1": true,
+      "date1": "2026-11-17",
       "email2": false,
       "email3": false
     },
@@ -27090,7 +27091,8 @@
       "city": "Jambeiro",
       "email": "contato@cervejariacomplo.com.br",
       "emailVerified": true,
-      "email1": false,
+      "email1": true,
+      "date1": "2026-11-17",
       "email2": false,
       "email3": false
     },
@@ -27113,7 +27115,8 @@
       "city": "Nova Friburgo",
       "email": "contato@cervejariapontal.com.br",
       "emailVerified": true,
-      "email1": false,
+      "email1": true,
+      "date1": "2026-11-17",
       "email2": false,
       "email3": false
     },
@@ -27124,7 +27127,8 @@
       "city": "Itapetininga",
       "email": "contato@rt166cervejaria.com.br",
       "emailVerified": true,
-      "email1": false,
+      "email1": true,
+      "date1": "2026-11-17",
       "email2": false,
       "email3": false
     },
@@ -27135,7 +27139,8 @@
       "city": "Rancho Queimado",
       "email": "contato@cervejariaunika.com.br",
       "emailVerified": true,
-      "email1": false,
+      "email1": true,
+      "date1": "2026-11-17",
       "email2": false,
       "email3": false
     },
@@ -27168,7 +27173,8 @@
       "city": "Brasília",
       "email": "sac@crulscervejaria.com.br",
       "emailVerified": true,
-      "email1": false,
+      "email1": true,
+      "date1": "2026-11-17",
       "email2": false,
       "email3": false
     },
@@ -27179,7 +27185,8 @@
       "city": "São José dos Pinhais",
       "email": "vendas@didius.com.br",
       "emailVerified": true,
-      "email1": false,
+      "email1": true,
+      "date1": "2026-11-17",
       "email2": false,
       "email3": false
     },
@@ -27190,7 +27197,8 @@
       "city": "Serra Negra",
       "email": "cerveja@dortmund.com.br",
       "emailVerified": true,
-      "email1": false,
+      "email1": true,
+      "date1": "2026-11-17",
       "email2": false,
       "email3": false
     },
@@ -27201,7 +27209,8 @@
       "city": "Viana",
       "email": "industrial@cervejariaelse.com.br",
       "emailVerified": true,
-      "email1": false,
+      "email1": true,
+      "date1": "2026-11-17",
       "email2": false,
       "email3": false
     },
@@ -27257,7 +27266,8 @@
       "city": "Morungaba",
       "email": "contato@choppkremer.com.br",
       "emailVerified": true,
-      "email1": false,
+      "email1": true,
+      "date1": "2026-11-17",
       "email2": false,
       "email3": false
     },
@@ -27323,7 +27333,8 @@
       "city": "Olímpia",
       "email": "contato@olimpiacervejaria.com.br",
       "emailVerified": true,
-      "email1": false,
+      "email1": true,
+      "date1": "2026-11-17",
       "email2": false,
       "email3": false
     },
@@ -27345,7 +27356,8 @@
       "city": "Novo Hamburgo",
       "email": "contato@padariabrasil.com.br",
       "emailVerified": true,
-      "email1": false,
+      "email1": true,
+      "date1": "2026-11-17",
       "email2": false,
       "email3": false
     },
@@ -27389,7 +27401,8 @@
       "city": "Aracaju",
       "email": "contato@pomardobrasil.com.br",
       "emailVerified": true,
-      "email1": false,
+      "email1": true,
+      "date1": "2026-11-17",
       "email2": false,
       "email3": false
     },
@@ -27412,7 +27425,8 @@
       "city": "Praia Grande",
       "email": "contato@rockybrewing.com",
       "emailVerified": true,
-      "email1": false,
+      "email1": true,
+      "date1": "2026-11-17",
       "email2": false,
       "email3": false
     },
@@ -27525,7 +27539,8 @@
       "city": "Brasília",
       "email": "contato@industriacontrigo.com.br",
       "emailVerified": true,
-      "email1": false,
+      "email1": true,
+      "date1": "2026-11-17",
       "email2": false,
       "email3": false
     },
@@ -27636,7 +27651,8 @@
       "city": "Campo Limpo Paulista",
       "email": "contato@cervejariaprisma.com.br",
       "emailVerified": true,
-      "email1": false,
+      "email1": true,
+      "date1": "2026-11-17",
       "email2": false,
       "email3": false
     },
@@ -27647,7 +27663,8 @@
       "city": "Vinhedo",
       "email": "contato@ninetiesbier.com.br",
       "emailVerified": true,
-      "email1": false,
+      "email1": true,
+      "date1": "2026-11-17",
       "email2": false,
       "email3": false
     },
@@ -27658,7 +27675,8 @@
       "city": "Ubiratã",
       "email": "contato@cervejariafestera.com.br",
       "emailVerified": true,
-      "email1": false,
+      "email1": true,
+      "date1": "2026-11-17",
       "email2": false,
       "email3": false
     },
@@ -27669,7 +27687,8 @@
       "city": "Americana",
       "email": "contato@cervejariamares.com.br",
       "emailVerified": true,
-      "email1": false,
+      "email1": true,
+      "date1": "2026-11-17",
       "email2": false,
       "email3": false
     },
@@ -27680,7 +27699,8 @@
       "city": "Novo Airão",
       "email": "contato@cervejariasarapo.com",
       "emailVerified": true,
-      "email1": false,
+      "email1": true,
+      "date1": "2026-11-17",
       "email2": false,
       "email3": false
     },
@@ -27703,7 +27723,8 @@
       "city": "Ibaté",
       "email": "contato@cervejariavitruviana.com.br",
       "emailVerified": true,
-      "email1": false,
+      "email1": true,
+      "date1": "2026-11-17",
       "email2": false,
       "email3": false
     },
@@ -27803,7 +27824,8 @@
       "city": "Contagem",
       "email": "contato@bralimentos.com.br",
       "emailVerified": true,
-      "email1": false,
+      "email1": true,
+      "date1": "2026-11-17",
       "email2": false,
       "email3": false
     },
@@ -27814,7 +27836,8 @@
       "city": "Campo Grande",
       "email": "contato@pumaalimentos.com.br",
       "emailVerified": true,
-      "email1": false,
+      "email1": true,
+      "date1": "2026-11-17",
       "email2": false,
       "email3": false
     },
@@ -28632,7 +28655,8 @@
       "city": "João Pessoa",
       "email": "sac@suconor.ind.br",
       "emailVerified": true,
-      "email1": false,
+      "email1": true,
+      "date1": "2026-11-17",
       "email2": false,
       "email3": false
     },
@@ -28945,7 +28969,8 @@
       "city": "Marialva",
       "email": "comercial@supermassas.com",
       "emailVerified": true,
-      "email1": false,
+      "email1": true,
+      "date1": "2026-11-17",
       "email2": false,
       "email3": false
     },
@@ -28980,7 +29005,8 @@
       "city": "Surubim",
       "email": "site@pancristal.com.br",
       "emailVerified": true,
-      "email1": false,
+      "email1": true,
+      "date1": "2026-11-17",
       "email2": false,
       "email3": false
     },
@@ -28991,7 +29017,8 @@
       "city": "Santa Luzia",
       "email": "contato@trigoarte.com.br",
       "emailVerified": true,
-      "email1": false,
+      "email1": true,
+      "date1": "2026-11-17",
       "email2": false,
       "email3": false
     },
@@ -29037,7 +29064,8 @@
       "city": "Cássia dos Coqueiros",
       "email": "vendas@fatcatbeer.com.br",
       "emailVerified": true,
-      "email1": false,
+      "email1": true,
+      "date1": "2026-11-17",
       "email2": false,
       "email3": false
     },
@@ -29048,7 +29076,8 @@
       "city": "Rio Negrinho",
       "email": "contato@locomotivebrew.com.br",
       "emailVerified": true,
-      "email1": false,
+      "email1": true,
+      "date1": "2026-11-17",
       "email2": false,
       "email3": false
     },
@@ -29059,7 +29088,8 @@
       "city": "São Pedro",
       "email": "contato@hzb.com.br",
       "emailVerified": true,
-      "email1": false,
+      "email1": true,
+      "date1": "2026-11-17",
       "email2": false,
       "email3": false
     },
@@ -29094,7 +29124,8 @@
       "city": "Vargem Grande Paulista",
       "email": "adm@brewtos.com.br",
       "emailVerified": true,
-      "email1": false,
+      "email1": true,
+      "date1": "2026-11-17",
       "email2": false,
       "email3": false
     },
@@ -29105,7 +29136,8 @@
       "city": "Treze Tílias",
       "email": "loja@bierbaum.com.br",
       "emailVerified": true,
-      "email1": false,
+      "email1": true,
+      "date1": "2026-11-17",
       "email2": false,
       "email3": false
     },
@@ -29116,7 +29148,8 @@
       "city": "Jundiaí",
       "email": "contato@giffa.com.br",
       "emailVerified": true,
-      "email1": false,
+      "email1": true,
+      "date1": "2026-11-17",
       "email2": false,
       "email3": false
     },
@@ -29127,7 +29160,8 @@
       "city": "Garuva",
       "email": "contato@cervejariamontecrista.com.br",
       "emailVerified": true,
-      "email1": false,
+      "email1": true,
+      "date1": "2026-11-17",
       "email2": false,
       "email3": false
     },
@@ -29405,7 +29439,8 @@
       "city": "Tatuí",
       "email": "atendimentosp@marquespan.com.br",
       "emailVerified": true,
-      "email1": false,
+      "email1": true,
+      "date1": "2026-11-17",
       "email2": false,
       "email3": false
     },
@@ -29416,7 +29451,8 @@
       "city": "Caieiras",
       "email": "mkt@costalavos.com.br",
       "emailVerified": true,
-      "email1": false,
+      "email1": true,
+      "date1": "2026-11-17",
       "email2": false,
       "email3": false
     },
@@ -29427,7 +29463,8 @@
       "city": "Atibaia",
       "email": "comercial@grupofarina.com.br",
       "emailVerified": true,
-      "email1": false,
+      "email1": true,
+      "date1": "2026-11-17",
       "email2": false,
       "email3": false
     },
@@ -29438,7 +29475,8 @@
       "city": "Diadema",
       "email": "leforth@leforth.com.br",
       "emailVerified": true,
-      "email1": false,
+      "email1": true,
+      "date1": "2026-11-17",
       "email2": false,
       "email3": false
     },
@@ -29983,7 +30021,8 @@
       "city": "Gravataí",
       "email": "contato@hiperpan.com.br",
       "emailVerified": true,
-      "email1": false,
+      "email1": true,
+      "date1": "2026-11-17",
       "email2": false,
       "email3": false
     },
@@ -30164,7 +30203,8 @@
       "city": "Louveira",
       "email": "contato@cervejariahebling.com.br",
       "emailVerified": true,
-      "email1": false,
+      "email1": true,
+      "date1": "2026-11-17",
       "email2": false,
       "email3": false
     },
@@ -35169,22 +35209,18 @@
     }
   ],
   "emails": {
-    "email1": 1011,
+    "email1": 1051,
     "email2": 1,
     "email3": 0,
-    "total": 1012
+    "total": 1052
   },
   "whatsapp": {
     "today": 0,
     "total": 262
   },
   "responses": 5,
-  "pending": 595,
+  "pending": 555,
   "daily": [
-    {
-      "date": "2026-11-04",
-      "count": 100
-    },
     {
       "date": "2026-11-05",
       "count": 47
@@ -35235,7 +35271,11 @@
     },
     {
       "date": "2026-11-17",
-      "count": 35
+      "count": 75
+    },
+    {
+      "date": "2026-11-18",
+      "count": 0
     }
   ],
   "topNeighborhoods": [
@@ -35354,38 +35394,38 @@
   ],
   "funnel": {
     "leads": 4021,
-    "email1": 1011,
+    "email1": 1051,
     "email2": 1,
     "email3": 0,
     "responded": 5
   },
   "week": {
-    "leads": 437,
+    "leads": 377,
     "emails": {
-      "email1": 437,
+      "email1": 377,
       "email2": 0,
       "email3": 0,
-      "total": 437
+      "total": 377
     },
     "responses": 0
   },
   "month": {
-    "leads": 906,
+    "leads": 946,
     "emails": {
-      "email1": 906,
+      "email1": 946,
       "email2": 0,
       "email3": 0,
-      "total": 906
+      "total": 946
     },
     "responses": 0
   },
   "year": {
-    "leads": 1012,
+    "leads": 1052,
     "emails": {
-      "email1": 1011,
+      "email1": 1051,
       "email2": 1,
       "email3": 0,
-      "total": 1012
+      "total": 1052
     },
     "responses": 5
   },
@@ -35459,7 +35499,7 @@
     {
       "name": "industria_panificacao",
       "total": 28,
-      "email1": 9,
+      "email1": 24,
       "responded": 0
     },
     {
@@ -35471,7 +35511,7 @@
     {
       "name": "cervejaria",
       "total": 25,
-      "email1": 7,
+      "email1": 21,
       "responded": 0
     },
     {
@@ -35519,7 +35559,7 @@
     {
       "name": "microcervejaria",
       "total": 11,
-      "email1": 1,
+      "email1": 11,
       "responded": 0
     },
     {
@@ -35531,7 +35571,7 @@
     {
       "name": "industria_sucos",
       "total": 10,
-      "email1": 1,
+      "email1": 2,
       "responded": 0
     },
     {
