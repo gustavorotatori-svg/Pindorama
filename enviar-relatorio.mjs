@@ -6,7 +6,10 @@ import { sendWithinEmailQuota } from './email-quota.mjs';
 
 const to = process.env.RELATORIO_TO || 'fabianavazcampos@hotmail.com';
 const cc = process.env.RELATORIO_CC || 'gustavorotatori@gmail.com';
-const reportUrl = process.env.RELATORIO_URL || 'https://gustavorotatori-svg.github.io/Pindorama/';
+const reportUrl = process.env.RELATORIO_URL || '';
+// Observação: GitHub Pages indisponível para este repositório privado/plano;
+// o relatório é enviado no corpo do e-mail e em anexo (HTML). Se houver URL pública
+// configurada (RELATORIO_URL), ela será incluída.
 
 const timeZone = 'America/Sao_Paulo';
 const local = new Intl.DateTimeFormat('en-CA', {
@@ -73,6 +76,7 @@ const totalEmails = e.total ?? ((e.email1||0)+(e.email2||0)+(e.email3||0));
 const taxa = (e.email1||0) > 0 ? ((summary.responses||0)/(e.email1||0)*100).toFixed(2).replace('.',',')+'%' : '0%';
 
 const subject = `Relatório Pindorama — desde ${fmt(summary.sinceDate)} (atualizado em ${today})`;
+const linkLine = reportUrl ? `\nRelatório online (link): ${reportUrl}\n` : '';
 const text = [
   'Olá,',
   '',
@@ -82,16 +86,15 @@ const text = [
   `• Emails enviados: ${totalEmails} (E1: ${e.email1||0}, E2: ${e.email2||0}, E3: ${e.email3||0})`,
   `• Respostas/interesse: ${summary.responses||0} (taxa sobre E1: ${taxa})`,
   `• WhatsApp aceitos (acumulado): ${summary.whatsapp?.total || 0}`,
-  '',
-  `Relatório online (link fixo, atualizado automaticamente): ${reportUrl}`,
-  '',
-  'O arquivo HTML em anexo contém a versão atual do relatório.',
+  linkLine.trimEnd(),
+  'O relatório completo (histórico desde o início) segue em anexo (HTML) — basta abrir no navegador.',
   '',
   'Pindorama — Cachaça Artesanal',
   '(11) 91357-7900'
-].join('\n');
+].filter(Boolean).join('\n');
 
-const htmlBody = `<div style="font-family:Arial,Helvetica,sans-serif;font-size:15px;line-height:1.6;color:#1f2937;max-width:640px">
+const linkHtml = reportUrl ? `<p><b>Relatório online:</b><br><a href="${reportUrl}">${reportUrl}</a></p>` : '';
+const htmlBody = `<div style="font-family:Arial,Helvetica,sans-serif;font-size:15px;line-height:1.6;color:#1f2937;max-width:680px">
   <p>Olá,</p>
   <p>Segue o relatório de prospecção da <b>Pindorama</b> (cachaça artesanal), com informações consolidadas <b>desde ${fmt(summary.sinceDate)}</b> até <b>${today}</b>.</p>
   <ul>
@@ -100,9 +103,8 @@ const htmlBody = `<div style="font-family:Arial,Helvetica,sans-serif;font-size:1
     <li><b>Respostas/interesse:</b> ${summary.responses||0} (taxa sobre E1: ${taxa})</li>
     <li><b>WhatsApp aceitos (acumulado):</b> ${summary.whatsapp?.total || 0}</li>
   </ul>
-  <p><b>Relatório online (link fixo, atualizado automaticamente):</b><br>
-  <a href="${reportUrl}">${reportUrl}</a></p>
-  <p>O arquivo HTML em anexo contém a versão atual do relatório.</p>
+  ${linkHtml}
+  <p>O relatório completo (histórico desde o início, evolução mensal e segmentos) segue <b>em anexo (HTML)</b> — basta abrir o arquivo no navegador.</p>
   <p style="margin-top:18px">Pindorama — Cachaça Artesanal<br>(11) 91357-7900</p>
 </div>`;
 

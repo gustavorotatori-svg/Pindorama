@@ -1,0 +1,930 @@
+{
+  "lastUpdate": "2026-11-18T16:19:45.697Z",
+  "sinceDate": "2026-08-02",
+  "totalLeads": 4021,
+  "emails": {
+    "email1": 1066,
+    "email2": 6,
+    "email3": 0,
+    "total": 1072
+  },
+  "whatsapp": {
+    "today": 0,
+    "total": 264
+  },
+  "responses": 7,
+  "pending": 540,
+  "daily": [
+    {
+      "date": "2026-10-20",
+      "count": 18
+    },
+    {
+      "date": "2026-10-21",
+      "count": 13
+    },
+    {
+      "date": "2026-10-22",
+      "count": 0
+    },
+    {
+      "date": "2026-10-23",
+      "count": 0
+    },
+    {
+      "date": "2026-10-24",
+      "count": 0
+    },
+    {
+      "date": "2026-10-25",
+      "count": 0
+    },
+    {
+      "date": "2026-10-26",
+      "count": 0
+    },
+    {
+      "date": "2026-10-27",
+      "count": 0
+    },
+    {
+      "date": "2026-10-28",
+      "count": 0
+    },
+    {
+      "date": "2026-10-29",
+      "count": 0
+    },
+    {
+      "date": "2026-10-30",
+      "count": 100
+    },
+    {
+      "date": "2026-10-31",
+      "count": 0
+    },
+    {
+      "date": "2026-11-01",
+      "count": 99
+    },
+    {
+      "date": "2026-11-02",
+      "count": 100
+    },
+    {
+      "date": "2026-11-03",
+      "count": 101
+    },
+    {
+      "date": "2026-11-04",
+      "count": 100
+    },
+    {
+      "date": "2026-11-05",
+      "count": 47
+    },
+    {
+      "date": "2026-11-06",
+      "count": 9
+    },
+    {
+      "date": "2026-11-07",
+      "count": 6
+    },
+    {
+      "date": "2026-11-08",
+      "count": 2
+    },
+    {
+      "date": "2026-11-09",
+      "count": 5
+    },
+    {
+      "date": "2026-11-10",
+      "count": 100
+    },
+    {
+      "date": "2026-11-11",
+      "count": 20
+    },
+    {
+      "date": "2026-11-12",
+      "count": 102
+    },
+    {
+      "date": "2026-11-13",
+      "count": 82
+    },
+    {
+      "date": "2026-11-14",
+      "count": 99
+    },
+    {
+      "date": "2026-11-15",
+      "count": 1
+    },
+    {
+      "date": "2026-11-16",
+      "count": 0
+    },
+    {
+      "date": "2026-11-17",
+      "count": 75
+    },
+    {
+      "date": "2026-11-18",
+      "count": 20
+    }
+  ],
+  "monthly": [
+    {
+      "month": "2026-08",
+      "email1": 1,
+      "email2": 0,
+      "email3": 0,
+      "total": 1
+    },
+    {
+      "month": "2026-09",
+      "email1": 1,
+      "email2": 0,
+      "email3": 0,
+      "total": 1
+    },
+    {
+      "month": "2026-10",
+      "email1": 104,
+      "email2": 1,
+      "email3": 0,
+      "total": 105
+    },
+    {
+      "month": "2026-11",
+      "email1": 961,
+      "email2": 5,
+      "email3": 0,
+      "total": 966
+    }
+  ],
+  "topNeighborhoods": [
+    {
+      "name": "Sem bairro",
+      "count": 2624
+    },
+    {
+      "name": "São Paulo",
+      "count": 225
+    },
+    {
+      "name": "São Paulo (SP)",
+      "count": 122
+    },
+    {
+      "name": "Centro",
+      "count": 43
+    },
+    {
+      "name": "Pinheiros",
+      "count": 31
+    },
+    {
+      "name": "Sao Paulo",
+      "count": 28
+    },
+    {
+      "name": "Moema",
+      "count": 23
+    },
+    {
+      "name": "Jardins",
+      "count": 20
+    },
+    {
+      "name": "Itaim Bibi",
+      "count": 18
+    },
+    {
+      "name": "Campo Belo",
+      "count": 13
+    },
+    {
+      "name": "Alphaville",
+      "count": 13
+    },
+    {
+      "name": "Mooca",
+      "count": 12
+    }
+  ],
+  "recentLeads": [
+    {
+      "name": "CAPIM SANTO",
+      "type": "restaurante",
+      "responded": false,
+      "email1": true,
+      "date1": "2026-11-18"
+    },
+    {
+      "name": "Tasteit Restaurante",
+      "type": "hotel",
+      "responded": false,
+      "email1": true,
+      "date1": "2026-11-18"
+    },
+    {
+      "name": "R&M Bartenders",
+      "type": "bar",
+      "neighborhood": "Sao Paulo",
+      "responded": false,
+      "email1": true,
+      "date1": "2026-11-18"
+    },
+    {
+      "name": "ShowBartenders",
+      "type": "bar",
+      "neighborhood": "Santo Andre",
+      "responded": false,
+      "email1": true,
+      "date1": "2026-11-18"
+    },
+    {
+      "name": "Hotel Panamby Sao Paulo",
+      "type": "hotel",
+      "neighborhood": "Barra Funda",
+      "responded": false,
+      "email1": true,
+      "date1": "2026-11-18"
+    },
+    {
+      "name": "Vitoria Concept Campinas",
+      "type": "hotel",
+      "neighborhood": "Cambuí",
+      "responded": false,
+      "email1": true,
+      "date1": "2026-11-18"
+    },
+    {
+      "name": "Bourbon Convention Hotel Santos",
+      "type": "hotel",
+      "neighborhood": "Gonzaga",
+      "responded": false,
+      "email1": true,
+      "date1": "2026-11-18"
+    },
+    {
+      "name": "XBAR",
+      "type": "bar",
+      "neighborhood": "Jardim Aquarius",
+      "responded": false,
+      "email1": true,
+      "date1": "2026-11-18"
+    },
+    {
+      "name": "Brasil Bartender",
+      "type": "bar",
+      "neighborhood": "Vila Mathias",
+      "responded": false,
+      "email1": true,
+      "date1": "2026-11-18"
+    },
+    {
+      "name": "Yummy Cocktails",
+      "type": "bar",
+      "neighborhood": "Alves Dias",
+      "responded": false,
+      "email1": true,
+      "date1": "2026-11-18"
+    },
+    {
+      "name": "Cervejaria Rei do Malte",
+      "type": "bar",
+      "neighborhood": "Jardim Novo Horizonte",
+      "responded": false,
+      "email1": true,
+      "date1": "2026-11-18"
+    },
+    {
+      "name": "Alemão Bar e Bistrô",
+      "type": "bar",
+      "neighborhood": "Jardim da Rainha",
+      "responded": false,
+      "email1": true,
+      "date1": "2026-11-18"
+    }
+  ],
+  "funnel": {
+    "leads": 4021,
+    "email1": 1066,
+    "email2": 6,
+    "email3": 0,
+    "responded": 7
+  },
+  "week": {
+    "leads": 392,
+    "emails": {
+      "email1": 392,
+      "email2": 5,
+      "email3": 0,
+      "total": 397,
+      "responses": 1
+    }
+  },
+  "month": {
+    "leads": 961,
+    "emails": {
+      "email1": 961,
+      "email2": 5,
+      "email3": 0,
+      "total": 966,
+      "responses": 1
+    }
+  },
+  "year": {
+    "leads": 1067,
+    "emails": {
+      "email1": 1066,
+      "email2": 6,
+      "email3": 0,
+      "total": 1072,
+      "responses": 7
+    }
+  },
+  "sinceBeginning": {
+    "leads": 4021,
+    "emails": {
+      "email1": 1066,
+      "email2": 6,
+      "email3": 0,
+      "total": 1072
+    },
+    "responses": 7,
+    "whatsapp": 264,
+    "firstDate": "2026-08-02"
+  },
+  "segments": [
+    {
+      "name": "restaurante",
+      "total": 2127,
+      "email1": 304,
+      "responded": 0
+    },
+    {
+      "name": "bar",
+      "total": 613,
+      "email1": 254,
+      "responded": 0
+    },
+    {
+      "name": "adega",
+      "total": 272,
+      "email1": 90,
+      "responded": 1
+    },
+    {
+      "name": "distribuidora",
+      "total": 195,
+      "email1": 96,
+      "responded": 1
+    },
+    {
+      "name": "fabrica_alimentos",
+      "total": 137,
+      "email1": 2,
+      "responded": 2
+    },
+    {
+      "name": "balada",
+      "total": 67,
+      "email1": 64,
+      "responded": 0
+    },
+    {
+      "name": "confeitaria",
+      "total": 56,
+      "email1": 25,
+      "responded": 0
+    },
+    {
+      "name": "hamburgueria",
+      "total": 56,
+      "email1": 25,
+      "responded": 0
+    },
+    {
+      "name": "cafeteria",
+      "total": 55,
+      "email1": 37,
+      "responded": 0
+    },
+    {
+      "name": "pizzaria",
+      "total": 50,
+      "email1": 25,
+      "responded": 0
+    },
+    {
+      "name": "doceria",
+      "total": 43,
+      "email1": 25,
+      "responded": 0
+    },
+    {
+      "name": "industria_panificacao",
+      "total": 28,
+      "email1": 24,
+      "responded": 0
+    },
+    {
+      "name": "buffet",
+      "total": 26,
+      "email1": 2,
+      "responded": 0
+    },
+    {
+      "name": "cervejaria",
+      "total": 25,
+      "email1": 21,
+      "responded": 0
+    },
+    {
+      "name": "emporio",
+      "total": 21,
+      "email1": 17,
+      "responded": 0
+    },
+    {
+      "name": "fabrica_biscoitos",
+      "total": 18,
+      "email1": 0,
+      "responded": 0
+    },
+    {
+      "name": "industria_bebidas",
+      "total": 15,
+      "email1": 4,
+      "responded": 0
+    },
+    {
+      "name": "destilaria",
+      "total": 15,
+      "email1": 0,
+      "responded": 0
+    },
+    {
+      "name": "catering",
+      "total": 14,
+      "email1": 7,
+      "responded": 1
+    },
+    {
+      "name": "loja_bebidas",
+      "total": 14,
+      "email1": 1,
+      "responded": 0
+    },
+    {
+      "name": "hotel",
+      "total": 13,
+      "email1": 10,
+      "responded": 0
+    },
+    {
+      "name": "microcervejaria",
+      "total": 11,
+      "email1": 11,
+      "responded": 0
+    },
+    {
+      "name": "padaria",
+      "total": 11,
+      "email1": 1,
+      "responded": 1
+    },
+    {
+      "name": "industria_sucos",
+      "total": 10,
+      "email1": 2,
+      "responded": 0
+    },
+    {
+      "name": "atacadista",
+      "total": 8,
+      "email1": 0,
+      "responded": 0
+    },
+    {
+      "name": "acai",
+      "total": 7,
+      "email1": 0,
+      "responded": 0
+    },
+    {
+      "name": "bebidas",
+      "total": 7,
+      "email1": 0,
+      "responded": 0
+    },
+    {
+      "name": "chocolateria",
+      "total": 6,
+      "email1": 1,
+      "responded": 1
+    },
+    {
+      "name": "gelateria",
+      "total": 6,
+      "email1": 0,
+      "responded": 0
+    },
+    {
+      "name": "fabrica_bebidas",
+      "total": 5,
+      "email1": 0,
+      "responded": 0
+    },
+    {
+      "name": "distribuidora_bebidas",
+      "total": 5,
+      "email1": 4,
+      "responded": 0
+    },
+    {
+      "name": "churrascaria",
+      "total": 5,
+      "email1": 4,
+      "responded": 0
+    },
+    {
+      "name": "vinhoteca",
+      "total": 5,
+      "email1": 0,
+      "responded": 0
+    },
+    {
+      "name": "confeitaria_industrial",
+      "total": 4,
+      "email1": 3,
+      "responded": 0
+    },
+    {
+      "name": "outro",
+      "total": 3,
+      "email1": 0,
+      "responded": 0
+    },
+    {
+      "name": "adega_delivery_cachacas_destilados",
+      "total": 3,
+      "email1": 0,
+      "responded": 0
+    },
+    {
+      "name": "supermercado",
+      "total": 2,
+      "email1": 1,
+      "responded": 0
+    },
+    {
+      "name": "loja_bebidas_chopp_cachacas_eventos",
+      "total": 2,
+      "email1": 0,
+      "responded": 0
+    },
+    {
+      "name": "emporio_produtos_artesanais_cachacas",
+      "total": 2,
+      "email1": 0,
+      "responded": 0
+    },
+    {
+      "name": "emporio_ecommerce_cachacas_premium",
+      "total": 2,
+      "email1": 0,
+      "responded": 0
+    },
+    {
+      "name": "bar_restaurante_cachacas_caipirinhas",
+      "total": 2,
+      "email1": 0,
+      "responded": 0
+    },
+    {
+      "name": "restaurante_caipirinhas_cachaca",
+      "total": 2,
+      "email1": 0,
+      "responded": 0
+    },
+    {
+      "name": "sorveteria",
+      "total": 2,
+      "email1": 0,
+      "responded": 0
+    },
+    {
+      "name": "distribuidor",
+      "total": 1,
+      "email1": 0,
+      "responded": 0
+    },
+    {
+      "name": "experiencias_e_eventos",
+      "total": 1,
+      "email1": 0,
+      "responded": 0
+    },
+    {
+      "name": "bar_restaurante_cachaca_cambuci",
+      "total": 1,
+      "email1": 0,
+      "responded": 0
+    },
+    {
+      "name": "restaurante_bebidas_cambuci",
+      "total": 1,
+      "email1": 0,
+      "responded": 0
+    },
+    {
+      "name": "emporio_bebidas_cachaca",
+      "total": 1,
+      "email1": 0,
+      "responded": 0
+    },
+    {
+      "name": "loja_distribuidora_bebidas_destilados",
+      "total": 1,
+      "email1": 0,
+      "responded": 0
+    },
+    {
+      "name": "emporio_bar_cachacas_destilados",
+      "total": 1,
+      "email1": 1,
+      "responded": 0
+    },
+    {
+      "name": "kits_presentes_corporativos_bebidas",
+      "total": 1,
+      "email1": 0,
+      "responded": 0
+    },
+    {
+      "name": "adega_loja_bebidas_cachacas",
+      "total": 1,
+      "email1": 0,
+      "responded": 0
+    },
+    {
+      "name": "adega_cachacas_artesanais_destilados",
+      "total": 1,
+      "email1": 0,
+      "responded": 0
+    },
+    {
+      "name": "adega_tabacaria_cachacas_destilados",
+      "total": 1,
+      "email1": 0,
+      "responded": 0
+    },
+    {
+      "name": "distribuidora_destilaria_cachacas_artesanais",
+      "total": 1,
+      "email1": 0,
+      "responded": 0
+    },
+    {
+      "name": "bar_restaurante_cachacas_artesanais",
+      "total": 1,
+      "email1": 0,
+      "responded": 0
+    },
+    {
+      "name": "emporio_mercearia_cachacas_artesanais",
+      "total": 1,
+      "email1": 0,
+      "responded": 0
+    },
+    {
+      "name": "emporio_online_cachacas_produtos_artesanais",
+      "total": 1,
+      "email1": 0,
+      "responded": 0
+    },
+    {
+      "name": "distribuidora_emporio_cachacas_bebidas",
+      "total": 1,
+      "email1": 0,
+      "responded": 0
+    },
+    {
+      "name": "adega_vinhos_licores_destilados",
+      "total": 1,
+      "email1": 0,
+      "responded": 0
+    },
+    {
+      "name": "loja_online_cachacas_premium",
+      "total": 1,
+      "email1": 0,
+      "responded": 0
+    },
+    {
+      "name": "loja_online_cachacas",
+      "total": 1,
+      "email1": 0,
+      "responded": 0
+    },
+    {
+      "name": "emporio_online_produtos_artesanais_cachacas",
+      "total": 1,
+      "email1": 0,
+      "responded": 0
+    },
+    {
+      "name": "distribuidora_delivery_cachacas_destilados",
+      "total": 1,
+      "email1": 0,
+      "responded": 0
+    },
+    {
+      "name": "adega_delivery_destilados",
+      "total": 1,
+      "email1": 0,
+      "responded": 0
+    },
+    {
+      "name": "adega_bar_delivery_cachaca_coquetelaria",
+      "total": 1,
+      "email1": 0,
+      "responded": 0
+    },
+    {
+      "name": "adega_delivery_cachacas_aperitivos",
+      "total": 1,
+      "email1": 0,
+      "responded": 0
+    },
+    {
+      "name": "adega_emporio_delivery_cachacas_destilados",
+      "total": 1,
+      "email1": 0,
+      "responded": 0
+    },
+    {
+      "name": "adega_delivery_cachacas_aguardentes_destilados",
+      "total": 1,
+      "email1": 0,
+      "responded": 0
+    },
+    {
+      "name": "adega_mercearia_delivery_destilados_cachaca",
+      "total": 1,
+      "email1": 0,
+      "responded": 0
+    },
+    {
+      "name": "adega_delivery_24h_cachaca_destilados",
+      "total": 1,
+      "email1": 0,
+      "responded": 0
+    },
+    {
+      "name": "adega_delivery_cachaca_artesanal",
+      "total": 1,
+      "email1": 0,
+      "responded": 0
+    },
+    {
+      "name": "adega_distribuidora_delivery_cachaca_destilados",
+      "total": 1,
+      "email1": 0,
+      "responded": 0
+    },
+    {
+      "name": "adega_delivery_cachacas_premium_destilados",
+      "total": 1,
+      "email1": 0,
+      "responded": 0
+    },
+    {
+      "name": "adega_delivery_destilados_vinhos_cervejas",
+      "total": 1,
+      "email1": 0,
+      "responded": 0
+    },
+    {
+      "name": "bar_restaurante_delivery_batidas_cachaca",
+      "total": 1,
+      "email1": 0,
+      "responded": 0
+    },
+    {
+      "name": "restaurante_delivery_caipirinha_cachaca",
+      "total": 1,
+      "email1": 0,
+      "responded": 0
+    },
+    {
+      "name": "adega_delivery_cachaca_destilados",
+      "total": 1,
+      "email1": 0,
+      "responded": 0
+    },
+    {
+      "name": "bar_restaurante_caipirinha_batida_cachaca",
+      "total": 1,
+      "email1": 0,
+      "responded": 0
+    },
+    {
+      "name": "bar_emporio_cachacas_artesanais_eventos",
+      "total": 1,
+      "email1": 1,
+      "responded": 0
+    },
+    {
+      "name": "emporio_ecommerce_produtos_artesanais_cachacas",
+      "total": 1,
+      "email1": 1,
+      "responded": 0
+    },
+    {
+      "name": "distribuidora_atacado_cachacas_destilados",
+      "total": 1,
+      "email1": 0,
+      "responded": 0
+    },
+    {
+      "name": "loja_ecommerce_cachacas_artesanais_premium",
+      "total": 1,
+      "email1": 0,
+      "responded": 0
+    },
+    {
+      "name": "distribuidora_atacado_bebidas_cachacas",
+      "total": 1,
+      "email1": 0,
+      "responded": 0
+    },
+    {
+      "name": "clube_esportivo_bar_caipirinhas",
+      "total": 1,
+      "email1": 0,
+      "responded": 0
+    },
+    {
+      "name": "bar_caipirinhas_cachaca_eventos",
+      "total": 1,
+      "email1": 0,
+      "responded": 0
+    },
+    {
+      "name": "buffet_eventos_bar_caipirinhas",
+      "total": 1,
+      "email1": 0,
+      "responded": 0
+    },
+    {
+      "name": "adega_vinicola_cachacas_bistro",
+      "total": 1,
+      "email1": 0,
+      "responded": 0
+    },
+    {
+      "name": "distribuidora_alimentos",
+      "total": 1,
+      "email1": 1,
+      "responded": 0
+    },
+    {
+      "name": "lanchonete",
+      "total": 1,
+      "email1": 0,
+      "responded": 0
+    },
+    {
+      "name": "carnes",
+      "total": 1,
+      "email1": 0,
+      "responded": 0
+    },
+    {
+      "name": "marmitaria",
+      "total": 1,
+      "email1": 0,
+      "responded": 0
+    },
+    {
+      "name": "steakhouse",
+      "total": 1,
+      "email1": 1,
+      "responded": 0
+    },
+    {
+      "name": "bar e restaurante",
+      "total": 1,
+      "email1": 1,
+      "responded": 0
+    }
+  ]
+}
