@@ -43,10 +43,26 @@ function validateDNS(email, attempt = 1) {
   });
 }
 
+// ICP (18/11/2026): somente coquetelaria premium — bares de drinks, restaurantes
+// premium, hotéis, casas noturnas, clubes e gastrobar. Verticais industrial,
+// cervejaria, panificação e revenda foram descontinuadas (zero retorno).
+const COCKTAIL_TYPES = new Set([
+  'bar', 'bar_coquetel', 'bar_coquetelaria', 'coquetelaria', 'gastrobar',
+  'bistro', 'bistrô', 'balada', 'restaurante', 'restaurante_premium',
+  'hotel', 'clube', 'lounge', 'pub', 'wine_bar', 'steakhouse',
+  'churrascaria', 'cafeteria'
+]);
+const COCKTAIL_TYPE_RE = /(^|_)(bar|coquetel|coquetelaria|gastrobar|bistro|bistrô|balada|restaurante|hotel|clube|lounge|pub|wine_bar|steakhouse|churrascaria|cafeteria|sushi|japonesa)(_|$)/;
+function isCocktailICP(lead) {
+  const t = String(lead?.type || '').toLowerCase().trim();
+  return !!t && (COCKTAIL_TYPES.has(t) || COCKTAIL_TYPE_RE.test(t));
+}
+
 const TYPE_PRIORITY = {
-  adega: 100, loja_bebidas: 95, distribuidora: 90, distribuidor: 90,
-  atacadista: 85, bar: 80, balada: 75, restaurante: 65,
-  hotel: 55, catering: 50, clube: 45
+  coquetelaria: 100, bar_coquetel: 98, bar: 95, gastrobar: 92, wine_bar: 90,
+  balada: 85, bistro: 82, 'bistrô': 82, lounge: 80, restaurante_premium: 78,
+  restaurante: 75, hotel: 65, clube: 60, pub: 55, steakhouse: 50,
+  sushi: 48, churrascaria: 45, cafeteria: 40
 };
 const FREE_EMAIL_DOMAINS = new Set(['gmail.com', 'hotmail.com', 'outlook.com', 'yahoo.com', 'yahoo.com.br', 'uol.com.br', 'terra.com.br', 'bol.com.br', 'ig.com.br']);
 const BLOCKED_RECIPIENT_DOMAINS = new Set(['mocoto.com.br']);
@@ -65,15 +81,8 @@ function leadPriority(lead) {
   return score;
 }
 
-const FIRST_CONTACT_TYPES = new Set([
-  'adega', 'loja_bebidas', 'distribuidora', 'distribuidor',
-  'atacadista', 'bar', 'balada', 'restaurante', 'buffet'
-]);
-
 function eligibleFirstContactType(type) {
-  const normalized = String(type || '').toLowerCase();
-  return FIRST_CONTACT_TYPES.has(normalized) ||
-    /(^|_)(adega|loja|loja_bebidas|distribuidora|distribuidor|atacadista|bar|balada|restaurante|buffet|hotel|catering|supermercado|padaria|mercadinho|conveniencia|emporio|gelateria|sorveteria|churrascaria|chocolateria|confeitaria|carnes|pizzaria|hamburgueria|cafeteria|açaí|acai|bebidas|pizzar|massas|cervejaria|vinhoteca|fromagerie|charcutaria|rotisseria|marmitaria|lanchonete|sanduicheria|sushi|japonesa|italiana|francesa|espanhola|mediterranea|steakhouse|gastrobar|bistrô|bistro|fabrica|industria|microcervejaria|doceria)(_|$)/.test(normalized);
+  return isCocktailICP({ type });
 }
 
 function daysFromNow(dateStr) {
@@ -103,14 +112,31 @@ function emailFrozen(lead) {
   return false;
 }
 
-function verifiedFollowUp(lead) {
-  // Para follow-ups: o email já foi entregue com sucesso (email1 enviado),
-  // então não verificamos emailVerified nem tipo nem source.
-  // Apenas verificamos que não está suprimido, não é domínio bloqueado,
-  // não está congelado e não respondeu.
-  if (SUPPRESSED_EMAILS.has(String(lead.email || '').toLowerCase())) return false;
-  if (BLOCKED_RECIPIENT_DOMAINS.has(emailDomain(lead.email))) return false;
-  return true;
+// Follow-ups: so para leads que NAO responderam e estao no ICP coquetelaria.
+const RESPONDED_STATUSES = new Set([
+  'interested', 'responded', 'responded_routed', 'replied', 'qualified',
+  'cliente', 'closed', 'won', 'meeting', 'meeting_scheduled', 'proposta'
+]);
+function hasResponded(lead) {
+  if (lead.response || lead.responded || lead.interested || lead.replied) return true;
+  return RESPONDED_STATUSES.has(String(lead.status || '').toLowerCase());
+}
+
+// Toque 2: 3 a 30 dias apos email1. Toque 3: 4 a 30 dias apos email2.
+const FOLLOWUP_MIN_DAYS_2 = 3;
+const FOLLOWUP_MIN_DAYS_3 = 4;
+const FOLLOWUP_MAX_DAYS = 30;
+function followupStepDue(lead) {
+  if (!lead.email1 || hasResponded(lead)) return null;
+  if (!lead.email2 && lead.date1) {
+    const d = daysDiff(lead.date1);
+    if (d >= FOLLOWUP_MIN_DAYS_2 && d <= FOLLOWUP_MAX_DAYS) return 'email2';
+  }
+  if (lead.email2 && !lead.email3 && lead.date2) {
+    const d = daysDiff(lead.date2);
+    if (d >= FOLLOWUP_MIN_DAYS_3 && d <= FOLLOWUP_MAX_DAYS) return 'email3';
+  }
+  return null;
 }
 
 function permanentRecipientError(error) {
@@ -134,46 +160,48 @@ const TEMPLATES = {
 
 Vi que {contexto}.
 
-Sou o Gustavo, da Pindorama (cachaça artesanal do Vale do Café/RJ). Trabalho com rótulos premium como a Pindorama Clássica, Pindorama Ouro e Cobra Coral (jabuticaba) — ótimos para caipirinhas e coquetéis autorais.
+Sou o Gustavo, da Pindorama (cachaça artesanal do Vale do Café/RJ). Temos rótulos como Clássica, Ouro e Cobra Coral (jabuticaba) que funcionam bem em caipirinhas e drinks autorais.
 
-Faz sentido eu te enviar 2 sugestões de drinks e as condições para a {nome}? Se preferir, posso separar uma amostra para degustação.
+Faz sentido eu te enviar 2 sugestões de drinks pensadas para a casa + condições? Se quiser, posso separar uma amostra para teste.
 
-Se não for do seu interesse, é só responder "não" que não insisto.`,
+Se não for o momento, é só responder "não" que encerro por aqui.`,
   email1_prova_social: `Olá {nome},
 
 Vi que {contexto}.
 
-Sou o Gustavo, da Pindorama — cachaça artesanal do Vale do Café (RJ), já presente em casas como Fasano, Hilton e Rosewood. Nossos rótulos (Clássica, Ouro e Cobra Coral de jabuticaba) funcionam muito bem em caipirinhas e coquetelaria.
+Sou o Gustavo, da Pindorama — cachaça artesanal do Vale do Café (RJ), presente em casas como Fasano, Hilton e Rosewood. A Clássica, a Ouro e a Cobra Coral (jabuticaba) têm ido bem em cartas de coquetelaria.
 
-Posso te mandar uma sugestão rápida de aplicação no bar e as condições para a {nome}? Também consigo levar amostra para teste.
+Posso te mandar uma sugestão de aplicação no bar e as condições para a {nome}? Também consigo levar amostra.
 
-Se não fizer sentido, responda "não" que encerro por aqui.`,
+Se não fizer sentido, responda "não" que não insisto.`,
   email1_pergunta: `Olá {nome},
 
 Pergunta rápida: a {nome} já trabalha com alguma cachaça artesanal premium na carta de drinks?
 
-Vi que {contexto}. Sou o Gustavo, da Pindorama (Vale do Café/RJ) — temos rótulos como Clássica, Ouro e Cobra Coral (jabuticaba) que vão muito bem em caipirinhas e coquetéis.
+Vi que {contexto}. Sou o Gustavo, da Pindorama (Vale do Café/RJ) — Clássica, Ouro e Cobra Coral (jabuticaba) costumam funcionar bem em caipirinhas e coquetéis autorais.
 
-Se fizer sentido, te envio condições e posso separar uma amostra para degustação. Se não, é só responder "não".`,
+Se fizer sentido, te envio condições e posso separar uma amostra. Se não, é só responder "não".`,
   email1_revenda: `Olá {nome},
 
 Vi que {contexto}.
 
-Sou o Gustavo, da Pindorama (cachaça artesanal do Vale do Café/RJ). Temos rótulos premium (Pindorama Clássica, Ouro e Cobra Coral de jabuticaba) com boa saída no canal premium.
+Sou o Gustavo, da Pindorama (cachaça artesanal do Vale do Café/RJ). Temos rótulos premium (Clássica, Ouro e Cobra Coral de jabuticaba) com boa saída no canal premium.
 
-Posso te enviar mix sugerido, condições e tabela para avaliar revenda na {nome}? Se preferir, começo com um pedido teste.
+Posso te enviar mix sugerido e condições para avaliar na {nome}?
 
 Se não fizer sentido, responda "não" que não insisto.`,
   email2: `Olá {nome},
 
-Passando rápido: na semana passada falei da Pindorama (cachaça artesanal premium do Vale do Café/RJ).
+Retomando rápido: falei há alguns dias da Pindorama (cachaça artesanal do Vale do Café/RJ) para a {nome}.
 
-Se fizer sentido para a {nome}, posso te enviar 2 sugestões de uso (bar ou revenda) + condições em uma mensagem curta. Quer que eu te mande?`,
+Se quiser, te envio 2 ideias de drinks com a Clássica/Ouro/Cobra Coral e as condições em uma mensagem curta. Faz sentido?
+
+Se não for interesse, responda "não" que paro por aqui.`,
   email3: `Olá {nome},
 
 Último toque por aqui para não insistir.
 
-Se em algum momento fizer sentido testar a Pindorama (Clássica, Ouro ou Cobra Coral) na {nome}, é só responder este e-mail que te envio condições e opções.
+Se em algum momento fizer sentido testar a Pindorama (Clássica, Ouro ou Cobra Coral) na carta da {nome}, é só responder este e-mail que te envio condições e opções de amostra.
 
 Sucesso aí!`,
 };
@@ -181,16 +209,22 @@ Sucesso aí!`,
 Object.keys(TEMPLATES).forEach(k => { TEMPLATES[k] += SIGNATURE; });
 
 const SUBJECTS = {
-  bar: 'Cachaça artesanal para a carta de drinks',
-  restaurante: 'Cachaça artesanal para drinks e caipirinhas',
-  adega: 'Cachaça artesanal premium para o portfólio',
-  loja_bebidas: 'Cachaça artesanal premium para sua loja',
-  distribuidora: 'Cachaça artesanal premium para o portfólio B2B',
-  hotel: 'Cachaça artesanal para o bar do hotel',
-  balada: 'Cachaça artesanal para os drinks da casa',
-  supermercado: 'Cachaça artesanal premium para gôndola',
-  emporio: 'Cachaça artesanal premium para o empório',
-  cafeteria: 'Cachaça artesanal para drinks especiais'
+  bar: 'Cachaça artesanal para a carta de drinks da {nome}?',
+  bar_coquetel: 'Cachaça artesanal para a carta de coquetéis da {nome}?',
+  coquetelaria: 'Cachaça artesanal para a coquetelaria da {nome}?',
+  gastrobar: 'Cachaça artesanal para os drinks do {nome}?',
+  restaurante: 'Cachaça artesanal para drinks e caipirinhas na {nome}?',
+  restaurante_premium: 'Cachaça artesanal para a carta de drinks da {nome}?',
+  hotel: 'Cachaça artesanal para o bar do {nome}?',
+  balada: 'Cachaça artesanal para os drinks da {nome}?',
+  bistro: 'Cachaça artesanal para os drinks do {nome}?',
+  'bistrô': 'Cachaça artesanal para os drinks do {nome}?',
+  cafeteria: 'Cachaça artesanal para drinks especiais na {nome}?',
+  steakhouse: 'Cachaça artesanal para caipirinhas e drinks na {nome}?',
+  clube: 'Cachaça artesanal para os drinks do {nome}?',
+  lounge: 'Cachaça artesanal para os drinks do {nome}?',
+  wine_bar: 'Cachaça artesanal para a carta do {nome}?',
+  pub: 'Cachaça artesanal para os drinks do {nome}?'
 };
 
 function pickTemplate(lead, step) {
@@ -204,15 +238,16 @@ function pickTemplate(lead, step) {
 }
 
 function getSubject(lead, step) {
+  const first = (String(lead.name || '').split(' ')[0] || 'sua casa').replace(/[<>]/g, '');
   if (step === 'email1') {
     const t = String(lead.type || '').toLowerCase();
     for (const k of Object.keys(SUBJECTS)) {
-      if (t === k || t.includes(k)) return SUBJECTS[k];
+      if (t === k || t.includes(k)) return SUBJECTS[k].replace(/{nome}/g, first);
     }
-    return 'Cachaça artesanal premium da Pindorama';
+    return `Cachaça artesanal para os drinks da ${first}?`;
   }
-  if (step === 'email2') return 'Posso te enviar sugestões + condições?';
-  if (step === 'email3') return 'Último toque — Pindorama';
+  if (step === 'email2') return `Posso te enviar sugestões de drinks para a ${first}?`;
+  if (step === 'email3') return `Último toque — Pindorama para a ${first}`;
   return 'Pindorama';
 }
 
@@ -306,7 +341,7 @@ async function sendEmail1(maxSent = Infinity) {
       leads.filter(x => x.email1).map(x => String(x.email || '').toLowerCase())
     );
     const pending = leads
-      .filter(x => x.name && !x.email1 && !contactedEmails.has(String(x.email || '').toLowerCase()) && !x.invalidEmail && !x.doNotContact && !failed.has(x.email) && x.email && x.targetProfile === 'A/B' && !emailFrozen(x) && !x.emailCycleClosed)
+      .filter(x => x.name && !x.email1 && !contactedEmails.has(String(x.email || '').toLowerCase()) && !x.invalidEmail && !x.doNotContact && !failed.has(x.email) && x.email && isCocktailICP(x) && x.targetProfile === 'A/B' && !emailFrozen(x) && !x.emailCycleClosed)
       .sort((a, b) => leadPriority(b) - leadPriority(a));
     if (!pending.length) {
       if (sent === 0) {
@@ -363,10 +398,60 @@ async function sendEmail1(maxSent = Infinity) {
   return sent;
 }
 
-// --- Send follow-ups (DESABILITADO ate 30/10 - foco 100% em email1 ate sexta-feira) ---
+// --- Follow-ups (reativados 18/11/2026): no maximo 2 toques, 3-5 dias de
+// intervalo, param imediatamente na primeira resposta e respeitam a quota. ---
+const FOLLOWUP_MAX_PER_RUN = 5; // teto por execucao (workflow roda a cada 15 min)
 async function sendFollowups(maxSent = Infinity) {
-  console.log('Follow-ups desativados temporariamente - foco em email1 apenas');
-  return 0;
+  let sent = 0;
+  const failed = new Set();
+  for (;;) {
+    if (sent >= maxSent || sent >= FOLLOWUP_MAX_PER_RUN) break;
+    if (!emailQuotaAvailable()) break;
+    const leads = load(LEADS_FILE);
+    const pending = leads
+      .filter(x => x.name && x.email && x.email1 && isCocktailICP(x)
+        && !hasResponded(x) && !x.invalidEmail && !x.doNotContact
+        && !x.emailFrozenUntil && !x.emailCycleClosed && !failed.has(x.email)
+        && followupStepDue(x))
+      .sort((a, b) => {
+        // Fecha o ciclo de quem ja recebeu o toque 2 primeiro.
+        const sa = followupStepDue(a) === 'email3' ? 0 : 1;
+        const sb = followupStepDue(b) === 'email3' ? 0 : 1;
+        if (sa !== sb) return sa - sb;
+        return String(b.date2 || b.date1 || '').localeCompare(String(a.date2 || a.date1 || ''));
+      });
+    if (!pending.length) break;
+    const l = pending[0];
+    const step = followupStepDue(l);
+    try {
+      const valid = l.mxVerified === true || await validateDNS(l.email);
+      if (!valid) {
+        suppressInvalidEmail(l.email, 'domain_without_mx');
+        failed.add(l.email);
+        console.log(`FOLLOWUP SUPRIMIDO (sem MX): ${l.name} <${l.email}>`);
+        continue;
+      }
+      await sendEmail(l, step);
+      recordEmailOutput();
+      const reloaded = load(LEADS_FILE);
+      let persisted = false;
+      for (const item of reloaded) {
+        if (String(item.email || '').toLowerCase() !== String(l.email || '').toLowerCase()) continue;
+        item[step] = true;
+        item['date' + step.slice(-1)] = today();
+        persisted = true;
+      }
+      if (persisted) save(LEADS_FILE, reloaded);
+      console.log(`FOLLOWUP ${step} OK: ${l.name} <${l.email}>`);
+      sent++;
+      await new Promise(r => setTimeout(r, DELAY_MS));
+    } catch (e) {
+      failed.add(l.email);
+      if (permanentRecipientError(e)) suppressInvalidEmail(l.email, 'permanent_recipient_error');
+      console.log(`FOLLOWUP ${step} ERR ${l.name}: ${e.message}`);
+    }
+  }
+  return sent;
 }
 
 // --- Main ---
@@ -391,7 +476,8 @@ if (args[0] === '--add') {
   console.log('Follow-ups sent: ' + s);
 } else if (args[0] === '--all') {
   const s1 = await sendEmail1(maxPerRun);
-  console.log('Email1: ' + s1 + ', Follow-ups: 0 (desativados - foco email1)');
+  const s2 = await sendFollowups(maxPerRun);
+  console.log(`Email1: ${s1}, Follow-ups: ${s2}`);
 } else {
   console.log('Usage:');
   console.log('  --add \'[...]\'       Add new leads (JSON string) + send');
