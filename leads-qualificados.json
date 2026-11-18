@@ -32210,13 +32210,14 @@
     "emailVerifiedAt": "2026-10-13",
     "emailSource": "https://www.instagram.com/dinnerintheskybr/",
     "email1": true,
-    "email2": false,
+    "email2": true,
     "email3": false,
     "targetProfile": "A/B",
     "mxVerified": true,
     "emailFrozenUntil": null,
     "emailCycleClosed": false,
-    "date1": "2026-11-14"
+    "date1": "2026-11-14",
+    "date2": "2026-11-18"
   },
   {
     "name": "3 Brasseurs Brasil",
@@ -32269,13 +32270,14 @@
     "emailVerifiedAt": "2026-10-13",
     "emailSource": "https://www.instagram.com/ovelhaodemolicoes/",
     "email1": true,
-    "email2": false,
+    "email2": true,
     "email3": false,
     "targetProfile": "A/B",
     "mxVerified": true,
     "emailFrozenUntil": null,
     "emailCycleClosed": false,
-    "date1": "2026-11-14"
+    "date1": "2026-11-14",
+    "date2": "2026-11-18"
   },
   {
     "name": "Vista Restaurante Ibirapuera",
@@ -32312,13 +32314,14 @@
     "emailVerifiedAt": "2026-10-13",
     "emailSource": "https://www.instagram.com/macaxeirarestaurante/",
     "email1": true,
-    "email2": false,
+    "email2": true,
     "email3": false,
     "targetProfile": "A/B",
     "mxVerified": true,
     "emailFrozenUntil": null,
     "emailCycleClosed": false,
-    "date1": "2026-11-14"
+    "date1": "2026-11-14",
+    "date2": "2026-11-18"
   },
   {
     "name": "Jiquitaia Restaurante e Bar",
@@ -32358,13 +32361,14 @@
     "emailVerifiedAt": "2026-10-13",
     "emailSource": "https://www.instagram.com/lucegastronomia/",
     "email1": true,
-    "email2": false,
+    "email2": true,
     "email3": false,
     "targetProfile": "A/B",
     "mxVerified": true,
     "emailFrozenUntil": null,
     "emailCycleClosed": false,
-    "date1": "2026-11-14"
+    "date1": "2026-11-14",
+    "date2": "2026-11-18"
   },
   {
     "name": "Quincho Cozinha & Coquetelaria",
@@ -32401,13 +32405,14 @@
     "emailVerifiedAt": "2026-10-13",
     "emailSource": "https://www.instagram.com/restaurantefreddy/",
     "email1": true,
-    "email2": false,
+    "email2": true,
     "email3": false,
     "targetProfile": "A/B",
     "mxVerified": true,
     "emailFrozenUntil": null,
     "emailCycleClosed": false,
-    "date1": "2026-11-14"
+    "date1": "2026-11-14",
+    "date2": "2026-11-18"
   },
   {
     "name": "BANANA VERDE",
@@ -32446,12 +32451,13 @@
     "emailVerifiedAt": "2026-09-01",
     "mxVerified": true,
     "mxVerifiedAt": "2026-09-01",
-    "email1": false,
+    "email1": true,
     "targetProfile": "A/B",
     "email2": false,
     "emailSource": "https://www.restaurantecapimsanto.com.br/saopaulo",
     "emailFrozenUntil": null,
-    "emailCycleClosed": false
+    "emailCycleClosed": false,
+    "date1": "2026-11-18"
   },
   {
     "name": "BROWN SUGAR",
@@ -32810,14 +32816,15 @@
     "emailVerified": true,
     "emailVerifiedAt": "2026-10-13",
     "emailSource": "https://www.instagram.com/tasteitrestaurante/",
-    "email1": false,
+    "email1": true,
     "email2": false,
     "email3": false,
     "targetProfile": "A/B",
     "score": 10,
     "mxVerified": false,
     "emailFrozenUntil": null,
-    "emailCycleClosed": false
+    "emailCycleClosed": false,
+    "date1": "2026-11-18"
   },
   {
     "name": "Palácio Tangará",
@@ -33608,14 +33615,15 @@
     "emailVerified": true,
     "emailSource": "https://www.rembartenders.com.br/",
     "emailVerifiedAt": "2026-10-13",
-    "email1": false,
+    "email1": true,
     "email2": false,
     "email3": false,
     "mxVerified": true,
     "emailFrozenUntil": null,
     "emailCycleClosed": false,
     "targetProfile": "A/B",
-    "template": "consultivo"
+    "template": "consultivo",
+    "date1": "2026-11-18"
   },
   {
     "name": "Buffet Damasco",
@@ -33837,14 +33845,15 @@
     "emailVerified": true,
     "emailSource": "https://showbartenders.com.br/",
     "emailVerifiedAt": "2026-10-13",
-    "email1": false,
+    "email1": true,
     "email2": false,
     "email3": false,
     "mxVerified": true,
     "emailFrozenUntil": null,
     "emailCycleClosed": false,
     "targetProfile": "A/B",
-    "template": "consultivo"
+    "template": "consultivo",
+    "date1": "2026-11-18"
   },
   {
     "name": "Energy Drinks Bar",
@@ -34025,7 +34034,7 @@
     "emailSource": "https://hotelpanambysaopaulo.com.br/wp-content/uploads/Eventos-Hotel-Panamby-Sao-Paulo.pdf",
     "emailVerifiedAt": "2026-10-13",
     "template": "consultivo",
-    "email1": false,
+    "email1": true,
     "status": "contacted",
     "messageId1": "<f3495139-8e6e-00f0-233d-43069306089c@gmail.com>",
     "email2": false,
@@ -34033,7 +34042,8 @@
     "targetProfile": "A/B",
     "mxVerified": false,
     "emailFrozenUntil": null,
-    "emailCycleClosed": false
+    "emailCycleClosed": false,
+    "date1": "2026-11-18"
   },
   {
     "name": "Agari Drinks",
@@ -34279,7 +34289,7 @@
     "emailSource": "https://www.vitoriahoteis.com.br/casamentos-campinas",
     "emailVerifiedAt": "2026-10-13",
     "template": "consultivo",
-    "email1": false,
+    "email1": true,
     "status": "responded_routed",
     "messageId1": "<8196237e-6674-d3bb-bbf1-d1fb9f4223c7@gmail.com>",
     "responded": false,
@@ -34291,7 +34301,8 @@
     "targetProfile": "A/B",
     "mxVerified": false,
     "emailFrozenUntil": null,
-    "emailCycleClosed": false
+    "emailCycleClosed": false,
+    "date1": "2026-11-18"
   },
   {
     "name": "Bar2Go",
@@ -34328,7 +34339,7 @@
     "emailSource": "https://www.bourbon.com.br/hoteis-e-resorts/bourbon-convention-hotel-santos",
     "emailVerifiedAt": "2026-10-13",
     "template": "consultivo",
-    "email1": false,
+    "email1": true,
     "status": "responded_routed",
     "messageId1": "<df97bbdf-eeb2-86f3-826b-a0e02a123834@gmail.com>",
     "responded": false,
@@ -34340,7 +34351,8 @@
     "targetProfile": "A/B",
     "mxVerified": false,
     "emailFrozenUntil": null,
-    "emailCycleClosed": false
+    "emailCycleClosed": false,
+    "date1": "2026-11-18"
   },
   {
     "name": "XBAR",
@@ -34354,14 +34366,15 @@
     "emailVerified": true,
     "emailSource": "https://www.xbar.com.br/",
     "emailVerifiedAt": "2026-10-13",
-    "email1": false,
+    "email1": true,
     "email2": false,
     "email3": false,
     "mxVerified": true,
     "emailFrozenUntil": null,
     "emailCycleClosed": false,
     "targetProfile": "A/B",
-    "template": "consultivo"
+    "template": "consultivo",
+    "date1": "2026-11-18"
   },
   {
     "name": "Adega Don Marte",
@@ -34573,14 +34586,15 @@
     "emailVerified": true,
     "emailSource": "https://brasilbartender.com.br/servicos.html",
     "emailVerifiedAt": "2026-10-13",
-    "email1": false,
+    "email1": true,
     "email2": false,
     "email3": false,
     "mxVerified": true,
     "emailFrozenUntil": null,
     "emailCycleClosed": false,
     "targetProfile": "A/B",
-    "template": "consultivo"
+    "template": "consultivo",
+    "date1": "2026-11-18"
   },
   {
     "name": "Vedê Coquetelaria & Arte",
@@ -34615,14 +34629,15 @@
     "emailVerified": true,
     "emailSource": "https://www.yummycocktails.com.br/",
     "emailVerifiedAt": "2026-10-13",
-    "email1": false,
+    "email1": true,
     "email2": false,
     "email3": false,
     "mxVerified": true,
     "emailFrozenUntil": null,
     "emailCycleClosed": false,
     "targetProfile": "A/B",
-    "template": "consultivo"
+    "template": "consultivo",
+    "date1": "2026-11-18"
   },
   {
     "name": "Cervejaria Rei do Malte",
@@ -34637,13 +34652,14 @@
     "emailSource": "https://reidomaltecervejaria.com.br/index.php",
     "emailVerifiedAt": "2026-10-13",
     "template": "consultivo",
-    "email1": false,
+    "email1": true,
     "email2": false,
     "email3": false,
     "targetProfile": "A/B",
     "mxVerified": false,
     "emailFrozenUntil": null,
-    "emailCycleClosed": false
+    "emailCycleClosed": false,
+    "date1": "2026-11-18"
   },
   {
     "name": "Villa BBM Gastrobar",
@@ -34806,13 +34822,14 @@
     "emailSource": "https://www.area17.com.br/empresa/restaurante-bar/itapevi/alemao-bar---bistro---bar--bistro--restaurante-e-pizzaria-no-amador-bueno--itapevi-sp/59209",
     "emailVerifiedAt": "2026-10-13",
     "template": "consultivo",
-    "email1": false,
+    "email1": true,
     "email2": false,
     "email3": false,
     "targetProfile": "A/B",
     "mxVerified": false,
     "emailFrozenUntil": null,
-    "emailCycleClosed": false
+    "emailCycleClosed": false,
+    "date1": "2026-11-18"
   },
   {
     "name": "Bendita Areia",
@@ -35857,12 +35874,13 @@
     "mxVerified": true,
     "mxVerifiedAt": "2026-08-23",
     "template": "pergunta",
-    "email1": false,
+    "email1": true,
     "email2": false,
     "email3": false,
     "targetProfile": "A/B",
     "emailFrozenUntil": null,
-    "emailCycleClosed": false
+    "emailCycleClosed": false,
+    "date1": "2026-11-18"
   },
   {
     "name": "Destill Comercial",
@@ -41366,7 +41384,7 @@
     "type": "bar",
     "website": "",
     "context": "o Copenhague Bar Drinks em Guaianases (SP), bar ativo com foco em drinks",
-    "email1": false,
+    "email1": true,
     "email2": false,
     "email3": false,
     "emailVerified": true,
@@ -41376,7 +41394,8 @@
     "template": "pergunta",
     "mxVerified": false,
     "emailFrozenUntil": null,
-    "emailCycleClosed": false
+    "emailCycleClosed": false,
+    "date1": "2026-11-18"
   },
   {
     "name": "A Beira Bar",
@@ -45750,11 +45769,12 @@
     "emailVerifiedAt": "2026-10-16",
     "mxVerified": true,
     "template": "consultivo",
-    "email1": false,
+    "email1": true,
     "invalidEmail": false,
     "targetProfile": "A/B",
     "emailFrozenUntil": null,
-    "emailCycleClosed": false
+    "emailCycleClosed": false,
+    "date1": "2026-11-18"
   },
   {
     "name": "Restaurante Saru Sushi",
