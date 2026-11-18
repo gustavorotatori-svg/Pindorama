@@ -1,8 +1,8 @@
-name: Relatório Online
+﻿name: Relatório Online
 
 on:
   schedule:
-    - cron: '0 */6 * * *'   # roda a cada 6 horas (atende o mínimo de 36h)
+    - cron: '0 * * * *'   # atualiza a cada hora (link fixo, sempre atualizado)
   workflow_dispatch:
 
 permissions:
@@ -24,8 +24,9 @@ jobs:
       - name: Gerar relatório HTML
         run: node scripts/gerar-relatorio-html.mjs
 
-      - name: Gerar configuração do site estático
+      - name: Preparar artefatos do relatório
         run: |
+          mkdir -p relatorio
           echo '{"version":2,"scripts":{"vercel-build":"echo static-ok"}}' > ./relatorio/package.json
           echo '{"version":2,"cleanUrls":true}' > ./relatorio/vercel.json
 
