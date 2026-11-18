@@ -32428,13 +32428,14 @@
     "emailVerifiedAt": "2026-10-13",
     "emailSource": "https://www.instagram.com/restbananaverde/",
     "email1": true,
-    "email2": false,
+    "email2": true,
     "email3": false,
     "targetProfile": "A/B",
     "mxVerified": true,
     "emailFrozenUntil": null,
     "emailCycleClosed": false,
-    "date1": "2026-11-14"
+    "date1": "2026-11-14",
+    "date2": "2026-11-18"
   },
   {
     "name": "CAPIM SANTO",
@@ -32473,13 +32474,14 @@
     "emailVerifiedAt": "2026-10-13",
     "emailSource": "https://www.instagram.com/brownsugarrestaurante/",
     "email1": true,
-    "email2": false,
+    "email2": true,
     "email3": false,
     "targetProfile": "A/B",
     "mxVerified": true,
     "emailFrozenUntil": null,
     "emailCycleClosed": false,
-    "date1": "2026-11-14"
+    "date1": "2026-11-14",
+    "date2": "2026-11-18"
   },
   {
     "name": "Le Manjue Organique",
@@ -32572,13 +32574,14 @@
     "emailVerifiedAt": "2026-10-13",
     "emailSource": "https://www.instagram.com/atorteria/",
     "email1": true,
-    "email2": false,
+    "email2": true,
     "email3": false,
     "targetProfile": "A/B",
     "mxVerified": true,
     "emailFrozenUntil": null,
     "emailCycleClosed": false,
-    "date1": "2026-11-14"
+    "date1": "2026-11-14",
+    "date2": "2026-11-18"
   },
   {
     "name": "CAKESS",
@@ -32594,13 +32597,14 @@
     "emailVerifiedAt": "2026-10-13",
     "emailSource": "https://www.instagram.com/cakess_sweet_sugar/",
     "email1": true,
-    "email2": false,
+    "email2": true,
     "email3": false,
     "targetProfile": "A/B",
     "mxVerified": true,
     "emailFrozenUntil": null,
     "emailCycleClosed": false,
-    "date1": "2026-11-14"
+    "date1": "2026-11-14",
+    "date2": "2026-11-18"
   },
   {
     "name": "LIL├â┬ôRI",
@@ -32635,13 +32639,14 @@
     "emailVerifiedAt": "2026-10-13",
     "emailSource": "https://www.instagram.com/gelatoboutique/",
     "email1": true,
-    "email2": false,
+    "email2": true,
     "email3": false,
     "targetProfile": "A/B",
     "mxVerified": true,
     "emailFrozenUntil": null,
     "emailCycleClosed": false,
-    "date1": "2026-11-14"
+    "date1": "2026-11-14",
+    "date2": "2026-11-18"
   },
   {
     "name": "Carlota Bistr├â┬┤",
