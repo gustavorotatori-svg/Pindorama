@@ -49,9 +49,18 @@ jobs:
           git add report-send-log.json || true
           if ! git diff --cached --quiet; then
             git commit -m "relatorio: log de envio semanal $(date -u +%Y-%m-%dT%H:%MZ)"
+            # descarta alterações geradas (dashboard/relatorio) para permitir rebase/push
+            git checkout -- . 2>/dev/null || true
+            git clean -fd 2>/dev/null || true
             for i in 1 2 3; do
               git fetch origin master
-              git rebase origin/master && git push origin HEAD:master && exit 0
+              if git rebase origin/master; then
+                if git push origin HEAD:master; then
+                  echo "Log enviado com sucesso"
+                  exit 0
+                fi
+              fi
+              git rebase --abort 2>/dev/null || true
               sleep $((i * 5))
             done
             echo "Falha ao enviar log de envio"
