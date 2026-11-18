@@ -32680,13 +32680,14 @@
     "emailVerifiedAt": "2026-10-13",
     "emailSource": "https://www.instagram.com/tuespao/?hl=pt",
     "email1": true,
-    "email2": false,
+    "email2": true,
     "email3": false,
     "targetProfile": "A/B",
     "mxVerified": true,
     "emailFrozenUntil": null,
     "emailCycleClosed": false,
-    "date1": "2026-11-14"
+    "date1": "2026-11-14",
+    "date2": "2026-11-18"
   },
   {
     "name": "Tiramisu Sossi",
@@ -32720,13 +32721,14 @@
     "emailVerifiedAt": "2026-10-13",
     "emailSource": "https://www.instagram.com/damoocapizzashop/",
     "email1": true,
-    "email2": false,
+    "email2": true,
     "email3": false,
     "targetProfile": "A/B",
     "mxVerified": true,
     "emailFrozenUntil": null,
     "emailCycleClosed": false,
-    "date1": "2026-11-14"
+    "date1": "2026-11-14",
+    "date2": "2026-11-18"
   },
   {
     "name": "Exquisito ! Bar",
@@ -32760,13 +32762,14 @@
     "emailVerifiedAt": "2026-10-13",
     "emailSource": "https://www.instagram.com/st.chico/",
     "email1": true,
-    "email2": false,
+    "email2": true,
     "email3": false,
     "targetProfile": "A/B",
     "mxVerified": true,
     "emailFrozenUntil": null,
     "emailCycleClosed": false,
-    "date1": "2026-11-14"
+    "date1": "2026-11-14",
+    "date2": "2026-11-18"
   },
   {
     "name": "HOSPEDARIA",
@@ -32782,13 +32785,14 @@
     "emailVerifiedAt": "2026-10-13",
     "emailSource": "https://www.instagram.com/hospedariasp/",
     "email1": true,
-    "email2": false,
+    "email2": true,
     "email3": false,
     "targetProfile": "A/B",
     "mxVerified": true,
     "emailFrozenUntil": null,
     "emailCycleClosed": false,
-    "date1": "2026-11-14"
+    "date1": "2026-11-14",
+    "date2": "2026-11-18"
   },
   {
     "name": "Red Coffee & Co",
@@ -38706,13 +38710,14 @@
     "template": "consultivo",
     "website": "",
     "email1": true,
-    "email2": false,
+    "email2": true,
     "email3": false,
     "targetProfile": "A/B",
     "mxVerified": true,
     "emailFrozenUntil": null,
     "emailCycleClosed": false,
-    "date1": "2026-11-14"
+    "date1": "2026-11-14",
+    "date2": "2026-11-18"
   },
   {
     "name": "Bar do Alemao Jundiai",
