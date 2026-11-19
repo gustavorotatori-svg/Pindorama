@@ -1,12 +1,12 @@
 {
-  "lastUpdate": "2026-11-18T20:20:49.247Z",
+  "lastUpdate": "2026-11-19T07:03:17.279Z",
   "sinceDate": "2026-08-02",
   "totalLeads": 4021,
   "emails": {
     "email1": 1066,
-    "email2": 11,
+    "email2": 21,
     "email3": 0,
-    "total": 1077
+    "total": 1087
   },
   "whatsapp": {
     "today": 0,
@@ -15,10 +15,6 @@
   "responses": 7,
   "pending": 540,
   "daily": [
-    {
-      "date": "2026-10-20",
-      "count": 18
-    },
     {
       "date": "2026-10-21",
       "count": 13
@@ -133,7 +129,11 @@
     },
     {
       "date": "2026-11-18",
-      "count": 25
+      "count": 30
+    },
+    {
+      "date": "2026-11-19",
+      "count": 5
     }
   ],
   "monthly": [
@@ -161,9 +161,9 @@
     {
       "month": "2026-11",
       "email1": 961,
-      "email2": 10,
+      "email2": 20,
       "email3": 0,
-      "total": 971
+      "total": 981
     }
   ],
   "topNeighborhoods": [
@@ -315,17 +315,17 @@
   "funnel": {
     "leads": 4021,
     "email1": 1066,
-    "email2": 11,
+    "email2": 21,
     "email3": 0,
     "responded": 7
   },
   "week": {
-    "leads": 392,
+    "leads": 372,
     "emails": {
-      "email1": 392,
-      "email2": 10,
+      "email1": 372,
+      "email2": 20,
       "email3": 0,
-      "total": 402,
+      "total": 392,
       "responses": 1
     }
   },
@@ -333,9 +333,9 @@
     "leads": 961,
     "emails": {
       "email1": 961,
-      "email2": 10,
+      "email2": 20,
       "email3": 0,
-      "total": 971,
+      "total": 981,
       "responses": 1
     }
   },
@@ -343,9 +343,9 @@
     "leads": 1067,
     "emails": {
       "email1": 1066,
-      "email2": 11,
+      "email2": 21,
       "email3": 0,
-      "total": 1077,
+      "total": 1087,
       "responses": 7
     }
   },
@@ -353,9 +353,9 @@
     "leads": 4021,
     "emails": {
       "email1": 1066,
-      "email2": 11,
+      "email2": 21,
       "email3": 0,
-      "total": 1077
+      "total": 1087
     },
     "responses": 7,
     "whatsapp": 262,
