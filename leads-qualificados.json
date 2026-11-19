@@ -65214,5 +65214,24 @@
     "website": "https://fasano.com.br/gastronomia/bar-da-piscina-sao-paulo-itaim/",
     "emailSource": "https://fasano.com.br/gastronomia/bar-da-piscina-sao-paulo-itaim/",
     "targetProfile": "A"
+  },
+  {
+    "email1": false,
+    "email2": false,
+    "email3": false,
+    "emailVerified": true,
+    "emailVerifiedAt": "2026-11-19",
+    "mxVerified": true,
+    "name": "High Line Bar",
+    "email": "reservas@highlinebar.com.br",
+    "type": "bar/rooftop",
+    "neighborhood": "Vila Madalena",
+    "address": "R. Girassol, 144 - Vila Madalena, São Paulo - SP",
+    "context": "Bar com deck, rooftop e pista na Vila Madalena, foco em coquetelaria premium, drinks autorais e eventos; forte encaixe para caipirinhas e coquetéis com cachaça Pindorama no bar e em celebrações.",
+    "phone": "(11) 3032-2934",
+    "template": "consultivo",
+    "website": "https://highlinebar.com.br/",
+    "emailSource": "https://highlineeventos.com.br/contato",
+    "targetProfile": "A"
   }
 ]
