@@ -47206,12 +47206,13 @@
     "mxVerified": true,
     "template": "consultivo",
     "email1": true,
-    "email2": false,
+    "email2": true,
     "email3": false,
     "targetProfile": "A/B",
     "emailFrozenUntil": null,
     "emailCycleClosed": false,
-    "date1": "2026-11-14"
+    "date1": "2026-11-14",
+    "date2": "2026-11-19"
   },
   {
     "name": "EdoÌ Sushi Bar",
@@ -47228,12 +47229,13 @@
     "mxVerified": true,
     "template": "consultivo",
     "email1": true,
-    "email2": false,
+    "email2": true,
     "email3": false,
     "targetProfile": "A/B",
     "emailFrozenUntil": null,
     "emailCycleClosed": false,
-    "date1": "2026-11-14"
+    "date1": "2026-11-14",
+    "date2": "2026-11-19"
   },
   {
     "name": "Boteco Brazuka",
@@ -47271,12 +47273,13 @@
     "mxVerified": true,
     "template": "consultivo",
     "email1": true,
-    "email2": false,
+    "email2": true,
     "email3": false,
     "targetProfile": "A/B",
     "emailFrozenUntil": null,
     "emailCycleClosed": false,
-    "date1": "2026-11-14"
+    "date1": "2026-11-14",
+    "date2": "2026-11-19"
   },
   {
     "name": "garoupa frutos do mar",
@@ -47293,12 +47296,13 @@
     "mxVerified": true,
     "template": "consultivo",
     "email1": true,
-    "email2": false,
+    "email2": true,
     "email3": false,
     "targetProfile": "A/B",
     "emailFrozenUntil": null,
     "emailCycleClosed": false,
-    "date1": "2026-11-14"
+    "date1": "2026-11-14",
+    "date2": "2026-11-19"
   },
   {
     "name": "Kensei Sushi Bar",
@@ -47319,7 +47323,9 @@
     "targetProfile": "A/B",
     "emailFrozenUntil": null,
     "emailCycleClosed": false,
-    "date1": "2026-11-14"
+    "date1": "2026-11-14",
+    "email2": true,
+    "date2": "2026-11-19"
   },
   {
     "name": "EstaÃ§Ã£o Leopoldina",
