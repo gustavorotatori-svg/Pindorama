@@ -46471,12 +46471,13 @@
     "mxVerified": true,
     "template": "consultivo",
     "email1": true,
-    "email2": false,
+    "email2": true,
     "email3": false,
     "targetProfile": "A/B",
     "emailFrozenUntil": null,
     "emailCycleClosed": false,
-    "date1": "2026-11-14"
+    "date1": "2026-11-14",
+    "date2": "2026-11-19"
   },
   {
     "name": "Farol Cervejaria e Gourmet",
@@ -46493,12 +46494,13 @@
     "mxVerified": true,
     "template": "consultivo",
     "email1": true,
-    "email2": false,
+    "email2": true,
     "email3": false,
     "targetProfile": "A/B",
     "emailFrozenUntil": null,
     "emailCycleClosed": false,
-    "date1": "2026-11-14"
+    "date1": "2026-11-14",
+    "date2": "2026-11-19"
   },
   {
     "name": "Marinna Gastronomia",
@@ -46515,12 +46517,13 @@
     "mxVerified": true,
     "template": "consultivo",
     "email1": true,
-    "email2": false,
+    "email2": true,
     "email3": false,
     "targetProfile": "A/B",
     "emailFrozenUntil": null,
     "emailCycleClosed": false,
-    "date1": "2026-11-14"
+    "date1": "2026-11-14",
+    "date2": "2026-11-19"
   },
   {
     "name": "Genuino Bar",
@@ -46559,12 +46562,13 @@
     "mxVerified": true,
     "template": "consultivo",
     "email1": true,
-    "email2": false,
+    "email2": true,
     "email3": false,
     "targetProfile": "A/B",
     "emailFrozenUntil": null,
     "emailCycleClosed": false,
-    "date1": "2026-11-14"
+    "date1": "2026-11-14",
+    "date2": "2026-11-19"
   },
   {
     "name": "TORNEIRA BAR",
@@ -46603,12 +46607,13 @@
     "mxVerified": true,
     "template": "consultivo",
     "email1": true,
-    "email2": false,
+    "email2": true,
     "email3": false,
     "targetProfile": "A/B",
     "emailFrozenUntil": null,
     "emailCycleClosed": false,
-    "date1": "2026-11-14"
+    "date1": "2026-11-14",
+    "date2": "2026-11-19"
   },
   {
     "name": "Vaca CaiÃ§ara",
