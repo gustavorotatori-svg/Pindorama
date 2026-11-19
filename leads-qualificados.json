@@ -38753,13 +38753,14 @@
     "template": "consultivo",
     "website": "",
     "email1": true,
-    "email2": false,
+    "email2": true,
     "email3": false,
     "targetProfile": "A/B",
     "mxVerified": true,
     "emailFrozenUntil": null,
     "emailCycleClosed": false,
-    "date1": "2026-11-14"
+    "date1": "2026-11-14",
+    "date2": "2026-11-19"
   },
   {
     "name": "Adega Dias (Erisberto Comercio de Bebidas)",
@@ -38849,12 +38850,13 @@
     "template": "consultivo",
     "website": "",
     "email1": true,
-    "email2": false,
+    "email2": true,
     "targetProfile": "A/B",
     "email3": false,
     "emailFrozenUntil": null,
     "emailCycleClosed": false,
-    "date1": "2026-11-14"
+    "date1": "2026-11-14",
+    "date2": "2026-11-19"
   },
   {
     "name": "Locale Caff├® (Compras Carla)",
@@ -39553,14 +39555,15 @@
     "emailVerifiedAt": "2026-10-13",
     "emailSource": "https://guiapj.com.br/consulta-cnpj",
     "email1": true,
-    "email2": false,
+    "email2": true,
     "email3": false,
     "targetProfile": "A/B",
     "template": "consultivo",
     "mxVerified": true,
     "emailFrozenUntil": null,
     "emailCycleClosed": false,
-    "date1": "2026-11-14"
+    "date1": "2026-11-14",
+    "date2": "2026-11-19"
   },
   {
     "name": "Bar e Botequim Moema",
@@ -39639,14 +39642,15 @@
     "emailVerifiedAt": "2026-10-13",
     "emailSource": "https://guiapj.com.br/consulta-cnpj",
     "email1": true,
-    "email2": false,
+    "email2": true,
     "email3": false,
     "targetProfile": "A/B",
     "template": "consultivo",
     "mxVerified": true,
     "emailFrozenUntil": null,
     "emailCycleClosed": false,
-    "date1": "2026-11-14"
+    "date1": "2026-11-14",
+    "date2": "2026-11-19"
   },
   {
     "name": "Adega Brooklin",
@@ -41831,7 +41835,7 @@
     "context": "CNAE adega/bar - SP Capital + Guarulhos",
     "date1": "2026-11-14",
     "email1": true,
-    "email2": false,
+    "email2": true,
     "email3": false,
     "emailVerified": true,
     "emailSource": "https://guiapj.com.br",
@@ -41841,7 +41845,8 @@
     "template": "pergunta",
     "mxVerified": true,
     "emailFrozenUntil": null,
-    "emailCycleClosed": false
+    "emailCycleClosed": false,
+    "date2": "2026-11-19"
   },
   {
     "name": "Bar e Restaurante O Postinho",
