@@ -46986,12 +46986,13 @@
     "mxVerified": true,
     "template": "consultivo",
     "email1": true,
-    "email2": false,
+    "email2": true,
     "email3": false,
     "targetProfile": "A/B",
     "emailFrozenUntil": null,
     "emailCycleClosed": false,
-    "date1": "2026-11-14"
+    "date1": "2026-11-14",
+    "date2": "2026-11-19"
   },
   {
     "name": "Cangote Sorvetes",
@@ -47008,12 +47009,13 @@
     "mxVerified": true,
     "template": "consultivo",
     "email1": true,
-    "email2": false,
+    "email2": true,
     "email3": false,
     "targetProfile": "A/B",
     "emailFrozenUntil": null,
     "emailCycleClosed": false,
-    "date1": "2026-11-14"
+    "date1": "2026-11-14",
+    "date2": "2026-11-19"
   },
   {
     "name": "Sidequest XP",
@@ -47030,12 +47032,13 @@
     "mxVerified": true,
     "template": "consultivo",
     "email1": true,
-    "email2": false,
+    "email2": true,
     "email3": false,
     "targetProfile": "A/B",
     "emailFrozenUntil": null,
     "emailCycleClosed": false,
-    "date1": "2026-11-14"
+    "date1": "2026-11-14",
+    "date2": "2026-11-19"
   },
   {
     "name": "ðð§ð¡ð ðð¥ð§ ððð¥",
@@ -47115,12 +47118,13 @@
     "mxVerified": true,
     "template": "consultivo",
     "email1": true,
-    "email2": false,
+    "email2": true,
     "email3": false,
     "targetProfile": "A/B",
     "emailFrozenUntil": null,
     "emailCycleClosed": false,
-    "date1": "2026-11-14"
+    "date1": "2026-11-14",
+    "date2": "2026-11-19"
   },
   {
     "name": "FRITZÂ® - Santo AndreÌ",
@@ -47179,12 +47183,13 @@
     "mxVerified": true,
     "template": "consultivo",
     "email1": true,
-    "email2": false,
+    "email2": true,
     "email3": false,
     "targetProfile": "A/B",
     "emailFrozenUntil": null,
     "emailCycleClosed": false,
-    "date1": "2026-11-14"
+    "date1": "2026-11-14",
+    "date2": "2026-11-19"
   },
   {
     "name": "Zombie Burger",
