@@ -1,19 +1,19 @@
 {
-  "lastUpdate": "2026-11-19T12:50:38.517Z",
+  "lastUpdate": "2026-11-19T21:12:50.906Z",
   "sinceDate": "2026-08-02",
-  "totalLeads": 4035,
+  "totalLeads": 4036,
   "emails": {
     "email1": 1066,
-    "email2": 26,
+    "email2": 41,
     "email3": 0,
-    "total": 1092
+    "total": 1107
   },
   "whatsapp": {
     "today": 0,
     "total": 262
   },
   "responses": 7,
-  "pending": 555,
+  "pending": 556,
   "daily": [
     {
       "date": "2026-10-21",
@@ -133,7 +133,7 @@
     },
     {
       "date": "2026-11-19",
-      "count": 10
+      "count": 25
     }
   ],
   "monthly": [
@@ -161,9 +161,9 @@
     {
       "month": "2026-11",
       "email1": 961,
-      "email2": 25,
+      "email2": 40,
       "email3": 0,
-      "total": 986
+      "total": 1001
     }
   ],
   "topNeighborhoods": [
@@ -313,9 +313,9 @@
     }
   ],
   "funnel": {
-    "leads": 4035,
+    "leads": 4036,
     "email1": 1066,
-    "email2": 26,
+    "email2": 41,
     "email3": 0,
     "responded": 7
   },
@@ -323,9 +323,9 @@
     "leads": 372,
     "emails": {
       "email1": 372,
-      "email2": 25,
+      "email2": 40,
       "email3": 0,
-      "total": 397,
+      "total": 412,
       "responses": 1
     }
   },
@@ -333,9 +333,9 @@
     "leads": 961,
     "emails": {
       "email1": 961,
-      "email2": 25,
+      "email2": 40,
       "email3": 0,
-      "total": 986,
+      "total": 1001,
       "responses": 1
     }
   },
@@ -343,19 +343,19 @@
     "leads": 1067,
     "emails": {
       "email1": 1066,
-      "email2": 26,
+      "email2": 41,
       "email3": 0,
-      "total": 1092,
+      "total": 1107,
       "responses": 7
     }
   },
   "sinceBeginning": {
-    "leads": 4035,
+    "leads": 4036,
     "emails": {
       "email1": 1066,
-      "email2": 26,
+      "email2": 41,
       "email3": 0,
-      "total": 1092
+      "total": 1107
     },
     "responses": 7,
     "whatsapp": 262,
@@ -952,6 +952,12 @@
     },
     {
       "name": "bar/pub",
+      "total": 1,
+      "email1": 0,
+      "responded": 0
+    },
+    {
+      "name": "bar/rooftop",
       "total": 1,
       "email1": 0,
       "responded": 0
