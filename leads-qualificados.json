@@ -47773,7 +47773,9 @@
     "targetProfile": "A/B",
     "emailFrozenUntil": null,
     "emailCycleClosed": false,
-    "date1": "2026-11-14"
+    "date1": "2026-11-14",
+    "email2": true,
+    "date2": "2026-11-20"
   },
   {
     "name": "SAN DO IT",
@@ -47794,7 +47796,9 @@
     "targetProfile": "A/B",
     "emailFrozenUntil": null,
     "emailCycleClosed": false,
-    "date1": "2026-11-14"
+    "date1": "2026-11-14",
+    "email2": true,
+    "date2": "2026-11-20"
   },
   {
     "name": "ESTAÃÃO",
@@ -47836,7 +47840,9 @@
     "targetProfile": "A/B",
     "emailFrozenUntil": null,
     "emailCycleClosed": false,
-    "date1": "2026-11-14"
+    "date1": "2026-11-14",
+    "email2": true,
+    "date2": "2026-11-20"
   },
   {
     "name": "Drosophyla",
@@ -47919,7 +47925,9 @@
     "targetProfile": "A/B",
     "emailFrozenUntil": null,
     "emailCycleClosed": false,
-    "date1": "2026-11-14"
+    "date1": "2026-11-14",
+    "email2": true,
+    "date2": "2026-11-20"
   },
   {
     "name": "JacarandaÌ",
@@ -47940,7 +47948,9 @@
     "targetProfile": "A/B",
     "emailFrozenUntil": null,
     "emailCycleClosed": false,
-    "date1": "2026-11-14"
+    "date1": "2026-11-14",
+    "email2": true,
+    "date2": "2026-11-20"
   },
   {
     "name": "A Selva Bar",
