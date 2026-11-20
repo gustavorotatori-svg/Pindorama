@@ -47346,7 +47346,9 @@
     "targetProfile": "A/B",
     "emailFrozenUntil": null,
     "emailCycleClosed": false,
-    "date1": "2026-11-14"
+    "date1": "2026-11-14",
+    "email2": true,
+    "date2": "2026-11-20"
   },
   {
     "name": "Tamagochi Sushi Garden",
@@ -47367,7 +47369,9 @@
     "targetProfile": "A/B",
     "emailFrozenUntil": null,
     "emailCycleClosed": false,
-    "date1": "2026-11-14"
+    "date1": "2026-11-14",
+    "email2": true,
+    "date2": "2026-11-20"
   },
   {
     "name": "La Revolucion Bar",
@@ -47409,7 +47413,9 @@
     "targetProfile": "A/B",
     "emailFrozenUntil": null,
     "emailCycleClosed": false,
-    "date1": "2026-11-14"
+    "date1": "2026-11-14",
+    "email2": true,
+    "date2": "2026-11-20"
   },
   {
     "name": "Fica a Dica Gastrobar",
@@ -47451,7 +47457,9 @@
     "targetProfile": "A/B",
     "emailFrozenUntil": null,
     "emailCycleClosed": false,
-    "date1": "2026-11-14"
+    "date1": "2026-11-14",
+    "email2": true,
+    "date2": "2026-11-20"
   },
   {
     "name": "Underground Gastro Bar",
@@ -47472,7 +47480,9 @@
     "targetProfile": "A/B",
     "emailFrozenUntil": null,
     "emailCycleClosed": false,
-    "date1": "2026-11-14"
+    "date1": "2026-11-14",
+    "email2": true,
+    "date2": "2026-11-20"
   },
   {
     "name": "Quintal das Figueiras",
