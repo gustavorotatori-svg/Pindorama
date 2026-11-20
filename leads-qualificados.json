@@ -49394,8 +49394,8 @@
     "neighborhood": "",
     "city": "Brasília",
     "website": "https://www.lojacrulscervejaria.com.br/",
-    "phone": "",
-    "context": "Cervejaria artesanal em área rural de Brasília (DF), com loja oficial e atendimento via e-mail",
+    "phone": "(61) 98192-3522",
+    "context": "Cervejaria artesanal em área rural de Brasília (DF), com loja oficial e atendimento via e-mail | RESPONDEU 2026-11-17 (de contato@crulscervejaria.com.br): interesse em conhecer; pediu seguir no WhatsApp 61 98192-3522 (Gustavo).",
     "emailVerified": true,
     "emailSource": "https://www.lojacrulscervejaria.com.br/",
     "emailVerifiedAt": "2026-11-17",
@@ -49408,7 +49408,16 @@
     "score": 12,
     "emailFrozenUntil": null,
     "emailCycleClosed": false,
-    "date1": "2026-11-17"
+    "date1": "2026-11-17",
+    "responded": true,
+    "interested": true,
+    "status": "interested",
+    "respondedAt": "2026-11-17",
+    "responseDate": "2026-11-17",
+    "response": "Interesse em conhecer o produto; pediu contato via WhatsApp 61 98192-3522 (Gustavo).",
+    "hot": true,
+    "contactName": "Gustavo",
+    "whatsapp": "(61) 98192-3522"
   },
   {
     "name": "Didius Indústria de Pães e Lanches",
