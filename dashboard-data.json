@@ -1,19 +1,19 @@
 {
-  "lastUpdate": "2026-11-20T10:58:47.645Z",
+  "lastUpdate": "2026-11-20T19:02:30.350Z",
   "sinceDate": "2026-08-02",
-  "totalLeads": 4036,
+  "totalLeads": 4045,
   "emails": {
-    "email1": 1066,
-    "email2": 51,
+    "email1": 1141,
+    "email2": 66,
     "email3": 0,
-    "total": 1117
+    "total": 1207
   },
   "whatsapp": {
     "today": 0,
     "total": 262
   },
-  "responses": 7,
-  "pending": 556,
+  "responses": 8,
+  "pending": 563,
   "daily": [
     {
       "date": "2026-10-22",
@@ -133,7 +133,7 @@
     },
     {
       "date": "2026-11-20",
-      "count": 5
+      "count": 95
     }
   ],
   "monthly": [
@@ -160,16 +160,16 @@
     },
     {
       "month": "2026-11",
-      "email1": 961,
-      "email2": 50,
+      "email1": 1036,
+      "email2": 65,
       "email3": 0,
-      "total": 1011
+      "total": 1101
     }
   ],
   "topNeighborhoods": [
     {
       "name": "Sem bairro",
-      "count": 2625
+      "count": 2624
     },
     {
       "name": "São Paulo",
@@ -185,7 +185,7 @@
     },
     {
       "name": "Pinheiros",
-      "count": 33
+      "count": 34
     },
     {
       "name": "Sao Paulo",
@@ -204,174 +204,170 @@
       "count": 20
     },
     {
+      "name": "Vila Mariana",
+      "count": 14
+    },
+    {
       "name": "Campo Belo",
       "count": 13
     },
     {
       "name": "Alphaville",
       "count": 13
-    },
-    {
-      "name": "Mooca",
-      "count": 12
     }
   ],
   "recentLeads": [
     {
-      "name": "CAPIM SANTO",
-      "type": "restaurante",
-      "responded": false,
-      "email1": true,
-      "date1": "2026-11-18"
-    },
-    {
-      "name": "Tasteit Restaurante",
-      "type": "hotel",
-      "responded": false,
-      "email1": true,
-      "date1": "2026-11-18"
-    },
-    {
-      "name": "R&M Bartenders",
+      "name": "The Graus Bar",
       "type": "bar",
-      "neighborhood": "Sao Paulo",
+      "neighborhood": "Rep├║blica",
       "responded": false,
       "email1": true,
-      "date1": "2026-11-18"
+      "date1": "2026-11-20"
     },
     {
-      "name": "ShowBartenders",
+      "name": "Manifesto Bar",
       "type": "bar",
-      "neighborhood": "Santo Andre",
+      "neighborhood": "Vila Ol├¡mpia",
       "responded": false,
       "email1": true,
-      "date1": "2026-11-18"
+      "date1": "2026-11-20"
     },
     {
-      "name": "Hotel Panamby Sao Paulo",
-      "type": "hotel",
-      "neighborhood": "Barra Funda",
-      "responded": false,
-      "email1": true,
-      "date1": "2026-11-18"
-    },
-    {
-      "name": "Vitoria Concept Campinas",
-      "type": "hotel",
-      "neighborhood": "Cambuí",
-      "responded": false,
-      "email1": true,
-      "date1": "2026-11-18"
-    },
-    {
-      "name": "Bourbon Convention Hotel Santos",
-      "type": "hotel",
-      "neighborhood": "Gonzaga",
-      "responded": false,
-      "email1": true,
-      "date1": "2026-11-18"
-    },
-    {
-      "name": "XBAR",
+      "name": "EAP Emp├│rio Alto dos Pinheiros",
       "type": "bar",
-      "neighborhood": "Jardim Aquarius",
+      "neighborhood": "Alto de Pinheiros",
       "responded": false,
       "email1": true,
-      "date1": "2026-11-18"
+      "date1": "2026-11-20"
     },
     {
-      "name": "Brasil Bartender",
+      "name": "Bar Quintal da Mooca",
       "type": "bar",
-      "neighborhood": "Vila Mathias",
+      "neighborhood": "Mooca",
       "responded": false,
       "email1": true,
-      "date1": "2026-11-18"
+      "date1": "2026-11-20"
     },
     {
-      "name": "Yummy Cocktails",
+      "name": "Brica Bar",
       "type": "bar",
-      "neighborhood": "Alves Dias",
+      "neighborhood": "Mooca",
       "responded": false,
       "email1": true,
-      "date1": "2026-11-18"
+      "date1": "2026-11-20"
     },
     {
-      "name": "Cervejaria Rei do Malte",
+      "name": "Espa├ºo Armaz├®m",
       "type": "bar",
-      "neighborhood": "Jardim Novo Horizonte",
+      "neighborhood": "Vila Leopoldina",
       "responded": false,
       "email1": true,
-      "date1": "2026-11-18"
+      "date1": "2026-11-20"
     },
     {
-      "name": "Alemão Bar e Bistrô",
+      "name": "The Steak Factory",
       "type": "bar",
-      "neighborhood": "Jardim da Rainha",
       "responded": false,
       "email1": true,
-      "date1": "2026-11-18"
+      "date1": "2026-11-20"
+    },
+    {
+      "name": "├â┬ìCONE GASTROROCK",
+      "type": "bar",
+      "responded": false,
+      "email1": true,
+      "date1": "2026-11-20"
+    },
+    {
+      "name": "ACADEMIA DA GULA",
+      "type": "bar",
+      "responded": false,
+      "email1": true,
+      "date1": "2026-11-20"
+    },
+    {
+      "name": "Athenas",
+      "type": "bar",
+      "responded": false,
+      "email1": true,
+      "date1": "2026-11-20"
+    },
+    {
+      "name": "BAR SALVE JORGE",
+      "type": "bar",
+      "responded": false,
+      "email1": true,
+      "date1": "2026-11-20"
+    },
+    {
+      "name": "PRA├â┬çA S├â┬âO LOUREN├â┬çO",
+      "type": "bar",
+      "responded": false,
+      "email1": true,
+      "date1": "2026-11-20"
     }
   ],
   "funnel": {
-    "leads": 4036,
-    "email1": 1066,
-    "email2": 51,
+    "leads": 4045,
+    "email1": 1141,
+    "email2": 66,
     "email3": 0,
-    "responded": 7
+    "responded": 8
   },
   "week": {
-    "leads": 272,
+    "leads": 347,
     "emails": {
-      "email1": 272,
-      "email2": 50,
+      "email1": 347,
+      "email2": 65,
       "email3": 0,
-      "total": 322,
-      "responses": 1
+      "total": 412,
+      "responses": 2
     }
   },
   "month": {
-    "leads": 961,
+    "leads": 1036,
     "emails": {
-      "email1": 961,
-      "email2": 50,
+      "email1": 1036,
+      "email2": 65,
       "email3": 0,
-      "total": 1011,
-      "responses": 1
+      "total": 1101,
+      "responses": 2
     }
   },
   "year": {
-    "leads": 1067,
+    "leads": 1142,
     "emails": {
-      "email1": 1066,
-      "email2": 51,
+      "email1": 1141,
+      "email2": 66,
       "email3": 0,
-      "total": 1117,
-      "responses": 7
+      "total": 1207,
+      "responses": 8
     }
   },
   "sinceBeginning": {
-    "leads": 4036,
+    "leads": 4045,
     "emails": {
-      "email1": 1066,
-      "email2": 51,
+      "email1": 1141,
+      "email2": 66,
       "email3": 0,
-      "total": 1117
+      "total": 1207
     },
-    "responses": 7,
+    "responses": 8,
     "whatsapp": 262,
     "firstDate": "2026-08-02"
   },
   "segments": [
     {
       "name": "restaurante",
-      "total": 2128,
+      "total": 2129,
       "email1": 304,
       "responded": 0
     },
     {
       "name": "bar",
-      "total": 616,
-      "email1": 254,
+      "total": 618,
+      "email1": 329,
       "responded": 0
     },
     {
@@ -444,7 +440,7 @@
       "name": "cervejaria",
       "total": 25,
       "email1": 21,
-      "responded": 0
+      "responded": 1
     },
     {
       "name": "emporio",
@@ -561,6 +557,12 @@
       "responded": 0
     },
     {
+      "name": "emporio_naturais",
+      "total": 5,
+      "email1": 0,
+      "responded": 0
+    },
+    {
       "name": "confeitaria_industrial",
       "total": 4,
       "email1": 3,
@@ -580,6 +582,12 @@
     },
     {
       "name": "rooftop/eventos",
+      "total": 3,
+      "email1": 0,
+      "responded": 0
+    },
+    {
+      "name": "bar/restaurante",
       "total": 3,
       "email1": 0,
       "responded": 0
@@ -628,12 +636,6 @@
     },
     {
       "name": "sorveteria",
-      "total": 2,
-      "email1": 0,
-      "responded": 0
-    },
-    {
-      "name": "bar/restaurante",
       "total": 2,
       "email1": 0,
       "responded": 0
