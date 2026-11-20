@@ -47522,7 +47522,9 @@
     "email1": true,
     "invalidEmail": false,
     "targetProfile": "A/B",
-    "date1": "2026-11-14"
+    "date1": "2026-11-14",
+    "email2": true,
+    "date2": "2026-11-20"
   },
   {
     "name": "I LOVE",
@@ -47543,7 +47545,9 @@
     "targetProfile": "A/B",
     "emailFrozenUntil": null,
     "emailCycleClosed": false,
-    "date1": "2026-11-14"
+    "date1": "2026-11-14",
+    "email2": true,
+    "date2": "2026-11-20"
   },
   {
     "name": "Terumi Sushi MauaÌ",
@@ -47564,7 +47568,9 @@
     "targetProfile": "A/B",
     "emailFrozenUntil": null,
     "emailCycleClosed": false,
-    "date1": "2026-11-14"
+    "date1": "2026-11-14",
+    "email2": true,
+    "date2": "2026-11-20"
   },
   {
     "name": "SoÌ Santo Bar",
@@ -47606,7 +47612,9 @@
     "targetProfile": "A/B",
     "emailFrozenUntil": null,
     "emailCycleClosed": false,
-    "date1": "2026-11-14"
+    "date1": "2026-11-14",
+    "email2": true,
+    "date2": "2026-11-20"
   },
   {
     "name": "Smashân Tasty",
@@ -47627,7 +47635,9 @@
     "targetProfile": "A/B",
     "emailFrozenUntil": null,
     "emailCycleClosed": false,
-    "date1": "2026-11-14"
+    "date1": "2026-11-14",
+    "email2": true,
+    "date2": "2026-11-20"
   },
   {
     "name": "Mansion XV",
