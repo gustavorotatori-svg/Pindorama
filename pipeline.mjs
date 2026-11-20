@@ -67,6 +67,7 @@ function isAllowedICP(lead) {
 }
 
 const TYPE_PRIORITY = {
+  emporio_naturais: 120,
   coquetelaria: 100, bar_coquetel: 98, bar: 95, gastrobar: 92, wine_bar: 90,
   balada: 85, bistro: 82, 'bistrô': 82, lounge: 80, restaurante_premium: 78,
   restaurante: 75, hotel: 65, clube: 60, pub: 55, steakhouse: 50,
