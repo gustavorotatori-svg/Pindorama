@@ -19991,16 +19991,21 @@
   },
   {
     "name": "Dalva e Dito",
-    "email": "eventos@domrestaurante.com.br",
+    "email": "eventos@dalvaedito.com.br",
     "type": "restaurante",
-    "neighborhood": "",
-    "address": "",
-    "context": "REST ALEX ATALA; respons├ível: DEBORA; instagram: https://www.instagram.com/dalvaedito/",
+    "neighborhood": "Cerqueira César",
+    "address": "R. Padre João Manuel, 1115 - Cerqueira César, São Paulo - SP",
+    "context": "Restaurante de cozinha brasileira com a chancela de Alex Atala, no bairro Cerqueira César; realiza eventos e contato comercial publicado no site oficial.",
     "phone": "11 30623634",
     "template": "pergunta",
-    "website": "",
+    "website": "https://dalvaedito.com.br/",
     "email1": false,
-    "targetProfile": "C/D"
+    "targetProfile": "C/D",
+    "city": "São Paulo",
+    "emailSource": "https://dalvaedito.com.br/eventos/",
+    "emailVerified": true,
+    "emailVerifiedAt": "2026-11-20",
+    "mxVerified": true
   },
   {
     "name": "TORERO VALESE",
@@ -65531,5 +65536,25 @@
     "emailSource": "https://www.emporioecia.com.br/",
     "targetProfile": "C/D",
     "note": "Substitui financeiro@emporioecia.com.br (e-mail publicado no site: cliente@emporioecia.com.br)."
+  },
+  {
+    "email1": false,
+    "email2": false,
+    "email3": false,
+    "name": "Motique",
+    "email": "restaurante@motique.com.br",
+    "type": "restaurante",
+    "neighborhood": "Pinheiros",
+    "address": "R. Simão Álvares, 985 - Pinheiros, São Paulo - SP",
+    "city": "São Paulo",
+    "context": "Restaurante autoral em Pinheiros com cozinha sem fronteiras e coquetelaria autoral; contato comercial publicado no site oficial.",
+    "phone": "(11) 3814-9444",
+    "template": "consultivo",
+    "website": "https://www.motique.com.br/",
+    "emailSource": "https://www.motique.com.br/",
+    "emailVerified": true,
+    "emailVerifiedAt": "2026-11-20",
+    "mxVerified": true,
+    "targetProfile": "A/B"
   }
 ]
