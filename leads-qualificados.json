@@ -47658,7 +47658,9 @@
     "targetProfile": "A/B",
     "emailFrozenUntil": null,
     "emailCycleClosed": false,
-    "date1": "2026-11-14"
+    "date1": "2026-11-14",
+    "email2": true,
+    "date2": "2026-11-20"
   },
   {
     "name": "NANICA",
@@ -47679,7 +47681,9 @@
     "targetProfile": "A/B",
     "emailFrozenUntil": null,
     "emailCycleClosed": false,
-    "date1": "2026-11-14"
+    "date1": "2026-11-14",
+    "email2": true,
+    "date2": "2026-11-20"
   },
   {
     "name": "MAIS BURGUINHO",
@@ -47700,7 +47704,9 @@
     "targetProfile": "A/B",
     "emailFrozenUntil": null,
     "emailCycleClosed": false,
-    "date1": "2026-11-14"
+    "date1": "2026-11-14",
+    "email2": true,
+    "date2": "2026-11-20"
   },
   {
     "name": "BurgUp Hamburgueria",
@@ -47721,7 +47727,9 @@
     "targetProfile": "A/B",
     "emailFrozenUntil": null,
     "emailCycleClosed": false,
-    "date1": "2026-11-14"
+    "date1": "2026-11-14",
+    "email2": true,
+    "date2": "2026-11-20"
   },
   {
     "name": "PANTCHOÂ´S HOUSE BURGER",
@@ -47742,7 +47750,9 @@
     "targetProfile": "A/B",
     "emailFrozenUntil": null,
     "emailCycleClosed": false,
-    "date1": "2026-11-14"
+    "date1": "2026-11-14",
+    "email2": true,
+    "date2": "2026-11-20"
   },
   {
     "name": "ALL_IN SMOKED TASTE",
