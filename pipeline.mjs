@@ -57,6 +57,14 @@ function isCocktailICP(lead) {
   const t = String(lead?.type || '').toLowerCase().trim();
   return !!t && (COCKTAIL_TYPES.has(t) || COCKTAIL_TYPE_RE.test(t));
 }
+const EMPORIO_TYPE_RE = /(^|_)(emporio|naturais|granel|suplement|loja_bebidas)(_|$)/;
+function isEmporioICP(lead) {
+  const t = String(lead?.type || '').toLowerCase().trim();
+  return !!t && EMPORIO_TYPE_RE.test(t);
+}
+function isAllowedICP(lead) {
+  return isCocktailICP(lead) || isEmporioICP(lead);
+}
 
 const TYPE_PRIORITY = {
   coquetelaria: 100, bar_coquetel: 98, bar: 95, gastrobar: 92, wine_bar: 90,
@@ -82,7 +90,7 @@ function leadPriority(lead) {
 }
 
 function eligibleFirstContactType(type) {
-  return isCocktailICP({ type });
+  return isAllowedICP({ type });
 }
 
 function daysFromNow(dateStr) {
@@ -341,7 +349,7 @@ async function sendEmail1(maxSent = Infinity) {
       leads.filter(x => x.email1).map(x => String(x.email || '').toLowerCase())
     );
     const pending = leads
-      .filter(x => x.name && !x.email1 && !contactedEmails.has(String(x.email || '').toLowerCase()) && !x.invalidEmail && !x.doNotContact && !failed.has(x.email) && x.email && isCocktailICP(x) && x.targetProfile === 'A/B' && !emailFrozen(x) && !x.emailCycleClosed)
+      .filter(x => x.name && !x.email1 && !contactedEmails.has(String(x.email || '').toLowerCase()) && !x.invalidEmail && !x.doNotContact && !failed.has(x.email) && x.email && isAllowedICP(x) && (x.targetProfile === 'A/B' || x.targetProfile === 'C/D') && !emailFrozen(x) && !x.emailCycleClosed)
       .sort((a, b) => leadPriority(b) - leadPriority(a));
     if (!pending.length) {
       if (sent === 0) {
@@ -409,7 +417,7 @@ async function sendFollowups(maxSent = Infinity) {
     if (!emailQuotaAvailable()) break;
     const leads = load(LEADS_FILE);
     const pending = leads
-      .filter(x => x.name && x.email && x.email1 && isCocktailICP(x)
+      .filter(x => x.name && x.email && x.email1 && isAllowedICP(x)
         && !hasResponded(x) && !x.invalidEmail && !x.doNotContact
         && !x.emailFrozenUntil && !x.emailCycleClosed && !failed.has(x.email)
         && followupStepDue(x))
