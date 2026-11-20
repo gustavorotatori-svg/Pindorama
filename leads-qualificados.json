@@ -62,11 +62,12 @@
     "type": "bar",
     "website": "https://thegrausbar.com.br",
     "context": "carta de drinks muito criativa",
-    "email1": false,
+    "email1": true,
     "email2": false,
     "email3": false,
     "template": "prova_social",
-    "targetProfile": "C/D"
+    "targetProfile": "C/D",
+    "date1": "2026-11-20"
   },
   {
     "name": "Ryo Gastronomia",
@@ -116,11 +117,12 @@
     "type": "bar",
     "website": "https://manifestobar.com.br",
     "context": "tradicional bar na Vila Ol├¡mpia",
-    "email1": false,
+    "email1": true,
     "email2": false,
     "email3": false,
     "template": null,
-    "targetProfile": "C/D"
+    "targetProfile": "C/D",
+    "date1": "2026-11-20"
   },
   {
     "name": "The World Hotels Vila Ol├¡mpia",
@@ -227,10 +229,11 @@
     "website": "https://eapsp.com.br",
     "context": "emp├│rio com mais de 750 cervejas",
     "template": "pergunta",
-    "email1": false,
+    "email1": true,
     "email2": false,
     "email3": false,
-    "targetProfile": "C/D"
+    "targetProfile": "C/D",
+    "date1": "2026-11-20"
   },
   {
     "name": "Bar Alto",
@@ -1108,10 +1111,11 @@
     "website": "https://barquintaldamooca.com.br",
     "context": "s├úo um boteco refer├¬ncia na Mooca, com 39 r├│tulos de cacha├ºa e caipirinhas premiadas",
     "template": "consultivo",
-    "email1": false,
+    "email1": true,
     "email2": false,
     "email3": false,
-    "targetProfile": "C/D"
+    "targetProfile": "C/D",
+    "date1": "2026-11-20"
   },
   {
     "name": "Adega Brothers",
@@ -1147,10 +1151,11 @@
     "website": "http://bricabar.com.br",
     "context": "s├úo um bar na Mooca com uma enciclop├®dia de op├º├Áes, de whiskys a cacha├ºas de diversos estados",
     "template": "consultivo",
-    "email1": false,
+    "email1": true,
     "email2": false,
     "email3": false,
-    "targetProfile": "C/D"
+    "targetProfile": "C/D",
+    "date1": "2026-11-20"
   },
   {
     "name": "Goela Bar",
@@ -1654,10 +1659,11 @@
     "context": "espa├ºo para eventos na Vila Leopoldina com consumo de bebidas e eventos privados",
     "website": "espacoarmazem.com.br",
     "template": "consultivo",
-    "email1": false,
+    "email1": true,
     "email2": false,
     "email3": false,
-    "targetProfile": "C/D"
+    "targetProfile": "C/D",
+    "date1": "2026-11-20"
   },
   {
     "name": "Adega Bar├úo Cerveja Gelada",
@@ -2761,10 +2767,11 @@
     "phone": "(11) 2691-3295 SANTANA / (11) 5543-6393 MOEMA  / (11) 4814-9912 itupeva",
     "template": "consultivo",
     "website": "",
-    "email1": false,
+    "email1": true,
     "email2": false,
     "email3": false,
-    "targetProfile": "C/D"
+    "targetProfile": "C/D",
+    "date1": "2026-11-20"
   },
   {
     "name": "├â┬ìCONE GASTROROCK",
@@ -2776,10 +2783,11 @@
     "phone": "11 2667 6217 / 999558028",
     "template": "consultivo",
     "website": "",
-    "email1": false,
+    "email1": true,
     "email2": false,
     "email3": false,
-    "targetProfile": "C/D"
+    "targetProfile": "C/D",
+    "date1": "2026-11-20"
   },
   {
     "name": "B, de Bar",
@@ -2809,7 +2817,10 @@
     "email1": false,
     "email2": false,
     "email3": false,
-    "targetProfile": "C/D"
+    "targetProfile": "C/D",
+    "invalidEmail": true,
+    "invalidEmailReason": "domain_without_mx",
+    "invalidEmailDate": "2026-11-20"
   },
   {
     "name": "BLEND BAR",
@@ -2899,7 +2910,10 @@
     "email1": false,
     "email2": false,
     "email3": false,
-    "targetProfile": "C/D"
+    "targetProfile": "C/D",
+    "invalidEmail": true,
+    "invalidEmailReason": "domain_without_mx",
+    "invalidEmailDate": "2026-11-20"
   },
   {
     "name": "Do Sert├â┬úo Bar e Restaurante",
@@ -2943,10 +2957,11 @@
     "phone": "(11) 5572-2571",
     "template": "pergunta",
     "website": "",
-    "email1": false,
+    "email1": true,
     "email2": false,
     "email3": false,
-    "targetProfile": "C/D"
+    "targetProfile": "C/D",
+    "date1": "2026-11-20"
   },
   {
     "name": "Athenas",
@@ -2958,10 +2973,11 @@
     "phone": "3262-1945 / 3283-3292 DIRETO",
     "template": "pergunta",
     "website": "",
-    "email1": false,
+    "email1": true,
     "email2": false,
     "email3": false,
-    "targetProfile": "C/D"
+    "targetProfile": "C/D",
+    "date1": "2026-11-20"
   },
   {
     "name": "BAR SALVE JORGE",
@@ -2973,10 +2989,11 @@
     "phone": "3812-4342",
     "template": "prova_social",
     "website": "",
-    "email1": false,
+    "email1": true,
     "email2": false,
     "email3": false,
-    "targetProfile": "C/D"
+    "targetProfile": "C/D",
+    "date1": "2026-11-20"
   },
   {
     "name": "VALADARES",
@@ -3020,7 +3037,7 @@
     "phone": "11 3053-9300",
     "template": "prova_social",
     "website": "",
-    "email1": false,
+    "email1": true,
     "email2": false,
     "email3": false,
     "customerConfirmed": true,
@@ -3029,7 +3046,8 @@
     "customerEvidenceSource": "https://pracasaolourenco.com.br/menu-bar/",
     "customerEvidenceVerifiedAt": "2026-08-30",
     "nextStep": "Tratar como cliente atual; nao enviar prospeccao fria. Validar recompra e relacionamento comercial manualmente.",
-    "targetProfile": "C/D"
+    "targetProfile": "C/D",
+    "date1": "2026-11-20"
   },
   {
     "name": "Villa Caetano's Bar",
@@ -3041,10 +3059,11 @@
     "phone": "(11) 2283-2837",
     "template": "prova_social",
     "website": "",
-    "email1": false,
+    "email1": true,
     "email2": false,
     "email3": false,
-    "targetProfile": "C/D"
+    "targetProfile": "C/D",
+    "date1": "2026-11-20"
   },
   {
     "name": "CARACOL",
@@ -3074,10 +3093,11 @@
     "phone": "2389-5519 /  11 99770-6033 delivery",
     "template": "prova_social",
     "website": "",
-    "email1": false,
+    "email1": true,
     "email2": false,
     "email3": false,
-    "targetProfile": "C/D"
+    "targetProfile": "C/D",
+    "date1": "2026-11-20"
   },
   {
     "name": "Dona Felicidade",
@@ -3104,10 +3124,11 @@
     "phone": "11 5031-7537",
     "template": "prova_social",
     "website": "",
-    "email1": false,
+    "email1": true,
     "email2": false,
     "email3": false,
-    "targetProfile": "C/D"
+    "targetProfile": "C/D",
+    "date1": "2026-11-20"
   },
   {
     "name": "PONTO CHIC",
@@ -3119,10 +3140,11 @@
     "phone": "3289-1480 / 98819-6635 RODRIGO",
     "template": "consultivo",
     "website": "",
-    "email1": false,
+    "email1": true,
     "email2": false,
     "email3": false,
-    "targetProfile": "C/D"
+    "targetProfile": "C/D",
+    "date1": "2026-11-20"
   },
   {
     "name": "CACHA├â┬çARIA OURO VERDE",
@@ -3151,13 +3173,14 @@
     "phone": "11 3641 7934 / 11 99380-4254 CARLOS / 951561275 DANIEL",
     "template": "pergunta",
     "website": "",
-    "email1": false,
+    "email1": true,
     "email2": false,
     "email3": false,
     "whatsappSent": true,
     "whatsappDate": "2026-09-05",
     "whatsappSource": "https://www.atolbar.com.br/contato/",
-    "targetProfile": "C/D"
+    "targetProfile": "C/D",
+    "date1": "2026-11-20"
   },
   {
     "name": "Delluccio Pizza Bar",
@@ -3169,10 +3192,11 @@
     "phone": "11 3884-7038 / (11) 3884-6512 / (11) 99908-6607",
     "template": "prova_social",
     "website": "",
-    "email1": false,
+    "email1": true,
     "email2": false,
     "email3": false,
-    "targetProfile": "C/D"
+    "targetProfile": "C/D",
+    "date1": "2026-11-20"
   },
   {
     "name": "Koya88",
@@ -3280,7 +3304,10 @@
     "email1": false,
     "email2": false,
     "email3": false,
-    "targetProfile": "C/D"
+    "targetProfile": "C/D",
+    "invalidEmail": true,
+    "invalidEmailReason": "domain_without_mx",
+    "invalidEmailDate": "2026-11-20"
   },
   {
     "name": "Balsa",
@@ -3309,10 +3336,11 @@
     "phone": "3078-7748 / 1194783-8072 AGATA",
     "template": "pergunta",
     "website": "",
-    "email1": false,
+    "email1": true,
     "email2": false,
     "email3": false,
-    "targetProfile": "C/D"
+    "targetProfile": "C/D",
+    "date1": "2026-11-20"
   },
   {
     "name": "Viela Bar & Pizza",
@@ -3339,10 +3367,11 @@
     "phone": "11 4301 0910 / 94036-7900",
     "template": "pergunta",
     "website": "",
-    "email1": false,
+    "email1": true,
     "email2": false,
     "email3": false,
-    "targetProfile": "C/D"
+    "targetProfile": "C/D",
+    "date1": "2026-11-20"
   },
   {
     "name": "ARLETE BAR E MERCEARIA",
@@ -3354,10 +3383,11 @@
     "phone": "2495-4750 /  (11) 99027-8742",
     "template": "pergunta",
     "website": "",
-    "email1": false,
+    "email1": true,
     "email2": false,
     "email3": false,
-    "targetProfile": "C/D"
+    "targetProfile": "C/D",
+    "date1": "2026-11-20"
   },
   {
     "name": "Benjamim Botequim",
@@ -3399,10 +3429,11 @@
     "phone": "11 23861918",
     "template": "consultivo",
     "website": "",
-    "email1": false,
+    "email1": true,
     "email2": false,
     "email3": false,
-    "targetProfile": "C/D"
+    "targetProfile": "C/D",
+    "date1": "2026-11-20"
   },
   {
     "name": "Republic Pub",
@@ -3414,10 +3445,11 @@
     "phone": "11 985319363 M├â┬üRCIA",
     "template": "pergunta",
     "website": "",
-    "email1": false,
+    "email1": true,
     "email2": false,
     "email3": false,
-    "targetProfile": "C/D"
+    "targetProfile": "C/D",
+    "date1": "2026-11-20"
   },
   {
     "name": "BAR P├â┬ë PRA FORA",
@@ -3592,10 +3624,11 @@
     "phone": "113853-6178 / 1191012-8810",
     "template": "pergunta",
     "website": "",
-    "email1": false,
+    "email1": true,
     "email2": false,
     "email3": false,
-    "targetProfile": "C/D"
+    "targetProfile": "C/D",
+    "date1": "2026-11-20"
   },
   {
     "name": "WANDERLUST BAR E COZINHA",
@@ -3607,10 +3640,11 @@
     "phone": "11 3255-0804 / LIVIA 11 984071119",
     "template": "prova_social",
     "website": "",
-    "email1": false,
+    "email1": true,
     "email2": false,
     "email3": false,
-    "targetProfile": "C/D"
+    "targetProfile": "C/D",
+    "date1": "2026-11-20"
   },
   {
     "name": "Casa Galliano",
@@ -3637,10 +3671,11 @@
     "phone": "11 3086-0780",
     "template": "consultivo",
     "website": "",
-    "email1": false,
+    "email1": true,
     "email2": false,
     "email3": false,
-    "targetProfile": "C/D"
+    "targetProfile": "C/D",
+    "date1": "2026-11-20"
   },
   {
     "name": "BAR DO PLINIO",
@@ -3667,10 +3702,11 @@
     "phone": "112738-0887 / 11 961420397 PAULO",
     "template": "prova_social",
     "website": "",
-    "email1": false,
+    "email1": true,
     "email2": false,
     "email3": false,
-    "targetProfile": "C/D"
+    "targetProfile": "C/D",
+    "date1": "2026-11-20"
   },
   {
     "name": "BAR DO LOPES",
@@ -3791,10 +3827,11 @@
     "phone": "11 2501-9032 / 11 55394887 / (011) 2506-3326 /  (011) 95791-1137 / 11 991884096 MARCOS PAULO",
     "template": "consultivo",
     "website": "",
-    "email1": false,
+    "email1": true,
     "email2": false,
     "email3": false,
-    "targetProfile": "C/D"
+    "targetProfile": "C/D",
+    "date1": "2026-11-20"
   },
   {
     "name": "BOTECO MOEMA",
@@ -3836,10 +3873,11 @@
     "phone": "11 3564-3123 WPP",
     "template": "prova_social",
     "website": "",
-    "email1": false,
+    "email1": true,
     "email2": false,
     "email3": false,
-    "targetProfile": "C/D"
+    "targetProfile": "C/D",
+    "date1": "2026-11-20"
   },
   {
     "name": "NIT BAR DE TAPAS",
@@ -4006,10 +4044,11 @@
     "phone": "1197440-8863/ 35 991812811 VICTORIA",
     "template": "pergunta",
     "website": "",
-    "email1": false,
+    "email1": true,
     "email2": false,
     "email3": false,
-    "targetProfile": "C/D"
+    "targetProfile": "C/D",
+    "date1": "2026-11-20"
   },
   {
     "name": "QT Pizza Bar",
@@ -4021,10 +4060,11 @@
     "phone": "(11) 96367-4656 / 21 996573464 MATHEUS├é┬┤/  11 96072-8745 Matheus",
     "template": "pergunta",
     "website": "",
-    "email1": false,
+    "email1": true,
     "email2": false,
     "email3": false,
-    "targetProfile": "C/D"
+    "targetProfile": "C/D",
+    "date1": "2026-11-20"
   },
   {
     "name": "├é┬┐Que Pasa?",
@@ -4051,10 +4091,11 @@
     "phone": "(11) 3167-7774 DIRETO/ 3031-1592",
     "template": "prova_social",
     "website": "",
-    "email1": false,
+    "email1": true,
     "email2": false,
     "email3": false,
-    "targetProfile": "C/D"
+    "targetProfile": "C/D",
+    "date1": "2026-11-20"
   },
   {
     "name": "Bar do Celso",
@@ -4081,10 +4122,11 @@
     "phone": "11 2671 0670 / 11 26710668 DIRETO",
     "template": "prova_social",
     "website": "",
-    "email1": false,
+    "email1": true,
     "email2": false,
     "email3": false,
-    "targetProfile": "C/D"
+    "targetProfile": "C/D",
+    "date1": "2026-11-20"
   },
   {
     "name": "BAZE",
@@ -4126,10 +4168,11 @@
     "phone": "11 2091-3208 / 1194131-3796 LOJA / 9 30320250 NEILOR",
     "template": "pergunta",
     "website": "",
-    "email1": false,
+    "email1": true,
     "email2": false,
     "email3": false,
-    "targetProfile": "C/D"
+    "targetProfile": "C/D",
+    "date1": "2026-11-20"
   },
   {
     "name": "Bar do Beco",
@@ -4141,10 +4184,11 @@
     "phone": "11 3812-9979 / 1193477-2123",
     "template": "consultivo",
     "website": "",
-    "email1": false,
+    "email1": true,
     "email2": false,
     "email3": false,
-    "targetProfile": "C/D"
+    "targetProfile": "C/D",
+    "date1": "2026-11-20"
   },
   {
     "name": "CERVEJA AV├â┬ôS",
@@ -4156,10 +4200,11 @@
     "phone": "113672-4282 / 1197393-7879 junior",
     "template": "consultivo",
     "website": "",
-    "email1": false,
+    "email1": true,
     "email2": false,
     "email3": false,
-    "targetProfile": "C/D"
+    "targetProfile": "C/D",
+    "date1": "2026-11-20"
   },
   {
     "name": "ASSEMBL├â┬ëIA BAR",
@@ -4293,10 +4338,11 @@
     "phone": "11 3171-0799 / 1194107-1004 AGENCIA",
     "template": "pergunta",
     "website": "",
-    "email1": false,
+    "email1": true,
     "email2": false,
     "email3": false,
-    "targetProfile": "C/D"
+    "targetProfile": "C/D",
+    "date1": "2026-11-20"
   },
   {
     "name": "Bagaceira",
@@ -4308,10 +4354,11 @@
     "phone": "11 2691-1884 / 11 979595840 THIAGO",
     "template": "pergunta",
     "website": "",
-    "email1": false,
+    "email1": true,
     "email2": false,
     "email3": false,
-    "targetProfile": "C/D"
+    "targetProfile": "C/D",
+    "date1": "2026-11-20"
   },
   {
     "name": "S├â┬úo Crist├â┬│v├â┬úo Bar",
@@ -4385,10 +4432,11 @@
     "phone": "11 2894-8004 / 11 2539-9071",
     "template": "pergunta",
     "website": "",
-    "email1": false,
+    "email1": true,
     "email2": false,
     "email3": false,
-    "targetProfile": "C/D"
+    "targetProfile": "C/D",
+    "date1": "2026-11-20"
   },
   {
     "name": "Vero! Coquetelaria e Cozinha",
@@ -4416,10 +4464,11 @@
     "phone": "011 3078-3458 / 011 3338-1180 CECILIA",
     "template": "prova_social",
     "website": "",
-    "email1": false,
+    "email1": true,
     "email2": false,
     "email3": false,
-    "targetProfile": "C/D"
+    "targetProfile": "C/D",
+    "date1": "2026-11-20"
   },
   {
     "name": "A Dama E Os Vagabundos Bar",
@@ -4476,10 +4525,11 @@
     "phone": "3284-3626",
     "template": "consultivo",
     "website": "",
-    "email1": false,
+    "email1": true,
     "email2": false,
     "email3": false,
-    "targetProfile": "C/D"
+    "targetProfile": "C/D",
+    "date1": "2026-11-20"
   },
   {
     "name": "PROSA E VINHO",
@@ -4491,10 +4541,11 @@
     "phone": "3151-3692",
     "template": "consultivo",
     "website": "",
-    "email1": false,
+    "email1": true,
     "email2": false,
     "email3": false,
-    "targetProfile": "C/D"
+    "targetProfile": "C/D",
+    "date1": "2026-11-20"
   },
   {
     "name": "├â┬ô DO BOROGOD├â┬ô",
@@ -4521,10 +4572,11 @@
     "phone": "11 32574290/ 1194980-3554",
     "template": "consultivo",
     "website": "",
-    "email1": false,
+    "email1": true,
     "email2": false,
     "email3": false,
-    "targetProfile": "C/D"
+    "targetProfile": "C/D",
+    "date1": "2026-11-20"
   },
   {
     "name": "CAMA DE GATO",
@@ -4536,10 +4588,11 @@
     "phone": "3129-9581",
     "template": "pergunta",
     "website": "",
-    "email1": false,
+    "email1": true,
     "email2": false,
     "email3": false,
-    "targetProfile": "C/D"
+    "targetProfile": "C/D",
+    "date1": "2026-11-20"
   },
   {
     "name": "MERCEARIA S├â┬âO PEDRO",
@@ -4566,10 +4619,11 @@
     "phone": "11 3812 8400 / 1138137773",
     "template": "pergunta",
     "website": "",
-    "email1": false,
+    "email1": true,
     "email2": false,
     "email3": false,
-    "targetProfile": "C/D"
+    "targetProfile": "C/D",
+    "date1": "2026-11-20"
   },
   {
     "name": "BOTECO FLORESTA - ESPERIA",
@@ -4581,10 +4635,11 @@
     "phone": "11 2089 1387",
     "template": "pergunta",
     "website": "",
-    "email1": false,
+    "email1": true,
     "email2": false,
     "email3": false,
-    "targetProfile": "C/D"
+    "targetProfile": "C/D",
+    "date1": "2026-11-20"
   },
   {
     "name": "BOTECO TODOS OS SANTOS",
@@ -4596,10 +4651,11 @@
     "phone": "11 2574 1157",
     "template": "prova_social",
     "website": "",
-    "email1": false,
+    "email1": true,
     "email2": false,
     "email3": false,
-    "targetProfile": "C/D"
+    "targetProfile": "C/D",
+    "date1": "2026-11-20"
   },
   {
     "name": "BOURBON STREET",
@@ -4611,10 +4667,11 @@
     "phone": "(11) 5095-6100",
     "template": "consultivo",
     "website": "",
-    "email1": false,
+    "email1": true,
     "email2": false,
     "email3": false,
-    "targetProfile": "C/D"
+    "targetProfile": "C/D",
+    "date1": "2026-11-20"
   },
   {
     "name": "Finnegan├ó┬Ç┬Ös",
@@ -4641,10 +4698,11 @@
     "phone": "11 2092 6000 / 2097 4093 / 1197773-0300",
     "template": "prova_social",
     "website": "",
-    "email1": false,
+    "email1": true,
     "email2": false,
     "email3": false,
-    "targetProfile": "C/D"
+    "targetProfile": "C/D",
+    "date1": "2026-11-20"
   },
   {
     "name": "IGREJINHA",
@@ -4656,10 +4714,11 @@
     "phone": "11 2769 8794",
     "template": "consultivo",
     "website": "",
-    "email1": false,
+    "email1": true,
     "email2": false,
     "email3": false,
-    "targetProfile": "C/D"
+    "targetProfile": "C/D",
+    "date1": "2026-11-20"
   },
   {
     "name": "CINECLUBE CORTINA",
@@ -4706,10 +4765,11 @@
     "phone": "(11) 4711-1631",
     "template": "prova_social",
     "website": "",
-    "email1": false,
+    "email1": true,
     "email2": false,
     "email3": false,
-    "targetProfile": "C/D"
+    "targetProfile": "C/D",
+    "date1": "2026-11-20"
   },
   {
     "name": "Love Cabaret",
@@ -4721,10 +4781,11 @@
     "phone": "N TEM",
     "template": "pergunta",
     "website": "",
-    "email1": false,
+    "email1": true,
     "email2": false,
     "email3": false,
-    "targetProfile": "C/D"
+    "targetProfile": "C/D",
+    "date1": "2026-11-20"
   },
   {
     "name": "KIA ORA",
@@ -4736,10 +4797,11 @@
     "phone": "11 3846 8300 / 11  98416-0330 delivery",
     "template": "pergunta",
     "website": "",
-    "email1": false,
+    "email1": true,
     "email2": false,
     "email3": false,
-    "targetProfile": "C/D"
+    "targetProfile": "C/D",
+    "date1": "2026-11-20"
   },
   {
     "name": "BAR SAMBA",
@@ -4766,12 +4828,13 @@
     "phone": "1194745-8186 / 11 978830027 THOMAS",
     "template": "pergunta",
     "website": "",
-    "email1": false,
+    "email1": true,
     "email2": false,
     "email3": false,
     "targetProfile": "C/D",
     "mxVerified": true,
-    "mxVerifiedAt": "2026-11-04"
+    "mxVerifiedAt": "2026-11-04",
+    "date1": "2026-11-20"
   },
   {
     "name": "BAR L├â┬ëO",
@@ -4783,12 +4846,13 @@
     "phone": "1194745-8186 // 11 32210247 / 11 2039-1250 /  11 978830027 THOMAS",
     "template": "pergunta",
     "website": "",
-    "email1": false,
+    "email1": true,
     "email2": false,
     "email3": false,
     "targetProfile": "C/D",
     "mxVerified": true,
-    "mxVerifiedAt": "2026-11-04"
+    "mxVerifiedAt": "2026-11-04",
+    "date1": "2026-11-20"
   },
   {
     "name": "JACAR├â┬ë GRILL",
@@ -4815,12 +4879,13 @@
     "phone": "2039-1250/ 1194745-8186",
     "template": "consultivo",
     "website": "",
-    "email1": false,
+    "email1": true,
     "email2": false,
     "email3": false,
     "targetProfile": "C/D",
     "mxVerified": true,
-    "mxVerifiedAt": "2026-11-04"
+    "mxVerifiedAt": "2026-11-04",
+    "date1": "2026-11-20"
   },
   {
     "name": "FEIRINHA BAR",
@@ -4832,12 +4897,13 @@
     "phone": "11999391482",
     "template": "pergunta",
     "website": "",
-    "email1": false,
+    "email1": true,
     "whatsappSent": true,
     "whatsappDate": "2026-08-03",
     "email2": false,
     "email3": false,
-    "targetProfile": "C/D"
+    "targetProfile": "C/D",
+    "date1": "2026-11-20"
   },
   {
     "name": "ARMAZ├â┬ëM PIOLA",
@@ -4849,10 +4915,11 @@
     "phone": "11 95662-1104",
     "template": "consultivo",
     "website": "",
-    "email1": false,
+    "email1": true,
     "email2": false,
     "email3": false,
-    "targetProfile": "C/D"
+    "targetProfile": "C/D",
+    "date1": "2026-11-20"
   },
   {
     "name": "BAR DO BAIRRO",
@@ -4879,10 +4946,11 @@
     "phone": "3807-3633 /  11 5093-1927 delivery /11 97109-6651",
     "template": "consultivo",
     "website": "",
-    "email1": false,
+    "email1": true,
     "email2": false,
     "email3": false,
-    "targetProfile": "C/D"
+    "targetProfile": "C/D",
+    "date1": "2026-11-20"
   },
   {
     "name": "100% Burger Cajamar",
@@ -4944,12 +5012,13 @@
     "phone": "2620-0700 CENTRAL",
     "template": "prova_social",
     "website": "",
-    "email1": false,
+    "email1": true,
     "email2": false,
     "email3": false,
     "targetProfile": "C/D",
     "mxVerified": true,
-    "mxVerifiedAt": "2026-11-04"
+    "mxVerifiedAt": "2026-11-04",
+    "date1": "2026-11-20"
   },
   {
     "name": "BR├â┬üZ",
@@ -4961,12 +5030,13 @@
     "phone": "2620-0700 CENTRAL",
     "template": "pergunta",
     "website": "",
-    "email1": false,
+    "email1": true,
     "email2": false,
     "email3": false,
     "targetProfile": "C/D",
     "mxVerified": true,
-    "mxVerifiedAt": "2026-11-04"
+    "mxVerifiedAt": "2026-11-04",
+    "date1": "2026-11-20"
   },
   {
     "name": "BRAZ ELETRICA",
@@ -4978,12 +5048,13 @@
     "phone": "2620-0700 CENTRAL",
     "template": "prova_social",
     "website": "",
-    "email1": false,
+    "email1": true,
     "email2": false,
     "email3": false,
     "targetProfile": "C/D",
     "mxVerified": true,
-    "mxVerifiedAt": "2026-11-04"
+    "mxVerifiedAt": "2026-11-04",
+    "date1": "2026-11-20"
   },
   {
     "name": "ICI BRASSERIE",
@@ -4995,12 +5066,13 @@
     "phone": "2620-0700 CENTRAL",
     "template": "prova_social",
     "website": "",
-    "email1": false,
+    "email1": true,
     "email2": false,
     "email3": false,
     "targetProfile": "C/D",
     "mxVerified": true,
-    "mxVerifiedAt": "2026-11-04"
+    "mxVerifiedAt": "2026-11-04",
+    "date1": "2026-11-20"
   },
   {
     "name": "MEAT BAR",
@@ -5012,12 +5084,13 @@
     "phone": "11 5055-7472",
     "template": "prova_social",
     "website": "",
-    "email1": false,
+    "email1": true,
     "whatsappSent": true,
     "whatsappDate": "2026-08-03",
     "email2": false,
     "email3": false,
-    "targetProfile": "C/D"
+    "targetProfile": "C/D",
+    "date1": "2026-11-20"
   },
   {
     "name": "CASA FLUIDA",
@@ -5155,10 +5228,11 @@
     "phone": "113034-3082 / 11 97500-0902 LIGIA",
     "template": "consultivo",
     "website": "",
-    "email1": false,
+    "email1": true,
     "email2": false,
     "email3": false,
-    "targetProfile": "C/D"
+    "targetProfile": "C/D",
+    "date1": "2026-11-20"
   },
   {
     "name": "Maria Augusta RestoBar",
@@ -5170,10 +5244,11 @@
     "phone": "112614-9152",
     "template": "prova_social",
     "website": "",
-    "email1": false,
+    "email1": true,
     "email2": false,
     "email3": false,
-    "targetProfile": "C/D"
+    "targetProfile": "C/D",
+    "date1": "2026-11-20"
   },
   {
     "name": "Chateau Lounge",
@@ -5185,10 +5260,11 @@
     "phone": "(11) 5041-8118  /  11 96911-5098 / 11978210245 SIRLEIDE",
     "template": "consultivo",
     "website": "",
-    "email1": false,
+    "email1": true,
     "email2": false,
     "email3": false,
-    "targetProfile": "C/D"
+    "targetProfile": "C/D",
+    "date1": "2026-11-20"
   },
   {
     "name": "├░┬Ø┬ù┬ƒ├░┬Ø┬ù┬ö├░┬Ø┬ù┬ª├░┬Ø┬ù┬×├░┬Ø┬ù┬ö├░┬Ø┬ù┬Ñ├░┬Ø┬ù┬£├░┬Ø┬ù┬í├░┬Ø┬ù┬ö ├░┬Ø┬ù┬ò├░┬Ø┬ù┬ó├░┬Ø┬ù┬¿├░┬Ø┬ù┬ò├░┬Ø┬ù┬ó...",
@@ -5215,10 +5291,11 @@
     "phone": "5587-1360 / 11 99911-5533 CIDA /  11 97310-8444 Edson Leite.",
     "template": "pergunta",
     "website": "",
-    "email1": false,
+    "email1": true,
     "email2": false,
     "email3": false,
-    "targetProfile": "C/D"
+    "targetProfile": "C/D",
+    "date1": "2026-11-20"
   },
   {
     "name": "Pier├â┬¬ Bar",
@@ -5262,12 +5339,13 @@
     "phone": "1195702-1448 ANDRE",
     "template": "pergunta",
     "website": "",
-    "email1": false,
+    "email1": true,
     "whatsappSent": true,
     "whatsappDate": "2026-08-03",
     "email2": false,
     "email3": false,
-    "targetProfile": "C/D"
+    "targetProfile": "C/D",
+    "date1": "2026-11-20"
   },
   {
     "name": "Boteco S├â┬úo Lorenzo",
@@ -5375,12 +5453,13 @@
     "phone": "11 3817-4433",
     "template": "prova_social",
     "website": "",
-    "email1": false,
+    "email1": true,
     "whatsappSent": true,
     "whatsappDate": "2026-08-03",
     "email2": false,
     "email3": false,
-    "targetProfile": "C/D"
+    "targetProfile": "C/D",
+    "date1": "2026-11-20"
   },
   {
     "name": "Botequim Grill House",
@@ -5407,10 +5486,11 @@
     "phone": "(11) 3392-6181 BARRA FUNDA/",
     "template": "pergunta",
     "website": "",
-    "email1": false,
+    "email1": true,
     "email2": false,
     "email3": false,
-    "targetProfile": "C/D"
+    "targetProfile": "C/D",
+    "date1": "2026-11-20"
   },
   {
     "name": "BKIN",
@@ -5422,10 +5502,11 @@
     "phone": "11988340807 brooklin/ 11994510058 jardins",
     "template": "prova_social",
     "website": "",
-    "email1": false,
+    "email1": true,
     "email2": false,
     "email3": false,
-    "targetProfile": "C/D"
+    "targetProfile": "C/D",
+    "date1": "2026-11-20"
   },
   {
     "name": "O varal",
@@ -33767,10 +33848,11 @@
     "emailSource": "https://primalbartenders.com/",
     "emailVerifiedAt": "2026-10-13",
     "template": "consultivo",
-    "email1": false,
+    "email1": true,
     "email2": false,
     "email3": false,
-    "targetProfile": "C/D"
+    "targetProfile": "C/D",
+    "date1": "2026-11-20"
   },
   {
     "name": "Drinks Bartender",
@@ -34130,10 +34212,11 @@
     "emailSource": "https://santaocabar.com.br/",
     "emailVerifiedAt": "2026-10-13",
     "template": "consultivo",
-    "email1": false,
+    "email1": true,
     "email2": false,
     "email3": false,
-    "targetProfile": "C/D"
+    "targetProfile": "C/D",
+    "date1": "2026-11-20"
   },
   {
     "name": "Urbana Coquetelaria",
@@ -34204,10 +34287,11 @@
     "emailSource": "https://mrcocktaileventos.com/",
     "emailVerifiedAt": "2026-10-13",
     "template": "consultivo",
-    "email1": false,
+    "email1": true,
     "email2": false,
     "email3": false,
-    "targetProfile": "C/D"
+    "targetProfile": "C/D",
+    "date1": "2026-11-20"
   },
   {
     "name": "Canto Wine Bar & Take Away",
