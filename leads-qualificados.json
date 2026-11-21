@@ -5518,12 +5518,13 @@
     "phone": "11966360310",
     "template": "pergunta",
     "website": "",
-    "email1": false,
+    "email1": true,
     "whatsappSent": true,
     "whatsappDate": "2026-08-03",
     "email2": false,
     "email3": false,
-    "targetProfile": "C/D"
+    "targetProfile": "C/D",
+    "date1": "2026-11-21"
   },
   {
     "name": "PRAIA DO LAGO",
@@ -5552,12 +5553,13 @@
     "phone": "(11) 94574-3218",
     "template": "pergunta",
     "website": "",
-    "email1": false,
+    "email1": true,
     "whatsappSent": true,
     "whatsappDate": "2026-08-03",
     "email2": false,
     "email3": false,
-    "targetProfile": "C/D"
+    "targetProfile": "C/D",
+    "date1": "2026-11-21"
   },
   {
     "name": "Tulum Bar & Club",
@@ -5599,10 +5601,11 @@
     "phone": "113812-3188 / 1199221-4121 MARCO",
     "template": "consultivo",
     "website": "",
-    "email1": false,
+    "email1": true,
     "email2": false,
     "email3": false,
-    "targetProfile": "C/D"
+    "targetProfile": "C/D",
+    "date1": "2026-11-21"
   },
   {
     "name": "KAKUREGA IZAKAYA",
@@ -5755,12 +5758,13 @@
     "phone": "1199010 2507",
     "template": "pergunta",
     "website": "",
-    "email1": false,
+    "email1": true,
     "whatsappSent": true,
     "whatsappDate": "2026-08-03",
     "email2": false,
     "email3": false,
-    "targetProfile": "C/D"
+    "targetProfile": "C/D",
+    "date1": "2026-11-21"
   },
   {
     "name": "Taberna Maia Grill",
@@ -5804,10 +5808,11 @@
     "phone": "11 2671-2992 WPP  / 11998353182 / 11 26712992",
     "template": "consultivo",
     "website": "",
-    "email1": false,
+    "email1": true,
     "email2": false,
     "targetProfile": "C/D",
-    "email3": false
+    "email3": false,
+    "date1": "2026-11-21"
   },
   {
     "name": "BAR DO MILTON",
