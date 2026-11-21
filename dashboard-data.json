@@ -1,24 +1,20 @@
 {
-  "lastUpdate": "2026-11-20T19:55:53.984Z",
+  "lastUpdate": "2026-11-21T06:50:19.064Z",
   "sinceDate": "2026-08-02",
   "totalLeads": 4045,
   "emails": {
-    "email1": 1141,
+    "email1": 1146,
     "email2": 66,
     "email3": 0,
-    "total": 1207
+    "total": 1212
   },
   "whatsapp": {
     "today": 0,
     "total": 262
   },
   "responses": 8,
-  "pending": 563,
+  "pending": 558,
   "daily": [
-    {
-      "date": "2026-10-22",
-      "count": 0
-    },
     {
       "date": "2026-10-23",
       "count": 0
@@ -133,7 +129,11 @@
     },
     {
       "date": "2026-11-20",
-      "count": 95
+      "count": 100
+    },
+    {
+      "date": "2026-11-21",
+      "count": 0
     }
   ],
   "monthly": [
@@ -160,10 +160,10 @@
     },
     {
       "month": "2026-11",
-      "email1": 1036,
+      "email1": 1041,
       "email2": 65,
       "email3": 0,
-      "total": 1101
+      "total": 1106
     }
   ],
   "topNeighborhoods": [
@@ -310,48 +310,48 @@
   ],
   "funnel": {
     "leads": 4045,
-    "email1": 1141,
+    "email1": 1146,
     "email2": 66,
     "email3": 0,
     "responded": 8
   },
   "week": {
-    "leads": 347,
+    "leads": 270,
     "emails": {
-      "email1": 347,
+      "email1": 270,
       "email2": 65,
       "email3": 0,
-      "total": 412,
+      "total": 335,
       "responses": 2
     }
   },
   "month": {
-    "leads": 1036,
+    "leads": 1041,
     "emails": {
-      "email1": 1036,
+      "email1": 1041,
       "email2": 65,
       "email3": 0,
-      "total": 1101,
+      "total": 1106,
       "responses": 2
     }
   },
   "year": {
-    "leads": 1142,
+    "leads": 1147,
     "emails": {
-      "email1": 1141,
+      "email1": 1146,
       "email2": 66,
       "email3": 0,
-      "total": 1207,
+      "total": 1212,
       "responses": 8
     }
   },
   "sinceBeginning": {
     "leads": 4045,
     "emails": {
-      "email1": 1141,
+      "email1": 1146,
       "email2": 66,
       "email3": 0,
-      "total": 1207
+      "total": 1212
     },
     "responses": 8,
     "whatsapp": 262,
@@ -559,7 +559,7 @@
     {
       "name": "emporio_naturais",
       "total": 5,
-      "email1": 0,
+      "email1": 5,
       "responded": 0
     },
     {
