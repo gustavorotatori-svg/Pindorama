@@ -65446,7 +65446,7 @@
     "targetProfile": "B"
   },
   {
-    "email1": false,
+    "email1": true,
     "email2": false,
     "email3": false,
     "emailVerified": true,
@@ -65463,10 +65463,11 @@
     "template": "consultivo",
     "website": "https://www.emporiodoinga.com.br/",
     "emailSource": "https://www.emporiodoinga.com.br/?pg=contato",
-    "targetProfile": "C/D"
+    "targetProfile": "C/D",
+    "date1": "2026-11-20"
   },
   {
-    "email1": false,
+    "email1": true,
     "email2": false,
     "email3": false,
     "emailVerified": true,
@@ -65483,10 +65484,11 @@
     "template": "consultivo",
     "website": "https://vivaleve4.wixsite.com/vivaleve",
     "emailSource": "https://vivaleve4.wixsite.com/vivaleve",
-    "targetProfile": "C/D"
+    "targetProfile": "C/D",
+    "date1": "2026-11-20"
   },
   {
-    "email1": false,
+    "email1": true,
     "email2": false,
     "email3": false,
     "emailVerified": true,
@@ -65503,10 +65505,11 @@
     "template": "consultivo",
     "website": "https://www.atriumcentroempresarial.com.br/empresas/emporio-dos-naturais/",
     "emailSource": "https://guiapj.com.br/consulta-cnpj/10790161000180",
-    "targetProfile": "C/D"
+    "targetProfile": "C/D",
+    "date1": "2026-11-20"
   },
   {
-    "email1": false,
+    "email1": true,
     "email2": false,
     "email3": false,
     "emailVerified": true,
@@ -65523,10 +65526,11 @@
     "template": "consultivo",
     "website": "https://www.instagram.com/emporioikeda/",
     "emailSource": "https://casadosdados.com.br/solucao/cnpj/ikeda-restaurante-grill-ltda-41832848000164",
-    "targetProfile": "C/D"
+    "targetProfile": "C/D",
+    "date1": "2026-11-20"
   },
   {
-    "email1": false,
+    "email1": true,
     "email2": false,
     "email3": false,
     "emailVerified": true,
@@ -65544,7 +65548,8 @@
     "website": "https://www.emporioecia.com.br/",
     "emailSource": "https://www.emporioecia.com.br/",
     "targetProfile": "C/D",
-    "note": "Substitui financeiro@emporioecia.com.br (e-mail publicado no site: cliente@emporioecia.com.br)."
+    "note": "Substitui financeiro@emporioecia.com.br (e-mail publicado no site: cliente@emporioecia.com.br).",
+    "date1": "2026-11-20"
   },
   {
     "email1": false,
