@@ -5824,10 +5824,11 @@
     "phone": "(11) 2099-4000 / (11) 99506-4120 / 11 96085536  LIDIA",
     "template": "pergunta",
     "website": "",
-    "email1": false,
+    "email1": true,
     "email2": false,
     "targetProfile": "C/D",
-    "email3": false
+    "email3": false,
+    "date1": "2026-11-21"
   },
   {
     "name": "Copanzinho",
@@ -5856,10 +5857,11 @@
     "phone": "1131594897 VILA BUARQUE / 1130345595 PINHEIROS",
     "template": "prova_social",
     "website": "",
-    "email1": false,
+    "email1": true,
     "email2": false,
     "targetProfile": "C/D",
-    "email3": false
+    "email3": false,
+    "date1": "2026-11-21"
   },
   {
     "name": "BAR DO VARDEMA",
@@ -5918,12 +5920,13 @@
     "phone": "1198331-6721 ADRIANO",
     "template": "consultivo",
     "website": "",
-    "email1": false,
+    "email1": true,
     "whatsappSent": true,
     "whatsappDate": "2026-08-03",
     "email2": false,
     "targetProfile": "C/D",
-    "email3": false
+    "email3": false,
+    "date1": "2026-11-21"
   },
   {
     "name": "Arte Brasil Bar",
@@ -5965,12 +5968,13 @@
     "phone": "(11) 91466-7204",
     "template": "pergunta",
     "website": "",
-    "email1": false,
+    "email1": true,
     "whatsappSent": true,
     "whatsappDate": "2026-08-03",
     "email2": false,
     "targetProfile": "C/D",
-    "email3": false
+    "email3": false,
+    "date1": "2026-11-21"
   },
   {
     "name": "Aldeia Bar & Restaurante",
