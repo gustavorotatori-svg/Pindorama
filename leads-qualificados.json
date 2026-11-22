@@ -22145,17 +22145,22 @@
     "targetProfile": "C/D"
   },
   {
-    "name": "CORRUTELA",
-    "email": "administrativo@corrutela.com.br",
+    "name": "Corrutela",
+    "email": "contato@corrutela.com.br",
     "type": "restaurante",
-    "neighborhood": "",
-    "address": "",
-    "context": "COZINHA DE AUTOR; respons├ível: MARIANA; instagram: https://www.instagram.com/corrutela/",
+    "neighborhood": "Vila Madalena",
+    "address": "Rua Medeiros de Albuquerque, 256 - Vila Madalena, São Paulo - SP, 05436-060",
+    "context": "Restaurante e bar na Vila Madalena com foco em gastronomia e experiência de bar; contato publicado no site oficial.",
     "phone": "113097-9490",
     "template": "pergunta",
-    "website": "",
+    "website": "https://corrutela.com.br/",
     "email1": false,
-    "targetProfile": "C/D"
+    "targetProfile": "C/D",
+    "city": "São Paulo",
+    "emailSource": "https://corrutela.com.br/",
+    "emailVerified": true,
+    "emailVerifiedAt": "2026-11-21",
+    "mxVerified": true
   },
   {
     "name": "PRETO",
