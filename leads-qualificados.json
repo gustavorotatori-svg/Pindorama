@@ -108,7 +108,11 @@
     "email2": false,
     "email3": false,
     "template": null,
-    "targetProfile": "C/D"
+    "targetProfile": "C/D",
+    "emailVerified": true,
+    "emailVerifiedAt": "2026-11-21",
+    "mxVerified": true,
+    "emailSource": "https://www.pullmanvilaolimpia.com/pullman-sao-paulo-vila-olimpia/contato/"
   },
   {
     "name": "Manifesto Bar",
@@ -135,7 +139,11 @@
     "email2": false,
     "email3": false,
     "template": null,
-    "targetProfile": "C/D"
+    "targetProfile": "C/D",
+    "emailVerified": true,
+    "emailVerifiedAt": "2026-11-21",
+    "mxVerified": true,
+    "emailSource": "https://vilaolimpia.theworld.com.br/contato/"
   },
   {
     "name": "Fit├│ Pinheiros",
@@ -569,7 +577,11 @@
     "email1": false,
     "email2": false,
     "email3": false,
-    "targetProfile": "C/D"
+    "targetProfile": "C/D",
+    "emailVerified": true,
+    "emailVerifiedAt": "2026-11-21",
+    "mxVerified": true,
+    "emailSource": "https://milkmellow.com.br/contato-milkmellow/"
   },
   {
     "name": "Adega Santiago Cidade Jardim",
