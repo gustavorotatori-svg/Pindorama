@@ -3926,18 +3926,23 @@
   },
   {
     "name": "PLATZ",
-    "email": "platz.eurobar@gmail.com",
+    "email": "contato@platzbar.com.br",
     "type": "bar",
-    "neighborhood": "",
+    "neighborhood": "Campo Belo",
     "address": "",
     "context": "BAR; respons├ível: ALBERTO; instagram: https://www.instagram.com/platz_eurobar/",
     "phone": "(11) 5531-4036 / 1199736-6417",
     "template": "pergunta",
-    "website": "",
+    "website": "https://platzbar.com.br/",
     "email1": false,
     "email2": false,
     "email3": false,
-    "targetProfile": "C/D"
+    "targetProfile": "C/D",
+    "emailSource": "https://platzbar.com.br/",
+    "emailVerified": true,
+    "emailVerifiedAt": "2026-11-22",
+    "mxVerified": true,
+    "city": "São Paulo"
   },
   {
     "name": "Tribunal Bar e Restaurante",
