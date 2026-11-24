@@ -65861,5 +65861,25 @@
     "website": "https://obotecoargentino.com.br/",
     "emailSource": "https://obotecoargentino.com.br/nossas-unidades/",
     "targetProfile": "C/D"
+  },
+  {
+    "email1": false,
+    "email2": false,
+    "email3": false,
+    "emailVerified": true,
+    "emailVerifiedAt": "2026-11-24",
+    "mxVerified": true,
+    "name": "Rinconcito Peruano",
+    "email": "eventos@rinconcitoperuano.com.br",
+    "type": "restaurante",
+    "neighborhood": "São Paulo",
+    "address": "São Paulo - SP (múltiplas unidades)",
+    "city": "São Paulo",
+    "context": "Rede de restaurantes peruanos em São Paulo; contato para eventos publicado no site oficial.",
+    "phone": "",
+    "template": "consultivo",
+    "website": "https://www.rinconcitoperuano.com.br/",
+    "emailSource": "https://www.rinconcitoperuano.com.br/",
+    "targetProfile": "C/D"
   }
 ]
