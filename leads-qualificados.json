@@ -65984,5 +65984,25 @@
     "website": "https://www.rinconcitoperuano.com.br/",
     "emailSource": "https://www.rinconcitoperuano.com.br/",
     "targetProfile": "C/D"
+  },
+  {
+    "email1": false,
+    "email2": false,
+    "email3": false,
+    "emailVerified": true,
+    "emailVerifiedAt": "2026-11-24",
+    "mxVerified": true,
+    "name": "Bigato Bar LTDA",
+    "email": "rodrigobigattobbq@gmail.com",
+    "type": "bar",
+    "neighborhood": "Capela do Socorro",
+    "address": "Rua Dr. Luís Arrobas Martins, 152, Loja 1 - Capela do Socorro, São Paulo - SP, 04781-000",
+    "city": "São Paulo",
+    "context": "Bar/restaurante no Capela do Socorro (CNPJ 16.886.325/0001-53); e-mail público listado no cadastro CNPJá.",
+    "phone": "(11) 4742-1728",
+    "template": "consultivo",
+    "website": "",
+    "emailSource": "https://cnpja.com/office/16886325000153",
+    "targetProfile": "C/D"
   }
 ]
