@@ -65841,5 +65841,25 @@
     "website": "https://gracadinapolli.com.br/",
     "emailSource": "https://gracadinapolli.com.br/",
     "targetProfile": "C/D"
+  },
+  {
+    "emailVerified": true,
+    "emailVerifiedAt": "2026-11-23",
+    "mxVerified": true,
+    "email1": false,
+    "email2": false,
+    "email3": false,
+    "name": "O Boteco Argentino",
+    "email": "faleconosco@obotecoargentino.com.br",
+    "type": "restaurante",
+    "neighborhood": "Ipiranga",
+    "address": "São Paulo - SP (unidades Ipiranga e Perdizes)",
+    "city": "São Paulo",
+    "context": "Restaurante de empanadas argentinas e pratos típicos em SP; contato institucional publicado no site oficial.",
+    "phone": "(11) 4301-1361",
+    "template": "consultivo",
+    "website": "https://obotecoargentino.com.br/",
+    "emailSource": "https://obotecoargentino.com.br/nossas-unidades/",
+    "targetProfile": "C/D"
   }
 ]
