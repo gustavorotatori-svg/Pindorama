@@ -32029,7 +32029,12 @@
     "template": "prova_social",
     "website": "",
     "email1": false,
-    "targetProfile": "C/D"
+    "targetProfile": "C/D",
+    "emailVerified": true,
+    "emailVerifiedAt": "2026-11-24",
+    "mxVerified": true,
+    "emailSource": "https://barfigueiras.com.br/bar_figueiras.html",
+    "city": "Santo André"
   },
   {
     "name": "Trip Food SP",
@@ -66003,6 +66008,26 @@
     "template": "consultivo",
     "website": "",
     "emailSource": "https://cnpja.com/office/16886325000153",
+    "targetProfile": "C/D"
+  },
+  {
+    "email1": false,
+    "email2": false,
+    "email3": false,
+    "emailVerified": true,
+    "emailVerifiedAt": "2026-11-24",
+    "mxVerified": true,
+    "name": "Sabores da Vida Buffet",
+    "email": "faleconosco@saboresdavida.com.br",
+    "type": "restaurante",
+    "neighborhood": "Vila Vilma",
+    "address": "Av. Santos Dumont, 539 - Vila Vilma, Santo André - SP, 09015-330",
+    "city": "Santo André",
+    "context": "Buffet e eventos em Santo André com coquetéis e serviço de bar para eventos; contato publicado no site oficial.",
+    "phone": "(11) 4249-2226",
+    "template": "consultivo",
+    "website": "https://www.saboresdavida.com.br/",
+    "emailSource": "https://www.saboresdavida.com.br/coquetel-classico/",
     "targetProfile": "C/D"
   }
 ]
