@@ -3122,7 +3122,10 @@
     "email2": false,
     "email3": false,
     "targetProfile": "C/D",
-    "date1": "2026-11-20"
+    "date1": "2026-11-20",
+    "invalidEmail": true,
+    "invalidEmailReason": "domain_without_mx",
+    "invalidEmailDate": "2026-11-25"
   },
   {
     "name": "Dona Felicidade",
@@ -3134,10 +3137,11 @@
     "phone": "11 3864-3866 DIRETO/ 3804-2047 / 1198389-6941 SERGIO",
     "template": "consultivo",
     "website": "",
-    "email1": false,
+    "email1": true,
     "email2": false,
     "email3": false,
-    "targetProfile": "C/D"
+    "targetProfile": "C/D",
+    "date1": "2026-11-25"
   },
   {
     "name": "Tch├â┬¬ Caf├â┬®",
@@ -4288,10 +4292,11 @@
     "phone": "11 3885 7670/ 1198762-3666",
     "template": "pergunta",
     "website": "",
-    "email1": false,
+    "email1": true,
     "email2": false,
     "email3": false,
-    "targetProfile": "C/D"
+    "targetProfile": "C/D",
+    "date1": "2026-11-25"
   },
   {
     "name": "PIER 1327",
@@ -4303,10 +4308,11 @@
     "phone": "11 5539 6213 / 113467-0146 / (11)99211-9273  GUSTAVO",
     "template": "consultivo",
     "website": "",
-    "email1": false,
+    "email1": true,
     "email2": false,
     "email3": false,
-    "targetProfile": "C/D"
+    "targetProfile": "C/D",
+    "date1": "2026-11-25"
   },
   {
     "name": "BOTECO CENTRAL",
@@ -4318,10 +4324,11 @@
     "phone": "11 31064701",
     "template": "pergunta",
     "website": "",
-    "email1": false,
+    "email1": true,
     "email2": false,
     "email3": false,
-    "targetProfile": "C/D"
+    "targetProfile": "C/D",
+    "date1": "2026-11-25"
   },
   {
     "name": "THE BOWL",
@@ -4333,10 +4340,11 @@
     "phone": "(11) 3078-2675  / 11 953621577 KAUAN GERENTE",
     "template": "consultivo",
     "website": "",
-    "email1": false,
+    "email1": true,
     "email2": false,
     "email3": false,
-    "targetProfile": "C/D"
+    "targetProfile": "C/D",
+    "date1": "2026-11-25"
   },
   {
     "name": "Augusta 472 Rock Bar",
@@ -4348,12 +4356,13 @@
     "phone": "11 989914142",
     "template": "prova_social",
     "website": "",
-    "email1": false,
+    "email1": true,
     "whatsappSent": true,
     "whatsappDate": "2026-08-03",
     "email2": false,
     "email3": false,
-    "targetProfile": "C/D"
+    "targetProfile": "C/D",
+    "date1": "2026-11-25"
   },
   {
     "name": "Esquina Do Souza",
@@ -4365,10 +4374,11 @@
     "phone": "11 2538-1861 / 1199656-1772 AUGUSTO",
     "template": "consultivo",
     "website": "",
-    "email1": false,
+    "email1": true,
     "email2": false,
     "email3": false,
-    "targetProfile": "C/D"
+    "targetProfile": "C/D",
+    "date1": "2026-11-25"
   },
   {
     "name": "BOTECO MANO DO C├â┬ëU",
@@ -4380,10 +4390,11 @@
     "phone": "(11) 99196-9625 / 11944938853",
     "template": "prova_social",
     "website": "",
-    "email1": false,
+    "email1": true,
     "email2": false,
     "email3": false,
-    "targetProfile": "C/D"
+    "targetProfile": "C/D",
+    "date1": "2026-11-25"
   },
   {
     "name": "Me V├â┬í",
@@ -4395,10 +4406,11 @@
     "phone": "11 3816-0588",
     "template": "prova_social",
     "website": "",
-    "email1": false,
+    "email1": true,
     "email2": false,
     "email3": false,
-    "targetProfile": "C/D"
+    "targetProfile": "C/D",
+    "date1": "2026-11-25"
   },
   {
     "name": "Buteco de Minas",
@@ -4442,10 +4454,11 @@
     "phone": "3097-9904 / 26913858",
     "template": "consultivo",
     "website": "",
-    "email1": false,
+    "email1": true,
     "email2": false,
     "email3": false,
-    "targetProfile": "C/D"
+    "targetProfile": "C/D",
+    "date1": "2026-11-25"
   },
   {
     "name": "KRAUT BAR",
@@ -4457,12 +4470,13 @@
     "phone": "11 4323 6390",
     "template": "prova_social",
     "website": "",
-    "email1": false,
+    "email1": true,
     "whatsappSent": true,
     "whatsappDate": "2026-08-03",
     "email2": false,
     "email3": false,
-    "targetProfile": "C/D"
+    "targetProfile": "C/D",
+    "date1": "2026-11-25"
   },
   {
     "name": "Vamo Toma Uma Tap House",
@@ -4474,10 +4488,11 @@
     "phone": "11 43183183 / 11 993705729 LUCIANO",
     "template": "prova_social",
     "website": "",
-    "email1": false,
+    "email1": true,
     "email2": false,
     "email3": false,
-    "targetProfile": "C/D"
+    "targetProfile": "C/D",
+    "date1": "2026-11-25"
   },
   {
     "name": "Food Park da Villa",
@@ -4489,10 +4504,11 @@
     "phone": "11 991046903 / 11 99104-6487 Flavia",
     "template": "prova_social",
     "website": "",
-    "email1": false,
+    "email1": true,
     "email2": false,
     "email3": false,
-    "targetProfile": "C/D"
+    "targetProfile": "C/D",
+    "date1": "2026-11-25"
   },
   {
     "name": "TATU BOLA",
@@ -4552,10 +4568,11 @@
     "phone": "11 99633-9202 /  1199674-4004 / 1199734-6000 Italo",
     "template": "consultivo",
     "website": "",
-    "email1": false,
+    "email1": true,
     "email2": false,
     "email3": false,
-    "targetProfile": "C/D"
+    "targetProfile": "C/D",
+    "date1": "2026-11-25"
   },
   {
     "name": "ALEGRIA DO GALO",
@@ -4567,10 +4584,11 @@
     "phone": "11 5522 3840 / (11)981298727 Laiana",
     "template": "prova_social",
     "website": "",
-    "email1": false,
+    "email1": true,
     "email2": false,
     "email3": false,
-    "targetProfile": "C/D"
+    "targetProfile": "C/D",
+    "date1": "2026-11-25"
   },
   {
     "name": "PINA DRINQUES",
@@ -4582,10 +4600,11 @@
     "phone": "1193751-8979 / 11989786261",
     "template": "prova_social",
     "website": "",
-    "email1": false,
+    "email1": true,
     "email2": false,
     "email3": false,
-    "targetProfile": "C/D"
+    "targetProfile": "C/D",
+    "date1": "2026-11-25"
   },
   {
     "name": "LIBAR",
@@ -4629,10 +4648,11 @@
     "phone": "3360-0303",
     "template": "prova_social",
     "website": "",
-    "email1": false,
+    "email1": true,
     "email2": false,
     "email3": false,
-    "targetProfile": "C/D"
+    "targetProfile": "C/D",
+    "date1": "2026-11-25"
   },
   {
     "name": "JazzB",
@@ -4676,10 +4696,11 @@
     "phone": "11 3815 7200 / 11 94709-9770",
     "template": "prova_social",
     "website": "",
-    "email1": false,
+    "email1": true,
     "email2": false,
     "email3": false,
-    "targetProfile": "C/D"
+    "targetProfile": "C/D",
+    "date1": "2026-11-25"
   },
   {
     "name": "BONA",
@@ -4755,10 +4776,11 @@
     "phone": "30623232 / 998606751",
     "template": "pergunta",
     "website": "",
-    "email1": false,
+    "email1": true,
     "email2": false,
     "email3": false,
-    "targetProfile": "C/D"
+    "targetProfile": "C/D",
+    "date1": "2026-11-25"
   },
   {
     "name": "MAAVAH BAR",
@@ -4820,12 +4842,13 @@
     "phone": "11934642861",
     "template": "prova_social",
     "website": "",
-    "email1": false,
+    "email1": true,
     "whatsappSent": true,
     "whatsappDate": "2026-08-03",
     "email2": false,
     "email3": false,
-    "targetProfile": "C/D"
+    "targetProfile": "C/D",
+    "date1": "2026-11-25"
   },
   {
     "name": "Ice Bar Torquay",
@@ -4885,10 +4908,11 @@
     "phone": "11 38194619 WPP  /  (11) 95341-0198",
     "template": "prova_social",
     "website": "",
-    "email1": false,
+    "email1": true,
     "email2": false,
     "email3": false,
-    "targetProfile": "C/D"
+    "targetProfile": "C/D",
+    "date1": "2026-11-25"
   },
   {
     "name": "Orfeu",
@@ -4936,10 +4960,11 @@
     "phone": "11 3816 0400",
     "template": "consultivo",
     "website": "",
-    "email1": false,
+    "email1": true,
     "email2": false,
     "email3": false,
-    "targetProfile": "C/D"
+    "targetProfile": "C/D",
+    "date1": "2026-11-25"
   },
   {
     "name": "Bar Brahma",
@@ -5003,10 +5028,11 @@
     "phone": "11 3731-5939 / 99910-3500",
     "template": "consultivo",
     "website": "",
-    "email1": false,
+    "email1": true,
     "email2": false,
     "email3": false,
-    "targetProfile": "C/D"
+    "targetProfile": "C/D",
+    "date1": "2026-11-25"
   },
   {
     "name": "Dois Irm├â┬úos",
@@ -5034,12 +5060,13 @@
     "phone": "11 972093640 N TEM WPP",
     "template": "consultivo",
     "website": "",
-    "email1": false,
+    "email1": true,
     "whatsappSent": true,
     "whatsappDate": "2026-08-03",
     "email2": false,
     "email3": false,
-    "targetProfile": "C/D"
+    "targetProfile": "C/D",
+    "date1": "2026-11-25"
   },
   {
     "name": "B.A.R.SP",
@@ -5051,10 +5078,11 @@
     "phone": "11 5542-0490",
     "template": "pergunta",
     "website": "",
-    "email1": false,
+    "email1": true,
     "email2": false,
     "email3": false,
-    "targetProfile": "C/D"
+    "targetProfile": "C/D",
+    "date1": "2026-11-25"
   },
   {
     "name": "SUBASTOR",
@@ -5174,10 +5202,11 @@
     "phone": "1198292-1006 / 11998722800",
     "template": "prova_social",
     "website": "",
-    "email1": false,
+    "email1": true,
     "email2": false,
     "email3": false,
-    "targetProfile": "C/D"
+    "targetProfile": "C/D",
+    "date1": "2026-11-25"
   },
   {
     "name": "RANCHO JERI",
@@ -5189,10 +5218,11 @@
     "phone": "112966-5963 / 1191356-0402",
     "template": "consultivo",
     "website": "",
-    "email1": false,
+    "email1": true,
     "email2": false,
     "email3": false,
-    "targetProfile": "C/D"
+    "targetProfile": "C/D",
+    "date1": "2026-11-25"
   },
   {
     "name": "Wooza",
@@ -5204,10 +5234,11 @@
     "phone": "11973996990 / 1197104-7070 JUAN",
     "template": "pergunta",
     "website": "",
-    "email1": false,
+    "email1": true,
     "email2": false,
     "email3": false,
-    "targetProfile": "C/D"
+    "targetProfile": "C/D",
+    "date1": "2026-11-25"
   },
   {
     "name": "SAMAMBAIA BAR E LANCHES",
@@ -5219,12 +5250,13 @@
     "phone": "11969775701",
     "template": "pergunta",
     "website": "",
-    "email1": false,
+    "email1": true,
     "whatsappSent": true,
     "whatsappDate": "2026-08-03",
     "email2": false,
     "email3": false,
-    "targetProfile": "C/D"
+    "targetProfile": "C/D",
+    "date1": "2026-11-25"
   },
   {
     "name": "Cruzeiro's Bar",
@@ -5252,12 +5284,13 @@
     "phone": "11995991972",
     "template": "prova_social",
     "website": "",
-    "email1": false,
+    "email1": true,
     "whatsappSent": true,
     "whatsappDate": "2026-08-03",
     "email2": false,
     "email3": false,
-    "targetProfile": "C/D"
+    "targetProfile": "C/D",
+    "date1": "2026-11-25"
   },
   {
     "name": "Pensa├î┬âo Bar",
@@ -5269,10 +5302,11 @@
     "phone": "112649-9389",
     "template": "prova_social",
     "website": "",
-    "email1": false,
+    "email1": true,
     "email2": false,
     "email3": false,
-    "targetProfile": "C/D"
+    "targetProfile": "C/D",
+    "date1": "2026-11-25"
   },
   {
     "name": "├░┬Ø┬É┬Ç├░┬Ø┬É┬¼├░┬Ø┬É┬¼├░┬Ø┬É┬Ü├░┬Ø┬É┬º├░┬Ø┬É┬í├░┬Ø┬É┬Ü├░┬Ø┬É┬Ø├░┬Ø┬É┬▒├░┬Ø┬É┬¼ ├░┬Ø┬É┬ä├░┬Ø┬É┬½├░┬Ø┬É┬¿├░┬Ø┬É┬¡...",
@@ -5284,12 +5318,13 @@
     "phone": "(11) 94033-1204",
     "template": "prova_social",
     "website": "",
-    "email1": false,
+    "email1": true,
     "whatsappSent": true,
     "whatsappDate": "2026-08-03",
     "email2": false,
     "email3": false,
-    "targetProfile": "C/D"
+    "targetProfile": "C/D",
+    "date1": "2026-11-25"
   },
   {
     "name": "TANTIN",
@@ -5349,10 +5384,11 @@
     "phone": "(11) 99646-7040 Viviana / 11 98578-1584 AUDREY",
     "template": "pergunta",
     "website": "",
-    "email1": false,
+    "email1": true,
     "email2": false,
     "email3": false,
-    "targetProfile": "C/D"
+    "targetProfile": "C/D",
+    "date1": "2026-11-25"
   },
   {
     "name": "GATTOFIGA",
@@ -5380,12 +5416,13 @@
     "phone": "(11) 99164-4551",
     "template": "pergunta",
     "website": "",
-    "email1": false,
+    "email1": true,
     "whatsappSent": true,
     "whatsappDate": "2026-08-03",
     "email2": false,
     "email3": false,
-    "targetProfile": "C/D"
+    "targetProfile": "C/D",
+    "date1": "2026-11-25"
   },
   {
     "name": "Porks Augusta",
@@ -5397,10 +5434,11 @@
     "phone": "(61) 99567-2332",
     "template": "pergunta",
     "website": "",
-    "email1": false,
+    "email1": true,
     "email2": false,
     "email3": false,
-    "targetProfile": "C/D"
+    "targetProfile": "C/D",
+    "date1": "2026-11-25"
   },
   {
     "name": "ROUND2",
@@ -5430,12 +5468,13 @@
     "phone": "11 98202-8604 Ylana",
     "template": "consultivo",
     "website": "",
-    "email1": false,
+    "email1": true,
     "whatsappSent": true,
     "whatsappDate": "2026-08-03",
     "email2": false,
     "email3": false,
-    "targetProfile": "C/D"
+    "targetProfile": "C/D",
+    "date1": "2026-11-25"
   },
   {
     "name": "Boteco Boa Vista",
@@ -5447,10 +5486,11 @@
     "phone": "(11) 3199-5998 / 1199735-1736 DIEGO / 11 99306-0397 PALOMA",
     "template": "prova_social",
     "website": "",
-    "email1": false,
+    "email1": true,
     "email2": false,
     "email3": false,
-    "targetProfile": "C/D"
+    "targetProfile": "C/D",
+    "date1": "2026-11-25"
   },
   {
     "name": "DECK PORTAL",
@@ -5462,10 +5502,11 @@
     "phone": "11954723857 /  (11) 99900-9805",
     "template": "prova_social",
     "website": "",
-    "email1": false,
+    "email1": true,
     "email2": false,
     "email3": false,
-    "targetProfile": "C/D"
+    "targetProfile": "C/D",
+    "date1": "2026-11-25"
   },
   {
     "name": "3 CANECO",
@@ -5477,12 +5518,13 @@
     "phone": "(11) 2533-4915",
     "template": "consultivo",
     "website": "",
-    "email1": false,
+    "email1": true,
     "whatsappSent": true,
     "whatsappDate": "2026-08-03",
     "email2": false,
     "email3": false,
-    "targetProfile": "C/D"
+    "targetProfile": "C/D",
+    "date1": "2026-11-25"
   },
   {
     "name": "RUAZINHA",
@@ -5494,12 +5536,13 @@
     "phone": "11916425152",
     "template": "prova_social",
     "website": "",
-    "email1": false,
+    "email1": true,
     "whatsappSent": true,
     "whatsappDate": "2026-08-03",
     "email2": false,
     "email3": false,
-    "targetProfile": "C/D"
+    "targetProfile": "C/D",
+    "date1": "2026-11-25"
   },
   {
     "name": "Mezza",
@@ -5511,10 +5554,11 @@
     "phone": "11919071054 / (11) 97277-5238",
     "template": "prova_social",
     "website": "",
-    "email1": false,
+    "email1": true,
     "email2": false,
     "email3": false,
-    "targetProfile": "C/D"
+    "targetProfile": "C/D",
+    "date1": "2026-11-25"
   },
   {
     "name": "Bario Bar",
@@ -5544,10 +5588,11 @@
     "phone": "(11) 3673-2977 / 11 963978188 Renato",
     "template": "pergunta",
     "website": "",
-    "email1": false,
+    "email1": true,
     "email2": false,
     "email3": false,
-    "targetProfile": "C/D"
+    "targetProfile": "C/D",
+    "date1": "2026-11-25"
   },
   {
     "name": "Cruzeiro's Bar",
@@ -5609,12 +5654,13 @@
     "phone": "(11) 91467-6376/",
     "template": "consultivo",
     "website": "",
-    "email1": false,
+    "email1": true,
     "whatsappSent": true,
     "whatsappDate": "2026-08-03",
     "email2": false,
     "email3": false,
-    "targetProfile": "C/D"
+    "targetProfile": "C/D",
+    "date1": "2026-11-25"
   },
   {
     "name": "PANVINO",
@@ -5644,10 +5690,11 @@
     "phone": "11939017920/ (11) 97537-1974",
     "template": "pergunta",
     "website": "",
-    "email1": false,
+    "email1": true,
     "email2": false,
     "email3": false,
-    "targetProfile": "C/D"
+    "targetProfile": "C/D",
+    "date1": "2026-11-25"
   },
   {
     "name": "Amargot Bar",
@@ -5659,10 +5706,11 @@
     "phone": "11963000440 /  11 96031-9944 LUCAS",
     "template": "consultivo",
     "website": "",
-    "email1": false,
+    "email1": true,
     "email2": false,
     "email3": false,
-    "targetProfile": "C/D"
+    "targetProfile": "C/D",
+    "date1": "2026-11-25"
   },
   {
     "name": "ADA MAKAN",
@@ -5690,10 +5738,11 @@
     "phone": "1132844776 /  11 97625-5050 GABRIEL",
     "template": "consultivo",
     "website": "",
-    "email1": false,
+    "email1": true,
     "email2": false,
     "email3": false,
-    "targetProfile": "C/D"
+    "targetProfile": "C/D",
+    "date1": "2026-11-25"
   },
   {
     "name": "Gula Bar",
@@ -5705,10 +5754,11 @@
     "phone": "(11) 2272-1050 / 1195483-8258 SARA / 11 98960-5946 CICERO",
     "template": "consultivo",
     "website": "",
-    "email1": false,
+    "email1": true,
     "email2": false,
     "email3": false,
-    "targetProfile": "C/D"
+    "targetProfile": "C/D",
+    "date1": "2026-11-25"
   },
   {
     "name": "ESTAC├î┬ºA├î┬âO CHOPPERIA",
@@ -5720,10 +5770,11 @@
     "phone": "(11) 99544-9090 / (11) 95966-9787",
     "template": "consultivo",
     "website": "",
-    "email1": false,
+    "email1": true,
     "email2": false,
     "email3": false,
-    "targetProfile": "C/D"
+    "targetProfile": "C/D",
+    "date1": "2026-11-25"
   },
   {
     "name": "Paradiso Bar Tatuap├â┬®",
@@ -5735,10 +5786,11 @@
     "phone": "11 976676924",
     "template": "prova_social",
     "website": "",
-    "email1": false,
+    "email1": true,
     "email2": false,
     "email3": false,
-    "targetProfile": "C/D"
+    "targetProfile": "C/D",
+    "date1": "2026-11-25"
   },
   {
     "name": "Madalena Growler Station",
@@ -5750,12 +5802,13 @@
     "phone": "1196370-0490",
     "template": "pergunta",
     "website": "",
-    "email1": false,
+    "email1": true,
     "whatsappSent": true,
     "whatsappDate": "2026-08-03",
     "email2": false,
     "email3": false,
-    "targetProfile": "C/D"
+    "targetProfile": "C/D",
+    "date1": "2026-11-25"
   },
   {
     "name": "Mileto Bar",
@@ -5767,12 +5820,13 @@
     "phone": "(11) 4306-6070",
     "template": "consultivo",
     "website": "",
-    "email1": false,
+    "email1": true,
     "whatsappSent": true,
     "whatsappDate": "2026-08-03",
     "email2": false,
     "email3": false,
-    "targetProfile": "C/D"
+    "targetProfile": "C/D",
+    "date1": "2026-11-25"
   },
   {
     "name": "Alma S├â┬úo Paulo",
@@ -5784,12 +5838,13 @@
     "phone": "11976750513",
     "template": "consultivo",
     "website": "",
-    "email1": false,
+    "email1": true,
     "whatsappSent": true,
     "whatsappDate": "2026-08-03",
     "email2": false,
     "email3": false,
-    "targetProfile": "C/D"
+    "targetProfile": "C/D",
+    "date1": "2026-11-25"
   },
   {
     "name": "DR. ESPETO",
@@ -5801,10 +5856,11 @@
     "phone": "11977143402 / 11 99561-8960",
     "template": "pergunta",
     "website": "",
-    "email1": false,
+    "email1": true,
     "email2": false,
     "email3": false,
-    "targetProfile": "C/D"
+    "targetProfile": "C/D",
+    "date1": "2026-11-25"
   },
   {
     "name": "BAR DO PINU",
@@ -5816,10 +5872,11 @@
     "phone": "11 55422017",
     "template": "pergunta",
     "website": "",
-    "email1": false,
+    "email1": true,
     "email2": false,
     "email3": false,
-    "targetProfile": "C/D"
+    "targetProfile": "C/D",
+    "date1": "2026-11-25"
   },
   {
     "name": "BOTECO SEO JOAQUIM",
@@ -5849,10 +5906,11 @@
     "phone": "11├é┬á93291-9251 / 11 95916-5819 denis",
     "template": "prova_social",
     "website": "",
-    "email1": false,
+    "email1": true,
     "email2": false,
     "email3": false,
-    "targetProfile": "C/D"
+    "targetProfile": "C/D",
+    "date1": "2026-11-25"
   },
   {
     "name": "VINI BAR",
@@ -5864,12 +5922,13 @@
     "phone": "62982257920",
     "template": "consultivo",
     "website": "",
-    "email1": false,
+    "email1": true,
     "whatsappSent": true,
     "whatsappDate": "2026-08-03",
     "email2": false,
     "email3": false,
-    "targetProfile": "C/D"
+    "targetProfile": "C/D",
+    "date1": "2026-11-25"
   },
   {
     "name": "Bar do Berinjela",
@@ -5913,12 +5972,13 @@
     "phone": "11 31297695 WPP",
     "template": "prova_social",
     "website": "",
-    "email1": false,
+    "email1": true,
     "whatsappSent": true,
     "whatsappDate": "2026-08-03",
     "email2": false,
     "targetProfile": "C/D",
-    "email3": false
+    "email3": false,
+    "date1": "2026-11-25"
   },
   {
     "name": "Bia Hoi SP",
@@ -5946,10 +6006,11 @@
     "phone": "1122683676 / 1199801-9131 VALDEMAR",
     "template": "pergunta",
     "website": "",
-    "email1": false,
+    "email1": true,
     "email2": false,
     "targetProfile": "C/D",
-    "email3": false
+    "email3": false,
+    "date1": "2026-11-25"
   },
   {
     "name": "BOTECO DO RONY",
@@ -5961,10 +6022,11 @@
     "phone": "11 3562 0175 / (11) 96920-6856",
     "template": "consultivo",
     "website": "",
-    "email1": false,
+    "email1": true,
     "email2": false,
     "targetProfile": "C/D",
-    "email3": false
+    "email3": false,
+    "date1": "2026-11-25"
   },
   {
     "name": "BELL├ó┬Ç┬ÖS Drinkeria & Adega",
@@ -5976,12 +6038,13 @@
     "phone": "1193259-1314",
     "template": "pergunta",
     "website": "",
-    "email1": false,
+    "email1": true,
     "whatsappSent": true,
     "whatsappDate": "2026-08-03",
     "email2": false,
     "targetProfile": "C/D",
-    "email3": false
+    "email3": false,
+    "date1": "2026-11-25"
   },
   {
     "name": "Chacrinha",
@@ -6011,10 +6074,11 @@
     "phone": "11 976809683 / 113683-3904",
     "template": "prova_social",
     "website": "",
-    "email1": false,
+    "email1": true,
     "email2": false,
     "targetProfile": "C/D",
-    "email3": false
+    "email3": false,
+    "date1": "2026-11-25"
   },
   {
     "name": "ATTRIO PIZZA BAR",
@@ -6026,10 +6090,11 @@
     "phone": "11 2673 2477 /  11.2673-2487 / 1199570-5066",
     "template": "pergunta",
     "website": "",
-    "email1": false,
+    "email1": true,
     "email2": false,
     "targetProfile": "C/D",
-    "email3": false
+    "email3": false,
+    "date1": "2026-11-25"
   },
   {
     "name": "Boteco Das Artes",
@@ -6059,10 +6124,11 @@
     "phone": "11 91709-2693 / 1195050-0212 GABRIEL",
     "template": "prova_social",
     "website": "",
-    "email1": false,
+    "email1": true,
     "email2": false,
     "targetProfile": "C/D",
-    "email3": false
+    "email3": false,
+    "date1": "2026-11-25"
   },
   {
     "name": "BAR ZERO GRAU",
@@ -6074,10 +6140,11 @@
     "phone": "112659-0010  MOOCA / 11 4305-9790 TATUAPE",
     "template": "pergunta",
     "website": "",
-    "email1": false,
+    "email1": true,
     "email2": false,
     "targetProfile": "C/D",
-    "email3": false
+    "email3": false,
+    "date1": "2026-11-25"
   },
   {
     "name": "ACARAJE BOTEQUIM",
@@ -6089,12 +6156,13 @@
     "phone": "11 2659 7369 WPP",
     "template": "prova_social",
     "website": "",
-    "email1": false,
+    "email1": true,
     "whatsappSent": true,
     "whatsappDate": "2026-08-03",
     "email2": false,
     "targetProfile": "C/D",
-    "email3": false
+    "email3": false,
+    "date1": "2026-11-25"
   },
   {
     "name": "Oh Fregue├î┬és",
@@ -6124,12 +6192,13 @@
     "phone": "11939100078",
     "template": "prova_social",
     "website": "",
-    "email1": false,
+    "email1": true,
     "whatsappSent": true,
     "whatsappDate": "2026-08-03",
     "email2": false,
     "targetProfile": "C/D",
-    "email3": false
+    "email3": false,
+    "date1": "2026-11-25"
   },
   {
     "name": "PRAIA DA RAIAL",
@@ -6141,10 +6210,11 @@
     "phone": "11981401697 / 11 95161-1478 AMANDA",
     "template": "pergunta",
     "website": "",
-    "email1": false,
+    "email1": true,
     "email2": false,
     "targetProfile": "C/D",
-    "email3": false
+    "email3": false,
+    "date1": "2026-11-25"
   },
   {
     "name": "Bar 34",
@@ -6172,10 +6242,11 @@
     "phone": "1193347-0474",
     "template": "pergunta",
     "website": "",
-    "email1": false,
+    "email1": true,
     "email2": false,
     "targetProfile": "C/D",
-    "email3": false
+    "email3": false,
+    "date1": "2026-11-25"
   },
   {
     "name": "Barxare├î┬üu",
@@ -6187,10 +6258,11 @@
     "phone": "1155392444 N TEM WHATS",
     "template": "consultivo",
     "website": "",
-    "email1": false,
+    "email1": true,
     "email2": false,
     "targetProfile": "C/D",
-    "email3": false
+    "email3": false,
+    "date1": "2026-11-25"
   },
   {
     "name": "Bar da Adelaide",
@@ -6202,10 +6274,11 @@
     "phone": "1197659-0326 Natanael / 14999013970 jau",
     "template": "pergunta",
     "website": "",
-    "email1": false,
+    "email1": true,
     "email2": false,
     "targetProfile": "C/D",
-    "email3": false
+    "email3": false,
+    "date1": "2026-11-25"
   },
   {
     "name": "Brotas Beer",
@@ -6267,10 +6340,11 @@
     "phone": "1129508468 N TEM WHATS / 11 2283-1307 talita",
     "template": "consultivo",
     "website": "",
-    "email1": false,
+    "email1": true,
     "email2": false,
     "targetProfile": "C/D",
-    "email3": false
+    "email3": false,
+    "date1": "2026-11-25"
   },
   {
     "name": "LA PO├â┬èLE",
@@ -6282,12 +6356,13 @@
     "phone": "11954787501",
     "template": "pergunta",
     "website": "",
-    "email1": false,
+    "email1": true,
     "whatsappSent": true,
     "whatsappDate": "2026-08-03",
     "email2": false,
     "targetProfile": "C/D",
-    "email3": false
+    "email3": false,
+    "date1": "2026-11-25"
   },
   {
     "name": "Sororoca",
@@ -6347,10 +6422,11 @@
     "phone": "11976514377",
     "template": "pergunta",
     "website": "",
-    "email1": false,
+    "email1": true,
     "email2": false,
     "targetProfile": "C/D",
-    "email3": false
+    "email3": false,
+    "date1": "2026-11-25"
   },
   {
     "name": "DORA BAR & GRILL",
@@ -6362,10 +6438,11 @@
     "phone": "N TEM",
     "template": "consultivo",
     "website": "",
-    "email1": false,
+    "email1": true,
     "email2": false,
     "targetProfile": "C/D",
-    "email3": false
+    "email3": false,
+    "date1": "2026-11-25"
   },
   {
     "name": "CAJU BAR",
@@ -6393,10 +6470,11 @@
     "phone": "N TEM",
     "template": "consultivo",
     "website": "",
-    "email1": false,
+    "email1": true,
     "email2": false,
     "targetProfile": "C/D",
-    "email3": false
+    "email3": false,
+    "date1": "2026-11-25"
   },
   {
     "name": "Terra├â┬ºo Urbano",
@@ -6408,10 +6486,11 @@
     "phone": "1122881005",
     "template": "pergunta",
     "website": "",
-    "email1": false,
+    "email1": true,
     "email2": false,
     "targetProfile": "C/D",
-    "email3": false
+    "email3": false,
+    "date1": "2026-11-25"
   },
   {
     "name": "MANDA FORA DA CASINHA",
@@ -6423,10 +6502,11 @@
     "phone": "11973282947 / 11985417645  Mayara Dornas",
     "template": "pergunta",
     "website": "",
-    "email1": false,
+    "email1": true,
     "email2": false,
     "targetProfile": "C/D",
-    "email3": false
+    "email3": false,
+    "date1": "2026-11-25"
   },
   {
     "name": "Boteco da Pra├â┬ºa",
@@ -6438,10 +6518,11 @@
     "phone": "(11)94060-8065",
     "template": "consultivo",
     "website": "",
-    "email1": false,
+    "email1": true,
     "email2": false,
     "targetProfile": "C/D",
-    "email3": false
+    "email3": false,
+    "date1": "2026-11-25"
   },
   {
     "name": "Cerveja Madalena",
@@ -8155,7 +8236,10 @@
     "email1": false,
     "email2": false,
     "targetProfile": "C/D",
-    "email3": false
+    "email3": false,
+    "invalidEmail": true,
+    "invalidEmailReason": "domain_without_mx",
+    "invalidEmailDate": "2026-11-25"
   },
   {
     "name": "Confeitaria da Luana Davidsohn",
@@ -8725,7 +8809,10 @@
     "email1": false,
     "email2": false,
     "targetProfile": "C/D",
-    "email3": false
+    "email3": false,
+    "invalidEmail": true,
+    "invalidEmailReason": "domain_without_mx",
+    "invalidEmailDate": "2026-11-25"
   },
   {
     "name": "Bem Brasil Costelaria",
@@ -9505,7 +9592,10 @@
     "email1": false,
     "email2": false,
     "targetProfile": "C/D",
-    "email3": false
+    "email3": false,
+    "invalidEmail": true,
+    "invalidEmailReason": "domain_without_mx",
+    "invalidEmailDate": "2026-11-25"
   },
   {
     "name": "Strike Grill",
@@ -11257,7 +11347,10 @@
     "website": "",
     "email1": false,
     "email2": false,
-    "targetProfile": "C/D"
+    "targetProfile": "C/D",
+    "invalidEmail": true,
+    "invalidEmailReason": "domain_without_mx",
+    "invalidEmailDate": "2026-11-25"
   },
   {
     "name": "PASTEL DA MARIA",
@@ -11484,7 +11577,10 @@
     "website": "",
     "email1": false,
     "email2": false,
-    "targetProfile": "C/D"
+    "targetProfile": "C/D",
+    "invalidEmail": true,
+    "invalidEmailReason": "domain_without_mx",
+    "invalidEmailDate": "2026-11-25"
   },
   {
     "name": "GR├â┬âO FINO",
@@ -13573,7 +13669,10 @@
     "website": "",
     "email1": false,
     "email2": false,
-    "targetProfile": "C/D"
+    "targetProfile": "C/D",
+    "invalidEmail": true,
+    "invalidEmailReason": "domain_without_mx",
+    "invalidEmailDate": "2026-11-25"
   },
   {
     "name": "Metropolitan Gourmet",
@@ -14565,7 +14664,10 @@
     "website": "",
     "email1": false,
     "email2": false,
-    "targetProfile": "C/D"
+    "targetProfile": "C/D",
+    "invalidEmail": true,
+    "invalidEmailReason": "domain_without_mx",
+    "invalidEmailDate": "2026-11-25"
   },
   {
     "name": "CHOCOLATRIA",
@@ -15174,7 +15276,10 @@
     "template": "prova_social",
     "website": "",
     "email1": false,
-    "targetProfile": "C/D"
+    "targetProfile": "C/D",
+    "invalidEmail": true,
+    "invalidEmailReason": "domain_without_mx",
+    "invalidEmailDate": "2026-11-25"
   },
   {
     "name": "Blooming Burger",
@@ -19746,7 +19851,10 @@
     "template": "consultivo",
     "website": "",
     "email1": false,
-    "targetProfile": "C/D"
+    "targetProfile": "C/D",
+    "invalidEmail": true,
+    "invalidEmailReason": "domain_without_mx",
+    "invalidEmailDate": "2026-11-25"
   },
   {
     "name": "JAMIE`S ITALIAN",
@@ -20097,7 +20205,10 @@
     "template": "pergunta",
     "website": "",
     "email1": false,
-    "targetProfile": "C/D"
+    "targetProfile": "C/D",
+    "invalidEmail": true,
+    "invalidEmailReason": "domain_without_mx",
+    "invalidEmailDate": "2026-11-25"
   },
   {
     "name": "D.O.M.",
@@ -20908,7 +21019,10 @@
     "template": "prova_social",
     "website": "",
     "email1": false,
-    "targetProfile": "C/D"
+    "targetProfile": "C/D",
+    "invalidEmail": true,
+    "invalidEmailReason": "domain_without_mx",
+    "invalidEmailDate": "2026-11-25"
   },
   {
     "name": "Casa de Massas Nona Cesira",
@@ -21389,7 +21503,10 @@
     "template": "pergunta",
     "website": "",
     "email1": false,
-    "targetProfile": "C/D"
+    "targetProfile": "C/D",
+    "invalidEmail": true,
+    "invalidEmailReason": "domain_without_mx",
+    "invalidEmailDate": "2026-11-25"
   },
   {
     "name": "Cora P├â┬ótisserie",
@@ -21624,7 +21741,10 @@
     "template": "pergunta",
     "website": "",
     "email1": false,
-    "targetProfile": "C/D"
+    "targetProfile": "C/D",
+    "invalidEmail": true,
+    "invalidEmailReason": "domain_without_mx",
+    "invalidEmailDate": "2026-11-25"
   },
   {
     "name": "MEAT DOWNTOWN BURGERS",
@@ -23304,7 +23424,10 @@
     "template": "pergunta",
     "website": "",
     "email1": false,
-    "targetProfile": "C/D"
+    "targetProfile": "C/D",
+    "invalidEmail": true,
+    "invalidEmailReason": "domain_without_mx",
+    "invalidEmailDate": "2026-11-25"
   },
   {
     "name": "Eggy",
@@ -23460,7 +23583,10 @@
     "template": "consultivo",
     "website": "",
     "email1": false,
-    "targetProfile": "C/D"
+    "targetProfile": "C/D",
+    "invalidEmail": true,
+    "invalidEmailReason": "domain_without_mx",
+    "invalidEmailDate": "2026-11-25"
   },
   {
     "name": "Ice Creamy SBC",
@@ -23564,7 +23690,10 @@
     "template": "consultivo",
     "website": "",
     "email1": false,
-    "targetProfile": "C/D"
+    "targetProfile": "C/D",
+    "invalidEmail": true,
+    "invalidEmailReason": "domain_without_mx",
+    "invalidEmailDate": "2026-11-25"
   },
   {
     "name": "SAZ",
@@ -28646,7 +28775,10 @@
     "template": "prova_social",
     "website": "",
     "email1": false,
-    "targetProfile": "C/D"
+    "targetProfile": "C/D",
+    "invalidEmail": true,
+    "invalidEmailReason": "domain_without_mx",
+    "invalidEmailDate": "2026-11-25"
   },
   {
     "name": "Pelota's Sandwichs & Burgers",
@@ -29075,7 +29207,10 @@
     "template": "prova_social",
     "website": "",
     "email1": false,
-    "targetProfile": "C/D"
+    "targetProfile": "C/D",
+    "invalidEmail": true,
+    "invalidEmailReason": "domain_without_mx",
+    "invalidEmailDate": "2026-11-25"
   },
   {
     "name": "Avec Patisserie",
@@ -29283,7 +29418,10 @@
     "template": "consultivo",
     "website": "",
     "email1": false,
-    "targetProfile": "C/D"
+    "targetProfile": "C/D",
+    "invalidEmail": true,
+    "invalidEmailReason": "domain_without_mx",
+    "invalidEmailDate": "2026-11-25"
   },
   {
     "name": "PALICONE Steak House",
@@ -30456,7 +30594,10 @@
     "template": "consultivo",
     "website": "",
     "email1": false,
-    "targetProfile": "C/D"
+    "targetProfile": "C/D",
+    "invalidEmail": true,
+    "invalidEmailReason": "domain_without_mx",
+    "invalidEmailDate": "2026-11-25"
   },
   {
     "name": "Hamburgueria RR",
@@ -31349,7 +31490,10 @@
     "template": "consultivo",
     "website": "",
     "email1": false,
-    "targetProfile": "C/D"
+    "targetProfile": "C/D",
+    "invalidEmail": true,
+    "invalidEmailReason": "domain_without_mx",
+    "invalidEmailDate": "2026-11-25"
   },
   {
     "name": "Restaurante da Fazenda SBC",
@@ -31609,7 +31753,10 @@
     "template": "pergunta",
     "website": "",
     "email1": false,
-    "targetProfile": "C/D"
+    "targetProfile": "C/D",
+    "invalidEmail": true,
+    "invalidEmailReason": "domain_without_mx",
+    "invalidEmailDate": "2026-11-25"
   },
   {
     "name": "Varal Burger",
@@ -31674,7 +31821,10 @@
     "template": "pergunta",
     "website": "",
     "email1": false,
-    "targetProfile": "C/D"
+    "targetProfile": "C/D",
+    "invalidEmail": true,
+    "invalidEmailReason": "domain_without_mx",
+    "invalidEmailDate": "2026-11-25"
   },
   {
     "name": "Milena Sodero Caf├â┬® & Bistr├â┬┤",
@@ -32777,11 +32927,13 @@
     "phone": "11 43303100",
     "template": "prova_social",
     "website": "",
-    "invalidEmail": false,
+    "invalidEmail": true,
     "emailVerified": true,
     "emailSource": "https://www.example.com",
     "emailVerifiedAt": "2026-10-13",
-    "targetProfile": "C/D"
+    "targetProfile": "C/D",
+    "invalidEmailReason": "domain_without_mx",
+    "invalidEmailDate": "2026-11-25"
   },
   {
     "name": "A TORTERIA",
@@ -66031,7 +66183,7 @@
     "targetProfile": "C/D"
   },
   {
-    "email1": false,
+    "email1": true,
     "email2": false,
     "email3": false,
     "emailVerified": true,
@@ -66048,7 +66200,8 @@
     "template": "consultivo",
     "website": "https://iaiacaveamanger.com.br/",
     "emailSource": "https://iaiacaveamanger.com.br/",
-    "targetProfile": "A/B"
+    "targetProfile": "A/B",
+    "date1": "2026-11-25"
   },
   {
     "email1": false,
@@ -66071,7 +66224,7 @@
     "targetProfile": "B"
   },
   {
-    "email1": false,
+    "email1": true,
     "email2": false,
     "email3": false,
     "emailVerified": true,
@@ -66088,7 +66241,8 @@
     "template": "consultivo",
     "website": "https://emporiotartufo.com.br/alphavillesp/",
     "emailSource": "https://emporiotartufo.com.br/alphavillesp/fale-conosco",
-    "targetProfile": "C/D"
+    "targetProfile": "C/D",
+    "date1": "2026-11-25"
   },
   {
     "email1": false,
@@ -66111,7 +66265,7 @@
     "targetProfile": "B"
   },
   {
-    "email1": false,
+    "email1": true,
     "email2": false,
     "email3": false,
     "emailVerified": true,
@@ -66128,6 +66282,7 @@
     "template": "consultivo",
     "website": "https://emporiotartufo.com.br/moema/",
     "emailSource": "https://emporiotartufo.com.br/moema/produto/m/vinho-monte-velho-tinto-750ml-esporao-180",
-    "targetProfile": "C/D"
+    "targetProfile": "C/D",
+    "date1": "2026-11-25"
   }
 ]
