@@ -6550,10 +6550,11 @@
     "phone": "11987190132",
     "template": "pergunta",
     "website": "",
-    "email1": false,
+    "email1": true,
     "email2": false,
     "targetProfile": "C/D",
-    "email3": false
+    "email3": false,
+    "date1": "2026-11-25"
   },
   {
     "name": "Salt ZN",
@@ -6565,10 +6566,11 @@
     "phone": "1129508247 PEDRO",
     "template": "consultivo",
     "website": "",
-    "email1": false,
+    "email1": true,
     "email2": false,
     "targetProfile": "C/D",
-    "email3": false
+    "email3": false,
+    "date1": "2026-11-25"
   },
   {
     "name": "Casa de Francisca",
@@ -6601,10 +6603,11 @@
     "phone": "1125345578 / 11 4436-9005 / 11 97055-5985 / 11 951769249 EDUARDA MKT",
     "template": "prova_social",
     "website": "",
-    "email1": false,
+    "email1": true,
     "email2": false,
     "targetProfile": "C/D",
-    "email3": false
+    "email3": false,
+    "date1": "2026-11-25"
   },
   {
     "name": "Villas Joaquina",
@@ -6616,10 +6619,11 @@
     "phone": "11945853043",
     "template": "consultivo",
     "website": "",
-    "email1": false,
+    "email1": true,
     "email2": false,
     "targetProfile": "C/D",
-    "email3": false
+    "email3": false,
+    "date1": "2026-11-25"
   },
   {
     "name": "Embaixada Mineira Bela Vista",
@@ -6631,10 +6635,11 @@
     "phone": "n achei",
     "template": "prova_social",
     "website": "",
-    "email1": false,
+    "email1": true,
     "email2": false,
     "targetProfile": "C/D",
-    "email3": false
+    "email3": false,
+    "date1": "2026-11-25"
   },
   {
     "name": "Bragan├â┬ºa Beer Gastrobar",
@@ -6646,10 +6651,11 @@
     "phone": "11914825937",
     "template": "pergunta",
     "website": "",
-    "email1": false,
+    "email1": true,
     "email2": false,
     "targetProfile": "C/D",
-    "email3": false
+    "email3": false,
+    "date1": "2026-11-25"
   },
   {
     "name": "Japi GastroBar",
@@ -6676,10 +6682,11 @@
     "phone": "1194527-4087",
     "template": "pergunta",
     "website": "",
-    "email1": false,
+    "email1": true,
     "email2": false,
     "targetProfile": "C/D",
-    "email3": false
+    "email3": false,
+    "date1": "2026-11-25"
   },
   {
     "name": "Astros Steakhouse",
@@ -6691,10 +6698,11 @@
     "phone": "1194567-1979 / 112094-5168 / Antonio 11 993693049",
     "template": "consultivo",
     "website": "",
-    "email1": false,
+    "email1": true,
     "email2": false,
     "targetProfile": "C/D",
-    "email3": false
+    "email3": false,
+    "date1": "2026-11-25"
   },
   {
     "name": "S├â┬âO LUIS 84",
@@ -6722,10 +6730,11 @@
     "phone": "1126411200",
     "template": "consultivo",
     "website": "",
-    "email1": false,
+    "email1": true,
     "email2": false,
     "targetProfile": "C/D",
-    "email3": false
+    "email3": false,
+    "date1": "2026-11-25"
   },
   {
     "name": "LADEIRA BAR",
@@ -6737,10 +6746,11 @@
     "phone": "1136758767/ 1198527-6465 ANDERSON",
     "template": "prova_social",
     "website": "",
-    "email1": false,
+    "email1": true,
     "email2": false,
     "targetProfile": "C/D",
-    "email3": false
+    "email3": false,
+    "date1": "2026-11-25"
   },
   {
     "name": "C A N A cacha├â┬ºaria",
@@ -6752,10 +6762,11 @@
     "phone": "11942713407 / 11981631646",
     "template": "prova_social",
     "website": "",
-    "email1": false,
+    "email1": true,
     "email2": false,
     "targetProfile": "C/D",
-    "email3": false
+    "email3": false,
+    "date1": "2026-11-25"
   },
   {
     "name": "Bar dos Cravos",
@@ -6786,10 +6797,11 @@
     "phone": "112369-8101",
     "template": "prova_social",
     "website": "",
-    "email1": false,
+    "email1": true,
     "email2": false,
     "targetProfile": "C/D",
-    "email3": false
+    "email3": false,
+    "date1": "2026-11-25"
   },
   {
     "name": "Terapeuta Bar",
@@ -6801,10 +6813,11 @@
     "phone": "(11) 95447-2102 / 15 99102-4538 Leandro",
     "template": "consultivo",
     "website": "",
-    "email1": false,
+    "email1": true,
     "email2": false,
     "targetProfile": "C/D",
-    "email3": false
+    "email3": false,
+    "date1": "2026-11-25"
   },
   {
     "name": "Imperatriz Villa Bar",
@@ -6848,10 +6861,11 @@
     "phone": "11 3285-4699 / 11 3283-3774 / 11 32663692 eventos / 11 954580553 Restaurante/   34 9208-8336 TAIS PEREIRA",
     "template": "prova_social",
     "website": "",
-    "email1": false,
+    "email1": true,
     "email2": false,
     "targetProfile": "C/D",
-    "email3": false
+    "email3": false,
+    "date1": "2026-11-25"
   },
   {
     "name": "Bar do Bolinho",
@@ -6863,10 +6877,11 @@
     "phone": "11996218138. Ricardo",
     "template": "consultivo",
     "website": "",
-    "email1": false,
+    "email1": true,
     "email2": false,
     "targetProfile": "C/D",
-    "email3": false
+    "email3": false,
+    "date1": "2026-11-25"
   },
   {
     "name": "Imp├â┬®rio Lucena Grill ll",
@@ -6878,10 +6893,11 @@
     "phone": "1145624005 / 11 965213295 Aline",
     "template": "consultivo",
     "website": "",
-    "email1": false,
+    "email1": true,
     "email2": false,
     "targetProfile": "C/D",
-    "email3": false
+    "email3": false,
+    "date1": "2026-11-25"
   },
   {
     "name": "PRA TI FARIA",
@@ -6893,10 +6909,11 @@
     "phone": "11978831439",
     "template": "prova_social",
     "website": "",
-    "email1": false,
+    "email1": true,
     "email2": false,
     "targetProfile": "C/D",
-    "email3": false
+    "email3": false,
+    "date1": "2026-11-25"
   },
   {
     "name": "O Alquimista Bar",
@@ -6908,10 +6925,11 @@
     "phone": "11911571008 / 11 99575-9998 KIKI",
     "template": "prova_social",
     "website": "",
-    "email1": false,
+    "email1": true,
     "email2": false,
     "targetProfile": "C/D",
-    "email3": false
+    "email3": false,
+    "date1": "2026-11-25"
   },
   {
     "name": "Bar Charles Edward",
@@ -6939,10 +6957,11 @@
     "phone": "14996388390/ 1499162-7921 ALEX",
     "template": "pergunta",
     "website": "",
-    "email1": false,
+    "email1": true,
     "email2": false,
     "targetProfile": "C/D",
-    "email3": false
+    "email3": false,
+    "date1": "2026-11-25"
   },
   {
     "name": "Bar Posto 6",
