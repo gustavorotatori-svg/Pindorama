@@ -1,24 +1,20 @@
 {
-  "lastUpdate": "2026-11-25T21:11:00.068Z",
+  "lastUpdate": "2026-11-26T03:58:31.569Z",
   "sinceDate": "2026-08-02",
   "totalLeads": 4066,
   "emails": {
-    "email1": 1255,
+    "email1": 1355,
     "email2": 66,
     "email3": 0,
-    "total": 1321
+    "total": 1421
   },
   "whatsapp": {
     "today": 0,
     "total": 262
   },
   "responses": 8,
-  "pending": 577,
+  "pending": 573,
   "daily": [
-    {
-      "date": "2026-10-27",
-      "count": 0
-    },
     {
       "date": "2026-10-28",
       "count": 0
@@ -133,6 +129,10 @@
     },
     {
       "date": "2026-11-25",
+      "count": 100
+    },
+    {
+      "date": "2026-11-26",
       "count": 0
     }
   ],
@@ -160,10 +160,10 @@
     },
     {
       "month": "2026-11",
-      "email1": 1150,
+      "email1": 1250,
       "email2": 65,
       "email3": 0,
-      "total": 1215
+      "total": 1315
     }
   ],
   "topNeighborhoods": [
@@ -218,136 +218,134 @@
   ],
   "recentLeads": [
     {
-      "name": "Milk Mellow Cidade Jardim",
-      "type": "balada",
-      "neighborhood": "Cidade Jardim",
-      "responded": false,
-      "email1": true,
-      "date1": "2026-11-24"
-    },
-    {
-      "name": "Vir├┤ Bar",
-      "type": "bar",
-      "neighborhood": "Parada Inglesa",
-      "responded": false,
-      "email1": true,
-      "date1": "2026-11-24"
-    },
-    {
-      "name": "DO NADA!",
+      "name": "Dona Felicidade",
       "type": "bar",
       "responded": false,
       "email1": true,
-      "date1": "2026-11-24"
+      "date1": "2026-11-25"
     },
     {
-      "name": "B, de Bar",
+      "name": "ASSEMBL├â┬ëIA BAR",
       "type": "bar",
       "responded": false,
       "email1": true,
-      "date1": "2026-11-24"
+      "date1": "2026-11-25"
     },
     {
-      "name": "BLEND BAR",
+      "name": "PIER 1327",
       "type": "bar",
       "responded": false,
       "email1": true,
-      "date1": "2026-11-24"
+      "date1": "2026-11-25"
     },
     {
-      "name": "Botiquinho Cozinha e Bar",
+      "name": "BOTECO CENTRAL",
       "type": "bar",
       "responded": false,
       "email1": true,
-      "date1": "2026-11-24"
+      "date1": "2026-11-25"
     },
     {
-      "name": "BALC├â┬âO 304",
+      "name": "THE BOWL",
       "type": "bar",
       "responded": false,
       "email1": true,
-      "date1": "2026-11-24"
+      "date1": "2026-11-25"
     },
     {
-      "name": "Rinc├â┬úo Bar",
+      "name": "Augusta 472 Rock Bar",
       "type": "bar",
       "responded": false,
       "email1": true,
-      "date1": "2026-11-24"
+      "date1": "2026-11-25"
     },
     {
-      "name": "JAGUAR BAR",
+      "name": "Esquina Do Souza",
       "type": "bar",
       "responded": false,
       "email1": true,
-      "date1": "2026-11-24"
+      "date1": "2026-11-25"
     },
     {
-      "name": "Do Sert├â┬úo Bar e Restaurante",
+      "name": "BOTECO MANO DO C├â┬ëU",
       "type": "bar",
       "responded": false,
       "email1": true,
-      "date1": "2026-11-24"
+      "date1": "2026-11-25"
     },
     {
-      "name": "DALI DAQUI",
+      "name": "Me V├â┬í",
       "type": "bar",
       "responded": false,
       "email1": true,
-      "date1": "2026-11-24"
+      "date1": "2026-11-25"
     },
     {
-      "name": "VALADARES",
+      "name": "S├â┬úo Crist├â┬│v├â┬úo Bar",
       "type": "bar",
       "responded": false,
       "email1": true,
-      "date1": "2026-11-24"
+      "date1": "2026-11-25"
+    },
+    {
+      "name": "KRAUT BAR",
+      "type": "bar",
+      "responded": false,
+      "email1": true,
+      "date1": "2026-11-25"
+    },
+    {
+      "name": "Vamo Toma Uma Tap House",
+      "type": "bar",
+      "responded": false,
+      "email1": true,
+      "date1": "2026-11-25"
     }
   ],
   "funnel": {
     "leads": 4066,
-    "email1": 1255,
+    "email1": 1355,
     "email2": 66,
     "email3": 0,
     "responded": 8
   },
   "week": {
-    "leads": 269,
+    "leads": 339,
     "emails": {
-      "email1": 269,
-      "email2": 65,
+      "email1": 339,
+      "email2": 50,
       "email3": 0,
-      "total": 334,
+      "total": 389,
       "responses": 0
     }
   },
   "month": {
-    "leads": 1150,
+    "leads": 1250,
     "emails": {
-      "email1": 1150,
+      "email1": 1250,
       "email2": 65,
       "email3": 0,
-      "total": 1215,
+      "total": 1315,
       "responses": 2
     }
   },
   "year": {
-    "leads": 1256,
+    "leads": 1356,
     "emails": {
-      "email1": 1255,
+      "email1": 1355,
       "email2": 66,
       "email3": 0,
-      "total": 1321,
+      "total": 1421,
       "responses": 8
     }
   },
   "sinceBeginning": {
     "leads": 4066,
     "emails": {
-      "email1": 1255,
+      "email1": 1355,
       "email2": 66,
       "email3": 0,
-      "total": 1321
+      "total": 1421
     },
     "responses": 8,
     "whatsapp": 262,
@@ -363,7 +361,7 @@
     {
       "name": "bar",
       "total": 624,
-      "email1": 437,
+      "email1": 535,
       "responded": 0
     },
     {
@@ -519,7 +517,7 @@
     {
       "name": "emporio_naturais",
       "total": 7,
-      "email1": 5,
+      "email1": 7,
       "responded": 0
     },
     {
