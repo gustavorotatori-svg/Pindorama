@@ -251,10 +251,11 @@
     "website": "https://baralto.com.br",
     "context": "bar e restaurante no Alto de Pinheiros",
     "template": "consultivo",
-    "email1": false,
+    "email1": true,
     "email2": false,
     "email3": false,
-    "targetProfile": "C/D"
+    "targetProfile": "C/D",
+    "date1": "2026-11-26"
   },
   {
     "name": "Adega Brooklin",
@@ -450,10 +451,11 @@
     "website": "",
     "context": "balada anos 80 na Vila Ol├¡mpia",
     "template": "pergunta",
-    "email1": false,
+    "email1": true,
     "email2": false,
     "email3": false,
-    "targetProfile": "C/D"
+    "targetProfile": "C/D",
+    "date1": "2026-11-26"
   },
   {
     "name": "Adega Santiago Shops Jardins",
@@ -1098,10 +1100,11 @@
     "website": "",
     "context": "s├úo refer├¬ncia em cacha├ºa artesanal na Zona Norte, com mais de 270 r├│tulos",
     "template": "consultivo",
-    "email1": false,
+    "email1": true,
     "email2": false,
     "email3": false,
-    "targetProfile": "C/D"
+    "targetProfile": "C/D",
+    "date1": "2026-11-26"
   },
   {
     "name": "Adega Zaidan",
@@ -1193,10 +1196,11 @@
     "context": "bar de bairro em Santana, com petiscos, m├║sica e drinks",
     "template": "pergunta",
     "website": "",
-    "email1": false,
+    "email1": true,
     "email2": false,
     "email3": false,
-    "targetProfile": "C/D"
+    "targetProfile": "C/D",
+    "date1": "2026-11-26"
   },
   {
     "name": "Santa Parada",
@@ -1207,10 +1211,11 @@
     "context": "bar em Santana com card├ípio de petiscos e drinks, ponto de encontro do bairro",
     "template": "prova_social",
     "website": "",
-    "email1": false,
+    "email1": true,
     "email2": false,
     "email3": false,
-    "targetProfile": "C/D"
+    "targetProfile": "C/D",
+    "date1": "2026-11-26"
   },
   {
     "name": "Bar Penha Lapa",
@@ -1221,10 +1226,11 @@
     "context": "bar em Planalto Paulista que une tradi├º├úo de boteco de Penha e Lapa, com petiscos e drinks",
     "template": "consultivo",
     "website": "",
-    "email1": false,
+    "email1": true,
     "email2": false,
     "email3": false,
-    "targetProfile": "C/D"
+    "targetProfile": "C/D",
+    "date1": "2026-11-26"
   },
   {
     "name": "Bar Coronel Bar├úo",
@@ -1265,10 +1271,11 @@
     "context": "bar no Tatuap├®, com petiscos, chope e drinks, ponto de encontro do bairro",
     "template": "consultivo",
     "website": "",
-    "email1": false,
+    "email1": true,
     "email2": false,
     "email3": false,
-    "targetProfile": "C/D"
+    "targetProfile": "C/D",
+    "date1": "2026-11-26"
   },
   {
     "name": "Gorilas Bar",
@@ -1279,10 +1286,11 @@
     "context": "bar no Tatuap├® com petiscos, cervejas e clima de boteco",
     "template": "consultivo",
     "website": "",
-    "email1": false,
+    "email1": true,
     "email2": false,
     "email3": false,
-    "targetProfile": "C/D"
+    "targetProfile": "C/D",
+    "date1": "2026-11-26"
   },
   {
     "name": "Boteco do Parque",
@@ -1293,10 +1301,11 @@
     "context": "boteco ao lado do Parque da Aclima├º├úo, com petiscos, chope e caipirinhas",
     "template": "prova_social",
     "website": "",
-    "email1": false,
+    "email1": true,
     "email2": false,
     "email3": false,
-    "targetProfile": "C/D"
+    "targetProfile": "C/D",
+    "date1": "2026-11-26"
   },
   {
     "name": "Espa├ºo Ferrovia",
@@ -1307,10 +1316,11 @@
     "context": "espa├ºo de eventos e bar na Mooca, com drinks e buffet para eventos",
     "template": "consultivo",
     "website": "",
-    "email1": false,
+    "email1": true,
     "email2": false,
     "email3": false,
-    "targetProfile": "C/D"
+    "targetProfile": "C/D",
+    "date1": "2026-11-26"
   },
   {
     "name": "Point 46",
@@ -1321,10 +1331,11 @@
     "context": "bar de bairro na Mooca, com petiscos, cerveja gelada e drinks",
     "template": "pergunta",
     "website": "",
-    "email1": false,
+    "email1": true,
     "email2": false,
     "email3": false,
-    "targetProfile": "C/D"
+    "targetProfile": "C/D",
+    "date1": "2026-11-26"
   },
   {
     "name": "Hangar Mooca Karaok├¬",
@@ -1335,10 +1346,11 @@
     "context": "bar de karaok├¬ na Mooca, com bebidas e drinks para festas",
     "template": "prova_social",
     "website": "",
-    "email1": false,
+    "email1": true,
     "email2": false,
     "email3": false,
-    "targetProfile": "C/D"
+    "targetProfile": "C/D",
+    "date1": "2026-11-26"
   },
   {
     "name": "Utopia Gastrobar",
@@ -1349,10 +1361,11 @@
     "context": "gastrobar acolhedor na Vila Romana, com drinques cl├íssicos, boa gastronomia e pet friendly",
     "template": "consultivo",
     "website": "",
-    "email1": false,
+    "email1": true,
     "email2": false,
     "email3": false,
-    "targetProfile": "C/D"
+    "targetProfile": "C/D",
+    "date1": "2026-11-26"
   },
   {
     "name": "Olga 17",
@@ -1363,10 +1376,11 @@
     "context": "centro cultural e bar na Barra Funda, com shows, exposi├º├Áes e hamburgueria, servindo drinks",
     "template": "pergunta",
     "website": "",
-    "email1": false,
+    "email1": true,
     "email2": false,
     "email3": false,
-    "targetProfile": "C/D"
+    "targetProfile": "C/D",
+    "date1": "2026-11-26"
   },
   {
     "name": "Bar Bot├ónico Pinheiros",
@@ -1392,10 +1406,11 @@
     "context": "bar no Tatuap├® com petiscos, chope e clima descontra├¡do",
     "template": "prova_social",
     "website": "",
-    "email1": false,
+    "email1": true,
     "email2": false,
     "email3": false,
-    "targetProfile": "C/D"
+    "targetProfile": "C/D",
+    "date1": "2026-11-26"
   },
   {
     "name": "Meninas Bar",
@@ -1406,10 +1421,11 @@
     "context": "bar na Bela Vista, com petiscos, drinks e ambiente descontra├¡do",
     "template": "pergunta",
     "website": "",
-    "email1": false,
+    "email1": true,
     "email2": false,
     "email3": false,
-    "targetProfile": "C/D"
+    "targetProfile": "C/D",
+    "date1": "2026-11-26"
   },
   {
     "name": "Balzac Bar",
@@ -1420,10 +1436,11 @@
     "context": "bar de samba na Vila Clementino, com petiscos, caipirinhas e m├║sica ao vivo",
     "template": "prova_social",
     "website": "",
-    "email1": false,
+    "email1": true,
     "email2": false,
     "email3": false,
-    "targetProfile": "C/D"
+    "targetProfile": "C/D",
+    "date1": "2026-11-26"
   },
   {
     "name": "Bar do Dod├┤",
@@ -1434,10 +1451,11 @@
     "context": "casa de esquina no Ipiranga com espetinhos e happy hour regado a cerveja gelada",
     "template": "pergunta",
     "website": "",
-    "email1": false,
+    "email1": true,
     "email2": false,
     "email3": false,
-    "targetProfile": "C/D"
+    "targetProfile": "C/D",
+    "date1": "2026-11-26"
   },
   {
     "name": "Meu Bhar",
@@ -1448,10 +1466,11 @@
     "context": "bar no Ipiranga com vasta viv├¬ncia em drinks e petiscos",
     "template": "consultivo",
     "website": "",
-    "email1": false,
+    "email1": true,
     "email2": false,
     "email3": false,
-    "targetProfile": "C/D"
+    "targetProfile": "C/D",
+    "date1": "2026-11-26"
   },
   {
     "name": "Boteco 647",
@@ -1462,10 +1481,11 @@
     "context": "boteco na Vila Carr├úo com pre├ºos justos, coquet├®is, destilados e petiscos de boteco",
     "template": "consultivo",
     "website": "",
-    "email1": false,
+    "email1": true,
     "email2": false,
     "email3": false,
-    "targetProfile": "C/D"
+    "targetProfile": "C/D",
+    "date1": "2026-11-26"
   },
   {
     "name": "Espetaria Cantinho Bar",
@@ -1476,10 +1496,11 @@
     "context": "bar na Vila Carr├úo com espetinhos, chope e ambiente familiar",
     "template": "pergunta",
     "website": "",
-    "email1": false,
+    "email1": true,
     "email2": false,
     "email3": false,
-    "targetProfile": "C/D"
+    "targetProfile": "C/D",
+    "date1": "2026-11-26"
   },
   {
     "name": "Bar do Carl├úo Moema",
@@ -1505,10 +1526,11 @@
     "context": "cervejaria em Indian├│polis, com chopp artesanal e petiscos",
     "template": "prova_social",
     "website": "",
-    "email1": false,
+    "email1": true,
     "email2": false,
     "email3": false,
-    "targetProfile": "C/D"
+    "targetProfile": "C/D",
+    "date1": "2026-11-26"
   },
   {
     "name": "Deck Bar Itaim",
@@ -1519,10 +1541,11 @@
     "context": "bar na Vila Ol├¡mpia com drinks e ambiente premium para happy hour",
     "template": "consultivo",
     "website": "",
-    "email1": false,
+    "email1": true,
     "email2": false,
     "email3": false,
-    "targetProfile": "C/D"
+    "targetProfile": "C/D",
+    "date1": "2026-11-26"
   },
   {
     "name": "Vir├┤ Bar",
@@ -1548,10 +1571,11 @@
     "context": "emp├│rio na regi├úo da Serra da Cantareira, com bebidas, petiscos e produtos regionais",
     "template": "pergunta",
     "website": "",
-    "email1": false,
+    "email1": true,
     "email2": false,
     "email3": false,
-    "targetProfile": "C/D"
+    "targetProfile": "C/D",
+    "date1": "2026-11-26"
   },
   {
     "name": "O Barric├úo",
@@ -1577,10 +1601,11 @@
     "context": "bar na Vila Matilde, com petiscos, chope e clima de boteco de bairro",
     "template": "prova_social",
     "website": "",
-    "email1": false,
+    "email1": true,
     "email2": false,
     "email3": false,
-    "targetProfile": "C/D"
+    "targetProfile": "C/D",
+    "date1": "2026-11-26"
   },
   {
     "name": "Prabar Bebidas",
@@ -6667,10 +6692,11 @@
     "phone": "",
     "template": "consultivo",
     "website": "",
-    "email1": false,
+    "email1": true,
     "email2": false,
     "targetProfile": "C/D",
-    "email3": false
+    "email3": false,
+    "date1": "2026-11-26"
   },
   {
     "name": "Buteco Presidente",
@@ -7005,10 +7031,11 @@
     "phone": "1132887823",
     "template": "pergunta",
     "website": "",
-    "email1": false,
+    "email1": true,
     "email2": false,
     "targetProfile": "C/D",
-    "email3": false
+    "email3": false,
+    "date1": "2026-11-26"
   },
   {
     "name": "PROZARIA",
@@ -7020,10 +7047,11 @@
     "phone": "1735135947 / 17 99658-9346 GABRIELA",
     "template": "consultivo",
     "website": "",
-    "email1": false,
+    "email1": true,
     "email2": false,
     "targetProfile": "C/D",
-    "email3": false
+    "email3": false,
+    "date1": "2026-11-26"
   },
   {
     "name": "Murruga Pizza Bar",
@@ -7051,10 +7079,11 @@
     "phone": "112548-6843 /  11983777534 Thamires",
     "template": "prova_social",
     "website": "",
-    "email1": false,
+    "email1": true,
     "email2": false,
     "targetProfile": "C/D",
-    "email3": false
+    "email3": false,
+    "date1": "2026-11-26"
   },
   {
     "name": "Profissional Boteco",
@@ -7066,10 +7095,11 @@
     "phone": "1194704-1257 / 11 2092├ó┬Ç┬æ4764├ó┬Ç┬¼",
     "template": "prova_social",
     "website": "",
-    "email1": false,
+    "email1": true,
     "email2": false,
     "targetProfile": "C/D",
-    "email3": false
+    "email3": false,
+    "date1": "2026-11-26"
   },
   {
     "name": "P├â┬ë DE MANGA",
@@ -7097,10 +7127,11 @@
     "phone": "11 4509-4279 / 1194906-0868 / 1193233-4359 BRUNO",
     "template": "prova_social",
     "website": "",
-    "email1": false,
+    "email1": true,
     "email2": false,
     "targetProfile": "C/D",
-    "email3": false
+    "email3": false,
+    "date1": "2026-11-26"
   },
   {
     "name": "XEPA!",
@@ -7128,10 +7159,11 @@
     "phone": "",
     "template": "pergunta",
     "website": "",
-    "email1": false,
+    "email1": true,
     "email2": false,
     "targetProfile": "C/D",
-    "email3": false
+    "email3": false,
+    "date1": "2026-11-26"
   },
   {
     "name": "SAMPA GRILL",
@@ -7143,10 +7175,11 @@
     "phone": "113596-6381",
     "template": "consultivo",
     "website": "",
-    "email1": false,
+    "email1": true,
     "email2": false,
     "targetProfile": "C/D",
-    "email3": false
+    "email3": false,
+    "date1": "2026-11-26"
   },
   {
     "name": "BOTECO DE MANU",
@@ -7206,10 +7239,11 @@
     "phone": "11968551782 / 11 98215-8117 FAUSTO",
     "template": "prova_social",
     "website": "",
-    "email1": false,
+    "email1": true,
     "email2": false,
     "targetProfile": "C/D",
-    "email3": false
+    "email3": false,
+    "date1": "2026-11-26"
   },
   {
     "name": "GOOD GAME E-SPORTS BAR",
@@ -7221,10 +7255,11 @@
     "phone": "1199933-2828 TEL DE RESERVAS",
     "template": "consultivo",
     "website": "",
-    "email1": false,
+    "email1": true,
     "email2": false,
     "targetProfile": "C/D",
-    "email3": false
+    "email3": false,
+    "date1": "2026-11-26"
   },
   {
     "name": "DUNAS BAR",
@@ -7252,10 +7287,11 @@
     "phone": "11 966443323 / 11 93002496 Matheus",
     "template": "consultivo",
     "website": "",
-    "email1": false,
+    "email1": true,
     "email2": false,
     "targetProfile": "C/D",
-    "email3": false
+    "email3": false,
+    "date1": "2026-11-26"
   },
   {
     "name": "Terrac├î┬ºo Gastrobar",
@@ -7267,10 +7303,11 @@
     "phone": "11 26300742",
     "template": "prova_social",
     "website": "",
-    "email1": false,
+    "email1": true,
     "email2": false,
     "targetProfile": "C/D",
-    "email3": false
+    "email3": false,
+    "date1": "2026-11-26"
   },
   {
     "name": "Sport Music Bar Burguer ABC",
@@ -7282,10 +7319,11 @@
     "phone": "11 912221020",
     "template": "prova_social",
     "website": "",
-    "email1": false,
+    "email1": true,
     "email2": false,
     "targetProfile": "C/D",
-    "email3": false
+    "email3": false,
+    "date1": "2026-11-26"
   },
   {
     "name": "Boteco do Porco",
@@ -7297,10 +7335,11 @@
     "phone": "(11) 2325-0164 / (11) 93297-6624  /  11 946490143 MARCIA",
     "template": "prova_social",
     "website": "",
-    "email1": false,
+    "email1": true,
     "email2": false,
     "targetProfile": "C/D",
-    "email3": false
+    "email3": false,
+    "date1": "2026-11-26"
   },
   {
     "name": "EUROPA BAR OFICIAL",
@@ -7312,10 +7351,11 @@
     "phone": "11 98446-0770",
     "template": "prova_social",
     "website": "",
-    "email1": false,
+    "email1": true,
     "email2": false,
     "targetProfile": "C/D",
-    "email3": false
+    "email3": false,
+    "date1": "2026-11-26"
   },
   {
     "name": "Boteco Maria",
@@ -7359,10 +7399,11 @@
     "phone": "11 44365507",
     "template": "pergunta",
     "website": "",
-    "email1": false,
+    "email1": true,
     "email2": false,
     "targetProfile": "C/D",
-    "email3": false
+    "email3": false,
+    "date1": "2026-11-26"
   },
   {
     "name": "Xerife Espetinhos SCS",
@@ -7374,10 +7415,11 @@
     "phone": "11 4318-9444 / 11 2374004",
     "template": "prova_social",
     "website": "",
-    "email1": false,
+    "email1": true,
     "email2": false,
     "targetProfile": "C/D",
-    "email3": false
+    "email3": false,
+    "date1": "2026-11-26"
   },
   {
     "name": "SPETUS BAR",
@@ -7389,10 +7431,11 @@
     "phone": "11 983815068",
     "template": "pergunta",
     "website": "",
-    "email1": false,
+    "email1": true,
     "email2": false,
     "targetProfile": "C/D",
-    "email3": false
+    "email3": false,
+    "date1": "2026-11-26"
   },
   {
     "name": "Container 101",
@@ -7404,10 +7447,11 @@
     "phone": "11 34584864 / 11 974981193 RODRIGO",
     "template": "pergunta",
     "website": "",
-    "email1": false,
+    "email1": true,
     "email2": false,
     "targetProfile": "C/D",
-    "email3": false
+    "email3": false,
+    "date1": "2026-11-26"
   },
   {
     "name": "Boteco Rabo de Saia - SBC",
@@ -7419,10 +7463,11 @@
     "phone": "11 43654166 / 11 947242123 ANDERSON",
     "template": "consultivo",
     "website": "",
-    "email1": false,
+    "email1": true,
     "email2": false,
     "targetProfile": "C/D",
-    "email3": false
+    "email3": false,
+    "date1": "2026-11-26"
   },
   {
     "name": "Manduca Bar",
@@ -7468,10 +7513,11 @@
     "phone": "11 997832221 / 11 98945-7677 Julia",
     "template": "consultivo",
     "website": "",
-    "email1": false,
+    "email1": true,
     "email2": false,
     "targetProfile": "C/D",
-    "email3": false
+    "email3": false,
+    "date1": "2026-11-26"
   },
   {
     "name": "Varandas SBC",
@@ -7483,10 +7529,11 @@
     "phone": "11 993781411",
     "template": "pergunta",
     "website": "",
-    "email1": false,
+    "email1": true,
     "email2": false,
     "targetProfile": "C/D",
-    "email3": false
+    "email3": false,
+    "date1": "2026-11-26"
   },
   {
     "name": "Emporio Tudo em Carnes",
@@ -7498,10 +7545,11 @@
     "phone": "11 996709683",
     "template": "consultivo",
     "website": "",
-    "email1": false,
+    "email1": true,
     "email2": false,
     "targetProfile": "C/D",
-    "email3": false
+    "email3": false,
+    "date1": "2026-11-26"
   },
   {
     "name": "Liverpool Bar",
@@ -7529,10 +7577,11 @@
     "phone": "11 49927011 / 11 986674503 GUSTAVO",
     "template": "pergunta",
     "website": "",
-    "email1": false,
+    "email1": true,
     "email2": false,
     "targetProfile": "C/D",
-    "email3": false
+    "email3": false,
+    "date1": "2026-11-26"
   },
   {
     "name": "Babylonbar",
@@ -7544,10 +7593,11 @@
     "phone": "11 969752243 ADAILTON",
     "template": "pergunta",
     "website": "",
-    "email1": false,
+    "email1": true,
     "email2": false,
     "targetProfile": "C/D",
-    "email3": false
+    "email3": false,
+    "date1": "2026-11-26"
   },
   {
     "name": "BAR E RESTAURANTE KENNEDY",
@@ -7707,10 +7757,11 @@
     "phone": "11 3774-5458/ 11 3774-5258 / 971660516",
     "template": "pergunta",
     "website": "",
-    "email1": false,
+    "email1": true,
     "email2": false,
     "targetProfile": "C/D",
-    "email3": false
+    "email3": false,
+    "date1": "2026-11-26"
   },
   {
     "name": "LOTE",
@@ -20252,13 +20303,14 @@
     "phone": "11 30623634",
     "template": "pergunta",
     "website": "https://dalvaedito.com.br/",
-    "email1": false,
+    "email1": true,
     "targetProfile": "C/D",
     "city": "São Paulo",
     "emailSource": "https://dalvaedito.com.br/eventos/",
     "emailVerified": true,
     "emailVerifiedAt": "2026-11-20",
-    "mxVerified": true
+    "mxVerified": true,
+    "date1": "2026-11-26"
   },
   {
     "name": "TORERO VALESE",
@@ -22407,13 +22459,14 @@
     "phone": "113097-9490",
     "template": "pergunta",
     "website": "https://corrutela.com.br/",
-    "email1": false,
+    "email1": true,
     "targetProfile": "C/D",
     "city": "São Paulo",
     "emailSource": "https://corrutela.com.br/",
     "emailVerified": true,
     "emailVerifiedAt": "2026-11-21",
-    "mxVerified": true
+    "mxVerified": true,
+    "date1": "2026-11-26"
   },
   {
     "name": "PRETO",
@@ -35504,10 +35557,11 @@
     "emailSource": "https://deliveryapp.neemo.com.br/delivery/796/menu",
     "emailVerifiedAt": "2026-10-13",
     "template": "consultivo",
-    "email1": false,
+    "email1": true,
     "email2": false,
     "email3": false,
-    "targetProfile": "C/D"
+    "targetProfile": "C/D",
+    "date1": "2026-11-26"
   },
   {
     "name": "Restaurante Cantinho do Tempero Jandira",
@@ -35522,10 +35576,11 @@
     "emailSource": "https://cantinhodotempero2.wixsite.com/restaurantecantinhod",
     "emailVerifiedAt": "2026-10-13",
     "template": "consultivo",
-    "email1": false,
+    "email1": true,
     "email2": false,
     "email3": false,
-    "targetProfile": "C/D"
+    "targetProfile": "C/D",
+    "date1": "2026-11-26"
   },
   {
     "name": "A Quinta do Mirante",
@@ -35540,10 +35595,11 @@
     "emailSource": "https://www.aquintadomirante.com.br/",
     "emailVerifiedAt": "2026-10-13",
     "template": "consultivo",
-    "email1": false,
+    "email1": true,
     "email2": false,
     "email3": false,
-    "targetProfile": "C/D"
+    "targetProfile": "C/D",
+    "date1": "2026-11-26"
   },
   {
     "name": "Savana Alphaville",
@@ -35621,10 +35677,11 @@
     "emailSource": "https://www.zaosushi.com.br/",
     "emailVerifiedAt": "2026-10-13",
     "template": "consultivo",
-    "email1": false,
+    "email1": true,
     "email2": false,
     "email3": false,
-    "targetProfile": "C/D"
+    "targetProfile": "C/D",
+    "date1": "2026-11-26"
   },
   {
     "name": "Rápido Chopp Taboão da Serra",
@@ -36079,10 +36136,11 @@
     "mxVerified": true,
     "mxVerifiedAt": "2026-08-23",
     "template": "consultivo",
-    "email1": false,
+    "email1": true,
     "email2": false,
     "email3": false,
-    "targetProfile": "C/D"
+    "targetProfile": "C/D",
+    "date1": "2026-11-26"
   },
   {
     "name": "Bardega",
@@ -39825,10 +39883,11 @@
     "emailVerified": true,
     "emailVerifiedAt": "2026-10-13",
     "emailSource": "https://guiapj.com.br/consulta-cnpj",
-    "email1": false,
+    "email1": true,
     "email2": false,
     "email3": false,
-    "targetProfile": "C/D"
+    "targetProfile": "C/D",
+    "date1": "2026-11-26"
   },
   {
     "name": "Adega DW",
@@ -39937,10 +39996,11 @@
     "emailVerified": true,
     "emailVerifiedAt": "2026-10-13",
     "emailSource": "https://guiapj.com.br/consulta-cnpj",
-    "email1": false,
+    "email1": true,
     "email2": false,
     "email3": false,
-    "targetProfile": "C/D"
+    "targetProfile": "C/D",
+    "date1": "2026-11-26"
   },
   {
     "name": "Muza Restaurante",
@@ -39973,10 +40033,11 @@
     "emailVerified": true,
     "emailVerifiedAt": "2026-10-13",
     "emailSource": "https://guiapj.com.br/consulta-cnpj",
-    "email1": false,
+    "email1": true,
     "email2": false,
     "email3": false,
-    "targetProfile": "C/D"
+    "targetProfile": "C/D",
+    "date1": "2026-11-26"
   },
   {
     "name": "Express Moema Distribui├º├úo de Bebidas",
@@ -41763,13 +41824,14 @@
     "type": "bar",
     "website": "",
     "context": "Ze Bar e Comercio de Bebidas em Sao Paulo (Vila Guilherme), CNPJ 55.479.925/0001-59, ativo. CNAE principal 5611204 (bar sem entretenimento) e secundario 4723700 (varejo de bebidas). Rua Amazonas da Silva.",
-    "email1": false,
+    "email1": true,
     "email2": false,
     "email3": false,
     "emailVerified": true,
     "emailSource": "https://casadosdados.com.br/solucao/cnpj/ze-bar-e-comercio-de-bebidas-ltda-55479925000159",
     "emailVerifiedAt": "2026-10-13",
-    "targetProfile": "C/D"
+    "targetProfile": "C/D",
+    "date1": "2026-11-26"
   },
   {
     "name": "Espaco Bar e Drinks Saude",
@@ -41816,13 +41878,14 @@
     "type": "bar",
     "website": "",
     "context": "A Beira Bar em Sao Paulo (Avenida Imirim), CNPJ 56.904.856/0001-46, ativo. CNAE 5611204 (bar) e secundario 5611201 (restaurante).",
-    "email1": false,
+    "email1": true,
     "email2": false,
     "email3": false,
     "emailVerified": true,
     "emailSource": "https://casadosdados.com.br/solucao/cnpj/a-beira-bar-ltda-56904856000146",
     "emailVerifiedAt": "2026-10-13",
-    "targetProfile": "C/D"
+    "targetProfile": "C/D",
+    "date1": "2026-11-26"
   },
   {
     "name": "Cheers Bebidas",
@@ -41847,13 +41910,14 @@
     "type": "bar",
     "website": "",
     "context": "Bar e Restaurante do Chaves em Sao Bernardo do Campo (Rua Pacaembu 369, Pauliceia), CNPJ 63.113.097/0001-69, aberto 09/10/2025. CNAE 5611201 e 5611203.",
-    "email1": false,
+    "email1": true,
     "email2": false,
     "email3": false,
     "emailVerified": true,
     "emailSource": "https://maiscnpj.com.br/cnpj/63113097000169-bar-e-restaurante-do-chaves-ltda",
     "emailVerifiedAt": "2026-10-13",
-    "targetProfile": "C/D"
+    "targetProfile": "C/D",
+    "date1": "2026-11-26"
   },
   {
     "name": "Gomo Pinheiros Bar e Restaurante",
@@ -41878,13 +41942,14 @@
     "type": "bar",
     "website": "",
     "context": "Franco Gastro Bar em Sao Paulo (Rua Francisco Zicardi 539, Jardim Analia Franco), CNPJ 55.192.435/0001-77, aberto 20/05/2024, capital R$ 350.000. CNAEs 5611201, 5611204 (restaurante/bar) + tabacaria e delivery.",
-    "email1": false,
+    "email1": true,
     "email2": false,
     "email3": false,
     "emailVerified": true,
     "emailSource": "https://casadosdados.com.br/solucao/cnpj/franco-gastro-bar-ltda-55192435000177",
     "emailVerifiedAt": "2026-10-13",
-    "targetProfile": "C/D"
+    "targetProfile": "C/D",
+    "date1": "2026-11-26"
   },
   {
     "name": "Caetanos Bar",
@@ -42124,13 +42189,14 @@
     "type": "bar",
     "website": "",
     "context": "CNAE 5611203 - bar/adega em SP Capital (Vila Zat), ativa 11 anos",
-    "email1": false,
+    "email1": true,
     "email2": false,
     "email3": false,
     "emailVerified": true,
     "emailSource": "https://juridicoonline.com.br/empresa/22624628000109-bar-adega-nossa-senhora-aparecida-ltda",
     "emailVerifiedAt": "2026-10-13",
-    "targetProfile": "C/D"
+    "targetProfile": "C/D",
+    "date1": "2026-11-26"
   },
   {
     "name": "Let's Beer Cervejas Artesanais",
@@ -42171,13 +42237,14 @@
     "type": "bar",
     "website": "",
     "context": "CNAE 4729699+5611204 - bar/adega em SP Capital (Vila Campanela)",
-    "email1": false,
+    "email1": true,
     "email2": false,
     "email3": false,
     "emailVerified": true,
     "emailSource": "https://mestregeo.com.br/cnpj/sp/sao-paulo/bar-e-adega-altas-horas-52570548000170",
     "emailVerifiedAt": "2026-10-13",
-    "targetProfile": "C/D"
+    "targetProfile": "C/D",
+    "date1": "2026-11-26"
   },
   {
     "name": "Distribuidora Adega Tapajo",
@@ -42201,13 +42268,14 @@
     "type": "bar",
     "website": "",
     "context": "CNAE 5611203 - bar/restaurante em SP Capital (Parque Novo Mundo), ativa ha 5 anos",
-    "email1": false,
+    "email1": true,
     "email2": false,
     "email3": false,
     "emailVerified": true,
     "emailSource": "https://juridicoonline.com.br/empresa/40441955000107-adega-ramos-bar-e-restaurante-ltda",
     "emailVerifiedAt": "2026-10-13",
-    "targetProfile": "C/D"
+    "targetProfile": "C/D",
+    "date1": "2026-11-26"
   },
   {
     "name": "Nova Tiradentes Adega e Distribuidora",
@@ -65858,7 +65926,7 @@
     "date1": "2026-11-20"
   },
   {
-    "email1": false,
+    "email1": true,
     "email2": false,
     "email3": false,
     "name": "Motique",
@@ -65875,10 +65943,11 @@
     "emailVerified": true,
     "emailVerifiedAt": "2026-11-20",
     "mxVerified": true,
-    "targetProfile": "A/B"
+    "targetProfile": "A/B",
+    "date1": "2026-11-26"
   },
   {
-    "email1": false,
+    "email1": true,
     "email2": false,
     "email3": false,
     "emailVerified": true,
@@ -65895,7 +65964,8 @@
     "template": "consultivo",
     "website": "https://www.hotelunique.com/",
     "emailSource": "https://hotelunique.com/pt/contatos",
-    "targetProfile": "A/B"
+    "targetProfile": "A/B",
+    "date1": "2026-11-26"
   },
   {
     "email1": true,
@@ -65919,7 +65989,7 @@
     "date1": "2026-11-24"
   },
   {
-    "email1": false,
+    "email1": true,
     "email2": false,
     "email3": false,
     "emailVerified": true,
@@ -65936,10 +66006,11 @@
     "template": "consultivo",
     "website": "https://www.gvap.com.br/",
     "emailSource": "https://gvap.com.br/eventos-e-reunioes-hotel-george-v-alto-de-pinheiros",
-    "targetProfile": "A/B"
+    "targetProfile": "A/B",
+    "date1": "2026-11-26"
   },
   {
-    "email1": false,
+    "email1": true,
     "email2": false,
     "email3": false,
     "emailVerified": true,
@@ -65956,7 +66027,8 @@
     "template": "consultivo",
     "website": "https://raccoon85.com.br/",
     "emailSource": "https://raccoon85.com.br/menu-executivo-american-bbq/",
-    "targetProfile": "A/B"
+    "targetProfile": "A/B",
+    "date1": "2026-11-26"
   },
   {
     "email1": true,
@@ -65980,7 +66052,7 @@
     "date1": "2026-11-24"
   },
   {
-    "email1": false,
+    "email1": true,
     "email2": false,
     "email3": false,
     "emailVerified": true,
@@ -65997,7 +66069,8 @@
     "template": "consultivo",
     "website": "https://tantrarestaurante.com.br/",
     "emailSource": "https://tantrarestaurante.com.br/contato/",
-    "targetProfile": "A/B"
+    "targetProfile": "A/B",
+    "date1": "2026-11-26"
   },
   {
     "email1": true,
@@ -66021,7 +66094,7 @@
     "date1": "2026-11-24"
   },
   {
-    "email1": false,
+    "email1": true,
     "email2": false,
     "email3": false,
     "emailVerified": true,
@@ -66038,7 +66111,8 @@
     "template": "consultivo",
     "website": "https://restaurantecosi.com.br/",
     "emailSource": "https://restaurantecosi.com.br/",
-    "targetProfile": "A/B"
+    "targetProfile": "A/B",
+    "date1": "2026-11-26"
   },
   {
     "email1": true,
@@ -66065,7 +66139,7 @@
     "emailVerified": true,
     "emailVerifiedAt": "2026-11-23",
     "mxVerified": true,
-    "email1": false,
+    "email1": true,
     "email2": false,
     "email3": false,
     "name": "Manihi Sushi Perdizes",
@@ -66079,13 +66153,14 @@
     "template": "consultivo",
     "website": "https://www.manihisushi.com.br/",
     "emailSource": "https://www.manihisushi.com.br/contato",
-    "targetProfile": "A/B"
+    "targetProfile": "A/B",
+    "date1": "2026-11-26"
   },
   {
     "emailVerified": true,
     "emailVerifiedAt": "2026-11-23",
     "mxVerified": true,
-    "email1": false,
+    "email1": true,
     "email2": false,
     "email3": false,
     "name": "Graça di Napolli Santana",
@@ -66099,13 +66174,14 @@
     "template": "consultivo",
     "website": "https://gracadinapolli.com.br/",
     "emailSource": "https://gracadinapolli.com.br/",
-    "targetProfile": "C/D"
+    "targetProfile": "C/D",
+    "date1": "2026-11-26"
   },
   {
     "emailVerified": true,
     "emailVerifiedAt": "2026-11-23",
     "mxVerified": true,
-    "email1": false,
+    "email1": true,
     "email2": false,
     "email3": false,
     "name": "Graça di Napolli Guarulhos",
@@ -66119,13 +66195,14 @@
     "template": "consultivo",
     "website": "https://gracadinapolli.com.br/",
     "emailSource": "https://gracadinapolli.com.br/",
-    "targetProfile": "C/D"
+    "targetProfile": "C/D",
+    "date1": "2026-11-26"
   },
   {
     "emailVerified": true,
     "emailVerifiedAt": "2026-11-23",
     "mxVerified": true,
-    "email1": false,
+    "email1": true,
     "email2": false,
     "email3": false,
     "name": "O Boteco Argentino",
@@ -66139,10 +66216,11 @@
     "template": "consultivo",
     "website": "https://obotecoargentino.com.br/",
     "emailSource": "https://obotecoargentino.com.br/nossas-unidades/",
-    "targetProfile": "C/D"
+    "targetProfile": "C/D",
+    "date1": "2026-11-26"
   },
   {
-    "email1": false,
+    "email1": true,
     "email2": false,
     "email3": false,
     "emailVerified": true,
@@ -66159,10 +66237,11 @@
     "template": "consultivo",
     "website": "https://www.rinconcitoperuano.com.br/",
     "emailSource": "https://www.rinconcitoperuano.com.br/",
-    "targetProfile": "C/D"
+    "targetProfile": "C/D",
+    "date1": "2026-11-26"
   },
   {
-    "email1": false,
+    "email1": true,
     "email2": false,
     "email3": false,
     "emailVerified": true,
@@ -66179,10 +66258,11 @@
     "template": "consultivo",
     "website": "",
     "emailSource": "https://cnpja.com/office/16886325000153",
-    "targetProfile": "C/D"
+    "targetProfile": "C/D",
+    "date1": "2026-11-26"
   },
   {
-    "email1": false,
+    "email1": true,
     "email2": false,
     "email3": false,
     "emailVerified": true,
@@ -66199,7 +66279,8 @@
     "template": "consultivo",
     "website": "https://www.saboresdavida.com.br/",
     "emailSource": "https://www.saboresdavida.com.br/coquetel-classico/",
-    "targetProfile": "C/D"
+    "targetProfile": "C/D",
+    "date1": "2026-11-26"
   },
   {
     "email1": true,
