@@ -1,12 +1,12 @@
 {
-  "lastUpdate": "2026-11-26T22:50:20.053Z",
+  "lastUpdate": "2026-11-27T04:48:54.425Z",
   "sinceDate": "2026-08-02",
   "totalLeads": 4066,
   "emails": {
-    "email1": 1436,
+    "email1": 1455,
     "email2": 66,
     "email3": 0,
-    "total": 1502
+    "total": 1521
   },
   "whatsapp": {
     "today": 0,
@@ -15,10 +15,6 @@
   "responses": 8,
   "pending": 543,
   "daily": [
-    {
-      "date": "2026-10-28",
-      "count": 0
-    },
     {
       "date": "2026-10-29",
       "count": 0
@@ -133,7 +129,11 @@
     },
     {
       "date": "2026-11-26",
-      "count": 81
+      "count": 100
+    },
+    {
+      "date": "2026-11-27",
+      "count": 0
     }
   ],
   "monthly": [
@@ -160,10 +160,10 @@
     },
     {
       "month": "2026-11",
-      "email1": 1331,
+      "email1": 1350,
       "email2": 65,
       "email3": 0,
-      "total": 1396
+      "total": 1415
     }
   ],
   "topNeighborhoods": [
@@ -316,48 +316,48 @@
   ],
   "funnel": {
     "leads": 4066,
-    "email1": 1436,
+    "email1": 1455,
     "email2": 66,
     "email3": 0,
     "responded": 8
   },
   "week": {
-    "leads": 420,
+    "leads": 409,
     "emails": {
-      "email1": 420,
-      "email2": 50,
+      "email1": 409,
+      "email2": 20,
       "email3": 0,
-      "total": 470,
+      "total": 429,
       "responses": 0
     }
   },
   "month": {
-    "leads": 1331,
+    "leads": 1350,
     "emails": {
-      "email1": 1331,
+      "email1": 1350,
       "email2": 65,
       "email3": 0,
-      "total": 1396,
+      "total": 1415,
       "responses": 2
     }
   },
   "year": {
-    "leads": 1437,
+    "leads": 1456,
     "emails": {
-      "email1": 1436,
+      "email1": 1455,
       "email2": 66,
       "email3": 0,
-      "total": 1502,
+      "total": 1521,
       "responses": 8
     }
   },
   "sinceBeginning": {
     "leads": 4066,
     "emails": {
-      "email1": 1436,
+      "email1": 1455,
       "email2": 66,
       "email3": 0,
-      "total": 1502
+      "total": 1521
     },
     "responses": 8,
     "whatsapp": 262,
@@ -367,7 +367,7 @@
     {
       "name": "restaurante",
       "total": 2139,
-      "email1": 322,
+      "email1": 341,
       "responded": 0
     },
     {
