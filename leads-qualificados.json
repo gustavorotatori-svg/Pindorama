@@ -7868,10 +7868,11 @@
     "phone": "11963209081 / 11 97677-8999 Renan",
     "template": "prova_social",
     "website": "",
-    "email1": false,
+    "email1": true,
     "email2": false,
     "targetProfile": "C/D",
-    "email3": false
+    "email3": false,
+    "date1": "2026-11-26"
   },
   {
     "name": "IKEMEN RAMEN",
@@ -7883,10 +7884,11 @@
     "phone": "1123642297",
     "template": "pergunta",
     "website": "",
-    "email1": false,
+    "email1": true,
     "email2": false,
     "targetProfile": "C/D",
-    "email3": false
+    "email3": false,
+    "date1": "2026-11-26"
   },
   {
     "name": "Restaurante America",
@@ -7898,10 +7900,11 @@
     "phone": "1156442222 / Joana Gelpi no 11999569211",
     "template": "prova_social",
     "website": "",
-    "email1": false,
+    "email1": true,
     "email2": false,
     "targetProfile": "C/D",
-    "email3": false
+    "email3": false,
+    "date1": "2026-11-26"
   },
   {
     "name": "HANDZ BURGER",
@@ -7958,10 +7961,11 @@
     "phone": "11 989321851 / 21 99744-8911",
     "template": "prova_social",
     "website": "",
-    "email1": false,
+    "email1": true,
     "email2": false,
     "targetProfile": "C/D",
-    "email3": false
+    "email3": false,
+    "date1": "2026-11-26"
   },
   {
     "name": "Butter Carnes",
@@ -8048,10 +8052,11 @@
     "phone": "11 4564-5503  / 11 3253-5440 escritorio / 11 93354-3201",
     "template": "pergunta",
     "website": "",
-    "email1": false,
+    "email1": true,
     "email2": false,
     "targetProfile": "C/D",
-    "email3": false
+    "email3": false,
+    "date1": "2026-11-26"
   },
   {
     "name": "Panificadora Ceci",
@@ -8063,10 +8068,11 @@
     "phone": "(11) 2275-3991 / 11 947412445 LEANDRO",
     "template": "prova_social",
     "website": "",
-    "email1": false,
+    "email1": true,
     "email2": false,
     "targetProfile": "C/D",
-    "email3": false
+    "email3": false,
+    "date1": "2026-11-26"
   },
   {
     "name": "Doceira Nevada",
@@ -8108,10 +8114,11 @@
     "phone": "11 3082-9551",
     "template": "consultivo",
     "website": "",
-    "email1": false,
+    "email1": true,
     "email2": false,
     "targetProfile": "C/D",
-    "email3": false
+    "email3": false,
+    "date1": "2026-11-26"
   },
   {
     "name": "CHIADO",
@@ -8123,10 +8130,11 @@
     "phone": "11 5041-5276",
     "template": "consultivo",
     "website": "",
-    "email1": false,
+    "email1": true,
     "email2": false,
     "targetProfile": "C/D",
-    "email3": false
+    "email3": false,
+    "date1": "2026-11-26"
   },
   {
     "name": "A Galeteria Assados",
@@ -8183,10 +8191,11 @@
     "phone": "11 2842-9146",
     "template": "consultivo",
     "website": "",
-    "email1": false,
+    "email1": true,
     "email2": false,
     "targetProfile": "C/D",
-    "email3": false
+    "email3": false,
+    "date1": "2026-11-26"
   },
   {
     "name": "MOCOT├â┬ô CAF├â┬ë",
@@ -8238,10 +8247,11 @@
     "phone": "11 3813-6656",
     "template": "pergunta",
     "website": "",
-    "email1": false,
+    "email1": true,
     "email2": false,
     "targetProfile": "C/D",
-    "email3": false
+    "email3": false,
+    "date1": "2026-11-26"
   },
   {
     "name": "CA`D`ORO",
@@ -8253,10 +8263,11 @@
     "phone": "11 3236-4300 / 3083-5024",
     "template": "prova_social",
     "website": "",
-    "email1": false,
+    "email1": true,
     "email2": false,
     "targetProfile": "C/D",
-    "email3": false
+    "email3": false,
+    "date1": "2026-11-26"
   },
   {
     "name": "TEMPLO DA CARNE MARCOS BASSI",
@@ -8268,7 +8279,7 @@
     "phone": "11 3289-8070/ 3251-1488 / 3253-8449",
     "template": "pergunta",
     "website": "",
-    "email1": false,
+    "email1": true,
     "askedCadastro": true,
     "responded": false,
     "responseDate": null,
@@ -8276,7 +8287,8 @@
     "response": null,
     "emailVerifiedAt": "2026-10-13",
     "targetProfile": "C/D",
-    "email2": false
+    "email2": false,
+    "date1": "2026-11-26"
   },
   {
     "name": "CASA GODINHO",
@@ -8288,10 +8300,11 @@
     "phone": "11 3105-1625 |11 3104-1520 /  011 983399581 MIGUEL",
     "template": "consultivo",
     "website": "",
-    "email1": false,
+    "email1": true,
     "email2": false,
     "targetProfile": "C/D",
-    "email3": false
+    "email3": false,
+    "date1": "2026-11-26"
   },
   {
     "name": "Cheesecakeria",
@@ -8321,10 +8334,11 @@
     "phone": "11 3031-7199 /  11 95057-6206 MARINA",
     "template": "prova_social",
     "website": "",
-    "email1": false,
+    "email1": true,
     "email2": false,
     "targetProfile": "C/D",
-    "email3": false
+    "email3": false,
+    "date1": "2026-11-26"
   },
   {
     "name": "CONFEITARIA DAMA",
@@ -8336,10 +8350,11 @@
     "phone": "5182-5088",
     "template": "pergunta",
     "website": "",
-    "email1": false,
+    "email1": true,
     "email2": false,
     "targetProfile": "C/D",
-    "email3": false
+    "email3": false,
+    "date1": "2026-11-26"
   },
   {
     "name": "COZINHA 212",
@@ -8351,10 +8366,11 @@
     "phone": "2478-6612 / 98363-5691 / 983395889 STEFAN",
     "template": "prova_social",
     "website": "",
-    "email1": false,
+    "email1": true,
     "email2": false,
     "targetProfile": "C/D",
-    "email3": false
+    "email3": false,
+    "date1": "2026-11-26"
   },
   {
     "name": "Cucina Si Italianissimo",
@@ -8381,10 +8397,11 @@
     "phone": "11 3596-3779",
     "template": "prova_social",
     "website": "",
-    "email1": false,
+    "email1": true,
     "email2": false,
     "targetProfile": "C/D",
-    "email3": false
+    "email3": false,
+    "date1": "2026-11-26"
   },
   {
     "name": "DALMO B├â┬üRBARO",
@@ -8396,10 +8413,11 @@
     "phone": "11 2985-4002 /  2985-4003 DIRETO / 992743036 RAFAEL",
     "template": "pergunta",
     "website": "",
-    "email1": false,
+    "email1": true,
     "email2": false,
     "targetProfile": "C/D",
-    "email3": false
+    "email3": false,
+    "date1": "2026-11-26"
   },
   {
     "name": "Desfrutti",
@@ -8411,10 +8429,11 @@
     "phone": "(11) 3168-1441 / (11)5180-2300",
     "template": "pergunta",
     "website": "",
-    "email1": false,
+    "email1": true,
     "email2": false,
     "targetProfile": "C/D",
-    "email3": false
+    "email3": false,
+    "date1": "2026-11-26"
   },
   {
     "name": "Dona Vitamina",
