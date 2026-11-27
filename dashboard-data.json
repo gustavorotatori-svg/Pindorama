@@ -1,24 +1,20 @@
 {
-  "lastUpdate": "2026-11-26T21:20:22.600Z",
+  "lastUpdate": "2026-11-27T07:58:52.965Z",
   "sinceDate": "2026-08-02",
   "totalLeads": 4066,
   "emails": {
-    "email1": 1355,
+    "email1": 1455,
     "email2": 66,
     "email3": 0,
-    "total": 1421
+    "total": 1521
   },
   "whatsapp": {
     "today": 0,
     "total": 262
   },
   "responses": 8,
-  "pending": 573,
+  "pending": 543,
   "daily": [
-    {
-      "date": "2026-10-28",
-      "count": 0
-    },
     {
       "date": "2026-10-29",
       "count": 0
@@ -133,6 +129,10 @@
     },
     {
       "date": "2026-11-26",
+      "count": 100
+    },
+    {
+      "date": "2026-11-27",
       "count": 0
     }
   ],
@@ -160,10 +160,10 @@
     },
     {
       "month": "2026-11",
-      "email1": 1250,
+      "email1": 1350,
       "email2": 65,
       "email3": 0,
-      "total": 1315
+      "total": 1415
     }
   ],
   "topNeighborhoods": [
@@ -218,134 +218,146 @@
   ],
   "recentLeads": [
     {
-      "name": "Dona Felicidade",
-      "type": "bar",
+      "name": "Bar Alto",
+      "type": "restaurante",
+      "neighborhood": "Alto de Pinheiros",
       "responded": false,
       "email1": true,
-      "date1": "2026-11-25"
+      "date1": "2026-11-26"
     },
     {
-      "name": "ASSEMBL├â┬ëIA BAR",
-      "type": "bar",
+      "name": "Trash 80s Vila Ol├¡mpia",
+      "type": "balada",
+      "neighborhood": "Vila Ol├¡mpia",
       "responded": false,
       "email1": true,
-      "date1": "2026-11-25"
+      "date1": "2026-11-26"
     },
     {
-      "name": "PIER 1327",
+      "name": "Cacha├ºaria Maria Eunice",
       "type": "bar",
+      "neighborhood": "Vila Guilherme",
       "responded": false,
       "email1": true,
-      "date1": "2026-11-25"
+      "date1": "2026-11-26"
     },
     {
-      "name": "BOTECO CENTRAL",
+      "name": "Aureliano's Bar",
       "type": "bar",
+      "neighborhood": "Santana",
       "responded": false,
       "email1": true,
-      "date1": "2026-11-25"
+      "date1": "2026-11-26"
     },
     {
-      "name": "THE BOWL",
+      "name": "Santa Parada",
       "type": "bar",
+      "neighborhood": "Santana",
       "responded": false,
       "email1": true,
-      "date1": "2026-11-25"
+      "date1": "2026-11-26"
     },
     {
-      "name": "Augusta 472 Rock Bar",
+      "name": "Bar Penha Lapa",
       "type": "bar",
+      "neighborhood": "Planalto Paulista",
       "responded": false,
       "email1": true,
-      "date1": "2026-11-25"
+      "date1": "2026-11-26"
     },
     {
-      "name": "Esquina Do Souza",
+      "name": "Itapura Bar",
       "type": "bar",
+      "neighborhood": "Tatuap├®",
       "responded": false,
       "email1": true,
-      "date1": "2026-11-25"
+      "date1": "2026-11-26"
     },
     {
-      "name": "BOTECO MANO DO C├â┬ëU",
+      "name": "Gorilas Bar",
       "type": "bar",
+      "neighborhood": "Tatuap├®",
       "responded": false,
       "email1": true,
-      "date1": "2026-11-25"
+      "date1": "2026-11-26"
     },
     {
-      "name": "Me V├â┬í",
+      "name": "Boteco do Parque",
       "type": "bar",
+      "neighborhood": "Aclima├º├úo",
       "responded": false,
       "email1": true,
-      "date1": "2026-11-25"
+      "date1": "2026-11-26"
     },
     {
-      "name": "S├â┬úo Crist├â┬│v├â┬úo Bar",
+      "name": "Espa├ºo Ferrovia",
       "type": "bar",
+      "neighborhood": "Mooca",
       "responded": false,
       "email1": true,
-      "date1": "2026-11-25"
+      "date1": "2026-11-26"
     },
     {
-      "name": "KRAUT BAR",
+      "name": "Point 46",
       "type": "bar",
+      "neighborhood": "Mooca",
       "responded": false,
       "email1": true,
-      "date1": "2026-11-25"
+      "date1": "2026-11-26"
     },
     {
-      "name": "Vamo Toma Uma Tap House",
+      "name": "Hangar Mooca Karaok├¬",
       "type": "bar",
+      "neighborhood": "Mooca",
       "responded": false,
       "email1": true,
-      "date1": "2026-11-25"
+      "date1": "2026-11-26"
     }
   ],
   "funnel": {
     "leads": 4066,
-    "email1": 1355,
+    "email1": 1455,
     "email2": 66,
     "email3": 0,
     "responded": 8
   },
   "week": {
-    "leads": 339,
+    "leads": 409,
     "emails": {
-      "email1": 339,
-      "email2": 50,
+      "email1": 409,
+      "email2": 20,
       "email3": 0,
-      "total": 389,
+      "total": 429,
       "responses": 0
     }
   },
   "month": {
-    "leads": 1250,
+    "leads": 1350,
     "emails": {
-      "email1": 1250,
+      "email1": 1350,
       "email2": 65,
       "email3": 0,
-      "total": 1315,
+      "total": 1415,
       "responses": 2
     }
   },
   "year": {
-    "leads": 1356,
+    "leads": 1456,
     "emails": {
-      "email1": 1355,
+      "email1": 1455,
       "email2": 66,
       "email3": 0,
-      "total": 1421,
+      "total": 1521,
       "responses": 8
     }
   },
   "sinceBeginning": {
     "leads": 4066,
     "emails": {
-      "email1": 1355,
+      "email1": 1455,
       "email2": 66,
       "email3": 0,
-      "total": 1421
+      "total": 1521
     },
     "responses": 8,
     "whatsapp": 262,
@@ -355,13 +367,13 @@
     {
       "name": "restaurante",
       "total": 2139,
-      "email1": 304,
+      "email1": 341,
       "responded": 0
     },
     {
       "name": "bar",
       "total": 624,
-      "email1": 535,
+      "email1": 595,
       "responded": 0
     },
     {
@@ -385,7 +397,7 @@
     {
       "name": "balada",
       "total": 67,
-      "email1": 65,
+      "email1": 66,
       "responded": 0
     },
     {
@@ -451,7 +463,7 @@
     {
       "name": "hotel",
       "total": 16,
-      "email1": 10,
+      "email1": 12,
       "responded": 0
     },
     {
