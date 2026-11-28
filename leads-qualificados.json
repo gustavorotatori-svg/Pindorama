@@ -8445,10 +8445,11 @@
     "phone": "11 3063-0582 / 3085-0610 /  11 94232-0014",
     "template": "pergunta",
     "website": "",
-    "email1": false,
+    "email1": true,
     "email2": false,
     "targetProfile": "C/D",
-    "email3": false
+    "email3": false,
+    "date1": "2026-11-27"
   },
   {
     "name": "DUAS TEREZAS",
@@ -8460,10 +8461,11 @@
     "phone": "11 3884-5193 / (11) 3456-3125 /  11 97173-4402",
     "template": "prova_social",
     "website": "",
-    "email1": false,
+    "email1": true,
     "email2": false,
     "targetProfile": "C/D",
-    "email3": false
+    "email3": false,
+    "date1": "2026-11-27"
   },
   {
     "name": "DUE CUOCHI CUCINA",
@@ -8475,10 +8477,11 @@
     "phone": "11 3758.2731",
     "template": "consultivo",
     "website": "",
-    "email1": false,
+    "email1": true,
     "email2": false,
     "targetProfile": "C/D",
-    "email3": false
+    "email3": false,
+    "date1": "2026-11-27"
   },
   {
     "name": "Danielle Andrade Sweet & Cake",
@@ -8490,10 +8493,11 @@
     "phone": "11 36755079",
     "template": "consultivo",
     "website": "",
-    "email1": false,
+    "email1": true,
     "email2": false,
     "targetProfile": "C/D",
-    "email3": false
+    "email3": false,
+    "date1": "2026-11-27"
   },
   {
     "name": "Fleur de Sucre P├â┬ótisserie",
@@ -8505,10 +8509,11 @@
     "phone": "11 3010-0557 / 11 3078-3082",
     "template": "consultivo",
     "website": "",
-    "email1": false,
+    "email1": true,
     "email2": false,
     "targetProfile": "C/D",
-    "email3": false
+    "email3": false,
+    "date1": "2026-11-27"
   },
   {
     "name": "IL BARISTA CAF├â┬ëS ESPECIAIS",
@@ -8520,10 +8525,11 @@
     "phone": "11 2538-1177 ESCRITORIO",
     "template": "prova_social",
     "website": "",
-    "email1": false,
+    "email1": true,
     "email2": false,
     "targetProfile": "C/D",
-    "email3": false
+    "email3": false,
+    "date1": "2026-11-27"
   },
   {
     "name": "INSALATA",
@@ -8535,10 +8541,11 @@
     "phone": "11 3885 1514 / 2308 9155 ou final 56 MKT / 97699-2080 RITA",
     "template": "prova_social",
     "website": "",
-    "email1": false,
+    "email1": true,
     "email2": false,
     "targetProfile": "C/D",
-    "email3": false
+    "email3": false,
+    "date1": "2026-11-27"
   },
   {
     "name": "L'amiti├â┬® Bistrot Parisiense",
@@ -8550,10 +8557,11 @@
     "phone": "3071-3517/ 3078-5919",
     "template": "pergunta",
     "website": "",
-    "email1": false,
+    "email1": true,
     "email2": false,
     "targetProfile": "C/D",
-    "email3": false
+    "email3": false,
+    "date1": "2026-11-27"
   },
   {
     "name": "La Piadina Cucina Italiana",
@@ -8565,10 +8573,11 @@
     "phone": "11 3926 5427",
     "template": "consultivo",
     "website": "",
-    "email1": false,
+    "email1": true,
     "email2": false,
     "targetProfile": "C/D",
-    "email3": false
+    "email3": false,
+    "date1": "2026-11-27"
   },
   {
     "name": "MARIA BAUNILHA",
@@ -8595,10 +8604,11 @@
     "phone": "(11) 3078-2221",
     "template": "prova_social",
     "website": "",
-    "email1": false,
+    "email1": true,
     "email2": false,
     "targetProfile": "C/D",
-    "email3": false
+    "email3": false,
+    "date1": "2026-11-27"
   },
   {
     "name": "NOSU",
@@ -8670,10 +8680,11 @@
     "phone": "5095-6565",
     "template": "consultivo",
     "website": "",
-    "email1": false,
+    "email1": true,
     "email2": false,
     "targetProfile": "C/D",
-    "email3": false
+    "email3": false,
+    "date1": "2026-11-27"
   },
   {
     "name": "RENDEZ-VOUS",
@@ -8700,10 +8711,11 @@
     "phone": "3459-4889 / 11 93202-2762 / (11) 93202-2662",
     "template": "consultivo",
     "website": "",
-    "email1": false,
+    "email1": true,
     "email2": false,
     "targetProfile": "C/D",
-    "email3": false
+    "email3": false,
+    "date1": "2026-11-27"
   },
   {
     "name": "Torra Clara",
@@ -8730,10 +8742,11 @@
     "phone": "JARDINS 11 3887-8870 / JK  11- 3152-6777 /FARIA LIMA 11-3039-6500 / 99973-1238 WhatsApp DELIVERY",
     "template": "prova_social",
     "website": "",
-    "email1": false,
+    "email1": true,
     "email2": false,
     "targetProfile": "C/D",
-    "email3": false
+    "email3": false,
+    "date1": "2026-11-27"
   },
   {
     "name": "Mangai S├â┬úo Paulo",
@@ -8745,10 +8758,11 @@
     "phone": "11 2101 7005",
     "template": "pergunta",
     "website": "",
-    "email1": false,
+    "email1": true,
     "email2": false,
     "targetProfile": "C/D",
-    "email3": false
+    "email3": false,
+    "date1": "2026-11-27"
   },
   {
     "name": "Confeitaria La Bassani",
@@ -8775,10 +8789,11 @@
     "phone": "11 3257-7121",
     "template": "prova_social",
     "website": "",
-    "email1": false,
+    "email1": true,
     "email2": false,
     "targetProfile": "C/D",
-    "email3": false
+    "email3": false,
+    "date1": "2026-11-27"
   },
   {
     "name": "CARLO'S BAKERY",
@@ -8790,10 +8805,11 @@
     "phone": "(11) 2307-2310 (11) 2306-9448 / (11) 2307-0687",
     "template": "prova_social",
     "website": "",
-    "email1": false,
+    "email1": true,
     "email2": false,
     "targetProfile": "C/D",
-    "email3": false
+    "email3": false,
+    "date1": "2026-11-27"
   },
   {
     "name": "Vivano Steak",
@@ -8805,10 +8821,11 @@
     "phone": "(11) 4223-5555/ LIGAR COM FINAL  56 OU 57",
     "template": "consultivo",
     "website": "",
-    "email1": false,
+    "email1": true,
     "email2": false,
     "targetProfile": "C/D",
-    "email3": false
+    "email3": false,
+    "date1": "2026-11-27"
   },
   {
     "name": "Badau├â┬¬",
@@ -8835,10 +8852,11 @@
     "phone": "11 95602-2366",
     "template": "pergunta",
     "website": "",
-    "email1": false,
+    "email1": true,
     "email2": false,
     "targetProfile": "C/D",
-    "email3": false
+    "email3": false,
+    "date1": "2026-11-27"
   },
   {
     "name": "CHOCOLATES LIVERPOOL",
@@ -8850,10 +8868,11 @@
     "phone": "11 3031 6439 / 3032 2142 / 11991110732 VANESSA",
     "template": "consultivo",
     "website": "",
-    "email1": false,
+    "email1": true,
     "email2": false,
     "targetProfile": "C/D",
-    "email3": false
+    "email3": false,
+    "date1": "2026-11-27"
   },
   {
     "name": "BANANEIRA MORUMBI",
@@ -8865,10 +8884,11 @@
     "phone": "11 3542 4630",
     "template": "consultivo",
     "website": "",
-    "email1": false,
+    "email1": true,
     "email2": false,
     "targetProfile": "C/D",
-    "email3": false
+    "email3": false,
+    "date1": "2026-11-27"
   },
   {
     "name": "Bar do Paco",
@@ -8943,10 +8963,11 @@
     "phone": "2292-5970/ 2291-3536",
     "template": "consultivo",
     "website": "",
-    "email1": false,
+    "email1": true,
     "email2": false,
     "targetProfile": "C/D",
-    "email3": false
+    "email3": false,
+    "date1": "2026-11-27"
   },
   {
     "name": "BOIZ├â┬âO GRILL",
@@ -8958,10 +8979,11 @@
     "phone": "2671-2022",
     "template": "pergunta",
     "website": "",
-    "email1": false,
+    "email1": true,
     "email2": false,
     "targetProfile": "C/D",
-    "email3": false
+    "email3": false,
+    "date1": "2026-11-27"
   },
   {
     "name": "Bondbico Galeteria",
@@ -8973,10 +8995,11 @@
     "phone": "11 2579-2875",
     "template": "prova_social",
     "website": "",
-    "email1": false,
+    "email1": true,
     "email2": false,
     "targetProfile": "C/D",
-    "email3": false
+    "email3": false,
+    "date1": "2026-11-27"
   },
   {
     "name": "BRASSERIE VICT├â┬ôRIA",
@@ -8988,10 +9011,11 @@
     "phone": "3849-8449/ 3040-8897",
     "template": "pergunta",
     "website": "",
-    "email1": false,
+    "email1": true,
     "email2": false,
     "targetProfile": "C/D",
-    "email3": false
+    "email3": false,
+    "date1": "2026-11-27"
   },
   {
     "name": "Caetano's Bar - Lugar de amigos",
@@ -9048,10 +9072,11 @@
     "phone": "11 3242-1700",
     "template": "consultivo",
     "website": "",
-    "email1": false,
+    "email1": true,
     "email2": false,
     "targetProfile": "C/D",
-    "email3": false
+    "email3": false,
+    "date1": "2026-11-27"
   },
   {
     "name": "Cantina Biaggio",
@@ -9093,10 +9118,11 @@
     "phone": "(11) 2942-8674 / 11 2097-5818 escritorio / 11 95984-3361 PAULO DO MKT / 11 997758216 ALEX",
     "template": "pergunta",
     "website": "",
-    "email1": false,
+    "email1": true,
     "email2": false,
     "targetProfile": "C/D",
-    "email3": false
+    "email3": false,
+    "date1": "2026-11-27"
   },
   {
     "name": "Cena Restaurante",
@@ -9108,10 +9134,11 @@
     "phone": "11 4123-2799 / 11941807441 GRAZIELLA",
     "template": "prova_social",
     "website": "",
-    "email1": false,
+    "email1": true,
     "email2": false,
     "targetProfile": "C/D",
-    "email3": false
+    "email3": false,
+    "date1": "2026-11-27"
   },
   {
     "name": "Charles Dog",
@@ -9123,10 +9150,11 @@
     "phone": "(11) 3966-0286 / (11) 3966-0747",
     "template": "prova_social",
     "website": "",
-    "email1": false,
+    "email1": true,
     "email2": false,
     "targetProfile": "C/D",
-    "email3": false
+    "email3": false,
+    "date1": "2026-11-27"
   },
   {
     "name": "CHEF BENON",
@@ -9138,10 +9166,11 @@
     "phone": "3739-4420/3739-3661/99488-3488 / 999712242 ANTONI",
     "template": "prova_social",
     "website": "",
-    "email1": false,
+    "email1": true,
     "email2": false,
     "targetProfile": "C/D",
-    "email3": false
+    "email3": false,
+    "date1": "2026-11-27"
   },
   {
     "name": "Chico Restaurante",
@@ -9168,10 +9197,11 @@
     "phone": "(11)5631-5252, (11) 5631-1213, (11) 5812-4840, (11) 5812-5139 / 947133784 VIVIANE",
     "template": "consultivo",
     "website": "",
-    "email1": false,
+    "email1": true,
     "email2": false,
     "targetProfile": "C/D",
-    "email3": false
+    "email3": false,
+    "date1": "2026-11-27"
   },
   {
     "name": "Haraganos Beef",
@@ -9183,10 +9213,11 @@
     "phone": "3083-4265/ 11 98243-6335 molina",
     "template": "consultivo",
     "website": "",
-    "email1": false,
+    "email1": true,
     "email2": false,
     "targetProfile": "C/D",
-    "email3": false
+    "email3": false,
+    "date1": "2026-11-27"
   },
   {
     "name": "Costela da Vila",
@@ -9198,10 +9229,11 @@
     "phone": "(11) 3054-6600 /  11 94224 7247",
     "template": "prova_social",
     "website": "",
-    "email1": false,
+    "email1": true,
     "email2": false,
     "targetProfile": "C/D",
-    "email3": false
+    "email3": false,
+    "date1": "2026-11-27"
   },
   {
     "name": "Creme de La Creme Doceria",
@@ -9213,10 +9245,11 @@
     "phone": "11 3864-0230/ 11943588046 EVELINE",
     "template": "consultivo",
     "website": "",
-    "email1": false,
+    "email1": true,
     "email2": false,
     "targetProfile": "C/D",
-    "email3": false
+    "email3": false,
+    "date1": "2026-11-27"
   },
   {
     "name": "Delicious Doceria",
@@ -9228,10 +9261,11 @@
     "phone": "11 5181-8499 / 11994527489 MARIA RITA",
     "template": "pergunta",
     "website": "",
-    "email1": false,
+    "email1": true,
     "email2": false,
     "targetProfile": "C/D",
-    "email3": false
+    "email3": false,
+    "date1": "2026-11-27"
   },
   {
     "name": "Strudel Caf├â┬® Oma Hedy",
@@ -9243,10 +9277,11 @@
     "phone": "11 2361-4375",
     "template": "prova_social",
     "website": "",
-    "email1": false,
+    "email1": true,
     "email2": false,
     "targetProfile": "C/D",
-    "email3": false
+    "email3": false,
+    "date1": "2026-11-27"
   },
   {
     "name": "DES CUCINA",
@@ -9258,10 +9293,11 @@
     "phone": "11 3872-0050 / 11 3672-3676 / (11) 98999-9490",
     "template": "prova_social",
     "website": "",
-    "email1": false,
+    "email1": true,
     "email2": false,
     "targetProfile": "C/D",
-    "email3": false
+    "email3": false,
+    "date1": "2026-11-27"
   },
   {
     "name": "DESEMBARGADOR BAR",
@@ -9273,10 +9309,11 @@
     "phone": "11 3672-3676 / 3862-9498  ESCRITORIO/  11) 98999-7652",
     "template": "prova_social",
     "website": "",
-    "email1": false,
+    "email1": true,
     "email2": false,
     "targetProfile": "C/D",
-    "email3": false
+    "email3": false,
+    "date1": "2026-11-27"
   },
   {
     "name": "CHOCOLATES DI SIENA",
@@ -9288,10 +9325,11 @@
     "phone": "11 3861-7460 / (11) 94790-4781",
     "template": "prova_social",
     "website": "",
-    "email1": false,
+    "email1": true,
     "email2": false,
     "targetProfile": "C/D",
-    "email3": false
+    "email3": false,
+    "date1": "2026-11-27"
   },
   {
     "name": "Dinho's",
@@ -9303,10 +9341,11 @@
     "phone": "11 3016-5333/ 98360.8257",
     "template": "consultivo",
     "website": "",
-    "email1": false,
+    "email1": true,
     "email2": false,
     "targetProfile": "C/D",
-    "email3": false
+    "email3": false,
+    "date1": "2026-11-27"
   },
   {
     "name": "Doce de Laura",
@@ -9318,10 +9357,11 @@
     "phone": "11 3811-9669 /  (11) 99947-3056  LUIZA",
     "template": "consultivo",
     "website": "",
-    "email1": false,
+    "email1": true,
     "email2": false,
     "targetProfile": "C/D",
-    "email3": false
+    "email3": false,
+    "date1": "2026-11-27"
   },
   {
     "name": "Doce Pecado",
@@ -9333,10 +9373,11 @@
     "phone": "11 2976-1282 / 11 98954-3172",
     "template": "prova_social",
     "website": "",
-    "email1": false,
+    "email1": true,
     "email2": false,
     "targetProfile": "C/D",
-    "email3": false
+    "email3": false,
+    "date1": "2026-11-27"
   },
   {
     "name": "Doceria Del├â┬¡cia",
@@ -9393,10 +9434,11 @@
     "phone": "11 2892-1688",
     "template": "consultivo",
     "website": "",
-    "email1": false,
+    "email1": true,
     "email2": false,
     "targetProfile": "C/D",
-    "email3": false
+    "email3": false,
+    "date1": "2026-11-27"
   },
   {
     "name": "Espetto Carioca",
@@ -9408,10 +9450,11 @@
     "phone": "11 3081-6081 /  11-94180-1497",
     "template": "consultivo",
     "website": "",
-    "email1": false,
+    "email1": true,
     "email2": false,
     "targetProfile": "C/D",
-    "email3": false
+    "email3": false,
+    "date1": "2026-11-27"
   },
   {
     "name": "Empanadas Bar",
@@ -9423,10 +9466,11 @@
     "phone": "11 3032-2116  / 11 996158281 ROBSON",
     "template": "pergunta",
     "website": "",
-    "email1": false,
+    "email1": true,
     "email2": false,
     "targetProfile": "C/D",
-    "email3": false
+    "email3": false,
+    "date1": "2026-11-27"
   },
   {
     "name": "Fioretta Doceria",
@@ -9438,10 +9482,11 @@
     "phone": "11) 3284-0645 / 3284-8390 / 3253-3019 / (11) 98393-0206",
     "template": "prova_social",
     "website": "",
-    "email1": false,
+    "email1": true,
     "email2": false,
     "targetProfile": "C/D",
-    "email3": false
+    "email3": false,
+    "date1": "2026-11-27"
   },
   {
     "name": "GAMELA",
@@ -9468,10 +9513,11 @@
     "phone": "11 5035-7100 / 50357110 / 50357117",
     "template": "prova_social",
     "website": "",
-    "email1": false,
+    "email1": true,
     "email2": false,
     "targetProfile": "C/D",
-    "email3": false
+    "email3": false,
+    "date1": "2026-11-27"
   },
   {
     "name": "GOLDEN PLAZA CHINESE RESTAURANTE",
@@ -9483,10 +9529,11 @@
     "phone": "11 37587334",
     "template": "prova_social",
     "website": "",
-    "email1": false,
+    "email1": true,
     "email2": false,
     "targetProfile": "C/D",
-    "email3": false
+    "email3": false,
+    "date1": "2026-11-27"
   },
   {
     "name": "Hou Culin├â┬íria Chinesa",
@@ -9498,10 +9545,11 @@
     "phone": "11 2976 2559 / 29731595",
     "template": "pergunta",
     "website": "",
-    "email1": false,
+    "email1": true,
     "email2": false,
     "targetProfile": "C/D",
-    "email3": false
+    "email3": false,
+    "date1": "2026-11-27"
   },
   {
     "name": "La Paella Express",
@@ -9513,10 +9561,11 @@
     "phone": "11 2893-4180 / 981674109 JULIA",
     "template": "prova_social",
     "website": "",
-    "email1": false,
+    "email1": true,
     "email2": false,
     "targetProfile": "C/D",
-    "email3": false
+    "email3": false,
+    "date1": "2026-11-27"
   },
   {
     "name": "Lagoa Tropical",
@@ -9573,10 +9622,11 @@
     "phone": "3221-2699/3331-0089",
     "template": "prova_social",
     "website": "",
-    "email1": false,
+    "email1": true,
     "email2": false,
     "targetProfile": "C/D",
-    "email3": false
+    "email3": false,
+    "date1": "2026-11-27"
   },
   {
     "name": "PARRILLA ARGENTINA",
@@ -9603,10 +9653,11 @@
     "phone": "11 4436-4930 / 4436-2112",
     "template": "prova_social",
     "website": "",
-    "email1": false,
+    "email1": true,
     "email2": false,
     "targetProfile": "C/D",
-    "email3": false
+    "email3": false,
+    "date1": "2026-11-27"
   },
   {
     "name": "Rep├â┬║blica Gastron├â┬┤mica",
@@ -9648,10 +9699,11 @@
     "phone": "11 5536-4982",
     "template": "consultivo",
     "website": "",
-    "email1": false,
+    "email1": true,
     "email2": false,
     "targetProfile": "C/D",
-    "email3": false
+    "email3": false,
+    "date1": "2026-11-27"
   },
   {
     "name": "SEOK JOUNG",
@@ -9726,10 +9778,11 @@
     "phone": "11 3277-6276 / 11 97648-6671 whats da loja",
     "template": "pergunta",
     "website": "",
-    "email1": false,
+    "email1": true,
     "email2": false,
     "targetProfile": "C/D",
-    "email3": false
+    "email3": false,
+    "date1": "2026-11-27"
   },
   {
     "name": "Vila das Meninas",
@@ -9741,10 +9794,11 @@
     "phone": "11 2364-2122 /  95607-5612 (Whatsapp)",
     "template": "prova_social",
     "website": "",
-    "email1": false,
+    "email1": true,
     "email2": false,
     "targetProfile": "C/D",
-    "email3": false
+    "email3": false,
+    "date1": "2026-11-27"
   },
   {
     "name": "NB Steak",
@@ -9756,10 +9810,11 @@
     "phone": "3031-1204",
     "template": "consultivo",
     "website": "",
-    "email1": false,
+    "email1": true,
     "email2": false,
     "targetProfile": "C/D",
-    "email3": false
+    "email3": false,
+    "date1": "2026-11-27"
   },
   {
     "name": "TAQUER├â┬ìA LA SABROSA",
@@ -9771,10 +9826,11 @@
     "phone": "2925-6189",
     "template": "prova_social",
     "website": "",
-    "email1": false,
+    "email1": true,
     "email2": false,
     "targetProfile": "C/D",
-    "email3": false
+    "email3": false,
+    "date1": "2026-11-27"
   },
   {
     "name": "FUTURO REFEIT├â┬ôRIO",
@@ -9786,10 +9842,11 @@
     "phone": "3085-5885",
     "template": "consultivo",
     "website": "",
-    "email1": false,
+    "email1": true,
     "email2": false,
     "targetProfile": "C/D",
-    "email3": false
+    "email3": false,
+    "date1": "2026-11-27"
   },
   {
     "name": "MESTRE QUEIJEIRO",
@@ -9801,10 +9858,11 @@
     "phone": "(11) 2369-1087 / 11 932841226",
     "template": "prova_social",
     "website": "",
-    "email1": false,
+    "email1": true,
     "email2": false,
     "targetProfile": "C/D",
-    "email3": false
+    "email3": false,
+    "date1": "2026-11-27"
   },
   {
     "name": "ENOSTERIA VINO E CUCINA",
@@ -9816,10 +9874,11 @@
     "phone": "2774-1710 / (11) 98932-3602 delivery",
     "template": "prova_social",
     "website": "",
-    "email1": false,
+    "email1": true,
     "email2": false,
     "targetProfile": "C/D",
-    "email3": false
+    "email3": false,
+    "date1": "2026-11-27"
   },
   {
     "name": "VECCHIO TORINO",
@@ -9846,10 +9905,11 @@
     "phone": "3032-0963 /  (11) 2163-9500",
     "template": "consultivo",
     "website": "",
-    "email1": false,
+    "email1": true,
     "email2": false,
     "targetProfile": "C/D",
-    "email3": false
+    "email3": false,
+    "date1": "2026-11-27"
   },
   {
     "name": "KEZ BAGEL & CAF├â┬ë",
@@ -9861,10 +9921,11 @@
     "phone": "2589-3198",
     "template": "pergunta",
     "website": "",
-    "email1": false,
+    "email1": true,
     "email2": false,
     "targetProfile": "C/D",
-    "email3": false
+    "email3": false,
+    "date1": "2026-11-27"
   },
   {
     "name": "MARIA CRISTINA DOCES",
@@ -9891,10 +9952,11 @@
     "phone": "3078 7367 / 3044 1914 / 30731292 EDINEIA E CRISTIANO",
     "template": "prova_social",
     "website": "",
-    "email1": false,
+    "email1": true,
     "email2": false,
     "targetProfile": "C/D",
-    "email3": false
+    "email3": false,
+    "date1": "2026-11-27"
   },
   {
     "name": "VARAL 87",
@@ -9921,9 +9983,10 @@
     "phone": "3064-6570 / (11) 93431-5660 DA UNID",
     "template": "prova_social",
     "website": "",
-    "email1": false,
+    "email1": true,
     "email2": false,
-    "targetProfile": "C/D"
+    "targetProfile": "C/D",
+    "date1": "2026-11-27"
   },
   {
     "name": "Gallette Chocolates",
@@ -9935,9 +9998,10 @@
     "phone": "11 2233 2726 / 981093640",
     "template": "consultivo",
     "website": "",
-    "email1": false,
+    "email1": true,
     "email2": false,
-    "targetProfile": "C/D"
+    "targetProfile": "C/D",
+    "date1": "2026-11-27"
   },
   {
     "name": "PISSANI",
@@ -9949,9 +10013,10 @@
     "phone": "3081-6847",
     "template": "prova_social",
     "website": "",
-    "email1": false,
+    "email1": true,
     "email2": false,
-    "targetProfile": "C/D"
+    "targetProfile": "C/D",
+    "date1": "2026-11-27"
   },
   {
     "name": "PET├â┬ì GASTRONOMIA",
@@ -9963,9 +10028,10 @@
     "phone": "3873-0099 / (11) 98508-2186",
     "template": "consultivo",
     "website": "",
-    "email1": false,
+    "email1": true,
     "email2": false,
-    "targetProfile": "C/D"
+    "targetProfile": "C/D",
+    "date1": "2026-11-27"
   },
   {
     "name": "PHO.366",
@@ -9991,9 +10057,10 @@
     "phone": "11 3885-9470 /  11 3052 4380 / 937034577 LAKE",
     "template": "consultivo",
     "website": "",
-    "email1": false,
+    "email1": true,
     "email2": false,
-    "targetProfile": "C/D"
+    "targetProfile": "C/D",
+    "date1": "2026-11-27"
   },
   {
     "name": "Pasquale",
@@ -10005,9 +10072,10 @@
     "phone": "30810333 / 30816543",
     "template": "prova_social",
     "website": "",
-    "email1": false,
+    "email1": true,
     "email2": false,
-    "targetProfile": "C/D"
+    "targetProfile": "C/D",
+    "date1": "2026-11-27"
   },
   {
     "name": "FOTI├â┬ü",
@@ -10061,9 +10129,10 @@
     "phone": "11 3081 7204 / 99902 8423",
     "template": "pergunta",
     "website": "",
-    "email1": false,
+    "email1": true,
     "email2": false,
-    "targetProfile": "C/D"
+    "targetProfile": "C/D",
+    "date1": "2026-11-27"
   },
   {
     "name": "PICCOLO",
@@ -10075,9 +10144,10 @@
     "phone": "3360-7718 / 3576-3200 / 3576- 7200 DIRETO MKT LUCILENE",
     "template": "prova_social",
     "website": "",
-    "email1": false,
+    "email1": true,
     "email2": false,
-    "targetProfile": "C/D"
+    "targetProfile": "C/D",
+    "date1": "2026-11-27"
   },
   {
     "name": "PI├â┬Ö",
@@ -10089,9 +10159,10 @@
     "phone": "(11) 3360-7718 / 3576-7200 DIRETO MKT LUCILENE",
     "template": "prova_social",
     "website": "",
-    "email1": false,
+    "email1": true,
     "email2": false,
-    "targetProfile": "C/D"
+    "targetProfile": "C/D",
+    "date1": "2026-11-27"
   },
   {
     "name": "AMAZO COZINHA PERUANA",
@@ -10145,9 +10216,10 @@
     "phone": "4420-8070 / 998598526",
     "template": "consultivo",
     "website": "",
-    "email1": false,
+    "email1": true,
     "email2": false,
-    "targetProfile": "C/D"
+    "targetProfile": "C/D",
+    "date1": "2026-11-27"
   },
   {
     "name": "PISELLI",
@@ -10159,9 +10231,10 @@
     "phone": "3081-6043 / 3031-5404",
     "template": "pergunta",
     "website": "",
-    "email1": false,
+    "email1": true,
     "email2": false,
-    "targetProfile": "C/D"
+    "targetProfile": "C/D",
+    "date1": "2026-11-27"
   },
   {
     "name": "MESTI├â┬çO CHOCOLATES",
@@ -10173,9 +10246,10 @@
     "phone": "11 3457-7000",
     "template": "consultivo",
     "website": "",
-    "email1": false,
+    "email1": true,
     "email2": false,
-    "targetProfile": "C/D"
+    "targetProfile": "C/D",
+    "date1": "2026-11-27"
   },
   {
     "name": "PASTIF├â┬ìCIO PRIMO",
@@ -10187,9 +10261,10 @@
     "phone": "3881-9080 / 94791-4286",
     "template": "consultivo",
     "website": "",
-    "email1": false,
+    "email1": true,
     "email2": false,
-    "targetProfile": "C/D"
+    "targetProfile": "C/D",
+    "date1": "2026-11-27"
   },
   {
     "name": "CAF├â┬ë HABITUAL",
@@ -10215,9 +10290,10 @@
     "phone": "11 3842-7177/ 3846-6720  / 93070-3418",
     "template": "pergunta",
     "website": "",
-    "email1": false,
+    "email1": true,
     "email2": false,
-    "targetProfile": "C/D"
+    "targetProfile": "C/D",
+    "date1": "2026-11-27"
   },
   {
     "name": "PURANA.CO",
@@ -10229,9 +10305,10 @@
     "phone": "976227171 / 1196640-7074 / 982222473 GABRIEL",
     "template": "consultivo",
     "website": "",
-    "email1": false,
+    "email1": true,
     "email2": false,
-    "targetProfile": "C/D"
+    "targetProfile": "C/D",
+    "date1": "2026-11-27"
   },
   {
     "name": "LA PERGOLETTA",
@@ -10243,9 +10320,10 @@
     "phone": "2092-3330 TATUAPE/ 2158-1957 E 3079-0848 ITAIM/ 5041-9055 CAMPO BELO",
     "template": "pergunta",
     "website": "",
-    "email1": false,
+    "email1": true,
     "email2": false,
-    "targetProfile": "C/D"
+    "targetProfile": "C/D",
+    "date1": "2026-11-27"
   },
   {
     "name": "TASCA DA ESQUINA",
@@ -10285,9 +10363,10 @@
     "phone": "3673-3448 / 3868-5503 DIRETO",
     "template": "consultivo",
     "website": "",
-    "email1": false,
+    "email1": true,
     "email2": false,
-    "targetProfile": "C/D"
+    "targetProfile": "C/D",
+    "date1": "2026-11-27"
   },
   {
     "name": "EMP├â┬ôRIO NORDESTINO",
@@ -10299,9 +10378,10 @@
     "phone": "11 3931-3101 /  97272-4513  delivery",
     "template": "prova_social",
     "website": "",
-    "email1": false,
+    "email1": true,
     "email2": false,
-    "targetProfile": "C/D"
+    "targetProfile": "C/D",
+    "date1": "2026-11-27"
   },
   {
     "name": "TAHIN",
@@ -10313,9 +10393,10 @@
     "phone": "11 3034-2590/ 1197292-1313 MARCELA",
     "template": "prova_social",
     "website": "",
-    "email1": false,
+    "email1": true,
     "email2": false,
-    "targetProfile": "C/D"
+    "targetProfile": "C/D",
+    "date1": "2026-11-27"
   },
   {
     "name": "Prazeres Da Gula",
@@ -10341,9 +10422,10 @@
     "phone": "11 3088-4920 / 3064-4094",
     "template": "prova_social",
     "website": "",
-    "email1": false,
+    "email1": true,
     "email2": false,
-    "targetProfile": "C/D"
+    "targetProfile": "C/D",
+    "date1": "2026-11-27"
   },
   {
     "name": "QUINTA DE SANTA MARIA",
@@ -10355,9 +10437,10 @@
     "phone": "3022-2499 /  11 99672-0846",
     "template": "prova_social",
     "website": "",
-    "email1": false,
+    "email1": true,
     "email2": false,
-    "targetProfile": "C/D"
+    "targetProfile": "C/D",
+    "date1": "2026-11-27"
   },
   {
     "name": "FLORINA",
@@ -10369,9 +10452,10 @@
     "phone": "5041-5740/ 11 99241-2336 CRISTINA",
     "template": "pergunta",
     "website": "",
-    "email1": false,
+    "email1": true,
     "email2": false,
-    "targetProfile": "C/D"
+    "targetProfile": "C/D",
+    "date1": "2026-11-27"
   },
   {
     "name": "ROPERTO",
@@ -13562,7 +13646,10 @@
     "website": "",
     "email1": false,
     "email2": false,
-    "targetProfile": "C/D"
+    "targetProfile": "C/D",
+    "invalidEmail": true,
+    "invalidEmailReason": "domain_without_mx",
+    "invalidEmailDate": "2026-11-27"
   },
   {
     "name": "BRUTTUS BURGER",
@@ -16590,7 +16677,10 @@
     "template": "prova_social",
     "website": "",
     "email1": false,
-    "targetProfile": "C/D"
+    "targetProfile": "C/D",
+    "invalidEmail": true,
+    "invalidEmailReason": "domain_without_mx",
+    "invalidEmailDate": "2026-11-27"
   },
   {
     "name": "Bo├î┬üsforo",
@@ -16925,7 +17015,10 @@
     "template": "consultivo",
     "website": "",
     "email1": false,
-    "targetProfile": "C/D"
+    "targetProfile": "C/D",
+    "invalidEmail": true,
+    "invalidEmailReason": "domain_without_mx",
+    "invalidEmailDate": "2026-11-27"
   },
   {
     "name": "Columbia Burger",
