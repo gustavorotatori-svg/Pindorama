@@ -1,12 +1,12 @@
 {
-  "lastUpdate": "2026-11-27T21:00:30.395Z",
+  "lastUpdate": "2026-11-28T07:28:35.607Z",
   "sinceDate": "2026-08-02",
   "totalLeads": 4066,
   "emails": {
-    "email1": 1455,
+    "email1": 1539,
     "email2": 66,
     "email3": 0,
-    "total": 1521
+    "total": 1605
   },
   "whatsapp": {
     "today": 0,
@@ -15,10 +15,6 @@
   "responses": 8,
   "pending": 543,
   "daily": [
-    {
-      "date": "2026-10-29",
-      "count": 0
-    },
     {
       "date": "2026-10-30",
       "count": 100
@@ -133,6 +129,10 @@
     },
     {
       "date": "2026-11-27",
+      "count": 84
+    },
+    {
+      "date": "2026-11-28",
       "count": 0
     }
   ],
@@ -160,10 +160,10 @@
     },
     {
       "month": "2026-11",
-      "email1": 1350,
+      "email1": 1434,
       "email2": 65,
       "email3": 0,
-      "total": 1415
+      "total": 1499
     }
   ],
   "topNeighborhoods": [
@@ -218,146 +218,134 @@
   ],
   "recentLeads": [
     {
-      "name": "Bar Alto",
+      "name": "Dona Vitamina",
       "type": "restaurante",
-      "neighborhood": "Alto de Pinheiros",
       "responded": false,
       "email1": true,
-      "date1": "2026-11-26"
+      "date1": "2026-11-27"
     },
     {
-      "name": "Trash 80s Vila Ol├¡mpia",
-      "type": "balada",
-      "neighborhood": "Vila Ol├¡mpia",
+      "name": "DUAS TEREZAS",
+      "type": "restaurante",
       "responded": false,
       "email1": true,
-      "date1": "2026-11-26"
+      "date1": "2026-11-27"
     },
     {
-      "name": "Cacha├ºaria Maria Eunice",
-      "type": "bar",
-      "neighborhood": "Vila Guilherme",
+      "name": "DUE CUOCHI CUCINA",
+      "type": "restaurante",
       "responded": false,
       "email1": true,
-      "date1": "2026-11-26"
+      "date1": "2026-11-27"
     },
     {
-      "name": "Aureliano's Bar",
-      "type": "bar",
-      "neighborhood": "Santana",
+      "name": "Danielle Andrade Sweet & Cake",
+      "type": "restaurante",
       "responded": false,
       "email1": true,
-      "date1": "2026-11-26"
+      "date1": "2026-11-27"
     },
     {
-      "name": "Santa Parada",
-      "type": "bar",
-      "neighborhood": "Santana",
+      "name": "Fleur de Sucre P├â┬ótisserie",
+      "type": "restaurante",
       "responded": false,
       "email1": true,
-      "date1": "2026-11-26"
+      "date1": "2026-11-27"
     },
     {
-      "name": "Bar Penha Lapa",
-      "type": "bar",
-      "neighborhood": "Planalto Paulista",
+      "name": "IL BARISTA CAF├â┬ëS ESPECIAIS",
+      "type": "restaurante",
       "responded": false,
       "email1": true,
-      "date1": "2026-11-26"
+      "date1": "2026-11-27"
     },
     {
-      "name": "Itapura Bar",
-      "type": "bar",
-      "neighborhood": "Tatuap├®",
+      "name": "INSALATA",
+      "type": "restaurante",
       "responded": false,
       "email1": true,
-      "date1": "2026-11-26"
+      "date1": "2026-11-27"
     },
     {
-      "name": "Gorilas Bar",
-      "type": "bar",
-      "neighborhood": "Tatuap├®",
+      "name": "L'amiti├â┬® Bistrot Parisiense",
+      "type": "restaurante",
       "responded": false,
       "email1": true,
-      "date1": "2026-11-26"
+      "date1": "2026-11-27"
     },
     {
-      "name": "Boteco do Parque",
-      "type": "bar",
-      "neighborhood": "Aclima├º├úo",
+      "name": "La Piadina Cucina Italiana",
+      "type": "restaurante",
       "responded": false,
       "email1": true,
-      "date1": "2026-11-26"
+      "date1": "2026-11-27"
     },
     {
-      "name": "Espa├ºo Ferrovia",
-      "type": "bar",
-      "neighborhood": "Mooca",
+      "name": "MAULI BOWLS",
+      "type": "restaurante",
       "responded": false,
       "email1": true,
-      "date1": "2026-11-26"
+      "date1": "2026-11-27"
     },
     {
-      "name": "Point 46",
-      "type": "bar",
-      "neighborhood": "Mooca",
+      "name": "Quintal do Espeto",
+      "type": "restaurante",
       "responded": false,
       "email1": true,
-      "date1": "2026-11-26"
+      "date1": "2026-11-27"
     },
     {
-      "name": "Hangar Mooca Karaok├¬",
-      "type": "bar",
-      "neighborhood": "Mooca",
+      "name": "Tartuferia San Paolo",
+      "type": "restaurante",
       "responded": false,
       "email1": true,
-      "date1": "2026-11-26"
+      "date1": "2026-11-27"
     }
   ],
   "funnel": {
     "leads": 4066,
-    "email1": 1455,
+    "email1": 1539,
     "email2": 66,
     "email3": 0,
     "responded": 8
   },
   "week": {
-    "leads": 409,
+    "leads": 393,
     "emails": {
-      "email1": 409,
-      "email2": 20,
+      "email1": 393,
+      "email2": 0,
       "email3": 0,
-      "total": 429,
+      "total": 393,
       "responses": 0
     }
   },
   "month": {
-    "leads": 1350,
+    "leads": 1434,
     "emails": {
-      "email1": 1350,
+      "email1": 1434,
       "email2": 65,
       "email3": 0,
-      "total": 1415,
+      "total": 1499,
       "responses": 2
     }
   },
   "year": {
-    "leads": 1456,
+    "leads": 1540,
     "emails": {
-      "email1": 1455,
+      "email1": 1539,
       "email2": 66,
       "email3": 0,
-      "total": 1521,
+      "total": 1605,
       "responses": 8
     }
   },
   "sinceBeginning": {
     "leads": 4066,
     "emails": {
-      "email1": 1455,
+      "email1": 1539,
       "email2": 66,
       "email3": 0,
-      "total": 1521
+      "total": 1605
     },
     "responses": 8,
     "whatsapp": 262,
@@ -367,7 +355,7 @@
     {
       "name": "restaurante",
       "total": 2139,
-      "email1": 341,
+      "email1": 425,
       "responded": 0
     },
     {
